@@ -250,5 +250,5 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc0OTI1Nl19
+eyJoaXN0b3J5IjpbLTExNjIxNjk3MF19
 -->
