@@ -122,6 +122,19 @@ Here are some quick tips:
 * When you Ban a character, you can name any number you want. Even a million bazillion. Try it, it’s fun! 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
+## Emma Frost (SC)
+Set: H.A.M.M.E.R.
+
+When Emma transforms via
+Fluid Forms and Fidelity, the
+card that used to be in play is
+removed from the game. When
+she transforms, she keeps her
+orientation (ready/exhausted,
+face-up/face-down), all of
+her counters, and any effects
+on her.
+
 ## Evil Deadpool
 Set: Deadpool & Friends
 Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect). 
@@ -190,16 +203,8 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 ## Mister X
 Set: H.A.M.M.E.R.
 ** I Can Predict Your Every Move **
-I Can Predict Your Every Move
-can temporarily reduce the
-ATK/DEF of a character while in
-solo combat with Mister X.
-For example, if a character
-with a printed ATK/DEF of 4/4
-has three +1/+1 counters it is
-currently 7/7. However, while in
-solo combat with Mister X, its
-ATK/DEF counts as 4/4.
+I Can Predict Your Every Move can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X. For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
+currently 7/7. However, while in solo combat with Mister X, its ATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
 Set: A-Force
@@ -310,7 +315,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMT
-Q0NDA0NjA4OCwtNTkwNjIzNTMyLDU5OTQ5ODEwNCwtMTQyMDA2
-OTYxNiwyMDc3MTM0NDY2XX0=
+eyJoaXN0b3J5IjpbNDEwOTg3NDE1LC0xODkwODI3MDI3LC0xND
+E1MzY0OTU5LDE0NDQwNDYwODgsLTU5MDYyMzUzMiw1OTk0OTgx
+MDQsLTE0MjAwNjk2MTYsMjA3NzEzNDQ2Nl19
 -->
