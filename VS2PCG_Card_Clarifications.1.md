@@ -67,10 +67,10 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 ## Bullseye (MC)
 Set: H.A.M.M.E.R.
 **Perfect Aim**
-When Bullseye uses **Perfect Aim** it will give him ATK until it’s equalto the defender’s DEF. But if theDefender gains or loses DEF laterin the combat, that won’t affectBullseye’s ATK.
+When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
 
 **Everything’s a Weapon**
-With **Everything’s a Weapon**, you’llput the top card ofyour deck into yourKO pile before youchoose which enemycharacter toapply theeffect to.
+With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
 
 
@@ -237,6 +237,15 @@ Set: Brotherhood of Mutants
 **Terrifying Delusions**
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
+## Scourge
+Set: H.A.M.M.E.R.
+Betsy’s Incendiary Missiles lets
+you Burn a character. This means
+“At the end of each of your turns,
+stun that character.” A Burn effect
+has no set duration – it will last
+until the burning character
+leaves play.
 
 
 ## Shadow King
@@ -292,6 +301,6 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0Mj
-AwNjk2MTZdfQ==
+eyJoaXN0b3J5IjpbMjA0NjM5Mzc0MywxNDQ0MDQ2MDg4LDU5OT
+Q5ODEwNCwtMTQyMDA2OTYxNl19
 -->
