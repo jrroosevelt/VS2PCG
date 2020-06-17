@@ -144,6 +144,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Bag of Tricks**
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
+
 ## Ironheart
 Set: Crossover
 **We’re All Weirdos Here**
@@ -294,7 +295,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTYxNzkxOSwxNDQ0MDQ2MDg4LC01OT
-A2MjM1MzIsNTk5NDk4MTA0LC0xNDIwMDY5NjE2LDIwNzcxMzQ0
-NjZdfQ==
+eyJoaXN0b3J5IjpbNjM1NTk5MzEzLDE0NDQwNDYwODgsLTU5MD
+YyMzUzMiw1OTk0OTgxMDQsLTE0MjAwNjk2MTYsMjA3NzEzNDQ2
+Nl19
 -->
