@@ -69,19 +69,10 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 ## Bullseye (MC)
 Set: H.A.M.M.E.R.
 **Perfect Aim**
-When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal
-to the defender’s DEF. But if the
-Defender gains or loses DEF later
-in the combat, that won’t affect
-Bullseye’s ATK.
-With Everything’s a Weapon, you’ll
-put the top card of
-your deck into your
-KO pile before you
-choose which enemy
-character to
-apply the
-effect to.
+When Bullseye uses **Perfect Aim** it will give him ATK until it’s equalto the defender’s DEF. But if theDefender gains or loses DEF laterin the combat, that won’t affectBullseye’s ATK.
+
+**Everything’s a Weapon**
+With **Everything’s a Weapon**, you’llput the top card ofyour deck into yourKO pile before youchoose which enemycharacter toapply theeffect to.
 
 
 
@@ -308,5 +299,5 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzEzNDQ2NiwxMDUwOTQxNTc2XX0=
+eyJoaXN0b3J5IjpbMTE3MjgyOTI4MiwyMDc3MTM0NDY2XX0=
 -->
