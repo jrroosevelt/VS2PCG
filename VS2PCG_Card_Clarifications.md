@@ -28,11 +28,6 @@ Set: Brotherhood of Mutants
 **Sustained Seismic Waves**
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
-**
-
-
-**
-
 ## Blob (MC)
 Set: Crossover
 **Boing**
@@ -58,6 +53,23 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.
 * **Isn’t that kind of stupid?** Play faster next time.
 * **I feel like you’re not taking this seriously.** That’s not a question.
+
+## Bullseye (MC)
+Set: H.A.M.M.E.R.
+**Perfect Aim**
+When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal
+to the defender’s DEF. But if the
+Defender gains or loses DEF later
+in the combat, that won’t affect
+Bullseye’s ATK.
+With Everything’s a Weapon, you’ll
+put the top card of
+your deck into your
+KO pile before you
+choose which enemy
+character to
+apply the
+effect to.
 
 
 ## Chimichanga
@@ -250,5 +262,5 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIxNjk3MF19
+eyJoaXN0b3J5IjpbMTA1MDk0MTU3Nl19
 -->
