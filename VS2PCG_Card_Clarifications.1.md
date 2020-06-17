@@ -124,16 +124,9 @@ Here are some quick tips:
 
 ## Emma Frost (SC)
 Set: H.A.M.M.E.R.
-Emma Frost
-When Emma transforms via
-Fluid Forms and Fidelity, the
-card that used to be in play is
-removed from the game. When
-she transforms, she keeps her
-orientation (ready/exhausted,
-face-up/face-down), all of
-her counters, and any effects
-on her.
+**Fluid Forms and Fidelity**
+When Emma transforms via Fluid Forms and Fidelity, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of
+her counters, and any effects on her.
 
 ## Evil Deadpool
 Set: Deadpool & Friends
@@ -315,7 +308,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkyMjMyNDEsLTE4OTA4MjcwMjcsLT
-E0MTUzNjQ5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAw
-Njk2MTZdfQ==
+eyJoaXN0b3J5IjpbLTY4OTU2Mzg0NSwtMTg5MDgyNzAyNywtMT
+QxNTM2NDk1OSwxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2
+OTYxNl19
 -->
