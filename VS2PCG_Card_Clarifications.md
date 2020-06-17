@@ -156,15 +156,12 @@ Set: Crossover
 
 ## Juggernaut (MC)
 Set: Brotherhood of Mutants
+**It’s Gonna Take Something More to Stop Me!**
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
-
-
 
 ## Magneto (MC)
 Set: Brotherhood of Mutants
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
-
-
 
 ## Masacre
 Set: Deadpool & Friends
@@ -189,6 +186,20 @@ Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, 
 When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
+
+## Mister X
+Set: H.A.M.M.E.R.
+I Can Predict Your Every Move
+I Can Predict Your Every Move
+can temporarily reduce the
+ATK/DEF of a character while in
+solo combat with Mister X.
+For example, if a character
+with a printed ATK/DEF of 4/4
+has three +1/+1 counters it is
+currently 7/7. However, while in
+solo combat with Mister X, its
+ATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
 Set: A-Force
@@ -299,7 +310,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCwtNT
-kwNjIzNTMyLDU5OTQ5ODEwNCwtMTQyMDA2OTYxNiwyMDc3MTM0
-NDY2XX0=
+eyJoaXN0b3J5IjpbMTAxMzUwNTgyNywtMTQxNTM2NDk1OSwxND
+Q0MDQ2MDg4LC01OTA2MjM1MzIsNTk5NDk4MTA0LC0xNDIwMDY5
+NjE2LDIwNzcxMzQ0NjZdfQ==
 -->
