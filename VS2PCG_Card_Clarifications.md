@@ -54,8 +54,6 @@ Blob’s Stuck in His Stomach power represents a melee attacker getting temporar
 **Bounced Off His Belly**
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
-
-
 ## Break the Fourth Wall
 Set: Deadpool & Friends
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
@@ -299,5 +297,5 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjgyOTI4MiwyMDc3MTM0NDY2XX0=
+eyJoaXN0b3J5IjpbLTE0MjAwNjk2MTYsMjA3NzEzNDQ2Nl19
 -->
