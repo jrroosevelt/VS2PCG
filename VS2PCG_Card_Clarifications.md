@@ -239,14 +239,9 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 
 ## Scourge
 Set: H.A.M.M.E.R.
-Betsy’s Incendiary Missiles lets
-you Burn a character. This means
-“At the end of each of your turns,
-stun that character.” A Burn effect
-has no set duration – it will last
-until the burning character
+**Betsy’s Incendiary Missiles**
+**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character
 leaves play.
-
 
 ## Shadow King
 Set: Brotherhood of Mutants
@@ -301,7 +296,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjM5Mzc0MywxNDQ0MDQ2MDg4LC01OT
-A2MjM1MzIsNTk5NDk4MTA0LC0xNDIwMDY5NjE2LDIwNzcxMzQ0
-NjZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTA4MDI1OTcsMTQ0NDA0NjA4OCwtNT
+kwNjIzNTMyLDU5OTQ5ODEwNCwtMTQyMDA2OTYxNiwyMDc3MTM0
+NDY2XX0=
 -->
