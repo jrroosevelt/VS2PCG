@@ -198,8 +198,8 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 ## Mister X
 Set: H.A.M.M.E.R.
 ** I Can Predict Your Every Move **
-I Can Predict Your Every Move can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X. For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
-currently 7/7. However, while in solo combat with Mister X, its ATK/DEF counts as 4/4.
+I Can Predict Your Every Movecan temporarily reduce theATK/DEF of a character while insolo combat with Mister X.For example, if a characterwith a printed ATK/DEF of 4/4has three +1/+1 counters it is
+currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
 Set: A-Force
@@ -310,7 +310,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMT
-QxNTM2NDk1OSwxNDQ0MDQ2MDg4LC01OTA2MjM1MzIsNTk5NDk4
-MTA0LC0xNDIwMDY5NjE2LDIwNzcxMzQ0NjZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OT
+A4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCwtNTkwNjIz
+NTMyLDU5OTQ5ODEwNCwtMTQyMDA2OTYxNiwyMDc3MTM0NDY2XX
+0=
 -->
