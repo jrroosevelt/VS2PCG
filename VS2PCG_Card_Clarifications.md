@@ -16,8 +16,7 @@ Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the 
 
 ## Alcatraz
 **It's a Prison**
-When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes
-back to.
+When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 ## Arnim Zola (MC)
 Set: Crossover
@@ -311,7 +310,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MTI4LC0xODkwODI3MDI3LC0xNDE1Mz
-Y0OTU5LDE0NDQwNDYwODgsLTU5MDYyMzUzMiw1OTk0OTgxMDQs
-LTE0MjAwNjk2MTYsMjA3NzEzNDQ2Nl19
+eyJoaXN0b3J5IjpbLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMT
+QxNTM2NDk1OSwxNDQ0MDQ2MDg4LC01OTA2MjM1MzIsNTk5NDk4
+MTA0LC0xNDIwMDY5NjE2LDIwNzcxMzQ0NjZdfQ==
 -->
