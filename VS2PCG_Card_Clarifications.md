@@ -174,19 +174,23 @@ Set: Crossover
 
 ## Mimic (MC)
 Set: H.A.M.M.E.R.
-**** Absorption History ****
-Mimic’s Absorption History
-represents three characters that
-he’s copied powers from.
-
-In
-game
-terms
-it’s a pile that
-includes
-exactly
-three Main
-Character
+**Absorption History**
+Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and theymust have three different names
+(they can’t share a name through
+AKA). For example, you could have
+Cyclops Level 1, Dutch Level 2, and
+Spider-Man Level 3.
+During setup when you reveal Mimic
+as your Main Character, you’ll also
+reveal the Level 1 character in your
+Absorption History. Mimic gains its
+Keyword and Super Powers only
+when the game begins.
+When Mimic becomes Level 2,
+you’ll reveal the Level 2 character
+in your Absorption History. Mimic
+now gains its Keyword and Super
+Powers and loses the powers
 
 
 ## Morgan Le Fay
@@ -296,6 +300,6 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODY1NTk0NCwtMTQyMDA2OTYxNiwyMD
+eyJoaXN0b3J5IjpbLTk1MDIzMTcxNywtMTQyMDA2OTYxNiwyMD
 c3MTM0NDY2XX0=
 -->
