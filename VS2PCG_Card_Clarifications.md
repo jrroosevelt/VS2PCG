@@ -248,8 +248,6 @@ Set: Brotherhood of Mutants
 **Anchor Host**
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
 
-
-
 ## She-Hulk (MC)
 Set: A-Force
 **Rules Lawyer**
@@ -296,7 +294,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA4MDI1OTcsMTQ0NDA0NjA4OCwtNT
-kwNjIzNTMyLDU5OTQ5ODEwNCwtMTQyMDA2OTYxNiwyMDc3MTM0
-NDY2XX0=
+eyJoaXN0b3J5IjpbMTU1NTYxNzkxOSwxNDQ0MDQ2MDg4LC01OT
+A2MjM1MzIsNTk5NDk4MTA0LC0xNDIwMDY5NjE2LDIwNzcxMzQ0
+NjZdfQ==
 -->
