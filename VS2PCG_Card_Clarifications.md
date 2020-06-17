@@ -189,7 +189,7 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 ## Mister X
 Set: H.A.M.M.E.R.
-I Can Predict Your Every Move
+** I Can Predict Your Every Move **
 I Can Predict Your Every Move
 can temporarily reduce the
 ATK/DEF of a character while in
@@ -310,7 +310,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzUwNTgyNywtMTQxNTM2NDk1OSwxND
-Q0MDQ2MDg4LC01OTA2MjM1MzIsNTk5NDk4MTA0LC0xNDIwMDY5
-NjE2LDIwNzcxMzQ0NjZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMT
+Q0NDA0NjA4OCwtNTkwNjIzNTMyLDU5OTQ5ODEwNCwtMTQyMDA2
+OTYxNiwyMDc3MTM0NDY2XX0=
 -->
