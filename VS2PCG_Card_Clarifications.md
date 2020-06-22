@@ -80,6 +80,10 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **Isn’t that kind of stupid?** Play faster next time.
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
+## Bruce Banner (and the Hulk)
+**Set: The MCU Battles**\
+
+
 ## Bullseye (MC)
 Set: H.A.M.M.E.R.\
 **Perfect Aim**\
@@ -361,11 +365,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OT
-E3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0
-NCwtMTE1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOC
-wtNzAxNzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNzk3NCwtNDA4
-NzIxMjY2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC04MDk1MjkxMD
-QsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCwt
-NTkwNjIzNTMyXX0=
+eyJoaXN0b3J5IjpbMTE4MDU1NDk1MiwxOTg0MjI3MzMzLDEyOD
+QyNDE3NSwtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5
+OCwtMjI4Njc0NzQ0LC0xMTU0NzIxNjI0LC0xODQ4Nzk0NDg2LC
+0yMDYxNzMzNDM4LC03MDE3NTc5NzQsNzkzMTEwNjkwLC0xNDM3
+MjA3OTc0LC00MDg3MjEyNjYsMTgzMDA3OTM5MiwtMTg5OTU5OD
+QsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwx
+NDQ0MDQ2MDg4XX0=
 -->
