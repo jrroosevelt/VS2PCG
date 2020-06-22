@@ -3,7 +3,11 @@
 
 
 # Rule insert card clarifications
-The following clarifications are included in the rule inserts that come with the various sets. For additional information, see also:
+The following clarifications are included in the rule inserts that come with the various sets. 
+
+**Note**: There have been some editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or 
+
+For additional information, see also:
 
 * [Rule changes, bans, errata, and clarifications](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
 
@@ -185,8 +189,14 @@ Set: Crossover\
 **We’re All Weirdos Here**\
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
+
 ## Jessica Jones
 Set: Legacy/
+**Psionic Protection**/
+This power refers to (Intellect/Light bulb) super powers.
+This counts for any super power with the appropriate
+symbol in its cost (even if it also has other symbols in
+its cost).
 
 
 ## Juggernaut (MC)
@@ -335,10 +345,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTQ4MTU4OSwtNDU5MTc3MzgzLDIwMz
-EyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0yMDYxNzMz
-NDM4LC03MDE3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcyMTI2Ni
-wtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQx
-NTM2NDk1OSwxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OT
-YxNl19
+eyJoaXN0b3J5IjpbNzQ4MTY2MDY2LC00NTkxNzczODMsMjAzMT
+I1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0
+MzgsLTcwMTc1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC
+0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1
+MzY0OTU5LDE0NDQwNDYwODgsNTk5NDk4MTA0LC0xNDIwMDY5Nj
+E2XX0=
 -->
