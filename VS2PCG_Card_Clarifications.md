@@ -13,7 +13,10 @@ For additional information, see also:
 
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
-
+## Abomination
+Set: MCU Battles\
+**Give Me a Real Fight!**\
+Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
 ## Ajax
 Set: Deadpool & Friends\
@@ -198,7 +201,10 @@ Set: H.A.M.M.E.R.\
 Set: The MCU Battles\
 See Bruce Banner.
 
-## 
+## Hulk (SC)
+Set: The MCU Battles\
+**Hulk Like Raging Fire**\
+Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
 
 ## Ironheart
 Set: Crossover\
@@ -392,11 +398,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzI5NzcwNCwtODA4NzU4MDc0LDExOD
-A1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4
-MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMT
-E1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAx
-NzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMj
-Y2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4
-OTA4MjcwMjddfQ==
+eyJoaXN0b3J5IjpbNTQyNjY0NzI5LC05NzMyOTc3MDQsMTE4MD
+U1NDk1MiwxOTg0MjI3MzMzLDEyODQyNDE3NSwtNDU5MTc3Mzgz
+LDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMT
+U0NzIxNjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3
+NTc5NzQsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00MDg3MjEyNj
+YsMTgzMDA3OTM5MiwtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5
+MDgyNzAyN119
 -->
