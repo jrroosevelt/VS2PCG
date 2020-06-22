@@ -54,18 +54,12 @@ And his Bounced Off His Belly power represents projectiles getting bounced back 
 
 ## Break the Fourth Wall
 Set: Deadpool & Friends\
-This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in.
- 
-* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.
-  
-* **Does this card have different power levels for different players depending on their age?** Yes.
-  
-* **Isn’t that ageist?** Great question. Think about it this way: Yes.
-  
-* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.
-  
+This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
+* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.  
+* **Does this card have different power levels for different players depending on their age?** Yes.  
+* **Isn’t that ageist?** Great question. Think about it this way: Yes.  
+* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.  
 * **Isn’t that kind of stupid?** Play faster next time.
-
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
 ## Bullseye (MC)
@@ -314,10 +308,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTU3ODgyMCwtMTg0ODc5NDQ4NiwtMj
-A2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzExMDY5MCwtMTQzNzIw
-Nzk3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC
-04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0
-NDA0NjA4OCwtNTkwNjIzNTMyLDU5OTQ5ODEwNCwtMTQyMDA2OT
-YxNiwyMDc3MTM0NDY2XX0=
+eyJoaXN0b3J5IjpbLTExNTQ3MjE2MjQsMTYxOTU3ODgyMCwtMT
+g0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzEx
+MDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOT
+IsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0
+MTUzNjQ5NTksMTQ0NDA0NjA4OCwtNTkwNjIzNTMyLDU5OTQ5OD
+EwNCwtMTQyMDA2OTYxNiwyMDc3MTM0NDY2XX0=
 -->
