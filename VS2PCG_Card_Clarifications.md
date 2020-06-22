@@ -259,7 +259,10 @@ Set: Crossover\
 **Carbonadium Tentacles**\
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
-
+## Onslaught
+Set: Legacy\
+**Joint Consciousness**\
+Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
 
 ## Phil Coulson
 Set: Crossover\
@@ -329,7 +332,7 @@ You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t h
 ## Spider-Gwen
 Set: Legacy\
 **Dimensional Wristwatch**\
-Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then
+Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
 
 ## Squirrel Girl
 Set: Legacy\
@@ -358,7 +361,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDI0MTc1LDE2Mjc5NDkzNjcsLTQ1OT
+eyJoaXN0b3J5IjpbMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OT
 E3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0
 NCwtMTE1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOC
 wtNzAxNzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNzk3NCwtNDA4
