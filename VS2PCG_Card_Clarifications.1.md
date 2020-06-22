@@ -173,6 +173,10 @@ Evil Deadpool loves being Evil. That’s why he can grant Evil characters on you
 **It's Like You, But Eviler!**\
 Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
 
+## Falcon
+Set: The MCU Battles\
+Falcon Falcon’s Air Superiority power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
+
 ## Goblin Queen
 Set: A-Force\
 **Token Characters**\
@@ -290,7 +294,10 @@ Set: Crossover\
 **Headlong Charge**\
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
-
+## Rocket
+Set: The MCU Battles\
+**I’m Gonna Need a Few Things**\
+Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
 
 ## Rogue
 Set: A-Force\
@@ -373,10 +380,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkwMzE1NzEsMTE4MDU1NDk1MiwxOT
-g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
-ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
-wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
-NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwND
-YwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbMjQ2NTczOTAyLDExODA1NTQ5NTIsMTk4ND
+IyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5
+OCwtMjI4Njc0NzQ0LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLT
+E0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5ODQsLTgwOTUy
+OTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2MD
+g4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
 -->
