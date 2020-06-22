@@ -10,16 +10,17 @@ The following clarifications are included in the rule inserts that come with the
 
 
 ## Ajax
-Set: Deadpool & Friends
-**Pain Tolerance**
+Set: Deadpool & Friends\
+**Pain Tolerance**\
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
 ## Alcatraz
-**It's a Prison**
-Set: H.A.M.M.E.R.
+**It's a Prison**\
+Set: H.A.M.M.E.R.\
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
+
 ## Arnim Zola (MC)
-Set: Crossover
+Set: Crossover\
 **ESP Box**
 ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
 
@@ -310,8 +311,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDA3OTM5MiwtMTg5OTU5ODQsLTgwOT
-UyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2
-MDg4LC01OTA2MjM1MzIsNTk5NDk4MTA0LC0xNDIwMDY5NjE2LD
-IwNzcxMzQ0NjZdfQ==
+eyJoaXN0b3J5IjpbLTQwODcyMTI2NiwxODMwMDc5MzkyLC0xOD
+k5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0
+OTU5LDE0NDQwNDYwODgsLTU5MDYyMzUzMiw1OTk0OTgxMDQsLT
+E0MjAwNjk2MTYsMjA3NzEzNDQ2Nl19
 -->
