@@ -35,6 +35,11 @@ Set: Brotherhood of Mutants\
 **Sustained Seismic Waves**\
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
+## Baron Mordo (MC)
+Set: Legacy\
+**Hypnotize**\ 
+Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
+
 ## Blob (MC)
 Set: Crossover\
 **Boing**\
@@ -129,6 +134,8 @@ Here are some quick tips:
 * When you Ban a character, you can name any number you want. Even a million bazillion. Try it, it’s fun!
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
+## Elektra (MC)
+
 
 ## Emma Frost (SC)
 Set: H.A.M.M.E.R.\
@@ -313,11 +320,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMj
-g2NzQ3NDQsLTExNTQ3MjE2MjQsLTE4NDg3OTQ0ODYsLTIwNjE3
-MzM0MzgsLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0MzcyMDc5Nz
-QsLTQwODcyMTI2NiwxODMwMDc5MzkyLC0xODk5NTk4NCwtODA5
-NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwND
-YwODgsLTU5MDYyMzUzMiw1OTk0OTgxMDQsLTE0MjAwNjk2MTYs
-MjA3NzEzNDQ2Nl19
+eyJoaXN0b3J5IjpbMjQyNDkyNzc5LDIwMzEyNTQ4MTgsMTExNj
+A4Nzg5OCwtMjI4Njc0NzQ0LC0xMTU0NzIxNjI0LC0xODQ4Nzk0
+NDg2LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsNzkzMTEwNjkwLC
+0xNDM3MjA3OTc0LC00MDg3MjEyNjYsMTgzMDA3OTM5MiwtMTg5
+OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2ND
+k1OSwxNDQ0MDQ2MDg4LC01OTA2MjM1MzIsNTk5NDk4MTA0LC0x
+NDIwMDY5NjE2XX0=
 -->
