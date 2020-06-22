@@ -80,9 +80,9 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **Isn’t that kind of stupid?** Play faster next time.
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
-## Bruce Banner (and the Hulk)
+## Bruce Banner (and the Hulk) (MC)
 **Set: The MCU Battles**\
-
+Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
 ## Bullseye (MC)
 Set: H.A.M.M.E.R.\
@@ -347,7 +347,8 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 Set: Crossover\
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
-
+## Start Lord (MC)
+Set: The MCU Battles\
 
 ## Titania
 Set: A-Force\
@@ -365,10 +366,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDU1NDk1MiwxOTg0MjI3MzMzLC00NT
-kxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3
-NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCwtMTQzNzIwNzk3NC
-wtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkw
-ODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwODgsNTk5NDk4MT
-A0LC0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbNTI0NzQ1NjQ5LDExODA1NTQ5NTIsMTk4ND
+IyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5
+OCwtMjI4Njc0NzQ0LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLT
+E0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5ODQsLTgwOTUy
+OTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2MD
+g4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
 -->
