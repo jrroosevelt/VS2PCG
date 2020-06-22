@@ -5,7 +5,7 @@
 # Rule insert card clarifications
 The following clarifications are included in the rule inserts that come with the various sets. 
 
-**Note**: There have been some editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or 
+**Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rulesheet and do not fundamentally change the intent of the original text.
 
 For additional information, see also:
 
@@ -345,10 +345,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MTY2MDY2LC00NTkxNzczODMsMjAzMT
-I1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0
-MzgsLTcwMTc1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC
-0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1
-MzY0OTU5LDE0NDQwNDYwODgsNTk5NDk4MTA0LC0xNDIwMDY5Nj
-E2XX0=
+eyJoaXN0b3J5IjpbLTE0ODQ4MTU1MDUsLTQ1OTE3NzM4MywyMD
+MxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMjA2MTcz
+MzQzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNj
+YsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0
+MTUzNjQ5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNj
+k2MTZdfQ==
 -->
