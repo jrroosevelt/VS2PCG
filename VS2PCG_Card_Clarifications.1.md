@@ -54,18 +54,12 @@ And his Bounced Off His Belly power represents projectiles getting bounced back 
 
 ## Break the Fourth Wall
 Set: Deadpool & Friends\
-This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in.
- 
-* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.
-  
-* **Does this card have different power levels for different players depending on their age?** Yes.
-  
-* **Isn’t that ageist?** Great question. Think about it this way: Yes.
-  
-* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.
-  
+This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
+* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.  
+* **Does this card have different power levels for different players depending on their age?** Yes.  
+* **Isn’t that ageist?** Great question. Think about it this way: Yes.  
+* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.  
 * **Isn’t that kind of stupid?** Play faster next time.
-
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
 ## Bullseye (MC)
@@ -237,44 +231,44 @@ His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of
 
 ## Pyro
 Set: Brotherhood of Mutants\
-**Fire Manipulation** \
+**Fire Manipulation**
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
 
 
 ## Rhino (SC)
-Set: Crossover \ 
-**Headlong Charge**\  
+Set: Crossover\
+**Headlong Charge**\
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
 
 
 ## Rogue
-Set: A-Force \ 
-**Absorb Powers** \ 
+Set: A-Force\
+**Absorb Powers**\
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
 
 
 
 ## Sauron
-Set: Brotherhood of Mutants\  
-**Terrifying Delusions**\  
+Set: Brotherhood of Mutants\
+**Terrifying Delusions**\
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
 ## Scourge
-Set: H.A.M.M.E.R.\  
-**Betsy’s Incendiary Missiles**\  
+Set: H.A.M.M.E.R.\
+**Betsy’s Incendiary Missiles**\
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character
 leaves play.
 
 ## Shadow King
-Set: Brotherhood of Mutants\  
-**Anchor Host**\  
+Set: Brotherhood of Mutants\
+**Anchor Host**\
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
 
 ## She-Hulk (MC)
-Set: A-Force\  
-**Rules Lawyer**\  
+Set: A-Force\
+**Rules Lawyer**\
 She-Hulk’s main character introduces a new kind of super power called a **Reaction**. It reads: 
 
 
@@ -283,40 +277,43 @@ She-Hulk’s main character introduces a new kind of super power called a **Reac
 
 
 
-Reaction powers trigger when a certain condition is met (in this case it’s “When an enemy player uses a super power”). When that happens you can pay an (and say “Objection” of course) and if you do it cancels the super power so it never takes effect.\  
+Reaction powers trigger when a certain condition is met (in this case it’s “When an enemy player uses a super power”). When that happens you can pay an (and say “Objection” of course) and if you do it cancels the super power so it never takes effect.
+
 You can use a Reaction power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 
 
 ## Sif
-Set: Crossover\  
-You can only recruit her by also paying a Might *(Fist/Green)* . If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)* .
+Set: Crossover\
+You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
 
 
 ## Stand Together
-Set: Crossover\  
+Set: Crossover\
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
 
 
 ## Titania
-Set: A-Force\ 
-**Durable**\  
-Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recovers
-and doesn’t get wounded. However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though
+Set: A-Force\
+**Durable**\
+Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recovers and doesn’t get wounded. 
+
+However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though
 she would recover immediately, getting stunned would still remove her from combat.
 
 
 
 ## Venom (MC)
-Set: Crossover\  
-The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.\
+Set: Crossover\
+The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
+
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTU2MDYsLTIwNjE3MzM0MzgsLTcwMT
-c1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4
-NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LD
-E0NDQwNDYwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbNzUxMTk5ODcwLC0yMDYxNzMzNDM4LC03MD
+E3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5
+ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OS
+wxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
 -->
