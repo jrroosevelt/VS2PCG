@@ -24,7 +24,8 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ## Arnim Zola (MC)
 Set: Crossover\
 **ESP Box**\
-ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). **A New Robot Body**
+ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). \
+**A New Robot Body**\
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 
@@ -53,9 +54,12 @@ And his Bounced Off His Belly power represents projectiles getting bounced back 
 
 ## Break the Fourth Wall
 Set: Deadpool & Friends\
-This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in.\ 
-* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.\  
-* **Does this card have different power levels for different players depending on their age?** Yes.\  
+This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in.
+ 
+* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.
+  
+* **Does this card have different power levels for different players depending on their age?** Yes.
+  
 * **Isn’t that ageist?** Great question. Think about it this way: Yes.\  
 * **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.\  
 * **Isn’t that kind of stupid?** Play faster next time.\
@@ -309,10 +313,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg3OTQ0ODYsLTIwNjE3MzM0MzgsLT
-cwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0MzcyMDc5NzQsLTQwODcy
-MTI2NiwxODMwMDc5MzkyLC0xODk5NTk4NCwtODA5NTI5MTA0LC
-0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwODgsLTU5
-MDYyMzUzMiw1OTk0OTgxMDQsLTE0MjAwNjk2MTYsMjA3NzEzND
-Q2Nl19
+eyJoaXN0b3J5IjpbLTE0NzIwNzMyNzAsLTE4NDg3OTQ0ODYsLT
+IwNjE3MzM0MzgsLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0Mzcy
+MDc5NzQsLTQwODcyMTI2NiwxODMwMDc5MzkyLC0xODk5NTk4NC
+wtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0
+NDQwNDYwODgsLTU5MDYyMzUzMiw1OTk0OTgxMDQsLTE0MjAwNj
+k2MTYsMjA3NzEzNDQ2Nl19
 -->
