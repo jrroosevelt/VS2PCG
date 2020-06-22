@@ -28,7 +28,8 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ## Arnim Zola (MC)
 Set: Crossover\
 **ESP Box**\
-ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). \
+ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
+
 **A New Robot Body**\
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
@@ -45,8 +46,8 @@ Set: Legacy\
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
 ## * Bishop *
-Set: Legacy/
-**Energy Transference**/
+Set: Legacy\
+**Energy Transference**\
 This power refers to (Energy/Atom) super powers.
 This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
@@ -231,12 +232,14 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
 ## Mister Sinister
-Set: Legacy/
+Set: Legacy\
+**Genetic Manipulation**\
+This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play.
 
 
 ## Mister X
-Set: H.A.M.M.E.R./
-**I Can Predict Your Every Move**/
+Set: H.A.M.M.E.R.\
+**I Can Predict Your Every Move**\
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
@@ -326,7 +329,7 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 Set: Crossover\
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
-
+##
 
 ## Stand Together
 Set: Crossover\
@@ -350,7 +353,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTIwMTQ2OCwtNDU5MTc3MzgzLDIwMz
+eyJoaXN0b3J5IjpbLTQzMzY3NjY2OSwtNDU5MTc3MzgzLDIwMz
 EyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMTU0NzIx
 NjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3NTc5Nz
 QsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsMTgz
