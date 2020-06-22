@@ -194,6 +194,12 @@ Set: H.A.M.M.E.R.\
 **Executioner**\
 **Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
 
+## Hulk (MC)
+Set: The MCU Battles\
+See Bruce Banner.
+
+
+
 ## Ironheart
 Set: Crossover\
 **We’re All Weirdos Here**\
@@ -362,7 +368,8 @@ Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance O
 
 ## Star Lord (SC)
 Set: The MCU Battles\
-Star-Lord’s Half Celestial power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
+**Half Celestial**\
+Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 ## Thor (MC)
 Set: The MCU Battles\
@@ -385,10 +392,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc3MzgyNDEsMTE4MDU1NDk1MiwxOT
-g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
-ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
-wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
-NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwND
-YwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbLTQ4MTE4NzU3MCwxMTgwNTU0OTUyLDE5OD
+QyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4
+OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LC
+0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04MDk1
+MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0Nj
+A4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
 -->
