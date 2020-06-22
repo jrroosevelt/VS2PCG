@@ -21,45 +21,41 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 
 ## Arnim Zola (MC)
 Set: Crossover\
-**ESP Box**
+**ESP Box**\
 ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
 
 
 
-**A New Robot Body**
+**A New Robot Body**\
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 
 
 ## Avalanche
-Set: Brotherhood of Mutants
-**Sustained Seismic Waves**
+Set: Brotherhood of Mutants\
+**Sustained Seismic Waves**\
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
-**
-
-
-**
-
 ## Blob (MC)
-Set: Crossover
-**Boing**
-If Blob strikes a character and his Boing! power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
-**Immovable Object**
+Set: Crossover\
+**Boing**\
+If Blob strikes a character and his Boing! power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. \
+
+**Immovable Object**\
 If Blob moves for any reason (including during your Formation Step or because another effect moves him), he will be prevented from gaining an XP. At the end of Blob’s first turn of the game, he will gain an XP if he didn’t move that turn.
 
 
 
 ## Blob (SC)
-Set: Brotherhood of Mutants
-**Stuck in His Stomach**
-Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.) 
-**Bounced Off His Belly**
+Set: Brotherhood of Mutants\
+**Stuck in His Stomach**\
+Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.) \
+**Bounced Off His Belly**\
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
 ## Break the Fourth Wall
-Set: Deadpool & Friends
-This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
+Set: Deadpool & Friends\
+This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in.\ 
 * **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.
 * **Does this card have different power levels for different players depending on their age?** Yes.
 * **Isn’t that ageist?** Great question. Think about it this way: Yes.
@@ -68,11 +64,11 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
 ## Bullseye (MC)
-Set: H.A.M.M.E.R.
-**Perfect Aim**
+Set: H.A.M.M.E.R.\
+**Perfect Aim**\
 When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
 
-**Everything’s a Weapon**
+**Everything’s a Weapon**\
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
 
@@ -311,7 +307,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODcyMTI2NiwtMTg5OTU5ODQsLTgwOT
-UyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2
-MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
+eyJoaXN0b3J5IjpbMTcyNDM3MTU3OCwtNDA4NzIxMjY2LC0xOD
+k5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0
+OTU5LDE0NDQwNDYwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX
+0=
 -->
