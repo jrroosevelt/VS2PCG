@@ -40,6 +40,8 @@ Set: Legacy\
 **Hypnotize**\ 
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
+## * Bishop *
+
 ## Blob (MC)
 Set: Crossover\
 **Boing**\
@@ -323,9 +325,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMT
-YwODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3
-OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC
-04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0
-NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
+eyJoaXN0b3J5IjpbNTczNjU2MTg0LC00NTkxNzczODMsMjAzMT
+I1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0
+MzgsLTcwMTc1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC
+0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1
+MzY0OTU5LDE0NDQwNDYwODgsNTk5NDk4MTA0LC0xNDIwMDY5Nj
+E2XX0=
 -->
