@@ -230,9 +230,14 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
+## Mister Sinister
+Set: Legacy/
+
+
 ## Mister X
-Set: H.A.M.M.E.R.
-* I Can Predict Your Every Move**\I Can Predict Your Every Movecan temporarily reduce theATK/DEF of a character while insolo combat with Mister X.For example, if a characterwith a printed ATK/DEF of 4/4has three +1/+1 counters it is
+Set: H.A.M.M.E.R./
+**I Can Predict Your Every Move**/
+**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
@@ -345,10 +350,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ4MTU1MDUsLTQ1OTE3NzM4MywyMD
-MxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMjA2MTcz
-MzQzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNj
-YsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0
-MTUzNjQ5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNj
-k2MTZdfQ==
+eyJoaXN0b3J5IjpbLTU2NTIwMTQ2OCwtNDU5MTc3MzgzLDIwMz
+EyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0yMDYxNzMz
+NDM4LC03MDE3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcyMTI2Ni
+wtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQx
+NTM2NDk1OSwxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OT
+YxNl19
 -->
