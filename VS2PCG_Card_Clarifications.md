@@ -80,15 +80,15 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 
 ## Daken
-Set: Brotherhood of Mutants
-**Pheromone Control**
+Set: Brotherhood of Mutants\
+**Pheromone Control**\
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 
 
 ## Dark Phoenix (SC)
-Set: Crossover
-**Deconstruct the Universe**
+Set: Crossover\
+**Deconstruct the Universe**\
 Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works:
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way
 * **Equipment**: Remove all Equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and Equipment that are already removed from the game. This also includes any cards that were once Equipment cards but don’t currently count as Equipment (such as a face-down resource or an Equipment that has become a character via Arnim Zola’s **ESP Box**). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.
@@ -101,7 +101,7 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 
 ## Deadpool (MC)
 Set: Deadpool & Friends
-> Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the FIrst character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.
+> Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.
 > 
 > It’s because a main character can only level up into a main character from the same set or into one that has the same artwork. And guess what? I don’t mean to brag but I’m actually a designer now. You know all the cards in this set that you love? That’s right -- I designed them. (All the cards that you hate were designed by those other two dummies.) Designing stuff is sweet. You can pretty much do whatever you want.
 > 
@@ -307,8 +307,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjgyNTYwNiwtNDA4NzIxMjY2LDE4Mz
-AwNzkzOTIsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4Mjcw
-MjcsLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCwtNTkwNjIzNTMyLD
-U5OTQ5ODEwNCwtMTQyMDA2OTYxNiwyMDc3MTM0NDY2XX0=
+eyJoaXN0b3J5IjpbLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwxOD
+MwMDc5MzkyLC0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3
+MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwODgsLTU5MDYyMzUzMi
+w1OTk0OTgxMDQsLTE0MjAwNjk2MTYsMjA3NzEzNDQ2Nl19
 -->
