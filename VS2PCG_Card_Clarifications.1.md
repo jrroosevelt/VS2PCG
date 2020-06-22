@@ -234,7 +234,11 @@ Juggernaut is so big and powerful it’s almost impossible to beat him physicall
 Set: Brotherhood of Mutants\
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
-## Manda
+## Mandarin
+Set: The MCU Battles\
+Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
+
+This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
 ## Masacre
 Set: Deadpool & Friends\
@@ -413,10 +417,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA5MDMwNDQsMTE4MDU1NDk1MiwxOT
-g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
-ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
-wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
-NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwND
-YwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbLTQ5OTg5NjczOCwxMTgwNTU0OTUyLDE5OD
+QyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4
+OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LC
+0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04MDk1
+MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0Nj
+A4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
 -->
