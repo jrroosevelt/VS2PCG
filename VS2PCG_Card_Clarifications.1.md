@@ -208,7 +208,12 @@ Set: A-Force\
 **Growing Magic**\
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
+## Mystique (MC)
+Set: Legacy\
+**Identity Theft**\
+Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
 
+Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
 ## Omega Red
 Set: Crossover\
@@ -308,9 +313,9 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0yMD
-YxNzMzNDM4LC03MDE3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcy
-MTI2NiwtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNy
-wtMTQxNTM2NDk1OSwxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQy
-MDA2OTYxNl19
+eyJoaXN0b3J5IjpbMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMj
+g2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCwtMTQzNzIw
+Nzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5NTI5MTA0LC
+0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwODgsNTk5
+NDk4MTA0LC0xNDIwMDY5NjE2XX0=
 -->
