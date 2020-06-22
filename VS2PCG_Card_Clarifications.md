@@ -361,7 +361,7 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 Set: Crossover\
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
-## Star Lord (MC)
+## Start Lord (MC)
 Set: The MCU Battles\
 **Dance Off, Bro**\
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
@@ -392,11 +392,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODc1ODA3NCwxMTgwNTU0OTUyLDE5OD
-QyMjczMzMsMTI4NDI0MTc1LC00NTkxNzczODMsMjAzMTI1NDgx
-OCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTExNTQ3MjE2MjQsLT
-E4NDg3OTQ0ODYsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCw3OTMx
-MTA2OTAsLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwxODMwMDc5Mz
-kyLC0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0x
-NDE1MzY0OTU5XX0=
+eyJoaXN0b3J5IjpbLTk3MzI5NzcwNCwtODA4NzU4MDc0LDExOD
+A1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4
+MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMT
+E1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAx
+NzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMj
+Y2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4
+OTA4MjcwMjddfQ==
 -->
