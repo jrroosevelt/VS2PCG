@@ -41,7 +41,12 @@ Set: Legacy\
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
 ## * Bishop *
-S
+Set: Legacy/
+**Energy Transference**/
+This power refers to ( super powers.
+This counts for any super power with the appropriate
+symbol in its cost (even if it also has other symbols in
+its cost).
 
 ## Blob (MC)
 Set: Crossover\
@@ -326,11 +331,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEwNDczMTEsLTQ1OTE3NzM4MywyMD
-MxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMTE1NDcy
-MTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAxNzU3OT
-c0LDc5MzExMDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LDE4
-MzAwNzkzOTIsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4Mj
-cwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCwtNTkwNjIzNTMy
-LDU5OTQ5ODEwNF19
+eyJoaXN0b3J5IjpbLTg3MDc0NDE3NywtNDU5MTc3MzgzLDIwMz
+EyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMTU0NzIx
+NjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3NTc5Nz
+QsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsMTgz
+MDA3OTM5MiwtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNz
+AyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2MDg4LC01OTA2MjM1MzIs
+NTk5NDk4MTA0XX0=
 -->
