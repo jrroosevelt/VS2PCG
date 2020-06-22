@@ -211,6 +211,10 @@ Set: Crossover\
 **We’re All Weirdos Here**\
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
+## Iron Monger (MC)
+Set: The MCU Battles\
+The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
+
 
 ## Jessica Jones
 Set: Legacy/
@@ -398,11 +402,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNjY0NzI5LC05NzMyOTc3MDQsMTE4MD
-U1NDk1MiwxOTg0MjI3MzMzLDEyODQyNDE3NSwtNDU5MTc3Mzgz
-LDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMT
-U0NzIxNjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3
-NTc5NzQsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00MDg3MjEyNj
-YsMTgzMDA3OTM5MiwtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5
-MDgyNzAyN119
+eyJoaXN0b3J5IjpbLTgyMzU4MzkyNSwtOTczMjk3NzA0LDExOD
+A1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4
+MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMT
+E1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAx
+NzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMj
+Y2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4
+OTA4MjcwMjddfQ==
 -->
