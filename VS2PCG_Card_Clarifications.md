@@ -323,13 +323,19 @@ She-Hulk’s main character introduces a new kind of super power called a **Reac
 Reaction powers trigger when a certain condition is met (in this case it’s “When an enemy player uses a super power”). When that happens you can pay an (and say “Objection” of course) and if you do it cancels the super power so it never takes effect.
 You can use a Reaction power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
-
-
 ## Sif
 Set: Crossover\
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
-##
+## Spider-Gwen
+Set: Legacy\
+**Dimensional Wristwatch**\
+Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then
+
+## Squirrel Girl
+Set: Legacy\
+**Let’s Get Nuts**\
+Squirrel Girl’s power lets her put token characters into play. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, it ceases to exist. The token card can be reused later if Squirrel Girl appears again.
 
 ## Stand Together
 Set: Crossover\
@@ -353,7 +359,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzY3NjY2OSwtNDU5MTc3MzgzLDIwMz
+eyJoaXN0b3J5IjpbMTYyNzk0OTM2NywtNDU5MTc3MzgzLDIwMz
 EyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMTU0NzIx
 NjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3NTc5Nz
 QsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsMTgz
