@@ -12,7 +12,7 @@ The following clarifications are included in the rule inserts that come with the
 
 
 ## Ajax
-Set: Deadpool & Friends
+Set: Deadpool & Friends\
 **Pain Tolerance**
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
@@ -321,9 +321,9 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0Mz
-cyMDc5NzQsLTQwODcyMTI2NiwxODMwMDc5MzkyLC0xODk5NTk4
-NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LD
-E0NDQwNDYwODgsLTU5MDYyMzUzMiw1OTk0OTgxMDQsLTE0MjAw
-Njk2MTYsMjA3NzEzNDQ2Nl19
+eyJoaXN0b3J5IjpbLTI1MTUyMzk5MCwtNzAxNzU3OTc0LDc5Mz
+ExMDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LDE4MzAwNzkz
+OTIsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLT
+E0MTUzNjQ5NTksMTQ0NDA0NjA4OCwtNTkwNjIzNTMyLDU5OTQ5
+ODEwNCwtMTQyMDA2OTYxNiwyMDc3MTM0NDY2XX0=
 -->
