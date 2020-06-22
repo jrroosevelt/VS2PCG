@@ -235,7 +235,10 @@ Set: Brotherhood of Mutants\
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
 ## Mandarin
+Set: The MCU Battles\
+Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
+This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
 ## Masacre
 Set: Deadpool & Friends\
@@ -414,7 +417,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Nzg0MjQwNywtOTczMjk3NzA0LDExOD
+eyJoaXN0b3J5IjpbLTQ5OTg5NjczOCwtOTczMjk3NzA0LDExOD
 A1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4
 MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMT
 E1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAx
