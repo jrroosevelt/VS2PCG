@@ -153,7 +153,8 @@ Goblin Queen has the power to make token characters. A token character works jus
 
 ## Green Goblin (MC)
 Set: Crossover\
-The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.\
+The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
+
 **Bag of Tricks**  
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
@@ -190,38 +191,38 @@ Set: Crossover\
 ## Mimic (MC)
 Set: H.A.M.M.E.R.\
 **Absorption History**\
-Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.\
+Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
 
-During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.\
+During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
 
-When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.\
+When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
 ## Mister X
-Set: H.A.M.M.E.R\.  
-** I Can Predict Your Every Move **\  
+Set: H.A.M.M.E.R.\
+** I Can Predict Your Every Move **\
 I Can Predict Your Every Movecan temporarily reduce theATK/DEF of a character while insolo combat with Mister X.For example, if a characterwith a printed ATK/DEF of 4/4has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
-Set: A-Force\ 
-**Growing Magic**\  
+Set: A-Force\
+**Growing Magic**\
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
 
 
 ## Omega Red
-Set: Crossover\  
-**Carbonadium Tentacles**\  
+Set: Crossover\
+**Carbonadium Tentacles**\
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
 
 
 ## Phil Coulson
-Set: Crossover\  
-**Special Agent**\  
-Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.\ 
+Set: Crossover\
+**Special Agent**\
+Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
 
 **Level 7 Clearance / I'm a Guy With a Plan**  
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
@@ -229,8 +230,8 @@ His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of
 
 
 ## Pyro
-Set: Brotherhood of Mutants\  
-**Fire Manipulation** \ 
+Set: Brotherhood of Mutants\
+**Fire Manipulation**
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
 
@@ -308,7 +309,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ3MjE2MjQsMTYxOTU3ODgyMCwtMT
+eyJoaXN0b3J5IjpbMTA3NTg2NDMwOCwtMTE1NDcyMTYyNCwtMT
 g0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzEx
 MDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOT
 IsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0
