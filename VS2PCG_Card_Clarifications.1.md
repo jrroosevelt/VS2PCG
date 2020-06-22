@@ -46,8 +46,8 @@ Set: Legacy\
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
 ## * Bishop *
-Set: Legacy\
-**Energy Transference**\
+Set: Legacy\/
+**Energy Transference**\/
 This power refers to (Energy/Atom) super powers.
 This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
@@ -234,13 +234,12 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 ## Mister Sinister
 Set: Legacy\
 **Genetic Manipulation**\
-This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play.
+This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play./
 
 
 ## Mister X
-Set: H.A.M.M.E.R.\
-**I Can Predict Your Every Move**\
-**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
+Set: H.A.M.M.E.R.\/
+*I Can Predict Your Every Move**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
@@ -362,10 +361,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MjE3MDM3LC00NTkxNzczODMsMjAzMT
-I1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0
-MzgsLTcwMTc1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC
-0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1
-MzY0OTU5LDE0NDQwNDYwODgsNTk5NDk4MTA0LC0xNDIwMDY5Nj
-E2XX0=
+eyJoaXN0b3J5IjpbMTk4NDIyNzMzMywtNDU5MTc3MzgzLDIwMz
+EyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0yMDYxNzMz
+NDM4LC03MDE3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcyMTI2Ni
+wtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQx
+NTM2NDk1OSwxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OT
+YxNl19
 -->
