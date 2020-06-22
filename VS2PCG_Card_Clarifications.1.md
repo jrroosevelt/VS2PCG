@@ -12,86 +12,81 @@ The following clarifications are included in the rule inserts that come with the
 
 
 ## Ajax
-Set: Deadpool & Friends
-**Pain Tolerance**
+Set: Deadpool & Friends\
+**Pain Tolerance**\
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
 ## Alcatraz
-**It's a Prison**
-Set: H.A.M.M.E.R.
+**It's a Prison**\
+Set: H.A.M.M.E.R.\
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 ## Arnim Zola (MC)
-Set: Crossover
-**ESP Box**
-ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
-
-
-
+Set: Crossover\
+**ESP Box**\
+ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). \
 **A New Robot Body**
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 
 
 ## Avalanche
-Set: Brotherhood of Mutants
-**Sustained Seismic Waves**
+Set: Brotherhood of Mutants\
+**Sustained Seismic Waves**\
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
 ## Blob (MC)
-Set: Crossover
-**Boing**
+Set: Crossover\
+**Boing**\
 If Blob strikes a character and his Boing! power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
 
-**Immovable Object**
+**Immovable Object**\
 If Blob moves for any reason (including during your Formation Step or because another effect moves him), he will be prevented from gaining an XP. At the end of Blob’s first turn of the game, he will gain an XP if he didn’t move that turn.
 
 
 
 ## Blob (SC)
-Set: Brotherhood of Mutants
-**Stuck in His Stomach**
-Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.) 
-**Bounced Off His Belly**
+Set: Brotherhood of Mutants\
+**Stuck in His Stomach**\
+Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.) \
+**Bounced Off His Belly**\
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
 ## Break the Fourth Wall
-Set: Deadpool & Friends
-This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
-* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.  
-* **Does this card have different power levels for different players depending on their age?** Yes.  
-* **Isn’t that ageist?** Great question. Think about it this way: Yes.  
-* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.  
-* **Isn’t that kind of stupid?** Play faster next time.
-* **I feel like you’re not taking this seriously.** That’s not a question.
+Set: Deadpool & Friends\
+This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in.\ 
+* **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.\  
+* **Does this card have different power levels for different players depending on their age?** Yes.\  
+* **Isn’t that ageist?** Great question. Think about it this way: Yes.\  
+* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.\  
+* **Isn’t that kind of stupid?** Play faster next time.\
+* **I feel like you’re not taking this seriously.** That’s not a question.\
 
 ## Bullseye (MC)
-Set: H.A.M.M.E.R.
-**Perfect Aim**
-When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.  
+Set: H.A.M.M.E.R.\
+**Perfect Aim**\
+When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK. \ 
 
-**Everything’s a Weapon**
+**Everything’s a Weapon**\
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
 
 
 ## Chimichanga
-Set: Deadpool & Friends
+Set: Deadpool & Friends\
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
 
-
 ## Daken
-Set: Brotherhood of Mutants
-**Pheromone Control**
+Set: Brotherhood of Mutants\
+**Pheromone Control**\
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 
-
 ## Dark Phoenix (SC)
-Set: Crossover
-**Deconstruct the Universe**
-Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works:  
+Set: Crossover\
+**Deconstruct the Universe**\
+Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works:\  
 
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
  
@@ -321,8 +316,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTc1Nzk3NCwtMTQzNzIwNzk3NCwtND
-A4NzIxMjY2LC0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3
-MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwODgsNTk5NDk4MTA0LC
-0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbLTEwNjA4OTk4MDgsLTcwMTc1Nzk3NCwtMT
+QzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5NTI5
+MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwOD
+gsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
 -->
