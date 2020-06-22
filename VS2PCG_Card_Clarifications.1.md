@@ -349,6 +349,8 @@ Set: Crossover\
 
 ## Start Lord (MC)
 Set: The MCU Battles\
+**Dance Off, Bro**\
+Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
 ## Titania
 Set: A-Force\
@@ -366,10 +368,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NzQ1NjQ5LDExODA1NTQ5NTIsMTk4ND
-IyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5
-OCwtMjI4Njc0NzQ0LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLT
-E0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5ODQsLTgwOTUy
-OTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2MD
-g4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
+eyJoaXN0b3J5IjpbLTE4MTYwNjkzMzQsMTE4MDU1NDk1MiwxOT
+g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
+ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
+wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
+NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwND
+YwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
 -->
