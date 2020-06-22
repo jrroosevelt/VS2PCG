@@ -113,7 +113,9 @@ Set: Deadpool & Friends
 
 **I'm Taking Over From These Idiot Designers**  
 * **Nerf:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks, and KO piles are 0/1 with 1 and nothing can ever, ever change that.  
-* **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including (*Flight*) and (*Range*)).  
+
+* **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including (*Flight*) and (*Range*)). 
+ 
 * **Ban:** Name a character and choose a number. Put all supporting characters with that name on enemy sides into their owner’s hands. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that. (Except banning it again. You know the old saying: “If you really, really hate a card, ban it twice.”) Any effects that would increase or decrease what an enemy player pays to recruit a banned card are ignored.  
 
 
@@ -309,7 +311,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMTEwNjkwLC0yMDYyMjEzOTU4LC0xND
+eyJoaXN0b3J5IjpbLTE3MTA3NzQ1MjIsNzkzMTEwNjkwLC0xND
 M3MjA3OTc0LC00MDg3MjEyNjYsMTgzMDA3OTM5MiwtMTg5OTU5
 ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OS
 wxNDQ0MDQ2MDg4LC01OTA2MjM1MzIsNTk5NDk4MTA0LC0xNDIw
