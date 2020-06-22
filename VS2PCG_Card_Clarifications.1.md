@@ -394,6 +394,11 @@ Titania has the new **Durable** keyword. This means if she gets stunned in some 
 However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though
 she would recover immediately, getting stunned would still remove her from combat.
 
+## Ultron Facility (MC)
+Set: The MCU Battles\
+Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
+
+During the game you can use any Ultron’s **There’s Only One Path To Peace** power to put the lowest level Ultron from your Ultron Facility onto your side. When one of your Ultron main 27 characters gets KO’d it goes back to your Ultron Facility where it will be available to be brought back again. If all your Ultrons are in the Ultron Facility at the same time, you lose the game. Note: The Level 3 Ultron’s Your Extinction power KOs all enemy cards (in a very dramatic way).
 
 
 ## Venom (MC)
@@ -402,10 +407,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzU4MzkyNSwxMTgwNTU0OTUyLDE5OD
-QyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4
-OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LC
-0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04MDk1
-MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0Nj
-A4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
+eyJoaXN0b3J5IjpbNzI1MjY4OTAzLDExODA1NTQ5NTIsMTk4ND
+IyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5
+OCwtMjI4Njc0NzQ0LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLT
+E0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5ODQsLTgwOTUy
+OTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2MD
+g4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
 -->
