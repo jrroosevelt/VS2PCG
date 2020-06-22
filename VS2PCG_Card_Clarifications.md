@@ -80,9 +80,9 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **Isn’t that kind of stupid?** Play faster next time.
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
-## Bruce Banner (and the Hulk)
+## Bruce Banner (and the Hulk) (MC)
 **Set: The MCU Battles**\
-
+Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
 ## Bullseye (MC)
 Set: H.A.M.M.E.R.\
@@ -347,7 +347,8 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 Set: Crossover\
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
-
+## Start Lord (MC)
+Set: The MCU Battles\
 
 ## Titania
 Set: A-Force\
@@ -365,11 +366,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDU1NDk1MiwxOTg0MjI3MzMzLDEyOD
-QyNDE3NSwtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5
-OCwtMjI4Njc0NzQ0LC0xMTU0NzIxNjI0LC0xODQ4Nzk0NDg2LC
-0yMDYxNzMzNDM4LC03MDE3NTc5NzQsNzkzMTEwNjkwLC0xNDM3
-MjA3OTc0LC00MDg3MjEyNjYsMTgzMDA3OTM5MiwtMTg5OTU5OD
-QsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwx
-NDQ0MDQ2MDg4XX0=
+eyJoaXN0b3J5IjpbNTI0NzQ1NjQ5LDExODA1NTQ5NTIsMTk4ND
+IyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4
+LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMTE1NDcyMTYyNCwtMT
+g0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzEx
+MDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOT
+IsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0
+MTUzNjQ5NTldfQ==
 -->
