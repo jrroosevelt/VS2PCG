@@ -160,7 +160,6 @@ Goblin Queen has the power to make token characters. A token character works jus
 ## Green Goblin (MC)
 Set: Crossover\
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.\
-
 **Bag of Tricks**  
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
@@ -315,8 +314,9 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3ODczNDU4LC0yMDYxNzMzNDM4LC03MD
-E3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5
-ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OS
-wxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
+eyJoaXN0b3J5IjpbMTYxOTU3ODgyMCwtMjA2MTczMzQzOCwtNz
+AxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1
+OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NT
+ksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
+
 -->
