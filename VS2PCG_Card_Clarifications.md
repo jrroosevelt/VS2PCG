@@ -24,8 +24,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ## Arnim Zola (MC)
 Set: Crossover\
 **ESP Box**\
-ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). \
-**A New Robot Body**
+ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). **A New Robot Body**
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 
@@ -94,7 +93,7 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 **ESP Box**). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
 
 * **Keyword text:** Removing this concept doesn’t affect **Flight** and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
-
+* 
 * **Levels:** All Main Characters everywhere become Level 1 if possible. Remove all remaining Level 2 and higher Main Characters from the game. Remove all Level Up Powers and XP from the game, and the terms “Level” and “XP” from all card text. Ignore any effects that would cause XP or a Level 2 or higher Main Character to enter the game in any way.  
 
 * **Plot Twists:** Remove all Plot Twist cards everywhere from the game. This includes all decks, hands, KO piles, and Plot Twists that are already removed from the game. This also includes any cards that were once Plot Twist cards but are not currently Plot Twists (such as a face-down resource). Remove the term “Plot Twist” from all card text. For the rest of the game, ignore any effects that would cause a Plot Twist to enter the game in any way.  
@@ -310,9 +309,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCw3OT
-MxMTA2OTAsLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwxODMwMDc5
-MzkyLC0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC
-0xNDE1MzY0OTU5LDE0NDQwNDYwODgsLTU5MDYyMzUzMiw1OTk0
-OTgxMDQsLTE0MjAwNjk2MTYsMjA3NzEzNDQ2Nl19
+eyJoaXN0b3J5IjpbLTE4NDg3OTQ0ODYsLTIwNjE3MzM0MzgsLT
+cwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0MzcyMDc5NzQsLTQwODcy
+MTI2NiwxODMwMDc5MzkyLC0xODk5NTk4NCwtODA5NTI5MTA0LC
+0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwODgsLTU5
+MDYyMzUzMiw1OTk0OTgxMDQsLTE0MjAwNjk2MTYsMjA3NzEzND
+Q2Nl19
 -->
