@@ -201,7 +201,7 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 ## Mister X
 Set: H.A.M.M.E.R.\
-** I Can Predict Your Every Move **\
+**I Can Predict Your Every Move**\
 I Can Predict Your Every Movecan temporarily reduce theATK/DEF of a character while insolo combat with Mister X.For example, if a characterwith a printed ATK/DEF of 4/4has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
@@ -231,7 +231,7 @@ His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of
 
 ## Pyro
 Set: Brotherhood of Mutants\
-**Fire Manipulation**
+**Fire Manipulation**\
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
 
@@ -312,8 +312,9 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMTk5ODcwLC0yMDYxNzMzNDM4LC03MD
-E3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5
-ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OS
-wxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
+eyJoaXN0b3J5IjpbLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNz
+AxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1
+OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NT
+ksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
+
 -->
