@@ -352,6 +352,11 @@ Set: The MCU Battles\
 **Dance Off, Bro**\
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
+## Thor (MC)
+Set: The MCU Battles\
+**Journey of Self Discovery**\ 
+Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
+
 ## Titania
 Set: A-Force\
 **Durable**\
@@ -368,7 +373,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYwNjkzMzQsMTE4MDU1NDk1MiwxOT
+eyJoaXN0b3J5IjpbLTExMDkwMzE1NzEsMTE4MDU1NDk1MiwxOT
 g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
 ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
 wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
