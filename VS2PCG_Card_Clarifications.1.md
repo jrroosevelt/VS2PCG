@@ -59,17 +59,19 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.
   
 * **Does this card have different power levels for different players depending on their age?** Yes.
-*   
-* **Isn’t that ageist?** Great question. Think about it this way: Yes.\  
-* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.\  
-* **Isn’t that kind of stupid?** Play faster next time.\
-* **I feel like you’re not taking this seriously.** That’s not a question.\
+  
+* **Isn’t that ageist?** Great question. Think about it this way: Yes.
+  
+* **What happens if I’m 29 and tomorrow’s my birthday, but then it turns to midnight in the middle of the game?** You’ll become a 3/0 and get stunned.
+  
+* **Isn’t that kind of stupid?** Play faster next time.
+
+* **I feel like you’re not taking this seriously.** That’s not a question.
 
 ## Bullseye (MC)
 Set: H.A.M.M.E.R.\
 **Perfect Aim**\
-When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK. \ 
-
+When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.\
 **Everything’s a Weapon**\
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
@@ -89,7 +91,7 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 ## Dark Phoenix (SC)
 Set: Crossover\
 **Deconstruct the Universe**\
-Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works:\  
+Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
 
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
  
@@ -97,7 +99,7 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 **ESP Box**). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
 
 * **Keyword text:** Removing this concept doesn’t affect **Flight** and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
-* 
+ 
 * **Levels:** All Main Characters everywhere become Level 1 if possible. Remove all remaining Level 2 and higher Main Characters from the game. Remove all Level Up Powers and XP from the game, and the terms “Level” and “XP” from all card text. Ignore any effects that would cause XP or a Level 2 or higher Main Character to enter the game in any way.  
 
 * **Plot Twists:** Remove all Plot Twist cards everywhere from the game. This includes all decks, hands, KO piles, and Plot Twists that are already removed from the game. This also includes any cards that were once Plot Twist cards but are not currently Plot Twists (such as a face-down resource). Remove the term “Plot Twist” from all card text. For the rest of the game, ignore any effects that would cause a Plot Twist to enter the game in any way.  
@@ -313,7 +315,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mjk3NDE0NCwtMjA2MTczMzQzOCwtNz
+eyJoaXN0b3J5IjpbMTQwNjAwMTE4OCwtMjA2MTczMzQzOCwtNz
 AxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1
 OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NT
 ksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
