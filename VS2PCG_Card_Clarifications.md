@@ -92,11 +92,17 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 Set: Crossover
 **Deconstruct the Universe**
 Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works:  
-* **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way  
-* **Equipment**: Remove all Equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and Equipment that are already removed from the game. This also includes any cards that were once Equipment cards but don’t currently count as Equipment (such as a face-down resource or an Equipment that has become a character via Arnim Zola’s   **ESP Box**). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
+
+* **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
+ 
+* **Equipment**: Remove all Equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and Equipment that are already removed from the game. This also includes any cards that were once Equipment cards but don’t currently count as Equipment (such as a face-down resource or an Equipment that has become a character via Arnim Zola’s   
+**ESP Box**). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
+
 * **Keyword text:** Removing this concept doesn’t affect **Flight** and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
 * **Levels:** All Main Characters everywhere become Level 1 if possible. Remove all remaining Level 2 and higher Main Characters from the game. Remove all Level Up Powers and XP from the game, and the terms “Level” and “XP” from all card text. Ignore any effects that would cause XP or a Level 2 or higher Main Character to enter the game in any way.  
+
 * **Plot Twists:** Remove all Plot Twist cards everywhere from the game. This includes all decks, hands, KO piles, and Plot Twists that are already removed from the game. This also includes any cards that were once Plot Twist cards but are not currently Plot Twists (such as a face-down resource). Remove the term “Plot Twist” from all card text. For the rest of the game, ignore any effects that would cause a Plot Twist to enter the game in any way.  
+
 * **Super Powers:** Remove all Super Powers from the game. Remove the term “Super Power” from all card text. For the rest of the game, ignore any effects that would cause Super Powers to enter the game in any way.  
 
 
@@ -111,7 +117,8 @@ Set: Deadpool & Friends
 
 
 
-**I'm Taking Over From These Idiot Designers**  
+**I'm Taking Over From These Idiot Designers**
+  
 * **Nerf:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks, and KO piles are 0/1 with 1 and nothing can ever, ever change that.  
 
 * **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including (*Flight*) and (*Range*)). 
@@ -121,8 +128,11 @@ Set: Deadpool & Friends
 
 
 Here are some quick tips: 
+
 * If you steal a character with one of those effects the effect will stop because it’s not an enemy character anymore. Yay! However, if it goes back to an enemy side the effect will turn on again. Boo!  
-* When you Ban a character, you can name any number you want. Even a million bazillion. Try it, it’s fun!  
+
+* When you Ban a character, you can name any number you want. Even a million bazillion. Try it, it’s fun!
+
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
 ## Emma Frost (SC)
@@ -311,9 +321,9 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA3NzQ1MjIsNzkzMTEwNjkwLC0xND
-M3MjA3OTc0LC00MDg3MjEyNjYsMTgzMDA3OTM5MiwtMTg5OTU5
-ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OS
-wxNDQ0MDQ2MDg4LC01OTA2MjM1MzIsNTk5NDk4MTA0LC0xNDIw
-MDY5NjE2LDIwNzcxMzQ0NjZdfQ==
+eyJoaXN0b3J5IjpbLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0Mz
+cyMDc5NzQsLTQwODcyMTI2NiwxODMwMDc5MzkyLC0xODk5NTk4
+NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LD
+E0NDQwNDYwODgsLTU5MDYyMzUzMiw1OTk0OTgxMDQsLTE0MjAw
+Njk2MTYsMjA3NzEzNDQ2Nl19
 -->
