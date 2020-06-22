@@ -234,6 +234,9 @@ Juggernaut is so big and powerful it’s almost impossible to beat him physicall
 Set: Brotherhood of Mutants\
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
+## Mandarin
+
+
 ## Masacre
 Set: Deadpool & Friends\
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
@@ -398,7 +401,11 @@ she would recover immediately, getting stunned would still remove her from comba
 Set: The MCU Battles\
 Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
 
-During the game you can use any Ultron’s **There’s Only One Path To Peace** power to put the lowest level Ultron from your Ultron Facility onto your side. When one of your Ultron main 27 characters gets KO’d it goes back to your Ultron Facility where it will be available to be brought back again. If all your Ultrons are in the Ultron Facility at the same time, you lose the game. Note: The Level 3 Ultron’s Your Extinction power KOs all enemy cards (in a very dramatic way).
+During the game you can use any Ultron’s **There’s Only One Path To Peace** power to put the lowest level Ultron from your Ultron Facility onto your side. When one of your Ultron main 27 characters gets KO’d it goes back to your Ultron Facility where it will be available to be brought back again.
+
+If all your Ultrons are in the Ultron Facility at the same time, you lose the game. 
+
+**Note:** The Level 3 Ultron’s **Your Extinction** power KOs all enemy cards (in a very dramatic way).
 
 
 ## Venom (MC)
@@ -407,11 +414,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MjY4OTAzLC05NzMyOTc3MDQsMTE4MD
-U1NDk1MiwxOTg0MjI3MzMzLDEyODQyNDE3NSwtNDU5MTc3Mzgz
-LDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMT
-U0NzIxNjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3
-NTc5NzQsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00MDg3MjEyNj
-YsMTgzMDA3OTM5MiwtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5
-MDgyNzAyN119
+eyJoaXN0b3J5IjpbLTU1Nzg0MjQwNywtOTczMjk3NzA0LDExOD
+A1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4
+MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMT
+E1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAx
+NzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMj
+Y2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4
+OTA4MjcwMjddfQ==
 -->
