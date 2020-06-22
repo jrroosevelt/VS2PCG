@@ -4,7 +4,9 @@
 
 # Rule insert card clarifications
 The following clarifications are included in the rule inserts that come with the various sets. For additional information, see also:
+
 * [Rule changes, bans, errata, and clarifications](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
+
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
 
@@ -307,8 +309,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwtMT
-g5OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2
-NDk1OSwxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl
-19
+eyJoaXN0b3J5IjpbMjQ4NDA5MzM0LC0xNDM3MjA3OTc0LC00MD
+g3MjEyNjYsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4Mjcw
+MjcsLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLT
+E0MjAwNjk2MTZdfQ==
 -->
