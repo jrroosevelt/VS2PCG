@@ -230,6 +230,11 @@ Set: Brotherhood of Mutants\
 **It’s Gonna Take Something More to Stop Me!**\
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
+## Loki (SC)
+The MCU Battles\
+**I Am Burdened With Glorious Purpose**\
+Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
+
 ## Magneto (MC)
 Set: Brotherhood of Mutants\
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
@@ -287,8 +292,8 @@ Playing with friends, you can choose to transform into any character in your col
 
 ## Nebula
 Set: The MCU Battles\
-Riva
-Nebula’s Rivalry power requires you name a character. You can name any character, including one that isn’t in play.
+**Rivalry**\
+Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
 ## Omega Red
 Set: Crossover\
@@ -422,7 +427,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc3ODUxODYsMTE4MDU1NDk1MiwxOT
+eyJoaXN0b3J5IjpbLTE2NDY4OTkyNDksMTE4MDU1NDk1MiwxOT
 g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
 ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
 wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
