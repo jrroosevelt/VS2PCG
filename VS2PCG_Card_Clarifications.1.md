@@ -194,40 +194,36 @@ Set: H.A.M.M.E.R.\
 **Absorption History**\  
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.\  
 
-During setup when you reveal Mimic as your Main Character, you’ll also
-reveal the Level 1 character in your Absorption History. Mimic gains its
-Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.  
+During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.\  
 
-When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.  
+When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.\  
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
 ## Mister X
-Set: H.A.M.M.E.R.  
-** I Can Predict Your Every Move **  
+Set: H.A.M.M.E.R\.  
+** I Can Predict Your Every Move **\  
 I Can Predict Your Every Movecan temporarily reduce theATK/DEF of a character while insolo combat with Mister X.For example, if a characterwith a printed ATK/DEF of 4/4has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
-Set: A-Force  
-**Growing Magic**  
+Set: A-Force\ 
+**Growing Magic**\  
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
 
 
 ## Omega Red
-Set: Crossover  
-**Carbonadium Tentacles**  
+Set: Crossover\  
+**Carbonadium Tentacles**\  
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
 
 
 ## Phil Coulson
-Set: Crossover  
-**Special Agent**  
-Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck. 
-
-
+Set: Crossover\  
+**Special Agent**\  
+Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.\ 
 
 **Level 7 Clearance / I'm a Guy With a Plan**  
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
@@ -235,45 +231,45 @@ His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of
 
 
 ## Pyro
-Set: Brotherhood of Mutants  
-**Fire Manipulation**  
+Set: Brotherhood of Mutants\  
+**Fire Manipulation** \ 
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
 
 
 ## Rhino (SC)
-Set: Crossover  
-**Headlong Charge**  
+Set: Crossover \ 
+**Headlong Charge**\  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
 
 
 ## Rogue
-Set: A-Force  
-**Absorb Powers**  
+Set: A-Force \ 
+**Absorb Powers** \ 
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
 
 
 
 ## Sauron
-Set: Brotherhood of Mutants  
-**Terrifying Delusions**  
+Set: Brotherhood of Mutants\  
+**Terrifying Delusions**\  
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
 ## Scourge
-Set: H.A.M.M.E.R.  
-**Betsy’s Incendiary Missiles**  
+Set: H.A.M.M.E.R.\  
+**Betsy’s Incendiary Missiles**\  
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character
 leaves play.
 
 ## Shadow King
-Set: Brotherhood of Mutants  
-**Anchor Host**  
+Set: Brotherhood of Mutants\  
+**Anchor Host**\  
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
 
 ## She-Hulk (MC)
-Set: A-Force  
-**Rules Lawyer**  
+Set: A-Force\  
+**Rules Lawyer**\  
 She-Hulk’s main character introduces a new kind of super power called a **Reaction**. It reads: 
 
 
@@ -282,26 +278,26 @@ She-Hulk’s main character introduces a new kind of super power called a **Reac
 
 
 
-Reaction powers trigger when a certain condition is met (in this case it’s “When an enemy player uses a super power”). When that happens you can pay an (and say “Objection” of course) and if you do it cancels the super power so it never takes effect.  
+Reaction powers trigger when a certain condition is met (in this case it’s “When an enemy player uses a super power”). When that happens you can pay an (and say “Objection” of course) and if you do it cancels the super power so it never takes effect.\  
 You can use a Reaction power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 
 
 ## Sif
-Set: Crossover  
+Set: Crossover\  
 You can only recruit her by also paying a Might *(Fist/Green)* . If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)* .
 
 
 
 ## Stand Together
-Set: Crossover  
+Set: Crossover\  
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
 
 
 ## Titania
-Set: A-Force  
-**Durable**  
+Set: A-Force\ 
+**Durable**\  
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recovers
 and doesn’t get wounded. However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though
 she would recover immediately, getting stunned would still remove her from combat.
@@ -309,16 +305,13 @@ she would recover immediately, getting stunned would still remove her from comba
 
 
 ## Venom (MC)
-Set: Crossover  
-The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
-
-
-
+Set: Crossover\  
+The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.\
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzU3MjQ5NCwtNzAxNzU3OTc0LC0xND
-M3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04MDk1Mjkx
-MDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OC
-w1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCwtMT
+QzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5NTI5
+MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwOD
+gsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
 -->
