@@ -134,7 +134,11 @@ Here are some quick tips:
 * When you Ban a character, you can name any number you want. Even a million bazillion. Try it, it’s fun!
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
-## Elektra (MC
+
+## Elektra (MC)
+Set: Legacy\
+**Hand Experience**\
+Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
 
 ## Emma Frost (SC)
 Set: H.A.M.M.E.R.\
@@ -319,9 +323,9 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUwMjQ4NzQsMjAzMTI1NDgxOCwxMT
-E2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1
-Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NC
-wtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0
-NDQwNDYwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMT
+YwODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3
+OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC
+04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0
+NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
 -->
