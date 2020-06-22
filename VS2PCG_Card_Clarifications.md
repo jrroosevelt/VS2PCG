@@ -285,6 +285,11 @@ Mystique’s super power allows her to transform into a different Level 2 Main C
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
+## Nebula
+Set: The MCU Battles\
+Rivalry
+Nebula’s Rivalry power requires you name a character. You can name any character, including one that isn’t in play.
+
 ## Omega Red
 Set: Crossover\
 **Carbonadium Tentacles**\
@@ -417,7 +422,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTg5NjczOCwtOTczMjk3NzA0LDExOD
+eyJoaXN0b3J5IjpbLTc1NzI4NjI1MywtOTczMjk3NzA0LDExOD
 A1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4
 MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMT
 E1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAx
