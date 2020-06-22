@@ -43,7 +43,7 @@ Baron Mordo can revert a main character back to level 1 until your next turn. Wh
 ## * Bishop *
 Set: Legacy/
 **Energy Transference**/
-This power refers to ( super powers.
+This power refers to (Energy/Atom) super powers.
 This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
 its cost).
@@ -184,6 +184,10 @@ Set: H.A.M.M.E.R.\
 Set: Crossover\
 **We’re All Weirdos Here**\
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
+
+## Jessica Jones
+Set: Legacy/
+
 
 ## Juggernaut (MC)
 Set: Brotherhood of Mutants\
@@ -331,7 +335,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDc0NDE3NywtNDU5MTc3MzgzLDIwMz
+eyJoaXN0b3J5IjpbMTcxNTQ4MTU4OSwtNDU5MTc3MzgzLDIwMz
 EyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMTU0NzIx
 NjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3NTc5Nz
 QsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsMTgz
