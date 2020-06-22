@@ -137,8 +137,8 @@ Here are some quick tips:
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
 ## Emma Frost (SC)
-Set: H.A.M.M.E.R.\  
-**Fluid Forms and Fidelity** \ 
+Set: H.A.M.M.E.R.\
+**Fluid Forms and Fidelity**\
 When Emma transforms via Fluid Forms and Fidelity, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of
 her counters, and any effects on her.
 
@@ -149,59 +149,59 @@ Made from Deadpool’s discarded body parts that fused back together into a new 
 **Merc With an Evil Mouth**  
 Evil Deadpool loves being Evil. That’s why he can grant Evil characters on your side the new keyword, Evil Lethal. Evil Lethal works just like regular Lethal except after you KO the supporting defender you laugh evilly. (If you’re unable to laugh evilly you’ll still resolve the effect as much as possible and KO the defender.)  
 
-**It's Like You, But Eviler!**\  
+**It's Like You, But Eviler!**\
 Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
 
 ## Goblin Queen
-Set: A-Force\  
-**Token Characters** \ 
+Set: A-Force\
+**Token Characters**\
 Goblin Queen has the power to make token characters. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, remove it from the game.
 
 ## Green Goblin (MC)
-Set: Crossover \ 
-The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck. \  
+Set: Crossover\
+The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.\
 
 **Bag of Tricks**  
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
 ## Headsman
-Set: H.A.M.M.E.R.\  
-**Executioner**\  
+Set: H.A.M.M.E.R.\
+**Executioner**\
 **Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
 
 ## Ironheart
-Set: Crossover\  
-**We’re All Weirdos Here** \ 
+Set: Crossover\
+**We’re All Weirdos Here**\
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
 ## Juggernaut (MC)
-Set: Brotherhood of Mutants\  
-**It’s Gonna Take Something More to Stop Me!**\  
+Set: Brotherhood of Mutants\
+**It’s Gonna Take Something More to Stop Me!**\
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
 ## Magneto (MC)
-Set: Brotherhood of Mutants\  
+Set: Brotherhood of Mutants\
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
 ## Masacre
-Set: Deadpool & Friends\  
+Set: Deadpool & Friends\
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
 
 
 ## Maximus
-Set: Crossover \ 
-**Usurp the Throne**\  
+Set: Crossover\
+**Usurp the Throne**\
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
 ## Mimic (MC)
-Set: H.A.M.M.E.R.\  
-**Absorption History**\  
-Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.\  
+Set: H.A.M.M.E.R.\
+**Absorption History**\
+Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.\
 
-During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.\  
+During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.\
 
-When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.\  
+When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.\
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
@@ -315,9 +315,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjAwMTE4OCwtMjA2MTczMzQzOCwtNz
-AxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1
-OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NT
-ksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
-
+eyJoaXN0b3J5IjpbMjM3ODczNDU4LC0yMDYxNzMzNDM4LC03MD
+E3NTc5NzQsLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5
+ODQsLTgwOTUyOTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OS
+wxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
 -->
