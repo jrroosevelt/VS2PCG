@@ -211,6 +211,10 @@ Set: Crossover\
 **We’re All Weirdos Here**\
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
+## Iron Monger (MC)
+Set: The MCU Battles\
+The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
+
 
 ## Jessica Jones
 Set: Legacy/
@@ -367,7 +371,7 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 Set: Crossover\
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
-## Star Lord (MC)
+## Start Lord (MC)
 Set: The MCU Battles\
 **Dance Off, Bro**\
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
@@ -398,10 +402,10 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NTIyNTk3LDExODA1NTQ5NTIsMTk4ND
-IyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5
-OCwtMjI4Njc0NzQ0LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLT
-E0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5ODQsLTgwOTUy
-OTEwNCwtMTg5MDgyNzAyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2MD
-g4LDU5OTQ5ODEwNCwtMTQyMDA2OTYxNl19
+eyJoaXN0b3J5IjpbLTgyMzU4MzkyNSwxMTgwNTU0OTUyLDE5OD
+QyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4
+OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LC
+0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04MDk1
+MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0Nj
+A4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZdfQ==
 -->
