@@ -250,6 +250,11 @@ Set: Brotherhood of Mutants\
 **It’s Gonna Take Something More to Stop Me!**\
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
+## Kaecilius
+Set: MCU Villains\
+ **Fold Space and Matter**\
+Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
+
 ## Loki (SC)
 The MCU Battles\
 **I Am Burdened With Glorious Purpose**\
@@ -452,7 +457,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzU1NDMzNSwtMTM1ODI2NTUzLC0xNj
+eyJoaXN0b3J5IjpbMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0xNj
 Q2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MTc3
 MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC
 0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLTE0MzcyMDc5NzQsLTQw
