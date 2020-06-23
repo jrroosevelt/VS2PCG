@@ -117,6 +117,10 @@ Set: Brotherhood of Mutants\
 **Pheromone Control**\
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
+## Dormammu
+Set: MCU Villains\
+**You Will Spend Eternity Dying**\
+Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 ## Dark Phoenix (SC)
 Set: Crossover\
@@ -443,11 +447,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODk5NTAsLTEzNTgyNjU1MywtMTY0Nj
-g5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4
-MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMj
-A2MTczMzQzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3
-MjEyNjYsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMj
-csLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0
-MjAwNjk2MTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NzgyNzM0MzcsLTEzNTgyNjU1MywtMT
+Y0Njg5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3
+NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NC
+wtMjA2MTczMzQzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00
+MDg3MjEyNjYsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4Mj
+cwMjcsLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQs
+LTE0MjAwNjk2MTZdfQ==
 -->
