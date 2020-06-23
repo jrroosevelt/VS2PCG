@@ -56,10 +56,15 @@ This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
 its cost).
 
-## Black Panther
+## Black Panther (MC)
+Set: MCU Heroes\
+**
+Black Panther Black Panther’s Vibranium Weave Suit power prevents him from being struck for the entire turn including the combat he’s currently in.
+
+## Black Panther (SC)
 Set: MCU Heroes\
 **Bulletproof**\
-Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with from [Range] striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has it can’t strike him.
+Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
 
 ## Blob (MC)
 Set: Crossover\
@@ -437,7 +442,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDMwNDc5NCwtMTM1ODI2NTUzLC0xNj
+eyJoaXN0b3J5IjpbLTY1OTA2Mjc3MCwtMTM1ODI2NTUzLC0xNj
 Q2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MTc3
 MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC
 0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLTE0MzcyMDc5NzQsLTQw
