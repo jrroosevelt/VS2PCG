@@ -274,8 +274,9 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 
 
 ## Mister X
-Set: H.A.M.M.E.R.\/
-*I Can Predict Your Every Move**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
+Set: H.A.M.M.E.R.\
+**I Can Predict Your Every Move**\
+I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
@@ -431,7 +432,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzI5ODg5NiwtMTY0Njg5OTI0OSwxMT
+eyJoaXN0b3J5IjpbLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMT
 gwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0
 ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOC
 wtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4
