@@ -80,7 +80,6 @@ If Blob moves for any reason (including during your Formation Step or because an
 Set: Brotherhood of Mutants\
 **Stuck in His Stomach**\
 Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.) 
-
 **Bounced Off His Belly**\
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
@@ -457,11 +456,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0xNj
-Q2ODk5MjQ5LC05NzMyOTc3MDQsMTE4MDU1NDk1MiwxOTg0MjI3
-MzMzLDEyODQyNDE3NSwtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMT
-ExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMTU0NzIxNjI0LC0xODQ4
-Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsNzkzMTEwNj
-kwLC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsMTgzMDA3OTM5Miwt
-MTg5OTU5ODRdfQ==
+eyJoaXN0b3J5IjpbMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0xMz
+U4MjY1NTMsLTE2NDY4OTkyNDksLTk3MzI5NzcwNCwxMTgwNTU0
+OTUyLDE5ODQyMjczMzMsMTI4NDI0MTc1LC00NTkxNzczODMsMj
+AzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTExNTQ3
+MjE2MjQsLTE4NDg3OTQ0ODYsLTIwNjE3MzM0MzgsLTcwMTc1Nz
+k3NCw3OTMxMTA2OTAsLTE0MzcyMDc5NzQsLTQwODcyMTI2Niwx
+ODMwMDc5MzkyXX0=
 -->
