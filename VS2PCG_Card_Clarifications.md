@@ -117,6 +117,10 @@ Set: Brotherhood of Mutants\
 **Pheromone Control**\
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
+## Dormammu
+Set: MCU Villains\
+**You Will Spend Eternity Dying**\
+Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 ## Dark Phoenix (SC)
 Set: Crossover\
@@ -165,6 +169,8 @@ Here are some quick tips:
 * When you Ban a character, you can name any number you want. Even a million bazillion. Try it, it’s fun!
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
+
+
 
 ## Elektra (MC)
 Set: Legacy\
@@ -443,11 +449,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODk5NTAsLTEzNTgyNjU1MywtMTY0Nj
-g5OTI0OSwtOTczMjk3NzA0LDExODA1NTQ5NTIsMTk4NDIyNzMz
-MywxMjg0MjQxNzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMT
-YwODc4OTgsLTIyODY3NDc0NCwtMTE1NDcyMTYyNCwtMTg0ODc5
-NDQ4NiwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzExMDY5MC
-wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOTIsLTE4
-OTk1OTg0XX0=
+eyJoaXN0b3J5IjpbLTE0MjIyNjU4NDksLTEzNTgyNjU1MywtMT
+Y0Njg5OTI0OSwtOTczMjk3NzA0LDExODA1NTQ5NTIsMTk4NDIy
+NzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LD
+ExMTYwODc4OTgsLTIyODY3NDc0NCwtMTE1NDcyMTYyNCwtMTg0
+ODc5NDQ4NiwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzExMD
+Y5MCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOTIs
+LTE4OTk1OTg0XX0=
 -->
