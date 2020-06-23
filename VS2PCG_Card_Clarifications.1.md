@@ -45,12 +45,12 @@ Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. 
 
 ## Baron Mordo (MC)
 Set: Legacy\
-**Hypnotize**\ 
+**Hypnotize**\
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
 ## * Bishop *
-Set: Legacy\/
-**Energy Transference**\/
+Set: Legacy\
+**Energy Transference**\
 This power refers to (Energy/Atom) super powers.
 This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
@@ -58,7 +58,7 @@ its cost).
 
 ## Black Panther (MC)
 Set: MCU Heroes\
-**
+**Vibranium Weave Suit**\
 Black Panther Black Panther’s Vibranium Weave Suit power prevents him from being struck for the entire turn including the combat he’s currently in.
 
 ## Black Panther (SC)
@@ -79,7 +79,8 @@ If Blob moves for any reason (including during your Formation Step or because an
 ## Blob (SC)
 Set: Brotherhood of Mutants\
 **Stuck in His Stomach**\
-Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.) \
+Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.) 
+
 **Bounced Off His Belly**\
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
@@ -442,11 +443,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTA2Mjc3MCwtMTM1ODI2NTUzLC0xNj
-Q2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MTc3
-MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC
-0yMDYxNzMzNDM4LC03MDE3NTc5NzQsLTE0MzcyMDc5NzQsLTQw
-ODcyMTI2NiwtMTg5OTU5ODQsLTgwOTUyOTEwNCwtMTg5MDgyNz
-AyNywtMTQxNTM2NDk1OSwxNDQ0MDQ2MDg4LDU5OTQ5ODEwNCwt
-MTQyMDA2OTYxNl19
+eyJoaXN0b3J5IjpbMTcwODk5NTAsLTEzNTgyNjU1MywtMTY0Nj
+g5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4
+MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMj
+A2MTczMzQzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3
+MjEyNjYsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMj
+csLTE0MTUzNjQ5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0
+MjAwNjk2MTZdfQ==
 -->
