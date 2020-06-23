@@ -56,6 +56,11 @@ This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
 its cost).
 
+## Black Panther
+Set: MCU Heroes\
+**Bulletproof**\
+Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with from [Range] striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has it can’t strike him.
+
 ## Blob (MC)
 Set: Crossover\
 **Boing**\
@@ -432,11 +437,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwtOT
-czMjk3NzA0LDExODA1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQx
-NzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLT
-IyODY3NDc0NCwtMTE1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2
-MTczMzQzOCwtNzAxNzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNz
-k3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC04
-MDk1MjkxMDRdfQ==
+eyJoaXN0b3J5IjpbMTIwMDMwNDc5NCwtMTM1ODI2NTUzLC0xNj
+Q2ODk5MjQ5LC05NzMyOTc3MDQsMTE4MDU1NDk1MiwxOTg0MjI3
+MzMzLDEyODQyNDE3NSwtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMT
+ExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0xMTU0NzIxNjI0LC0xODQ4
+Nzk0NDg2LC0yMDYxNzMzNDM4LC03MDE3NTc5NzQsNzkzMTEwNj
+kwLC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsMTgzMDA3OTM5Miwt
+MTg5OTU5ODRdfQ==
 -->
