@@ -274,8 +274,9 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 
 
 ## Mister X
-Set: H.A.M.M.E.R.\/
-*I Can Predict Your Every Move**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
+Set: H.A.M.M.E.R.\
+**I Can Predict Your Every Move**\
+I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Morgan Le Fay
@@ -312,7 +313,7 @@ Coulson’s **Special Agent** power means when a character with Agent appears on
 
 **Level 7 Clearance / I'm a Guy With a Plan**  
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
--
+
 Set: MCU heroes\
 **They Need Someone to Avenge**\
 Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
@@ -431,11 +432,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2OTQ3MTUsLTE2NDY4OTkyNDksLTk3Mz
-I5NzcwNCwxMTgwNTU0OTUyLDE5ODQyMjczMzMsMTI4NDI0MTc1
-LC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMj
-g2NzQ3NDQsLTExNTQ3MjE2MjQsLTE4NDg3OTQ0ODYsLTIwNjE3
-MzM0MzgsLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0MzcyMDc5Nz
-QsLTQwODcyMTI2NiwxODMwMDc5MzkyLC0xODk5NTk4NCwtODA5
-NTI5MTA0XX0=
+eyJoaXN0b3J5IjpbLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwtOT
+czMjk3NzA0LDExODA1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQx
+NzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLT
+IyODY3NDc0NCwtMTE1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2
+MTczMzQzOCwtNzAxNzU3OTc0LDc5MzExMDY5MCwtMTQzNzIwNz
+k3NCwtNDA4NzIxMjY2LDE4MzAwNzkzOTIsLTE4OTk1OTg0LC04
+MDk1MjkxMDRdfQ==
 -->
