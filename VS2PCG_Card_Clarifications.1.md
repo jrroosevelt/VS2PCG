@@ -313,6 +313,10 @@ Coulson’s **Special Agent** power means when a character with Agent appears on
 **Level 7 Clearance / I'm a Guy With a Plan**  
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
 
+Set: MCU heroes\
+**They Need Someone to Avenge**\
+Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
+
 
 
 ## Pyro
@@ -427,10 +431,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY4OTkyNDksMTE4MDU1NDk1MiwxOT
-g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
-ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
-wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
-NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwND
-YwODgsNTk5NDk4MTA0LC0xNDIwMDY5NjE2XX0=
+eyJoaXN0b3J5IjpbMTU1MzI5ODg5NiwtMTY0Njg5OTI0OSwxMT
+gwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0
+ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOC
+wtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4
+OTk1OTg0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNj
+Q5NTksMTQ0NDA0NjA4OCw1OTk0OTgxMDQsLTE0MjAwNjk2MTZd
+fQ==
 -->
