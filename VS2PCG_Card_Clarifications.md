@@ -127,8 +127,10 @@ together or with members of their respective teams.
 (Keep in mind all members of a Team Attack must
 share at least one team affiliation.)
 
-**Devil Dinosaur and Moon Girl** (MCs)
-
+**Devil Dinosaur and Moon Girl** (MCs)\
+The Main Characters, Moon Girl and Devil Dinosaur,
+go together. You start with both on your side and
+you’re only out of the game once both are KO’d.
 
 ## Dormammu
 Set: MCU Villains\
@@ -317,6 +319,10 @@ Set: H.A.M.M.E.R.\
 I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
+## Moon Girl
+Set: Monsters Unleashed!\
+See Devil Dinosaur.
+
 ## Morgan Le Fay
 Set: A-Force\
 **Growing Magic**\
@@ -470,7 +476,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzM4MDI2MywxMjY5NzM0MDcwLDEzOT
+eyJoaXN0b3J5IjpbLTk3NDkzNzcwNiwxMjY5NzM0MDcwLDEzOT
 Y5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwtOTczMjk3
 NzA0LDExODA1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLT
 Q1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3
