@@ -116,6 +116,19 @@ Set: Brotherhood of Mutants\
 **Pheromone Control**\
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
+## Devil Dinosaur
+Set: Monsters Unleashed!\
+Moon Girl and Devil Dinosaur each have two different
+team affiliations. Moon Girl is on the Inhumans and
+Devil Dinosaur is on the Monsters Unleashed team.
+But both of them are also on the Moon Girl/Devil
+Dinosaur team. This allows them to Team Attack
+together or with members of their respective teams.
+(Keep in mind all members of a Team Attack must
+share at least one team affiliation.)
+
+**Devil Dinosaur and Moon Girl** (MCs)
+
 ## Dormammu
 Set: MCU Villains\
 **You Will Spend Eternity Dying**\
@@ -456,11 +469,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0xMz
-U4MjY1NTMsLTE2NDY4OTkyNDksMTE4MDU1NDk1MiwxOTg0MjI3
-MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC
-0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCwtMTQz
-NzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5NTI5MT
-A0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5LDE0NDQwNDYwODgs
-NTk5NDk4MTA0XX0=
+eyJoaXN0b3J5IjpbLTIwMDU0MDgyNjMsMTI2OTczNDA3MCwxMz
+k2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MDU1
+NDk1MiwxOTg0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOC
+wxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcw
+MTc1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NT
+k4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5
+LDE0NDQwNDYwODhdfQ==
 -->
