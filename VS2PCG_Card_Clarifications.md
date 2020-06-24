@@ -227,7 +227,8 @@ Set: The MCU Battles\
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
 ## Fin Fang Foom
-
+Set: Monsters Unleashed!\
+Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
 
 ## Goblin Queen
 Set: A-Force\
@@ -489,11 +490,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1MzE1NjUzLC0yMTUzNTE4MywxMjY5Nz
-M0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0
-OSwtOTczMjk3NzA0LDExODA1NTQ5NTIsMTk4NDIyNzMzMywxMj
-g0MjQxNzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4
-OTgsLTIyODY3NDc0NCwtMTE1NDcyMTYyNCwtMTg0ODc5NDQ4Ni
-wtMjA2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzExMDY5MCwtMTQz
-NzIwNzk3NF19
+eyJoaXN0b3J5IjpbMTI4NDQzODE1MywtMjE1MzUxODMsMTI2OT
+czNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTky
+NDksLTk3MzI5NzcwNCwxMTgwNTU0OTUyLDE5ODQyMjczMzMsMT
+I4NDI0MTc1LC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
+ODk4LC0yMjg2NzQ3NDQsLTExNTQ3MjE2MjQsLTE4NDg3OTQ0OD
+YsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0
+MzcyMDc5NzRdfQ==
 -->
