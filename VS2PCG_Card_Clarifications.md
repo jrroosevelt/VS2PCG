@@ -56,6 +56,16 @@ This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
 its cost).
 
+## Black Bolt
+Set: Monsters Unleashed!\
+Black Bolt’s Super Powers use the Amplify ability.
+When you use a Super Power, if you discard a
+Location (instead of turning it face-down in your
+resource row), you get the Amplify text. Previous
+Amplify Super Powers grant an effect to begin with
+but a larger effect if you Amplify it. Black Bolt’s
+powers only grant an effect if you Amplify them.
+
 ## Black Panther (MC)
 Set: MCU Heroes\
 **Vibranium Weave Suit**\
@@ -321,7 +331,7 @@ currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as
 
 ## Moon Girl
 Set: Monsters Unleashed!\
-See [Devil Dinosaur](#Devil Dinosaur).
+See [Devil Dinosaur](#devil-dinosaur).
 
 ## Morgan Le Fay
 Set: A-Force\
@@ -476,11 +486,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMzNTQzMzUsMTI2OTczNDA3MCwxMz
-k2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksLTk3MzI5
-NzcwNCwxMTgwNTU0OTUyLDE5ODQyMjczMzMsMTI4NDI0MTc1LC
-00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMjg2
-NzQ3NDQsLTExNTQ3MjE2MjQsLTE4NDg3OTQ0ODYsLTIwNjE3Mz
-M0MzgsLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0MzcyMDc5NzQs
-LTQwODcyMTI2Nl19
+eyJoaXN0b3J5IjpbLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Nj
+k4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05NzMyOTc3
+MDQsMTE4MDU1NDk1MiwxOTg0MjI3MzMzLDEyODQyNDE3NSwtND
+U5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0
+NzQ0LC0xMTU0NzIxNjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzND
+M4LC03MDE3NTc5NzQsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00
+MDg3MjEyNjZdfQ==
 -->
