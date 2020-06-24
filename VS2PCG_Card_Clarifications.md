@@ -226,6 +226,9 @@ Set: The MCU Battles\
 **Air Superiority**\
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
+## Fin Fang Foom
+
+
 ## Goblin Queen
 Set: A-Force\
 **Token Characters**\
@@ -486,11 +489,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Nj
-k4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05NzMyOTc3
-MDQsMTE4MDU1NDk1MiwxOTg0MjI3MzMzLDEyODQyNDE3NSwtND
-U5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0
-NzQ0LC0xMTU0NzIxNjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzND
-M4LC03MDE3NTc5NzQsNzkzMTEwNjkwLC0xNDM3MjA3OTc0LC00
-MDg3MjEyNjZdfQ==
+eyJoaXN0b3J5IjpbNDg1MzE1NjUzLC0yMTUzNTE4MywxMjY5Nz
+M0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0
+OSwtOTczMjk3NzA0LDExODA1NTQ5NTIsMTk4NDIyNzMzMywxMj
+g0MjQxNzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4
+OTgsLTIyODY3NDc0NCwtMTE1NDcyMTYyNCwtMTg0ODc5NDQ4Ni
+wtMjA2MTczMzQzOCwtNzAxNzU3OTc0LDc5MzExMDY5MCwtMTQz
+NzIwNzk3NF19
 -->
