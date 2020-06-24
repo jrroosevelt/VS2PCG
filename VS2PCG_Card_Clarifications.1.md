@@ -321,7 +321,7 @@ currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as
 
 ## Moon Girl
 Set: Monsters Unleashed!\
-See Devil Dinosaur.
+See [Devil Dinosaur](#Devil Dinosaur).
 
 ## Morgan Le Fay
 Set: A-Force\
@@ -476,11 +476,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDkzNzcwNiwxMjY5NzM0MDcwLDEzOT
-Y5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNTU0
-OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LD
-ExMTYwODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAx
-NzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OT
-g0LC04MDk1MjkxMDQsLTE4OTA4MjcwMjcsLTE0MTUzNjQ5NTks
-MTQ0NDA0NjA4OF19
+eyJoaXN0b3J5IjpbLTEzNjMzNTQzMzUsMTI2OTczNDA3MCwxMz
+k2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MDU1
+NDk1MiwxOTg0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOC
+wxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcw
+MTc1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NT
+k4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0xNDE1MzY0OTU5
+LDE0NDQwNDYwODhdfQ==
 -->
