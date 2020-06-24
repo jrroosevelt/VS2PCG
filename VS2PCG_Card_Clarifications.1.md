@@ -284,6 +284,10 @@ Set: MCU Villains\
  **Fold Space and Matter**\
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
+## Leviathon Hydra
+Set: Monsters Unleashed!\
+See [Fin Fang Foom](#fin-fang-foom).
+
 ## Loki (SC)
 The MCU Battles\
 **I Am Burdened With Glorious Purpose**\
@@ -490,7 +494,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDQzODE1MywtMjE1MzUxODMsMTI2OT
+eyJoaXN0b3J5IjpbLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OT
 czNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTky
 NDksMTE4MDU1NDk1MiwxOTg0MjI3MzMzLC00NTkxNzczODMsMj
 AzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3
