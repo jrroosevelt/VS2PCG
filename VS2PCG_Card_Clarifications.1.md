@@ -127,6 +127,9 @@ Set: Brotherhood of Mutants  \
 **Pheromone Control**  \
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
+## Darkhold
+See [Marvel Required](#wiki_marvel_required)
+
 ## Devil Dinosaur
 Set: Monsters Unleashed!  \
 Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
@@ -422,8 +425,10 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 ## Scourge
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
-**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character
-leaves play.
+**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
+
+## Serpent Crown
+See [Marvel Required](#wiki_marvel_required)
 
 ## Shadow King
 Set: Brotherhood of Mutants  
@@ -509,7 +514,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTk3MzU1NywtMTA1NjgzMDc2MiwtMT
+eyJoaXN0b3J5IjpbMTgyNTI1NjAxOCwtMTA1NjgzMDc2MiwtMT
 A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
 ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1Mz
 M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
