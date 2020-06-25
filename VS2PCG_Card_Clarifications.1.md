@@ -18,6 +18,10 @@ Set: MCU Battles\
 **Give Me a Real Fight!**\
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
+## Agents
+Set: S.H.I.E.L.D. vs. Hydra\
+Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
+
 ## Ajax
 Set: Deadpool & Friends\
 **Pain Tolerance**\
@@ -494,11 +498,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OT
-czNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTky
-NDksMTE4MDU1NDk1MiwxOTg0MjI3MzMzLC00NTkxNzczODMsMj
-AzMTI1NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTIwNjE3
-MzM0MzgsLTcwMTc1Nzk3NCwtMTQzNzIwNzk3NCwtNDA4NzIxMj
-Y2LC0xODk5NTk4NCwtODA5NTI5MTA0LC0xODkwODI3MDI3LC0x
-NDE1MzY0OTU5XX0=
+eyJoaXN0b3J5IjpbMTg1NjM4NzkwMiwtNTUxNDUzMzg5LC0yMT
+UzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1
+MywtMTY0Njg5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLT
+Q1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3
+NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OT
+c0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04MDk1MjkxMDQsLTE4
+OTA4MjcwMjddfQ==
 -->
