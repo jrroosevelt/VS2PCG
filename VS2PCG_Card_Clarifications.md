@@ -497,7 +497,7 @@ Once he’s Level 2, if he would be wounded, there’s a chance it was just a cl
 
 ## Scarlet Spider (SC)
 Set: Spider-Friends  
-
+**Paralytic Darts**  
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
 
 ## Scourge
@@ -624,11 +624,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkxMTAzMDMsLTE5NzcyNjM0MTgsLT
-EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
-NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LD
-EwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5
-MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2OD
-I0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5
-MDIsLTE2ODA4NTQ3MjFdfQ==
+eyJoaXN0b3J5IjpbMTY3MzQxNTYxMiwtMTk3NzI2MzQxOCwtMT
+M0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1
+MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMT
+A1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkx
+NjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4Mj
+QwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYsMTg1NjM4Nzkw
+MiwtMTY4MDg1NDcyMV19
 -->
