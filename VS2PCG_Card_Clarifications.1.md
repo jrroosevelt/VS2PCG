@@ -114,8 +114,9 @@ When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to th
 **Everything’s a Weapon**  \
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
-## Cable
-
+## Cable (MC)
+Set: New Mutants  
+Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
 ## Chimichanga
 Set: Deadpool & Friends  \
@@ -337,6 +338,11 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
+## Mirage
+Set: New Mutants  
+Create Illusion 
+Mirage’s Create Illusion power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
+
 ## Mister Sinister
 Set: Legacy
 **Genetic Manipulation**
@@ -535,11 +541,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzA2NDc3MiwxMTU5NDQ1MTA2LC0xMD
-U2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3
-MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4Nz
-kwMiwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEz
-OTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNT
-U0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4
-LDExMTYwODc4OThdfQ==
+eyJoaXN0b3J5IjpbNDc5NDUxNzAzLDExNTk0NDUxMDYsLTEwNT
+Y4MzA3NjIsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcw
+NDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwxODU2Mzg3OT
+AyLC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5
+Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LDExODA1NT
+Q5NTIsMTk4NDIyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgs
+MTExNjA4Nzg5OF19
 -->
