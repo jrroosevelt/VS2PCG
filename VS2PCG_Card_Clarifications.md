@@ -143,6 +143,12 @@ Spider-Man and many of his friends and foes are great at climbing up buildings. 
 Set: S.H.I.E.L.D. vs. Hydra  
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
 
+# Cyclops (MC) 
+Set: The Utopia Battles  
+You will draw two cards with **They’ll Follow Him** if you have one Supporting Character that is both (Brotherhood) and (X-Men). Similarly, a multi-affiliation character can satisfy more than one of the requirements of **The Squad I’ve Put Together** and **Trust the Plan**. 
+
+Note: **Trust the Plan** will only put three +1/+1 counters on a character even if you’re using it to satisfy two or more of the requirements. And even if you have several characters of all three required affiliations, Trust the Plan can only ever put three counters on three characters maximum.
+
 # Daken
 Set: Brotherhood of Mutants  
 **Pheromone Control**  
@@ -661,11 +667,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMT
-gxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjcz
-MjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LD
-E0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2
-ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5Mj
-UxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5
-OSwtMTIxNTE4MTIyNl19
+eyJoaXN0b3J5IjpbLTcxNDkwODI3MSwtMTg1NTY3ODk5NSwtMT
+IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
+NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
+E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
+MzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMz
+g5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3
+LC0xMDc4NDMxMjk5XX0=
 -->
