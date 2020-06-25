@@ -162,6 +162,9 @@ Set: The Utopia Battles
 **Darkforce Channeling**  
 **Darkforce Channeling** affects all characters, including ones that appear on your side
 
+**Shifting Loyalties**
+See [Shifting Loyalties](#wiki_shifting_loyalties)
+
 # Cosmic Cubes
 Set: S.H.I.E.L.D. vs. Hydra  
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
@@ -171,6 +174,11 @@ Set: The Utopia Battles
 You will draw two cards with **They’ll Follow Him** if you have one Supporting Character that is both (Brotherhood) and (X-Men). Similarly, a multi-affiliation character can satisfy more than one of the requirements of **The Squad I’ve Put Together** and **Trust the Plan**. 
 
 Note: **Trust the Plan** will only put three +1/+1 counters on a character even if you’re using it to satisfy two or more of the requirements. And even if you have several characters of all three required affiliations, Trust the Plan can only ever put three counters on three characters maximum.
+
+# Dagger
+Set: The Utopia Battles  
+**Shifting Loyalties**
+See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 # Daken
 Set: Brotherhood of Mutants  
@@ -761,7 +769,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODg2NjM0NiwxNzYxMTQyMzI4LDk1OD
+eyJoaXN0b3J5IjpbMTQ2MjE2MzMxMSwxNzYxMTQyMzI4LDk1OD
 Q2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUx
 NzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMT
 Y0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1
