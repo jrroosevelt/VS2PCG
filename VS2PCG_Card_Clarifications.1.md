@@ -187,59 +187,60 @@ Here are some quick tips:
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
 ## Ego
-Set: MCU Villains\
-**Soon We Will Be All There Is**\ 
+Set: MCU Villains  
+**Soon We Will Be All There Is**  
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
 
 ## Elektra (MC)
-Set: Legacy\
-**Hand Experience**\
+Set: Legacy  
+**Hand Experience**  
 Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
 
 ## Emma Frost (SC)
-Set: H.A.M.M.E.R.\
-**Fluid Forms and Fidelity**\
+Set: H.A.M.M.E.R.  
+**Fluid Forms and Fidelity**  
 When Emma transforms via Fluid Forms and Fidelity, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of
 her counters, and any effects on her.
 
 ## Evil Deadpool
-Set: Deadpool & Friends \ 
-Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect). \  
+Set: Deadpool & Friends   
+Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect).
 
 **Merc With an Evil Mouth**  
 Evil Deadpool loves being Evil. That’s why he can grant Evil characters on your side the new keyword, Evil Lethal. Evil Lethal works just like regular Lethal except after you KO the supporting defender you laugh evilly. (If you’re unable to laugh evilly you’ll still resolve the effect as much as possible and KO the defender.)  
 
-**It's Like You, But Eviler!**\
+**It's Like You, But Eviler!**  
 Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
 
 ## Falcon
-Set: The MCU Battles\
-**Air Superiority**\
+Set: The MCU Battles  
+**Air Superiority**  
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
 ## Fin Fang Foom
-Set: Monsters Unleashed!\
+Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
 
 ## Goblin Queen
-Set: A-Force\
-**Token Characters**\
+Set: A-Force  
+**Token Characters**  
 Goblin Queen has the power to make token characters. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, remove it from the game.
 
 ## Green Goblin (MC)
-Set: Crossover\
+Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
+
 **Bag of Tricks**  
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
 ## Headsman
-Set: H.A.M.M.E.R.\
-**Executioner**\
+Set: H.A.M.M.E.R.  
+**Executioner**  
 **Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
 
 ## Hulk (MC)
-Set: The MCU Battles\
-See Bruce Banner.
+Set: The MCU Battles  
+See [Bruce Banner](#wiki_.
 
 ## Hulk (SC)
 Set: The MCU Battles\
@@ -485,7 +486,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAwMzAyMTYsMTg1NjM4NzkwMiwtNT
+eyJoaXN0b3J5IjpbLTEyMDEwNDc4MTAsMTg1NjM4NzkwMiwtNT
 UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
 MjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNTU0OTUyLD
 E5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYw
