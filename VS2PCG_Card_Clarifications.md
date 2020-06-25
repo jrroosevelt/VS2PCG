@@ -374,8 +374,8 @@ Set: A-Force
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
 ## Mysterio 
-Set: Sinister Syndicate
-
+Set: Sinister Syndicate  
+** Hallucinogenic Gas **  
 Mysterio can use his special effects expertise to make any plot twist seem like a plot twist. Here are the two in this set:
 
 ## Mystique (MC)
@@ -571,11 +571,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDM4ODQxOSwtMTk3Njg0Mzk4NCwxND
-UyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1Njgz
-MDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MT
-UsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTks
-LTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNT
-UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
-MjQsLTEzNTgyNjU1M119
+eyJoaXN0b3J5IjpbLTE2NzQwMDQ2NjksLTE5NzY4NDM5ODQsMT
+Q1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4
+MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNT
+E1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5
+LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLT
+U1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4
+MzI0LC0xMzU4MjY1NTNdfQ==
 -->
