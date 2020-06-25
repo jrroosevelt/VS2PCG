@@ -524,6 +524,12 @@ Mystique’s super power allows her to transform into a different Level 2 Main C
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
+# Namor (MC)
+Set: The New Defenders  
+Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy characters as well. Likewise, his two **Level Up** powers also DO count facedown exhausted enemy characters as well.
+
+
+
 # Nebula
 Set: The MCU Battles  
 **Rivalry**  
@@ -826,11 +832,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NDcxMjI1LDI2NDg3NzU3MSw0MzExMj
-YzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUs
-LTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMz
-Q5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUz
-LC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMD
-UxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2
-MDM4OTldfQ==
+eyJoaXN0b3J5IjpbLTM3OTc1NzYzNiwyNjQ4Nzc1NzEsNDMxMT
+I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
+LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMT
+M0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1
+MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMT
+A1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkx
+NjAzODk5XX0=
 -->
