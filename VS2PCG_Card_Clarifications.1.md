@@ -428,8 +428,6 @@ Set: Brotherhood of Mutants
 **Fire Manipulation**  
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
-
-
 ## Rhino (SC)
 Set: Crossover  
 **Headlong Charge**  
@@ -477,6 +475,10 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 ## Sif
 Set: Crossover  
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
+
+## Sinister Six 
+Set: Sinister Syndicate
+If you’re playing with the Sinister Six, you actually have six main characters instead of one. Here’s how it works: When you build a Sinister Six deck, choose six main characters with Sinister Six to make up your Sinister Six Pile.
 
 ## Soldiers
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -551,11 +553,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LC0xMD
-U2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3
-MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4Nz
-kwMiwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEz
-OTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNT
-U0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4
-LDExMTYwODc4OThdfQ==
+eyJoaXN0b3J5IjpbMTI5MzM1MDgzMiwxNDUyMzU0MTA2LDExNT
+k0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMTM3Nzk5
+MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMT
+I5OSwxODU2Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MTgzLDEy
+Njk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2OD
+k5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MTc3Mzgz
+LDIwMzEyNTQ4MThdfQ==
 -->
