@@ -256,7 +256,7 @@ If you have Ovomorphs in your deck (the eggs that make Facehuggers), you’ll us
 * Remove the Captive card from the game, but keep any wound counters on it.  
 * Put the Captive card next to (or underneath) its Captor to make it clear who its Captor is.  
 * When the Captor leaves play, put its Captive back into play stunned in its owner’s back row.  
-* You may pay an at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put a character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
+* You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
 * Note: Put the KO’d Facehugger token back into your Facehugger Pile.
 
 ## Falcon
@@ -651,11 +651,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjQ1NTY4NCwxODE1NzUxNzgsLTE5Nz
-cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
-Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
-U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
-Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
-I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
-LDE4NTYzODc5MDJdfQ==
+eyJoaXN0b3J5IjpbLTE1NjczNDg1MDYsMTgxNTc1MTc4LC0xOT
+c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
+MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
+E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
+OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
+cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
+NiwxODU2Mzg3OTAyXX0=
 -->
