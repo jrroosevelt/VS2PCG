@@ -421,7 +421,7 @@ You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t h
 
 ## Soldiers
 Set: S.H.I.E.L.D. vs. Hydra  
-Several characters have the new Soldier Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
+Several (Hydra) characters have the new **Soldier** Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
 
 ## Spider-Gwen
 Set: Legacy  
@@ -446,6 +446,11 @@ Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance O
 Set: The MCU Battles  
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
+
+## Supreme Leader
+Set: S.H.I.E.L.D. vs. Hydra  
+Hydra High Council 
+Supreme Leader has a Super Power which prevents you from losing the game even after he’s KO’d. Just continue to play without a main character.
 
 ## Thor (MC)
 Set: The MCU Battles  
@@ -478,7 +483,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTkwNjg0NywxMzc3OTkyNTE1LC0yMT
+eyJoaXN0b3J5IjpbMTQxNDQxMDgyOSwxMzc3OTkyNTE1LC0yMT
 M4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1
 MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1Mz
 M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
