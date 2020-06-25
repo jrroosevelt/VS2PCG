@@ -20,8 +20,7 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 
 ## Agents
 Set: S.H.I.E.L.D. vs. Hydra\
-
-
+Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
 
 ## Ajax
 Set: Deadpool & Friends\
@@ -499,11 +498,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0OTkwMTkzLC0xNjgwODU0NzIxLC01NT
-E0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMy
-NCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05NzMyOTc3MDQsMT
-E4MDU1NDk1MiwxOTg0MjI3MzMzLDEyODQyNDE3NSwtNDU5MTc3
-MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC
-0xMTU0NzIxNjI0LC0xODQ4Nzk0NDg2LC0yMDYxNzMzNDM4LC03
-MDE3NTc5NzRdfQ==
+eyJoaXN0b3J5IjpbMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNT
+UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
+MjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwtOTczMjk3NzA0LD
+ExODA1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3
+NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NC
+wtMTE1NDcyMTYyNCwtMTg0ODc5NDQ4NiwtMjA2MTczMzQzOCwt
+NzAxNzU3OTc0XX0=
 -->
