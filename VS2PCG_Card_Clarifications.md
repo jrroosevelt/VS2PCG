@@ -781,6 +781,11 @@ Set: Resistance
 **Toadally Awesome**  
 Remember, Toad isn’t just Sort of Awesome.
 
+# Trance 
+Set: Resistance  
+**Astral Form Overload**  
+When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**. **Stealth** means she can melee attack back row characters, even while they’re protected. **Fearless** means that she strikes Main Characters with double her ATK.
+
 # Ultron Facility (MC)
 Set: The MCU Battles  
 Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
@@ -816,11 +821,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE2MTg3NzksNDMxMTI2MzEyLDE3Nj
-ExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5
-NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3MzM1Mi
-w0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0
-Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNS
-wtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEz
-Nzc5OTI1MTVdfQ==
+eyJoaXN0b3J5IjpbMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMT
+QyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5
+MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsND
+AyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5
+ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLT
+EwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3
+OTkyNTE1XX0=
 -->
