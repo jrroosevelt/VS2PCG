@@ -300,11 +300,8 @@ Mandarin is really three potential characters in one. If Mandarin is in your dec
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
 ## Marvel Required (Equipment)
-Set: S.H.I.E.L.D. vs Hydra
-This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the Marvelsymbol on its top right instead of a team
-affiliation. This means in order to play one, you
-must have a face-up character on your
-side. (The Marvel symbol is on the bottom of
+Set: S.H.I.E.L.D. vs Hydra  
+This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
 Marvel character cards.)
 
 ## Masacre
@@ -507,11 +504,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNDc1ODgxLC0xMDU2ODMwNzYyLC0xMD
-kxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4
-MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4NzkwMiwtNTUxNDUzMz
-g5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEz
-NTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMj
-czMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgs
-LTIyODY3NDc0NF19
+eyJoaXN0b3J5IjpbMTA5NTc5NTE5OCwtMTA1NjgzMDc2MiwtMT
+A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
+ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1Mz
+M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
+MzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MDU1NDk1MiwxOTg0Mj
+I3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4
+LC0yMjg2NzQ3NDRdfQ==
 -->
