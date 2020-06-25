@@ -481,6 +481,10 @@ Set: Brotherhood of Mutants
 **Terrifying Delusions**  
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
+## Scarlet Spider (MC)
+Set: Spider-Friends  
+Before he was the Scarlet Spider, the man who would become Ben Reilly was created from Peter Parker’s DNA to be a perfect clone. So in the game he actually starts off as a different “Spider” hero until his true self is revealed (once he reaches Level 2). Here’s how it works: Your Spider Web is a new out-of-play pile that includes up to one copy of every other Level 1 main character with “Spider” in its name. (Currently this includes Spider-Man from The Marvel Battles expansion, *Spider-Man* from Monsters Unleashed, and Spider-Man and Spider-Woman from this Issue.) Your Clone Pile is another out-of-play pile. It starts empty but during the game you’ll put characters from your Spider Web into it. Before the game begins, when each player reveals their main character, you’ll reveal the Scarlet Spider. Then instead of putting him on your side during setup, you’ll put a character from your Spider Web onto your side. When that character would become Level 2, you’ll instead transform it into Level 2 Scarlet Spider. (It will keep
+
 ## Scourge
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
@@ -605,11 +609,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsND
-AyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5
-ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLT
-EwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3
-OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4ND
-MxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3
-MjEsLTU1MTQ1MzM4OV19
+eyJoaXN0b3J5IjpbLTE3NDQyNjg4OTMsLTE5NzcyNjM0MTgsLT
+EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
+NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LD
+EwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5
+MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2OD
+I0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5
+MDIsLTE2ODA4NTQ3MjFdfQ==
 -->
