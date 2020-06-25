@@ -386,6 +386,7 @@ When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignor
 ## Mysterio (SC)
 Set: Sinister Syndicate  
 **Holographic Projector**  
+Plot twists without team affiliations can be played  regardless of the team affiliations you have on face-up characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, (Sinister Syndicate) characters on your side.
 
 ## Mystique (MC)
 Set: Legacy
@@ -580,11 +581,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODQ0MjcwOSwtMTk3Njg0Mzk4NCwxND
-UyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1Njgz
-MDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MT
-UsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTks
-LTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNT
-UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
-MjQsLTEzNTgyNjU1M119
+eyJoaXN0b3J5IjpbNTE2MDM2MTgxLC0xOTc2ODQzOTg0LDE0NT
+IzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMw
+NzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNS
+wtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwt
+MTIxNTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgwODU0NzIxLC01NT
+E0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMy
+NCwtMTM1ODI2NTUzXX0=
 -->
