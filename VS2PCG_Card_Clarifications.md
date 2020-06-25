@@ -36,20 +36,10 @@ Set: The Utopia Battles
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
 
 # Angel (MC)
-Set: Resistance
-When Angel levels up,
-he transforms into
-Archangel. When this
-happens, he keeps
-his orientation
-(ready/exhausted,
-face-up/face-down),
-all of his counters, and any
-effects on him. Also note Archangel
-doesn’t have a Level 1 version. The
-only way to become him normally
-is to start the game with Level 1
-Angel as your Main Character.
+Set: Resistance  
+When Angel levels up, he transforms into Archangel. When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to become him normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
+
+# Arch
 
 # Arnim Zola (MC)
 Set: Crossover  
@@ -787,11 +777,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMzIyMDIxLDQzMTEyNjMxMiwxNzYxMT
-QyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5
-MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsND
-AyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5
-ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLT
-EwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3
-OTkyNTE1XX0=
+eyJoaXN0b3J5IjpbLTc3NTE0NDM1MCw0MzExMjYzMTIsMTc2MT
+E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
+OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLD
+QwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQz
+OTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC
+0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3
+Nzk5MjUxNV19
 -->
