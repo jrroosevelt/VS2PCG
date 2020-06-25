@@ -104,7 +104,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
 ## Bruce Banner (and the Hulk) (MC)
-Set: The MCU Battles
+Set: The MCU Battles  
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
 ## Bullseye (MC)
@@ -117,9 +117,8 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 ## Cable (MC)
 Set: New Mutants  
+**Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
-
-Plot twists without team affiliations can be played regardless of the team affiliations you have on faceup characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, characters on your side.
 
 ## Chameleon
 Set: Sinister Syndicate  
@@ -590,11 +589,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOT
-Q0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2
-LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMT
-A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
-ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2LDE4NTYzOD
-c5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1MzM4OSwtMjE1MzUxODMs
-MTI2OTczNDA3MF19
+eyJoaXN0b3J5IjpbMTA3ODgwMTgwMCw0MDI3MzIxMiwxNjQ5MD
+c1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2
+LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMj
+YwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3
+MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxOD
+EyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNTUxNDUzMzg5
+LC0yMTUzNTE4M119
 -->
