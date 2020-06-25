@@ -18,6 +18,9 @@ Set: MCU Battles\
 **Give Me a Real Fight!**\
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
+## Agents
+Set: 
+
 ## Ajax
 Set: Deadpool & Friends\
 **Pain Tolerance**\
@@ -494,11 +497,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OT
-czNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTky
-NDksLTk3MzI5NzcwNCwxMTgwNTU0OTUyLDE5ODQyMjczMzMsMT
-I4NDI0MTc1LC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
-ODk4LC0yMjg2NzQ3NDQsLTExNTQ3MjE2MjQsLTE4NDg3OTQ0OD
-YsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCw3OTMxMTA2OTAsLTE0
-MzcyMDc5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODA4NTQ3MjEsLTU1MTQ1MzM4OSwtMj
+E1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1
+NTMsLTE2NDY4OTkyNDksLTk3MzI5NzcwNCwxMTgwNTU0OTUyLD
+E5ODQyMjczMzMsMTI4NDI0MTc1LC00NTkxNzczODMsMjAzMTI1
+NDgxOCwxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTExNTQ3MjE2Mj
+QsLTE4NDg3OTQ0ODYsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NCw3
+OTMxMTA2OTBdfQ==
 -->
