@@ -699,11 +699,19 @@ Set: Sinister Syndicate
 **From Above**  
 While Vulture is attacking a character without (Flight) that is also in its back row, his **From Above** power will give him +2/+2. Ka kaw!
 
+# Weapon Omega (MC) 
+Set: The Utopia Battles  
+**Mutant Energy Absorption**  
+**Mutant Energy Absorption**’s effect has no duration. So a character that loses and can’t gain powers this way, will remain like that until it leaves play. 
+
+**Addicted to Mutant Energy**   
+**Addicted to Mutant Energy** affects a character as it appears, which means it won’t even trigger any of its powers that occur when it appears. It also has no duration, so a character affected by it will remain affected until that character leaves play.
+
 # X-23 (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTMwNzc1OSwtMTg1NTY3ODk5NSwtMT
+eyJoaXN0b3J5IjpbMTgwMjU5NTc4MCwtMTg1NTY3ODk5NSwtMT
 IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
 NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
 E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
