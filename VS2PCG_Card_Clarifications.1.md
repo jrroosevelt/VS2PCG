@@ -182,10 +182,7 @@ Here are some quick tips:
 ## Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hypnotic Suggestion**  
-Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect 
-is permanent: the character will remain on your 
-side until it gets KO’d or otherwise leaves play. 
-When KO’d, put it into its owner’s KO pile.
+Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
 
 ## Ego
 Set: MCU Villains 
@@ -226,6 +223,10 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 Set: A-Force  
 **Token Characters**  
 Goblin Queen has the power to make token characters. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, remove it from the game.
+
+## Gorgon
+Set: S.H.I.E.L.D. vs. Hydra  
+The Spear in the East Gorgon’s power removes the stat benefit from +1/+1 counters on enemy characters. They still count as having the counters though. For example, if an enemy character with two +1/+1 counters gains a -1/-1 counter, you’ll still remove one of each counter type.
 
 ## Green Goblin (MC)
 Set: Crossover  
@@ -496,11 +497,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MTMxNjk3LC0xMDkxNjAzODk5LDEzNz
-c5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0
-MzEyOTksMTg1NjM4NzkwMiwtNTUxNDUzMzg5LC0yMTUzNTE4My
-wxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0
-Njg5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3Nz
-M4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwt
-MjA2MTczMzQzOF19
+eyJoaXN0b3J5IjpbLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMT
+M3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3
+ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MT
+gzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0x
+NjQ2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MT
+c3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0
+LC0yMDYxNzMzNDM4XX0=
 -->
