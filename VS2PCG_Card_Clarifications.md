@@ -73,6 +73,7 @@ Set: MCU Heroes
 **Bulletproof**  
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
 
+# Blob 
 ## Blob (MC)
 Set: Crossover  
 **Boing!**  
@@ -89,10 +90,10 @@ Blob’s Stuck in His Stomach power represents a melee attacker getting temporar
 **Bounced Off His Belly**  
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
-## Book of Vishanti
+# Book of Vishanti
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-## Break the Fourth Wall
+# Break the Fourth Wall
 Set: Deadpool & Friends  
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
 
@@ -108,11 +109,11 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
-## Bruce Banner (and the Hulk) (MC)
+# Bruce Banner (and the Hulk) (MC)
 Set: The MCU Battles  
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
-## Bullseye (MC)
+# Bullseye (MC)
 Set: H.A.M.M.E.R.  
 **Perfect Aim**  
 When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
@@ -120,44 +121,45 @@ When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to th
 **Everything’s a Weapon**  
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
-## Cable (MC)
+# Cable (MC)
 Set: New Mutants  
 **Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
-## Chameleon
+# Chameleon
 Set: Sinister Syndicate  
 **Master of Disguise**  
 Chameleon does copy the **Sinister Six** keyword from your main characters who have that keyword. It doesn’t do anything for him in the game because he’s not a main character – he just wants to feel like a real part of the team.
 
-## Chimichanga
+# Chimichanga
 Set: Deadpool & Friends  
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
-## Climb
+# Climb
 Set: Spider-Friends  
 Spider-Man and many of his friends and foes are great at climbing up buildings. In the game, this lets them get an advantage before the fighting starts: At the start of your Main Phase, you may exhaust a location on your side to put a +1/+1 counter on your character with Climb. A character can only climb one location per turn and the same location can’t be climbed by more than one character. (You exhaust the location to show that it’s been climbed.) So if you have two locations but three climbers, one of them is out of luck. During your Recovery Phase your exhausted locations will ready the same time your characters do.
 
-## Cosmic Cubes
+# Cosmic Cubes
 Set: S.H.I.E.L.D. vs. Hydra  
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
 
-## Daken
+# Daken
 Set: Brotherhood of Mutants  
 **Pheromone Control**  
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
-## Darkhold
+# Darkhold
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-## Devil Dinosaur
+# Devil Dinosaur
+## Devil Dinosaur Team Affiliations
 Set: Monsters Unleashed!  
 Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
 
-**Devil Dinosaur and Moon Girl** (MCs)  
+## Devil Dinosaur and Moon Girl (MCs)  
 The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
-## Dormammu
+# Dormammu
 Set: MCU Villains  
 **You Will Spend Eternity Dying**  
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
@@ -651,11 +653,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1Mzg5Mjg0LDE4MTU3NTE3OCwtMTk3Nz
-I2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMy
-LDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNT
-k0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjky
-ODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
-ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYs
-MTg1NjM4NzkwMl19
+eyJoaXN0b3J5IjpbLTUzNTMzMzgzNCwxODE1NzUxNzgsLTE5Nz
+cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
+Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
+U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
+Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
+I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
+LDE4NTYzODc5MDJdfQ==
 -->
