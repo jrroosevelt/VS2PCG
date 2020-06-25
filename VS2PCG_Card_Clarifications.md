@@ -56,7 +56,7 @@ its cost).
 
 ## Black Bolt
 Set: Monsters Unleashed!  
-Black Bolt’s Super Powers use the Amplify ability.When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin withbut a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
+Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
 
 ## Black Cat 
 Set: Spider-Friends  
@@ -651,11 +651,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTM2NTQ4MCwxODE1NzUxNzgsLTE5Nz
-cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
-Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
-U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
-Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
-I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
-LDE4NTYzODc5MDJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDU4MDMwNzIsMTgxNTc1MTc4LC0xOT
+c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
+MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
+E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
+OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
+cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
+NiwxODU2Mzg3OTAyXX0=
 -->
