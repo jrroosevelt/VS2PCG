@@ -437,7 +437,7 @@ Nebula’s **Rivalry** power requires you name a character. You can name any cha
 
 ## New Mutants
 Set: New Mutants  
-The New Mutants are a part of the(X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
+The New Mutants are a part of the (X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
 
 ## Nick Fury (MC)
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -651,7 +651,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzI1MTAxNiwxODE1NzUxNzgsLTE5Nz
+eyJoaXN0b3J5IjpbMTE2Nzk2MzAwNCwxODE1NzUxNzgsLTE5Nz
 cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
 Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
 U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
