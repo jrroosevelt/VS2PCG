@@ -235,7 +235,14 @@ Set: Legacy
 **Hand Experience**  
 Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
 
-# Emma Frost (SC)
+# Emma Frost
+## Emma Frost (MC) 
+Set: The Utopia Battles  
+**Keeper of Law**  
+**Keeper of Law** allows a character to strike an additional time in a combat. The character can strike two different characters once each (if they’re being team attacked, for example), or they can strike the same character twice. In the latter case, add the character’s ATK together for each strike and then compare it to the enemy’s DEF. 
+
+Emma’s power can be used any number of times each turn. So if a character ends up being allowed to strike 3, 4, or more times, it works as above. Any number of strikes can be combined against an enemy or split amongst multiple enemies.
+## Emma Frost (SC)
 Set: H.A.M.M.E.R.  
 **Fluid Forms and Fidelity**  
 When Emma transforms via Fluid Forms and Fidelity, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of
@@ -667,11 +674,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDkwODI3MSwtMTg1NTY3ODk5NSwtMT
-IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
-NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
-E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
-MzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMz
-g5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3
-LC0xMDc4NDMxMjk5XX0=
+eyJoaXN0b3J5IjpbLTEyMjc5MTI3NDMsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
+0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
+MzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MD
+M4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2
+NywtMTA3ODQzMTI5OV19
 -->
