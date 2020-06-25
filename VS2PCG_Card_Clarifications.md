@@ -392,26 +392,27 @@ Set: New Mutants
 **Create Illusion**  
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
 
-## Mister Sinister
+# Mister Sinister
 Set: Legacy  
 **Genetic Manipulation**  
 This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play./
 
-## Mister X
+# Mister X
 Set: H.A.M.M.E.R.  
 **I Can Predict Your Every Move**  
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
-## Moon Girl
+# Moon Girl
 Set: Monsters Unleashed!  
 See [Devil Dinosaur](#wiki_devil_dinosaur).
 
-## Morgan Le Fay
+# Morgan Le Fay
 Set: A-Force  
 **Growing Magic**  
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
+# Mysterio
 ## Mysterio (MC)
 Set: Sinister Syndicate  
 **Hallucinogenic Gas**  
@@ -427,41 +428,42 @@ Set: Sinister Syndicate
 **Holographic Projector**  
 Plot twists without team affiliations can be played  regardless of the team affiliations you have on face-up characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, (Sinister Syndicate) characters on your side.
 
-## Mystique (MC)
+# Mystique (MC)
 Set: Legacy  
 **Identity Theft**  
 Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
-## Nebula
+# Nebula
 Set: The MCU Battles  
 **Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
-## New Mutants
+# New Mutants
 Set: New Mutants  
 The New Mutants are a part of the (X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
 
-## Nick Fury (MC)
+# Nick Fury (MC)
 Set: S.H.I.E.L.D. vs. Hydra  
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
 
-## The Nullifier
+# The Nullifier
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-## Omega Red
+# Omega Red
 Set: Crossover  
 **Carbonadium Tentacles**  
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
-## Onslaught
+# Onslaught
 Set: Legacy  
 **Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
 
-## Phil Coulson
+# Phil Coulson
+## Phil Coulson (Illustrated)
 Set: Crossover  
 **Special Agent**  
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
@@ -469,11 +471,12 @@ Coulson’s **Special Agent** power means when a character with Agent appears on
 **Level 7 Clearance / I'm a Guy With a Plan**  
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
 
+## Phil Coulson (Photo)
 Set: MCU heroes  
 **They Need Someone to Avenge**  
 Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
 
-## Professor X (MC)
+# Professor X (MC)
 Set: New Mutants  
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
 
@@ -482,27 +485,27 @@ Professor X’s **Graduation** power lets you turn an (X-Men) supporting charact
 
 This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
 
-## Pyro
+# Pyro
 Set: Brotherhood of Mutants  
 **Fire Manipulation**  
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
-## Rhino (SC)
+# Rhino (SC)
 Set: Crossover  
 **Headlong Charge**  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
-## Rocket
+# Rocket
 Set: The MCU Battles  
 **I’m Gonna Need a Few Things**  
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
 
-## Rogue
+# Rogue
 Set: A-Force  
 **Absorb Powers**  
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
 
-## Sauron
+# Sauron
 Set: Brotherhood of Mutants  
 **Terrifying Delusions**  
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
@@ -655,11 +658,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU5NjY1MzEsMTgxNTc1MTc4LC0xOT
-c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
-MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
-E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
-OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
-cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
-NiwxODU2Mzg3OTAyXX0=
+eyJoaXN0b3J5IjpbNzY3NTY3Mzg3LDE4MTU3NTE3OCwtMTk3Nz
+I2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMy
+LDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNT
+k0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjky
+ODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
+ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYs
+MTg1NjM4NzkwMl19
 -->
