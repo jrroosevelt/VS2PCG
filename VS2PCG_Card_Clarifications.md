@@ -288,7 +288,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 ## Leviathon Hydra
 Set: Monsters Unleashed!
-See [Fin Fang Foom](#wiki-fin-fang-foom).
+See [Fin Fang Foom](#wiki_fin_fang_foom).
 
 ## Loki (SC)
 The MCU Battles
@@ -347,7 +347,7 @@ currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as
 
 ## Moon Girl
 Set: Monsters Unleashed!
-See [Devil Dinosaur](#wiki-devil-dinosaur).
+See [Devil Dinosaur](#wiki_devil_dinosaur).
 
 ## Morgan Le Fay
 Set: A-Force
@@ -517,11 +517,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MzgyMDQsMTA1MTMzNjkyNSwtMTA1Nj
-gzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1
-MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOT
-ksLTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwt
-NTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5OD
-gzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwtOTczMjk3NzA0
-LDExODA1NTQ5NTJdfQ==
+eyJoaXN0b3J5IjpbMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMD
+U2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5
+MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMT
+I5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgwODU0NzIx
+LC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Nj
+k4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05NzMyOTc3
+MDQsMTE4MDU1NDk1Ml19
 -->
