@@ -290,8 +290,10 @@ Set: MCU Villains
  **Fold Space and Matter**
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
-Kraven the Hunter 
-Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you
+## Kraven the Hunter (MC)
+Set: Sinister Syndicate  
+** Spring the Trap **  
+Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a , and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 ## Leviathon Hydra
 Set: Monsters Unleashed!
@@ -564,11 +566,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkyNDMzNCwxNDUyMzU0MTA2LDExNT
-k0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMTM3Nzk5
-MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMT
-I5OSwxODU2Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MTgzLDEy
-Njk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2OD
-k5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MTc3Mzgz
-LDIwMzEyNTQ4MThdfQ==
+eyJoaXN0b3J5IjpbLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
+U5NDQ1MTA2LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5
+OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0Mz
+EyOTksMTg1NjM4NzkwMiwtNTUxNDUzMzg5LC0yMTUzNTE4Mywx
+MjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Nj
+g5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4
+MywyMDMxMjU0ODE4XX0=
 -->
