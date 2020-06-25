@@ -240,26 +240,26 @@ Set: H.A.M.M.E.R.
 
 ## Hulk (MC)
 Set: The MCU Battles  
-See [Bruce Banner](#wiki_.
+See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29.)
 
 ## Hulk (SC)
-Set: The MCU Battles\
-**Hulk Like Raging Fire**\
+Set: The MCU Battles  
+**Hulk Like Raging Fire**  
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
 
 ## Ironheart
-Set: Crossover\
-**We’re All Weirdos Here**\
+Set: Crossover  
+**We’re All Weirdos Here**  
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
 ## Iron Monger (MC)
-Set: The MCU Battles\
+Set: The MCU Battles  
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
 
 
 ## Jessica Jones
-Set: Legacy/
-**Psionic Protection**/
+Set: Legacy  
+**Psionic Protection**  
 This power refers to (Intellect/Light bulb) super powers.
 This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
@@ -267,18 +267,18 @@ its cost).
 
 
 ## Juggernaut (MC)
-Set: Brotherhood of Mutants\
-**It’s Gonna Take Something More to Stop Me!**\
+Set: Brotherhood of Mutants  
+**It’s Gonna Take Something More to Stop Me!**  
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
 ## Kaecilius
-Set: MCU Villains\
- **Fold Space and Matter**\
+Set: MCU Villains  
+ **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
 ## Leviathon Hydra
-Set: Monsters Unleashed!\
-See [Fin Fang Foom](#fin-fang-foom).
+Set: Monsters Unleashed!  
+See [Fin Fang Foom](#wiki-fin-fang-foom).
 
 ## Loki (SC)
 The MCU Battles\
@@ -486,7 +486,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDEwNDc4MTAsMTg1NjM4NzkwMiwtNT
+eyJoaXN0b3J5IjpbLTE2MjI4NDgxNzYsMTg1NjM4NzkwMiwtNT
 UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
 MjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNTU0OTUyLD
 E5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYw
