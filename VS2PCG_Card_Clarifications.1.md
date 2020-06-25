@@ -83,6 +83,9 @@ Blob’s Stuck in His Stomach power represents a melee attacker getting temporar
 **Bounced Off His Belly**  \
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
+## Book of Vishanti
+See [Marvel Required](#wiki_marvel_required)
+
 ## Break the Fourth Wall
 Set: Deadpool & Friends  \
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
@@ -309,7 +312,6 @@ Set: Deadpool & Friends
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
 
-
 ## Maximus
 Set: Crossover
 **Usurp the Throne**
@@ -362,6 +364,9 @@ Nebula’s **Rivalry** power requires you name a character. You can name any cha
 Set: S.H.I.E.L.D. vs. Hydra  
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
+
+## The Nullifier
+See [Marvel Required](#wiki_marvel_required)
 
 ## Omega Red
 Set: Crossover
@@ -504,7 +509,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTc5NTE5OCwtMTA1NjgzMDc2MiwtMT
+eyJoaXN0b3J5IjpbLTk3NTk3MzU1NywtMTA1NjgzMDc2MiwtMT
 A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
 ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1Mz
 M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
