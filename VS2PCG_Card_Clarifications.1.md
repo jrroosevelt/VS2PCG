@@ -402,8 +402,9 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 
 ## Professor X (MC)
 Set: New Mutants  
-Professor X In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) Professor X’s Graduation power lets you turn an supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
+In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) Professor X’s Graduation power lets you turn an supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
 
+This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
 
 ## Pyro
 Set: Brotherhood of Mutants  
@@ -523,12 +524,16 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
+
+## X-23 (MC)
+Set: New Mutants  
+X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM3NDAzNDgsMTE1OTQ0NTEwNiwtMT
-A1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4
-NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzOD
-c5MDIsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwx
-Mzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MD
-U1NDk1MiwxOTg0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgx
-OCwxMTE2MDg3ODk4XX0=
+eyJoaXN0b3J5IjpbNDMxNjI2MDgxLDExNTk0NDUxMDYsLTEwNT
+Y4MzA3NjIsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcw
+NDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwxODU2Mzg3OT
+AyLC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5
+Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LDExODA1NT
+Q5NTIsMTk4NDIyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgs
+MTExNjA4Nzg5OF19
 -->
