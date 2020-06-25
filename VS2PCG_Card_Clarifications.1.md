@@ -299,6 +299,11 @@ The MCU Battles
 **I Am Burdened With Glorious Purpose**
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
+##Magik 
+Set: New Mutants  
+**Summon Soulsword**  
+Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
+
 ## Magneto (MC)
 Set: Brotherhood of Mutants
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
@@ -546,11 +551,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NTQzNjc5LDExNTk0NDUxMDYsLTEwNT
-Y4MzA3NjIsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcw
-NDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwxODU2Mzg3OT
-AyLC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5
-Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LDExODA1NT
-Q5NTIsMTk4NDIyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgs
-MTExNjA4Nzg5OF19
+eyJoaXN0b3J5IjpbMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LC0xMD
+U2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3
+MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4Nz
+kwMiwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEz
+OTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNT
+U0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4
+LDExMTYwODc4OThdfQ==
 -->
