@@ -157,6 +157,8 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 Set: Spider-Friends  
 Spider-Man and many of his friends and foes are great at climbing up buildings. In the game, this lets them get an advantage before the fighting starts: At the start of your Main Phase, you may exhaust a location on your side to put a +1/+1 counter on your character with Climb. A character can only climb one location per turn and the same location can’t be climbed by more than one character. (You exhaust the location to show that it’s been climbed.) So if you have two locations but three climbers, one of them is out of luck. During your Recovery Phase your exhausted locations will ready the same time your characters do.
 
+
+
 # Cosmic Cubes
 Set: S.H.I.E.L.D. vs. Hydra  
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
@@ -729,11 +731,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTc5MTc4OSw5NTg0NjkwMDMsLTE4NT
-U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
-NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
-gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
-NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NT
-EsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwt
-MTg0NjgyNDA2N119
+eyJoaXN0b3J5IjpbLTExMzY0NDM4MjMsOTU4NDY5MDAzLC0xOD
+U1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2
+MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLD
+Q4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0
+NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyOD
+UxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mjks
+LTE4NDY4MjQwNjddfQ==
 -->
