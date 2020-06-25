@@ -114,6 +114,9 @@ When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to th
 **Everything’s a Weapon**  \
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
+## Cable
+
+
 ## Chimichanga
 Set: Deadpool & Friends  \
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
@@ -402,7 +405,10 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 
 ## Professor X (MC)
 Set: New Mutants  
-In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) Professor X’s Graduation power lets you turn an supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
+In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
+
+**Graduation** 
+Professor X’s **Graduation** power lets you turn an (X-Men) supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
 
 This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
 
@@ -529,11 +535,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNjI2MDgxLDExNTk0NDUxMDYsMTA1MT
-MzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAz
-ODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNj
-csLTEwNzg0MzEyOTksLTEyMTUxODEyMjYsMTg1NjM4NzkwMiwt
-MTY4MDg1NDcyMSwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5Nz
-M0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0
-OSwtOTczMjk3NzA0XX0=
+eyJoaXN0b3J5IjpbLTcwNzA2NDc3MiwxMTU5NDQ1MTA2LDEwNT
+EzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYw
+Mzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MD
+Y3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIs
+LTE2ODA4NTQ3MjEsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OT
+czNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTky
+NDksLTk3MzI5NzcwNF19
 -->
