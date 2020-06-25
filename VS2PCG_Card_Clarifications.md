@@ -129,6 +129,10 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 Set: Deadpool & Friends  
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
+## Climb
+Set: Spider-Friends  
+Spider-Man and many of his friends and foes are great at climbing up buildings. In the game, this lets them get an advantage before the fighting starts: At the start of your Main Phase, you may exhaust a location on your side to put a +1/+1 counter on your character with Climb. A character can only climb one location per turn and the same location can’t be climbed by more than one character. (You exhaust the location to show that it’s been climbed.) So if you have two locations but three climbers, one of them is out of luck. During your Recovery Phase your exhausted locations will ready the same time your characters do.
+
 ## Cosmic Cubes
 Set: S.H.I.E.L.D. vs. Hydra  
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
@@ -528,7 +532,7 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 
 ## Spider-Man (MC)
 Set: Spider-Friends  
-
+**I Can and Will Fight You**
 This issue introduces the powerful Alien Symbiote version of Spider-Man. But as they say, with great alien power comes great alien… danger. While the symbiote does make him stronger, he must remove it or it will quickly be game over. In the comics, when Spider-Man fights off the symbiote, it splits off from him as a separate entity. In the game, when Spider-Man sheds the symbiote, it splits off from him as a separate card. When this happens, Spider-Man will become Level 2 and now wears a cloth version of his black costume and the Alien Symbiote will look for a new host. (Note: Spider-Man Level 2 has one less Health – this represents losing the strength of the symbiote.) 
 
 When a character with the Alien Symbiote is turned face down but isn’t KO’d, just keep the equipment token face up and ready, just like when it’s equipped to a face-up character (it doesn’t exhaust or turn face down). And remember, the symbiote is a jealous entity – it can’t be destroyed or removed from its host (at least until the host leaves play).
@@ -601,11 +605,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDYzMjE0NywtMTM0OTA3MzM1Miw0MD
-I3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4
-NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMT
-A1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5
-OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0Mz
-EyOTksLTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcy
-MSwtNTUxNDUzMzg5XX0=
+eyJoaXN0b3J5IjpbLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsND
+AyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5
+ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLT
+EwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3
+OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4ND
+MxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3
+MjEsLTU1MTQ1MzM4OV19
 -->
