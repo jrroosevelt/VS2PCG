@@ -90,7 +90,7 @@ Blob’s Stuck in His Stomach power represents a melee attacker getting temporar
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
 ## Book of Vishanti
-See [Marvel Required](#wiki_marvel_required)
+See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ## Break the Fourth Wall
 Set: Deadpool & Friends  
@@ -148,7 +148,7 @@ Set: Brotherhood of Mutants
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 ## Darkhold
-See [Marvel Required](#wiki_marvel_required)
+See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ## Devil Dinosaur
 Set: Monsters Unleashed!  
@@ -410,7 +410,7 @@ Morgan le Fay’s super power counts how many times you’ve used a power named 
 
 ## Mysterio (MC)
 Set: Sinister Syndicate  
-** Hallucinogenic Gas **  
+**Hallucinogenic Gas**  
 Mysterio can use his special effects expertise to make any plot twist seem like a (Sinister Syndicate) plot twist. Here are the two in this set:
 
 * Putting the Team Together  
@@ -445,7 +445,7 @@ Set: S.H.I.E.L.D. vs. Hydra
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
 
 ## The Nullifier
-See [Marvel Required](#wiki_marvel_required)
+See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ## Omega Red
 Set: Crossover  
@@ -528,7 +528,7 @@ Set: H.A.M.M.E.R.
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning characterleaves play.
 
 ## Serpent Crown
-See [Marvel Required](#wiki_marvel_required)
+See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ## Shadow King
 Set: Brotherhood of Mutants  
@@ -651,11 +651,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU4MDMwNzIsMTgxNTc1MTc4LC0xOT
-c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
-MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
-E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
-OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
-cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
-NiwxODU2Mzg3OTAyXX0=
+eyJoaXN0b3J5IjpbMTIwMzI1MTAxNiwxODE1NzUxNzgsLTE5Nz
+cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
+Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
+U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
+Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
+I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
+LDE4NTYzODc5MDJdfQ==
 -->
