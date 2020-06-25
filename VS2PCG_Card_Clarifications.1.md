@@ -115,6 +115,9 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 Set: Deadpool & Friends  \
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
+## Cosmic Cubes
+Set: S.H.I.E.L.D. vs. Hydra  
+
 
 ## Daken
 Set: Brotherhood of Mutants  \
@@ -168,8 +171,6 @@ Set: Deadpool & Friends
 * **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including (*Flight*) and (*Range*)). 
  
 * **Ban:** Name a character and choose a number. Put all supporting characters with that name on enemy sides into their owner’s hands. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that. (Except banning it again. You know the old saying: “If you really, really hate a card, ban it twice.”) Any effects that would increase or decrease what an enemy player pays to recruit a banned card are ignored.  
-
-
 
 Here are some quick tips:  
 
@@ -226,7 +227,8 @@ Goblin Queen has the power to make token characters. A token character works jus
 
 ## Gorgon
 Set: S.H.I.E.L.D. vs. Hydra  
-The Spear in the East Gorgon’s power removes the stat benefit from +1/+1 counters on enemy characters. They still count as having the counters though. For example, if an enemy character with two +1/+1 counters gains a -1/-1 counter, you’ll still remove one of each counter type.
+**The Spear in the East**  
+Gorgon’s power removes the stat benefit from +1/+1 counters on enemy characters. They still count as having the counters though. For example, if an enemy character with two +1/+1 counters gains a -1/-1 counter, you’ll still remove one of each counter type.
 
 ## Green Goblin (MC)
 Set: Crossover  
@@ -497,11 +499,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMT
-M3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3
-ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MT
-gzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0x
-NjQ2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MT
-c3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0
-LC0yMDYxNzMzNDM4XX0=
+eyJoaXN0b3J5IjpbLTMzNzk5MTIwMCwtMTA1NjgzMDc2MiwtMT
+A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
+ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1Mz
+M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
+MzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MDU1NDk1MiwxOTg0Mj
+I3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4
+LC0yMjg2NzQ3NDRdfQ==
 -->
