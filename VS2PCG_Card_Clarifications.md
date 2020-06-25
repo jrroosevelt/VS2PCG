@@ -449,7 +449,7 @@ Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as
 
 ## Supreme Leader
 Set: S.H.I.E.L.D. vs. Hydra  
-Hydra High Council 
+**Hydra High Council**   
 Supreme Leader has a Super Power which prevents you from losing the game even after he’s KO’d. Just continue to play without a main character.
 
 ## Thor (MC)
@@ -483,7 +483,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDQxMDgyOSwxMzc3OTkyNTE1LC0yMT
+eyJoaXN0b3J5IjpbMTUwMjA1Mjc0OSwxMzc3OTkyNTE1LC0yMT
 M4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1
 MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1Mz
 M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
