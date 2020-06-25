@@ -127,6 +127,9 @@ Set: Brotherhood of Mutants  \
 **Pheromone Control**  \
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
+## Darkhold
+See [Marvel Required](#wiki_marvel_required)
+
 ## Devil Dinosaur
 Set: Monsters Unleashed!  \
 Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
@@ -425,8 +428,10 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 ## Scourge
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
-**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character
-leaves play.
+**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning characterleaves play.
+
+## Serpent Crown
+See [Marvel Required](#wiki_marvel_required)
 
 ## Shadow King
 Set: Brotherhood of Mutants  
@@ -512,11 +517,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTMzNjkyNSwtOTc1OTczNTU3LC0xMD
-U2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5
-MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMT
-I5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgwODU0NzIx
-LC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Nj
-k4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05NzMyOTc3
-MDQsMTE4MDU1NDk1Ml19
+eyJoaXN0b3J5IjpbOTM1MzgyMDQsMTA1MTMzNjkyNSwtMTA1Nj
+gzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1
+MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOT
+ksLTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwt
+NTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5OD
+gzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwtOTczMjk3NzA0
+LDExODA1NTQ5NTJdfQ==
 -->
