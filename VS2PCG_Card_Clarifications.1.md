@@ -179,6 +179,15 @@ Here are some quick tips:
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
+## Doctor Faust
+Set: S.H.I.E.L.D. vs. Hydra
+Hypnotic Suggestion
+Doctor’s Faustus’s Super Power allows you to
+steal an enemy Supporting Character. This effect
+is permanent: the character will remain on your
+side until it gets KO’d or otherwise leaves play.
+When KO’d, put it into its owner’s KO pile.
+
 ## Ego
 Set: MCU Villains 
 **Soon We Will Be All There Is**    
@@ -342,6 +351,11 @@ Set: The MCU Battles
 **Rivalry**
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
+## Nick Fury (MC)
+Set: S.H.I.E.L.D. vs. Hydra  
+**Infinity Formula**  
+Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
+
 ## Omega Red
 Set: Crossover
 **Carbonadium Tentacles**
@@ -483,7 +497,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjA1Mjc0OSwxMzc3OTkyNTE1LC0yMT
+eyJoaXN0b3J5IjpbLTUxNTExNDgxOSwxMzc3OTkyNTE1LC0yMT
 M4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYz
 ODc5MDIsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MC
 wxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4
