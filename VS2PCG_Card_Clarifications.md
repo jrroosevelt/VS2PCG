@@ -26,8 +26,8 @@ Set: Deadpool & Friends
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
 ## Alcatraz
-**It's a Prison**  
 Set: H.A.M.M.E.R.  
+**It's a Prison**  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 ## Arnim Zola (MC)
@@ -651,11 +651,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjczNDg1MDYsMTgxNTc1MTc4LC0xOT
-c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
-MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
-E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
-OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
-cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
-NiwxODU2Mzg3OTAyXX0=
+eyJoaXN0b3J5IjpbMTYwNTM2NTQ4MCwxODE1NzUxNzgsLTE5Nz
+cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
+Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
+U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
+Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
+I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
+LDE4NTYzODc5MDJdfQ==
 -->
