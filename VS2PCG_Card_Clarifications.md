@@ -394,10 +394,12 @@ Set: H.A.M.M.E.R.
 Set: The MCU Battles  
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
 
-## Hulk (SC)
+## Hulk (SC - Photo)
 Set: The MCU Battles  
 **Hulk Like Raging Fire**  
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
+
+## Hulk (SC - Illustrated)
 
 # Impersonating Powers
 Set: Utopia Battles   
@@ -855,7 +857,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDE1NzE4MywtMTIyNTQ0MDA5OSwyNj
+eyJoaXN0b3J5IjpbLTY1NTg4NTQ3NywtMTIyNTQ0MDA5OSwyNj
 Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
 LC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMT
 k3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1
