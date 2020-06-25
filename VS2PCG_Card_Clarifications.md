@@ -340,8 +340,8 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 ## Mirage
 Set: New Mutants  
-Create Illusion 
-Mirage’s Create Illusion power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
+**Create Illusion**  
+Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
 
 ## Mister Sinister
 Set: Legacy
@@ -501,6 +501,11 @@ Set: The MCU Battles
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
+## Sunspot
+Set: New Mutants   
+**Solar Absorption**  
+Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
+
 ## Supreme Leader
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hydra High Council**   
@@ -541,7 +546,7 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NDUxNzAzLDExNTk0NDUxMDYsMTA1MT
+eyJoaXN0b3J5IjpbNDI0NTQzNjc5LDExNTk0NDUxMDYsMTA1MT
 MzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAz
 ODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNj
 csLTEwNzg0MzEyOTksLTEyMTUxODEyMjYsMTg1NjM4NzkwMiwt
