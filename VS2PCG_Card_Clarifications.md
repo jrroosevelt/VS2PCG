@@ -304,7 +304,10 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 
 ## Marvel Required (Equipment)
 Set: S.H.I.E.L.D. vs Hydra  
-This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
+This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team 
+affiliation. This means in order to play one, you 
+must have a face-up (Marvel) character on your 
+side. (The Marvel symbol is on the bottom of
 Marvel character cards.)
 
 ## Masacre
@@ -509,11 +512,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTk3MzU1NywtMTA1NjgzMDc2MiwxMj
-YwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3
-MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxOD
-EyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNTUxNDUzMzg5
-LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNT
-gyNjU1MywtMTY0Njg5OTI0OSwtOTczMjk3NzA0LDExODA1NTQ5
-NTIsMTk4NDIyNzMzM119
+eyJoaXN0b3J5IjpbMTA1MTMzNjkyNSwtOTc1OTczNTU3LC0xMD
+U2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5
+MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMT
+I5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgwODU0NzIx
+LC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Nj
+k4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05NzMyOTc3
+MDQsMTE4MDU1NDk1Ml19
 -->
