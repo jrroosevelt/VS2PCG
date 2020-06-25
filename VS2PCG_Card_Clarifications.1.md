@@ -15,83 +15,83 @@ For additional information, see also:
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
 ## Abomination
-Set: MCU Battles  
-**Give Me a Real Fight!**  
+Set: MCU Battles
+**Give Me a Real Fight!**
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
 ## Agents
-Set: S.H.I.E.L.D. vs. Hydra  
+Set: S.H.I.E.L.D. vs. Hydra
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
 
 ## Ajax
-Set: Deadpool & Friends  
-**Pain Tolerance**  
+Set: Deadpool & Friends
+**Pain Tolerance**
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
 ## Alcatraz
-**It's a Prison**  
-Set: H.A.M.M.E.R.  
+**It's a Prison**
+Set: H.A.M.M.E.R.
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 ## Arnim Zola (MC)
-Set: Crossover  
-**ESP Box**  
+Set: Crossover
+**ESP Box**
 ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
 
-**A New Robot Body**  
+**A New Robot Body**
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 
 
 ## Avalanche
-Set: Brotherhood of Mutants  
-**Sustained Seismic Waves**  
+Set: Brotherhood of Mutants
+**Sustained Seismic Waves**
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
 ## Baron Mordo (MC)
-Set: Legacy  
-**Hypnotize**  
+Set: Legacy
+**Hypnotize**
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
 ## * Bishop *
-Set: Legacy  
-**Energy Transference**  
-This power refers to (Energy/Atom) super powers. This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in
+Set: Legacy
+**Energy Transference**
+This power refers to (Energy/Atom) super powers.This counts for any super power with the appropriatesymbol in its cost (even if it also has other symbols in
 its cost).
 
 ## Black Bolt
-Set: Monsters Unleashed!  
-Black Bolt’s Super Powers use the Amplify ability.When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with
-but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
+Set: Monsters Unleashed!
+Black Bolt’s Super Powers use the Amplify ability.When you use a Super Power, if you discard aLocation (instead of turning it face-down in yourresource row), you get the Amplify text. PreviousAmplify Super Powers grant an effect to begin with
+but a larger effect if you Amplify it. Black Bolt’spowers only grant an effect if you Amplify them.
 
 ## Black Panther (MC)
-Set: MCU Heroes  
-**Vibranium Weave Suit**  
+Set: MCU Heroes
+**Vibranium Weave Suit**
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
 
 ## Black Panther (SC)
-Set: MCU Heroes  
-**Bulletproof**  
+Set: MCU Heroes
+**Bulletproof**
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
 
 ## Blob (MC)
-Set: Crossover  
-**Boing**  
+Set: Crossover
+**Boing**
 If Blob strikes a character and his Boing! power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
 
-**Immovable Object**  
+**Immovable Object**
 If Blob moves for any reason (including during your Formation Step or because another effect moves him), he will be prevented from gaining an XP. At the end of Blob’s first turn of the game, he will gain an XP if he didn’t move that turn.
 
 ## Blob (SC)
-Set: Brotherhood of Mutants  
-**Stuck in His Stomach**  
+Set: Brotherhood of Mutants
+**Stuck in His Stomach**
 Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
  
-**Bounced Off His Belly**  
+**Bounced Off His Belly**
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
 ## Break the Fourth Wall
-Set: Deadpool & Friends  
+Set: Deadpool & Friends
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
 
 * **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.  
@@ -111,38 +111,37 @@ Set: The MCU Battles
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
 ## Bullseye (MC)
-Set: H.A.M.M.E.R.  
-**Perfect Aim**  
+Set: H.A.M.M.E.R.
+**Perfect Aim**
 When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
-
-**Everything’s a Weapon**  
+**Everything’s a Weapon**
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
 ## Chimichanga
-Set: Deadpool & Friends  
+Set: Deadpool & Friends
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
 
 ## Daken
-Set: Brotherhood of Mutants  
-**Pheromone Control**  
+Set: Brotherhood of Mutants
+**Pheromone Control**
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 ## Devil Dinosaur
-Set: Monsters Unleashed!  
-Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team. But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams. (Keep in mind all members of a Team Attack must share at least one team affiliation.)
+Set: Monsters Unleashed!
+Moon Girl and Devil Dinosaur each have two differentteam affiliations. Moon Girl is on the Inhumans andDevil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/DevilDinosaur team. This allows them to Team Attacktogether or with members of their respective teams.(Keep in mind all members of a Team Attack mustshare at least one team affiliation.)
 
-**Devil Dinosaur and Moon Girl** (MCs)  
-The Main Characters, Moon Girl and Devil Dinosaur, go together. You start with both on your side and you’re only out of the game once both are KO’d.
+**Devil Dinosaur and Moon Girl** (MCs)
+The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side andyou’re only out of the game once both are KO’d.
 
 ## Dormammu
-Set: MCU Villains  
-**You Will Spend Eternity Dying**  
+Set: MCU Villains
+**You Will Spend Eternity Dying**
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 ## Dark Phoenix (SC)
-Set: Crossover  
-**Deconstruct the Universe**  
+Set: Crossover
+**Deconstruct the Universe**
 Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
 
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
@@ -243,23 +242,23 @@ Set: The MCU Battles
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29.)
 
 ## Hulk (SC)
-Set: The MCU Battles  
-**Hulk Like Raging Fire**  
+Set: The MCU Battles
+**Hulk Like Raging Fire**
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
 
 ## Ironheart
-Set: Crossover  
-**We’re All Weirdos Here**  
+Set: Crossover
+**We’re All Weirdos Here**
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
 ## Iron Monger (MC)
-Set: The MCU Battles  
+Set: The MCU Battles
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
 
 
 ## Jessica Jones
-Set: Legacy  
-**Psionic Protection**  
+Set: Legacy
+**Psionic Protection**
 This power refers to (Intellect/Light bulb) super powers.
 This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
@@ -267,48 +266,48 @@ its cost).
 
 
 ## Juggernaut (MC)
-Set: Brotherhood of Mutants  
-**It’s Gonna Take Something More to Stop Me!**  
+Set: Brotherhood of Mutants
+**It’s Gonna Take Something More to Stop Me!**
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
 ## Kaecilius
-Set: MCU Villains  
- **Fold Space and Matter**  
+Set: MCU Villains
+ **Fold Space and Matter**
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
 ## Leviathon Hydra
-Set: Monsters Unleashed!  
+Set: Monsters Unleashed!
 See [Fin Fang Foom](#wiki-fin-fang-foom).
 
 ## Loki (SC)
-The MCU Battles\
-**I Am Burdened With Glorious Purpose**\
+The MCU Battles  
+**I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
 ## Magneto (MC)
-Set: Brotherhood of Mutants\
+Set: Brotherhood of Mutants  
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
 ## Mandarin
-Set: The MCU Battles\
+Set: The MCU Battles  
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
 ## Masacre
-Set: Deadpool & Friends\
+Set: Deadpool & Friends  
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
 
 
 ## Maximus
-Set: Crossover\
-**Usurp the Throne**\
+Set: Crossover  
+**Usurp the Throne**  
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
 ## Mimic (MC)
-Set: H.A.M.M.E.R.\
-**Absorption History**\
+Set: H.A.M.M.E.R.  
+**Absorption History**  
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
 
 During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
@@ -318,51 +317,50 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
 ## Mister Sinister
-Set: Legacy\
-**Genetic Manipulation**\
+Set: Legacy  
+**Genetic Manipulation**  
 This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play./
 
-
 ## Mister X
-Set: H.A.M.M.E.R.\
-**I Can Predict Your Every Move**\
-I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
+Set: H.A.M.M.E.R.  
+**I Can Predict Your Every Move**  
+**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Moon Girl
-Set: Monsters Unleashed!\
-See [Devil Dinosaur](#devil-dinosaur).
+Set: Monsters Unleashed!  
+See [Devil Dinosaur](#wiki-devil-dinosaur).
 
 ## Morgan Le Fay
-Set: A-Force\
-**Growing Magic**\
+Set: A-Force  
+**Growing Magic**  
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
 ## Mystique (MC)
-Set: Legacy\
-**Identity Theft**\
+Set: Legacy  
+**Identity Theft**  
 Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
 ## Nebula
-Set: The MCU Battles\
-**Rivalry**\
+Set: The MCU Battles  
+**Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
 ## Omega Red
-Set: Crossover\
-**Carbonadium Tentacles**\
+Set: Crossover  
+**Carbonadium Tentacles**  
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
 ## Onslaught
-Set: Legacy\
-**Joint Consciousness**\
+Set: Legacy  
+**Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
 
 ## Phil Coulson
-Set: Crossover\
-**Special Agent**\
+Set: Crossover  
+**Special Agent**  
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
 
 **Level 7 Clearance / I'm a Guy With a Plan**  
@@ -486,11 +484,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI4NDgxNzYsMTg1NjM4NzkwMiwtNT
-UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
-MjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNTU0OTUyLD
-E5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYw
-ODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3OT
-c0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04
-MDk1MjkxMDRdfQ==
+eyJoaXN0b3J5IjpbODMwNDUzODYxLDE4NTYzODc5MDIsLTU1MT
+Q1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0
+LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MDU1NDk1MiwxOT
+g0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3
+ODk4LC0yMjg2NzQ3NDQsLTIwNjE3MzM0MzgsLTcwMTc1Nzk3NC
+wtMTQzNzIwNzk3NCwtNDA4NzIxMjY2LC0xODk5NTk4NCwtODA5
+NTI5MTA0XX0=
 -->
