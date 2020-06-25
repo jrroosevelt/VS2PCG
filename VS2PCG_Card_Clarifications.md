@@ -496,6 +496,17 @@ Set: MCU heroes
 **They Need Someone to Avenge**  
 Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
 
+# Pixie (MC)
+Set: The Utopia Battles  
+**Souldagger** 
+**Souldagger** causes a character to lose each modifier it gained during combat. A modifier is an effect that modifies the game. There are two types of modifiers – 
+
+A one-shot modifier does something immediately and then is done. Example: “Put two +1/+1 counters on a character.”
+
+ A continuous modifier has an ongoing effect on the game, which may or may not have a duration. Example: “Choose a character to get +2/+0 and **Lethal** this combat.” 
+ 
+When Pixie uses Souldagger, it will cause an enemy character to lose any continuous modifiers that are applying to it. (It won’t stop any one-shot modifiers because it’s impossible for there to be any one-shot modifiers happening while you use Souldagger.) Half-Fairy will give Pixie an XP when any character (including an enemy) pays an . This includes when a character uses an Super Power, or choosing to spend an when you play the Plot Twist Sacred Ground.
+
 # Professor X (MC)
 Set: New Mutants  
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
@@ -681,7 +692,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNzQ5NTAxLC0xODU1Njc4OTk1LC0xMj
+eyJoaXN0b3J5IjpbODA0MDMzNDUzLC0xODU1Njc4OTk1LC0xMj
 A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
 MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
 k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
