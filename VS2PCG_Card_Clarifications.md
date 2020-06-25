@@ -280,34 +280,34 @@ Set: Monsters Unleashed!
 See [Fin Fang Foom](#wiki-fin-fang-foom).
 
 ## Loki (SC)
-The MCU Battles  
-**I Am Burdened With Glorious Purpose**  
+The MCU Battles
+**I Am Burdened With Glorious Purpose**
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
 ## Magneto (MC)
-Set: Brotherhood of Mutants  
+Set: Brotherhood of Mutants
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
 ## Mandarin
-Set: The MCU Battles  
+Set: The MCU Battles
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
 ## Masacre
-Set: Deadpool & Friends  
+Set: Deadpool & Friends
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
 
 
 ## Maximus
-Set: Crossover  
-**Usurp the Throne**  
+Set: Crossover
+**Usurp the Throne**
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
 ## Mimic (MC)
-Set: H.A.M.M.E.R.  
-**Absorption History**  
+Set: H.A.M.M.E.R.
+**Absorption History**
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
 
 During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
@@ -317,50 +317,50 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
 ## Mister Sinister
-Set: Legacy  
-**Genetic Manipulation**  
+Set: Legacy
+**Genetic Manipulation**
 This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play./
 
 ## Mister X
-Set: H.A.M.M.E.R.  
-**I Can Predict Your Every Move**  
+Set: H.A.M.M.E.R.
+**I Can Predict Your Every Move**
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Moon Girl
-Set: Monsters Unleashed!  
+Set: Monsters Unleashed!
 See [Devil Dinosaur](#wiki-devil-dinosaur).
 
 ## Morgan Le Fay
-Set: A-Force  
-**Growing Magic**  
+Set: A-Force
+**Growing Magic**
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
 ## Mystique (MC)
-Set: Legacy  
-**Identity Theft**  
+Set: Legacy
+**Identity Theft**
 Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
 ## Nebula
-Set: The MCU Battles  
-**Rivalry**  
+Set: The MCU Battles
+**Rivalry**
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
 ## Omega Red
-Set: Crossover  
-**Carbonadium Tentacles**  
+Set: Crossover
+**Carbonadium Tentacles**
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
 ## Onslaught
-Set: Legacy  
-**Joint Consciousness**  
+Set: Legacy
+**Joint Consciousness**
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
 
 ## Phil Coulson
-Set: Crossover  
-**Special Agent**  
+Set: Crossover
+**Special Agent**
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
 
 **Level 7 Clearance / I'm a Guy With a Plan**  
@@ -480,11 +480,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg0MzEyOTksLTEyMTUxODEyMjYsMT
-g1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNTUxNDUzMzg5LC0yMTUz
-NTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1My
-wtMTY0Njg5OTI0OSwtOTczMjk3NzA0LDExODA1NTQ5NTIsMTk4
-NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4MywyMDMxMjU0OD
-E4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMTE1NDcyMTYyNCwt
-MTg0ODc5NDQ4Nl19
+eyJoaXN0b3J5IjpbLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLT
+EyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNTUx
+NDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMj
+QsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwtOTczMjk3NzA0LDEx
+ODA1NTQ5NTIsMTk4NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3Nz
+M4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwt
+MTE1NDcyMTYyNF19
 -->
