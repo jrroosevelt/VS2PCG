@@ -1,3 +1,4 @@
+
 # Rule insert card clarifications
 
 The following clarifications are included in the rule inserts that come with the various sets. 
@@ -119,6 +120,11 @@ Set: New Mutants
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
 Plot twists without team affiliations can be played regardless of the team affiliations you have on faceup characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, characters on your side.
+
+## Chameleon
+Set: Sinister Syndicate  
+**Master of Disguise**  
+Chameleon does copy the **Sinister Six** keyword from your main characters who have that keyword. It doesn’t do anything for him in the game because he’s not a main character – he just wants to feel like a real part of the team.
 
 ## Chimichanga
 Set: Deadpool & Friends  
@@ -575,15 +581,20 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 
+## Vulture
+Set: Sinister Syndicate  
+**From Above**  
+While Vulture is attacking a character without (Flight) that is also in its back row, his **From Above** power will give him +2/+2. Ka kaw!
+
 ## X-23 (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwxND
-UyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2
-MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyND
-A2NywtMTA3ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODks
-LTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1OD
-I2NTUzLC0xNjQ2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMz
-MywtNDU5MTc3MzgzXX0=
+eyJoaXN0b3J5IjpbNDAyNzMyMTIsMTY0OTA3NTgzMiwtMTk3Nj
+g0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3
+NjIsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOS
+wtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwxODU2Mzg3OTAyLC01
+NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4OD
+MyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LDExODA1NTQ5NTIs
+MTk4NDIyNzMzM119
 -->
