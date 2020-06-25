@@ -242,6 +242,17 @@ Evil Deadpool loves being Evil. That’s why he can grant Evil characters on you
 **It's Like You, But Eviler!**  
 Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
 
+## Facehugger
+Set: The Alien Battles  
+**Facehuggers and Capturing Characters**   
+If you have Ovomorphs in your deck (the eggs that make Facehuggers), you’ll use the Facehugger Pile. 
+
+* The Facehugger Pile includes three Facehugger token characters and one Extended Incubation card. These cards start the game out of play. (If more than one player is using Ovomorphs, they will each use their own Facehugger Pile.) 
+
+* When an Ovomorph is ready to Hatch, reveal a random card from your Facehugger Pile. 
+
+*If you reveal the Extended Incubation card, the Ovomorph doesn’t open yet. Shuffle the Extended Incubation card back into your Facehugger Pile. • If you reveal a Facehugger token character, KO its Ovomorph, put the Facehugger into your Back Row, and it captures an enemy supporting character. (It can capture a face-up or stunned supporting character.) • “Capture” is a new game action that means: • Remove the Captive card from the game, but keep any wound counters on it. • Put the Captive card next to (or underneath) its Captor to make it clear who its Captor is. • When the Captor leaves play, put its Captive back into play stunned in its owner’s back row. 27 • You may pay an at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put a character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.) • Note: Put the KO’d Facehugger token back into your Facehugger Pile.
+
 ## Falcon
 Set: The MCU Battles  
 **Air Superiority**  
@@ -634,11 +645,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMz
-Q5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUz
-LC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMD
-UxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2
-MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyND
-A2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OTAy
-LC0xNjgwODU0NzIxXX0=
+eyJoaXN0b3J5IjpbLTM3MjQyNDc4MSwxODE1NzUxNzgsLTE5Nz
+cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
+Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
+U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
+Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
+I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
+LDE4NTYzODc5MDJdfQ==
 -->
