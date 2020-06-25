@@ -49,8 +49,10 @@ Set: Brotherhood of Mutants
 **Sustained Seismic Waves**  
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
-## Avalanche (HAMMER)
-Set: The Utopia Battles
+## Avalanche (Resistance)
+Set: The Utopia Battles  
+**The Big One**
+The Big One KOs basic Locations with different types. The types are , , , , , and .
 
 # Baron Mordo (MC)
 Set: Legacy  
@@ -720,11 +722,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
-A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
-MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
-k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
-NjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzOD
-k5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcs
-LTEwNzg0MzEyOTldfQ==
+eyJoaXN0b3J5IjpbLTIzMjI1NDcxMiw5NTg0NjkwMDMsLTE4NT
+U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
+NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
+gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
+NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NT
+EsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwt
+MTg0NjgyNDA2N119
 -->
