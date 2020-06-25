@@ -264,6 +264,10 @@ Here are some quick tips:
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
+# Devil Slayer
+Set: The New Defenders  
+Devil-Slayer His Shadow Cloak lets him attack hidden and stunned characters. Treat it as a regular attack (both players can play Plot Twists, Power Up, etc.), but keep in mind the face-down character’s powers are turned off and its team affiliation is not available for things like playing a plot twist.
+
 # Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hypnotic Suggestion**  
@@ -528,7 +532,12 @@ Playing with friends, you can choose to transform into any character in your col
 Set: The New Defenders  
 Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy characters as well. Likewise, his two **Level Up** powers also DO count facedown exhausted enemy characters as well.
 
+**Atlantis Rises**  
+**Atlantis Rises** adds a new row to your side, between your back row and your resource row, for the rest of the game. A player can’t have more than one Atlantis row on their side. Atlantis works just like your front and back rows (you can move characters there during your Formation Step, for example) with the following exceptions: 
 
+* Characters in Atlantis can’t attack.  
+* They are ‘protected’ by faceup characters in your front row and back row.  
+* They can’t be attacked unless each character in your front and back rows is face down.
 
 # Nebula
 Set: The MCU Battles  
@@ -832,11 +841,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTc1NzYzNiwyNjQ4Nzc1NzEsNDMxMT
-I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
-LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMT
-M0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1
-MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMT
-A1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkx
-NjAzODk5XX0=
+eyJoaXN0b3J5IjpbLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
+EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
+NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLT
+EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
+NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LD
+EwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5
+MTYwMzg5OV19
 -->
