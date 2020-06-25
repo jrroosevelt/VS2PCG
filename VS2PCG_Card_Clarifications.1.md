@@ -293,7 +293,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ## Kraven the Hunter (MC)
 Set: Sinister Syndicate  
 ** Spring the Trap **  
-Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a , and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
+Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 ## Leviathon Hydra
 Set: Monsters Unleashed!
@@ -372,6 +372,11 @@ See [Devil Dinosaur](#wiki_devil_dinosaur).
 Set: A-Force
 **Growing Magic**
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
+
+## Mysterio 
+Set: Sinister Syndicate
+
+Mysterio can use his special effects expertise to make any plot twist seem like a plot twist. Here are the two in this set:
 
 ## Mystique (MC)
 Set: Legacy
@@ -566,11 +571,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
-U5NDQ1MTA2LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5
-OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0Mz
-EyOTksMTg1NjM4NzkwMiwtNTUxNDUzMzg5LC0yMTUzNTE4Mywx
-MjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Nj
-g5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4
-MywyMDMxMjU0ODE4XX0=
+eyJoaXN0b3J5IjpbMTU3NDM4ODQxOSwtMTk3Njg0Mzk4NCwxND
+UyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2
+MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyND
+A2NywtMTA3ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODks
+LTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1OD
+I2NTUzLC0xNjQ2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMz
+MywtNDU5MTc3MzgzXX0=
 -->
