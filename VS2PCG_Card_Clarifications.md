@@ -526,6 +526,9 @@ Set: Legacy
 **Dimensional Wristwatch**  
 Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
 
+## Spider-Man (MC)
+Set: 
+
 ## Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -594,11 +597,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OT
-A3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEw
-NiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMT
-I2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4
-NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MT
-gxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1MzM4
-OSwtMjE1MzUxODNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjEwNjkzOSwtMTM0OTA3MzM1Miw0MD
+I3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4
+NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMT
+A1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5
+OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0Mz
+EyOTksLTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcy
+MSwtNTUxNDUzMzg5XX0=
 -->
