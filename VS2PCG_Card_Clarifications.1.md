@@ -366,6 +366,10 @@ Set: The MCU Battles
 **Rivalry**
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
+## New Mutants
+Set: New Mutants  
+The New Mutants are a part of the(X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
+
 ## Nick Fury (MC)
 Set: S.H.I.E.L.D. vs. Hydra  
 **Infinity Formula**  
@@ -396,6 +400,9 @@ Set: MCU heroes
 **They Need Someone to Avenge**  
 Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
 
+## Professor X (MC)
+Set: New Mutants  
+Professor X In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) Professor X’s Graduation power lets you turn an supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
 
 
 ## Pyro
@@ -517,11 +524,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMT
-A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
-ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1Mz
-M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
-MzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MDU1NDk1MiwxOTg0Mj
-I3MzMzLC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4
-LC0yMjg2NzQ3NDRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzM3NDAzNDgsMTE1OTQ0NTEwNiwtMT
+A1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4
+NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzOD
+c5MDIsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwx
+Mzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksMTE4MD
+U1NDk1MiwxOTg0MjI3MzMzLC00NTkxNzczODMsMjAzMTI1NDgx
+OCwxMTE2MDg3ODk4XX0=
 -->
