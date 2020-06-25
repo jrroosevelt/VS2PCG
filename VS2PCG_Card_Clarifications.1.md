@@ -445,25 +445,25 @@ Set: The MCU Battles
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
 ## Star Lord (SC)
-Set: The MCU Battles 
-**Half Celestial**\
+Set: The MCU Battles  
+**Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 ## Thor (MC)
-Set: The MCU Battles\
-**Journey of Self Discovery**\ 
+Set: The MCU Battles  
+**Journey of Self Discovery**  
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
 ## Titania
-Set: A-Force\
-**Durable**\
+Set: A-Force  
+**Durable**  
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recoversand doesn’t get wounded. 
 
 However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though
 she would recover immediately, getting stunned would still remove her from combat.
 
 ## Ultron Facility (MC)
-Set: The MCU Battles\
+Set: The MCU Battles  
 Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
 
 During the game you can use any Ultron’s **There’s Only One Path To Peace** power to put the lowest level Ultron from your Ultron Facility onto your side. When one of your Ultron main 27 characters gets KO’d it goes back to your Ultron Facility where it will be available to be brought back again.
@@ -474,16 +474,17 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 
 
 ## Venom (MC)
-Set: Crossover\
+Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
-**Relentless Bond**
+
+**Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzg4NTc4OSwxODU2Mzg3OTAyLC01NT
-E0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMy
-NCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LDExODA1NTQ5NTIsMT
-k4NDIyNzMzMywtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4
-Nzg5OCwtMjI4Njc0NzQ0LC0yMDYxNzMzNDM4LC03MDE3NTc5Nz
-QsLTE0MzcyMDc5NzQsLTQwODcyMTI2NiwtMTg5OTU5ODQsLTgw
-OTUyOTEwNF19
+eyJoaXN0b3J5IjpbLTEwNzg0MzEyOTksMTg1NjM4NzkwMiwtNT
+UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
+MjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwxMTgwNTU0OTUyLD
+E5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYw
+ODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMzQzOCwtNzAxNzU3OT
+c0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYsLTE4OTk1OTg0LC04
+MDk1MjkxMDRdfQ==
 -->
