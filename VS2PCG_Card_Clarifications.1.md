@@ -288,7 +288,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 ## Leviathon Hydra
 Set: Monsters Unleashed!
-See [Fin Fang Foom](#wiki-fin-fang-foom).
+See [Fin Fang Foom](#wiki_fin_fang_foom).
 
 ## Loki (SC)
 The MCU Battles
@@ -307,7 +307,10 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 
 ## Marvel Required (Equipment)
 Set: S.H.I.E.L.D. vs Hydra  
-This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
+This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team 
+affiliation. This means in order to play one, you 
+must have a face-up (Marvel) character on your 
+side. (The Marvel symbol is on the bottom of
 Marvel character cards.)
 
 ## Masacre
@@ -344,7 +347,7 @@ currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as
 
 ## Moon Girl
 Set: Monsters Unleashed!
-See [Devil Dinosaur](#wiki-devil-dinosaur).
+See [Devil Dinosaur](#wiki_devil_dinosaur).
 
 ## Morgan Le Fay
 Set: A-Force
@@ -425,7 +428,7 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 ## Scourge
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
-**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
+**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning characterleaves play.
 
 ## Serpent Crown
 See [Marvel Required](#wiki_marvel_required)
@@ -514,7 +517,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTI1NjAxOCwtMTA1NjgzMDc2MiwtMT
+eyJoaXN0b3J5IjpbMTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMT
 A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
 ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1Mz
 M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
