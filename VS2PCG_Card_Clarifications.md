@@ -366,92 +366,87 @@ Coulson’s **Special Agent** power means when a character with Agent appears on
 **Level 7 Clearance / I'm a Guy With a Plan**  
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
 
-Set: MCU heroes\
-**They Need Someone to Avenge**\
+Set: MCU heroes  
+**They Need Someone to Avenge**  
 Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
 
 
 
 ## Pyro
-Set: Brotherhood of Mutants\
-**Fire Manipulation**
+Set: Brotherhood of Mutants  
+**Fire Manipulation**  
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
 
 
 ## Rhino (SC)
-Set: Crossover\
-**Headlong Charge**\
+Set: Crossover  
+**Headlong Charge**  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
 ## Rocket
-Set: The MCU Battles\
-**I’m Gonna Need a Few Things**\
+Set: The MCU Battles  
+**I’m Gonna Need a Few Things**  
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
 
 ## Rogue
-Set: A-Force\
-**Absorb Powers**\
+Set: A-Force  
+**Absorb Powers**  
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
 
-
-
 ## Sauron
-Set: Brotherhood of Mutants\
-**Terrifying Delusions**\
+Set: Brotherhood of Mutants  
+**Terrifying Delusions**  
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
 ## Scourge
-Set: H.A.M.M.E.R.\
-**Betsy’s Incendiary Missiles**\
+Set: H.A.M.M.E.R.  
+**Betsy’s Incendiary Missiles**  
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character
 leaves play.
 
 ## Shadow King
-Set: Brotherhood of Mutants\
-**Anchor Host**\
+Set: Brotherhood of Mutants  
+**Anchor Host**  
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
 
 ## She-Hulk (MC)
-Set: A-Force\
-**Rules Lawyer**\
+Set: A-Force  
+**Rules Lawyer**  
 She-Hulk’s main character introduces a new kind of super power called a **Reaction**. It reads: 
-
-
 
 > Reaction : When an enemy player uses a super power, you may say “Objection!” If you do, cancel that super power.
 
-
-
 Reaction powers trigger when a certain condition is met (in this case it’s “When an enemy player uses a super power”). When that happens you can pay an (and say “Objection” of course) and if you do it cancels the super power so it never takes effect.
+
 You can use a Reaction power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 ## Sif
-Set: Crossover\
+Set: Crossover  
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
 ## Spider-Gwen
-Set: Legacy\
-**Dimensional Wristwatch**\
+Set: Legacy  
+**Dimensional Wristwatch**  
 Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
 
 ## Squirrel Girl
-Set: Legacy\
-**Let’s Get Nuts**\
+Set: Legacy  
+**Let’s Get Nuts**  
 Squirrel Girl’s power lets her put token characters into play. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, it ceases to exist. The token card can be reused later if Squirrel Girl appears again.
 
 ## Stand Together
-Set: Crossover\
+Set: Crossover  
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
-## Start Lord (MC)
-Set: The MCU Battles\
-**Dance Off, Bro**\
+## Star Lord (MC)
+Set: The MCU Battles  
+**Dance Off, Bro**  
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
 ## Star Lord (SC)
-Set: The MCU Battles\
-**Half Celestial**\
+Set: The MCU Battles  
+**Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 ## Thor (MC)
@@ -484,11 +479,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNDUzODYxLC0xMjE1MTgxMjI2LDE4NT
-YzODc5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1MzM4OSwtMjE1MzUx
-ODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLT
-E2NDY4OTkyNDksLTk3MzI5NzcwNCwxMTgwNTU0OTUyLDE5ODQy
-MjczMzMsMTI4NDI0MTc1LC00NTkxNzczODMsMjAzMTI1NDgxOC
-wxMTE2MDg3ODk4LC0yMjg2NzQ3NDQsLTExNTQ3MjE2MjQsLTE4
-NDg3OTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzk2MjA1NzMsLTEyMTUxODEyMjYsMT
+g1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNTUxNDUzMzg5LC0yMTUz
+NTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1My
+wtMTY0Njg5OTI0OSwtOTczMjk3NzA0LDExODA1NTQ5NTIsMTk4
+NDIyNzMzMywxMjg0MjQxNzUsLTQ1OTE3NzM4MywyMDMxMjU0OD
+E4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMTE1NDcyMTYyNCwt
+MTg0ODc5NDQ4Nl19
 -->
