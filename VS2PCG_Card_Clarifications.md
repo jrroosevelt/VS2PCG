@@ -419,6 +419,10 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 Set: Crossover  
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
+## Soldiers
+Set: S.H.I.E.L.D. vs. Hydra  
+Several characters have the new Soldier Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
+
 ## Spider-Gwen
 Set: Legacy  
 **Dimensional Wristwatch**  
@@ -474,11 +478,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMT
-g0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIyNiwxODU2
-Mzg3OTAyLC0xNjgwODU0NzIxLC01NTE0NTMzODksLTIxNTM1MT
-gzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0x
-NjQ2ODk5MjQ5LC05NzMyOTc3MDQsMTE4MDU1NDk1MiwxOTg0Mj
-I3MzMzLDEyODQyNDE3NSwtNDU5MTc3MzgzLDIwMzEyNTQ4MTgs
-MTExNjA4Nzg5OF19
+eyJoaXN0b3J5IjpbMjAyOTkwNjg0NywxMzc3OTkyNTE1LC0yMT
+M4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1
+MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1Mz
+M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
+MzU4MjY1NTMsLTE2NDY4OTkyNDksLTk3MzI5NzcwNCwxMTgwNT
+U0OTUyLDE5ODQyMjczMzMsMTI4NDI0MTc1LC00NTkxNzczODMs
+MjAzMTI1NDgxOF19
 -->
