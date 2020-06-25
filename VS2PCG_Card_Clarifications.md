@@ -505,7 +505,10 @@ A one-shot modifier does something immediately and then is done. Example: “Put
 
  A continuous modifier has an ongoing effect on the game, which may or may not have a duration. Example: “Choose a character to get +2/+0 and **Lethal** this combat.” 
  
-When Pixie uses Souldagger, it will cause an enemy character to lose any continuous modifiers that are applying to it. (It won’t stop any one-shot modifiers because it’s impossible for there to be any one-shot modifiers happening while you use Souldagger.) Half-Fairy will give Pixie an XP when any character (including an enemy) pays an . This includes when a character uses an Super Power, or choosing to spend an when you play the Plot Twist Sacred Ground.
+When Pixie uses **Souldagger**, it will cause an enemy character to lose any continuous modifiers that are applying to it. (It won’t stop any one-shot modifiers because it’s impossible for there to be any one-shot modifiers happening while you use **Souldagger**.) 
+
+**Half-Fairy**  
+**Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an (Energy/"Blue"). This includes when a character uses an (Engergy/"Blue") Super Power, or choosing to spend an (Energy/"Blue") when you play the Plot Twist **Sacred Ground**.
 
 # Professor X (MC)
 Set: New Mutants  
@@ -692,11 +695,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MDMzNDUzLC0xODU1Njc4OTk1LC0xMj
-A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
-MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
-k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
-NjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzOD
-k5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcs
-LTEwNzg0MzEyOTldfQ==
+eyJoaXN0b3J5IjpbMTQ3Mzg0MjI1NywtMTg1NTY3ODk5NSwtMT
+IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
+NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
+E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
+MzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMz
+g5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3
+LC0xMDc4NDMxMjk5XX0=
 -->
