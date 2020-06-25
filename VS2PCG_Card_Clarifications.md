@@ -610,6 +610,11 @@ Set: The MCU Battles
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
 
 # Rogue
+## Rogue (MC)
+Set: Resistance
+Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
+
+## Rogue (SC)
 Set: A-Force  
 **Absorb Powers**  
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
@@ -744,6 +749,8 @@ Set: The MCU Battles
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
+Storm You Can’t Weather This Storm is a Keyword Power, not a Super Power.
+
 # Sunspot
 Set: New Mutants   
 **Solar Absorption**  
@@ -801,11 +808,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0ODg2OTg3LDQzMTEyNjMxMiwxNzYxMT
-QyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5
-MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsND
-AyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5
-ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLT
-EwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3
-OTkyNTE1XX0=
+eyJoaXN0b3J5IjpbLTMwMjAxNTA3NSw0MzExMjYzMTIsMTc2MT
+E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
+OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLD
+QwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQz
+OTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC
+0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3
+Nzk5MjUxNV19
 -->
