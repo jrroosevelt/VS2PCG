@@ -290,6 +290,9 @@ Set: MCU Villains
  **Fold Space and Matter**
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
+Kraven the Hunter 
+Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you
+
 ## Leviathon Hydra
 Set: Monsters Unleashed!
 See [Fin Fang Foom](#wiki_fin_fang_foom).
@@ -478,7 +481,15 @@ You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t h
 
 ## Sinister Six 
 Set: Sinister Syndicate  
-If you’re playing with the Sinister Six, you actually have six main characters instead of one. Here’s how it works: When you build a Sinister Six deck, choose six main characters with Sinister Six to make up your Sinister Six Pile.
+If you’re playing with the Sinister Six, you actually have six main characters instead of one. Here’s how it works: When you build a Sinister Six deck, choose six main characters with **Sinister Six** to make up your Sinister Six Pile.
+
+Before the game begins, when each player reveals their main character, you’ll reveal each main character in your Sinister Six Pile. Then when you would put your main character on your side during setup, choose any character in your Sinister Six Pile and put it on your side. 
+
+During the game, when your Sinister Six main character gets KO’d remove it from the game but you don’t lose the game – unless your Sinister Six Pile is empty. At the start of your next turn, choose one of the remaining characters in your Sinister Six Pile and put it onto your side. 
+
+The **Sinister Six** keyword can’t be turned off.
+
+Keep in mind when choosing your next Sinister Six main character, you can choose one with the same name as a supporting character on your side – but if you do, that supporting character will be KO’d.
 
 ## Soldiers
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -553,7 +564,7 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjQyODA4MCwxNDUyMzU0MTA2LDExNT
+eyJoaXN0b3J5IjpbLTEwMzkyNDMzNCwxNDUyMzU0MTA2LDExNT
 k0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjky
 ODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
 ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYs
