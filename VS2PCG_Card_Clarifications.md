@@ -373,15 +373,19 @@ Set: A-Force
 **Growing Magic**
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
-## Mysterio 
+## Mysterio (MC)
 Set: Sinister Syndicate  
-** Hallucinogenic Gas **  
+**Hallucinogenic Gas**  
 Mysterio can use his special effects expertise to make any plot twist seem like a (Sinister Syndicate) plot twist. Here are the two in this set:
 
 * Putting the Team Together  
 * Sinister Six
 
-When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignore everything that’s printed on it, and pretend you just played one of the (Sinister Syndicate) plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an (Avengers) Combat plot twist during your Build Phase as a copy of Putting the Team Together.
+When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignore everything that’s printed on it, and pretend you just played one of the (Sinister Syndicate) plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an (Avengers) **Combat** plot twist during your Build Phase as a copy of Putting the Team Together.
+
+## Mysterio (SC)
+Set: Sinister Syndicate  
+**Holographic Projector**  
 
 ## Mystique (MC)
 Set: Legacy
@@ -576,11 +580,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjE4OTQ2LC0xOTc2ODQzOTg0LDE0NT
-IzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMw
-NzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNS
-wtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwt
-MTIxNTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgwODU0NzIxLC01NT
-E0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMy
-NCwtMTM1ODI2NTUzXX0=
+eyJoaXN0b3J5IjpbLTM3ODQ0MjcwOSwtMTk3Njg0Mzk4NCwxND
+UyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1Njgz
+MDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MT
+UsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTks
+LTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNT
+UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
+MjQsLTEzNTgyNjU1M119
 -->
