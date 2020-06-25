@@ -556,6 +556,11 @@ This issue introduces the powerful Alien Symbiote version of Spider-Man. But as 
 
 When a character with the Alien Symbiote is turned face down but isn’t KO’d, just keep the equipment token face up and ready, just like when it’s equipped to a face-up character (it doesn’t exhaust or turn face down). And remember, the symbiote is a jealous entity – it can’t be destroyed or removed from its host (at least until the host leaves play).
 
+## Spider-Man (SC)
+Set: Spider-Friends  
+**Spider-Powers**
+Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
+
 ## Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -624,11 +629,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzQxNTYxMiwtMTk3NzI2MzQxOCwtMT
-M0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1
-MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMT
-A1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkx
-NjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4Mj
-QwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYsMTg1NjM4Nzkw
-MiwtMTY4MDg1NDcyMV19
+eyJoaXN0b3J5IjpbMTc2OTA3NDE1LC0xOTc3MjYzNDE4LC0xMz
+Q5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUz
+LC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMD
+UxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2
+MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyND
+A2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OTAy
+LC0xNjgwODU0NzIxXX0=
 -->
