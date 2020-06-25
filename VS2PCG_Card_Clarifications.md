@@ -182,8 +182,8 @@ Here are some quick tips:
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
 ## Ego
-Set: MCU Villains 
-**Soon We Will Be All There Is**  
+Set: MCU Villains\
+**Soon We Will Be All There Is**\  
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
 
 ## Elektra (MC)
@@ -476,11 +476,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NTAzNzU0LC0xODQ2ODI0MDY3LC0xMD
-c4NDMxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4
-NTQ3MjEsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MC
-wxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksLTk3
-MzI5NzcwNCwxMTgwNTU0OTUyLDE5ODQyMjczMzMsMTI4NDI0MT
-c1LC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC0y
-Mjg2NzQ3NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ0OTkxMjAsLTE4NDY4MjQwNjcsLT
+EwNzg0MzEyOTksLTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4
+MDg1NDcyMSwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MD
+cwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwt
+OTczMjk3NzA0LDExODA1NTQ5NTIsMTk4NDIyNzMzMywxMjg0Mj
+QxNzUsLTQ1OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgs
+LTIyODY3NDc0NF19
 -->
