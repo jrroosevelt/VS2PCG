@@ -644,7 +644,7 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 Set: The Utopia battles  
 At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (HAMMER) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
 
-See also:
+See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
 
 # Sif
 Set: Crossover  
@@ -769,11 +769,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjE2MzMxMSwxNzYxMTQyMzI4LDk1OD
-Q2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUx
-NzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMT
-Y0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1
-NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3Nj
-IsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0y
-MTM4NzA0NzI5XX0=
+eyJoaXN0b3J5IjpbNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4ND
+Y5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3
+OCwtMTk3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNj
+Q5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0
+MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2Mi
+wxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIx
+Mzg3MDQ3MjldfQ==
 -->
