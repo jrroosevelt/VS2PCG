@@ -179,7 +179,7 @@ Here are some quick tips:
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
-## Doctor Faust
+## Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
 **
 Hypnotic Suggestion**  
@@ -498,11 +498,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMz
-c3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4
-NDMxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NT
-Q3MjEsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwx
-Mzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksLTk3Mz
-I5NzcwNCwxMTgwNTU0OTUyLDE5ODQyMjczMzMsMTI4NDI0MTc1
-LC00NTkxNzczODNdfQ==
+eyJoaXN0b3J5IjpbODQ2Nzk1MDI5LDEyNjAyOTI4NTEsLTEwOT
+E2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0Njgy
+NDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OT
+AyLC0xNjgwODU0NzIxLC01NTE0NTMzODksLTIxNTM1MTgzLDEy
+Njk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2OD
+k5MjQ5LC05NzMyOTc3MDQsMTE4MDU1NDk1MiwxOTg0MjI3MzMz
+LDEyODQyNDE3NV19
 -->
