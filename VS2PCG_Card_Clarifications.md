@@ -37,9 +37,12 @@ Set: The Utopia Battles
 
 # Angel (MC)
 Set: Resistance  
-When Angel levels up, he transforms into Archangel. When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to become him normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
+When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to become him normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
 
-# Arch
+# Archangel
+Set: Resistance  
+**Violent**  
+**Violent** means that he strikes Supporting Characters with double his ATK.
 
 # Arnim Zola (MC)
 Set: Crossover  
@@ -326,6 +329,10 @@ Falcon’s **Air Superiority** power prevents characters with from striking him.
 # Fin Fang Foom
 Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
+
+# Gambit 
+Set: Resistance  
+Note that discarding a card includes Power Ups. So each time any character on your side Powers Up, Gambit will gain an XP.
 
 # Goblin Queen
 Set: A-Force  
@@ -777,7 +784,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTE0NDM1MCw0MzExMjYzMTIsMTc2MT
+eyJoaXN0b3J5IjpbMjAwMTUwOTgxOCw0MzExMjYzMTIsMTc2MT
 E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
 OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLD
 QwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQz
