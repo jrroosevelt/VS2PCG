@@ -181,10 +181,8 @@ Here are some quick tips:
 
 ## Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
-**
-Hypnotic Suggestion**  
-Doctor’s Faustus’s Super Power allows you to 
-steal an enemy Supporting Character. This effect 
+**Hypnotic Suggestion**  
+Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect 
 is permanent: the character will remain on your 
 side until it gets KO’d or otherwise leaves play. 
 When KO’d, put it into its owner’s KO pile.
@@ -498,7 +496,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2Nzk1MDI5LDEyNjAyOTI4NTEsLTEwOT
+eyJoaXN0b3J5IjpbNTI4MTMxNjk3LDEyNjAyOTI4NTEsLTEwOT
 E2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0Njgy
 NDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OT
 AyLC0xNjgwODU0NzIxLC01NTE0NTMzODksLTIxNTM1MTgzLDEy
