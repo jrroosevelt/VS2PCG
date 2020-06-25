@@ -30,6 +30,11 @@ Set: H.A.M.M.E.R.
 **It's a Prison**  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
+Armor 
+Set: The Utopia Battles  
+**Psionic Exoskeleton**  
+**Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
+
 # Arnim Zola (MC)
 Set: Crossover  
 **ESP Box**  
@@ -39,9 +44,12 @@ ESP Box takes effect once the game starts and lasts the whole game (even while A
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 # Avalanche
+## Avalanche (Brotherhood)
 Set: Brotherhood of Mutants  
 **Sustained Seismic Waves**  
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
+
+## Avalanche 
 
 # Baron Mordo (MC)
 Set: Legacy  
@@ -711,11 +719,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjU5NTc4MCwtMTg1NTY3ODk5NSwtMT
-IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
-NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
-E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
-MzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMz
-g5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3
-LC0xMDc4NDMxMjk5XX0=
+eyJoaXN0b3J5IjpbLTIwMDg3NTExMDgsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
+0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
+MzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MD
+M4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2
+NywtMTA3ODQzMTI5OV19
 -->
