@@ -259,23 +259,23 @@ Set: The MCU Battles
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29.)
 
 ## Hulk (SC)
-Set: The MCU Battles
-**Hulk Like Raging Fire**
+Set: The MCU Battles  
+**Hulk Like Raging Fire**  
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
 
 ## Ironheart
-Set: Crossover
-**We’re All Weirdos Here**
+Set: Crossover  
+**We’re All Weirdos Here**  
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
 ## Iron Monger (MC)
-Set: The MCU Battles
+Set: The MCU Battles  
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
 
 
 ## Jessica Jones
-Set: Legacy
-**Psionic Protection**
+Set: Legacy  
+**Psionic Protection**  
 This power refers to (Intellect/Light bulb) super powers.
 This counts for any super power with the appropriate
 symbol in its cost (even if it also has other symbols in
@@ -283,13 +283,13 @@ its cost).
 
 
 ## Juggernaut (MC)
-Set: Brotherhood of Mutants
-**It’s Gonna Take Something More to Stop Me!**
+Set: Brotherhood of Mutants  
+**It’s Gonna Take Something More to Stop Me!**  
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
 ## Kaecilius
-Set: MCU Villains
- **Fold Space and Matter**
+Set: MCU Villains  
+ **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
 ## Kraven the Hunter (MC)
@@ -298,50 +298,47 @@ Set: Sinister Syndicate
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 ## Leviathon Hydra
-Set: Monsters Unleashed!
+Set: Monsters Unleashed!  
 See [Fin Fang Foom](#wiki_fin_fang_foom).
 
 ## Loki (SC)
-The MCU Battles
-**I Am Burdened With Glorious Purpose**
+The MCU Battles  
+**I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
-##Magik 
+## Magik 
 Set: New Mutants  
 **Summon Soulsword**  
 Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
 
 ## Magneto (MC)
-Set: Brotherhood of Mutants
+Set: Brotherhood of Mutants  
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
 ## Mandarin
-Set: The MCU Battles
+Set: The MCU Battles  
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
 ## Marvel Required (Equipment)
-Set: S.H.I.E.L.D. vs Hydra  
-This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team 
-affiliation. This means in order to play one, you 
-must have a face-up (Marvel) character on your 
-side. (The Marvel symbol is on the bottom of
+Set: S.H.I.E.L.D. vs Hydra    
+This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
 Marvel character cards.)
 
 ## Masacre
-Set: Deadpool & Friends
+Set: Deadpool & Friends  
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
 
 ## Maximus
-Set: Crossover
-**Usurp the Throne**
+Set: Crossover  
+**Usurp the Throne**  
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
 ## Mimic (MC)
-Set: H.A.M.M.E.R.
-**Absorption History**
+Set: H.A.M.M.E.R.  
+**Absorption History**  
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
 
 During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
@@ -351,33 +348,33 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
 ## Mirage
-Set: New Mutants  
+Set: New Mutants   
 **Create Illusion**  
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
 
 ## Mister Sinister
-Set: Legacy
-**Genetic Manipulation**
+Set: Legacy  
+**Genetic Manipulation**  
 This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play./
 
 ## Mister X
-Set: H.A.M.M.E.R.
-**I Can Predict Your Every Move**
+Set: H.A.M.M.E.R.  
+**I Can Predict Your Every Move**  
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ## Moon Girl
-Set: Monsters Unleashed!
+Set: Monsters Unleashed!  
 See [Devil Dinosaur](#wiki_devil_dinosaur).
 
 ## Morgan Le Fay
-Set: A-Force
-**Growing Magic**
+Set: A-Force  
+**Growing Magic**  
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
 
 ## Mysterio (MC)
 Set: Sinister Syndicate  
-**Hallucinogenic Gas**  
+** Hallucinogenic Gas **  
 Mysterio can use his special effects expertise to make any plot twist seem like a (Sinister Syndicate) plot twist. Here are the two in this set:
 
 * Putting the Team Together  
@@ -391,15 +388,15 @@ Set: Sinister Syndicate
 Plot twists without team affiliations can be played  regardless of the team affiliations you have on face-up characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, (Sinister Syndicate) characters on your side.
 
 ## Mystique (MC)
-Set: Legacy
-**Identity Theft**
+Set: Legacy  
+**Identity Theft**  
 Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
 ## Nebula
-Set: The MCU Battles
-**Rivalry**
+Set: The MCU Battles  
+**Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
 ## New Mutants
@@ -415,7 +412,7 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 See [Marvel Required](#wiki_marvel_required)
 
 ## Omega Red
-Set: Crossover
+Set: Crossover 
 **Carbonadium Tentacles**
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
@@ -583,7 +580,7 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjMxMzU5MCwtMTk3Njg0Mzk4NCwxND
+eyJoaXN0b3J5IjpbLTU2NTY1ODE1NCwtMTk3Njg0Mzk4NCwxND
 UyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2
 MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyND
 A2NywtMTA3ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODks
