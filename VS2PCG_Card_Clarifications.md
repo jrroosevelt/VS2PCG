@@ -266,7 +266,7 @@ Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Chara
 
 # Doctor Nemesis
 Set: Resistance  
-
+**Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
 
 
@@ -294,7 +294,7 @@ Set: The Utopia Battles
 
 Emma’s power can be used any number of times each turn. So if a character ends up being allowed to strike 3, 4, or more times, it works as above. Any number of strikes can be combined against an enemy or split amongst multiple enemies.
 
-## Emma Frost (SC)
+## Emma Frost (SC) (HAMMER)
 Set: H.A.M.M.E.R.  
 **Fluid Forms and Fidelity**  
 When Emma transforms via Fluid Forms and Fidelity, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of
@@ -791,11 +791,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Njc2OTMzMCw0MzExMjYzMTIsMTc2MT
-E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
-OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLD
-QwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQz
-OTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC
-0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3
-Nzk5MjUxNV19
+eyJoaXN0b3J5IjpbNzQ2NzQ4NjE5LDQzMTEyNjMxMiwxNzYxMT
+QyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5
+MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsND
+AyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5
+ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLT
+EwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3
+OTkyNTE1XX0=
 -->
