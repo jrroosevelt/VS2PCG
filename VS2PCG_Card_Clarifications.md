@@ -164,7 +164,7 @@ Set: MCU Villains
 **You Will Spend Eternity Dying**  
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
-## Dark Phoenix (SC)
+# Dark Phoenix (SC)
 Set: Crossover  \
 **Deconstruct the Universe**  
 Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
@@ -184,7 +184,7 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 
 
 
-## Deadpool (MC)
+# Deadpool (MC)
 Set: Deadpool & Friends
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
 > 
@@ -208,16 +208,17 @@ Here are some quick tips:
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
-## Doctor Faustus
+# Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hypnotic Suggestion**  
 Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
 
-## Ego
+# Ego
 Set: MCU Villains 
 **Soon We Will Be All There Is**    
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
 
+# Electro
 ## Electro (SC)
 Set: Sinister Syndicate  
 **Electrocution**  
@@ -228,13 +229,13 @@ Set: Legacy
 **Hand Experience**  
 Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
 
-## Emma Frost (SC)
+# Emma Frost (SC)
 Set: H.A.M.M.E.R.  
 **Fluid Forms and Fidelity**  
 When Emma transforms via Fluid Forms and Fidelity, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of
 her counters, and any effects on her.
 
-## Evil Deadpool
+# Evil Deadpool
 Set: Deadpool & Friends   
 Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect).
 
@@ -244,7 +245,7 @@ Evil Deadpool loves being Evil. That’s why he can grant Evil characters on you
 **It's Like You, But Eviler!**  
 Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
 
-## Facehugger
+# Facehugger
 Set: The Alien Battles  
 **Facehuggers and Capturing Characters**   
 If you have Ovomorphs in your deck (the eggs that make Facehuggers), you’ll use the Facehugger Pile. 
@@ -261,37 +262,38 @@ If you have Ovomorphs in your deck (the eggs that make Facehuggers), you’ll us
 * You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
 * Note: Put the KO’d Facehugger token back into your Facehugger Pile.
 
-## Falcon
+# Falcon
 Set: The MCU Battles  
 **Air Superiority**  
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
-## Fin Fang Foom
+# Fin Fang Foom
 Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
 
-## Goblin Queen
+# Goblin Queen
 Set: A-Force  
 **Token Characters**  
 Goblin Queen has the power to make token characters. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, remove it from the game.
 
-## Gorgon
+# Gorgon
 Set: S.H.I.E.L.D. vs. Hydra  
 **The Spear in the East**  
 Gorgon’s power removes the stat benefit from +1/+1 counters on enemy characters. They still count as having the counters though. For example, if an enemy character with two +1/+1 counters gains a -1/-1 counter, you’ll still remove one of each counter type.
 
-## Green Goblin (MC)
+# Green Goblin (MC)
 Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
 
 **Bag of Tricks**  
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
-## Headsman
+# Headsman
 Set: H.A.M.M.E.R.  
 **Executioner**  
 **Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
 
+# Hulk
 ## Hulk (MC)
 Set: The MCU Battles  
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29.)
@@ -301,17 +303,17 @@ Set: The MCU Battles
 **Hulk Like Raging Fire**  
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
 
-## Ironheart
+# Ironheart
 Set: Crossover  
 **We’re All Weirdos Here**  
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
-## Iron Monger (MC)
+# Iron Monger (MC)
 Set: The MCU Battles  
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
 
 
-## Jessica Jones
+# Jessica Jones
 Set: Legacy  
 **Psionic Protection**  
 This power refers to (Intellect/Light bulb) super powers.
@@ -320,61 +322,61 @@ symbol in its cost (even if it also has other symbols in
 its cost).
 
 
-## Juggernaut (MC)
+# Juggernaut (MC)
 Set: Brotherhood of Mutants  
 **It’s Gonna Take Something More to Stop Me!**  
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
-## Kaecilius
+# Kaecilius
 Set: MCU Villains  
  **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
-## Kraven the Hunter (MC)
+# Kraven the Hunter (MC)
 Set: Sinister Syndicate  
 ** Spring the Trap **  
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
-## Leviathon Hydra
+# Leviathon Hydra
 Set: Monsters Unleashed!  
 See [Fin Fang Foom](#wiki_fin_fang_foom).
 
-## Loki (SC)
+# Loki (SC)
 The MCU Battles  
 **I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
-## Magik 
+# Magik 
 Set: New Mutants  
 **Summon Soulsword**  
 Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
 
-## Magneto (MC)
+# Magneto (MC)
 Set: Brotherhood of Mutants  
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
-## Mandarin
+# Mandarin
 Set: The MCU Battles  
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
-## Marvel Required (Equipment)
+# Marvel Required (Equipment)
 Set: S.H.I.E.L.D. vs Hydra    
 This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
 Marvel character cards.)
 
-## Masacre
+# Masacre
 Set: Deadpool & Friends  
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
 
-## Maximus
+# Maximus
 Set: Crossover  
 **Usurp the Throne**  
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
-## Mimic (MC)
+# Mimic (MC)
 Set: H.A.M.M.E.R.  
 **Absorption History**  
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
@@ -385,7 +387,7 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
-## Mirage
+# Mirage
 Set: New Mutants   
 **Create Illusion**  
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
@@ -653,11 +655,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTMzMzgzNCwxODE1NzUxNzgsLTE5Nz
-cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
-Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
-U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
-Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
-I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
-LDE4NTYzODc5MDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMDU5NjY1MzEsMTgxNTc1MTc4LC0xOT
+c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
+MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
+E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
+OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
+cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
+NiwxODU2Mzg3OTAyXX0=
 -->
