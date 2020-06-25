@@ -52,7 +52,14 @@ Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. 
 ## Avalanche (Resistance)
 Set: The Utopia Battles  
 **The Big One**
-The Big One KOs basic Locations with different types. The types are , , , , , and .
+**The Big One** KOs basic Locations with different types. The types are:
+
+* Energy (Blue)  
+* Intellect (Yellow)  
+* Might (Green)
+* Skill (Red)  
+* Alien (Space)
+* Humanity (Earth)
 
 # Baron Mordo (MC)
 Set: Legacy  
@@ -722,7 +729,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjI1NDcxMiw5NTg0NjkwMDMsLTE4NT
+eyJoaXN0b3J5IjpbMTE0OTc5MTc4OSw5NTg0NjkwMDMsLTE4NT
 U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
 NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
 gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
