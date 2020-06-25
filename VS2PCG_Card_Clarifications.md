@@ -78,15 +78,15 @@ If Blob strikes a character and his Boing! power causes that character to strike
 If Blob moves for any reason (including during your Formation Step or because another effect moves him), he will be prevented from gaining an XP. At the end of Blob’s first turn of the game, he will gain an XP if he didn’t move that turn.
 
 ## Blob (SC)
-Set: Brotherhood of Mutants
-**Stuck in His Stomach**
+Set: Brotherhood of Mutants\
+**Stuck in His Stomach**\
 Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
  
-**Bounced Off His Belly**
+**Bounced Off His Belly**\
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
 ## Break the Fourth Wall
-Set: Deadpool & Friends
+Set: Deadpool & Friends\
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
 
 * **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.  
@@ -102,41 +102,42 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
 ## Bruce Banner (and the Hulk) (MC)
-Set: The MCU Battles  
+Set: The MCU Battles\
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
 ## Bullseye (MC)
-Set: H.A.M.M.E.R.
-**Perfect Aim**
+Set: H.A.M.M.E.R.\
+**Perfect Aim**\
 When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
-**Everything’s a Weapon**
+
+**Everything’s a Weapon**\
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
 ## Chimichanga
-Set: Deadpool & Friends
+Set: Deadpool & Friends\
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
 
 ## Daken
-Set: Brotherhood of Mutants
-**Pheromone Control**
+Set: Brotherhood of Mutants\
+**Pheromone Control**\
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 ## Devil Dinosaur
-Set: Monsters Unleashed!
-Moon Girl and Devil Dinosaur each have two differentteam affiliations. Moon Girl is on the Inhumans andDevil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/DevilDinosaur team. This allows them to Team Attacktogether or with members of their respective teams.(Keep in mind all members of a Team Attack mustshare at least one team affiliation.)
+Set: Monsters Unleashed!\
+Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
 
-**Devil Dinosaur and Moon Girl** (MCs)
-The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side andyou’re only out of the game once both are KO’d.
+**Devil Dinosaur and Moon Girl** (MCs)\
+The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
 ## Dormammu
-Set: MCU Villains
-**You Will Spend Eternity Dying**
+Set: MCU Villains\
+**You Will Spend Eternity Dying**\
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 ## Dark Phoenix (SC)
-Set: Crossover
-**Deconstruct the Universe**
+Set: Crossover\
+**Deconstruct the Universe**\
 Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
 
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
@@ -155,7 +156,7 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 
 
 ## Deadpool (MC)
-Set: Deadpool & Friends  
+Set: Deadpool & Friends\
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
 > 
 > It’s because a main character can only level up into a main character from the same set or into one that has the same artwork. And guess what? I don’t mean to brag but I’m actually a designer now. You know all the cards in this set that you love? That’s right -- I designed them. (All the cards that you hate were designed by those other two dummies.) Designing stuff is sweet. You can pretty much do whatever you want.  
@@ -181,7 +182,7 @@ Here are some quick tips:
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
 ## Ego
-Set: MCU Villains  
+Set: MCU Villains 
 **Soon We Will Be All There Is**  
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
 
@@ -475,11 +476,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzMwMzE1NCwtMTg0NjgyNDA2NywtMT
-A3ODQzMTI5OSwtMTIxNTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgw
-ODU0NzIxLC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNz
-AsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05
-NzMyOTc3MDQsMTE4MDU1NDk1MiwxOTg0MjI3MzMzLDEyODQyND
-E3NSwtNDU5MTc3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwt
-MjI4Njc0NzQ0XX0=
+eyJoaXN0b3J5IjpbNjc0NTAzNzU0LC0xODQ2ODI0MDY3LC0xMD
+c4NDMxMjk5LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4
+NTQ3MjEsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MC
+wxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDksLTk3
+MzI5NzcwNCwxMTgwNTU0OTUyLDE5ODQyMjczMzMsMTI4NDI0MT
+c1LC00NTkxNzczODMsMjAzMTI1NDgxOCwxMTE2MDg3ODk4LC0y
+Mjg2NzQ3NDRdfQ==
 -->
