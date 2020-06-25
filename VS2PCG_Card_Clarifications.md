@@ -510,6 +510,7 @@ Set: Brotherhood of Mutants
 **Terrifying Delusions**  
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
+# Scarlet Spider
 ## Scarlet Spider (MC)
 Set: Spider-Friends  
 Before he was the Scarlet Spider, the man who would become Ben Reilly was created from Peter Parker’s DNA to be a perfect clone. So in the game he actually starts off as a different “Spider” hero until his true self is revealed (once he reaches Level 2). Here’s how it works: 
@@ -529,20 +530,20 @@ Set: Spider-Friends
 **Paralytic Darts**  
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
 
-## Scourge
+# Scourge
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning characterleaves play.
 
-## Serpent Crown
+# Serpent Crown
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-## Shadow King
+# Shadow King
 Set: Brotherhood of Mutants  
 **Anchor Host**  
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
 
-## She-Hulk (MC)
+# She-Hulk (MC)
 Set: A-Force  
 **Rules Lawyer**  
 She-Hulk’s main character introduces a new kind of super power called a **Reaction**. It reads: 
@@ -553,11 +554,11 @@ Reaction powers trigger when a certain condition is met (in this case it’s “
 
 You can use a Reaction power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
-## Sif
+# Sif
 Set: Crossover  
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
-## Sinister Six 
+# Sinister Six 
 Set: Sinister Syndicate  
 If you’re playing with the Sinister Six, you actually have six main characters instead of one. Here’s how it works: When you build a Sinister Six deck, choose six main characters with **Sinister Six** to make up your Sinister Six Pile.
 
@@ -569,7 +570,7 @@ The **Sinister Six** keyword can’t be turned off.
 
 Keep in mind when choosing your next Sinister Six main character, you can choose one with the same name as a supporting character on your side – but if you do, that supporting character will be KO’d.
 
-## Soldiers
+# Soldiers
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (Hydra) characters have the new **Soldier** Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
 
@@ -578,6 +579,7 @@ Set: Legacy
 **Dimensional Wristwatch**  
 Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
 
+# Spider-Man
 ## Spider-Man (MC)
 Set: Spider-Friends  
 **I Can and Will Fight You**
@@ -590,15 +592,16 @@ Set: Spider-Friends
 **Spider-Powers**
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
 
-## Squirrel Girl
+# Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
 Squirrel Girl’s power lets her put token characters into play. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, it ceases to exist. The token card can be reused later if Squirrel Girl appears again.
 
-## Stand Together
+# Stand Together
 Set: Crossover  
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
+# Star Lord
 ## Star Lord (MC)
 Set: The MCU Battles  
 **Dance Off, Bro**  
@@ -609,29 +612,29 @@ Set: The MCU Battles
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
-## Sunspot
+# Sunspot
 Set: New Mutants   
 **Solar Absorption**  
 Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
 
-## Supreme Leader
+# Supreme Leader
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hydra High Council**   
 Supreme Leader has a Super Power which prevents you from losing the game even after he’s KO’d. Just continue to play without a main character.
 
-## Thor (MC)
+# Thor (MC)
 Set: The MCU Battles  
 **Journey of Self Discovery**  
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
-## Titania
+# Titania
 Set: A-Force  
 **Durable**  
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recoversand doesn’t get wounded. 
 
 However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though she would recover immediately, getting stunned would still remove her from combat.
 
-## Ultron Facility (MC)
+# Ultron Facility (MC)
 Set: The MCU Battles  
 Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
 
@@ -642,27 +645,27 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 **Note:** The Level 3 Ultron’s **Your Extinction** power KOs all enemy cards (in a very dramatic way).
 
 
-## Venom (MC)
+# Venom (MC)
 Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
 
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 
-## Vulture
+# Vulture
 Set: Sinister Syndicate  
 **From Above**  
 While Vulture is attacking a character without (Flight) that is also in its back row, his **From Above** power will give him +2/+2. Ka kaw!
 
-## X-23 (MC)
+# X-23 (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NTY3Mzg3LDE4MTU3NTE3OCwtMTk3Nz
-I2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMy
-LDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNT
-k0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjky
-ODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
-ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYs
-MTg1NjM4NzkwMl19
+eyJoaXN0b3J5IjpbLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOT
+c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
+MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
+E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
+OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
+cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
+NiwxODU2Mzg3OTAyXX0=
 -->
