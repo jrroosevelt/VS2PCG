@@ -188,6 +188,11 @@ Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Gir
 ## Devil Dinosaur and Moon Girl (MCs)  
 The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
+# Domino
+Set: The Utopia Battles   
+**Probability Manipulation**  
+**Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
+
 # Dormammu
 Set: MCU Villains  
 **You Will Spend Eternity Dying**  
@@ -562,6 +567,9 @@ Set: A-Force
 **Absorb Powers**  
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
 
+# Sacred Ground 
+This Plot Twist lets a character pay any power symbol. You can generate a power symbol in the usual ways -- by turning a Location that makes a power symbol face down, or by discarding a Location that makes a power symbol.
+
 # Sauron
 Set: Brotherhood of Mutants  
 **Terrifying Delusions**  
@@ -734,7 +742,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTExMjA2MDgsOTU4NDY5MDAzLC0xOD
+eyJoaXN0b3J5IjpbLTE0NjI0NzQyNzMsOTU4NDY5MDAzLC0xOD
 U1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2
 MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLD
 Q4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0
