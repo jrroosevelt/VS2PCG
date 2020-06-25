@@ -290,8 +290,10 @@ Set: MCU Villains
  **Fold Space and Matter**
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
-Kraven the Hunter 
-Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you
+## Kraven the Hunter (MC)
+Set: Sinister Syndicate  
+** Spring the Trap **  
+Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a , and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 ## Leviathon Hydra
 Set: Monsters Unleashed!
@@ -564,11 +566,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkyNDMzNCwxNDUyMzU0MTA2LDExNT
-k0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjky
-ODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
-ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYs
-MTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNTUxNDUzMzg5LC0yMT
-UzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1
-MywtMTY0Njg5OTI0OV19
+eyJoaXN0b3J5IjpbLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
+U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
+Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
+I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
+LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1MzM4OSwtMj
+E1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1
+NTMsLTE2NDY4OTkyNDldfQ==
 -->
