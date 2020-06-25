@@ -1,5 +1,5 @@
 
-# Rule insert card clarifications
+# Rule insert card and key ability clarifications
 
 The following clarifications are included in the rule inserts that come with the various sets. 
 
@@ -632,9 +632,11 @@ Reaction powers trigger when a certain condition is met (in this case it’s “
 
 You can use a Reaction power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
-Shifting Loyalties 
-Set: The Utopia battles
-At the end of your turn, if there is an enemy , , or character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its affiliation, so the remaining times Shifting Loyalties had triggered won’t do anything.
+# Shifting Loyalties 
+Set: The Utopia battles  
+At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (HAMMER) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
+
+See also:
 
 # Sif
 Set: Crossover  
@@ -759,11 +761,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MTc4NTEsMTc2MTE0MjMyOCw5NTg0Nj
-kwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4
-LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2ND
-kwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQx
-MDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLD
-EyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEz
-ODcwNDcyOV19
+eyJoaXN0b3J5IjpbMTMyODg2NjM0NiwxNzYxMTQyMzI4LDk1OD
+Q2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUx
+NzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMT
+Y0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1
+NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3Nj
+IsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0y
+MTM4NzA0NzI5XX0=
 -->
