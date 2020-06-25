@@ -749,7 +749,10 @@ Set: The MCU Battles
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
-Storm You Can’t Weather This Storm is a Keyword Power, not a Super Power.
+# Storm
+Set: Resistance  
+**You Can’t Weather This Storm**  
+**You Can’t Weather This Storm** is a Keyword Power, not a Super Power.
 
 # Sunspot
 Set: New Mutants   
@@ -772,6 +775,11 @@ Set: A-Force
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recoversand doesn’t get wounded. 
 
 However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though she would recover immediately, getting stunned would still remove her from combat.
+
+# Toad 
+Set: Resistance  
+**Toadally Awesome**  
+Remember, Toad isn’t just Sort of Awesome.
 
 # Ultron Facility (MC)
 Set: The MCU Battles  
@@ -808,11 +816,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjAxNTA3NSw0MzExMjYzMTIsMTc2MT
-E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
-OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLD
-QwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQz
-OTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC
-0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3
-Nzk5MjUxNV19
+eyJoaXN0b3J5IjpbLTEwMTE2MTg3NzksNDMxMTI2MzEyLDE3Nj
+ExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5
+NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3MzM1Mi
+w0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0
+Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNS
+wtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEz
+Nzc5OTI1MTVdfQ==
 -->
