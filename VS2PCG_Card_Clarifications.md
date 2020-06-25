@@ -378,6 +378,8 @@ Set: Sinister Syndicate
 ** Hallucinogenic Gas **  
 Mysterio can use his special effects expertise to make any plot twist seem like a plot twist. Here are the two in this set:
 
+When you play a plot twist as a copy of a plot twist, ignore everything that’s printed on it, and pretend you just played one of the plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an Combat plot twist during your Build Phase as a copy of Putting the Team Together.
+
 ## Mystique (MC)
 Set: Legacy
 **Identity Theft**
@@ -571,11 +573,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQwMDQ2NjksLTE5NzY4NDM5ODQsMT
-Q1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4
-MzA3NjIsMTI2MDI5Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNT
-E1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5
-LC0xMjE1MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLT
-U1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4
-MzI0LC0xMzU4MjY1NTNdfQ==
+eyJoaXN0b3J5IjpbLTYxMTE2MzgwMCwtMTk3Njg0Mzk4NCwxND
+UyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1Njgz
+MDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MT
+UsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTks
+LTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNT
+UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
+MjQsLTEzNTgyNjU1M119
 -->
