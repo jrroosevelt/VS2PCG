@@ -207,6 +207,11 @@ Set: MCU Villains
 **Soon We Will Be All There Is**    
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
 
+## Electro
+Set: Sinister Syndicate  
+**Electrocution**  
+Electro introduces a new concept: remaining health. Remaining health is a character’s (Health) maximum minus its wounds. (Maximum (Health) is printed plus any bonus .) For example, when a character with 1  printed (Health) appears, it will have 1 remaining health. If a character has 3 printed and is getting +1 from an effect and has 2 wounds, its remaining health is 2 (3 + 1 – 2 = 2).
+
 ## Elektra (MC)
 Set: Legacy  
 **Hand Experience**  
@@ -589,7 +594,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODgwMTgwMCw0MDI3MzIxMiwxNjQ5MD
+eyJoaXN0b3J5IjpbMTk3NzUzMDgwMyw0MDI3MzIxMiwxNjQ5MD
 c1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2
 LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMj
 YwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3
