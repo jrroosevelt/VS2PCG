@@ -412,18 +412,18 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 See [Marvel Required](#wiki_marvel_required)
 
 ## Omega Red
-Set: Crossover 
-**Carbonadium Tentacles**
+Set: Crossover  
+**Carbonadium Tentacles**  
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
 ## Onslaught
-Set: Legacy
-**Joint Consciousness**
+Set: Legacy  
+**Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
 
 ## Phil Coulson
-Set: Crossover
-**Special Agent**
+Set: Crossover  
+**Special Agent**  
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
 
 **Level 7 Clearance / I'm a Guy With a Plan**  
@@ -437,7 +437,7 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 Set: New Mutants  
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
 
-**Graduation** 
+**Graduation**   
 Professor X’s **Graduation** power lets you turn an (X-Men) supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
 
 This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
@@ -555,8 +555,7 @@ Set: A-Force
 **Durable**  
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recoversand doesn’t get wounded. 
 
-However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though
-she would recover immediately, getting stunned would still remove her from combat.
+However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though she would recover immediately, getting stunned would still remove her from combat.
 
 ## Ultron Facility (MC)
 Set: The MCU Battles  
@@ -580,7 +579,7 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTY1ODE1NCwtMTk3Njg0Mzk4NCwxND
+eyJoaXN0b3J5IjpbMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwxND
 UyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2
 MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyND
 A2NywtMTA3ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODks
