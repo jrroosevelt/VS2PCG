@@ -242,6 +242,7 @@ Set: The Utopia Battles
 **Keeper of Law** allows a character to strike an additional time in a combat. The character can strike two different characters once each (if they’re being team attacked, for example), or they can strike the same character twice. In the latter case, add the character’s ATK together for each strike and then compare it to the enemy’s DEF. 
 
 Emma’s power can be used any number of times each turn. So if a character ends up being allowed to strike 3, 4, or more times, it works as above. Any number of strikes can be combined against an enemy or split amongst multiple enemies.
+
 ## Emma Frost (SC)
 Set: H.A.M.M.E.R.  
 **Fluid Forms and Fidelity**  
@@ -462,6 +463,12 @@ Set: S.H.I.E.L.D. vs. Hydra
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
 
+# Norman Osborn (MC) 
+Set: The Utopia Battles  
+Norman’s Level 2 Keyword Powers also affect himself. 
+
+Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (HAMMER) team affiliation
+
 # The Nullifier
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
@@ -674,11 +681,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc5MTI3NDMsLTE4NTU2Nzg5OTUsLT
-EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
-MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
-0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
-MzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MD
-M4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2
-NywtMTA3ODQzMTI5OV19
+eyJoaXN0b3J5IjpbNDYwNzQ5NTAxLC0xODU1Njc4OTk1LC0xMj
+A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
+MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
+k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
+NjkyNSwtMTA1NjgzMDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzOD
+k5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcs
+LTEwNzg0MzEyOTldfQ==
 -->
