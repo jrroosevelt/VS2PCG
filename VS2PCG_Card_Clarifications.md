@@ -495,6 +495,11 @@ When that character would become Level 2, you’ll instead transform it into Lev
 
 Once he’s Level 2, if he would be wounded, there’s a chance it was just a clone body instead: reveal a random card from your Clone Pile. If you reveal Scarlet Spider, he’ll get wounded as normal – they found you! But if you reveal someone else, he doesn’t get wounded (although whoever was revealed goes back into your Spider Web.)
 
+## Scarlet Spider (SC)
+Set: Spider-Friends  
+
+Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
+
 ## Scourge
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
@@ -619,7 +624,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU5ODcxODksLTE5NzcyNjM0MTgsLT
+eyJoaXN0b3J5IjpbLTEyMTkxMTAzMDMsLTE5NzcyNjM0MTgsLT
 EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
 NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LD
 EwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5
