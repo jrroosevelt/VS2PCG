@@ -612,6 +612,13 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 **Half-Fairy**  
 **Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an (Energy/"Blue"). This includes when a character uses an (Engergy/"Blue") Super Power, or choosing to spend an (Energy/"Blue") when you play the Plot Twist **Sacred Ground**.
 
+# Power Man
+Set: The New Defenders
+Some characters are known by more than one moniker - like Power Man, who says **AKA Luke Cage**. He counts as having both names, which means you can use a Luke Cage supporting character to Power Up Power Man, and vice versa. It also means they both count as the same person for the purposes of the Uniqueness rules.
+
+**Crash the Party**  
+Power Man loves a good party, especially if he wasn’t invited. His Crash the Party power counts each enemy power, even if there are multiple instances of the same power. But remember face-down characters lose their powers so he won’t count their powers.
+
 # Professor X (MC)
 Set: New Mutants  
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
@@ -848,7 +855,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzM4NTU5NiwtMTIyNTQ0MDA5OSwyNj
+eyJoaXN0b3J5IjpbMjA2MDE1NzE4MywtMTIyNTQ0MDA5OSwyNj
 Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
 LC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMT
 k3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1
