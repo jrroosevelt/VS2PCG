@@ -1,9 +1,5 @@
-
-﻿
-
-
-
 # Rule insert card clarifications
+
 The following clarifications are included in the rule inserts that come with the various sets. 
 
 **Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rulesheet and do not fundamentally change the intent of the original text.
@@ -15,68 +11,67 @@ For additional information, see also:
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
 ## Abomination
-Set: MCU Battles
-**Give Me a Real Fight!**
+Set: MCU Battles\
+**Give Me a Real Fight!**\
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
 ## Agents
-Set: S.H.I.E.L.D. vs. Hydra
+Set: S.H.I.E.L.D. vs. Hydra\
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
 
 ## Ajax
-Set: Deadpool & Friends
-**Pain Tolerance**
+Set: Deadpool & Friends\
+**Pain Tolerance**\
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
 ## Alcatraz
-**It's a Prison**
-Set: H.A.M.M.E.R.
+**It's a Prison**\
+Set: H.A.M.M.E.R.\
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 ## Arnim Zola (MC)
-Set: Crossover
-**ESP Box**
+Set: Crossover\
+**ESP Box**\
 ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
 
-**A New Robot Body**
+**A New Robot Body**\
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 
 
 ## Avalanche
-Set: Brotherhood of Mutants
-**Sustained Seismic Waves**
+Set: Brotherhood of Mutants\
+**Sustained Seismic Waves**\
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
 ## Baron Mordo (MC)
-Set: Legacy
-**Hypnotize**
+Set: Legacy\
+**Hypnotize**\
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
 ## * Bishop *
-Set: Legacy
-**Energy Transference**
+Set: Legacy\
+**Energy Transference**\
 This power refers to (Energy/Atom) super powers.This counts for any super power with the appropriatesymbol in its cost (even if it also has other symbols in
 its cost).
 
 ## Black Bolt
-Set: Monsters Unleashed!
-Black Bolt’s Super Powers use the Amplify ability.When you use a Super Power, if you discard aLocation (instead of turning it face-down in yourresource row), you get the Amplify text. PreviousAmplify Super Powers grant an effect to begin with
-but a larger effect if you Amplify it. Black Bolt’spowers only grant an effect if you Amplify them.
+Set: Monsters Unleashed!\
+Black Bolt’s Super Powers use the Amplify ability.When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
 
 ## Black Panther (MC)
-Set: MCU Heroes
-**Vibranium Weave Suit**
+Set: MCU Heroes\
+**Vibranium Weave Suit**\
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
 
 ## Black Panther (SC)
-Set: MCU Heroes
-**Bulletproof**
+Set: MCU Heroes\
+**Bulletproof**\
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
 
 ## Blob (MC)
-Set: Crossover
-**Boing**
+Set: Crossover\
+**Boing**\
 If Blob strikes a character and his Boing! power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
 
 **Immovable Object**
@@ -480,11 +475,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMT
-g1NjM4NzkwMiwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0
-MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OS
-wxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1OTE3NzM4MywyMDMx
-MjU0ODE4LDExMTYwODc4OTgsLTIyODY3NDc0NCwtMjA2MTczMz
-QzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OTc0LC00MDg3MjEyNjYs
-LTE4OTk1OTg0XX0=
+eyJoaXN0b3J5IjpbLTE2ODYxNzIwNDYsLTE4NDY4MjQwNjcsLT
+EwNzg0MzEyOTksMTg1NjM4NzkwMiwtNTUxNDUzMzg5LC0yMTUz
+NTE4MywxMjY5NzM0MDcwLDEzOTY5ODgzMjQsLTEzNTgyNjU1My
+wtMTY0Njg5OTI0OSwxMTgwNTU0OTUyLDE5ODQyMjczMzMsLTQ1
+OTE3NzM4MywyMDMxMjU0ODE4LDExMTYwODc4OTgsLTIyODY3ND
+c0NCwtMjA2MTczMzQzOCwtNzAxNzU3OTc0LC0xNDM3MjA3OTc0
+LC00MDg3MjEyNjZdfQ==
 -->
