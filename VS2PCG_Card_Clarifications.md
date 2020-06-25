@@ -266,7 +266,14 @@ Here are some quick tips:
 
 # Devil Slayer
 Set: The New Defenders  
-Devil-Slayer His Shadow Cloak lets him attack hidden and stunned characters. Treat it as a regular attack (both players can play Plot Twists, Power Up, etc.), but keep in mind the face-down character’s powers are turned off and its team affiliation is not available for things like playing a plot twist.
+**Shadow Cloak**  
+His **Shadow Cloak** lets him attack hidden and stunned characters. Treat it as a regular attack (both players can play Plot Twists, Power Up, etc.), but keep in mind the face-down character’s powers are turned off and its team affiliation is not available for things like playing a plot twist.
+
+When Devil-Slayer and the defender strike each other: 
+
+* Devil-Slayer can be stunned as normal.  
+* A hidden character can get stunned as normal. (Wound it and change it from ready to exhausted.) 
+* If Devil-Slayer’s strike would stun an already-stunned character, just wound it instead.
 
 # Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -841,11 +848,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
-EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
-NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLT
-EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
-NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LD
-EwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5Mjg1MSwtMTA5
-MTYwMzg5OV19
+eyJoaXN0b3J5IjpbLTUxNzM4NTU5NiwtMTIyNTQ0MDA5OSwyNj
+Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
+LC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMT
+k3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1
+ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LD
+ExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYw
+MjkyODUxXX0=
 -->
