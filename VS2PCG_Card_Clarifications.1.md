@@ -179,7 +179,7 @@ Here are some quick tips:
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
-## Doctor Faust
+## Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hypnotic Suggestion**  
 Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
@@ -493,11 +493,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMj
-EzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwxODU2
-Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNz
-AsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LDEx
-ODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MTc3MzgzLDIwMzEyNT
-Q4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0LC0yMDYxNzMzNDM4
-LC03MDE3NTc5NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjYwMDAxNTMsLTEwOTE2MDM4OTksMT
+M3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3
+ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MT
+gzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0x
+NjQ2ODk5MjQ5LDExODA1NTQ5NTIsMTk4NDIyNzMzMywtNDU5MT
+c3MzgzLDIwMzEyNTQ4MTgsMTExNjA4Nzg5OCwtMjI4Njc0NzQ0
+LC0yMDYxNzMzNDM4XX0=
 -->
