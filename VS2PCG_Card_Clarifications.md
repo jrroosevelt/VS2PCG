@@ -592,6 +592,14 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 Set: Crossover  
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
+# Simon Trask (MC) 
+Set: The Utopia Battles  
+**Proposition X**  
+**Proposition X** works like this. When an enemy character appears, check each of its team affiliations against each team affiliation on characters on your side. For each affiliation the enemy character has that is NOT shared, Trask gains 1 XP. 
+
+**Biosentinel**  
+**Biosentinel** is a keyword power that has no built-in effect. Instead it is referenced by Trask’s other powers.
+
 # Sinister Six 
 Set: Sinister Syndicate  
 If you’re playing with the Sinister Six, you actually have six main characters instead of one. Here’s how it works: When you build a Sinister Six deck, choose six main characters with **Sinister Six** to make up your Sinister Six Pile.
@@ -695,7 +703,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzg0MjI1NywtMTg1NTY3ODk5NSwtMT
+eyJoaXN0b3J5IjpbMTk1MTMwNzc1OSwtMTg1NTY3ODk5NSwtMT
 IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
 NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
 E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
