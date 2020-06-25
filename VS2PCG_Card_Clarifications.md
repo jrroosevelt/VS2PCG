@@ -58,6 +58,11 @@ its cost).
 Set: Monsters Unleashed!  
 Black Bolt’s Super Powers use the Amplify ability.When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin withbut a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
 
+## Black Cat 
+Set: Spider-Friends  
+**Personal Loyalty**  
+Black Cat has often wavered between being a hero and a villain. In the game she doesn’t have a team affiliation and is neither Good nor Evil… until she’s on a side (she is neither Good nor Evil while she is in your hand, deck, or KO pile). Then if Spider-Man is your main character, he has a good influence on her and she’ll ferociously fight alongside her partner. But if he’s not your main character, she’ll go back to slinking around as a criminal.
+
 ## Black Panther (MC)
 Set: MCU Heroes  
 **Vibranium Weave Suit**  
@@ -629,7 +634,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTA3NDE1LC0xOTc3MjYzNDE4LC0xMz
+eyJoaXN0b3J5IjpbMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMz
 Q5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUz
 LC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMD
 UxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2
