@@ -376,9 +376,12 @@ Morgan le Fay’s super power counts how many times you’ve used a power named 
 ## Mysterio 
 Set: Sinister Syndicate  
 ** Hallucinogenic Gas **  
-Mysterio can use his special effects expertise to make any plot twist seem like a plot twist. Here are the two in this set:
+Mysterio can use his special effects expertise to make any plot twist seem like a (Sinister Syndicate) plot twist. Here are the two in this set:
 
-When you play a plot twist as a copy of a plot twist, ignore everything that’s printed on it, and pretend you just played one of the plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an Combat plot twist during your Build Phase as a copy of Putting the Team Together.
+* Putting the Team Together  
+* Sinister Six
+
+When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignore everything that’s printed on it, and pretend you just played one of the (Sinister Syndicate) plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an (Avengers) Combat plot twist during your Build Phase as a copy of Putting the Team Together.
 
 ## Mystique (MC)
 Set: Legacy
@@ -573,11 +576,11 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTE2MzgwMCwtMTk3Njg0Mzk4NCwxND
-UyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1Njgz
-MDc2MiwxMjYwMjkyODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MT
-UsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTks
-LTEyMTUxODEyMjYsMTg1NjM4NzkwMiwtMTY4MDg1NDcyMSwtNT
-UxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEzOTY5ODgz
-MjQsLTEzNTgyNjU1M119
+eyJoaXN0b3J5IjpbMTY0MjE4OTQ2LC0xOTc2ODQzOTg0LDE0NT
+IzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMw
+NzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNS
+wtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwt
+MTIxNTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgwODU0NzIxLC01NT
+E0NTMzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMy
+NCwtMTM1ODI2NTUzXX0=
 -->
