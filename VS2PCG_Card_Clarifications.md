@@ -264,6 +264,12 @@ Set: S.H.I.E.L.D. vs. Hydra
 **Hypnotic Suggestion**  
 Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
 
+# Doctor Nemesis
+Set: Resistance  
+
+Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
+
+
 # Ego
 Set: MCU Villains 
 **Soon We Will Be All There Is**    
@@ -330,8 +336,9 @@ Falcon’s **Air Superiority** power prevents characters with from striking him.
 Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
 
-# Gambit 
+# Gambit (MC)
 Set: Resistance  
+**'Dis Card**  
 Note that discarding a card includes Power Ups. So each time any character on your side Powers Up, Gambit will gain an XP.
 
 # Goblin Queen
@@ -784,7 +791,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTUwOTgxOCw0MzExMjYzMTIsMTc2MT
+eyJoaXN0b3J5IjpbLTQ0Njc2OTMzMCw0MzExMjYzMTIsMTc2MT
 E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
 OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLD
 QwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQz
