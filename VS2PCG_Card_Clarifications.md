@@ -296,7 +296,7 @@ Set: H.A.M.M.E.R.
 # Hulk
 ## Hulk (MC)
 Set: The MCU Battles  
-See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29.)
+See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
 
 ## Hulk (SC)
 Set: The MCU Battles  
@@ -661,11 +661,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOT
-c3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4
-MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMT
-E1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2ODMwNzYyLDEyNjAy
-OTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwND
-cyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIxNTE4MTIy
-NiwxODU2Mzg3OTAyXX0=
+eyJoaXN0b3J5IjpbLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMT
+gxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjcz
+MjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LD
+E0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2
+ODMwNzYyLDEyNjAyOTI4NTEsLTEwOTE2MDM4OTksMTM3Nzk5Mj
+UxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5
+OSwtMTIxNTE4MTIyNl19
 -->
