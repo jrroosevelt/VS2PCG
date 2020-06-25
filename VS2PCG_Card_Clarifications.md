@@ -180,13 +180,9 @@ Here are some quick tips:
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
 ## Doctor Faust
-Set: S.H.I.E.L.D. vs. Hydra 
-Hypnotic Suggestion
-Doctor’s Faustus’s Super Power allows you to
-steal an enemy Supporting Character. This effect
-is permanent: the character will remain on your
-side until it gets KO’d or otherwise leaves play.
-When KO’d, put it into its owner’s KO pile.
+Set: S.H.I.E.L.D. vs. Hydra  
+**Hypnotic Suggestion**  
+Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
 
 ## Ego
 Set: MCU Villains 
@@ -497,11 +493,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDA1ODIwOSwxMzc3OTkyNTE1LC0yMT
-M4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1
-MTgxMjI2LDE4NTYzODc5MDIsLTE2ODA4NTQ3MjEsLTU1MTQ1Mz
-M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
-MzU4MjY1NTMsLTE2NDY4OTkyNDksLTk3MzI5NzcwNCwxMTgwNT
-U0OTUyLDE5ODQyMjczMzMsMTI4NDI0MTc1LC00NTkxNzczODMs
-MjAzMTI1NDgxOF19
+eyJoaXN0b3J5IjpbLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMj
+EzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwtMTIx
+NTE4MTIyNiwxODU2Mzg3OTAyLC0xNjgwODU0NzIxLC01NTE0NT
+MzODksLTIxNTM1MTgzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwt
+MTM1ODI2NTUzLC0xNjQ2ODk5MjQ5LC05NzMyOTc3MDQsMTE4MD
+U1NDk1MiwxOTg0MjI3MzMzLDEyODQyNDE3NSwtNDU5MTc3Mzgz
+LDIwMzEyNTQ4MThdfQ==
 -->
