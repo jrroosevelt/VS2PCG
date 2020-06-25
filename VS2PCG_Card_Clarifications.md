@@ -11,26 +11,26 @@ For additional information, see also:
 
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
-## Abomination
+# Abomination
 Set: MCU Battles  
 **Give Me a Real Fight!**  
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
-## Agents
+# Agents
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
 
-## Ajax
+# Ajax
 Set: Deadpool & Friends  
 **Pain Tolerance**  
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
-## Alcatraz
+# Alcatraz
 Set: H.A.M.M.E.R.  
 **It's a Prison**  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
-## Arnim Zola (MC)
+# Arnim Zola (MC)
 Set: Crossover  
 **ESP Box**  
 ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
@@ -38,37 +38,37 @@ ESP Box takes effect once the game starts and lasts the whole game (even while A
 **A New Robot Body**  
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
-## Avalanche
+# Avalanche
 Set: Brotherhood of Mutants  
 **Sustained Seismic Waves**  
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
-## Baron Mordo (MC)
+# Baron Mordo (MC)
 Set: Legacy  
 **Hypnotize**  
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
-## * Bishop *
+# * Bishop *
 Set: Legacy  
 **Energy Transference**  
 This power refers to (Energy/Atom) super powers.This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in
 its cost).
 
-## Black Bolt
+# Black Bolt
 Set: Monsters Unleashed!  
 Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
 
-## Black Cat 
+# Black Cat 
 Set: Spider-Friends  
 **Personal Loyalty**  
 Black Cat has often wavered between being a hero and a villain. In the game she doesn’t have a team affiliation and is neither Good nor Evil… until she’s on a side (she is neither Good nor Evil while she is in your hand, deck, or KO pile). Then if Spider-Man is your main character, he has a good influence on her and she’ll ferociously fight alongside her partner. But if he’s not your main character, she’ll go back to slinking around as a criminal.
 
-## Black Panther (MC)
+# Black Panther (MC)
 Set: MCU Heroes  
 **Vibranium Weave Suit**  
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
 
-## Black Panther (SC)
+# Black Panther (SC)
 Set: MCU Heroes  
 **Bulletproof**  
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
@@ -651,11 +651,11 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Nzk2MzAwNCwxODE1NzUxNzgsLTE5Nz
-cyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgz
-Miw0ODAxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMT
-U5NDQ1MTA2LDEwNTEzMzY5MjUsLTEwNTY4MzA3NjIsMTI2MDI5
-Mjg1MSwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0Nz
-I5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LC0xMjE1MTgxMjI2
-LDE4NTYzODc5MDJdfQ==
+eyJoaXN0b3J5IjpbOTk1Mzg5Mjg0LDE4MTU3NTE3OCwtMTk3Nz
+I2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMy
+LDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNT
+k0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYwMjky
+ODUxLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
+ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksLTEyMTUxODEyMjYs
+MTg1NjM4NzkwMl19
 -->
