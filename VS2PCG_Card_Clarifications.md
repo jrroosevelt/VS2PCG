@@ -1320,7 +1320,7 @@ Set: The Fantastic Battles
 Super-Skrull's **First Faker** Level Up power looks at every player's side (not just yours) and it counts Main and Supporting Characters. But if there are, for example, two Human Torches in play, he still only gets 1 XP for Human Torch.  
 
 **Cosmic Energy Power Receptors**
-The powers he gains from his **Cosmic Energy Power Receptors** have no duration, so he keeps them until he leaves play. They also look at every player's side, not just yours).
+The powers he gains from his **Cosmic Energy Power Receptors** have no duration, so he keeps them until he leaves play. They also look at every player's side (not just yours). Note that if he copies **Stroke of Genius** from Mister Fantastic, he will only be able to **Invent** if you already have an Invention pile for your deck.
 
 # Supreme Leader
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -1440,6 +1440,10 @@ Her Spellcasting power lets you play Plot Twists from your Spellbook, putting th
 
 If Willow gets KO’d or otherwise is no longer on your side, you won’t be able to access the Plot Twists in your Spellbook. But if you play another copy of Willow, then you can use your Spellbook again.
 
+# The Wizard (MC)
+Set: The Fantastic Battles  
+**First Faker**
+
 # X-23 (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
@@ -1448,11 +1452,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM5MzIxMjAsMTA0NDgyMDQzMiwtMT
-I5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAw
-MzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NT
-IsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzcz
-MzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMT
-cwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1
-NTQ5MzkwXX0=
+eyJoaXN0b3J5IjpbLTcxNTA5NiwxMDQ0ODIwNDMyLC0xMjk1Nz
+M2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAs
+LTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMj
+YxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYx
+Nyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
+QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
+OTBdfQ==
 -->
