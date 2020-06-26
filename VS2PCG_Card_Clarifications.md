@@ -604,7 +604,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 # Infinity Gems
 Set: Black Order  
 **Owned By**  
-Each of the six Infinity Gems has an "Owned by..." power which let
+Each of the six Infinity Gems has an "Owned by..." power which lets you play it for free on the appropriate character. For example, The Mind Gem can be played for free on The Grandmaster. You may notice that some of these powers refer to characters that aren't yet part of the game. Weird, right?
 
 # Invisible Boy
 Set: The Herald  
@@ -1360,11 +1360,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MTc2MjE2LDIwMzk2MTI3NTIsMzI2MT
-Q0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcs
-Nzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0Mz
-Q0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5Mzkw
-LDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNj
-U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
-XX0=
+eyJoaXN0b3J5IjpbLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMj
+YxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYx
+Nyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
+QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
+OTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMj
+A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
+NzFdfQ==
 -->
