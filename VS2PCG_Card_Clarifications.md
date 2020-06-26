@@ -125,7 +125,7 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 ## Black Panther (MC - Illustrated)
 Set: Cosmic Avengers  
 **Passing Down the Knowledge**  
-For Black Panther's **Passing Down the Knowledge**, wheneve
+For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
 
 ## Black Panther (MC - Photo)
 Set: MCU Heroes  
@@ -544,6 +544,11 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 
 **Bag of Tricks**  
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
+
+# Hawkeye (MC)
+Set: Cosmic Avengers  
+**Custom Quiver**  
+
 
 # Headsman
 Set: H.A.M.M.E.R.  
@@ -1374,11 +1379,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MzI2MDYyLC0xMDcwMDAyMzgwLC0xNj
-QzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAy
-NTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMz
-U3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIz
-NywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMD
-A2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3
-OThdfQ==
+eyJoaXN0b3J5IjpbMTMwMTA2ODg3NSwtMTA3MDAwMjM4MCwtMT
+Y0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1MzAw
+MjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMj
+M1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUy
+MzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMj
+AwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMw
+Nzk4XX0=
 -->
