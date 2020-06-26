@@ -449,6 +449,11 @@ Set: Crossover
 Set: The MCU Battles  
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
 
+# Isabelle
+Set: The Predator Battles  
+**Sniper Nest**   
+Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an (Energy/"Blue"), including their “wild” Location, to turn off this effect for a turn.
+
 
 # Jessica Jones
 Set: Legacy  
@@ -481,7 +486,7 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 
 # Lambert
 Set: The Predator Battles  
-**No Autographs 
+**No Autographs**   
 While in play, Lambert has every Good Team Affiliation. This does a variety of things. For example, he can team attack with any other Good characters, and while he is face up, he helps you play any Good Plot Twists.
 
 # Leviathon Hydra
@@ -931,7 +936,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTA2Mjk2OSwxMTIwNjU4NjI3LDEyNj
+eyJoaXN0b3J5IjpbLTIxNTg5ODI4MiwxMTIwNjU4NjI3LDEyNj
 Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
 MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
 IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
