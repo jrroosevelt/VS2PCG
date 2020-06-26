@@ -200,8 +200,13 @@ Set: New Mutants
 **Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
-# \* Thor \*
+# \* Captain Marvel \*
 Set: Cosmic Avengers  
+**Cosmic Awareness**
+His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
+* "Do you have any Plot Twists in your hand?"  
+* "Do you have any Fin Fang Fooms in your hand?"  
+* "Do you have a 
 
 # Carnage
 Set: The Defenders  
@@ -1401,11 +1406,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NjU5Mzg0LC0xMjk1NzM2NjY5LC01OD
-Y4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIz
-ODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMT
-YwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4
-NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xND
-c0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5
-NTQwXX0=
+eyJoaXN0b3J5IjpbLTE0MTMzODk2MzksLTEyOTU3MzY2NjksLT
+U4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAw
+MjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC
+0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3
+Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLT
+E0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1
+MTk1NDBdfQ==
 -->
