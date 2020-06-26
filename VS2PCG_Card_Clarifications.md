@@ -596,7 +596,10 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 * Use a Build Phase power during your Main Phase.  
 * Flip your deck over.  
 * Institute a shared turn.  
-* Win the game (unless there are any effects preventing you from winning the game).
+* Win the game (unless there are any effects preventing you from winning the game).  
+* Turn off any effects that are preventing you from winning the game.  
+* Now win the game.  
+* Draw a card.
 
 # Invisible Boy
 Set: The Herald  
@@ -1231,6 +1234,10 @@ Set: New Mutants
 **Solar Absorption**  
 Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
 
+# Supergiant
+Set: Black Order  
+Both of Supergiant's powers trigger when she appears. You can resolve them in whichever order you like.
+
 # Superior Spider-Man (MC)
 Set: Webheads  
 **A Superior Hero**  
@@ -1348,11 +1355,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjI0ODkzNywyMDM5NjEyNzUyLDMyNj
-E0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3
-LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExND
-M0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5
-MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMD
-Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
-MV19
+eyJoaXN0b3J5IjpbMjU0ODM1ODE3LDIwMzk2MTI3NTIsMzI2MT
+Q0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcs
+Nzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0Mz
+Q0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5Mzkw
+LDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNj
+U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
+XX0=
 -->
