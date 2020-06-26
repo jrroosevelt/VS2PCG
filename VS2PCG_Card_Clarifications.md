@@ -584,7 +584,12 @@ The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to 
 
 # The Infinity Gauntlet
 Set: Black Order  
-While equipped, the Infinity Gauntlet allows you to turn any number of face-down Infinity Gem equipment in your resource row face up to show that you've "set" them into the Gauntlet. If a card with Infinity gets put into a KO pile from anywhere, you may shu
+While equipped, the Infinity Gauntlet allows you to turn any number of face-down Infinity Gem equipment in your resource row face up to show that you've "set" them into the Gauntlet. If a card with Infinity gets put into a KO pile from anywhere, you may shuffle it into its owner's deck. 
+
+If the Gauntlet leaves play, leave the face-up Gems in your resource row as they are. However, you can no longer user their powers. If a character on your side equips the Gauntlet later in the game, those Gems will already be inset and its Wielder can use their power again.
+
+**Infinite Power**  
+This allows you to do
 
 # Invisible Boy
 Set: The Herald  
@@ -1336,7 +1341,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDg4MDM0OCwyMDM5NjEyNzUyLDMyNj
+eyJoaXN0b3J5IjpbMTI4MTIzMzE0MSwyMDM5NjEyNzUyLDMyNj
 E0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3
 LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExND
 M0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5
