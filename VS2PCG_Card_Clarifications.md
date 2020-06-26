@@ -41,7 +41,7 @@ Set: H.A.M.M.E.R.
 Set: H.A.M.M.E.R.  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
-# Alicia Mastergatha Harkness
+# [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
 Set: The Fantastic Battles  
 **Neo-Realistic Sculptor**  
 Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF becomeAncient Sorceress**   10/10.
@@ -1629,11 +1629,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NjkxMTc0LDE0NjgxMTAyMzksLTE2ND
-A4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4
-OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNi
-w1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwtMTY0
-MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1MzAwMj
-U2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1
-NzczMjZdfQ==
+eyJoaXN0b3J5IjpbLTgyNjE0MzE0MSwxNDY4MTEwMjM5LC0xNj
+QwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4
+ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMj
+YsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2
+NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNTMwMD
+I1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIz
+NTc3MzI2XX0=
 -->
