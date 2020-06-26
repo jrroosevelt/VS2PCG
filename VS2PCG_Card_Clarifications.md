@@ -548,7 +548,7 @@ Goblin’s Bag of Tricks allows you to discard Locations to make him more powerf
 # Hawkeye (MC)
 Set: Cosmic Avengers  
 **Custom Quiver**  
-
+Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon**
 
 # Headsman
 Set: H.A.M.M.E.R.  
@@ -1379,7 +1379,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTA2ODg3NSwtMTA3MDAwMjM4MCwtMT
+eyJoaXN0b3J5IjpbLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwtMT
 Y0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1MzAw
 MjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMj
 M1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUy
