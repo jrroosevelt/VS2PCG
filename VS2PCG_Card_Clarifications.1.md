@@ -21,6 +21,11 @@ Set: Galactic Guardians
 **Prepare for Rebirth**  
 At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
+# Agatha Harkness
+Set: The Fantastic Battles  
+**Ancient Sorceress**  
+If A
+
 # Agents
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
@@ -249,8 +254,8 @@ Set: The Utopia Battles
 ## Daken
 Set: Brotherhood of Mutants  
 **Pheromone Control**  
-Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shringk**  
-**Darkforce Channeling** affects all characters, including ones that appear on your side
+Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shringking**  
+**Darkforce Channel** affects all characters, including ones that appear on your side
 
 **Shifting Loyalties**
 See [Shifting Loyalties](#wiki_shifting_loyalties)
@@ -1610,11 +1615,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDc1ODA5Nyw0MDI3MzIxMiwxNjQ5MD
-c1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEw
-NiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC
-0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4
-NTYzODc5MDIsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczND
-A3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDks
-MTE4MDU1NDk1Ml19
+eyJoaXN0b3J5IjpbLTEyOTQ0Mzk5LDQwMjczMjEyLDE2NDkwNz
+U4MzIsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2
+LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLT
+IxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1
+NjM4NzkwMiwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MD
+cwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwx
+MTgwNTU0OTUyXX0=
 -->
