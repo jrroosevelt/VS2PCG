@@ -787,7 +787,7 @@ Royce’s supporting character has this Super Power. It allows him to move a wou
 
 # The Runner
 Set: Crossover vol. 2  
-The Runner is so fast he can actually attack during your Build Phase. This means you can recruit characters and equipment after the Runner attacks. (You could even recruit a new copy of Runner and attack with it!) Note: The Runner attacking during the Build Phase does count as a regular Combat so **Combat** Super Po
+The Runner is so fast he can actually attack during your Build Phase. This means you can recruit characters and equipment after the Runner attacks. (You could even recruit a new copy of Runner and attack with it!) Note: The Runner attacking during the Build Phase does count as a regular Combat so **Combat** Super Powers and Plot Twists, and power ups can be used during a Build Phase combat. However, during the combat you can't use any **Build** Super Powers and Plot Twists.
 
 # Sacred Ground 
 Set: The Utopia Battles  
@@ -1042,7 +1042,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTc1MTMzNiw5OTY1MDIxODksMTEyMD
+eyJoaXN0b3J5IjpbMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMD
 Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
 MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
 U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
