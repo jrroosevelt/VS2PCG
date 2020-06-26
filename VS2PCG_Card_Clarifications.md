@@ -43,6 +43,11 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 Set: The Buffy Battles  
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
 
+# Anya 
+Set: The Buffy Battles
+Her **Newly Human** and Strangely Literal power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
+
+
 # Archangel
 Set: Resistance  
 **Violent**  
@@ -397,8 +402,8 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
 
-# The First Evil (Main Character) 
-Set: The Buffy 
+# The First Evil (MC) 
+Set: The Buffy Battles  
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
 # Gambit
@@ -958,7 +963,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTM1OTYwNCwxMTIwNjU4NjI3LDEyNj
+eyJoaXN0b3J5IjpbMTc4NTkyOTEyMywxMTIwNjU4NjI3LDEyNj
 Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
 MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
 IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
