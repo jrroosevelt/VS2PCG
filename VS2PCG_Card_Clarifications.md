@@ -715,6 +715,10 @@ Set: Crossover
 **Usurp the Throne**  
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
+# Might Makes Right
+Set: Black Order  
+
+
 # Mimic (MC)
 Set: H.A.M.M.E.R.  
 **Absorption History**  
@@ -1154,8 +1158,6 @@ Second, during your Build Phase, if a character with **Spider-Verse** is in your
 
 Note: Spider-UK can be powered up by any character with "Spider" in their name, which includes Main Characters that are in your hand.
 
-
-
 # Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -1241,6 +1243,10 @@ Set: The MCU Battles
 **Journey of Self Discovery**  
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
+# Titan
+Set: Black Order
+See [Might Makes Right](#wiki_might_makes_right)
+
 # Titania
 Set: A-Force  
 **Durable**  
@@ -1316,11 +1322,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0MTY4MzE0LDIwMzk2MTI3NTIsMzI2MT
-Q0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcs
-Nzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0Mz
-Q0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5Mzkw
-LDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNj
-U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
-XX0=
+eyJoaXN0b3J5IjpbLTE3OTk0NTE2NzAsMjAzOTYxMjc1MiwzMj
+YxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYx
+Nyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
+QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
+OTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMj
+A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
+NzFdfQ==
 -->
