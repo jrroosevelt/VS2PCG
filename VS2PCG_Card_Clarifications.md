@@ -11,7 +11,7 @@ For additional information, see also:
 
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
-## Abomination
+## [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
 Set: MCU Battles  
 **Give Me a Real Fight!**  
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
@@ -19,7 +19,7 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 # Adam Warlock (MC)
 Set: Galactic Guardians  
 **Prepare for Rebirth**  
-At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
+At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 # Agatha Harkness
 Set: The Fantastic Battles  
@@ -1629,11 +1629,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUwNDQyMDgsMTQ2ODExMDIzOSwtMT
-Y0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgx
-ODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMz
-I2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0x
-NjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMD
-AyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIy
-MzU3NzMyNl19
+eyJoaXN0b3J5IjpbMjQ4ODkxNjMsMTQ2ODExMDIzOSwtMTY0MD
+g5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5
+ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LD
+UyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0xNjQz
+NjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAyNT
+YsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3
+NzMyNl19
 -->
