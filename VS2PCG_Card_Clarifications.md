@@ -284,7 +284,7 @@ Since Death doesn't turn face down, she can be stunned multiple times in a singl
 **Note:** While death is technically two cards, you could slip her into a single clear card sleeve with her cards back to back. Then when she would turn face down, you can just flip her to her other "side."  
 
 **Mistress of the Infinity Well**  
-**Mistress of the Infinity Well**  
+**Mistress of the Infinity Well** allows each player to draw an extra card each time you draw cards. For example, when you draw your usual two cards during your Draw Phase, you'll draw an extra one. And if you have a **Genius** in play that lets you draw a card, you'll draw an extra one then, too. 
 
 # Devil Dinosaur
 ## Devil Dinosaur Team Affiliations
@@ -796,6 +796,7 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 * They can’t be attacked unless each character in your front and back rows is face down.
 
 # Nebula
+## Nebula 
 Set: The MCU Battles  
 **Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
@@ -1283,7 +1284,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5Mjg4NjEzLDMyNjE0NDg2LC0xNjA1Mz
+eyJoaXN0b3J5IjpbMTU1Mjg2NTAzLDMyNjE0NDg2LC0xNjA1Mz
 AwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwy
 MjM1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOT
 UyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAs
