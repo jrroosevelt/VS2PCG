@@ -544,7 +544,7 @@ Set: The FantasticMCU Battles
 **Pocket Universe**  
 Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
 
-* Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**Air Superiority**  
+* Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
 
 # Gambit
 ## Gambit (MC)
@@ -1629,11 +1629,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMT
-Q2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgy
-MDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OC
-wtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIw
-Mzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMD
-g0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUz
-NTY1MjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDUwNDQyMDgsMTQ2ODExMDIzOSwtMT
+Y0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgx
+ODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMz
+I2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0x
+NjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMD
+AyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIy
+MzU3NzMyNl19
 -->
