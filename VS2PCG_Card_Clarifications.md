@@ -1466,20 +1466,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMT
-I5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAw
-MzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NT
-IsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzcz
-MzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMT
-cwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1
-NTQ5MzkwXX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyOTQzMjgyLDg1NDI2MzAwOSwxNDY4MT
-EwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5
-NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC
-01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAw
-MDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4Ni
-wtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1
-NzM4NzhdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ3NTExNDAsODU0MjYzMDA5LDE0Nj
+gxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4
+MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Nj
+ksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3
+MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0ND
+g2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3
+NjU3Mzg3OF19
 -->
