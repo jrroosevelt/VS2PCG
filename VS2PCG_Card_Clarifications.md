@@ -872,9 +872,9 @@ Several (Hydra) characters have the new **Soldier** Keyword Power, which allows 
 
 # SP//dr
 Set: Crossover Vol. 2
-Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as * Spider-Man *' s **Spider-People**. It's jsut how they spell in the future!
+Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as * Spider-Man *' s **Spider-People**. It's just how they spell in the future!
 
-SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Rege
+SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Regeneration** heals SP//dr's last wound, you won't get to draw from **Genius** that turn.
 
 # Spider-Gwen
 Set: Legacy  
@@ -901,6 +901,10 @@ Miles Morales doesn't technically have the **Spider-Verse** keyword, but he like
 
 These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
 
+# Spider-Man Noir
+Set: Crossover Vol. 2  
+**Black and White**  
+**Black and White** prevents enemy Locations from pro
 # Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -1021,11 +1025,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDk3MjY4Miw5OTY1MDIxODksMTEyMD
-Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
-MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
-U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
-NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
-gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
-NTEwNl19
+eyJoaXN0b3J5IjpbNjQ0NTk1NzU1LDk5NjUwMjE4OSwxMTIwNj
+U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
+LDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NT
+Y3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0
+MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0OD
+AxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1
+MTA2XX0=
 -->
