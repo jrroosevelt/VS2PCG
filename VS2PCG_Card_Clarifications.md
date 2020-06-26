@@ -344,6 +344,11 @@ Set: Resistance
 **Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
 
+# Dr. Curt Connors
+Set: Webheads
+**The Monster Within**  
+For every Dr. Curt Connors in your deck, you must also bring that many copies of the Lizard which will start in an out-of-game Lizard pile. When **The Monster Within** transforms Dr. Connors after he is 
+
 # Edwin
 Set: The Predator Battles  
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
@@ -1202,11 +1207,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMz
-czMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYs
-MTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNz
-g1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4
-OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMj
-Y0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAw
-M119
+eyJoaXN0b3J5IjpbLTY4NTg1NTQzOSwtMTYwNTMwMDI1NiwxNT
+EyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2
+LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMD
+kxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMw
+MzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMT
+IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
+MjhdfQ==
 -->
