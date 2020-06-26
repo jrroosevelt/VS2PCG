@@ -1402,7 +1402,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 
 # Wakanda
 Set: Cosmic Avengers  
-
+See [Global Information Network](#wiki_global_information_network)
 
 # Weapon Omega (MC) 
 Set: The Utopia Battles  
@@ -1430,7 +1430,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MTAxMjI2LDEwNDQ4MjA0MzIsLTEyOT
+eyJoaXN0b3J5IjpbLTYxOTE1Njk0LDEwNDQ4MjA0MzIsLTEyOT
 U3MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMx
 MCwtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLD
 MyNjE0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMz
