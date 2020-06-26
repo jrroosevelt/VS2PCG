@@ -158,6 +158,11 @@ Set: New Mutants
 **Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
+# Carnage
+Set: The Defenders  
+**Maximum Carnage**  
+Carnage’s power triggers when he stuns or gets stunned. So it’s possible for it to trigger twice in one combat.
+
 # Chameleon
 Set: Sinister Syndicate  
 **Master of Disguise**  
@@ -706,6 +711,11 @@ Set: Spider-Friends
 **Paralytic Darts**  
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
 
+# Scarlet Witch
+Set: The Defenders  
+**Hex**  
+Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up. They can still gain XP up to their Level Up number, but not beyond. And once Scarlet Witch gets stunned or leaves play, if they have enough XP, they’ll immediately Level Up.
+
 # Scourge
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
@@ -879,7 +889,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDQ4MzY0OCwxMjY2NzMwNzk4LC0xMj
+eyJoaXN0b3J5IjpbMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMj
 I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
 OCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMT
 gxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjcz
