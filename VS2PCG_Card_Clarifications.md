@@ -362,6 +362,8 @@ Set: The MCU Battles
 **Air Superiority**  
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
+# Falcon Dr
+
 # Fin Fang Foom
 Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
@@ -889,11 +891,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMj
-I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
-OCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMT
-gxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjcz
-MjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LD
-E0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2
-ODMwNzYyXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ5NTcwNDMsMTEyMDY1ODYyNywxMj
+Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
+MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
+0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
+MzM2OTI1XX0=
 -->
