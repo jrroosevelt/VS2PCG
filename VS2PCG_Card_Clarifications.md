@@ -1309,6 +1309,10 @@ Set: The MCU Battles
 **Journey of Self Discovery**  
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
+# /* Thor /*
+Set: Cosmic Avengers  
+
+
 # Titan
 Set: Black Order
 See [Might Makes Right](#wiki_might_makes_right)
@@ -1388,11 +1392,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNj
-YwMDMxMCwtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEy
-NzUyLDMyNjE0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMj
-M3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2
-LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMT
-c4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIx
-ODldfQ==
+eyJoaXN0b3J5IjpbLTEyOTU3MzY2NjksLTU4Njg2MjMyNiw1Mj
+I1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwtMTY0MzYy
+Njc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1MzAwMjU2LD
+E1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1Nzcz
+MjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLT
+IwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjky
+MzAzMF19
 -->
