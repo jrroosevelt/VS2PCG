@@ -656,7 +656,9 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 # Mattie Franklin
 Set: Webheads  
 **The Gathering of Five**  
-If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five 
+If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five Gifts to each of them. If you don't have at least five characters on your side with different names (or you don't have a Main Character on your side), Mattie can't use **The Gathering of Five**.
+
+The Gift of Death will instantly KO its assigned character. The other four grant new abilities to their assigned characters (some good, some bad). Gift cards are not actually in play. Their cards are just play aids to remind everyone what new abilities each character has gained. If a character leaves play its Gift will no longer affect them (even if that character reenters 
 
 # Maximus
 Set: Crossover  
@@ -1200,11 +1202,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MzQ1ODcxLDE1MTI2MTA4NDQsMjM3Mz
-MzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3
-MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NT
-U0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODks
-MTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2ND
-g3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDNd
-fQ==
+eyJoaXN0b3J5IjpbLTczMDgzMTc3MywxNTEyNjEwODQ0LDIzNz
+MzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwx
+NzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3OD
+U1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5
+LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNj
+Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
+XX0=
 -->
