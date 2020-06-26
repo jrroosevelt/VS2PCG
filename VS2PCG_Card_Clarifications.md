@@ -482,7 +482,10 @@ Several characters have powers that impersonate other characters. These powers t
 
 # The In-Betweener
 Set: Crossover Vol. 2  
+**Duality Itself**  
+**Duality Itself** lets you put the In-Betweener onto your side between two turns of the game. You can deven do this after an enemy player's first turn but before your first turn.
 
+The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to have so he ended up between two whole numbers. In most cases, his stats work like this. 1 1/2
 
 # Ironheart
 Set: Crossover  
@@ -1035,11 +1038,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NjczOTgsOTk2NTAyMTg5LDExMjA2NT
-g2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEs
-NDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Nj
-c4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQx
-OCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MD
-E5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUx
-MDZdfQ==
+eyJoaXN0b3J5IjpbNTMzOTY1NTc0LDk5NjUwMjE4OSwxMTIwNj
+U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
+LDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NT
+Y3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0
+MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0OD
+AxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1
+MTA2XX0=
 -->
