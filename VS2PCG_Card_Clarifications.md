@@ -888,6 +888,8 @@ Set: Spider-Friends
 **Spider-Powers**
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
 
+# * Spider-Man *
+
 # Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -1008,11 +1010,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2Nj
-czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
-LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
-A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
-MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
-k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
-NjkyNV19
+eyJoaXN0b3J5IjpbMTA5Nzg1OTIyNiw5OTY1MDIxODksMTEyMD
+Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
+MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
+U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
+NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
+gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
+NTEwNl19
 -->
