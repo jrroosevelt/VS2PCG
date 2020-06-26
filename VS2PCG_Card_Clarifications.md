@@ -24,7 +24,7 @@ At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth*
 # Agatha Harkness
 Set: The Fantastic Battles  
 **Ancient Sorceress**  
-If A
+If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
 
 # Agents
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -41,7 +41,11 @@ Set: H.A.M.M.E.R.
 Set: H.A.M.M.E.R.  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
-Armor 
+# Agatha Harkness
+Set: The Fantastic Battles  
+**Ancient Sorceress**  
+
+# Armor 
 Set: The Utopia Battles  
 **Psionic Exoskeleton**  
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
@@ -1615,11 +1619,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ0Mzk5LC05MzA3NTgwOTcsLTE3MD
-gxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYy
-MzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC
-0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUz
-MDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LD
-IyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5
-NTIzN119
+eyJoaXN0b3J5IjpbLTIwNTE4MDc1NzYsLTkzMDc1ODA5NywtMT
+cwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4
+NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzOD
+AsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYw
+NTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4Nz
+gsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0
+Mjk1MjM3XX0=
 -->
