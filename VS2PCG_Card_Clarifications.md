@@ -48,6 +48,12 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 Set: The Buffy Battles  
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
 
+# Angela
+Set: Galactic Guardians  
+**An Angel From the Heavens**  
+**An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have (Flight) or (Range) (or both) to solo attack her. 
+
+
 # Anya 
 Set: The Buffy Battles
 Her **Newly Human and Strangely Literal** power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
@@ -1086,11 +1092,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUyMjYxNjcsMTc4NTU0OTM5MCw4NT
-Y1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYy
-NywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0Mz
-ExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5
-OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC
-0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0
-NDUzXX0=
+eyJoaXN0b3J5IjpbLTY1NjcxNjAzMCwxNzg1NTQ5MzkwLDg1Nj
+UxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3
+LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
+EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
+NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLT
+EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
+NTNdfQ==
 -->
