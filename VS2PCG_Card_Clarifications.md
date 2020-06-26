@@ -1317,7 +1317,10 @@ Set: Webheads
 # Super Skrull (MC)
 Set: The Fantastic Battles  
 **First Faker**  
-Super-Skrull's **First Faker** Level Up power looks at every player's side   
+Super-Skrull's **First Faker** Level Up power looks at every player's side (not just yours) and it counts Main and Supporting Characters. But if there are, for example, two Human Torches in play, he still only gets 1 XP for Human Torch.  
+
+**Cosmic Energy Power Receptors**
+The powers he gains from his **Cosmic Energy Power Receptors** have no duration, so he keeps them until he leaves play. They also look at every player's side, not just yours).
 
 # Supreme Leader
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -1445,11 +1448,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjIyOTU5NCwxMDQ0ODIwNDMyLC0xMj
-k1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAz
-MTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Mi
-wzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMz
-MzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNz
-AxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1
-NDkzOTBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTM5MzIxMjAsMTA0NDgyMDQzMiwtMT
+I5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAw
+MzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NT
+IsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzcz
+MzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMT
+cwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1
+NTQ5MzkwXX0=
 -->
