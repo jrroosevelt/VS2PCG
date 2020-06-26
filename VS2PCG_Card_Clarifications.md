@@ -279,7 +279,12 @@ Death is **Amortal** which means:
 * If she would be hidden, instead switch her with her other card which will remain face up and place her in the ready position.  
 * Amortal can't be turned off.
  
-Since Death doesn't turn face down, she can be stunned multiple times in a single turn. However, if she takes fatal wou  
+Since Death doesn't turn face down, she can be stunned multiple times in a single turn. However, if she takes fatal wounds she's not really defeated. She's just temporarily lost interest in this mortal battle. (The player who was using her is defeated, though.) 
+
+**Note:** While death is technically two cards, you could slip her into a single clear card sleeve with her cards back to back. Then when she would turn face down, you can just flip her to her other "side."  
+
+**Mistress of the Infinity Well**  
+**Mistress of the Infinity Well**  
 
 # Devil Dinosaur
 ## Devil Dinosaur Team Affiliations
@@ -1278,11 +1283,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTkzOTA2MCwzMjYxNDQ4NiwtMTYwNT
-MwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4Nzgs
-MjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mj
-k1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQw
-LDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2Nj
-czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
-XX0=
+eyJoaXN0b3J5IjpbNDc5Mjg4NjEzLDMyNjE0NDg2LC0xNjA1Mz
+AwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwy
+MjM1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOT
+UyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAs
+MjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2Nz
+MwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTJd
+fQ==
 -->
