@@ -1040,7 +1040,9 @@ Set: Crossover Vol. 2
 # Spider-UK (MC)
 Set: Webheads  
 **Spider-Verse**  
-A British Spider-Man from another Universe, Spider-UK is a new Main Character
+A British Spider-Man from another Universe, Spider-UK is a new Main Character with the **Spider-Verse** keyword. **Spider-Verse** means two things:
+
+
 
 # Squirrel Girl
 Set: Legacy  
@@ -1183,11 +1185,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg5MTg3NTAsNzc2NTczODc4LDIyMz
-U3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIz
-NywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMD
-A2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3
-OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNz
-YxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0
-OTY5M119
+eyJoaXN0b3J5IjpbMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1Nz
+czMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcs
+LTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNj
+kyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4
+LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MT
+E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
+OTNdfQ==
 -->
