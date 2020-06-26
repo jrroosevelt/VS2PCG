@@ -577,6 +577,10 @@ Each version of Mary Walker has a different text box and ATK and DEF, but they a
 Set: Deadpool & Friends  
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
+# Mastermind
+Set: Crossover vol. 2  
+
+
 
 # Maximus
 Set: Crossover  
@@ -1042,11 +1046,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMD
-Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
-MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
-U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
-NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
-gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
-NTEwNl19
+eyJoaXN0b3J5IjpbODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NT
+AyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5
+OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4ND
+Y5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3
+OCwtMTk3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNj
+Q5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0
+MTA2XX0=
 -->
