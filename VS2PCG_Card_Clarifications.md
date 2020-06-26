@@ -206,6 +206,11 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 Set: S.H.I.E.L.D. vs. Hydra  
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
 
+# Cosmo (MC)
+Set: Galactic Guardians  
+**All Bark, No Flight**  
+With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
+
 # Cyclops (MC) 
 Set: The Utopia Battles  
 You will draw two cards with **They’ll Follow Him** if you have one Supporting Character that is both (Brotherhood) and (X-Men). Similarly, a multi-affiliation character can satisfy more than one of the requirements of **The Squad I’ve Put Together** and **Trust the Plan**. 
@@ -946,6 +951,10 @@ Set: The MCU Battles
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
+# * Star Lord *
+Set: Galactic Guardians  
+Kitty Pryde becomes Star-Lord when the origin
+
 # Storm
 Set: Resistance  
 **You Can’t Weather This Storm**  
@@ -1050,11 +1059,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNj
-kyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4
-LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MT
-E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
-OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLD
-QwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQz
-OTg0XX0=
+eyJoaXN0b3J5IjpbLTExODQ1MjQwNSwxNzg1NTQ5MzkwLDg1Nj
+UxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3
+LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
+EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
+NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLT
+EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
+NTNdfQ==
 -->
