@@ -959,6 +959,10 @@ Set: Brotherhood of Mutants
 **Fire Manipulation**  
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
+# The Reality Gem
+Set: Black Order  
+You can use this Gem to turn cards in play face up. If you choose a stunned character this counts as recovering it. If you choose a hidden character, it counts as un-hiding it. If you choose a face-down location, it will turn face up. If you choose any other type of face-down resource (including an I  
+
 # Rhino
 ## Rhino (Sinister Syndicate)
 Set: Crossover  
@@ -1360,11 +1364,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMj
-YxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYx
-Nyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
-QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
-OTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMj
-A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
-NzFdfQ==
+eyJoaXN0b3J5IjpbODA3NDMwOTE3LC0xNjQzNjI2NzgxLDIwMz
+k2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0
+NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNT
+Y1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1
+NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5Nj
+UwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAw
+OTldfQ==
 -->
