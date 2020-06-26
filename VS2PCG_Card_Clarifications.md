@@ -1042,6 +1042,8 @@ Set: Webheads
 **Spider-Verse**  
 A British Spider-Man from another Universe, Spider-UK is a new Main Character with the **Spider-Verse** keyword. **Spider-Verse** means two things:
 
+First, if you choose a **Spider-Verse** character to be your starting Main Character you can include up to four other **Spider-Verse** Main Characters in your deck when you build it. (Four other Spider-Verse Main Characters premiered in the 2019 Vs. System 2PCG: Crossover Vol 2 Issue
+
 
 
 # Squirrel Girl
@@ -1185,11 +1187,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1Nz
-czMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcs
-LTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNj
-kyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4
-LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MT
-E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTk3OTI0MTYzNSwyMzczMzM2MTcsNzc2NT
+czODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwt
+MTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1Nj
+UxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3
+LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
+EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
+NV19
 -->
