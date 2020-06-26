@@ -971,7 +971,11 @@ When you play Secret Hideout, one of your Main Characters takes a **Hostage**. C
 
 For example, if you take Mary Jane hostage, your Main Character will gain **Pounce** while it's in  your front row. (It doesn't have to be protecting anyone.)
 
-When that Main character gets stunned or leaves play, turn the Secret Hideout face down and set the **Hostage** aside. (It doesn't go back to your Hostage pile.) Similarly, if an effect turns the Secret Hideout face down, set the **Hostage** aside. Once the **Hostage** card is no longer benea
+When that Main character gets stunned or leaves play, turn the Secret Hideout face down and set the **Hostage** aside. (It doesn't go back to your Hostage pile.) Similarly, if an effect turns the Secret Hideout face down, set the **Hostage** aside. Once the **Hostage** card is no longer beneath the Secret Hideout it also stops granting its Keyword Power.
+
+It's possible for the same Main Character to have multiple Hostages (one for each Secret Hideout you play while you have that Main Character). 
+
+Note: A **Hostage** is never actually in play. It's either in a Hostage pile, beneath a Secret Hideout, or set aside (after leaving a Secret Hideout).
 
 # Sentry
 Set: The Utopia Battles  
@@ -1261,11 +1265,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEzNDcyNzksMzI2MTQ0ODYsLTE2MD
-UzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4
-LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3ND
-I5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0
-MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNj
-Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
-Ml19
+eyJoaXN0b3J5IjpbMTgzNTk3MTk3NywzMjYxNDQ4NiwtMTYwNT
+MwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4Nzgs
+MjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mj
+k1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQw
+LDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2Nj
+czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
+XX0=
 -->
