@@ -955,7 +955,13 @@ Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as
 Set: Galactic Guardians  
 Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed. So she has *s around her name, meaning she shares the "mantle" with Star-Lord, himself. The sharing of the mantle means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of the uniqueness rules and they can't power each other up.
 
-Note that although this card represents her joining the Guardians of the Galaxy she's still an X-Men at he
+Note that although this card represents her joining the Guardians of the Galaxy she's still an X-Men at heart, so she has both team affiliations.
+
+**Intangibility**  
+Her **Intangibility** power lets her strike characters while they're in a player's hand. This is uncanny. A couple things about this: 
+
+* She can strike any number of 0 DEF characters (or characters with * DEF).  
+* 
 
 # Storm
 Set: Resistance  
@@ -1061,7 +1067,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTc1NDgwMSwxNzg1NTQ5MzkwLDg1Nj
+eyJoaXN0b3J5IjpbMTgzOTU5MDc3MiwxNzg1NTQ5MzkwLDg1Nj
 UxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3
 LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
 EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
