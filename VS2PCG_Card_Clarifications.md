@@ -371,7 +371,7 @@ Death is **Amortal** which means:
 * She starts with her card that has infinite health. (Her other card has 8 health, also known as sideways infinity.)  
 * She can't be face down. If she would be turned face down, switch her with her other card instead and leave it face up. For example when she gets stunned, instead of turning her face down, switch her with her other card which will remain face up. She still suffers other effects from the stun such as losing the +1/+1 and -1/-1 counters, gaining a wound, and becoming exhausted.  
 * If she would be hidden, instead switch her with her other card which will remain face up and place her in the ready position.  
-* Amortal can't be turned off.
+* **Amortal** can't be turned off.
  
 Since Death doesn't turn face down, she can be stunned multiple times in a single turn. However, if she takes fatal wounds she's not really defeated. She's just temporarily lost interest in this mortal battle. (The player who was using her is defeated, though.) 
 
@@ -529,7 +529,7 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 # Fantastic Four
 Set: The Herald  
 **The Core Four**  
-**The Core Fourr** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
+**The Core Four** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
 
 # Fin Fang Foom
 Set: Monsters Unleashed!  
@@ -538,6 +538,10 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 # The First Evil (MC) 
 Set: The Buffy Battles  
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
+
+# Franklin 
+Set: The MCU Battles  
+**Air Superiority**  
 
 # Gambit
 ## Gambit (MC)
@@ -1622,7 +1626,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NjA1NTc1LC0xNDY3MTAwOTAsLTkzMD
+eyJoaXN0b3J5IjpbNTM0OTI2NTU5LC0xNDY3MTAwOTAsLTkzMD
 c1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2
 NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLT
 EwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYx
