@@ -480,6 +480,10 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 Set: Utopia Battles   
 Several characters have powers that impersonate other characters. These powers turn off immediately if the character they’re impersonating ever shows up. It doesn’t matter if the character that’s being impersonated is face up or face down or what side they’re on. Either way they count as being on “a side” and will turn off the Impersonation power.
 
+# The In-Betweener
+Set: Crossover Vol. 2  
+
+
 # Ironheart
 Set: Crossover  
 **We’re All Weirdos Here**  
@@ -1031,11 +1035,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzAzNzY1MCw5OTY1MDIxODksMTEyMD
-Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
-MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
-U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
-NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
-gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
-NTEwNl19
+eyJoaXN0b3J5IjpbNzU2NjczOTgsOTk2NTAyMTg5LDExMjA2NT
+g2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEs
+NDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Nj
+c4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQx
+OCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MD
+E5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUx
+MDZdfQ==
 -->
