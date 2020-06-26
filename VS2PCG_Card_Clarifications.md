@@ -33,28 +33,36 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
 
-# Ajax
+
+# [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 Set: Deadpool & Friends  
 **Pain Tolerance**  
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
-# Alcatraz
+# [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 Set: H.A.M.M.E.R.  
-**It's a Prison**  
+**It's a Prison****It's a Prison**  
+Set: H.A.M.M.E.R.  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
-Armor 
+# [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
+Set: The Fantastic Battles  
+**Neo-Realistic Sculptor**  
+Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF becomeAncient Sorceress**   10/10.
+
+# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 Set: The Utopia Battles  
 **Psionic Exoskeleton**  
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
 
-# Angel (MC)
+# [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
 Set: Resistance  
-When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to become him normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
+When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
 
-# Angel/Angelus (MC) 
+# [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
 Set: The Buffy Battles  
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
+
 
 # Angela
 Set: Galactic Guardians  
@@ -1473,7 +1481,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTMxNTQ4NSw4NTQyNjMwMDksMTQ2OD
+eyJoaXN0b3J5IjpbMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2OD
 ExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgw
 OTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OS
 wtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcw
