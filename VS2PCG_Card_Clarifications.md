@@ -961,7 +961,7 @@ Note that although this card represents her joining the Guardians of the Galaxy 
 Her **Intangibility** power lets her strike characters while they're in a player's hand. This is uncanny. A couple things about this: 
 
 * She can strike any number of 0 DEF characters (or characters with * DEF).  
-* 
+* She can strike characters who normally couldn't be struck by her while on a s
 
 # Storm
 Set: Resistance  
@@ -1067,11 +1067,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTU5MDc3MiwxNzg1NTQ5MzkwLDg1Nj
-UxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3
-LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
-EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
-NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLT
-EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDUxNjczODMsMTc4NTU0OTM5MCw4NT
+Y1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYy
+NywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0Mz
+ExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5
+OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC
+0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0
+NDUzXX0=
 -->
