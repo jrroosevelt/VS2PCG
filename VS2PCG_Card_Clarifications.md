@@ -485,7 +485,7 @@ Set: Crossover Vol. 2
 **Duality Itself**  
 **Duality Itself** lets you put the In-Betweener onto your side between two turns of the game. You can deven do this after an enemy player's first turn but before your first turn.
 
-The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to have so he ended up between two whole numbers. In most cases, his stats work like this. 1 ½ cost means you must pay 1 ½ recruit points to recruit him. So you will have ½ a recruit point left over. 4 ½ ATK means his strikes will stun a 4 DEF character but not a 5 DEF character
+The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to have so he ended up between two whole numbers. In most cases, his stats work like this. 1 ½ cost means you must pay 1 ½ recruit points to recruit him. So you will have ½ a recruit point left over. 4 ½ ATK means his strikes will stun a 4 DEF character but not a 5 DEF character. 3 ½ DEF means if he is struck with 3 ATK, he won't get stunned, but if he gets struck with 4 ATK he will get stunned. 2 ½ (Health) means 2 wounds won't KO him, but 3 wounds will.
 
 # Ironheart
 Set: Crossover  
@@ -1038,11 +1038,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MTUwMzQxLDk5NjUwMjE4OSwxMTIwNj
-U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
-LDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NT
-Y3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0
-MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0OD
-AxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1
-MTA2XX0=
+eyJoaXN0b3J5IjpbLTEyMDk3NjA2OTksOTk2NTAyMTg5LDExMj
+A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
+NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xOD
+U1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2
+MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLD
+Q4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0
+NDUxMDZdfQ==
 -->
