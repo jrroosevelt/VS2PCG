@@ -819,6 +819,11 @@ Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino
 Set: The Defenders  
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
+# Roberta
+Set:  The Herald  
+**Receptionist**  
+**Receptionist** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a (Humanity/"Earth") for the Silver Surfer.
+
 # Rocket
 Set: The MCU Battles  
 **I’m Gonna Need a Few Things**  
@@ -917,9 +922,12 @@ Set: Crossover
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
 # Silver Surfer (MC)
-Set:  The Herald 
+Set:  The Herald  
 **Take a Stand**  
-**Take a Stand** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a 
+**Take a Stand** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a (Humanity/"Earth") for the Silver Surfer.
+
+**Protect the Earth**  
+**Protect the Earth** will return the highest cost Supporting Character to its owner's hand, whether that character is on your side or on another player's side.
 
 # Simon Trask (MC) 
 Set: The Utopia Battles  
@@ -1122,11 +1130,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzMwOTYwNCwxNzAxMTQzNDQxLC0xND
-c0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5
-NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMT
-I2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2
-MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC
-0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0
-OTA3MzM1Ml19
+eyJoaXN0b3J5IjpbNjk2NzAzNjc3LDE3MDExNDM0NDEsLTE0Nz
+QyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1
+NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMj
+Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
+MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyXX0=
 -->
