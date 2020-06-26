@@ -1014,7 +1014,7 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 # Specialized Web Cartridges
 Set: Webheads  
 **Spider-Gear**  
-**Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. N
+**Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. Note: The attack power will trigger whether the equipped character is making a melee or ranged attack.
 
 # Spider-Gwen
 Set: Legacy  
@@ -1227,11 +1227,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MzcyMzcsLTE2MDUzMDAyNTYsMTUxMj
-YxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3
-NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MT
-Q4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMw
-LDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMj
-U0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4
-XX0=
+eyJoaXN0b3J5IjpbNzI5ODc1NDI5LC0xNjA1MzAwMjU2LDE1MT
+I2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYs
+Nzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOT
+E0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAz
+MCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMj
+I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
+OF19
 -->
