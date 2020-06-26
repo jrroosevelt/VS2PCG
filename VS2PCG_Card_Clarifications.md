@@ -531,6 +531,11 @@ If Ghost-Spider enters anotehr game of Vs. System 2PCG, you decide which player 
 
 If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players in that game to decide exactly how she works in that game.
 
+# Gilgamesh
+Set: Cosmic Avengers  
+**The Forgotten one**  
+Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required (Energy/"Blue"). But it doesn't have to be in the combat.
+
 # Glory 
 Set: The Buffy Battles  
 **Drain Sanity**  
@@ -601,7 +606,8 @@ Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tact
 
 # Hyperion
 Set: Cosmic Avengers  
-**Fluid Tactics**  
+**Reliance on Solar Energy**  
+Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required (Energy/"Blue"). But it doesn't have to be in the combat.
 
 # Impersonating Powers
 Set: Utopia Battles   
@@ -1410,7 +1416,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzUwMzkyOCwtMTI5NTczNjY2OSwtNT
+eyJoaXN0b3J5IjpbMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNT
 g2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAy
 MzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLT
 E2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTcz
