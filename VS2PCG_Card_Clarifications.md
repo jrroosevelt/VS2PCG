@@ -1011,6 +1011,11 @@ Even though its name is spelled differently it still counts as being "Spider" fo
 
 SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Regeneration** heals SP//dr's last wound, you won't get to draw from **Genius** that turn.
 
+# Specialized Web Cartridges
+Set: Webheads  
+**Spider-Gear**  
+**Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. N
+
 # Spider-Gwen
 Set: Legacy  
 **Dimensional Wristwatch**  
@@ -1222,11 +1227,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjMwNTA1OCwtMTYwNTMwMDI1NiwxNT
-EyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2
-LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMD
-kxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMw
-MzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMT
-IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
-MjhdfQ==
+eyJoaXN0b3J5IjpbMjE1MzcyMzcsLTE2MDUzMDAyNTYsMTUxMj
+YxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3
+NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MT
+Q4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMw
+LDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMj
+U0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4
+XX0=
 -->
