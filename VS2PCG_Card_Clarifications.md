@@ -121,12 +121,18 @@ Set: Spider-Friends
 **Personal Loyalty**  
 Black Cat has often wavered between being a hero and a villain. In the game she doesn’t have a team affiliation and is neither Good nor Evil… until she’s on a side (she is neither Good nor Evil while she is in your hand, deck, or KO pile). Then if Spider-Man is your main character, he has a good influence on her and she’ll ferociously fight alongside her partner. But if he’s not your main character, she’ll go back to slinking around as a criminal.
 
-# Black Panther (MC)
+# Black Panther
+## Black Panther (MC - Illustrated)
+Set: Cosmic Avengers  
+**Passing Down the Knowledge**  
+For Black Panther's **Passing Down the Knowledge**, wheneve
+
+## Black Panther (MC - Photo)
 Set: MCU Heroes  
 **Vibranium Weave Suit**  
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
 
-# Black Panther (SC)
+## Black Panther (SC)
 Set: MCU Heroes  
 **Bulletproof**  
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
@@ -1368,11 +1374,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMj
-AzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEw
-ODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NT
-M1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgz
-MzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOT
-k2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0
-MDA5OV19
+eyJoaXN0b3J5IjpbMzE3MzI2MDYyLC0xMDcwMDAyMzgwLC0xNj
+QzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAy
+NTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMz
+U3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIz
+NywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMD
+A2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3
+OThdfQ==
 -->
