@@ -149,6 +149,11 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 Set: The MCU Battles  
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
+# Buffy (MC) 
+Set: The Buffy Battles  
+**Save the World. A Lot.**  
+Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character. If she does and it’s the last enemy Main Character in play, you win immediately! But if something goes wrong or there are other enemy Main Characters left, Buffy will get KO’d at the end of the turn.
+
 # Bullseye (MC)
 Set: H.A.M.M.E.R.  
 **Perfect Aim**  
@@ -391,6 +396,10 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 # Fin Fang Foom
 Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
+
+# The First Evil (Main Character) 
+Set: The Buffy 
+If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
 # Gambit
 ## Gambit (MC)
@@ -949,11 +958,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE0MTM4NTYsMTEyMDY1ODYyNywxMj
-Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
-MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
-EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
-MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
-0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
-MzM2OTI1XX0=
+eyJoaXN0b3J5IjpbLTI3NTM1OTYwNCwxMTIwNjU4NjI3LDEyNj
+Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
+MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
+IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
+NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
+E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
+MzY5MjVdfQ==
 -->
