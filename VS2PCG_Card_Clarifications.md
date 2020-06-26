@@ -725,6 +725,10 @@ In this Arc, we are playing around with how players can use locations besides su
 * These cards are neutral, so just like any other neutral cards, they can be in Loyalty decks.  
 * The Special Locations don't count as location swith a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
 
+# The Milano
+Set: Galactic Guardians  
+See [Nova Corps](#wiki_nova_corps)
+
 # Mimic (MC)
 Set: H.A.M.M.E.R.  
 **Absorption History**  
@@ -849,7 +853,7 @@ Norman’s Level 2 Keyword Powers also affect himself.
 
 Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (HAMMER) team affiliation
 
-# Nova Corps (and The Milano)
+# Nova Corps
 Set: Galactic Guardians  
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
 
@@ -1328,7 +1332,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDAzODg5MSwyMDM5NjEyNzUyLDMyNj
+eyJoaXN0b3J5IjpbMjExNjU2OTkxNSwyMDM5NjEyNzUyLDMyNj
 E0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3
 LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExND
 M0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5
