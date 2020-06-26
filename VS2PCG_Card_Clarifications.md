@@ -796,7 +796,10 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 * They can’t be attacked unless each character in your front and back rows is face down.
 
 # Nebula
-## Nebula 
+## Nebula (MC)
+Set: Black Order
+
+## Nebula (SC - Photo)
 Set: The MCU Battles  
 **Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
@@ -1284,11 +1287,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mjg2NTAzLDMyNjE0NDg2LC0xNjA1Mz
-AwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwy
-MjM1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOT
-UyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAs
-MjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2Nz
-MwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTJd
-fQ==
+eyJoaXN0b3J5IjpbLTE3ODc1NzcwMjQsMzI2MTQ0ODYsLTE2MD
+UzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4
+LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3ND
+I5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0
+MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNj
+Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
+Ml19
 -->
