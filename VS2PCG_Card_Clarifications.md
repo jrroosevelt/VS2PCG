@@ -282,41 +282,6 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 Set: The Buffy Battles
 Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
 
-# Death
-Set: Black Order  
-**Amortal**
-Death is **Amortal** which means:
-
-* She has no level (She is beyond such mortal trappings).  
-* She starts with her card that has infinite health. (Her other card has 8 health, also known as sideways infinity.)  
-* She can't be face down. If she would be turned face down, switch her with her other card instead and leave it face up. For example when she gets stunned, instead of turning her face down, switch her with her other card which will remain face up. She still suffers other effects from the stun such as losing the +1/+1 and -1/-1 counters, gaining a wound, and becoming exhausted.  
-* If she would be hidden, instead switch her with her other card which will remain face up and place her in the ready position.  
-* Amortal can't be turned off.
- 
-Since Death doesn't turn face down, she can be stunned multiple times in a single turn. However, if she takes fatal wounds she's not really defeated. She's just temporarily lost interest in this mortal battle. (The player who was using her is defeated, though.) 
-
-**Note:** While death is technically two cards, you could slip her into a single clear card sleeve with her cards back to back. Then when she would turn face down, you can just flip her to her other "side."  
-
-**Mistress of the Infinity Well**  
-**Mistress of the Infinity Well** allows each player to draw an extra card each time you draw cards. For example, when you draw your usual two cards during your Draw Phase, you'll draw an extra one. And if you have a **Genius** in play that lets you draw a card, you'll draw an extra one then, too. 
-
-# Devil Dinosaur
-## Devil Dinosaur Team Affiliations
-Set: Monsters Unleashed!  
-Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
-
-## Devil Dinosaur and Moon Girl (MCs)  
-The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
-
-# Domino
-Set: The Utopia Battles   
-**Probability Manipulation**  
-**Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
-
-# Dormammu
-Set: MCU Villains  
-**You Will Spend Eternity Dying**  
-Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 # Dark Phoenix (SC)
 Set: Crossover  \
@@ -362,9 +327,37 @@ Here are some quick tips:
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
+# Death
+Set: Black Order  
+**Amortal**
+Death is **Amortal** which means:
+
+* She has no level (She is beyond such mortal trappings).  
+* She starts with her card that has infinite health. (Her other card has 8 health, also known as sideways infinity.)  
+* She can't be face down. If she would be turned face down, switch her with her other card instead and leave it face up. For example when she gets stunned, instead of turning her face down, switch her with her other card which will remain face up. She still suffers other effects from the stun such as losing the +1/+1 and -1/-1 counters, gaining a wound, and becoming exhausted.  
+* If she would be hidden, instead switch her with her other card which will remain face up and place her in the ready position.  
+* Amortal can't be turned off.
+ 
+Since Death doesn't turn face down, she can be stunned multiple times in a single turn. However, if she takes fatal wounds she's not really defeated. She's just temporarily lost interest in this mortal battle. (The player who was using her is defeated, though.) 
+
+**Note:** While death is technically two cards, you could slip her into a single clear card sleeve with her cards back to back. Then when she would turn face down, you can just flip her to her other "side."  
+
+**Mistress of the Infinity Well**  
+**Mistress of the Infinity Well** allows each player to draw an extra card each time you draw cards. For example, when you draw your usual two cards during your Draw Phase, you'll draw an extra one. And if you have a **Genius** in play that lets you draw a card, you'll draw an extra one then, too. 
+
 # Death Trap 
 Set: The Predator Battles  
 While this card is face down in your Resource Row, you can play it as if it was in your hand. If you do, put it into your KO pile as normal, then replace it with the top card of your deck, face down. If you have no cards in your deck, you can still play it, you just won’t be able to replace it.
+
+
+
+# Devil Dinosaur
+## Devil Dinosaur Team Affiliations
+Set: Monsters Unleashed!  
+Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
+
+## Devil Dinosaur and Moon Girl (MCs)  
+The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
 # Devil Slayer
 Set: The New Defenders  
@@ -1430,11 +1423,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTE1Njk0LDEwNDQ4MjA0MzIsLTEyOT
-U3MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMx
-MCwtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLD
-MyNjE0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMz
-NjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MD
-ExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0
-OTM5MF19
+eyJoaXN0b3J5IjpbMTY1NDYwMDUxMSwxMDQ0ODIwNDMyLC0xMj
+k1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAz
+MTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Mi
+wzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMz
+MzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNz
+AxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1
+NDkzOTBdfQ==
 -->
