@@ -1034,7 +1034,11 @@ Set: Webheads
 **Tony's Tinkering**  
 When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's **Updates**). When Spidey installs **Updates**, you may remove any number of **Update** counters from him.
 
-If you remove exactly one **Update** he gains (Flight) and (Range) until he leaves play. If you remove exactly two **Updates**, put two vitality counters on him. If you remove exactly three **Updates**, put twelve +1/+1 counters
+If you remove exactly one **Update** he gains (Flight) and (Range) until he leaves play. If you remove exactly two **Updates**, put two vitality counters on him. If you remove exactly three **Updates**, put twelve +1/+1 counters on him.
+
+You can remove the same number of **Updates** more than once. For example, if you remove the two **Updates** for a second time, Spider-Man will get two more vitality counters.
+
+Note: **Update** counters aren't removed from Spidey when he gets turned face down. However, they are still removed when he leaves play.
 
 # \* Spider-Man \*
 Set: Crossover Vol. 2  
@@ -1218,11 +1222,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMjI2NDc0LC0xNjA1MzAwMjU2LDE1MT
-I2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYs
-Nzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOT
-E0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAz
-MCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMj
-I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
-OF19
+eyJoaXN0b3J5IjpbMTQxNjMwNTA1OCwtMTYwNTMwMDI1NiwxNT
+EyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2
+LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMD
+kxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMw
+MzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMT
+IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
+MjhdfQ==
 -->
