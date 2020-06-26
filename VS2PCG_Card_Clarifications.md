@@ -539,9 +539,12 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 Set: The Buffy Battles  
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
-# Franklin 
-Set: The MCU Battles  
-**Air Superiority**  
+# Franklin Richards
+Set: The Fantastic Battles  
+**Pocket Universe**  
+Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
+
+* Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
 
 # Gambit
 ## Gambit (MC)
@@ -1626,11 +1629,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0OTI2NTU5LC0xNDY3MTAwOTAsLTkzMD
-c1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2
-NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLT
-EwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYx
-NDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNy
-w3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQz
-NDQxXX0=
+eyJoaXN0b3J5IjpbLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
+MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
+MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
+wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
+NjE0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNj
+E3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDEx
+NDM0NDFdfQ==
 -->
