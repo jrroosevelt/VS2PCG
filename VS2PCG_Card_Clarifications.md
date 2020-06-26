@@ -44,7 +44,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 # Alicia Mastergatha Harkness
 Set: The Fantastic Battles  
 **Neo-Realistic Sculptor**  
-Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF becomeAncient Sorceress**  
+Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF becomeAncient Sorceress**   10/10.
 
 # Armor 
 Set: The Utopia Battles  
@@ -53,7 +53,7 @@ Set: The Utopia Battles
 
 # Angel (MC)
 Set: Resistance  
-When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to become him normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
+When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
 
 # Angel/Angelus (MC) 
 Set: The Buffy Battles  
@@ -106,6 +106,11 @@ Set: The Utopia Battles
 * Skill (Red)  
 * Alien (Space)
 * Humanity (Earth)
+
+# Awesome Android
+Set: The Fantastic Battles  
+**Mimicry**  
+If there are no other face-up characters in play, Awesome Android's ATK/DEF be
 
 # Baron Mordo (MC)
 Set: Legacy  
@@ -1620,11 +1625,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcxMDA5MCwtMTU4MDIzMzA2OCwtOT
-MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
-MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
-wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
-NjE0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNj
-E3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDEx
-NDM0NDFdfQ==
+eyJoaXN0b3J5IjpbLTgzNDI1OTc3NiwtMTQ2NzEwMDkwLC05Mz
+A3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTcz
+NjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC
+0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2
+MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MT
+csNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0
+MzQ0MV19
 -->
