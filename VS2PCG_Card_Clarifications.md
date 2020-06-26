@@ -881,6 +881,11 @@ Set: Resistance
 **Toadally Awesome**  
 Remember, Toad isn’t just Sort of Awesome.
 
+# Tracker
+Set: The Predator Battles  
+**It Wants Us to Run**   
+Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): (Humanity/"Earth"), (Alien/"Space"), (Energy
+
 # Trance 
 Set: Resistance  
 **Astral Form Overload**  
@@ -921,11 +926,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE0ODMwOTUsMTEyMDY1ODYyNywxMj
-Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
-MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
-EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
-MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
-0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
-MzM2OTI1XX0=
+eyJoaXN0b3J5IjpbNjQ2NzM1MDM5LDExMjA2NTg2MjcsMTI2Nj
+czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
+LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
+A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
+MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
+k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
+NjkyNV19
 -->
