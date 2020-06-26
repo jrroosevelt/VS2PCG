@@ -184,7 +184,8 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 # The Champion
 Set: Crossover Vol. 2  
 **Primordial Power**  
-(Infinite) ATK means the Champion will always have enough ATK to stun a defender and his DEF will always be high enough to avoid getting stunned by a defender's strike. Although if somehow, the defender also has infinite ATK and DEF, then both characters will get stunned. (In other words, infinite ATK is treated as equal to infinite DEF
+(Infinite) ATK means the Champion will always have enough ATK to stun a defender and his DEF will always be high enough to avoid getting stunned by a defender's strike. Although if somehow, the defender also has infinite ATK and DEF, then both characters will get stunned. (In other words, infinite ATK is treated as equal to infinite DEF which results in a stun. It's maths.)
+
 # Chimichanga
 Set: Deadpool & Friends  
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
@@ -1030,11 +1031,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcwMzU1OTAsOTk2NTAyMTg5LDExMj
-A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
-NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xOD
-U1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2
-MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLD
-Q4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0
-NDUxMDZdfQ==
+eyJoaXN0b3J5IjpbMTM1NzAzNzY1MCw5OTY1MDIxODksMTEyMD
+Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
+MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
+U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
+NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
+gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
+NTEwNl19
 -->
