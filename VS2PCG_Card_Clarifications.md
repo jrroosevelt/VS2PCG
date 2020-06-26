@@ -200,7 +200,9 @@ Set: Brotherhood of Mutants
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 # Daredevil
-S
+Set: The Defenders  
+**Radar Sense**  
+Daredevil and Rhino have effects that allow an enemy player to spend a or to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 # Darkhold
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
@@ -650,6 +652,9 @@ Set: Crossover
 **Headlong Charge**  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
+Set: The Defenders  
+Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+
 # Rocket
 Set: The MCU Battles  
 **I’m Gonna Need a Few Things**  
@@ -867,11 +872,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY1MDIwMDgsMTI2NjczMDc5OCwtMT
-IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
-MjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLD
-E4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3
-MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NC
-wxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1
-NjgzMDc2Ml19
+eyJoaXN0b3J5IjpbLTk4NTE4NTUxNSwxMjY2NzMwNzk4LC0xMj
+I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
+OCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMT
+gxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjcz
+MjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOTc2ODQzOTg0LD
+E0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2OTI1LC0xMDU2
+ODMwNzYyXX0=
 -->
