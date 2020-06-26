@@ -479,6 +479,11 @@ Set: Sinister Syndicate
 ** Spring the Trap **  
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
+# Lambert
+Set: The Predator Battles  
+**No Autographs 
+While in play, Lambert has every Good Team Affiliation. This does a variety of things. For example, he can team attack with any other Good characters, and while he is face up, he helps you play any Good Plot Twists.
+
 # Leviathon Hydra
 Set: Monsters Unleashed!  
 See [Fin Fang Foom](#wiki_fin_fang_foom).
@@ -884,7 +889,7 @@ Remember, Toad isn’t just Sort of Awesome.
 # Tracker
 Set: The Predator Battles  
 **It Wants Us to Run**   
-Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): (Humanity/"Earth"), (Alien/"Space"), (Energy
+Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): (Humanity/"Earth"), (Alien/"Space"), (Energy/"Blue"), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
 
 # Trance 
 Set: Resistance  
@@ -926,11 +931,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2NzM1MDM5LDExMjA2NTg2MjcsMTI2Nj
-czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
-LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
-A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
-MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
-k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
-NjkyNV19
+eyJoaXN0b3J5IjpbMTQ1OTA2Mjk2OSwxMTIwNjU4NjI3LDEyNj
+Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
+MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
+IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
+NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
+E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
+MzY5MjVdfQ==
 -->
