@@ -511,6 +511,10 @@ Set: The Predator Battles
 **Sniper Nest**   
 Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an (Energy/"Blue"), including their “wild” Location, to turn off this effect for a turn.
 
+# Jack Flag
+Set: Galactic Guardians  
+**Follower**  
+Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
 
 # Jessica Jones
 Set: Legacy  
@@ -690,6 +694,11 @@ The New Mutants are a part of the (X-Men) team. However, there are certain effec
 Set: S.H.I.E.L.D. vs. Hydra  
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
+
+# Nikki
+Set: Galactic Guardians  
+**Mer**  
+At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 # Norman Osborn (MC) 
 Set: The Utopia Battles  
@@ -1073,7 +1082,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNTc4MDY5LDE3ODU1NDkzOTAsODU2NT
+eyJoaXN0b3J5IjpbMjkzMjI3MjQ2LDE3ODU1NDkzOTAsODU2NT
 E5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2Mjcs
 MTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMT
 I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
