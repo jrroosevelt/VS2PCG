@@ -275,7 +275,11 @@ Death is **Amortal** which means:
 
 * She has no level (She is beyond such mortal trappings).  
 * She starts with her card that has infinite health. (Her other card has 8 health, also known as sideways infinity.)  
-* She can't be face down. If she would be turned face down, switch her with her other card instead and leave it face up. For example when she gets stunned, instead of turning her face down, switch her with her other card which will remain face up. She still suffers other effects from the stun such as losing the +  
+* She can't be face down. If she would be turned face down, switch her with her other card instead and leave it face up. For example when she gets stunned, instead of turning her face down, switch her with her other card which will remain face up. She still suffers other effects from the stun such as losing the +1/+1 and -1/-1 counters, gaining a wound, and becoming exhausted.  
+* If she would be hidden, instead switch her with her other card which will remain face up and place her in the ready position.  
+* Amortal can't be turned off.
+ 
+Since Death doesn't turn face down, she can be stunned multiple times in a single turn. However, if she takes fatal wou  
 
 # Devil Dinosaur
 ## Devil Dinosaur Team Affiliations
@@ -1274,7 +1278,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDIzMTk4MSwzMjYxNDQ4NiwtMTYwNT
+eyJoaXN0b3J5IjpbMTE1OTkzOTA2MCwzMjYxNDQ4NiwtMTYwNT
 MwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4Nzgs
 MjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mj
 k1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQw
