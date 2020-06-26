@@ -558,6 +558,11 @@ Set: The Predator Battles
 **No Autographs**   
 While in play, Lambert has every Good Team Affiliation. This does a variety of things. For example, he can team attack with any other Good characters, and while he is face up, he helps you play any Good Plot Twists.
 
+# Legacy
+Set: The Herald  
+**Nega-Bands**  
+Legacy can pay for **Nega-Bands** by .
+
 # Leviathon Hydra
 Set: Monsters Unleashed!  
 See [Fin Fang Foom](#wiki_fin_fang_foom).
@@ -822,7 +827,7 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 # Roberta
 Set:  The Herald  
 **Receptionist**  
-**Receptionist** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a (Humanity/"Earth") for the Silver Surfer.
+**Receptionist** prevents Roberta from leaving the front row. This means she can't be moved to the back row during your Formation Step, and she ignores any card effects that would move her out of the front row. However, an effect could move her from one player's front row to another player's front row.
 
 # Rocket
 Set: The MCU Battles  
@@ -1130,7 +1135,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NzAzNjc3LDE3MDExNDM0NDEsLTE0Nz
+eyJoaXN0b3J5IjpbMzkwNDA4Mzc5LDE3MDExNDM0NDEsLTE0Nz
 QyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1
 NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMj
 Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
