@@ -12,15 +12,17 @@ For additional information, see also:
 
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
-# Abomination
+
+
+# [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
 Set: MCU Battles  
 **Give Me a Real Fight!**  
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
-# Adam Warlock (MC)
+# [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
 Set: Galactic Guardians  
 **Prepare for Rebirth**  
-At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
+At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become [Level 2](http://vs.tcgbrowser.com/images/cards/big/GAL-002.jpg) while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 Set: The Fantastic Battles  
@@ -1471,11 +1473,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTQ3ODg5LDg1NDI2MzAwOSwxNDY4MT
-EwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5
-NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC
-01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAw
-MDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4Ni
-wtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1
-NzM4NzhdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTMxNTQ4NSw4NTQyNjMwMDksMTQ2OD
+ExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgw
+OTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OS
+wtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcw
+MDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0OD
+YsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2
+NTczODc4XX0=
 -->
