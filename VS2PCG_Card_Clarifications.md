@@ -46,12 +46,12 @@ Set: The Fantastic Battles
 **Neo-Realistic Sculptor**  
 Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF becomeAncient Sorceress**   10/10.
 
-# Armor 
+# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 Set: The Utopia Battles  
 **Psionic Exoskeleton**  
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
 
-# Angel (MC)
+# [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
 Set: Resistance  
 When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
 
@@ -1629,7 +1629,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjE0MzE0MSwxNDY4MTEwMjM5LC0xNj
+eyJoaXN0b3J5IjpbMTg0NTExMDE2OCwxNDY4MTEwMjM5LC0xNj
 QwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4
 ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMj
 YsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2
