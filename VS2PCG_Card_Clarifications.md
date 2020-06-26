@@ -997,7 +997,7 @@ Set: Spider-Friends
 **Spider-Powers**  
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
 
-# * Spider-Man *
+# \* Spider-Man \*
 Set: Crossover Vol. 2  
 **Citizen of the Multiverse**  
 Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
@@ -1150,11 +1150,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0Nz
-QyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1
-NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMj
-Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
-MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
-EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
-MDczMzUyXX0=
+eyJoaXN0b3J5IjpbMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
+QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
+OTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMj
+A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
+NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xOD
+U1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2
+MzQxOF19
 -->
