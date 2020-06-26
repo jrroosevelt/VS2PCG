@@ -367,8 +367,8 @@ When Devil-Slayer and the defender strike each other:
 
 # Doctor Doom
 Set: The Fantastic Battles  
-**Time **  
-
+**Time Platform**  
+Doctor Doom's **Time Platform**  does something very odd. It shuffles a card into a deck face up. We suggest you close your eyes when shuffling a deck with a face-up card in it. In a tournament, you can always ask a judge to shuffle the deck if necessary. Once the deck is shuffled, where the card is
 # Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hypnotic Suggestion**  
@@ -1432,7 +1432,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTA1Njg2MSwxMDQ0ODIwNDMyLC0xMj
+eyJoaXN0b3J5IjpbLTEzOTYzMjk4MCwxMDQ0ODIwNDMyLC0xMj
 k1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAz
 MTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Mi
 wzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMz
