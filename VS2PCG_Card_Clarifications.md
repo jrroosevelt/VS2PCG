@@ -923,6 +923,11 @@ Set: S.H.I.E.L.D. vs. Hydra
 **Hydra High Council**   
 Supreme Leader has a Super Power which prevents you from losing the game even after he’s KO’d. Just continue to play without a main character.
 
+# Sweet
+Set: The Buffy Battles  
+**That's Entertainment**   
+**That’s Entertainment** moves each face-up character to their front row and has them perform a Musical Number. There is no official definition of what counts as a Musical Number. We recommend rocking the cards back and forth and having them sing a song. (Although if The Gentlemen are in play, no singing is allowed.)
+
 # Thor (MC)
 Set: The MCU Battles  
 **Journey of Self Discovery**  
@@ -985,15 +990,19 @@ Set: The Utopia Battles
 **Addicted to Mutant Energy**   
 **Addicted to Mutant Energy** affects a character as it appears, which means it won’t even trigger any of its powers that occur when it appears. It also has no duration, so a character affected by it will remain affected until that character leaves play.
 
+# Willow (SC) 
+Set: The Buffy Battle
+Willow’s Spell Research power puts Plot Twists into a special pile removed from the game called your Spellbook. Your Spellbook can’t have more than one copy of the same Plot Twist. Her Spellcasting power lets you play Plot Twists from your Spellbook, putting them into your KO pile when they resolve. If Willow gets KO’d or otherwise is no longer on your side, you won’t be able to access the Plot Twists in your Spellbook. But if you play another copy of Willow, then you can use your Spellbook again.
+
 # X-23 (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU0NDI1NjQsMTEyMDY1ODYyNywxMj
-Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
-MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
-EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
-MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
-0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
-MzM2OTI1XX0=
+eyJoaXN0b3J5IjpbMTc1NjQyNDc2OCwxMTIwNjU4NjI3LDEyNj
+Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
+MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
+IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
+NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
+E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
+MzY5MjVdfQ==
 -->
