@@ -1032,7 +1032,9 @@ Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keyword
 ## Spider-Man (SC - Webheads)
 Set: Webheads  
 **Tony's Tinkering**  
-When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's Upd
+When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's **Updates**). When Spidey installs **Updates**, you may remove any number of **Update** counters from him.
+
+If you remove exactly one **Update** he gains (Flight) and (Range) until he leaves play. If you remove exactly two **Updates**, put two vitality counters on him. If you remove exactly three **Updates**, put twelve +1/+1 counters
 
 # \* Spider-Man \*
 Set: Crossover Vol. 2  
@@ -1216,11 +1218,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUxODU4MjAsLTE2MDUzMDAyNTYsMT
-UxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMy
-Niw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMj
-A5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIz
-MDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLT
-EyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQy
-MzI4XX0=
+eyJoaXN0b3J5IjpbMzMyMjI2NDc0LC0xNjA1MzAwMjU2LDE1MT
+I2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYs
+Nzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOT
+E0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAz
+MCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMj
+I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
+OF19
 -->
