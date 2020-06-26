@@ -954,6 +954,10 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 Set: Crossover  
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
+# Star Hawk
+Set: Galactic Guardians  
+**Composite Being**  At one point Starhawk was actually two beings merged together wh
+
 # Star Lord
 ## Star Lord (MC)
 Set: The MCU Battles  
@@ -1082,7 +1086,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMDk3OTY0LDE3ODU1NDkzOTAsODU2NT
+eyJoaXN0b3J5IjpbLTk0MzcxODQxLDE3ODU1NDkzOTAsODU2NT
 E5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2Mjcs
 MTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMT
 I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
