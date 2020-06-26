@@ -477,7 +477,7 @@ When Ghost-Spider enters another game or gets removed from the game set aside al
 
 If Ghost-Spider enters anotehr game of Vs. System 2PCG, you decide which player gains control over her. She can attack, gain counters, get stunned, get KO'd, etc., just like in her original game. However, no matter what happens she will go back to her original game at the start of your next turn. When she jumps back, any counters, Equipment, etc. that she gained in the other game will be removed.
 
-If Ghost-Spider enters a game that isn't Vs. System 2PCG, it 
+If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players in that game to decide exactly how she works in that game.
 
 # Glory 
 Set: The Buffy Battles  
@@ -1037,6 +1037,11 @@ Set: Crossover Vol. 2
 **Black and White**  
 **Black and White** prevents enemy Locations from producing the power symbol of your choice. An enemy player can still turn a Location face down or discard it from their hand to try to produce that symbol, but nothing will happen.
 
+# Spider-UK (MC)
+Set: Webheads  
+**Spider-Verse**  
+A British Spider-Man from another Universe, Spider-UK is a new Main Character
+
 # Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -1178,11 +1183,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2MTQzOSw3NzY1NzM4NzgsMjIzNTc3Mz
-I2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0y
-MDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5Mj
-MwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwt
-MTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExND
-IzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5Njkz
-XX0=
+eyJoaXN0b3J5IjpbLTE5Mjg5MTg3NTAsNzc2NTczODc4LDIyMz
+U3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIz
+NywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMD
+A2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3
+OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNz
+YxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0
+OTY5M119
 -->
