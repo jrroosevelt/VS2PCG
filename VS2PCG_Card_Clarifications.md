@@ -658,7 +658,7 @@ Set: Webheads
 **The Gathering of Five**  
 If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five Gifts to each of them. If you don't have at least five characters on your side with different names (or you don't have a Main Character on your side), Mattie can't use **The Gathering of Five**.
 
-The Gift of Death will instantly KO its assigned character. The other four grant new abilities to their assigned characters (some good, some bad). Gift cards are not actually in play. Their cards are just play aids to remind everyone what new abilities each character has gained. If a character leaves play its Gift will no longer affect them (even if that character reenters 
+The Gift of Death will instantly KO its assigned character. The other four grant new abilities to their assigned characters (some good, some bad). Gift cards are not actually in play. Their cards are just play aids to remind everyone what new abilities each character has gained. If a character leaves play its Gift will no longer affect them (even if that character reenters play). 
 
 # Maximus
 Set: Crossover  
@@ -1202,11 +1202,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDgzMTc3MywxNTEyNjEwODQ0LDIzNz
-MzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwx
-NzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3OD
-U1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5
-LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNj
-Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
-XX0=
+eyJoaXN0b3J5IjpbLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMz
+czMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYs
+MTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNz
+g1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4
+OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMj
+Y0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAw
+M119
 -->
