@@ -552,8 +552,12 @@ Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
 
-* **Sniper** - A character with this power can ranged attack back row characters even while they're protected.  
-* **Stealth** - A character with this power can melee attack back row characters even while they're protected.
+* **Sniper**   
+* **Stealth**  
+* **Lethal**  
+* **Violent**  
+* **Shrink**  
+* **Freeze** 
 
 # Headsman
 Set: H.A.M.M.E.R.  
@@ -1384,11 +1388,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDI2NzM1OSwtMTI2NjAwMzEwLC0xMD
-cwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0
-ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNz
-c2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0
-MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLD
-g1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4
-NjI3XX0=
+eyJoaXN0b3J5IjpbLTE1ODIxMzI2NDcsLTEyNjYwMDMxMCwtMT
+A3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0
+NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LD
+c3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0
+NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MC
+w4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1
+ODYyN119
 -->
