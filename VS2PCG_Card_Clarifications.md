@@ -697,8 +697,8 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 
 # Nikki
 Set: Galactic Guardians  
-**Mer**  
-At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
+**Mercurial Personality**  
+**Mercurial Personality** allows you to **Burn** an enemy supporting character. This means "At the end of each of your turns, stun that character." (**Note:** "You" refers to the player who used Nikki's effect.) A Burn effect has no set duration - it will last until the character leaves play.
 
 # Norman Osborn (MC) 
 Set: The Utopia Battles  
@@ -1082,7 +1082,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMjI3MjQ2LDE3ODU1NDkzOTAsODU2NT
+eyJoaXN0b3J5IjpbNzYzMDk3OTY0LDE3ODU1NDkzOTAsODU2NT
 E5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2Mjcs
 MTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMT
 I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
