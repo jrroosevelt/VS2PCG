@@ -870,6 +870,8 @@ Keep in mind when choosing your next Sinister Six main character, you can choose
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (Hydra) characters have the new **Soldier** Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
 
+# SP//dr
+
 # Spider-Gwen
 Set: Legacy  
 **Dimensional Wristwatch**  
@@ -891,7 +893,10 @@ Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keyword
 # * Spider-Man *
 Set: Crossover Vol. 2  
 **Citizen of the Multiverse**  
-Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen o
+Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
+
+These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
+
 # Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -1012,11 +1017,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MjgwNzIyLDk5NjUwMjE4OSwxMTIwNj
-U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
-LDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NT
-Y3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0
-MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0OD
-AxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1
-MTA2XX0=
+eyJoaXN0b3J5IjpbLTk3MDk3NDM4NCw5OTY1MDIxODksMTEyMD
+Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
+MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
+U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
+NDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsND
+gwMTk0NDUzLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0
+NTEwNl19
 -->
