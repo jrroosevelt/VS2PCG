@@ -225,7 +225,9 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 # Darkhold
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-
+# Dawn
+Set: The Buffy Battles
+Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
 
 # Devil Dinosaur
 ## Devil Dinosaur Team Affiliations
@@ -378,6 +380,10 @@ If you have Ovomorphs in your deck (the eggs that make Facehuggers), you’ll us
 * When the Captor leaves play, put its Captive back into play stunned in its owner’s back row.  
 * You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
 * Note: Put the KO’d Facehugger token back into your Facehugger Pile.
+
+# Faith 
+Set: The Buffy Battles  
+Faith can steal any kind of counter from an enemy defender.
 
 # Falcon
 Set: The MCU Battles  
@@ -964,11 +970,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwOTg2MTI5LDExMjA2NTg2MjcsMTI2Nj
-czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
-LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
-A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
-MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
-k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
-NjkyNV19
+eyJoaXN0b3J5IjpbMjMzMTQ2MzUsMTEyMDY1ODYyNywxMjY2Nz
+MwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIs
+MTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMD
+Q0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDcz
+MzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOT
+c2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2
+OTI1XX0=
 -->
