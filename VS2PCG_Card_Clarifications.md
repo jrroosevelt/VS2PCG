@@ -956,7 +956,7 @@ Set: Crossover
 
 # Star Hawk
 Set: Galactic Guardians  
-**Composite Being**  At one point Starhawk was actually two beings merged together wh
+**Composite Being**  At one point Starhawk was actually two beings merged together who took turns occupying the same space. The Starhawk card from way back in the Vs. System 2PCG: Legacy expansion represents Stakar Ogord, but this card brings Aleta Ogord to the fore. Because they share the same body, you cant have both Starhawks in play at the same time. However, Aleta's **Composite Being** grants **Bond with Starhawk** to any Stakar Starhawks in your hand.
 
 # Star Lord
 ## Star Lord (MC)
@@ -1086,11 +1086,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzcxODQxLDE3ODU1NDkzOTAsODU2NT
-E5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2Mjcs
-MTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMT
-I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
-LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMT
-M0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1
-M119
+eyJoaXN0b3J5IjpbLTEwMzUyMjYxNjcsMTc4NTU0OTM5MCw4NT
+Y1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYy
+NywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0Mz
+ExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5
+OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC
+0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0
+NDUzXX0=
 -->
