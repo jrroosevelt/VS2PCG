@@ -45,8 +45,7 @@ Level 1 Angel and Angelus can transform between each other. However, when you bu
 
 # Anya 
 Set: The Buffy Battles
-Her **Newly Human** and Strangely Literal power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
-
+Her **Newly Human and Strangely Literal** power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
 
 # Archangel
 Set: Resistance  
@@ -225,6 +224,8 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 
 # Darkhold
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
+
+
 
 # Devil Dinosaur
 ## Devil Dinosaur Team Affiliations
@@ -963,11 +964,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTkyOTEyMywxMTIwNjU4NjI3LDEyNj
-Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
-MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
-IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
-NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
-E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
-MzY5MjVdfQ==
+eyJoaXN0b3J5IjpbMzgwOTg2MTI5LDExMjA2NTg2MjcsMTI2Nj
+czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
+LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
+A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
+MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
+k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
+NjkyNV19
 -->
