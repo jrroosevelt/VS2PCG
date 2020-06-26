@@ -1446,7 +1446,13 @@ Set: The Fantastic Battles
 Here are the four Plot Twists he has at his disposal:
 
 **Open Fire**  
+(Any Combat): Choose an attacker to get +2/+0 this combat.
 
+**Find Combat**  
+(Any Combat): Choose an attacker to get +0/+3 this combat.
+
+**Open Fire**  
+(Any Combat): Choose an attacker to get +2/+0 this combat.
 # X-23 (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
@@ -1455,11 +1461,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM3NDQ1ODgsMTA0NDgyMDQzMiwtMT
-I5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAw
-MzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NT
-IsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzcz
-MzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMT
-cwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1
-NTQ5MzkwXX0=
+eyJoaXN0b3J5IjpbLTQzOTgxNzkwLDEwNDQ4MjA0MzIsLTEyOT
+U3MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMx
+MCwtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLD
+MyNjE0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMz
+NjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MD
+ExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0
+OTM5MF19
 -->
