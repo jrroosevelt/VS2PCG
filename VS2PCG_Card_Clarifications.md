@@ -21,7 +21,7 @@ Set: Galactic Guardians
 **Prepare for Rebirth**  
 At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become [Level 2](http://vs.tcgbrowser.com/images/cards/big/GAL-002.jpg) while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
-# Agatha Harkness
+# [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 Set: The Fantastic Battles  
 **Ancient Sorceress**  
 If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
@@ -30,12 +30,12 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
 
-## Ajax
+# [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 Set: Deadpool & Friends  
 **Pain Tolerance**  
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
-## Alcatraz
+# [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 Set: H.A.M.M.E.R.  
 **It's a Prison****It's a Prison**  
 Set: H.A.M.M.E.R.  
@@ -1629,11 +1629,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODI0MjQ5NiwxNDY4MTEwMjM5LC0xNj
-QwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4
-ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMj
-YsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2
-NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNTMwMD
-I1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIz
-NTc3MzI2XX0=
+eyJoaXN0b3J5IjpbOTQ3NjkxMTc0LDE0NjgxMTAyMzksLTE2ND
+A4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4
+OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNi
+w1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwtMTY0
+MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1MzAwMj
+U2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1
+NzczMjZdfQ==
 -->
