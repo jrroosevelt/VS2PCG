@@ -1228,12 +1228,13 @@ Set: Black Order
 At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 **Schemes and Dreams**  
-**Schemes and Dreams**  prevents you from drawing cards during your Draw Phase, including your normal draws plus effects like Genius. However, if Thanos is face down at the start of yoru turn, Schemes and Dreams will be turned off. This means you can draw cards during your Draw Phase, however you can't search for a card.
+**Schemes and Dreams**  prevents you from drawing cards during your Draw Phase, including your normal draws plus effects like Genius. However, if Thanos is face down at the start of your turn, Schemes and Dreams will be turned off. This means you can draw cards during your Draw Phase, however you can't search for a card.
 
 **My Quest Begins**  
 **My Quest Begins** counts each card that enters your hand from your deck. So if you draw three cards, that would be 3 XP.
 
 **The Universe Will Now Be Set Right**  
+**The Universe Will Now Be Set Right**  has a 50-50 chance of removing each character on each side from the game. If this removes a players last main character, that player ;oses the game. If this removes each player's last main character (including Thanos, himself) then the Thanos player wins the game. (This is similar to how if the final two main characters KO each other in combat, the player whose turn it was wins.)
 
 # Thor (MC)
 Set: The MCU Battles  
@@ -1315,11 +1316,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYxOTIzNDcsMjAzOTYxMjc1MiwzMj
-YxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYx
-Nyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
-QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
-OTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMj
-A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
-NzFdfQ==
+eyJoaXN0b3J5IjpbMjM0MTY4MzE0LDIwMzk2MTI3NTIsMzI2MT
+Q0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcs
+Nzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0Mz
+Q0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5Mzkw
+LDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNj
+U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
+XX0=
 -->
