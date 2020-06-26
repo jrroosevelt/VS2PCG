@@ -195,6 +195,12 @@ Set: The Defenders
 Carnage’s power triggers when he stuns or gets stunned. So it’s possible for it to trigger twice in one combat.
 
 # Chameleon
+## Chameleon (MC)
+Set: Spidey-Foes  
+**Blessing in Disguise**  
+If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Charact
+
+## Chameleon (SC)
 Set: Sinister Syndicate  
 **Master of Disguise**  
 Chameleon does copy the **Sinister Six** keyword from your main characters who have that keyword. It doesn’t do anything for him in the game because he’s not a main character – he just wants to feel like a real part of the team.
@@ -1227,11 +1233,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5ODc1NDI5LC0xNjA1MzAwMjU2LDE1MT
-I2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYs
-Nzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOT
-E0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAz
-MCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMj
-I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
-OF19
+eyJoaXN0b3J5IjpbLTYwNDIyMTMyMywtMTYwNTMwMDI1NiwxNT
+EyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2
+LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMD
+kxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMw
+MzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMT
+IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
+MjhdfQ==
 -->
