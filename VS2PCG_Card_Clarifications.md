@@ -462,6 +462,11 @@ Set: The Buffy Battles
 **Hush**  
 **Hush** prevents players from using effects that require you to “say” something or to “name” something. **Hush** also prevents players from talking. You can still communicate in other ways such as using hand signals, or writing things down. You can also make sounds without using your vocal chords. If a player does speak, do your best impersonation of a Gentleman in order to shush them. (There is no in-game penalty for speaking. It’s just not cool.)
 
+# Ghost Spider (MC)
+Set: Webheads  
+**You Can Borrow This for a While**  
+**You Can Borrow This for a While** grants characters with the chosen name the **Dimensional Wristwatch** keyword. You can recruit a character with **Dimensional W 
+
 # Glory 
 Set: The Buffy Battles  
 **Drain Sanity**  
@@ -1161,11 +1166,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNT
-Y1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1
-NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5Nj
-UwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAw
-OTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1OD
-Q2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUx
-NzhdfQ==
+eyJoaXN0b3J5IjpbMTM5NjE4NjQyMiw3NzY1NzM4NzgsMjIzNT
+c3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3
+LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMD
+Y5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5
+OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3Nj
+ExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5
+NjkzXX0=
 -->
