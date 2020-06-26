@@ -68,7 +68,7 @@ Set: Resistance
 # Ardina
 Set: The Herald  
 **Clone of the Silver Surfer**  
-**Clone of the Silver Surfer** refers to the "card title" Silver Surfer. This means the name at the very top of the card must be Silver Surfer. **AKA
+**Clone of the Silver Surfer** refers to the "card title" Silver Surfer. This means the name at the very top of the card must be Silver Surfer. **AKA** s don't count.
 
 # Arnim Zola (MC)
 Set: Crossover  
@@ -432,6 +432,11 @@ Falconer starts the game with a Falcon Drone from your deck on his side. The Fal
 
 **We're the Game**  
 His Level Up Power, **We’re the Game**, triggers whenever an enemy player reveals one or more cards. Some effects that would grant 1 XP this way are when a player reveals their hand, when a player reveals one or more cards from the top of their deck, or when a player reveals the cards they draw (due to a Falcon Drone).
+
+# Fantastic Four
+Set: The Herald  
+**The Core Four**  
+**The Core Fourr** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/
 
 # Fin Fang Foom
 Set: Monsters Unleashed!  
@@ -1145,7 +1150,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMwNTQyMTIsMTcwMTE0MzQ0MSwtMT
+eyJoaXN0b3J5IjpbLTE3NjU1NjE1NjQsMTcwMTE0MzQ0MSwtMT
 Q3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUx
 OTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LD
 EyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEy
