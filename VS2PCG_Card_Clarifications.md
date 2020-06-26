@@ -871,6 +871,10 @@ Set: S.H.I.E.L.D. vs. Hydra
 Several (Hydra) characters have the new **Soldier** Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
 
 # SP//dr
+Set: Crossover Vol. 2
+Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as * Spider-Man *' s **Spider-People**. It's jsut how they spell in the future!
+
+SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Rege
 
 # Spider-Gwen
 Set: Legacy  
@@ -1017,7 +1021,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDk3NDM4NCw5OTY1MDIxODksMTEyMD
+eyJoaXN0b3J5IjpbLTYzNDk3MjY4Miw5OTY1MDIxODksMTEyMD
 Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
 MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NT
 U2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYz
