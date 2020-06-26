@@ -465,7 +465,11 @@ Set: The Buffy Battles
 # Ghost Spider (MC)
 Set: Webheads  
 **You Can Borrow This for a While**  
-**You Can Borrow This for a While** grants characters with the chosen name the **Dimensional Wristwatch** keyword. You can recruit a character with **Dimensional W 
+**You Can Borrow This for a While** grants characters with the chosen name the **Dimensional Wristwatch** keyword. You can recruit a character with **Dimensional Wristwatch** directly from your deck: Announce you're recruiting them from your deck, search your deck for the character, shuffle your deck, and then recruit them (pay its cost and put it onto your side). 
+
+If a character with the chosen name gets put back into your deck somehow it will regain **Dimensional Wristwatch** while it's in your deck.
+
+**Ticket to the Multiverse** lets Ghost-Spider jump f
 
 # Glory 
 Set: The Buffy Battles  
@@ -1166,7 +1170,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjE4NjQyMiw3NzY1NzM4NzgsMjIzNT
+eyJoaXN0b3J5IjpbLTM3NTczNzQxNCw3NzY1NzM4NzgsMjIzNT
 c3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3
 LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMD
 Y5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5
