@@ -198,7 +198,7 @@ Carnage’s power triggers when he stuns or gets stunned. So it’s possible for
 ## Chameleon (MC)
 Set: Spidey-Foes  
 **Blessing in Disguise**  
-If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Charact
+If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Characters on your side.
 
 ## Chameleon (SC)
 Set: Sinister Syndicate  
@@ -535,6 +535,11 @@ Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give
 Set: The New Defenders  
 **Puny Weapons Can’t Hurt Hulk**  
 Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and even Evil Lethal wounds) won’t KO him. This also includes, but is not limited to, things like Gamora’s Godslayer Blade and MCU Drax’s Finger on Throat Means Death.
+
+# Hydro-Man
+Set: Spidey-Foes  
+**Fluid Tactics**  
+**Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't pla
 
 # Impersonating Powers
 Set: Utopia Battles   
@@ -1233,7 +1238,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDIyMTMyMywtMTYwNTMwMDI1NiwxNT
+eyJoaXN0b3J5IjpbLTM1NDEzMDgzNCwtMTYwNTMwMDI1NiwxNT
 EyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2
 LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMD
 kxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMw
