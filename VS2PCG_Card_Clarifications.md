@@ -16,8 +16,10 @@ Set: MCU Battles
 **Give Me a Real Fight!**  
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
-# Adam Warlock
-Set: Galactic Guardians
+# Adam Warlock (MC)
+Set: Galactic Guardians  
+**Prepare for Rebirth**  
+At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 # Agents
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -1071,11 +1073,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTAxNjQ3MSwxNzg1NTQ5MzkwLDg1Nj
-UxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3
-LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
-EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
-NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLT
-EzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0
-NTNdfQ==
+eyJoaXN0b3J5IjpbNzAyNTc4MDY5LDE3ODU1NDkzOTAsODU2NT
+E5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2Mjcs
+MTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMT
+I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
+LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMT
+M0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1
+M119
 -->
