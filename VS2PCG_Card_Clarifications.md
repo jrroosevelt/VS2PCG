@@ -717,7 +717,10 @@ Set: Crossover
 
 # Might Makes Right
 Set: Black Order  
+In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nebula (who has a keyword power which requires spending a (Might/"Green)), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations.
 
+* They are not super powers.  
+* Your main characters ust be face up 
 
 # Mimic (MC)
 Set: H.A.M.M.E.R.  
@@ -1322,11 +1325,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0NTE2NzAsMjAzOTYxMjc1MiwzMj
-YxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYx
-Nyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
-QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
-OTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMj
-A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
-NzFdfQ==
+eyJoaXN0b3J5IjpbLTUwOTE0Mzc0MCwyMDM5NjEyNzUyLDMyNj
+E0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3
+LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExND
+M0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5
+MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMD
+Y1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3
+MV19
 -->
