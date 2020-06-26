@@ -1004,6 +1004,14 @@ Miles Morales doesn't technically have the **Spider-Verse** keyword, but he like
 
 These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
 
+# \*\* Spider-Man \*\* 
+## \*\* Spider-Man \*\* (MC)
+Set: Webheads  
+**Citizen of the Multiverse**  
+Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
+
+These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
+
 # Spider-Man Noir
 Set: Crossover Vol. 2  
 **Black and White**  
@@ -1033,7 +1041,7 @@ Set: The MCU Battles
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
-# * Star Lord *
+# \* Star Lord \*
 Set: Galactic Guardians  
 Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed. So she has *s around her name, meaning she shares the "mantle" with Star-Lord, himself. The sharing of the mantle means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of the uniqueness rules and they can't power each other up.
 
@@ -1150,11 +1158,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMT
-QzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkz
-OTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMj
-A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
-NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xOD
-U1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2
-MzQxOF19
+eyJoaXN0b3J5IjpbMjEyMTQ3NDg5LDIyMzU3NzMyNiw3NzUzNT
+Y1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1
+NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5Nj
+UwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAw
+OTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1OD
+Q2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUx
+NzhdfQ==
 -->
