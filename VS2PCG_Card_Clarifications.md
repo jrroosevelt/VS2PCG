@@ -968,7 +968,10 @@ Set: Spidey-Foes
 **Family is a Source of Weakness** lets your (Sinister Syndicate) Main Character take a **Hostage**. If you have any Secret Hideouts in your deck, you must bring a Hostage pile, which includes one ore more *different* (Spider-Friends) Supporting Characters with the **Friends and Family** keyword.
 
 When you play Secret Hideout, one of your Main Characters takes a **Hostage**. Choose a character from your Hostage pile and put it beneath the Secret Hideout as a **Hostage**. Your Main Character gets the Keyword Power granted by that Hostage *while that Main Character is in your front row*.
-F
+
+For example, if you take Mary Jane hostage, your Main Character will gain **Pounce** while it's in  your front row. (It doesn't have to be protecting anyone.)
+
+When that Main character gets stunned or leaves play, turn the Secret Hideout face down and set the **Hostage** aside. (It doesn't go back to your Hostage pile.) Similarly, if an effect turns the Secret Hideout face down, set the **Hostage** aside. Once the **Hostage** card is no longer benea
 
 # Sentry
 Set: The Utopia Battles  
@@ -1258,7 +1261,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk3ODkwNzgsMzI2MTQ0ODYsLTE2MD
+eyJoaXN0b3J5IjpbLTE4MTEzNDcyNzksMzI2MTQ0ODYsLTE2MD
 UzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4
 LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3ND
 I5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0
