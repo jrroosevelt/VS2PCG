@@ -278,11 +278,6 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 # Darkhold
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-# Dawn
-Set: The Buffy Battles
-Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
-
-
 # Dark Phoenix (SC)
 Set: Crossover  \
 **Deconstruct the Universe**  
@@ -301,7 +296,9 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 
 * **Super Powers:** Remove all Super Powers from the game. Remove the term “Super Power” from all card text. For the rest of the game, ignore any effects that would cause Super Powers to enter the game in any way.  
 
-
+# Dawn
+Set: The Buffy Battles
+Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
 
 # Deadpool (MC)
 Set: Deadpool & Friends
@@ -349,8 +346,6 @@ Since Death doesn't turn face down, she can be stunned multiple times in a singl
 Set: The Predator Battles  
 While this card is face down in your Resource Row, you can play it as if it was in your hand. If you do, put it into your KO pile as normal, then replace it with the top card of your deck, face down. If you have no cards in your deck, you can still play it, you just won’t be able to replace it.
 
-
-
 # Devil Dinosaur
 ## Devil Dinosaur Team Affiliations
 Set: Monsters Unleashed!  
@@ -370,6 +365,10 @@ When Devil-Slayer and the defender strike each other:
 * A hidden character can get stunned as normal. (Wound it and change it from ready to exhausted.) 
 * If Devil-Slayer’s strike would stun an already-stunned character, just wound it instead.
 
+# Doctor Doom
+Set: The Fantastic Battles  
+**Time **  
+
 # Doctor Faustus
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hypnotic Suggestion**  
@@ -379,6 +378,16 @@ Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Chara
 Set: Resistance  
 **Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
+
+# Domino
+Set: The Utopia Battles   
+**Probability Manipulation**  
+**Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
+
+# Dormammu
+Set: MCU Villains  
+**You Will Spend Eternity Dying**  
+Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 # Dr. Curt Connors
 Set: Webheads
@@ -1423,7 +1432,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDYwMDUxMSwxMDQ0ODIwNDMyLC0xMj
+eyJoaXN0b3J5IjpbMTUyMTA1Njg2MSwxMDQ0ODIwNDMyLC0xMj
 k1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAz
 MTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Mi
 wzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMz
