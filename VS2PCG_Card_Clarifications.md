@@ -199,6 +199,9 @@ Set: Brotherhood of Mutants
 **Pheromone Control**  
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
+# Daredevil
+S
+
 # Darkhold
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
@@ -470,6 +473,10 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 Set: S.H.I.E.L.D. vs Hydra    
 This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
 Marvel character cards.)
+
+# Mary Walker
+Set: The Defenders  
+Each version of Mary Walker has a different text box and ATK and DEF, but they all count as Mary Walker and can be used to Power-Up each other. Each Mary has the “One of a Kind” keyword which means you can only have one of that Mary in your deck.
 
 # Masacre
 Set: Deadpool & Friends  
@@ -860,11 +867,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNj
-Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
-LC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMT
-k3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1
-ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LD
-ExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1NjgzMDc2MiwxMjYw
-MjkyODUxXX0=
+eyJoaXN0b3J5IjpbLTEyMjY1MDIwMDgsMTI2NjczMDc5OCwtMT
+IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
+MjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLD
+E4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3
+MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NC
+wxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMzNjkyNSwtMTA1
+NjgzMDc2Ml19
 -->
