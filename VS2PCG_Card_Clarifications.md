@@ -200,6 +200,9 @@ Set: New Mutants
 **Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
+# \* Thor \*
+Set: Cosmic Avengers  
+
 # Carnage
 Set: The Defenders  
 **Maximum Carnage**  
@@ -1313,8 +1316,11 @@ Thor’s **Journey of Self Discovery** Level Up power requires him to make three
 Set: Cosmic Avengers  
 Jane Foster becomes Thor when the original Thor shirks his responsibility. She has \*s around her name, meaning she shares the "mantle" with Thor himself. This means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of uniqueness rules and they can't power each other up. When Thor is ready to start being "the" Thor again, Jane gracefully demurs. 
 
-**There Must Always Be a Thor**
-To represent this, her **There Must Always Be a Thor** power can only search for a card named "Thor" (with no /*
+**There Must Always Be a Thor**  
+To represent this, her **There Must Always Be a Thor** power can only search for a card named "Thor" (with no \*s ) or with **AKA Thor** (like Odinson). It can't get a copy of herself. 
+
+**A God Who Knows How Precious Life Is**  
+Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
 # Titan
 Set: Black Order
@@ -1395,11 +1401,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTM0NjI2NywtMTI5NTczNjY2OSwtNT
-g2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAy
-MzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLT
-E2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTcz
-ODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMT
-Q3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUx
-OTU0MF19
+eyJoaXN0b3J5IjpbODI2NjU5Mzg0LC0xMjk1NzM2NjY5LC01OD
+Y4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIz
+ODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMT
+YwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4
+NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xND
+c0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5
+NTQwXX0=
 -->
