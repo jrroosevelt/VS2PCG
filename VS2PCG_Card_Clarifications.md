@@ -579,7 +579,7 @@ Masacre es el Deadpool de México, por eso el texto de su juego está escrito en
 
 # Mastermind
 Set: Crossover vol. 2  
-
+When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you mach choose to play a random card from your Tactics pile. If you do, follow th
 
 
 # Maximus
@@ -1046,11 +1046,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NT
-AyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5
-OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4ND
-Y5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3
-OCwtMTk3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNj
-Q5MDc1ODMyLDQ4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0
-MTA2XX0=
+eyJoaXN0b3J5IjpbODk1MDk1Mzk3LDg1NjUxOTU0MCwyMDA2OT
+IzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgs
+LTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMT
+QyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5
+MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsND
+AyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLTE5NzY4NDM5
+ODRdfQ==
 -->
