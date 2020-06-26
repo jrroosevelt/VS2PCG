@@ -963,7 +963,9 @@ Pyro’s Fire Manipulation power lets him create a supporting character creature
 Set: Black Order  
 You can use this Gem to turn cards in play face up. If you choose a stunned character this counts as recovering it. If you choose a hidden character, it counts as un-hiding it. If you choose a face-down location, it will turn face up. If you choose any other type of face-down resource (including an Infinity Gem), it will remain face down. (It should be revealed to each player to prove that it's not a location). 
 
-You can also use the Gem to turn cards in play face down. If you do this to a ready character, it counts as hiding it. If you do it to an exhausted character, it counts as dazing it (i.e.   
+You can also use the Gem to turn cards in play face down. If you do this to a ready character, it counts as hiding it. If you do it to an exhausted character, it counts as dazing it (i.e. stun it but it doesn't gain a wound). 
+
+If you do it to an equipment, that equipment will stay equipped but its powers are temporarily turned off. It will turn face up again when the characters on that side would recover. If you do it to a location or face-up Infinity Gem, it will turn face down.  
 
 # Rhino
 ## Rhino (Sinister Syndicate)
@@ -1366,11 +1368,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMjk3NTUwLC0xNjQzNjI2NzgxLDIwMz
-k2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0
-NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNT
-Y1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1
-NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5Nj
-UwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAw
-OTldfQ==
+eyJoaXN0b3J5IjpbLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMj
+AzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEw
+ODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NT
+M1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgz
+MzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOT
+k2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0
+MDA5OV19
 -->
