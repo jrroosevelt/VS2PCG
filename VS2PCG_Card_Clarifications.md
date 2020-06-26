@@ -351,6 +351,8 @@ For every Dr. Curt Connors in your deck, you must also bring that many copies of
 
 Since this is a "transformation", the Lizard will keep any counters and effects that Dr. Connors had (including a wound counter since he was just stunned).
 
+You can include up to the usual four copies of Lizard in your deck as well as bring up to four copies for your Lizard pile (one for each copy of Dr. Cur Connors in your deck). If you don't have any Lizards in your Lizard pile, **The Monster Within** won't do anything.
+
 # Edwin
 Set: The Predator Battles  
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
@@ -1209,11 +1211,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY1Nzg2MjksLTE2MDUzMDAyNTYsMT
-UxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMy
-Niw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMj
-A5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIz
-MDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLT
-EyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQy
-MzI4XX0=
+eyJoaXN0b3J5IjpbLTUzMjY3Njg5MCwtMTYwNTMwMDI1NiwxNT
+EyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2
+LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMD
+kxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMw
+MzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMT
+IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
+MjhdfQ==
 -->
