@@ -274,6 +274,10 @@ Here are some quick tips:
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
 
+# Death Trap 
+Set: The Predator Battles  
+While this card is face down in your Resource Row, you can play it as if it was in your hand. If you do, put it into your KO pile as normal, then replace it with the top card of your deck, face down. If you have no cards in your deck, you can still play it, you just won’t be able to replace it.
+
 # Devil Slayer
 Set: The New Defenders  
 **Shadow Cloak**  
@@ -295,6 +299,9 @@ Set: Resistance
 **Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
 
+# Edwin
+Set: The Predator Battles  
+Each copy of Edwin is Good until he uses “I Like it Here” (even if a previous one has become Evil). Each copy of Edwin can only use “I Like It Here” if that copy of the card has used “I Wouldn’t Do That.”
 
 # Ego
 Set: MCU Villains 
@@ -896,11 +903,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTcxNjkwOSwxMTIwNjU4NjI3LDEyNj
-Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
-MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
-IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
-NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
-E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
-MzY5MjVdfQ==
+eyJoaXN0b3J5IjpbLTE5MzQ4NTcwMTQsMTEyMDY1ODYyNywxMj
+Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
+MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
+0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
+MzM2OTI1XX0=
 -->
