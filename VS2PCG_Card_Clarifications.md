@@ -1224,7 +1224,11 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 
 # Thanos (MC)
 Set: Black Order  
-**Resu**  
+**Resurrected by Death Herself**  
+At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
+
+**Schemes and Dreams**  
+**Schemes and Dreams**  prevents you from drawing cards during your Draw Phase, including your normal draws plus effects li
 
 # Thor (MC)
 Set: The MCU Battles  
@@ -1306,11 +1310,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc5NTE4MDMsMzI2MTQ0ODYsLTE2MD
-UzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4
-LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3ND
-I5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0
-MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNj
-Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
-Ml19
+eyJoaXN0b3J5IjpbMjEwNTMzMDYxNSwzMjYxNDQ4NiwtMTYwNT
+MwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4Nzgs
+MjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mj
+k1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQw
+LDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2Nj
+czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
+XX0=
 -->
