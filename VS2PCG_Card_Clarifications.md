@@ -55,7 +55,7 @@ Set: The Utopia Battles
 Set: Resistance  
 When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
 
-# Angel/Angelus (MC) 
+# [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
 Set: The Buffy Battles  
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
 
@@ -1629,11 +1629,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTExMDE2OCwxNDY4MTEwMjM5LC0xNj
-QwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4
-ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMj
-YsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2
-NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNTMwMD
-I1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIz
-NTc3MzI2XX0=
+eyJoaXN0b3J5IjpbODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2ND
+A4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4
+OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNi
+w1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwtMTY0
+MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1MzAwMj
+U2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1
+NzczMjZdfQ==
 -->
