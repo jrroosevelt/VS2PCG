@@ -809,7 +809,8 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 
 ## Nebula (SC - Illustrated)
 Set: Black Order  
-**Thanos's Greatest Creation**  
+**A New Order Exists Within the Universe**  
+**A New Order Exists Within the Universe** checks to see if an enemy character shares at least one team affiliation with a main character on its side. If the main c
 
 ## Nebula (SC - Photo)
 Set: The MCU Battles  
@@ -1299,7 +1300,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDAxODA3MywzMjYxNDQ4NiwtMTYwNT
+eyJoaXN0b3J5IjpbLTUyNzE5MDE4NiwzMjYxNDQ4NiwtMTYwNT
 MwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4Nzgs
 MjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mj
 k1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQw
