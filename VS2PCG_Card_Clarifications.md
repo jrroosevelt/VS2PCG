@@ -1,4 +1,5 @@
 
+  
 # Rule insert card and key ability clarifications
 
 The following clarifications are included in the rule inserts that come with the various sets. 
@@ -11,51 +12,40 @@ For additional information, see also:
 
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
-## [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
+# Abomination
 Set: MCU Battles  
 **Give Me a Real Fight!**  
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
-# [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
+# Adam Warlock (MC)
 Set: Galactic Guardians  
 **Prepare for Rebirth**  
-At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become [Level 2](http://vs.tcgbrowser.com/images/cards/big/GAL-002.jpg) while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
-
-# [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
-Set: The Fantastic Battles  
-**Ancient Sorceress**  
-If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
+At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 # Agents
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
 
-# [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
+# Ajax
 Set: Deadpool & Friends  
 **Pain Tolerance**  
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
-# [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
+# Alcatraz
 Set: H.A.M.M.E.R.  
-**It's a Prison****It's a Prison**  
-Set: H.A.M.M.E.R.  
+**It's a Prison**  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
-# [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
-Set: The Fantastic Battles  
-**Neo-Realistic Sculptor**  
-Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF becomeAncient Sorceress**   10/10.
-
-# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
+Armor 
 Set: The Utopia Battles  
 **Psionic Exoskeleton**  
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
 
-# [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
+# Angel (MC)
 Set: Resistance  
-When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
+When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to become him normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
 
-# [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
+# Angel/Angelus (MC) 
 Set: The Buffy Battles  
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
 
@@ -81,7 +71,7 @@ Set: The Herald
 **Clone of the Silver Surfer**  
 **Clone of the Silver Surfer** refers to the "card title" Silver Surfer. This means the name at the very top of the card must be Silver Surfer. **AKA** s don't count.
 
-## Arnim Zola (MC)
+# Arnim Zola (MC)
 Set: Crossover  
 **ESP Box**  
 ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
@@ -89,7 +79,7 @@ ESP Box takes effect once the game starts and lasts the whole game (even while A
 **A New Robot Body**  
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
-## Avalanche
+# Avalanche
 ## Avalanche (Brotherhood)
 Set: Brotherhood of Mutants  
 **Sustained Seismic Waves**  
@@ -107,11 +97,6 @@ Set: The Utopia Battles
 * Alien (Space)
 * Humanity (Earth)
 
-# Awesome Android
-Set: The Fantastic Battles  
-**Mimicry**  
-If there are no other face-up characters in play, Awesome Android's ATK/DEF become 0/0 (and he gets stunned).
-
 # Baron Mordo (MC)
 Set: Legacy  
 **Hypnotize**  
@@ -128,7 +113,7 @@ Set: Legacy
 This power refers to (Energy/Atom) super powers.This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in
 its cost).
 
-## Black Bolt
+# Black Bolt
 Set: Monsters Unleashed!  
 Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
 
@@ -143,7 +128,7 @@ Set: Cosmic Avengers
 **Passing Down the Knowledge**  
 For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
 
-## Black Panther (MC - Photo# Black Panther (MC)
+## Black Panther (MC - Photo)
 Set: MCU Heroes  
 **Vibranium Weave Suit**  
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
@@ -170,7 +155,7 @@ Blob’s Stuck in His Stomach power represents a melee attacker getting temporar
 **Bounced Off His Belly**  
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
-## Book of Vishanti
+# Book of Vishanti
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 # Boomerang
@@ -178,9 +163,7 @@ Set: Spidey-Foes
 **Specialized Boomerangs**  
 Boomerang can "throw" a different Boomerang each turn at one front row and one back row enemy. You can choose a front row character on one side and a back row character on a different side. If there are no enemy front row characters you can just choose an enemy back row character (and vice versa).
 
-)
-
-## Break the Fourth Wall
+# Break the Fourth Wall
 Set: Deadpool & Friends  
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
 
@@ -196,7 +179,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
-## Bruce Banner (and the Hulk) (MC)
+# Bruce Banner (and the Hulk) (MC)
 Set: The MCU Battles  
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
@@ -213,7 +196,7 @@ When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to th
 **Everything’s a Weapon**  
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
-## Cable (MC)
+# Cable (MC)
 Set: New Mutants  
 **Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
@@ -221,7 +204,7 @@ Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the
 # \* Captain Marvel \*
 Set: Cosmic Avengers  
 **Cosmic Awareness**
-His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good exampPlot twists without team affiliations can be played regardless of questions to ask are: 
+His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
 * "Do you have any Plot Twists in your hand?"  
 * "Do you have any Fin Fang Fooms in your hand?"  
 * "Do you have a 7 cost card in your hand?"
@@ -229,13 +212,13 @@ His **Cosmic Awareness** allows him to ask an opponent one concrete question abo
 # Carnage
 Set: The Defenders  
 **Maximum Carnage**  
-Carnage’s power triggers when he stuns or gets stunned. So it’s possible for it to triggerthe team affiliations you have on faceup characters on your side. So Mysterio’s power means you can play any plot twicest in one combat.
+Carnage’s power triggers when he stuns or gets stunned. So it’s possible for it to trigger twice in one combat.
 
 # Chameleon
 ## Chameleon (MC)
 Set: Spidey-Foes  
 **Blessing in Disguise**  
-If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Cyour hand even if you only have, say, characters on your side.
+If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Characters on your side.
 
 ## Chameleon (SC)
 Set: Sinister Syndicate  
@@ -251,21 +234,14 @@ Set: Crossover Vol. 2
 Set: Deadpool & Friends  
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
-## Climb
+# Climb
 Set: Spider-Friends  
-Spider-Man and many ofosmic Cubes
-Set: S.H.I.E.L.D. vs. Hydra  
-Hydra hias friends and foes are great at climbing up buildings. In the game, this lets them get an advantage before the fighting starts: At the start of your Main Phase, you may exhaust a location on your side to put a +1/+1 counter on your character with Climb. A character can only climb one location per turn and the same location can’t be climbed by more than one character. (You exhaust the location to show that it’s been climbed.) So if you have two locations but three climbers, one of them is out of luck. During your Recovery Phase your exhausted locations will ready the same time your characters do.
+Spider-Man and many of his friends and foes are great at climbing up buildings. In the game, this lets them get an advantage before the fighting starts: At the start of your Main Phase, you may exhaust a location on your side to put a +1/+1 counter on your character with Climb. A character can only climb one location per turn and the same location can’t be climbed by more than one character. (You exhaust the location to show that it’s been climbed.) So if you have two locations but three climbers, one of them is out of luck. During your Recovery Phase your exhausted locations will ready the same time your characters do.
 
 # Cloak 
 Set: The Utopia Battles
-**Darkforce Channelour different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
-
-## Daken
-Set: Brotherhood of Mutants  
-**Pheromone Control**  
-Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shringking**  
-**Darkforce Channel** affects all characters, including ones that appear on your side
+**Darkforce Channeling**  
+**Darkforce Channeling** affects all characters, including ones that appear on your side
 
 **Shifting Loyalties**
 See [Shifting Loyalties](#wiki_shifting_loyalties)
@@ -277,25 +253,15 @@ Hydra has four different Cosmic Cubes under their control. However, each one has
 # Cosmo (MC)
 Set: Galactic Guardians  
 **All Bark, No Flight**  
-With **All Bark, No Flight** each power lost gror **Berserker** from triggering in the first place.
-
-## Darkhold
-See [Marvel Required](#wiki_marvel_required)
-
-## Devil Dinosaur
-Set: Monsters Unleashed!  
-Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
+With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
 
 # Cyclops (MC) 
 Set: The Utopia Battles  
 You will draw two cards with **They’ll Follow Him** if you have one Supporting Character that is both (Brotherhood) and (X-Men). Similarly, a multi-affiliation character can satisfy more than one of the requirements of **The Squad I’ve Put Together** and **Trust the Plan**. 
 
-Note: **Trust the Plan** will only put three +1/+1 counters on a character even if you’re using it to satisfy two or more of the requirements. And even if you have several characters of all three required affiliations, Trust the Plan can only ever put three counters on three characters maximumand Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
+Note: **Trust the Plan** will only put three +1/+1 counters on a character even if you’re using it to satisfy two or more of the requirements. And even if you have several characters of all three required affiliations, Trust the Plan can only ever put three counters on three characters maximum.
 
-**Devil Dinosaur and Moon Girl** (MCs)  
-The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
-
-## Dagger
+# Dagger
 Set: The Utopia Battles  
 **Shifting Loyalties**
 See [Shifting Loyalties](#wiki_shifting_loyalties)
@@ -311,12 +277,9 @@ Set: The Defenders
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 # Darkhold
-See [Marvel Required](#wiki_marvel_required_.28equipment.29)ormammu
-Set: MCU Villains  
-**You Will Spend Eternity Dying**  
-Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
+See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-## Dark Phoenix (SC)
+# Dark Phoenix (SC)
 Set: Crossover  \
 **Deconstruct the Universe**  
 Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
@@ -338,7 +301,7 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 Set: The Buffy Battles
 Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
 
-## Deadpool (MC)
+# Deadpool (MC)
 Set: Deadpool & Friends
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
 > 
@@ -371,7 +334,7 @@ Death is **Amortal** which means:
 * She starts with her card that has infinite health. (Her other card has 8 health, also known as sideways infinity.)  
 * She can't be face down. If she would be turned face down, switch her with her other card instead and leave it face up. For example when she gets stunned, instead of turning her face down, switch her with her other card which will remain face up. She still suffers other effects from the stun such as losing the +1/+1 and -1/-1 counters, gaining a wound, and becoming exhausted.  
 * If she would be hidden, instead switch her with her other card which will remain face up and place her in the ready position.  
-* **Amortal** can't be turned off.
+* Amortal can't be turned off.
  
 Since Death doesn't turn face down, she can be stunned multiple times in a single turn. However, if she takes fatal wounds she's not really defeated. She's just temporarily lost interest in this mortal battle. (The player who was using her is defeated, though.) 
 
@@ -529,7 +492,7 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 # Fantastic Four
 Set: The Herald  
 **The Core Four**  
-**The Core Four** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
+**The Core Fourr** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
 
 # Fin Fang Foom
 Set: Monsters Unleashed!  
@@ -538,13 +501,6 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 # The First Evil (MC) 
 Set: The Buffy Battles  
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
-
-# Franklin Richards
-Set: The FantasticMCU Battles  
-**Pocket Universe**  
-Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
-
-* Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
 
 # Gambit
 ## Gambit (MC)
@@ -599,54 +555,17 @@ Set: The Buffy Battles
 **Drain Sanity**  
 **Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
 
-
-
-## Ego
-Set: MCU Villains 
-**Soon We Will Be All There Is**    
-Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
-
-## Elektra (MC)
-Set: Legacy  
-**Hand Experience**  
-Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
-
-## Emma Frost (SC)
-Set: H.A.M.M.E.R.  
-**Fluid Forms and Fidelity**  
-When Emma transforms via Fluid Forms and Fidelity, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of
-her counters, and any effects on her.
-
-## Evil Deadpool
-Set: Deadpool & Friends   
-Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect).
-
-**Merc With an Evil Mouth**  
-Evil Deadpool loves being Evil. That’s why he can grant Evil characters on your side the new keyword, Evil Lethal. Evil Lethal works just like regular Lethal except after you KO the supporting defender you laugh evilly. (If you’re unable to laugh evilly you’ll still resolve the effect as much as possible and KO the defender.)  
-
-**It's Like You, But Eviler!**  
-Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
-
-## Falcon
-Set: The MCU Battles  
-**Air Superiority**  
-Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
-
-## Fin Fang Foom
-Set: Monsters Unleashed!  
-Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
-
-## Goblin Queen
+# Goblin Queen
 Set: A-Force  
 **Token Characters**  
 Goblin Queen has the power to make token characters. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, remove it from the game.
 
-## Gorgon
+# Gorgon
 Set: S.H.I.E.L.D. vs. Hydra  
 **The Spear in the East**  
 Gorgon’s power removes the stat benefit from +1/+1 counters on enemy characters. They still count as having the counters though. For example, if an enemy character with two +1/+1 counters gains a -1/-1 counter, you’ll still remove one of each counter type.
 
-## Green Goblin (MC)
+# Green Goblin (MC)
 Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
 
@@ -744,26 +663,12 @@ Set: The Herald
 **Remove Cosmic Energy**  
 **Remove Cosmic Energy** has no duration. Once you've named a super power (including one that is not currently in play if you like) enemy Supporting Characters can't use that power for the rest of the game.
 
-# Headsman
-Set: H.A.M.M.E.R.  
-**Executioner**  
-**Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
-
-## Hulk (MC)
-Set: The MCU Battles  
-See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29.)
-
-## Hulk (SC)
-Set: The MCU Battles  
-**Hulk Like Raging Fire**  
-Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
-
-## Ironheart
+# Ironheart
 Set: Crossover  
 **We’re All Weirdos Here**  
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
-## Iron Monger (MC)
+# Iron Monger (MC)
 Set: The MCU Battles  
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
 
@@ -777,7 +682,7 @@ Set: Galactic Guardians
 **Follower**  
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
 
-## Jessica Jones
+# Jessica Jones
 Set: Legacy  
 **Psionic Protection**  
 This power refers to (Intellect/Light bulb) super powers.
@@ -786,12 +691,12 @@ symbol in its cost (even if it also has other symbols in
 its cost).
 
 
-## Juggernaut (MC)
+# Juggernaut (MC)
 Set: Brotherhood of Mutants  
 **It’s Gonna Take Something More to Stop Me!**  
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
-## Kaecilius
+# Kaecilius
 Set: MCU Villains  
  **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
@@ -829,16 +734,12 @@ Set: Galactic Guardians
 **Balances the Multiverse**  
 When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards are cards that have photographic artwork on them, from TV shows and movies. The other universe is the Illustrated Universe, whose cards are cards with drawn, or illustrated artwork.
 
-# Leviathon Hydra
-Set: Monsters Unleashed!  
-See [Fin Fang Foom](#wiki_fin_fang_foom).
-
-## Loki (SC)
+# Loki (SC)
 The MCU Battles  
 **I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
-## Magik 
+# Magik 
 Set: New Mutants  
 **Summon Soulsword**  
 Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
@@ -855,13 +756,13 @@ When Mainframe uses **Primary Operating System** it applies only to characters t
 Set: Brotherhood of Mutants  
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
-## Mandarin
+# Mandarin
 Set: The MCU Battles  
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
-## Marvel Required (Equipment)
+# Marvel Required (Equipment)
 Set: S.H.I.E.L.D. vs Hydra    
 This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
 Marvel character cards.)
@@ -904,17 +805,7 @@ In this Arc, we are playing around with how players can use locations besides su
 Set: Galactic Guardians  
 See [Nova Corps](#wiki_nova_corps)
 
-# Masacre
-Set: Deadpool & Friends  
-Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
-
-
-## Maximus
-Set: Crossover  
-**Usurp the Throne**  
-**Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
-
-## Mimic (MC)
+# Mimic (MC)
 Set: H.A.M.M.E.R.  
 **Absorption History**  
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
@@ -925,17 +816,17 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
-## Mirage
+# Mirage
 Set: New Mutants   
 **Create Illusion**  
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
 
-## Mister Sinister
+# Mister Sinister
 Set: Legacy  
 **Genetic Manipulation**  
 This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play./
 
-## Mister X
+# Mister X
 Set: H.A.M.M.E.R.  
 **I Can Predict Your Every Move**  
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
@@ -952,7 +843,7 @@ If he is beneath a Location and it gets turned face down (including by being use
 Set: Monsters Unleashed!  
 See [Devil Dinosaur](#wiki_devil_dinosaur).
 
-## Morgan Le Fay
+# Morgan Le Fay
 Set: A-Force  
 **Growing Magic**  
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
@@ -970,7 +861,7 @@ When Mr. Black and the defender strike each other:
 # Mysterio
 ## Mysterio (MC)
 Set: Sinister Syndicate  
-** Hallucinogenic Gas **  
+**Hallucinogenic Gas**  
 Mysterio can use his special effects expertise to make any plot twist seem like a (Sinister Syndicate) plot twist. Here are the two in this set:
 
 * Putting the Team Together  
@@ -983,7 +874,7 @@ Set: Sinister Syndicate
 **Holographic Projector**  
 Plot twists without team affiliations can be played  regardless of the team affiliations you have on face-up characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, (Sinister Syndicate) characters on your side.
 
-## Mystique (MC)
+# Mystique (MC)
 Set: Legacy  
 **Identity Theft**  
 Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
@@ -1020,16 +911,16 @@ Set: Black Order
 
 **Note:** This is not a super power even though it requires Nebula to pay a (Might/"Green").
 
-## Nebula (SC - Photo)# Nebula
+## Nebula (SC - Photo)
 Set: The MCU Battles  
 **Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
-## New Mutants
+# New Mutants
 Set: New Mutants  
 The New Mutants are a part of the (X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
 
-## Nick Fury (MC)
+# Nick Fury (MC)
 Set: S.H.I.E.L.D. vs. Hydra  
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
@@ -1063,15 +954,12 @@ These are four different One of a Kind Equipment that have the same name. Unlike
 
 See also: [Machine](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_machine)
 
-# The Nullifier
-See [Marvel Required](#wiki_marvel_required)
-
-## Omega Red
+# Omega Red
 Set: Crossover  
 **Carbonadium Tentacles**  
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
-## Onslaught
+# Onslaught
 Set: Legacy  
 **Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
@@ -1082,7 +970,7 @@ Set: The Buffy Battles
 **Lose Control** lets an enemy player force Oz to strike another Supporting Character. If Oz’s ATK is greater than or equal to that character’s DEF, Oz stuns that character.
 
 # Phil Coulson
-## Phil Coulson (Illustrated)# Phil Coulson
+## Phil Coulson (Illustrated)
 Set: Crossover  
 **Special Agent**  
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
@@ -1125,7 +1013,7 @@ Professor X’s **Graduation** power lets you turn an (X-Men) supporting charact
 
 This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
 
-## Pyro
+# Pyro
 Set: Brotherhood of Mutants  
 **Fire Manipulation**  
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
@@ -1153,17 +1041,12 @@ Set:  The Herald
 **Receptionist**  
 **Receptionist** prevents Roberta from leaving the front row. This means she can't be moved to the back row during your Formation Step, and she ignores any card effects that would move her out of the front row. However, an effect could move her from one player's front row to another player's front row.
 
-# Rhino (SC)
-Set: Crossover  
-**Headlong Charge**  
-Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
-
-## Rocket
+# Rocket
 Set: The MCU Battles  
 **I’m Gonna Need a Few Things**  
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
 
-## Rogue
+# Rogue
 ## Rogue (MC)
 Set: Resistance
 Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
@@ -1244,25 +1127,12 @@ Set: The Utopia Battles
 # Serpent Crown
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-# Sauron
-Set: Brotherhood of Mutants  
-**Terrifying Delusions**  
-Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
-
-## Scourge
-Set: H.A.M.M.E.R.  
-**Betsy’s Incendiary Missiles**  
-**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning characterleaves play.
-
-## Serpent Crown
-See [Marvel Required](#wiki_marvel_required)
-
-## Shadow King
+# Shadow King
 Set: Brotherhood of Mutants  
 **Anchor Host**  
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
 
-## She-Hulk (MC)
+# She-Hulk (MC)
 Set: A-Force  
 **Rules Lawyer**  
 She-Hulk’s main character introduces a new kind of super power called a **Reaction**. It reads: 
@@ -1299,11 +1169,7 @@ Set: The Utopia Battles
 **Biosentinel**  
 **Biosentinel** is a keyword power that has no built-in effect. Instead it is referenced by Trask’s other powers.
 
-# Sif
-Set: Crossover  
-You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
-
-## Sinister Six 
+# Sinister Six 
 Set: Sinister Syndicate  
 If you’re playing with the Sinister Six, you actually have six main characters instead of one. Here’s how it works: When you build a Sinister Six deck, choose six main characters with **Sinister Six** to make up your Sinister Six Pile.
 
@@ -1315,7 +1181,7 @@ The **Sinister Six** keyword can’t be turned off.
 
 Keep in mind when choosing your next Sinister Six main character, you can choose one with the same name as a supporting character on your side – but if you do, that supporting character will be KO’d.
 
-## Soldiers
+# Soldiers
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (Hydra) characters have the new **Soldier** Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
 
@@ -1393,17 +1259,12 @@ Second, during your Build Phase, if a character with **Spider-Verse** is in your
 
 Note: Spider-UK can be powered up by any character with "Spider" in their name, which includes Main Characters that are in your hand.
 
-# Spider-Gwen
-Set: Legacy  
-**Dimensional Wristwatch**  
-Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
-
-## Squirrel Girl
+# Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
 Squirrel Girl’s power lets her put token characters into play. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, it ceases to exist. The token card can be reused later if Squirrel Girl appears again.
 
-## Stand Together
+# Stand Together
 Set: Crossover  
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
@@ -1531,29 +1392,7 @@ Set: Resistance
 **Astral Form Overload**  
 When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**. **Stealth** means she can melee attack back row characters, even while they’re protected. **Fearless** means that she strikes Main Characters with double her ATK.
 
-# Sunspot
-Set: New Mutants   
-**Solar Absorption**  
-Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
-
-## Supreme Leader
-Set: S.H.I.E.L.D. vs. Hydra  
-**Hydra High Council**   
-Supreme Leader has a Super Power which prevents you from losing the game even after he’s KO’d. Just continue to play without a main character.
-
-## Thor (MC)
-Set: The MCU Battles  
-**Journey of Self Discovery**  
-Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
-
-## Titania
-Set: A-Force  
-**Durable**  
-Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recoversand doesn’t get wounded. 
-
-However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though she would recover immediately, getting stunned would still remove her from combat.
-
-## Ultron Facility (MC)
+# Ultron Facility (MC)
 Set: The MCU Battles  
 Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
 
@@ -1564,7 +1403,7 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 **Note:** The Level 3 Ultron’s **Your Extinction** power KOs all enemy cards (in a very dramatic way).
 
 
-## Venom (MC)
+# Venom (MC)
 Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
 
@@ -1625,15 +1464,22 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 
 # Xander (SC) 
 Set: The Buffy Battles
-When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover# X-23 (MC)
-Set: New Mutants  
-X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
+When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2ND
-A4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4
-OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNi
-w1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwtMTY0
-MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1MzAwMj
-U2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1
-NzczMjZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMT
+I5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAw
+MzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NT
+IsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzcz
+MzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMT
+cwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1
+NTQ5MzkwXX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODYyOTQzMjgyLDg1NDI2MzAwOSwxNDY4MT
+EwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5
+NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC
+01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAw
+MDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4Ni
+wtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1
+NzM4NzhdfQ==
 -->
