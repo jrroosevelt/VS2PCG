@@ -836,7 +836,7 @@ Set: The Fantastic Battles
 **Tunnel**  
 Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Locations, he must tunnel under those first. If there are none, he can tunnel under a face-down resource. When he **Tunnels**, remove him from the game and place him beneath the card he is tunneling under. At the start of your next turn, put him back onto your side and if the card he was under was a Location, turn it face down. If it was already face down, KO it.
 
-If he is beneath a Location and it gets turned face down (
+If he is beneath a Location and it gets turned face down (including by being used for a super power) or leaves play, put him into your back row. If he is beneath a face-down resource and it leaves play, put him into your back row.
 
 # Moon Girl
 Set: Monsters Unleashed!  
@@ -1314,6 +1314,11 @@ Set: Webheads
 **A Superior Hero**  
 **A Superior Hero** represents Doc Ock's realization that Peter Parker's selflessness makes Peter the superior hero. When another character on your side is attacked, you may transform Superior Spider-Man into the Marvel Battles Level 2 Spider-Man with **Friendly Neighbor**, remove the defender from combat, and replace it with your new Spider-Man Main Character. Note: Spider-Man will keep all counters, Equipment, effects, and orientation (ready/exhausted) that Superior Spider-Man had.
 
+# Super Skrull (MC)
+Set: The Fantastic Battles  
+**First Faker**  
+Super-Skrull's **First Faker** Level Up power looks at every player's side   
+
 # Supreme Leader
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hydra High Council**   
@@ -1440,7 +1445,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTk4OTkyNiwxMDQ0ODIwNDMyLC0xMj
+eyJoaXN0b3J5IjpbLTYxMjIyOTU5NCwxMDQ0ODIwNDMyLC0xMj
 k1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAz
 MTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Mi
 wzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMz
