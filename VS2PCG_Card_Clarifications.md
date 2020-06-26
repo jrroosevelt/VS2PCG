@@ -56,7 +56,6 @@ Set: Galactic Guardians
 **The Tenth Realm**  
 When Angela opens a **Bridge to Heven**, you must put each revealed character onto your side. This may cause some characters to be KO'd due to the uniqueness rules.
 
-
 # Anya 
 Set: The Buffy Battles
 Her **Newly Human and Strangely Literal** power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
@@ -577,6 +576,14 @@ Set: New Mutants
 **Summon Soulsword**  
 Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
 
+# Mainframe
+Set: Galactic Guardians  
+**Stationary**  
+**Stationary** prevents Mainframe from moving even if an enemy player uses a push or pull effect on him or rearranges your formation.
+
+**Primary Operating System**  
+When Mainframe uses **Primary Operating System** it appl
+
 # Magneto (MC)
 Set: Brotherhood of Mutants  
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
@@ -1095,11 +1102,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODYxMjAzNiwtMjA5MTQ4MzM1NiwxNz
-g1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4
-OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMj
-Y0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAw
-MywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLT
-E5NzcyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3
-NTgzMl19
+eyJoaXN0b3J5IjpbLTEyNjQyNTE4NjEsLTIwOTE0ODMzNTYsMT
+c4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIx
+ODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LD
+I2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0Njkw
+MDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC
+0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkw
+NzU4MzJdfQ==
 -->
