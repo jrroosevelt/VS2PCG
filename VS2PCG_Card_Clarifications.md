@@ -548,7 +548,9 @@ Goblin’s Bag of Tricks allows you to discard Locations to make him more powerf
 # Hawkeye (MC)
 Set: Cosmic Avengers  
 **Custom Quiver**  
-Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a 
+Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
+
+Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows
 
 # Headsman
 Set: H.A.M.M.E.R.  
@@ -1379,11 +1381,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4OTI4NDc2LC0xMjY2MDAzMTAsLTEwNz
-AwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4
-NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3Nz
-Y1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQx
-LC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsOD
-U2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2
-MjddfQ==
+eyJoaXN0b3J5IjpbMTIwODM1MTc3MywtMTI2NjAwMzEwLC0xMD
+cwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0
+ODYsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNz
+c2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0
+MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLD
+g1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4
+NjI3XX0=
 -->
