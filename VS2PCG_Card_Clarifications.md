@@ -1042,7 +1042,11 @@ Set: Webheads
 **Spider-Verse**  
 A British Spider-Man from another Universe, Spider-UK is a new Main Character with the **Spider-Verse** keyword. **Spider-Verse** means two things:
 
-First, if you choose a **Spider-Verse** character to be your starting Main Character you can include up to four other **Spider-Verse** Main Characters in your deck when you build it. (Four other Spider-Verse Main Characters premiered in the 2019 Vs. System 2PCG: Crossover Vol 2 Issue
+First, if you choose a **Spider-Verse** character to be your starting Main Character you can include up to four other **Spider-Verse** Main Characters in your deck when you build it. (Four other Spider-Verse Main Characters premiered in the 2019 Vs. System 2PCG: Crossover Vol 2 Issue.)
+
+Second, during your Build Phase, if a character with **Spider-Verse** is in your hand, you may put it onto your side. 
+
+Note: Spider-UK can be powered up by any character with "Spider" in their name, which includes Main Characters that are in your hand.
 
 
 
@@ -1092,6 +1096,11 @@ Set: Resistance
 Set: New Mutants   
 **Solar Absorption**  
 Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
+
+# Superior Spider-Man (MC)
+Set: Webheads  
+**A Superior Hero**  
+A British Spider-Man from another Universe, Spider-UK is a new Main Character with the **Spider-Verse** keyword. **Spider-Verse** means two things:
 
 # Supreme Leader
 Set: S.H.I.E.L.D. vs. Hydra  
@@ -1187,11 +1196,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTI0MTYzNSwyMzczMzM2MTcsNzc2NT
-czODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwt
-MTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1Nj
-UxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3
-LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMT
-EyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5
-NV19
+eyJoaXN0b3J5IjpbLTQwNjY5OTYwLDIzNzMzMzYxNyw3NzY1Nz
+M4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0x
+NDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NT
+E5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2Mjcs
+MTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMT
+I2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1
+XX0=
 -->
