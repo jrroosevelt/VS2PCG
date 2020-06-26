@@ -442,6 +442,11 @@ Set: MCU Villains
  **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
+# The Kingpin (SC)
+Set: The Defenders  
+**Underworld Boss**  
+The Kingpin Supporting Character has a Super Power where he takes over as your main character. When this happens, your former Main Character becomes a Supporting Character and remains in the game. It can still gain XP and Level Up, but you don’t lose the game if it gets KO’d. Instead, you now lose the game when Kingpin gets KO’d.
+
 # Kraven the Hunter (MC)
 Set: Sinister Syndicate  
 ** Spring the Trap **  
@@ -874,7 +879,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mzc2MTE2MywxMjY2NzMwNzk4LC0xMj
+eyJoaXN0b3J5IjpbMTY0NDQ4MzY0OCwxMjY2NzMwNzk4LC0xMj
 I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
 OCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMT
 gxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjcz
