@@ -528,8 +528,8 @@ Set: H.A.M.M.E.R.
 
 # Hobgoblin
 Set: Spidey-Foes  
-**Specialized Boomerangs**  
-Boomerang can "throw" a different Boomerang each turn at one front row and one back row enemy. You can choose a front row character on one side and a back row character on a different side. If there are no enemy front row characters you can just choose an enemy back row character (and vice versa).
+**Nothing Without the Green Goblin**  
+As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appears" powers on face-up Green Goblin characters on your side (like **Blast**).
 
 # Hulk
 ## Hulk (MC)
@@ -1250,11 +1250,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1Mjc4NDUzLC0xNjA1MzAwMjU2LDE1MT
-I2MTA4NDQsMjM3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYs
-Nzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOT
-E0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAz
-MCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMj
-I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
-OF19
+eyJoaXN0b3J5IjpbMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMj
+YxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3
+NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MT
+Q4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMw
+LDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMj
+U0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4
+XX0=
 -->
