@@ -533,8 +533,8 @@ If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players
 
 # Gilgamesh
 Set: Cosmic Avengers  
-**The Forgotten one**  
-Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required (Energy/"Blue"). But it doesn't have to be in the combat.
+**The Forgotten One**  
+For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you from speaking, he will lose Eternal at the end of the turn.
 
 # Glory 
 Set: The Buffy Battles  
@@ -1416,11 +1416,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNT
-g2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAy
-MzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLT
-E2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTcz
-ODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMT
-Q3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUx
-OTU0MF19
+eyJoaXN0b3J5IjpbMjA2MDU1MzU5MSwxMDQ0ODIwNDMyLC0xMj
+k1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAz
+MTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Mi
+wzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMz
+MzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNz
+AxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1
+NDkzOTBdfQ==
 -->
