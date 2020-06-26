@@ -362,7 +362,12 @@ Set: The MCU Battles
 **Air Superiority**  
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
-# Falcon Dr
+# Falcon Drone
+Set: The Predator Battles  
+**Bond**  
+Some characters have a **Bond** with another character. This allows them to be discarded from your hand to generate a Power Symbol for that other character’s Super Powers. You can do this for that character’s Main or Supporting Character. 
+
+Example: You want to use the Falconer Supporting Character’s **Bait and Switch** Super Power, which costs (Skill/"Red"). You may discard a Falcon Drone from your hand to pay for the Super Power. If a character with Bond is used to generate a Power Symbol for a Super Power with Amplify, the Amplify text will apply
 
 # Fin Fang Foom
 Set: Monsters Unleashed!  
@@ -891,11 +896,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ5NTcwNDMsMTEyMDY1ODYyNywxMj
-Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
-MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
-EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
-MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
-0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
-MzM2OTI1XX0=
+eyJoaXN0b3J5IjpbMjEzNTcxNjkwOSwxMTIwNjU4NjI3LDEyNj
+Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
+MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
+IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
+NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
+E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
+MzY5MjVdfQ==
 -->
