@@ -432,7 +432,7 @@ Set: The Buffy Battles
 # Glory 
 Set: The Buffy Battles  
 **Drain Sanity**  
-Drain Sanity gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
+**Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
 
 # Goblin Queen
 Set: A-Force  
@@ -527,6 +527,10 @@ While in play, Lambert has every Good Team Affiliation. This does a variety of t
 # Leviathon Hydra
 Set: Monsters Unleashed!  
 See [Fin Fang Foom](#wiki_fin_fang_foom).
+
+# Life on the Hellmouth 
+Set: The Buffy Battles  
+This Plot Twist puts two characters on your side in a Relationship. This means they can team attack together (even if they’re not on the same team), and while doing so they can’t be struck back by a defender. Once a character in a Relationship leaves play, the Relationship is over.
 
 # Loki (SC)
 The MCU Battles  
@@ -684,6 +688,11 @@ The phrase “could melee attack” means Omega Red can legally attack that char
 Set: Legacy  
 **Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
+
+# Oz
+Set: The Buffy Battles  
+**Lose Control**   
+**Lose Control** lets an enemy player force Oz to strike another Supporting Character. If Oz’s ATK is greater than or equal to that character’s DEF, Oz stuns that character.
 
 # Phil Coulson
 ## Phil Coulson (Illustrated)
@@ -980,11 +989,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjUzMDA3MCwxMTIwNjU4NjI3LDEyNj
-Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
-MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
-IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
-NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
-E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
-MzY5MjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MjU0NDI1NjQsMTEyMDY1ODYyNywxMj
+Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
+MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
+0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
+MzM2OTI1XX0=
 -->
