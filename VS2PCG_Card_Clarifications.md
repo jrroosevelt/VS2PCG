@@ -202,7 +202,7 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 # Daredevil
 Set: The Defenders  
 **Radar Sense**  
-Daredevil and Rhino have effects that allow an enemy player to spend a or to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 # Darkhold
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
@@ -647,11 +647,13 @@ Set: Brotherhood of Mutants
 **Fire Manipulation**  
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
-# Rhino (SC)
+# Rhino
+## Rhino (Sinister Syndicate)
 Set: Crossover  
 **Headlong Charge**  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
+## Rhino (Underworld)
 Set: The Defenders  
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
@@ -872,7 +874,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTE4NTUxNSwxMjY2NzMwNzk4LC0xMj
+eyJoaXN0b3J5IjpbLTI2Mzc2MTE2MywxMjY2NzMwNzk4LC0xMj
 I1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMy
 OCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMT
 gxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjcz
