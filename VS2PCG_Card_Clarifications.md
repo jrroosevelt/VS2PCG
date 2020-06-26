@@ -579,7 +579,7 @@ Masacre es el Deadpool de México, por eso el texto de su juego está escrito en
 
 # Mastermind
 Set: Crossover vol. 2  
-When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you mach choose to play a random card from your Tactics pile. If you do, follow the instructions under its Tactic. Then put the card into your KO pile. When Mastermind leaves play, you'll leave your Tactics pile where it is. A player can only have one Tactics pile at a time. Later, if Mastermind appears on your side again, and you can (and want to) add more Tactics from your hand or dec, add them to your existing Tactics pile. Note: One of Mastermind's Tactics sets an attacker's ATK to 0 this combat. That character can still gain ATK later in the combat.
+When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you mach choose to play a random card from your Tactics pile. If you do, follow the instructions under its Tactic. Then put the card into your KO pile. When Mastermind leaves play, you'll leave your Tactics pile where it is. A player can only have one Tactics pile at a time. Later, if Mastermind appears on your side again, and you can (and want to) add more Tactics from your hand or deck, add them to your existing Tactics pile. Note: One of Mastermind's Tactics sets an attacker's ATK to 0 this combat. That character can still gain ATK later in the combat.
 
 
 # Maximus
@@ -966,6 +966,10 @@ Set: The Buffy Battles
 **That's Entertainment**   
 **That’s Entertainment** moves each face-up character to their front row and has them perform a Musical Number. There is no official definition of what counts as a Musical Number. We recommend rocking the cards back and forth and having them sing a song. (Although if The Gentlemen are in play, no singing is allowed.)
 
+# Terrigen Mist
+Set: Crossover vol. 2  
+Terrigen Mist puts +1/+1 counters on each character on your side, including ones that are already exhausted.
+
 # Thor (MC)
 Set: The MCU Battles  
 **Journey of Self Discovery**  
@@ -1046,7 +1050,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTM3MzUzOSw4NTY1MTk1NDAsMjAwNj
+eyJoaXN0b3J5IjpbMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNj
 kyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4
 LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MT
 E0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2
