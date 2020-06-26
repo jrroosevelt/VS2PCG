@@ -834,7 +834,9 @@ currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as
 # Mole Man (MC)
 Set: The Fantastic Battles  
 **Tunnel**  
-Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Locations, he must tunnel under those first. If there are none, he can tunnel under a face-down resource. When he **Tunnels**, remov
+Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Locations, he must tunnel under those first. If there are none, he can tunnel under a face-down resource. When he **Tunnels**, remove him from the game and place him beneath the card he is tunneling under. At the start of your next turn, put him back onto your side and if the card he was under was a Location, turn it face down. If it was already face down, KO it.
+
+If he is beneath a Location and it gets turned face down (
 
 # Moon Girl
 Set: Monsters Unleashed!  
@@ -1438,7 +1440,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQwNTE1MiwxMDQ0ODIwNDMyLC0xMj
+eyJoaXN0b3J5IjpbMTgzMTk4OTkyNiwxMDQ0ODIwNDMyLC0xMj
 k1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAz
 MTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Mi
 wzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMz
