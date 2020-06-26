@@ -65,6 +65,11 @@ Set: Resistance
 **Violent**  
 **Violent** means that he strikes Supporting Characters with double his ATK.
 
+# Ardina
+Set: The Herald  
+**Clone of the Silver Surfer**  
+**Clone of the Silver Surfer** refers to the "card title" Silver Surfer. This means the name at the very top of the card must be Silver Surfer. **AKA
+
 # Arnim Zola (MC)
 Set: Crossover  
 **ESP Box**  
@@ -1140,11 +1145,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzMxNjE5OCwxNzAxMTQzNDQxLC0xND
-c0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5
-NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMT
-I2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2
-MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC
-0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0
-OTA3MzM1Ml19
+eyJoaXN0b3J5IjpbLTIwOTMwNTQyMTIsMTcwMTE0MzQ0MSwtMT
+Q3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUx
+OTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LD
+EyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEy
+NjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NS
+wtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEz
+NDkwNzMzNTJdfQ==
 -->
