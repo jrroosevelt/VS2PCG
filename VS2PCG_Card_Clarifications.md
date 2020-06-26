@@ -473,6 +473,10 @@ If a character with the chosen name gets put back into your deck somehow it will
 
 If no one else is playing near you or you don't have permission to move Ghost-Spider, then remove her from the game until the start of your next turn.
 
+When Ghost-Spider enters another game or gets removed from the game set aside all her counters and Equipment. She will reappear in her original game with those counters and Equipment.
+
+If G
+
 # Glory 
 Set: The Buffy Battles  
 **Drain Sanity**  
@@ -1172,11 +1176,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDgyNzc3Miw3NzY1NzM4NzgsMjIzNT
-c3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3
-LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMD
-Y5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5
-OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3Nj
-ExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMjA0NDQ5
-NjkzXX0=
+eyJoaXN0b3J5IjpbLTEwMDM4ODE0ODgsNzc2NTczODc4LDIyMz
+U3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIz
+NywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMD
+A2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3
+OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNz
+YxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0
+OTY5M119
 -->
