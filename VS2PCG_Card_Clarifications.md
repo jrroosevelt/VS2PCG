@@ -557,7 +557,7 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 * **[Lethal](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_lethal)**  
 * **[Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)**  
 * **[Shrink](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_shrink)**  
-* **Freeze** 
+* **[Freeze](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_freeze)** 
 
 # Headsman
 Set: H.A.M.M.E.R.  
@@ -1388,11 +1388,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNz
-AwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4
-NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3Nz
-Y1NzM4NzgsMjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQx
-LC0xNDc0Mjk1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsOD
-U2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5LDExMjA2NTg2
-MjddfQ==
+eyJoaXN0b3J5IjpbLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNj
+YwMDMxMCwtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEy
+NzUyLDMyNjE0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMj
+M3MzMzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2
+LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMT
+c4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIx
+ODldfQ==
 -->
