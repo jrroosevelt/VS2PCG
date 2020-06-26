@@ -436,7 +436,7 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 # Fantastic Four
 Set: The Herald  
 **The Core Four**  
-**The Core Fourr** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/
+**The Core Fourr** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
 
 # Fin Fang Foom
 Set: Monsters Unleashed!  
@@ -1150,11 +1150,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU1NjE1NjQsMTcwMTE0MzQ0MSwtMT
-Q3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUx
-OTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LD
-EyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEy
-NjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NS
-wtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEz
-NDkwNzMzNTJdfQ==
+eyJoaXN0b3J5IjpbNzc1MzU2NTI2LDE3MDExNDM0NDEsLTE0Nz
+QyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1MTk1
+NDAsMjAwNjkyMzAzMCw5OTY1MDIxODksMTEyMDY1ODYyNywxMj
+Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
+MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyXX0=
 -->
