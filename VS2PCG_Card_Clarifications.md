@@ -206,7 +206,7 @@ Set: Cosmic Avengers
 His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
 * "Do you have any Plot Twists in your hand?"  
 * "Do you have any Fin Fang Fooms in your hand?"  
-* "Do you have a 
+* "Do you have a 7 cost card in your hand?"
 
 # Carnage
 Set: The Defenders  
@@ -598,6 +598,10 @@ Set: Spidey-Foes
 **Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't play a Plot Twist that gives him +3 ATK and convert it into +2 ATK and +1 DEF.
 
 Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tactics**.
+
+# Hyperion
+Set: Cosmic Avengers  
+**Fluid Tactics**  
 
 # Impersonating Powers
 Set: Utopia Battles   
@@ -1406,11 +1410,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMzODk2MzksLTEyOTU3MzY2NjksLT
-U4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAw
-MjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC
-0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3NjU3
-Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExNDM0NDEsLT
-E0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5MCw4NTY1
-MTk1NDBdfQ==
+eyJoaXN0b3J5IjpbLTM4NzUwMzkyOCwtMTI5NTczNjY2OSwtNT
+g2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAy
+MzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLT
+E2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTcz
+ODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMT
+Q3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUx
+OTU0MF19
 -->
