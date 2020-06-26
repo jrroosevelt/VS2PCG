@@ -991,18 +991,28 @@ Set: The Utopia Battles
 **Addicted to Mutant Energy** affects a character as it appears, which means it won’t even trigger any of its powers that occur when it appears. It also has no duration, so a character affected by it will remain affected until that character leaves play.
 
 # Willow (SC) 
-Set: The Buffy Battle
-Willow’s Spell Research power puts Plot Twists into a special pile removed from the game called your Spellbook. Your Spellbook can’t have more than one copy of the same Plot Twist. Her Spellcasting power lets you play Plot Twists from your Spellbook, putting them into your KO pile when they resolve. If Willow gets KO’d or otherwise is no longer on your side, you won’t be able to access the Plot Twists in your Spellbook. But if you play another copy of Willow, then you can use your Spellbook again.
+Set: The Buffy Battles  
+**Spell Research**  
+Willow’s **Spell Research** power puts Plot Twists into a special pile removed from the game called your Spellbook. Your Spellbook can’t have more than one copy of the same Plot Twist. 
+
+**Spellcasting**  
+Her Spellcasting power lets you play Plot Twists from your Spellbook, putting them into your KO pile when they resolve. 
+
+If Willow gets KO’d or otherwise is no longer on your side, you won’t be able to access the Plot Twists in your Spellbook. But if you play another copy of Willow, then you can use your Spellbook again.
 
 # X-23 (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
+
+# Xander (SC) 
+Set: The Buffy Battles
+When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjQyNDc2OCwxMTIwNjU4NjI3LDEyNj
-Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
-MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
-IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
-NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
-E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
-MzY5MjVdfQ==
+eyJoaXN0b3J5IjpbOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2Nj
+czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
+LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
+A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
+MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
+k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
+NjkyNV19
 -->
