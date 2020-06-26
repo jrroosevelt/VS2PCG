@@ -569,7 +569,7 @@ This Plot Twist puts two characters on your side in a Relationship. This means t
 # Living Tribunal
 Set: Galactic Guardians  
 **Balances the Multiverse**  
-When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards
+When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards are cards that have photographic artwork on them, from TV shows and movies. The other universe is the Illustrated Universe, whose cards are cards with drawn, or illustrated artwork.
 
 # Loki (SC)
 The MCU Battles  
@@ -726,6 +726,12 @@ Set: The Utopia Battles
 Norman’s Level 2 Keyword Powers also affect himself. 
 
 Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (HAMMER) team affiliation
+
+# Nova Corps 
+Set: Galactic Guardians  
+**Balances the Multiverse**  
+When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards are cards that have photographic artwork on them, from TV shows and movies. The other universe is the Illustrated Universe, whose cards are cards with drawn, or illustrated artwork.
+
 
 # The Nullifier
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
@@ -1107,11 +1113,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NDI1NjY1LC0yMDkxNDgzMzU2LDE3OD
-U1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5
-LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNj
-Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
-LC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMT
-k3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1
-ODMyXX0=
+eyJoaXN0b3J5IjpbLTE3NjIzNjQ2MjEsLTIwOTE0ODMzNTYsMT
+c4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIx
+ODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LD
+I2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0Njkw
+MDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC
+0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkw
+NzU4MzJdfQ==
 -->
