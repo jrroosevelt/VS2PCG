@@ -1013,7 +1013,7 @@ This Spider-Man, from the Ultimate Universe, is our first character to share a m
 ## \*\* Spider-Man \*\* (SC)
 Set: Webheads  
 **Ultimate Spider-Man**  
-**Ultimate Spider-Man** lets Spidey strike multiple times in a combat. If he strikes the same character more than once, add his ATK toget
+**Ultimate Spider-Man** lets Spidey strike multiple times in a combat. If he strikes the same character more than once, add his ATK together for each strike and then compare it to the enemy's DEF. For example, if he has 5 ATK and strikes a character three times compare a total of 15 ATK to that character's DEF. He can also split up his strikes if he's in combat with multiple enemies (such as if he's being team attacked).
 
 # Spider-Man Noir
 Set: Crossover Vol. 2  
@@ -1161,11 +1161,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjg2OTM0OSwyMjM1NzczMjYsNzc1Mz
-U2NTI2LDE3MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMz
-NTYsMTc4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OT
-Y1MDIxODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQw
-MDk5LDI2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NT
-g0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1
-MTc4XX0=
+eyJoaXN0b3J5IjpbNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNT
+Y1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1
+NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5Nj
+UwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAw
+OTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1OD
+Q2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUx
+NzhdfQ==
 -->
