@@ -376,6 +376,14 @@ Some characters have a **Bond** with another character. This allows them to be d
 
 Example: You want to use the Falconer Supporting Character’s **Bait and Switch** Super Power, which costs (Skill/"Red"). You may discard a Falcon Drone from your hand to pay for the Super Power. If a character with Bond is used to generate a Power Symbol for a Super Power with Amplify, the Amplify text will apply
 
+# Falconer (MC) 
+Set: The Predator Battles  
+**Active Falcon Drone**  
+Falconer starts the game with a Falcon Drone from your deck on his side. The Falcon Drone still counts toward your 60 cards when you build your deck. 
+
+**We're the Game**  
+His Level Up Power, **We’re the Game**, triggers whenever an enemy player reveals one or more cards. Some effects that would grant 1 XP this way are when a player reveals their hand, when a player reveals one or more cards from the top of their deck, or when a player reveals the cards they draw (due to a Falcon Drone).
+
 # Fin Fang Foom
 Set: Monsters Unleashed!  
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
@@ -913,11 +921,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDA4NTQ0LDExMjA2NTg2MjcsMTI2Nj
-czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
-LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
-A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
-MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLDQ4MDE5NDQ1MywtMT
-k3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsMTA1MTMz
-NjkyNV19
+eyJoaXN0b3J5IjpbLTE1MTE0ODMwOTUsMTEyMDY1ODYyNywxMj
+Y2NzMwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYz
+MTIsMTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLT
+EyMDQ0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5
+MDczMzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC
+0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUx
+MzM2OTI1XX0=
 -->
