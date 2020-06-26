@@ -1228,7 +1228,10 @@ Set: Black Order
 At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 **Schemes and Dreams**  
-**Schemes and Dreams**  prevents you from drawing cards during your Draw Phase, including your normal draws plus effects li
+**Schemes and Dreams**  prevents you from drawing cards during your Draw Phase, including your normal draws plus effects like Genius. However, if Thanos is face down at the start of yoru turn, Schemes and Dreams will be turned off. This means you can draw cards during your Draw Phase, however you can't search for a card.
+
+**My Quest Begins**  
+**My Quest Begins**
 
 # Thor (MC)
 Set: The MCU Battles  
@@ -1310,7 +1313,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTMzMDYxNSwzMjYxNDQ4NiwtMTYwNT
+eyJoaXN0b3J5IjpbMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNT
 MwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4Nzgs
 MjIzNTc3MzI2LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mj
 k1MjM3LC0yMDkxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQw
