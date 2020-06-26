@@ -656,7 +656,7 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 # Mattie Franklin
 Set: Webheads  
 **The Gathering of Five**  
-If Mattie is in your deck you can bring a Gift pi
+If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five 
 
 # Maximus
 Set: Crossover  
@@ -1200,11 +1200,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMzMTE0MTEsMTUxMjYxMDg0NCwyMz
-czMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3NzUzNTY1MjYs
-MTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MTQ4MzM1NiwxNz
-g1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4
-OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMj
-Y0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAw
-M119
+eyJoaXN0b3J5IjpbOTM2MzQ1ODcxLDE1MTI2MTA4NDQsMjM3Mz
+MzNjE3LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3
+MDExNDM0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NT
+U0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIxODks
+MTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LDI2ND
+g3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0NjkwMDNd
+fQ==
 -->
