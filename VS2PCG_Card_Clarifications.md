@@ -151,6 +151,11 @@ And his Bounced Off His Belly power represents projectiles getting bounced back 
 # Book of Vishanti
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
+# Boomerang
+Set: Spidey-Foes  
+**Specialized Boomerangs**  
+
+
 # Break the Fourth Wall
 Set: Deadpool & Friends  
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
@@ -539,7 +544,9 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 # Hydro-Man
 Set: Spidey-Foes  
 **Fluid Tactics**  
-**Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't pla
+**Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't play a Plot Twist that gives him +3 ATK and convert it into +2 ATK and +1 DEF.
+
+Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tactics**.
 
 # Impersonating Powers
 Set: Utopia Battles   
@@ -1238,11 +1245,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDEzMDgzNCwtMTYwNTMwMDI1NiwxNT
-EyNjEwODQ0LDIzNzMzMzYxNyw3NzY1NzM4NzgsMjIzNTc3MzI2
-LDc3NTM1NjUyNiwxNzAxMTQzNDQxLC0xNDc0Mjk1MjM3LC0yMD
-kxNDgzMzU2LDE3ODU1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMw
-MzAsOTk2NTAyMTg5LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMT
-IyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIz
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMzA0ODg5NjgsLTE2MDUzMDAyNTYsMT
+UxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMy
+Niw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMj
+A5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIz
+MDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLT
+EyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQy
+MzI4XX0=
 -->
