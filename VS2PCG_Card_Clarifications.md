@@ -22,6 +22,11 @@ Set: Galactic Guardians
 **Prepare for Rebirth**  
 At Level 1, if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
+# [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
+Set: The Fantastic Battles  
+**Ancient Sorceress**  
+If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
+
 # Agents
 Set: S.H.I.E.L.D. vs. Hydra  
 Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
@@ -1466,11 +1471,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ3NTExNDAsODU0MjYzMDA5LDE0Nj
-gxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4
-MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Nj
-ksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3
-MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0ND
-g2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3LDc3
-NjU3Mzg3OF19
+eyJoaXN0b3J5IjpbLTg2NTQ3ODg5LDg1NDI2MzAwOSwxNDY4MT
+EwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5
+NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC
+01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAw
+MDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4Ni
+wtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIzNzMzMzYxNyw3NzY1
+NzM4NzhdfQ==
 -->
