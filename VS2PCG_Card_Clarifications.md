@@ -553,7 +553,12 @@ Morgan le Fay’s super power counts how many times you’ve used a power named 
 # Mr. Black
 Set: The Predator Battles  
 **Enhanced Bio-Mask** 
-Mr. Black’s super power allows him to attack a face-down (hidden or stunned) character. Treat it as a regular attack (both players can play Plot Twists, Power-Up, etc.), but keep in mind the face-down character’s powers are turned off and its Team Affiliation is not available for things like playing a Plot Twist. When Mr. Black and the defender strike each other: • Mr. Black can get stunned as normal. 26 • A hidden character can get stunned as normal. (Wound it and change its orientation from ready to exhausted.) • If Mr. Black’s strike would stun an already-stunned character, wound it instead. Note: A stunned character can’t be stunned (including by having its DEF reduced to 0 or a direct “stun” effect).
+Mr. Black’s super power allows him to attack a face-down (hidden or stunned) character. Treat it as a regular attack (both players can play Plot Twists, Power-Up, etc.), but keep in mind the face-down character’s powers are turned off and its Team Affiliation is not available for things like playing a Plot Twist. 
+
+When Mr. Black and the defender strike each other: 
+* Mr. Black can get stunned as normal.  
+* A hidden character can get stunned as normal. (Wound it and change its orientation from ready to exhausted.)  
+* If Mr. Black’s strike would stun an already-stunned character, wound it instead. Note: A stunned character can’t be stunned (including by having its DEF reduced to 0 or a direct “stun” effect).
 
 # Mysterio
 ## Mysterio (MC)
@@ -908,7 +913,7 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTYzNTc2LDExMjA2NTg2MjcsMTI2Nj
+eyJoaXN0b3J5IjpbLTU0MDA4NTQ0LDExMjA2NTg2MjcsMTI2Nj
 czMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1NzEsNDMxMTI2MzEy
 LDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xODU1Njc4OTk1LC0xMj
 A0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2MzQxOCwtMTM0OTA3
