@@ -181,6 +181,10 @@ Set: Sinister Syndicate
 **Master of Disguise**  
 Chameleon does copy the **Sinister Six** keyword from your main characters who have that keyword. It doesn’t do anything for him in the game because he’s not a main character – he just wants to feel like a real part of the team.
 
+# The Champion
+Set: Crossover Vol. 2  
+
+
 # Chimichanga
 Set: Deadpool & Friends  
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
@@ -904,7 +908,8 @@ These characters **do** count toward your total of 60 cards in your deck. If * S
 # Spider-Man Noir
 Set: Crossover Vol. 2  
 **Black and White**  
-**Black and White** prevents enemy Locations from pro
+**Black and White** prevents enemy Locations from producing the power symbol of your choice. An enemy player can still turn a Location face down or discard it from their hand to try to produce that symbol, but nothing will happen.
+
 # Squirrel Girl
 Set: Legacy  
 **Let’s Get Nuts**  
@@ -1025,11 +1030,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NTk1NzU1LDk5NjUwMjE4OSwxMTIwNj
-U4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcx
-LDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NT
-Y3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0
-MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0OD
-AxOTQ0NTMsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1
-MTA2XX0=
+eyJoaXN0b3J5IjpbLTE1MzYxMTUzOTEsOTk2NTAyMTg5LDExMj
+A2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNjQ4Nzc1
+NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAzLC0xOD
+U1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMTk3NzI2
+MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1ODMyLD
+Q4MDE5NDQ1MywtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2LDExNTk0
+NDUxMDZdfQ==
 -->
