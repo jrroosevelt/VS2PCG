@@ -962,6 +962,10 @@ Set: H.A.M.M.E.R.
 **Betsy’s Incendiary Missiles**  
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning characterleaves play.
 
+# Secret Hideout
+Set: Spidey-Foes  
+**Family is a Source of Weakness**  
+**Family is a Source of Weakness** lets your (Sinister Syndicate) Main Character take a H
 # Sentry
 Set: The Utopia Battles  
 **Reluctant God**  
@@ -1250,11 +1254,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUxMj
-YxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4LDIyMzU3NzMyNiw3
-NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMjA5MT
-Q4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMw
-LDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMj
-U0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4
-XX0=
+eyJoaXN0b3J5IjpbLTE1Njk2MzMyNjgsMzI2MTQ0ODYsLTE2MD
+UzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2NTczODc4
+LDIyMzU3NzMyNiw3NzUzNTY1MjYsMTcwMTE0MzQ0MSwtMTQ3ND
+I5NTIzNywtMjA5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0
+MCwyMDA2OTIzMDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNj
+Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
+Ml19
 -->
