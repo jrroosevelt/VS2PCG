@@ -582,6 +582,10 @@ Set: Crossover Vol. 2
 
 The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to have so he ended up between two whole numbers. In most cases, his stats work like this. 1 ½ cost means you must pay 1 ½ recruit points to recruit him. So you will have ½ a recruit point left over. 4 ½ ATK means his strikes will stun a 4 DEF character but not a 5 DEF character. 3 ½ DEF means if he is struck with 3 ATK, he won't get stunned, but if he gets struck with 4 ATK he will get stunned. 2 ½ (Health) means 2 wounds won't KO him, but 3 wounds will.
 
+# The Infinity Gauntlet
+Set: Black Order  
+While equipped, the Infinity Gauntlet allows you to turn any number of face-down Infinity Gem equipment in your resource row face up to show that you've "set" them into the Gauntlet. If a card with Infinity gets put into a KO pile from anywhere, you may shu
+
 # Invisible Boy
 Set: The Herald  
 **Remove Cosmic Energy**  
@@ -1332,7 +1336,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjU2OTkxNSwyMDM5NjEyNzUyLDMyNj
+eyJoaXN0b3J5IjpbLTU1MDg4MDM0OCwyMDM5NjEyNzUyLDMyNj
 E0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3
 LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExND
 M0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5
