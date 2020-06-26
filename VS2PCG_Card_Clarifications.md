@@ -729,8 +729,12 @@ Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) charac
 
 # Nova Corps (and The Milano)
 Set: Galactic Guardians  
-In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A 
+In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
 
+* They are not super powers.  
+* Your main characters must be face up to pay for them. (But it doesn't have to be in the combat to pay for Nova Corps.)  
+* Your main characters can use a "Wild" Special Location from their team to pay for them.  
+* These cards are neutral, so just like
 
 # The Nullifier
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
@@ -1112,11 +1116,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDQ5ODQ4NSwtMjA5MTQ4MzM1NiwxNz
-g1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIzMDMwLDk5NjUwMjE4
-OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLTEyMjU0NDAwOTksMj
-Y0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQyMzI4LDk1ODQ2OTAw
-MywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5MywxODE1NzUxNzgsLT
-E5NzcyNjM0MTgsLTEzNDkwNzMzNTIsNDAyNzMyMTIsMTY0OTA3
-NTgzMl19
+eyJoaXN0b3J5IjpbMjkzMjkzMDAyLC0yMDkxNDgzMzU2LDE3OD
+U1NDkzOTAsODU2NTE5NTQwLDIwMDY5MjMwMzAsOTk2NTAyMTg5
+LDExMjA2NTg2MjcsMTI2NjczMDc5OCwtMTIyNTQ0MDA5OSwyNj
+Q4Nzc1NzEsNDMxMTI2MzEyLDE3NjExNDIzMjgsOTU4NDY5MDAz
+LC0xODU1Njc4OTk1LC0xMjA0NDQ5NjkzLDE4MTU3NTE3OCwtMT
+k3NzI2MzQxOCwtMTM0OTA3MzM1Miw0MDI3MzIxMiwxNjQ5MDc1
+ODMyXX0=
 -->
