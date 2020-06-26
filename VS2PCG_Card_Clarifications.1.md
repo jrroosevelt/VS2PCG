@@ -110,7 +110,7 @@ Set: The Utopia Battles
 # Awesome Android
 Set: The Fantastic Battles  
 **Mimicry**  
-If there are no other face-up characters in play, Awesome Android's ATK/DEF be
+If there are no other face-up characters in play, Awesome Android's ATK/DEF become 0/0 (and he gets stunned).
 
 # Baron Mordo (MC)
 Set: Legacy  
@@ -592,10 +592,7 @@ Set: The Buffy Battles
 **Drain Sanity**  
 **Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
 
-# Doctor Faustus
-Set: S.H.I.E.L.D. vs. Hydra  
-**Hypnotic Suggestion**  
-Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
+
 
 ## Ego
 Set: MCU Villains 
@@ -1625,11 +1622,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDI1OTc3Niw0MDI3MzIxMiwxNjQ5MD
-c1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEw
-NiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC
-0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4
-NTYzODc5MDIsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2OTczND
-A3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMsLTE2NDY4OTkyNDks
-MTE4MDU1NDk1Ml19
+eyJoaXN0b3J5IjpbNjg3NjA1NTc1LDQwMjczMjEyLDE2NDkwNz
+U4MzIsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2
+LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLT
+IxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1
+NjM4NzkwMiwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MD
+cwLDEzOTY5ODgzMjQsLTEzNTgyNjU1MywtMTY0Njg5OTI0OSwx
+MTgwNTU0OTUyXX0=
 -->
