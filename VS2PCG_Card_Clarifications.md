@@ -916,6 +916,11 @@ See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
 Set: Crossover  
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
+# Silver Surfer
+Set: H.A.M.M.E.R.  
+**Executioner**  
+**Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
+
 # Simon Trask (MC) 
 Set: The Utopia Battles  
 **Proposition X**  
@@ -1117,11 +1122,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMT
-c4NTU0OTM5MCw4NTY1MTk1NDAsMjAwNjkyMzAzMCw5OTY1MDIx
-ODksMTEyMDY1ODYyNywxMjY2NzMwNzk4LC0xMjI1NDQwMDk5LD
-I2NDg3NzU3MSw0MzExMjYzMTIsMTc2MTE0MjMyOCw5NTg0Njkw
-MDMsLTE4NTU2Nzg5OTUsLTEyMDQ0NDk2OTMsMTgxNTc1MTc4LC
-0xOTc3MjYzNDE4LC0xMzQ5MDczMzUyLDQwMjczMjEyLDE2NDkw
-NzU4MzJdfQ==
+eyJoaXN0b3J5IjpbMTcwMTE0MzQ0MSwtMTQ3NDI5NTIzNywtMj
+A5MTQ4MzM1NiwxNzg1NTQ5MzkwLDg1NjUxOTU0MCwyMDA2OTIz
+MDMwLDk5NjUwMjE4OSwxMTIwNjU4NjI3LDEyNjY3MzA3OTgsLT
+EyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMxMiwxNzYxMTQy
+MzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMTIwNDQ0OTY5My
+wxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkwNzMzNTIsNDAy
+NzMyMTJdfQ==
 -->
