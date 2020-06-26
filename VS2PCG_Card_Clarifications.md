@@ -720,7 +720,10 @@ Set: Black Order
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nebula (who has a keyword power which requires spending a (Might/"Green)), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations.
 
 * They are not super powers.  
-* Your main characters ust be face up 
+* Your main characters ust be face up to pay for them.  
+* Your main characters can use a "Wild" Special Location from their team to pay for them.  
+* These cards are neutral, so just like any other neutral cards, they can be in Loyalty decks.  
+* The Special Locations don't count as location swith a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
 
 # Mimic (MC)
 Set: H.A.M.M.E.R.  
@@ -1325,7 +1328,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTE0Mzc0MCwyMDM5NjEyNzUyLDMyNj
+eyJoaXN0b3J5IjpbLTI2NDAzODg5MSwyMDM5NjEyNzUyLDMyNj
 E0NDg2LC0xNjA1MzAwMjU2LDE1MTI2MTA4NDQsMjM3MzMzNjE3
 LDc3NjU3Mzg3OCwyMjM1NzczMjYsNzc1MzU2NTI2LDE3MDExND
 M0NDEsLTE0NzQyOTUyMzcsLTIwOTE0ODMzNTYsMTc4NTU0OTM5
