@@ -424,6 +424,16 @@ Set: Resistance
 **Molecular Acceleration**  
 **Molecular Acceleration** is a Keyword Power, not a Super Power.
 
+# The Gentlemen 
+Set: The Buffy Battles  
+**Hush**  
+**Hush** prevents players from using effects that require you to “say” something or to “name” something. **Hush** also prevents players from talking. You can still communicate in other ways such as using hand signals, or writing things down. You can also make sounds without using your vocal chords. If a player does speak, do your best impersonation of a Gentleman in order to shush them. (There is no in-game penalty for speaking. It’s just not cool.)
+
+# Glory 
+Set: The Buffy Battles  
+**Drain Sanity**  
+Drain Sanity gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
+
 # Goblin Queen
 Set: A-Force  
 **Token Characters**  
@@ -970,11 +980,11 @@ Set: The Utopia Battles
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMTQ2MzUsMTEyMDY1ODYyNywxMjY2Nz
-MwNzk4LC0xMjI1NDQwMDk5LDI2NDg3NzU3MSw0MzExMjYzMTIs
-MTc2MTE0MjMyOCw5NTg0NjkwMDMsLTE4NTU2Nzg5OTUsLTEyMD
-Q0NDk2OTMsMTgxNTc1MTc4LC0xOTc3MjYzNDE4LC0xMzQ5MDcz
-MzUyLDQwMjczMjEyLDE2NDkwNzU4MzIsNDgwMTk0NDUzLC0xOT
-c2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwxMDUxMzM2
-OTI1XX0=
+eyJoaXN0b3J5IjpbMTU5NjUzMDA3MCwxMTIwNjU4NjI3LDEyNj
+Y3MzA3OTgsLTEyMjU0NDAwOTksMjY0ODc3NTcxLDQzMTEyNjMx
+MiwxNzYxMTQyMzI4LDk1ODQ2OTAwMywtMTg1NTY3ODk5NSwtMT
+IwNDQ0OTY5MywxODE1NzUxNzgsLTE5NzcyNjM0MTgsLTEzNDkw
+NzMzNTIsNDAyNzMyMTIsMTY0OTA3NTgzMiw0ODAxOTQ0NTMsLT
+E5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LDEwNTEz
+MzY5MjVdfQ==
 -->
