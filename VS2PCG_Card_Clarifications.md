@@ -63,7 +63,6 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 Set: The Buffy Battles  
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
 
-
 # Angela
 Set: Galactic Guardians  
 **An Angel From the Heavens**  
@@ -1481,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2OD
-ExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgw
-OTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OS
-wtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcw
-MDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0OD
-YsLTE2MDUzMDAyNTYsMTUxMjYxMDg0NCwyMzczMzM2MTcsNzc2
-NTczODc4XX0=
+eyJoaXN0b3J5IjpbMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1ND
+I2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAw
+OTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC
+0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2
+MDAzMTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMj
+c1MiwzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIz
+NzMzMzYxN119
 -->
