@@ -1098,12 +1098,12 @@ When that character would become Level 2, you’ll instead transform it into Lev
 
 Once he’s Level 2, if he would be wounded, there’s a chance it was just a clone body instead: reveal a random card from your Clone Pile. If you reveal Scarlet Spider, he’ll get wounded as normal – they found you! But if you reveal someone else, he doesn’t get wounded (although whoever was revealed goes back into your Spider Web.)
 
-## Scarlet Spider (SC)
+## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-014.jpg) (SC)
 Set: Spider-Friends  
 **Paralytic Darts**  
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
 
-# Scarlet Witch
+# [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
 Set: The Defenders  
 **Hex**  
 Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up. They can still gain XP up to their Level Up number, but not beyond. And once Scarlet Witch gets stunned or leaves play, if they have enough XP, they’ll immediately Level Up.
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDIxNjE0MiwtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOT
+IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
+MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
+05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
+NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
+EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
+MzI2MTQ0ODZdfQ==
 -->
