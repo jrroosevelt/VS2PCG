@@ -632,7 +632,7 @@ Set: Spidey-Foes
 
 Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tactics**.
 
-# Hyperion
+# [Hyperion](http://vs.tcgbrowser.com/images/cards/big/COS-014.jpg)
 Set: Cosmic Avengers  
 **Reliance on Solar Energy**  
 Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required (Energy/"Blue"). But it doesn't have to be in the combat.
@@ -641,7 +641,7 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 Set: Utopia Battles   
 Several characters have powers that impersonate other characters. These powers turn off immediately if the character they’re impersonating ever shows up. It doesn’t matter if the character that’s being impersonated is face up or face down or what side they’re on. Either way they count as being on “a side” and will turn off the Impersonation power.
 
-# The In-Betweener
+# [The In-Betweener](http://vs.tcgbrowser.com/images/cards/big/CV2-009.jpg)
 Set: Crossover Vol. 2  
 **Duality Itself**  
 **Duality Itself** lets you put the In-Betweener onto your side between two turns of the game. You can deven do this after an enemy player's first turn but before your first turn.
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NjE3MTA0LC0xMzU4NzkyNTQwLDkyMT
+eyJoaXN0b3J5IjpbMTA0NjI0OTY4LC0xMzU4NzkyNTQwLDkyMT
 Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
 LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
 MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
