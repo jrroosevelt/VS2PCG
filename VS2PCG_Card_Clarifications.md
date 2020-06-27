@@ -955,20 +955,20 @@ In this Arc, we are playing around with how players can use locations besides su
 * These cards are neutral, so just like any other neutral cards they can be in Loyalty decks.  
 * The Special Locations don't count as locations power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or Zzutak's **Paint to Life**).
 
-# The Nullifier
+# [The Nullifier](http://vs.tcgbrowser.com/images/cards/big/SVH-057.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-# Omega Machine Components 
+# [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
 These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
 
 See also: [Machine](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_machine)
 
-# Omega Red
+# [Omega Red](http://vs.tcgbrowser.com/images/cards/big/CV1-019.jpg)
 Set: Crossover  
 **Carbonadium Tentacles**  
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
 
-# Onslaught
+# [Onslaught](http://vs.tcgbrowser.com/images/cards/big/LEG-035.jpg)
 Set: Legacy  
 **Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTA0ODk0OSwtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbLTEwNDcwMTAxMTQsLTEzNTg3OTI1NDAsOT
+IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
+MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
+05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
+NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
+EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
+MzI2MTQ0ODZdfQ==
 -->
