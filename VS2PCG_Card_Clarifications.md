@@ -1463,7 +1463,10 @@ When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**
 # [Uatu](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
 Set: The Fantastic Battles  
 **The Watcher**  
-**The Watcher** sees
+**The Watcher** sees everywhere; including but not limited to enemy decks (shuffle them afterwards) hands, face-down resources, cards removed from the game and out of game piles (even if they're secret). 
+
+**The Doer**
+**The Doer** *does* remove the effects of the **Freeze** keyword.
 
 # [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC)
 Set: The MCU Battles  
@@ -1505,6 +1508,10 @@ Set: The Utopia Battles
 **Addicted to Mutant Energy**   
 **Addicted to Mutant Energy** affects a character as it appears, which means it won’t even trigger any of its powers that occur when it appears. It also has no duration, so a character affected by it will remain affected until that character leaves play.
 
+# [Willie Lumpkin](http://vs.tcgbrowser.com/images/cards/big/FAN-010.jpg)
+Set: The Fantastic Battles  
+**The Watcher**  
+
 # [Willow](http://vs.tcgbrowser.com/images/cards/big/TBB-023.jpg) (SC) 
 Set: The Buffy Battles  
 **Spell Research**  
@@ -1540,7 +1547,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDc5NTY1NSwtMTI4MTk0NDAxOSw0OD
+eyJoaXN0b3J5IjpbMTM3MDgyMzMwMCwtMTI4MTk0NDAxOSw0OD
 cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
 MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
 wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
