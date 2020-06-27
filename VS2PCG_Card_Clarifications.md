@@ -1108,12 +1108,12 @@ Set: The Defenders
 **Hex**  
 Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up. They can still gain XP up to their Level Up number, but not beyond. And once Scarlet Witch gets stunned or leaves play, if they have enough XP, they’ll immediately Level Up.
 
-# Scourge
+# [Scourge](http://vs.tcgbrowser.com/images/cards/big/HAM-014.jpg)
 Set: H.A.M.M.E.R.  
 **Betsy’s Incendiary Missiles**  
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
 
-# Secret Hideout
+# [Secret Hideout](http://vs.tcgbrowser.com/images/cards/big/SFO-016.jpg)
 Set: Spidey-Foes  
 **Family is a Source of Weakness**  
 **Family is a Source of Weakness** lets your (Sinister Syndicate) Main Character take a **Hostage**. If you have any Secret Hideouts in your deck, you must bring a Hostage pile, which includes one ore more *different* (Spider-Friends) Supporting Characters with the **Friends and Family** keyword.
@@ -1128,7 +1128,7 @@ It's possible for the same Main Character to have multiple Hostages (one for eac
 
 Note: A **Hostage** is never actually in play. It's either in a Hostage pile, beneath a Secret Hideout, or set aside (after leaving a Secret Hideout).
 
-# Sentry
+# [Sentry](http://vs.tcgbrowser.com/images/cards/big/TUB-053.jpg)
 Set: The Utopia Battles  
 **Reluctant God**  
 **Reluctant God** prevents Sentry from striking, but he can still attack.
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOT
-IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
-MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
-05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
-NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
-EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
-MzI2MTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbLTE0MTk3OTk3NzgsLTE2NTA0NTM4MTksLT
+EzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgy
+MTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOS
+wtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0
+NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MT
+k3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2Nzgx
+LDIwMzk2MTI3NTJdfQ==
 -->
