@@ -776,11 +776,11 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 Set: S.H.I.E.L.D. vs Hydra    
 This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of Marvel character cards.)
 
-# Mary Walker
+# [Mary Walker](http://vs.tcgbrowser.com/images/cards/big/def-061.jpg)
 Set: The Defenders  
 Each version of Mary Walker has a different text box and ATK and DEF, but they all count as Mary Walker and can be used to Power-Up each other. Each Mary has the “One of a Kind” keyword which means you can only have one of that Mary in your deck.
 
-# Masacre
+# [Masacre](http://vs.tcgbrowser.com/images/cards/big/MFM-014.jpg)
 Set: Deadpool & Friends  
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
 
@@ -1475,7 +1475,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTc5MzY0OCwtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbMjA5MzI3NTQwOSwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
