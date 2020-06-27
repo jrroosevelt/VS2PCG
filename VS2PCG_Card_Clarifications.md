@@ -586,7 +586,7 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 **Bag of Tricks**  
 Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
-# Hawkeye (MC)
+# [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 Set: Cosmic Avengers  
 **Custom Quiver**  
 Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
@@ -600,7 +600,7 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 * **[Shrink](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_shrink)**  
 * **[Freeze](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_freeze)** 
 
-# Headsman
+# [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
 Set: H.A.M.M.E.R.  
 **Executioner**  
 **Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIxMTI5NjAsLTEzNTg3OTI1NDAsOT
-IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
-MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
-05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
-NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
-EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
-MzI2MTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbOTI2MTkxMTg4LC0xMzU4NzkyNTQwLDkyMT
+Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
+LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
+MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
+MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
+wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
+NjE0NDg2XX0=
 -->
