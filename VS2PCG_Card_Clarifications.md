@@ -452,7 +452,7 @@ Set: Resistance
 **Fluid Forms and Fidelity**  
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/ exhausted, face-up /face-down), all of her counters, and any effects on her.
 
-# Evil Deadpool
+# [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 Set: Deadpool & Friends   
 Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect).
 
@@ -462,10 +462,10 @@ Evil Deadpool loves being Evil. That’s why he can grant Evil characters on you
 **It's Like You, But Eviler!**  
 Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
 
-# Facehugger
+# [Facehugger](http://vs.tcgbrowser.com/images/cards/big/ALN-052.jpg)
 Set: The Alien Battles  
 **Facehuggers and Capturing Characters**   
-If you have Ovomorphs in your deck (the eggs that make Facehuggers), you’ll use the Facehugger Pile. 
+If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg) in your deck (the eggs that make Facehuggers), you’ll use the Facehugger Pile. 
 
 * The Facehugger Pile includes three Facehugger token characters and one Extended Incubation card. These cards start the game out of play. (If more than one player is using Ovomorphs, they will each use their own Facehugger Pile.)   
 * When an Ovomorph is ready to Hatch, reveal a random card from your Facehugger Pile.  
@@ -479,7 +479,7 @@ If you have Ovomorphs in your deck (the eggs that make Facehuggers), you’ll us
 * You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
 * Note: Put the KO’d Facehugger token back into your Facehugger Pile.
 
-# Faith 
+# [Faith](http://vs.tcgbrowser.com/images/cards/big/TBB-055.jpg) 
 Set: The Buffy Battles  
 Faith can steal any kind of counter from an enemy defender.
 
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTkwOTA3MSwtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbMTg2ODQ0MDk5MCwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
