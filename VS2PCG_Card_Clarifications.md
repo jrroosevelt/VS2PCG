@@ -285,15 +285,15 @@ Set: Brotherhood of Mutants
 **Pheromone Control**  
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
-# Daredevil
+# [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
 Set: The Defenders  
 **Radar Sense**  
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
-# Darkhold
+# [Darkhold](http://vs.tcgbrowser.com/images/cards/big/SVH-055.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-# Dark Phoenix (SC)
+# [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
 Set: Crossover  \
 **Deconstruct the Universe**  
 Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY2MjEwODgsLTEzNTg3OTI1NDAsOT
-IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
-MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
-05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
-NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
-EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
-MzI2MTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbMTAxMTAzNTUwNSwtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
