@@ -435,19 +435,19 @@ Set: Legacy
 Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
 
 # Emma Frost
-## Emma Frost (MC) 
+## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
 Set: The Utopia Battles  
 **Keeper of Law**  
 **Keeper of Law** allows a character to strike an additional time in a combat. The character can strike two different characters once each (if they’re being team attacked, for example), or they can strike the same character twice. In the latter case, add the character’s ATK together for each strike and then compare it to the enemy’s DEF. 
 
 Emma’s power can be used any number of times each turn. So if a character ends up being allowed to strike 3, 4, or more times, it works as above. Any number of strikes can be combined against an enemy or split amongst multiple enemies.
 
-## Emma Frost (SC) (H.A.M.M.E.R.)
+## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/HAM-016.jpg) (SC) (H.A.M.M.E.R.)
 Set: H.A.M.M.E.R.  
 **Fluid Forms and Fidelity**  
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of her counters, and any effects on her.
 
-## Emma Frost (SC) (Resistance)
+## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/RES-014.jpg) (SC) (Resistance)
 Set: Resistance    
 **Fluid Forms and Fidelity**  
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/ exhausted, face-up /face-down), all of her counters, and any effects on her.
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE4NDM5NjMsLTEzNTg3OTI1NDAsOT
-IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
-MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
-05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
-NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
-EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
-MzI2MTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbMTc3MTkwOTA3MSwtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
