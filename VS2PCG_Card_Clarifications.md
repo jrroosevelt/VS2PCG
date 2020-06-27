@@ -405,7 +405,7 @@ Set: MCU Villains
 **You Will Spend Eternity Dying**  
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
-# Dr. Curt Connors
+# [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 Set: Webheads
 **The Monster Within**  
 For every Dr. Curt Connors in your deck, you must also bring that many copies of the Lizard which will start in an out-of-game Lizard pile. When **The Monster Within** transforms Dr. Connors after he is stunned, remove him from the game and replace him with a Lizard from your Lizard Pile. 
@@ -414,11 +414,11 @@ Since this is a "transformation", the Lizard will keep any counters and effects 
 
 You can include up to the usual four copies of Lizard in your deck as well as bring up to four copies for your Lizard pile (one for each copy of Dr. Cur Connors in your deck). If you don't have any Lizards in your Lizard pile, **The Monster Within** won't do anything.
 
-# Edwin
+# [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
 Set: The Predator Battles  
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
 
-# Ego
+# [Ego](http://vs.tcgbrowser.com/images/cards/big/mcu3-003.jpg)
 Set: MCU Villains 
 **Soon We Will Be All There Is**    
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE3ODIxODcsLTEzNTg3OTI1NDAsOT
+eyJoaXN0b3J5IjpbLTE5MTM1ODgyMTEsLTEzNTg3OTI1NDAsOT
 IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
 MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
 05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
