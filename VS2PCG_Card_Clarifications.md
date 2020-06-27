@@ -544,7 +544,9 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
         * You can play Plot Twists from our hand to affect a **Pocket Universe**.
         * You can discard Locations from your hand to generate a power symbol in the **Pocket Universe**. (Since the **Pocket Universe** has no resource row, there are no locations to turn face down to generate a power symbol.)  
         * You can discard characters from your hand to Power Up characters in a **Pocket Universe**.
-        * When a character is KO'd in a **Pocket Universe** the
+        * When a character is KO'd in a **Pocket Universe**, they go to the normal KO pile. Similarly, if a character leaves play due to an effect, it works the same as if the character were still in the original universe. For example, if an effect returned teh character to its owner's hand, it would go to that hand as normal.
+    * End of turn
+* If there is more than one **Pocket Universe** in the game, eac
         
 
 # Gambit
@@ -1491,11 +1493,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjg0ODk3LDE4MDQ5OTg1MzcsLTEzOD
-U0Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5
-MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LD
-g1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3
-MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwND
-MyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0x
-MjY2MDAzMTBdfQ==
+eyJoaXN0b3J5IjpbMTU2ODM4NDcxNSwxODA0OTk4NTM3LC0xMz
+g1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3
+OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Ni
+w4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2
+NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMD
+QzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwt
+MTI2NjAwMzEwXX0=
 -->
