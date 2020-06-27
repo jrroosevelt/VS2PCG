@@ -1172,12 +1172,10 @@ When a character with the Alien Symbiote is turned face down but isn’t KO’d,
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-019.jpg) (SC - Spider-Friends)
 Set: Spider-Friends  
-**Spider-Powers**  
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-017.jpg) (SC - Webheads)
 Set: Webheads  
-**Tony's Tinkering**  
 When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's **Updates**). When Spidey installs **Updates**, you may remove any number of **Update** counters from him.
 
 If you remove exactly one **Update** he gains (Flight) and (Range) until he leaves play. If you remove exactly two **Updates**, put two vitality counters on him. If you remove exactly three **Updates**, put twelve +1/+1 counters on him.
@@ -1188,7 +1186,6 @@ Note: **Update** counters aren't removed from Spidey when he gets turned face do
 
 # \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
 Set: Crossover Vol. 2  
-**Citizen of the Multiverse**  
 Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
 
 These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
@@ -1196,22 +1193,18 @@ These characters **do** count toward your total of 60 cards in your deck. If * S
 # \*\* Spider-Man \*\* 
 ## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-002.jpg) \*\* (MC)
 Set: Webheads  
-**Oz Formula**  
 This Spider-Man, from the Ultimate Universe, is our first character to share a mantle with two other people! (Miles Morales and the main Marvel Universe's Peter Parker.) In this comics, this Peter died... but then came back to life because the **Oz Formula** that gave him his powers also granted him immortality. For the game, this means when Peter is KO'd, you won't lose the game immediately for not having a main character. You'll have until the end of your next turn to bring him back when a Supporting Character with the **Friends and Family** keyword appears on your side. In this case, put him back onto your side with wounds equal to his (Health) minus 1. (With the **Oz Formula** mechanic, Peter can continue fighting for those he cares about.)
 
 ## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-016.jpg) \*\* (SC)
 Set: Webheads  
-**Ultimate Spider-Man**  
 **Ultimate Spider-Man** lets Spidey strike multiple times in a combat. If he strikes the same character more than once, add his ATK together for each strike and then compare it to the enemy's DEF. For example, if he has 5 ATK and strikes a character three times compare a total of 15 ATK to that character's DEF. He can also split up his strikes if he's in combat with multiple enemies (such as if he's being team attacked).
 
 # [Spider-Man Noir](http://vs.tcgbrowser.com/images/cards/big/CV2-006.jpg)
 Set: Crossover Vol. 2  
-**Black and White**  
 **Black and White** prevents enemy Locations from producing the power symbol of your choice. An enemy player can still turn a Location face down or discard it from their hand to try to produce that symbol, but nothing will happen.
 
 # [Spider-UK](http://vs.tcgbrowser.com/images/cards/big/WEB-005.jpg) (MC)
 Set: Webheads  
-**Spider-Verse**  
 A British Spider-Man from another Universe, Spider-UK is a new Main Character with the **Spider-Verse** keyword. **Spider-Verse** means two things:
 
 First, if you choose a **Spider-Verse** character to be your starting Main Character you can include up to four other **Spider-Verse** Main Characters in your deck when you build it. (Four other Spider-Verse Main Characters premiered in the 2019 Vs. System 2PCG: Crossover Vol 2 Issue.)
@@ -1231,7 +1224,7 @@ Set: Crossover
 
 # [Star Hawk](http://vs.tcgbrowser.com/images/cards/big/GAL-012.jpg)
 Set: Galactic Guardians  
-**Composite Being**  At one point Starhawk was actually two beings merged together who took turns occupying the same space. The Starhawk card from way back in the Vs. System 2PCG: Legacy expansion represents Stakar Ogord, but this card brings Aleta Ogord to the fore. Because they share the same body, you cant have both Starhawks in play at the same time. However, Aleta's **Composite Being** grants **Bond with Starhawk** to any Stakar Starhawks in your hand.
+At one point Starhawk was actually two beings merged together who took turns occupying the same space. The Starhawk card from way back in the Vs. System 2PCG: Legacy expansion represents Stakar Ogord, but this card brings Aleta Ogord to the fore. Because they share the same body, you cant have both Starhawks in play at the same time. However, Aleta's **Composite Being** grants **Bond with Starhawk** to any Stakar Starhawks in your hand.
 
 # Star Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
@@ -1241,7 +1234,6 @@ Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance O
 
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC)
 Set: The MCU Battles  
-**Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 # \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
@@ -1250,7 +1242,6 @@ Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed.
 
 Note that although this card represents her joining the Guardians of the Galaxy she's still an X-Men at heart, so she has both team affiliations.
 
-**Intangibility**  
 Her **Intangibility** power lets her strike characters while they're in a player's hand. This is uncanny. A couple things about this: 
 
 * She can strike any number of 0 DEF characters (or characters with * DEF).  
@@ -1259,12 +1250,10 @@ Her **Intangibility** power lets her strike characters while they're in a player
 
 # [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg)
 Set: Resistance  
-**You Can’t Weather This Storm**  
 **You Can’t Weather This Storm** is a Keyword Power, not a Super Power.
 
 # [Sunspot](http://vs.tcgbrowser.com/images/cards/big/NEW-013.jpg)
 Set: New Mutants   
-**Solar Absorption**  
 Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
 
 # [Supergiant](http://vs.tcgbrowser.com/images/cards/big/BLK-013.jpg)
@@ -1273,15 +1262,12 @@ Both of Supergiant's powers trigger when she appears. You can resolve them in wh
 
 # [Superior Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-007.jpg) (MC)
 Set: Webheads  
-**A Superior Hero**  
 **A Superior Hero** represents Doc Ock's realization that Peter Parker's selflessness makes Peter the superior hero. When another character on your side is attacked, you may transform Superior Spider-Man into the Marvel Battles Level 2 Spider-Man with **Friendly Neighbor**, remove the defender from combat, and replace it with your new Spider-Man Main Character. Note: Spider-Man will keep all counters, Equipment, effects, and orientation (ready/exhausted) that Superior Spider-Man had.
 
 # [Super Skrull](http://vs.tcgbrowser.com/images/cards/big/FAN-035.jpg) (MC)
 Set: The Fantastic Battles  
-**First Faker**  
 Super-Skrull's **First Faker** Level Up power looks at every player's side (not just yours) and it counts Main and Supporting Characters. But if there are, for example, two Human Torches in play, he still only gets 1 XP for Human Torch.  
 
-**Cosmic Energy Power Receptors**
 The powers he gains from his **Cosmic Energy Power Receptors** have no duration, so he keeps them until he leaves play. They also look at every player's side (not just yours). Note that if he copies **Stroke of Genius** from Mister Fantastic, he will only be able to **Invent** if you already have an Invention pile for your deck.
 
 # [Supreme Leader](http://vs.tcgbrowser.com/images/cards/big/SVH-008.jpg)
@@ -1291,7 +1277,6 @@ Supreme Leader has a Super Power which prevents you from losing the game even af
 
 # [Sweet](http://vs.tcgbrowser.com/images/cards/big/TBB-047.jpg)
 Set: The Buffy Battles  
-**That's Entertainment**   
 **That’s Entertainment** moves each face-up character to their front row and has them perform a Musical Number. There is no official definition of what counts as a Musical Number. We recommend rocking the cards back and forth and having them sing a song. (Although if The Gentlemen are in play, no singing is allowed.)
 
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
@@ -1300,31 +1285,24 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 Set: Black Order  
-**Resurrected by Death Herself**  
 At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
-**Schemes and Dreams**  
 **Schemes and Dreams**  prevents you from drawing cards during your Draw Phase, including your normal draws plus effects like Genius. However, if Thanos is face down at the start of your turn, Schemes and Dreams will be turned off. This means you can draw cards during your Draw Phase, however you can't search for a card.
 
-**My Quest Begins**  
 **My Quest Begins** counts each card that enters your hand from your deck. So if you draw three cards, that would be 3 XP.
-
-**The Universe Will Now Be Set Right**  
+  
 **The Universe Will Now Be Set Right**  has a 50-50 chance of removing each character on each side from the game. If this removes a players last main character, that player ;oses the game. If this removes each player's last main character (including Thanos, himself) then the Thanos player wins the game. (This is similar to how if the final two main characters KO each other in combat, the player whose turn it was wins.)
 
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
 Set: The MCU Battles  
-**Journey of Self Discovery**  
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
 # \* [Thor](http://vs.tcgbrowser.com/images/cards/big/COS-011.jpg) \*
 Set: Cosmic Avengers  
 Jane Foster becomes Thor when the original Thor shirks his responsibility. She has \*s around her name, meaning she shares the "mantle" with Thor himself. This means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of uniqueness rules and they can't power each other up. When Thor is ready to start being "the" Thor again, Jane gracefully demurs. 
 
-**There Must Always Be a Thor**  
 To represent this, her **There Must Always Be a Thor** power can only search for a card named "Thor" (with no \*s ) or with **AKA Thor** (like Odinson). It can't get a copy of herself. 
 
-**A God Who Knows How Precious Life Is**  
 Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
 # [Titan](http://vs.tcgbrowser.com/images/cards/big/BLK-024.jpg)
@@ -1333,7 +1311,6 @@ See [Might Makes Right](#wiki_might_makes_right)
 
 # [Titania](http://vs.tcgbrowser.com/images/cards/big/aff-037.jpg)
 Set: A-Force  
-**Durable**  
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recovers and doesn’t get wounded. 
 
 However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though she would recover immediately, getting stunned would still remove her from combat.
@@ -1464,11 +1441,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIzMTUxODcsLTEyODE5NDQwMTksND
-g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
-MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
-ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
-MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1OD
-A5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5
-LC01ODY4NjIzMjZdfQ==
+eyJoaXN0b3J5IjpbLTUzNzI2NTIyNSwtMTI4MTk0NDAxOSw0OD
+cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
+MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
+wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
+MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
+k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
+LTU4Njg2MjMyNl19
 -->
