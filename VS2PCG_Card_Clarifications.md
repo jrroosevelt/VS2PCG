@@ -1178,29 +1178,13 @@ Set: The Utopia Battles
 **Biosentinel**  
 **Biosentinel** is a keyword power that has no built-in effect. Instead it is referenced by Trask’s other powers.
 
-# Sinister Six 
-Set: Sinister Syndicate  
-If you’re playing with the Sinister Six, you actually have six main characters instead of one. Here’s how it works: When you build a Sinister Six deck, choose six main characters with **Sinister Six** to make up your Sinister Six Pile.
-
-Before the game begins, when each player reveals their main character, you’ll reveal each main character in your Sinister Six Pile. Then when you would put your main character on your side during setup, choose any character in your Sinister Six Pile and put it on your side. 
-
-During the game, when your Sinister Six main character gets KO’d remove it from the game but you don’t lose the game – unless your Sinister Six Pile is empty. At the start of your next turn, choose one of the remaining characters in your Sinister Six Pile and put it onto your side. 
-
-The **Sinister Six** keyword can’t be turned off.
-
-Keep in mind when choosing your next Sinister Six main character, you can choose one with the same name as a supporting character on your side – but if you do, that supporting character will be KO’d.
-
-# Soldiers
-Set: S.H.I.E.L.D. vs. Hydra  
-Several (Hydra) characters have the new **Soldier** Keyword Power, which allows them to work together to take out an enemy. When a Soldier appears, put -1/-1 counters equal to the number of Soldiers on your side onto an unprotected enemy Supporting Character. The more Soldiers you have, the better they’ll be at hurting an enemy.
-
-# SP//dr
+# [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 Set: Crossover Vol. 2
 Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as * Spider-Man *' s **Spider-People**. It's just how they spell in the future!
 
 SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Regeneration** heals SP//dr's last wound, you won't get to draw from **Genius** that turn.
 
-# Specialized Web Cartridges
+# [Specialized Web Cartridges](http://vs.tcgbrowser.com/images/cards/big/WEB-024.jpg)
 Set: Webheads  
 **Spider-Gear**  
 **Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. Note: The attack power will trigger whether the equipped character is making a melee or ranged attack.
@@ -1475,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMT
-M1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIx
-NDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC
-0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0
-ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOT
-c4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEs
-MjAzOTYxMjc1Ml19
+eyJoaXN0b3J5IjpbMTQ5MjI3NzQ4NiwtMzI1MDkzMTMxLC0xNj
+UwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUz
+OTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLT
+E2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4
+MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2Mj
+MyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwt
+MTY0MzYyNjc4MV19
 -->
