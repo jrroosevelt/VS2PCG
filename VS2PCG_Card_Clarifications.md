@@ -1408,12 +1408,12 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 Set: The Predator Battles  
 Currently, there are only 3 (Predator) One of a Kind Plot Twists that it can copy: “Any Time.”, “Over Here.” and “Turn Around.”
 
-# Vulture
+# [Vulture](http://vs.tcgbrowser.com/images/cards/big/SYN-009.jpg)
 Set: Sinister Syndicate  
 **From Above**  
 While Vulture is attacking a character without (Flight) that is also in its back row, his **From Above** power will give him +2/+2. Ka kaw!
 
-# Wakanda
+# [Wakanda](http://vs.tcgbrowser.com/images/cards/big/COS-022.jpg)
 Set: Cosmic Avengers  
 See [Global Information Network](#wiki_global_information_network)
 
@@ -1460,11 +1460,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTEwNjM1NiwtMTM4NTQyNzQ4NywtMz
-I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
-MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
-E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
-NzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3Mz
-Y2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwt
-MTA3MDAwMjM4MF19
+eyJoaXN0b3J5IjpbNjg0MTA0NjEwLC0xMzg1NDI3NDg3LC0zMj
+UwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUz
+OTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMT
+Q2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3
+NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNj
+Y2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0x
+MDcwMDAyMzgwXX0=
 -->
