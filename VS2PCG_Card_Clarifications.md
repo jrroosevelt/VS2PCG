@@ -552,8 +552,9 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
     * If this leads to more than one character with teh same name on your side, KO all except one (your choice).
         
 
-# Gadget
+# [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
 Set: The Fantastic Battles  
+This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores (Flight), (Range), and team restrictions for an attack.
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
@@ -1574,7 +1575,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTc2OTI0OSwtMTI4MTk0NDAxOSw0OD
+eyJoaXN0b3J5IjpbLTI1Njc5NTYxNywtMTI4MTk0NDAxOSw0OD
 cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
 MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
 wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
