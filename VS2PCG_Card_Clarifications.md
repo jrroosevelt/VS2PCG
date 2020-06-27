@@ -677,7 +677,7 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 Set: Utopia Battles   
 Several characters have powers that impersonate other characters. These powers turn off immediately if the character they’re impersonating ever shows up. It doesn’t matter if the character that’s being impersonated is face up or face down or what side they’re on. Either way they count as being on “a side” and will turn off the Impersonation power.
 
-# Impossible Man
+# [Impossible Man](http://vs.tcgbrowser.com/images/cards/big/FAN-049.jpg)
 Set: The Fantastic Battles  
 **Omnifarious**  
 Impossible Man is three cards in one. He can be played as an Equipment, a Plot Twist, or a Supporting Character. Note that if he is an Equipment, his Equipment power has no name, so it can't be chosen by any effects that choose power names. 
@@ -789,6 +789,11 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 The MCU Battles  
 **I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
+
+# Mad Thinker
+Set: The Fantastic Battles  
+**Computer Mind**  
+The Mad Thinker's **Computer M
 
 # [Magik](http://vs.tcgbrowser.com/images/cards/big/NEW-014.jpg) 
 Set: New Mutants  
@@ -1501,7 +1506,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDIzNzEzNSw0ODcxNzYxOTQsMTgwND
+eyJoaXN0b3J5IjpbLTc1NjMwNzc3MSw0ODcxNzYxOTQsMTgwND
 k5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUz
 ODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LD
 E2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4
