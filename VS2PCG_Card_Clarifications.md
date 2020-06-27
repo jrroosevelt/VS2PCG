@@ -1380,13 +1380,14 @@ Set: The Predator Battles
 **It Wants Us to Run**   
 Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): (Humanity/"Earth"), (Alien/"Space"), (Energy/"Blue"), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
 
-# Trance 
+# [Trance](http://vs.tcgbrowser.com/images/cards/big/RES-009.jpg) 
 Set: Resistance  
 **Astral Form Overload**  
 When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**. **Stealth** means she can melee attack back row characters, even while they’re protected. **Fearless** means that she strikes Main Characters with double her ATK.
 
-# Ultron Facility (MC)
+# [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC)
 Set: The MCU Battles  
+**Ultron Facility**  
 Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
 
 During the game you can use any Ultron’s **There’s Only One Path To Peace** power to put the lowest level Ultron from your Ultron Facility onto your side. When one of your Ultron main 27 characters gets KO’d it goes back to your Ultron Facility where it will be available to be brought back again.
@@ -1459,11 +1460,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMzNzUwNTMsLTEzODU0Mjc0ODcsLT
-MyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0
-NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOS
-wxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkz
-MDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1Nz
-M2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAs
-LTEwNzAwMDIzODBdfQ==
+eyJoaXN0b3J5IjpbMTM4NzQ3NDQ0MCwtMTM4NTQyNzQ4NywtMz
+I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
+MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
+E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
+NzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3Mz
+Y2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwt
+MTA3MDAwMjM4MF19
 -->
