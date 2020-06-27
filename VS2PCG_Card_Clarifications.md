@@ -971,7 +971,6 @@ Set: The Buffy Battles
 Set: Crossover  
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
 
-**Level 7 Clearance / I'm a Guy With a Plan**  
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
 
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/mcu2-013.jpg) (Photo)
@@ -981,7 +980,6 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 
 # [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
 Set: The Utopia Battles  
-**Souldagger** 
 **Souldagger** causes a character to lose each modifier it gained during combat. A modifier is an effect that modifies the game. There are two types of modifiers – 
 
 A one-shot modifier does something immediately and then is done. Example: “Put two +1/+1 counters on a character.”
@@ -990,29 +988,25 @@ A one-shot modifier does something immediately and then is done. Example: “Put
  
 When Pixie uses **Souldagger**, it will cause an enemy character to lose any continuous modifiers that are applying to it. (It won’t stop any one-shot modifiers because it’s impossible for there to be any one-shot modifiers happening while you use **Souldagger**.) 
 
-**Half-Fairy**  
 **Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an (Energy/"Blue"). This includes when a character uses an (Engergy/"Blue") Super Power, or choosing to spend an (Energy/"Blue") when you play the Plot Twist **Sacred Ground**.
 
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
 Set: The New Defenders  
 Some characters are known by more than one moniker - like Power Man, who says **AKA Luke Cage**. He counts as having both names, which means you can use a Luke Cage supporting character to Power Up Power Man, and vice versa. It also means they both count as the same person for the purposes of the Uniqueness rules.
 
-**Crash the Party**  
-Power Man loves a good party, especially if he wasn’t invited. His Crash the Party power counts each enemy power, even if there are multiple instances of the same power. But remember face-down characters lose their powers so he won’t count their powers.
+Power Man loves a good party, especially if he wasn’t invited. His **Crash the Party** power counts each enemy power, even if there are multiple instances of the same power. But remember face-down characters lose their powers so he won’t count their powers.
 
 # [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC)
 Set: New Mutants  
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
 
-**Graduation**   
 Professor X’s **Graduation** power lets you turn an (X-Men) supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
 
 This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
 
 # [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
 Set: Brotherhood of Mutants  
-**Fire Manipulation**  
-Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
+Pyro’s **Fire Manipulation** power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 Set: Black Order  
@@ -1034,12 +1028,10 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
 Set:  The Herald  
-**Receptionist**  
 **Receptionist** prevents Roberta from leaving the front row. This means she can't be moved to the back row during your Formation Step, and she ignores any card effects that would move her out of the front row. However, an effect could move her from one player's front row to another player's front row.
 
 # [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
 Set: The MCU Battles  
-**I’m Gonna Need a Few Things**  
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
 
 # Rogue
@@ -1067,7 +1059,6 @@ This Plot Twist lets a character pay any power symbol. You can generate a power 
 
 # [Sauron](http://vs.tcgbrowser.com/images/cards/big/BOM-016.jpg)
 Set: Brotherhood of Mutants  
-**Terrifying Delusions**  
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
 # Scarlet Spider
@@ -1087,22 +1078,18 @@ Once he’s Level 2, if he would be wounded, there’s a chance it was just a cl
 
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-014.jpg) (SC)
 Set: Spider-Friends  
-**Paralytic Darts**  
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
 
 # [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
 Set: The Defenders  
-**Hex**  
 Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up. They can still gain XP up to their Level Up number, but not beyond. And once Scarlet Witch gets stunned or leaves play, if they have enough XP, they’ll immediately Level Up.
 
 # [Scourge](http://vs.tcgbrowser.com/images/cards/big/HAM-014.jpg)
 Set: H.A.M.M.E.R.  
-**Betsy’s Incendiary Missiles**  
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
 
 # [Secret Hideout](http://vs.tcgbrowser.com/images/cards/big/SFO-016.jpg)
 Set: Spidey-Foes  
-**Family is a Source of Weakness**  
 **Family is a Source of Weakness** lets your (Sinister Syndicate) Main Character take a **Hostage**. If you have any Secret Hideouts in your deck, you must bring a Hostage pile, which includes one ore more *different* (Spider-Friends) Supporting Characters with the **Friends and Family** keyword.
 
 When you play Secret Hideout, one of your Main Characters takes a **Hostage**. Choose a character from your Hostage pile and put it beneath the Secret Hideout as a **Hostage**. Your Main Character gets the Keyword Power granted by that Hostage *while that Main Character is in your front row*.
@@ -1117,7 +1104,6 @@ Note: A **Hostage** is never actually in play. It's either in a Hostage pile, be
 
 # [Sentry](http://vs.tcgbrowser.com/images/cards/big/TUB-053.jpg)
 Set: The Utopia Battles  
-**Reluctant God**  
 **Reluctant God** prevents Sentry from striking, but he can still attack.
 
 # [Serpent Crown](http://vs.tcgbrowser.com/images/cards/big/SVH-056.jpg)
@@ -1151,18 +1137,14 @@ You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t h
 
 # [Silver Surfer](http://vs.tcgbrowser.com/images/cards/big/HER-005.jpg) (MC)
 Set:  The Herald  
-**Take a Stand**  
 **Take a Stand** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a (Humanity/"Earth") for the Silver Surfer.
 
-**Protect the Earth**  
 **Protect the Earth** will return the highest cost Supporting Character to its owner's hand, whether that character is on your side or on another player's side.
 
 # [Simon Trask](http://vs.tcgbrowser.com/images/cards/big/TUB-037.jpg) (MC) 
 Set: The Utopia Battles  
-**Proposition X**  
 **Proposition X** works like this. When an enemy character appears, check each of its team affiliations against each team affiliation on characters on your side. For each affiliation the enemy character has that is NOT shared, Trask gains 1 XP. 
-
-**Biosentinel**  
+ 
 **Biosentinel** is a keyword power that has no built-in effect. Instead it is referenced by Trask’s other powers.
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
@@ -1173,7 +1155,6 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 
 # [Specialized Web Cartridges](http://vs.tcgbrowser.com/images/cards/big/WEB-024.jpg)
 Set: Webheads  
-**Spider-Gear**  
 **Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. Note: The attack power will trigger whether the equipped character is making a melee or ranged attack.
 
 # [Spider-Gwen](http://vs.tcgbrowser.com/images/cards/big/LEG-061.jpg)
@@ -1483,7 +1464,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODczMzYxMDYsLTEyODE5NDQwMTksND
+eyJoaXN0b3J5IjpbLTE1NzIzMTUxODcsLTEyODE5NDQwMTksND
 g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
 MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
 ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
