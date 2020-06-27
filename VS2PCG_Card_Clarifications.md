@@ -385,7 +385,7 @@ Set: The Fantastic Battles
 **Time Platform**  
 Doctor Doom's **Time Platform**  does something very odd. It shuffles a card into a deck face up. We suggest you close your eyes when shuffling a deck with a face-up card in it. In a tournament, you can always ask a judge to shuffle the deck if necessary. Once the deck is shuffled, where the card is in the deck is public information, so we also suggest you turn it 90 degrees so it's sticking out of your deck.
 
-# Doctor Faustus
+# [Doctor Faustus](http://vs.tcgbrowser.com/images/cards/big/SVH-011.jpg)
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hypnotic Suggestion**  
 Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
@@ -442,7 +442,7 @@ Set: The Utopia Battles
 
 Emma’s power can be used any number of times each turn. So if a character ends up being allowed to strike 3, 4, or more times, it works as above. Any number of strikes can be combined against an enemy or split amongst multiple enemies.
 
-## Emma Frost (SC) (HAMMER)
+## Emma Frost (SC) (H.A.M.M.E.R.)
 Set: H.A.M.M.E.R.  
 **Fluid Forms and Fidelity**  
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of her counters, and any effects on her.
@@ -948,7 +948,7 @@ Set: Galactic Guardians
 Set: The Utopia Battles  
 Norman’s Level 2 Keyword Powers also affect himself. 
 
-Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (HAMMER) team affiliation
+Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (H.A.M.M.E.R.) team affiliation
 
 # Nova Corps
 Set: Galactic Guardians  
@@ -964,7 +964,7 @@ In this Arc, we are playing around with how players can use locations besides su
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 # Omega Machine Components 
-These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (Hammer) symbol, you must have a face-up character with in order to play them.
+These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
 
 See also: [Machine](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_machine)
 
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTE1NTA4NiwtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbMTEwNjM0NDk1MSwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
