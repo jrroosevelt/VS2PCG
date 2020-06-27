@@ -1133,15 +1133,15 @@ Set: The Utopia Battles
 **Reluctant God**  
 **Reluctant God** prevents Sentry from striking, but he can still attack.
 
-# Serpent Crown
+# [Serpent Crown](http://vs.tcgbrowser.com/images/cards/big/SVH-056.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-# Shadow King
+# [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
 Set: Brotherhood of Mutants  
 **Anchor Host**  
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
 
-# She-Hulk (MC)
+# [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
 Set: A-Force  
 **Rules Lawyer**  
 She-Hulk’s main character introduces a new kind of super power called a **Reaction**. It reads: 
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk3OTk3NzgsLTE2NTA0NTM4MTksLT
-EzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgy
-MTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOS
-wtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0
-NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MT
-k3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2Nzgx
-LDIwMzk2MTI3NTJdfQ==
+eyJoaXN0b3J5IjpbLTcyMzgzNDIzMiwtMTY1MDQ1MzgxOSwtMT
+M1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIx
+NDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC
+0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0
+ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOT
+c4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEs
+MjAzOTYxMjc1Ml19
 -->
