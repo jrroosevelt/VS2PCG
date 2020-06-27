@@ -548,7 +548,8 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
     * End of turn
 * If there is more than one **Pocket Universe** in the game, each player will take their normal turn first, then a **Pocket Universe** turn for each **Pocket Universe** they have characters in, starting with the first **Pocket Universe** created, then the second, etc.
     * Cards in one **Pocket Universe** cannot attack or otherwise affect cards in another **Pocket Universe**.
-* When Frank
+* When Franklin leaves play, the characters from each **Pocket Universe** he created pop back into the original universe part of the game, in the same rows and with the same orientation they were in their **Pocket Universe**.
+    * If this leads to more than one character with teh same name on your side, KO all except one (your choice).
         
 
 # Gambit
@@ -1495,7 +1496,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMTQxNTA5LDE4MDQ5OTg1MzcsLTEzOD
+eyJoaXN0b3J5IjpbNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzOD
 U0Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5
 MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LD
 g1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3
