@@ -169,15 +169,15 @@ Blob’s Stuck in His Stomach power represents a melee attacker getting temporar
 **Bounced Off His Belly**  
 And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
-# Book of Vishanti
+# [Book of the Vishanti](http://vs.tcgbrowser.com/images/cards/big/SVH-058.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-# Boomerang
+# [Boomerang](http://vs.tcgbrowser.com/images/cards/big/SFO-008.jpg)
 Set: Spidey-Foes  
 **Specialized Boomerangs**  
 Boomerang can "throw" a different Boomerang each turn at one front row and one back row enemy. You can choose a front row character on one side and a back row character on a different side. If there are no enemy front row characters you can just choose an enemy back row character (and vice versa).
 
-# Break the Fourth Wall
+# [Break the Fourth Wall](http://vs.tcgbrowser.com/images/cards/big/MFM-019.jpg)
 Set: Deadpool & Friends  
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
 
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODcxNTAxLDkyMTQ1MzkyOSwxMDMxNz
-UzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzks
-LTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNz
-A4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2
-MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MC
-wtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1
-MzAwMjU2XX0=
+eyJoaXN0b3J5IjpbLTU5NDI4NTcxOCw5MjE0NTM5MjksMTAzMT
+c1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5
+LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMT
+cwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4
+NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzOD
+AsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYw
+NTMwMDI1Nl19
 -->
