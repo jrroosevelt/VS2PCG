@@ -1271,12 +1271,12 @@ Set: The MCU Battles
 **Dance Off, Bro**  
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
-## Star Lord (SC)
+## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC)
 Set: The MCU Battles  
 **Half Celestial**  
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
-# \* Star Lord \*
+# \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
 Set: Galactic Guardians  
 Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed. So she has *s around her name, meaning she shares the "mantle" with Star-Lord, himself. The sharing of the mantle means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of the uniqueness rules and they can't power each other up.
 
@@ -1459,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU0Mjc0ODcsLTMyNTA5MzEzMSwtMT
-Y1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1
-Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC
-0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcw
-ODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4Nj
-IzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAs
-LTE2NDM2MjY3ODFdfQ==
+eyJoaXN0b3J5IjpbLTUyNzMzNTc1LC0xMzg1NDI3NDg3LC0zMj
+UwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUz
+OTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMT
+Q2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3
+NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNj
+Y2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0x
+MDcwMDAyMzgwXX0=
 -->
