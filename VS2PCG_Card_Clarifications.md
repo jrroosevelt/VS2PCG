@@ -202,7 +202,7 @@ Set: The Buffy Battles
 **Save the World. A Lot.**  
 Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character. If she does and it’s the last enemy Main Character in play, you win immediately! But if something goes wrong or there are other enemy Main Characters left, Buffy will get KO’d at the end of the turn.
 
-# Bullseye (MC)
+# [Bullseye](http://vs.tcgbrowser.com/images/cards/big/def-027.jpg) (MC)
 Set: H.A.M.M.E.R.  
 **Perfect Aim**  
 When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
@@ -210,12 +210,12 @@ When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to th
 **Everything’s a Weapon**  
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
-# Cable (MC)
+# [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
 Set: New Mutants  
 **Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
-# \* Captain Marvel \*
+# \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
 Set: Cosmic Avengers  
 **Cosmic Awareness**
 His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMz
-E3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIz
-OSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLT
-E3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2
-ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMz
-gwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2
-MDUzMDAyNTZdfQ==
+eyJoaXN0b3J5IjpbMTYyODAzMjc5OCwtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
