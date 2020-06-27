@@ -691,7 +691,7 @@ Set: The Predator Battles
 **Sniper Nest**   
 Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an (Energy/"Blue"), including their “wild” Location, to turn off this effect for a turn.
 
-# Jack Flag
+# [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg)
 Set: Galactic Guardians  
 **Follower**  
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
@@ -699,10 +699,7 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 # Jessica Jones
 Set: Legacy  
 **Psionic Protection**  
-This power refers to (Intellect/Light bulb) super powers.
-This counts for any super power with the appropriate
-symbol in its cost (even if it also has other symbols in
-its cost).
+This power refers to (Intellect/Light bulb) super powers. This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
 
 
 # Juggernaut (MC)
@@ -1480,11 +1477,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDAxODA3MCwtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbLTEzNDI1ODE1NDEsLTEzNTg3OTI1NDAsOT
+IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
+MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
+05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
+NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
+EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
+MzI2MTQ0ODZdfQ==
 -->
