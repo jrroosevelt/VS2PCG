@@ -75,17 +75,17 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 Set: The Buffy Battles
 Her **Newly Human and Strangely Literal** power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
 
-# Archangel
+# [Archangel](http://vs.tcgbrowser.com/images/cards/big/RES-002.jpg)
 Set: Resistance  
 **Violent**  
 **Violent** means that he strikes Supporting Characters with double his ATK.
 
-# Ardina
+# [Ardina](http://vs.tcgbrowser.com/images/cards/big/HER-008.jpg)
 Set: The Herald  
 **Clone of the Silver Surfer**  
 **Clone of the Silver Surfer** refers to the "card title" Silver Surfer. This means the name at the very top of the card must be Silver Surfer. **AKA** s don't count.
 
-# Arnim Zola (MC)
+# [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
 Set: Crossover  
 **ESP Box**  
 ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ2NTE1MzcsMTAzMTc1Mzk0NCwxNj
-E2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkz
-NDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4Mi
-wxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIy
-NTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2NDM2Mj
-Y3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNTMwMDI1Niwx
-NTEyNjEwODQ0XX0=
+eyJoaXN0b3J5IjpbOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNj
+gyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQz
+OSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMT
+A0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3
+MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2Nz
+gxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUx
+MjYxMDg0NF19
 -->
