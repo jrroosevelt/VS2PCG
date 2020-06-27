@@ -107,6 +107,11 @@ Set: The Utopia Battles
 * Alien (Space)
 * Humanity (Earth)
 
+# [Awesome Android](http://vs.tcgbrowser.com/images/cards/big/FAN-042.jpg)
+Set: The Fantastic Battles  
+**Mimicry**  
+If there are no other face-up characters in play, Awesome Android's ATK/DEF become 0/0 (and he gets stunned).
+
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
 Set: Legacy  
 **Hypnotize**  
@@ -1456,7 +1461,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDI5MzU5MywtMTM4NTQyNzQ4NywtMz
+eyJoaXN0b3J5IjpbMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMz
 I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
 MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
 E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
