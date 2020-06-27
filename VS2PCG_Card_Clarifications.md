@@ -16,12 +16,10 @@ For additional information, see also:
 
 # [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
 Set: MCU Battles  
-**Give Me a Real Fight!**  
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 
 # [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
 Set: Galactic Guardians  
-**Prepare for Rebirth**  
 At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become [Level 2](http://vs.tcgbrowser.com/images/cards/big/GAL-002.jpg) while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
@@ -44,7 +42,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
 Set: The Fantastic Battles  
 **Neo-Realistic Sculptor**  
-Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF becomeAncient Sorceress**   10/10.
+Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF become  10/10.
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 Set: The Utopia Battles  
@@ -1575,11 +1573,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgxNDU5ODYsLTEyODE5NDQwMTksND
-g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
-MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
-ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
-MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1OD
-A5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5
-LC01ODY4NjIzMjZdfQ==
+eyJoaXN0b3J5IjpbNTkzNDU4MzA2LC0xMjgxOTQ0MDE5LDQ4Nz
+E3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMx
+MzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LD
+EwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODEx
+MDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOT
+csLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwt
+NTg2ODYyMzI2XX0=
 -->
