@@ -1189,20 +1189,20 @@ Set: Webheads
 **Spider-Gear**  
 **Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. Note: The attack power will trigger whether the equipped character is making a melee or ranged attack.
 
-# Spider-Gwen
+# [Spider-Gwen](http://vs.tcgbrowser.com/images/cards/big/LEG-061.jpg)
 Set: Legacy  
 **Dimensional Wristwatch**  
 Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
 
 # Spider-Man
-## Spider-Man (MC)
+## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC)
 Set: Spider-Friends  
 **I Can and Will Fight You**
 This issue introduces the powerful Alien Symbiote version of Spider-Man. But as they say, with great alien power comes great alien… danger. While the symbiote does make him stronger, he must remove it or it will quickly be game over. In the comics, when Spider-Man fights off the symbiote, it splits off from him as a separate entity. In the game, when Spider-Man sheds the symbiote, it splits off from him as a separate card. When this happens, Spider-Man will become Level 2 and now wears a cloth version of his black costume and the Alien Symbiote will look for a new host. (Note: Spider-Man Level 2 has one less Health – this represents losing the strength of the symbiote.) 
 
 When a character with the Alien Symbiote is turned face down but isn’t KO’d, just keep the equipment token face up and ready, just like when it’s equipped to a face-up character (it doesn’t exhaust or turn face down). And remember, the symbiote is a jealous entity – it can’t be destroyed or removed from its host (at least until the host leaves play).
 
-## Spider-Man (SC - Spider-Friends)
+## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-019.jpg) (SC - Spider-Friends)
 Set: Spider-Friends  
 **Spider-Powers**  
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
@@ -1459,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjI3NzQ4NiwtMzI1MDkzMTMxLC0xNj
-UwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUz
-OTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLT
-E2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4
-MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2Mj
-MyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwt
-MTY0MzYyNjc4MV19
+eyJoaXN0b3J5IjpbLTUwNDM4NzI0LC0zMjUwOTMxMzEsLTE2NT
+A0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5
+NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMT
+Y0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgx
+ODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMz
+I2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0x
+NjQzNjI2NzgxXX0=
 -->
