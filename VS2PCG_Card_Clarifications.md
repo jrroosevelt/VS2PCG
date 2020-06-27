@@ -648,7 +648,7 @@ Set: Crossover Vol. 2
 
 The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to have so he ended up between two whole numbers. In most cases, his stats work like this. 1 ½ cost means you must pay 1 ½ recruit points to recruit him. So you will have ½ a recruit point left over. 4 ½ ATK means his strikes will stun a 4 DEF character but not a 5 DEF character. 3 ½ DEF means if he is struck with 3 ATK, he won't get stunned, but if he gets struck with 4 ATK he will get stunned. 2 ½ (Health) means 2 wounds won't KO him, but 3 wounds will.
 
-# The Infinity Gauntlet
+# [The Infinity Gauntlet](http://vs.tcgbrowser.com/images/cards/big/BLK-017.jpg)
 Set: Black Order  
 While equipped, the Infinity Gauntlet allows you to turn any number of face-down Infinity Gem equipment in your resource row face up to show that you've "set" them into the Gauntlet. If a card with Infinity gets put into a KO pile from anywhere, you may shuffle it into its owner's deck. 
 
@@ -672,12 +672,12 @@ Set: Black Order
 **Owned By**  
 Each of the six Infinity Gems has an "Owned by..." power which lets you play it for free on the appropriate character. For example, The Mind Gem can be played for free on The Grandmaster. You may notice that some of these powers refer to characters that aren't yet part of the game. Weird, right?
 
-# Invisible Boy
+# [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
 Set: The Herald  
 **Remove Cosmic Energy**  
 **Remove Cosmic Energy** has no duration. Once you've named a super power (including one that is not currently in play if you like) enemy Supporting Characters can't use that power for the rest of the game.
 
-# Ironheart
+# [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
 Set: Crossover  
 **We’re All Weirdos Here**  
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjI0OTY4LC0xMzU4NzkyNTQwLDkyMT
+eyJoaXN0b3J5IjpbNDA5MDE5MTY2LC0xMzU4NzkyNTQwLDkyMT
 Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
 LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
 MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
