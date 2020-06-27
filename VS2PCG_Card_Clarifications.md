@@ -913,14 +913,14 @@ Her **Revenge!** power works the say way, but for Thanos, of course.
 **Tomorrow is Mine to Sculpt**  
 When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it for the rest of the game. (Although cards like Cosmo or The Nullifier can still turn it off.)
 
-## Nebula (SC - Illustrated)
+## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-012.jpg) (SC - Illustrated)
 Set: Black Order  
 **A New Order Exists Within the Universe**  
 **A New Order Exists Within the Universe** checks to see if an enemy character shares at least one team affiliation with a main character on its side. If the main character has no team affiliation, then no supporting characters on its side can share a team affiliation with it. 
 
 **Note:** This is not a super power even though it requires Nebula to pay a (Might/"Green").
 
-## Nebula (SC - Photo)
+## [Nebula](http://vs.tcgbrowser.com/images/cards/big/mcu1-050.jpg) (SC - Photo)
 Set: The MCU Battles  
 **Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
@@ -929,12 +929,12 @@ Nebula’s **Rivalry** power requires you name a character. You can name any cha
 Set: New Mutants  
 The New Mutants are a part of the (X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
 
-# Nick Fury (MC)
+# [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC)
 Set: S.H.I.E.L.D. vs. Hydra  
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
 
-# Nikki
+# [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
 Set: Galactic Guardians  
 **Mercurial Personality**  
 **Mercurial Personality** allows you to **Burn** an enemy supporting character. This means "At the end of each of your turns, stun that character." (**Note:** "You" refers to the player who used Nikki's effect.) A Burn effect has no set duration - it will last until the character leaves play.
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MzY1NzA5LC0xMzU4NzkyNTQwLDkyMT
-Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
-LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
-MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
-MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
-wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
-NjE0NDg2XX0=
+eyJoaXN0b3J5IjpbLTM5NzgzOTU4OCwtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
