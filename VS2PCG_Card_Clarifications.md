@@ -1417,7 +1417,7 @@ While Vulture is attacking a character without (Flight) that is also in its back
 Set: Cosmic Avengers  
 See [Global Information Network](#wiki_global_information_network)
 
-# Weapon Omega (MC) 
+# [Weapon Omega](http://vs.tcgbrowser.com/images/cards/big/TUB-035.jpg) (MC) 
 Set: The Utopia Battles  
 **Mutant Energy Absorption**  
 **Mutant Energy Absorption**’s effect has no duration. So a character that loses and can’t gain powers this way, will remain like that until it leaves play. 
@@ -1425,7 +1425,7 @@ Set: The Utopia Battles
 **Addicted to Mutant Energy**   
 **Addicted to Mutant Energy** affects a character as it appears, which means it won’t even trigger any of its powers that occur when it appears. It also has no duration, so a character affected by it will remain affected until that character leaves play.
 
-# Willow (SC) 
+# [Willow](http://vs.tcgbrowser.com/images/cards/big/TBB-023.jpg) (SC) 
 Set: The Buffy Battles  
 **Spell Research**  
 Willow’s **Spell Research** power puts Plot Twists into a special pile removed from the game called your Spellbook. Your Spellbook can’t have more than one copy of the same Plot Twist. 
@@ -1435,7 +1435,7 @@ Her Spellcasting power lets you play Plot Twists from your Spellbook, putting th
 
 If Willow gets KO’d or otherwise is no longer on your side, you won’t be able to access the Plot Twists in your Spellbook. But if you play another copy of Willow, then you can use your Spellbook again.
 
-# The Wizard (MC)
+# [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
 Set: The Fantastic Battles  
 **Wizard Armor**  
 Here are the four Plot Twists he has at his disposal:
@@ -1452,7 +1452,7 @@ Here are the four Plot Twists he has at his disposal:
 **Best Offense is a Good Defense**  
 (Any Combat): Choose an attacker to get +0/+5 this combat.
 
-# X-23 (MC)
+# [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 
@@ -1460,11 +1460,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MTA0NjEwLC0xMzg1NDI3NDg3LC0zMj
-UwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUz
-OTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMT
-Q2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3
-NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNj
-Y2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0x
-MDcwMDAyMzgwXX0=
+eyJoaXN0b3J5IjpbLTE2MjM3ODc5NDksLTEzODU0Mjc0ODcsLT
+MyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0
+NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOS
+wxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkz
+MDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1Nz
+M2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAs
+LTEwNzAwMDIzODBdfQ==
 -->
