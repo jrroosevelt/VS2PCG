@@ -527,9 +527,10 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
     * When the characters are moved to the **Pocket Universe** they stay in the same rows they were in in the original universe. They keep all their counters and their orientation (ready/exhausted; face up/face down).  
     * The **Pocket Universe** is still in the same overall game as the original universe. So cards don't "appear" or "leave play" when they move from the original universe to the **Pocket Universe** or vice versa.  
     * Cards in the **Pocket Universe** cannot attack or otherwise affect cards in the original universe and vice versa.  
-    * The Uniqueness rules don't apply across the **Pocket Universe** and original universe. (For example, you could have a Human Torch in both Universes.)
-    * Note: Your hand, deck, KO pile, and out-of-game piles can be accessed in both the original universe and the **Pocket Universe** (more on this below).
-* Ea
+    * The Uniqueness rules don't apply across the **Pocket Universe** and original universe. (For example, you could have a Human Torch in both Universes.)  
+    * Note: Your hand, deck, KO pile, and out-of-game piles can be accessed in both the original universe and the **Pocket Universe** (more on this below).  
+* Each player who has characters in a **Pocket Universe** will take a separate turn in that **Pocket Universe** after their normal turn (before the next player's normal turn, and including the turn Franklin creates the **Pocket Universe**).  
+    * 
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
@@ -1475,7 +1476,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDUzNjEwOCwxODA0OTk4NTM3LC0xMz
+eyJoaXN0b3J5IjpbMTAxODU1MjYzMSwxODA0OTk4NTM3LC0xMz
 g1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3
 OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Ni
 w4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2
