@@ -846,6 +846,12 @@ Set: Crossover
 **Usurp the Throne**  
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
+# Mephisto
+Set: The Fantastic Battles  
+**Deal with the Devil**  
+At your own risk, you may offer a **Deal with the Devil**. Here's how it works: 
+* 
+
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
 Set: Black Order  
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nebula (who has a keyword power which requires spending a (Might/"Green)), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations.
@@ -1506,11 +1512,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE5NDQwMTksNDg3MTc2MTk0LDE4MD
-Q5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1
-MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NC
-wxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQw
-ODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4OD
-k4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYs
-NTIyNTcxOTc4XX0=
+eyJoaXN0b3J5IjpbNjA1ODc1MjU5LC0xMjgxOTQ0MDE5LDQ4Nz
+E3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMx
+MzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LD
+EwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODEx
+MDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOT
+csLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwt
+NTg2ODYyMzI2XX0=
 -->
