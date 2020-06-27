@@ -764,19 +764,16 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
 Set: Webheads  
-**The Gathering of Five**  
 If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five Gifts to each of them. If you don't have at least five characters on your side with different names (or you don't have a Main Character on your side), Mattie can't use **The Gathering of Five**.
 
 The Gift of Death will instantly KO its assigned character. The other four grant new abilities to their assigned characters (some good, some bad). Gift cards are not actually in play. Their cards are just play aids to remind everyone what new abilities each character has gained. If a character leaves play its Gift will no longer affect them (even if that character reenters play). 
 
 # [Maximus](http://vs.tcgbrowser.com/images/cards/big/CV1-018.jpg)
-Set: Crossover  
-**Usurp the Throne**  
+Set: Crossover   
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
 Set: The Fantastic Battles  
-**Deal with the Devil**  
 At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
 
 * The **Deal** must involve at least two elements.  
@@ -811,7 +808,6 @@ See [Nova Corps](#wiki_nova_corps)
 
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
 Set: H.A.M.M.E.R.  
-**Absorption History**  
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
 
 During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
@@ -822,7 +818,6 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 Set: New Mutants   
-**Create Illusion**  
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
 
 # [Mister Sinister](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
@@ -832,13 +827,11 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 
 # [Mister X](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
 Set: H.A.M.M.E.R.  
-**I Can Predict Your Every Move**  
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
 currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 # [Mole Man](http://vs.tcgbrowser.com/images/cards/big/FAN-033.jpg) (MC)
 Set: The Fantastic Battles  
-**Tunnel**  
 Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Locations, he must tunnel under those first. If there are none, he can tunnel under a face-down resource. When he **Tunnels**, remove him from the game and place him beneath the card he is tunneling under. At the start of your next turn, put him back onto your side and if the card he was under was a Location, turn it face down. If it was already face down, KO it.
 
 If he is beneath a Location and it gets turned face down (including by being used for a super power) or leaves play, put him into your back row. If he is beneath a face-down resource and it leaves play, put him into your back row.
@@ -889,7 +882,6 @@ Playing with friends, you can choose to transform into any character in your col
 Set: The New Defenders  
 Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy characters as well. Likewise, his two **Level Up** powers also DO count facedown exhausted enemy characters as well.
 
-**Atlantis Rises**  
 **Atlantis Rises** adds a new row to your side, between your back row and your resource row, for the rest of the game. A player can’t have more than one Atlantis row on their side. Atlantis works just like your front and back rows (you can move characters there during your Formation Step, for example) with the following exceptions: 
 
 * Characters in Atlantis can’t attack.  
@@ -899,25 +891,20 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 # Nebula
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-003.jpg) (MC)
 Set: Black Order  
-**Thanos's Greatest Creation**  
 **Thanos's Greatest Creation** prevents Nebula from having keyword or super powers other than **Passive** (and **Thanos's Greatest Creation**, of course). This includes any granted by an equipment, too. 
 
-**Revenge!**  
 Her **Revenge!** power works the say way, but for Thanos, of course.
 
-**Tomorrow is Mine to Sculpt**  
 When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it for the rest of the game. (Although cards like Cosmo or The Nullifier can still turn it off.)
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-012.jpg) (SC - Illustrated)
 Set: Black Order  
-**A New Order Exists Within the Universe**  
 **A New Order Exists Within the Universe** checks to see if an enemy character shares at least one team affiliation with a main character on its side. If the main character has no team affiliation, then no supporting characters on its side can share a team affiliation with it. 
 
 **Note:** This is not a super power even though it requires Nebula to pay a (Might/"Green").
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/mcu1-050.jpg) (SC - Photo)
 Set: The MCU Battles  
-**Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
 # [Negative Zone](http://vs.tcgbrowser.com/images/cards/big/FAN-029.jpg)
@@ -935,7 +922,6 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
 Set: Galactic Guardians  
-**Mercurial Personality**  
 **Mercurial Personality** allows you to **Burn** an enemy supporting character. This means "At the end of each of your turns, stun that character." (**Note:** "You" refers to the player who used Nikki's effect.) A Burn effect has no set duration - it will last until the character leaves play.
 
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
@@ -978,13 +964,11 @@ Onslaught’s power occurs when you pay to recruit him, but before he appears. T
 
 # [Oz](http://vs.tcgbrowser.com/images/cards/big/TBB-019.jpg)
 Set: The Buffy Battles  
-**Lose Control**   
 **Lose Control** lets an enemy player force Oz to strike another Supporting Character. If Oz’s ATK is greater than or equal to that character’s DEF, Oz stuns that character.
 
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
 Set: Crossover  
-**Special Agent**  
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
 
 **Level 7 Clearance / I'm a Guy With a Plan**  
@@ -1499,7 +1483,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc2NTI2MzYsLTEyODE5NDQwMTksND
+eyJoaXN0b3J5IjpbLTE3ODczMzYxMDYsLTEyODE5NDQwMTksND
 g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
 MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
 ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
