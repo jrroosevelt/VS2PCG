@@ -131,13 +131,13 @@ its cost).
 Set: Monsters Unleashed!  
 Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
 
-# Black Cat 
+# [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
 Set: Spider-Friends  
 **Personal Loyalty**  
 Black Cat has often wavered between being a hero and a villain. In the game she doesn’t have a team affiliation and is neither Good nor Evil… until she’s on a side (she is neither Good nor Evil while she is in your hand, deck, or KO pile). Then if Spider-Man is your main character, he has a good influence on her and she’ll ferociously fight alongside her partner. But if he’s not your main character, she’ll go back to slinking around as a criminal.
 
 # Black Panther
-## Black Panther (MC - Illustrated)
+## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
 Set: Cosmic Avengers  
 **Passing Down the Knowledge**  
 For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzEyMDA4OCw5MjE0NTM5MjksMTAzMT
-c1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5
-LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMT
-cwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4
-NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzOD
-AsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYw
-NTMwMDI1Nl19
+eyJoaXN0b3J5IjpbLTEzNDM5MDA2ODIsOTIxNDUzOTI5LDEwMz
+E3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIz
+OSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLT
+E3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2
+ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMz
+gwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2
+MDUzMDAyNTZdfQ==
 -->
