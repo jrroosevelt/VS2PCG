@@ -1031,7 +1031,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
 Set: The Fantastic Battles  
-Because this copies everything from any enemy Plot Twist you choose except for that Plot Twist's team affiliations (and it technically keeps its (Fearsome) team affiliation, you must only have a face up (Fearsome
+Because this copies everything from any enemy Plot Twist you choose except for that Plot Twist's team affiliations (and it technically keeps its (Fearsome) team affiliation, you must only have a face up (Fearsome) character on your side in order to play this Plot Twist.
 
 # [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
 These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
@@ -1460,6 +1460,11 @@ Set: Resistance
 **Astral Form Overload**  
 When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**. **Stealth** means she can melee attack back row characters, even while they’re protected. **Fearless** means that she strikes Main Characters with double her ATK.
 
+# [Uatu](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
+Set: The Fantastic Battles  
+**The Watcher**  
+**The Watcher** sees
+
 # [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC)
 Set: The MCU Battles  
 **Ultron Facility**  
@@ -1535,7 +1540,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTMxNTcyMCwtMTI4MTk0NDAxOSw0OD
+eyJoaXN0b3J5IjpbLTM1NDc5NTY1NSwtMTI4MTk0NDAxOSw0OD
 cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
 MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
 wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
