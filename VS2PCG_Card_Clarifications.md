@@ -219,13 +219,9 @@ Set: Crossover Vol. 2
 Set: Deadpool & Friends  
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
-# Climb
-Set: Spider-Friends  
-Spider-Man and many of his friends and foes are great at climbing up buildings. In the game, this lets them get an advantage before the fighting starts: At the start of your Main Phase, you may exhaust a location on your side to put a +1/+1 counter on your character with Climb. A character can only climb one location per turn and the same location can’t be climbed by more than one character. (You exhaust the location to show that it’s been climbed.) So if you have two locations but three climbers, one of them is out of luck. During your Recovery Phase your exhausted locations will ready the same time your characters do.
 
 # [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
 Set: The Utopia Battles
-**Darkforce Channeling**  
 **Darkforce Channeling** affects all characters, including ones that appear on your side
 
 **Shifting Loyalties**
@@ -237,7 +233,6 @@ Hydra has four different Cosmic Cubes under their control. However, each one has
 
 # [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
 Set: Galactic Guardians  
-**All Bark, No Flight**  
 With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
@@ -253,7 +248,6 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 # [Daken](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
 Set: Brotherhood of Mutants  
-**Pheromone Control**  
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
@@ -312,7 +306,6 @@ Here are some quick tips:
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 Set: Black Order  
-**Amortal**
 Death is **Amortal** which means:
 
 * She has no level (She is beyond such mortal trappings).  
@@ -325,7 +318,6 @@ Since Death doesn't turn face down, she can be stunned multiple times in a singl
 
 **Note:** While death is technically two cards, you could slip her into a single clear card sleeve with her cards back to back. Then when she would turn face down, you can just flip her to her other "side."  
 
-**Mistress of the Infinity Well**  
 **Mistress of the Infinity Well** allows each player to draw an extra card each time you draw cards. For example, when you draw your usual two cards during your Draw Phase, you'll draw an extra one. And if you have a **Genius** in play that lets you draw a card, you'll draw an extra one then, too. 
 
 # [Death Trap](http://vs.tcgbrowser.com/images/cards/big/PRD-053.jpg) 
@@ -342,7 +334,6 @@ The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with bo
 
 # [Devil Slayer](http://vs.tcgbrowser.com/images/cards/big/DFX-009.jpg)
 Set: The New Defenders  
-**Shadow Cloak**  
 His **Shadow Cloak** lets him attack hidden and stunned characters. Treat it as a regular attack (both players can play Plot Twists, Power Up, etc.), but keep in mind the face-down character’s powers are turned off and its team affiliation is not available for things like playing a plot twist.
 
 When Devil-Slayer and the defender strike each other: 
@@ -353,7 +344,6 @@ When Devil-Slayer and the defender strike each other:
 
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
 Set: The Fantastic Battles  
-**Time Platform**  
 Doctor Doom's **Time Platform**  does something very odd. It shuffles a card into a deck face up. We suggest you close your eyes when shuffling a deck with a face-up card in it. In a tournament, you can always ask a judge to shuffle the deck if necessary. Once the deck is shuffled, where the card is in the deck is public information, so we also suggest you turn it 90 degrees so it's sticking out of your deck.
 
 # [Doctor Faustus](http://vs.tcgbrowser.com/images/cards/big/SVH-011.jpg)
@@ -368,17 +358,14 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 
 # [Domino](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg)
 Set: The Utopia Battles   
-**Probability Manipulation**  
 **Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
 
 # [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
 Set: MCU Villains  
-**You Will Spend Eternity Dying**  
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
-Set: Webheads
-**The Monster Within**  
+Set: Webheads  
 For every Dr. Curt Connors in your deck, you must also bring that many copies of the Lizard which will start in an out-of-game Lizard pile. When **The Monster Within** transforms Dr. Connors after he is stunned, remove him from the game and replace him with a Lizard from your Lizard Pile. 
 
 Since this is a "transformation", the Lizard will keep any counters and effects that Dr. Connors had (including a wound counter since he was just stunned).
@@ -390,8 +377,7 @@ Set: The Predator Battles
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
 
 # [Ego](http://vs.tcgbrowser.com/images/cards/big/mcu3-003.jpg)
-Set: MCU Villains 
-**Soon We Will Be All There Is**    
+Set: MCU Villains  
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
 
 # Electro
@@ -408,7 +394,6 @@ Elektra (main character) has a super power that allows you to hide her in your h
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
 Set: The Utopia Battles  
-**Keeper of Law**  
 **Keeper of Law** allows a character to strike an additional time in a combat. The character can strike two different characters once each (if they’re being team attacked, for example), or they can strike the same character twice. In the latter case, add the character’s ATK together for each strike and then compare it to the enemy’s DEF. 
 
 Emma’s power can be used any number of times each turn. So if a character ends up being allowed to strike 3, 4, or more times, it works as above. Any number of strikes can be combined against an enemy or split amongst multiple enemies.
@@ -1545,11 +1530,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODk0NDMsLTEyODE5NDQwMTksNDg3MT
-c2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEz
-MSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMT
-AzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEw
-MjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5Ny
-wtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01
-ODY4NjIzMjZdfQ==
+eyJoaXN0b3J5IjpbMjk0MjMxOTk4LC0xMjgxOTQ0MDE5LDQ4Nz
+E3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMx
+MzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LD
+EwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODEx
+MDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOT
+csLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwt
+NTg2ODYyMzI2XX0=
 -->
