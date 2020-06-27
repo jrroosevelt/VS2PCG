@@ -522,17 +522,17 @@ Set: Resistance
 **'Dis Card**  
 Note that discarding a card includes Power Ups. So each time any character on your side Powers Up, Gambit will gain an XP.
 
-## Gambit (SC)
+## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-012.jpg) (SC)
 Set: Resistance  
 **Molecular Acceleration**  
 **Molecular Acceleration** is a Keyword Power, not a Super Power.
 
-# The Gentlemen 
+# [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 Set: The Buffy Battles  
 **Hush**  
 **Hush** prevents players from using effects that require you to “say” something or to “name” something. **Hush** also prevents players from talking. You can still communicate in other ways such as using hand signals, or writing things down. You can also make sounds without using your vocal chords. If a player does speak, do your best impersonation of a Gentleman in order to shush them. (There is no in-game penalty for speaking. It’s just not cool.)
 
-# Ghost Spider (MC)
+# [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
 Set: Webheads  
 **You Can Borrow This for a While**  
 **You Can Borrow This for a While** grants characters with the chosen name the **Dimensional Wristwatch** keyword. You can recruit a character with **Dimensional Wristwatch** directly from your deck: Announce you're recruiting them from your deck, search your deck for the character, shuffle your deck, and then recruit them (pay its cost and put it onto your side). 
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTkxMDY5NywtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbLTc0NTYxMTk4MCwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
