@@ -677,6 +677,10 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 Set: Utopia Battles   
 Several characters have powers that impersonate other characters. These powers turn off immediately if the character they’re impersonating ever shows up. It doesn’t matter if the character that’s being impersonated is face up or face down or what side they’re on. Either way they count as being on “a side” and will turn off the Impersonation power.
 
+# Impossible Man
+Set: The Fantastic Battles
+Impossible Man is three cards in one. He can be played as an Equipment, a Plot Twist, or a Supporting Character. Note that if he is an Equi
+
 # [The In-Betweener](http://vs.tcgbrowser.com/images/cards/big/CV2-009.jpg)
 Set: Crossover Vol. 2  
 **Duality Itself**  
@@ -1496,11 +1500,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzOD
-U0Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5
-MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LD
-g1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3
-MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwND
-MyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0x
-MjY2MDAzMTBdfQ==
+eyJoaXN0b3J5IjpbMTM4NzI2NDA0Nyw0ODcxNzYxOTQsMTgwND
+k5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUz
+ODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LD
+E2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4
+OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4OT
+gyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNiw1
+MjI1NzE5NzhdfQ==
 -->
