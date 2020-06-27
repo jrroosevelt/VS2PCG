@@ -483,19 +483,19 @@ If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg)
 Set: The Buffy Battles  
 Faith can steal any kind of counter from an enemy defender.
 
-# Falcon
+# [Falcon](http://vs.tcgbrowser.com/images/cards/big/mcu1-016.jpg)
 Set: The MCU Battles  
 **Air Superiority**  
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
-# Falcon Drone
+# [Falcon Drone](http://vs.tcgbrowser.com/images/cards/big/PRD-009.jpg)
 Set: The Predator Battles  
 **Bond**  
 Some characters have a **Bond** with another character. This allows them to be discarded from your hand to generate a Power Symbol for that other character’s Super Powers. You can do this for that character’s Main or Supporting Character. 
 
 Example: You want to use the Falconer Supporting Character’s **Bait and Switch** Super Power, which costs (Skill/"Red"). You may discard a Falcon Drone from your hand to pay for the Super Power. If a character with Bond is used to generate a Power Symbol for a Super Power with Amplify, the Amplify text will apply
 
-# Falconer (MC) 
+# [Falconer](http://vs.tcgbrowser.com/images/cards/big/PRD-001.jpg) (MC) 
 Set: The Predator Battles  
 **Active Falcon Drone**  
 Falconer starts the game with a Falcon Drone from your deck on his side. The Falcon Drone still counts toward your 60 cards when you build your deck. 
@@ -503,7 +503,7 @@ Falconer starts the game with a Falcon Drone from your deck on his side. The Fal
 **We're the Game**  
 His Level Up Power, **We’re the Game**, triggers whenever an enemy player reveals one or more cards. Some effects that would grant 1 XP this way are when a player reveals their hand, when a player reveals one or more cards from the top of their deck, or when a player reveals the cards they draw (due to a Falcon Drone).
 
-# Fantastic Four
+# [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
 Set: The Herald  
 **The Core Four**  
 **The Core Fourr** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODQ0MDk5MCwtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbMzEwMjIzOTk2LC0xMzU4NzkyNTQwLDkyMT
+Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
+LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
+MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
+MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
+wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
+NjE0NDg2XX0=
 -->
