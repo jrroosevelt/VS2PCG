@@ -549,12 +549,12 @@ If Ghost-Spider enters anotehr game of Vs. System 2PCG, you decide which player 
 
 If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players in that game to decide exactly how she works in that game.
 
-# Gilgamesh
+# [Gilgamesh](http://vs.tcgbrowser.com/images/cards/small/COS-015.jpg)
 Set: Cosmic Avengers  
 **The Forgotten One**  
 For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you from speaking, he will lose Eternal at the end of the turn.
 
-# Global Information Network
+# [Global Information Network](http://vs.tcgbrowser.com/images/cards/big/COS-020.jpg)
 Set: Cosmic Avengers  
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like \* Thor \* and Hyperion (who have keyword powers which requires spending an (Intellect/"Yellow) and (Energy/"Blue")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations:
 
@@ -564,7 +564,7 @@ In this Arc, we are playing around with how players can use locations besides su
 * These cards are neutral, so just like any other neutral cards, they can be in Loyalty decks.  
 * The Special Locations don't count as location swith a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
 
-# Glory 
+# [Glory](http://vs.tcgbrowser.com/images/cards/big/TBB-049.jpg) 
 Set: The Buffy Battles  
 **Drain Sanity**  
 **Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTYxMTk4MCwtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbMTk5Njc3NDcyMCwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
