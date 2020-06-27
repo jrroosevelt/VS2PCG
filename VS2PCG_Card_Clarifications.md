@@ -678,8 +678,9 @@ Set: Utopia Battles
 Several characters have powers that impersonate other characters. These powers turn off immediately if the character they’re impersonating ever shows up. It doesn’t matter if the character that’s being impersonated is face up or face down or what side they’re on. Either way they count as being on “a side” and will turn off the Impersonation power.
 
 # Impossible Man
-Set: The Fantastic Battles
-Impossible Man is three cards in one. He can be played as an Equipment, a Plot Twist, or a Supporting Character. Note that if he is an Equi
+Set: The Fantastic Battles  
+**Omnifarious**  
+Impossible Man is three cards in one. He can be played as an Equipment, a Plot Twist, or a Supporting Character. Note that if he is an Equipment, his Equipment power has no name, so it can't be chosen by any effects that choose power names. 
 
 # [The In-Betweener](http://vs.tcgbrowser.com/images/cards/big/CV2-009.jpg)
 Set: Crossover Vol. 2  
@@ -1500,7 +1501,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzI2NDA0Nyw0ODcxNzYxOTQsMTgwND
+eyJoaXN0b3J5IjpbLTk4MDIzNzEzNSw0ODcxNzYxOTQsMTgwND
 k5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUz
 ODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LD
 E2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4
