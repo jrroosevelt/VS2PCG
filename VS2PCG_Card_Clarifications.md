@@ -311,11 +311,11 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 
 * **Super Powers:** Remove all Super Powers from the game. Remove the term “Super Power” from all card text. For the rest of the game, ignore any effects that would cause Super Powers to enter the game in any way.  
 
-# Dawn
+# [Dawn](http://vs.tcgbrowser.com/images/cards/big/TBB-011.jpg)
 Set: The Buffy Battles
 Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
 
-# Deadpool (MC)
+# [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC)
 Set: Deadpool & Friends
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
 > 
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTAzNTUwNSwtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbMzc3MjkzNzY3LC0xMzU4NzkyNTQwLDkyMT
+Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
+LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
+MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
+MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
+wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
+NjE0NDg2XX0=
 -->
