@@ -731,20 +731,20 @@ Set: The Herald
 **Nega-Bands**  
 Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negative Zone Location. Spending a Negative Zone means turning a Location named Negative Zone face down in your resource row or discarding one from your hand. (It works just like using a regular Location to pay for a super power except you don't actually generate a power symbol.)
 
-# Leviathon Hydra
+# [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
 Set: Monsters Unleashed!  
 See [Fin Fang Foom](#wiki_fin_fang_foom).
 
-# Life on the Hellmouth 
+# [Life on the Hellmouth](http://vs.tcgbrowser.com/images/cards/big/TBB-057.jpg) 
 Set: The Buffy Battles  
 This Plot Twist puts two characters on your side in a Relationship. This means they can team attack together (even if they’re not on the same team), and while doing so they can’t be struck back by a defender. Once a character in a Relationship leaves play, the Relationship is over.
 
-# Living Tribunal
+# [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 Set: Galactic Guardians  
 **Balances the Multiverse**  
 When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards are cards that have photographic artwork on them, from TV shows and movies. The other universe is the Illustrated Universe, whose cards are cards with drawn, or illustrated artwork.
 
-# Loki (SC)
+# [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC)
 The MCU Battles  
 **I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
@@ -1476,11 +1476,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTU0MTI5MywtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbLTIwMDM2MzA0MzksLTEzNTg3OTI1NDAsOT
+IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
+MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
+05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
+NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
+EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
+MzI2MTQ0ODZdfQ==
 -->
