@@ -390,17 +390,17 @@ Set: S.H.I.E.L.D. vs. Hydra
 **Hypnotic Suggestion**  
 Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
 
-# Doctor Nemesis
+# [Doctor Nemesis](http://vs.tcgbrowser.com/images/cards/big/RES-008.jpg)
 Set: Resistance  
 **Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
 
-# Domino
+# [Domino](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg)
 Set: The Utopia Battles   
 **Probability Manipulation**  
 **Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
 
-# Dormammu
+# [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
 Set: MCU Villains  
 **You Will Spend Eternity Dying**  
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODE0NjI3NSwtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbLTE1NzE3ODIxODcsLTEzNTg3OTI1NDAsOT
+IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
+MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
+05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
+NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
+EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
+MzI2MTQ0ODZdfQ==
 -->
