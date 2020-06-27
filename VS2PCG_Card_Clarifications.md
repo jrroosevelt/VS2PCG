@@ -523,7 +523,9 @@ Set: The Fantastic Battles
 Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
 
 * Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
-    *A **Pocket Universe** has only front
+    * A **Pocket Universe** has only front and back rows (no resource row).  
+    * When the characters are moved to the **Pocket Universe** they stay in the same rows they were in in the original universe. They keep all their counters and their orientation (ready/exhausted; face up/face down).  
+    * 
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
@@ -1469,7 +1471,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc0NDAyNTgsMTgwNDk5ODUzNywtMT
+eyJoaXN0b3J5IjpbLTEzMTc0MDUzODcsMTgwNDk5ODUzNywtMT
 M4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4
 NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0ND
 YsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0
