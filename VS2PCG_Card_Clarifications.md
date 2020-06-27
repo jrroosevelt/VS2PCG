@@ -1349,7 +1349,7 @@ Set: The MCU Battles
 **Journey of Self Discovery**  
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
-# \* Thor \*
+# \* [Thor](http://vs.tcgbrowser.com/images/cards/big/COS-011.jpg) \*
 Set: Cosmic Avengers  
 Jane Foster becomes Thor when the original Thor shirks his responsibility. She has \*s around her name, meaning she shares the "mantle" with Thor himself. This means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of uniqueness rules and they can't power each other up. When Thor is ready to start being "the" Thor again, Jane gracefully demurs. 
 
@@ -1359,23 +1359,23 @@ To represent this, her **There Must Always Be a Thor** power can only search for
 **A God Who Knows How Precious Life Is**  
 Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
-# Titan
+# [Titan](http://vs.tcgbrowser.com/images/cards/big/BLK-024.jpg)
 Set: Black Order
 See [Might Makes Right](#wiki_might_makes_right)
 
-# Titania
+# [Titania](http://vs.tcgbrowser.com/images/cards/big/aff-037.jpg)
 Set: A-Force  
 **Durable**  
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recovers and doesn’t get wounded. 
 
 However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though she would recover immediately, getting stunned would still remove her from combat.
 
-# Toad 
+# [Toad](http://vs.tcgbrowser.com/images/cards/big/RES-011.jpg) 
 Set: Resistance  
 **Toadally Awesome**  
 Remember, Toad isn’t just Sort of Awesome.
 
-# Tracker
+# [Tracker](http://vs.tcgbrowser.com/images/cards/big/PRD-018.jpg)
 Set: The Predator Battles  
 **It Wants Us to Run**   
 Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): (Humanity/"Earth"), (Alien/"Space"), (Energy/"Blue"), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
@@ -1459,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTc0NzI5OSwtMTM4NTQyNzQ4NywtMz
-I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
-MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
-E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
-NzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3Mz
-Y2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwt
-MTA3MDAwMjM4MF19
+eyJoaXN0b3J5IjpbLTE5NzMzNzUwNTMsLTEzODU0Mjc0ODcsLT
+MyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0
+NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOS
+wxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkz
+MDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1Nz
+M2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAs
+LTEwNzAwMDIzODBdfQ==
 -->
