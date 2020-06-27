@@ -1510,7 +1510,10 @@ Set: The Utopia Battles
 
 # [Willie Lumpkin](http://vs.tcgbrowser.com/images/cards/big/FAN-010.jpg)
 Set: The Fantastic Battles  
-**The Watcher**  
+**Delivery Expert**  
+Willie is a **Delivery Expert**, not a Delivery Novice. Package counters stay on Willie even if he's turned face down.
+
+Also, Willie *can* deliver a Package to a Baxter Building in Wyatt Wingfoot's part of the resource row. He's that good!
 
 # [Willow](http://vs.tcgbrowser.com/images/cards/big/TBB-023.jpg) (SC) 
 Set: The Buffy Battles  
@@ -1539,6 +1542,10 @@ Here are the four Plot Twists he has at his disposal:
 **Best Offense is a Good Defense**  
 (Any Combat): Choose an attacker to get +0/+5 this combat.
 
+# [Willie Lumpkin](http://vs.tcgbrowser.com/images/cards/big/FAN-010.jpg)
+Set: The Fantastic Battles  
+**Delivery Expert**  
+
 # [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
 Set: New Mutants  
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
@@ -1547,11 +1554,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDgyMzMwMCwtMTI4MTk0NDAxOSw0OD
-cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
-MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
-wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
-MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
-k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
-LTU4Njg2MjMyNl19
+eyJoaXN0b3J5IjpbLTE4NTM5NzY5ODksLTEyODE5NDQwMTksND
+g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
+MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
+ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
+MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1OD
+A5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5
+LC01ODY4NjIzMjZdfQ==
 -->
