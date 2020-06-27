@@ -530,9 +530,15 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
     * The Uniqueness rules don't apply across the **Pocket Universe** and original universe. (For example, you could have a Human Torch in both Universes.)  
     * Note: Your hand, deck, KO pile, and out-of-game piles can be accessed in both the original universe and the **Pocket Universe** (more on this below).  
 * Each player who has characters in a **Pocket Universe** will take a separate turn in that **Pocket Universe** after their normal turn (before the next player's normal turn, and including the turn Franklin creates the **Pocket Universe**).  
-    * First take your normal turn. During this turn, ignore the **Pocket Universe**. 
+    * First take your normal turn. During this turn, ignore the **Pocket Universe**.  
     * After your turn is over, you then take a **Pocket Universe** turn. During this turn, ignore the original universe.
-    * The cars you play on a paraticular turn can only affect that turn's universe.  
+    * The cars you play on a particular turn can only affect that turn's universe.  
+* A **Pocket Universe** turn sequence is a little different than a normal turn, as follows:
+    * Start of turn
+        * Note that there is no Draw Phase.
+    * Recovery Phase
+    * Formation Step
+        * Note that there is no Build Phase because there are no rec
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
@@ -1478,7 +1484,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjMyNDk0OCwxODA0OTk4NTM3LC0xMz
+eyJoaXN0b3J5IjpbLTM5NzQwMDE4MSwxODA0OTk4NTM3LC0xMz
 g1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3
 OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Ni
 w4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2
