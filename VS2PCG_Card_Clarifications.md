@@ -424,12 +424,12 @@ Set: MCU Villains
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
 
 # Electro
-## Electro (SC)
+## [Electro](http://vs.tcgbrowser.com/images/cards/big/SYN-011.jpg) (SC)
 Set: Sinister Syndicate  
 **Electrocution**  
 Electro introduces a new concept: remaining health. Remaining health is a character’s (Health) maximum minus its wounds. (Maximum (Health) is printed plus any bonus .) For example, when a character with 1  printed (Health) appears, it will have 1 remaining health. If a character has 3 printed (Health) and is getting +1 (Health) from an effect and has 2 wounds, its remaining health is 2 (3 + 1 – 2 = 2).
 
-## Elektra (MC)
+## [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
 Set: Legacy  
 **Hand Experience**  
 Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM1ODgyMTEsLTEzNTg3OTI1NDAsOT
+eyJoaXN0b3J5IjpbLTIxMjE4NDM5NjMsLTEzNTg3OTI1NDAsOT
 IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
 MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
 05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
