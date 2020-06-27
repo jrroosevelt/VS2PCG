@@ -29,10 +29,6 @@ Set: The Fantastic Battles
 **Ancient Sorceress**  
 If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
 
-# Agents
-Set: S.H.I.E.L.D. vs. Hydra  
-Several (S.H.I.E.L.D.)  characters have the new Agent Keyword Power, which allows them to work together as a spy network. When an Agent appears, look at cards from the top of your deck equal the number of **Agents** on your side. Put any of them on the bottom of your deck. The more Agents you have, the better you’ll be at gathering intel. 
-
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 Set: Deadpool & Friends  
@@ -1460,11 +1456,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYzMDg0NjMsLTEzODU0Mjc0ODcsLT
-MyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0
-NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOS
-wxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkz
-MDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1Nz
-M2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAs
-LTEwNzAwMDIzODBdfQ==
+eyJoaXN0b3J5IjpbLTgyNDI5MzU5MywtMTM4NTQyNzQ4NywtMz
+I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
+MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
+E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
+NzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3Mz
+Y2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwt
+MTA3MDAwMjM4MF19
 -->
