@@ -994,7 +994,7 @@ Nebula’s **Rivalry** power requires you name a character. You can name any cha
 
 # [Negative Zone](http://vs.tcgbrowser.com/images/cards/big/FAN-029.jpg)
 Set: The Fantastic Battles  
-Although the Negative Zone has a (Fantastic) team affiliation, any main character can pay a powe
+Although the Negative Zone has a (Fantastic) team affiliation, any main character can pay a power symbol to use it.
 
 # New Mutants
 Set: New Mutants  
@@ -1028,6 +1028,10 @@ In this Arc, we are playing around with how players can use locations besides su
 
 # [The Nullifier](http://vs.tcgbrowser.com/images/cards/big/SVH-057.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
+
+# [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
+Set: The Fantastic Battles  
+Because this copies everything from any enemy Plot Twist you choose except for that Plot Twist's team affiliations (and it technically keeps its (Fearsome) team affiliation, you must only have a face up (Fearsome
 
 # [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
 These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
@@ -1531,11 +1535,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTM3ODMsLTEyODE5NDQwMTksNDg3MT
-c2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEz
-MSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMT
-AzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEw
-MjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5Ny
-wtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01
-ODY4NjIzMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTMxNTcyMCwtMTI4MTk0NDAxOSw0OD
+cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
+MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
+wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
+MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
+k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
+LTU4Njg2MjMyNl19
 -->
