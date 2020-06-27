@@ -1159,7 +1159,7 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 
 # Shifting Loyalties 
 Set: The Utopia battles  
-At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (HAMMER) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
+At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (H.A.M.M.E.R.) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
 
 See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
 
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjM0NDk1MSwtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbMTYyODE0NjI3NSwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
