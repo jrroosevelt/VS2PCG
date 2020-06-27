@@ -939,13 +939,13 @@ Set: Galactic Guardians
 **Mercurial Personality**  
 **Mercurial Personality** allows you to **Burn** an enemy supporting character. This means "At the end of each of your turns, stun that character." (**Note:** "You" refers to the player who used Nikki's effect.) A Burn effect has no set duration - it will last until the character leaves play.
 
-# Norman Osborn (MC) 
+# [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
 Set: The Utopia Battles  
 Norman’s Level 2 Keyword Powers also affect himself. 
 
 Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (H.A.M.M.E.R.) team affiliation
 
-# Nova Corps
+# [Nova Corps](http://vs.tcgbrowser.com/images/cards/big/GAL-018.jpg)
 Set: Galactic Guardians  
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
 
@@ -1475,7 +1475,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzgzOTU4OCwtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbMTgyOTA0ODk0OSwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
