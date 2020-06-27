@@ -24,29 +24,24 @@ At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam War
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 Set: The Fantastic Battles  
-**Ancient Sorceress**  
 If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
 
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 Set: Deadpool & Friends  
-**Pain Tolerance**  
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 Set: H.A.M.M.E.R.  
-**It's a Prison**
 Set: H.A.M.M.E.R.  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
 Set: The Fantastic Battles  
-**Neo-Realistic Sculptor**  
 Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF become  10/10.
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 Set: The Utopia Battles  
-**Psionic Exoskeleton**  
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
@@ -59,10 +54,8 @@ Level 1 Angel and Angelus can transform between each other. However, when you bu
 
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
 Set: Galactic Guardians  
-**An Angel From the Heavens**  
 **An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have (Flight) or (Range) (or both) to solo attack her. 
 
-**The Tenth Realm**  
 When Angela opens a **Bridge to Heven**, you must put each revealed character onto your side. This may cause some characters to be KO'd due to the uniqueness rules.
 
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
@@ -71,31 +64,25 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 
 # [Archangel](http://vs.tcgbrowser.com/images/cards/big/RES-002.jpg)
 Set: Resistance  
-**Violent**  
 **Violent** means that he strikes Supporting Characters with double his ATK.
 
 # [Ardina](http://vs.tcgbrowser.com/images/cards/big/HER-008.jpg)
 Set: The Herald  
-**Clone of the Silver Surfer**  
 **Clone of the Silver Surfer** refers to the "card title" Silver Surfer. This means the name at the very top of the card must be Silver Surfer. **AKA** s don't count.
 
 # [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
 Set: Crossover  
-**ESP Box**  
-ESP Box takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
+**ESP Box** takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
 
-**A New Robot Body**  
-When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
+When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 # Avalanche
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/BOM-009.jpg) (Brotherhood)
 Set: Brotherhood of Mutants  
-**Sustained Seismic Waves**  
-Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
+Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/TUB-022.jpg) (Resistance)
 Set: The Utopia Battles  
-**The Big One**
 **The Big One** KOs basic Locations with different types. The types are:
 
 * Energy (Blue)  
@@ -107,12 +94,10 @@ Set: The Utopia Battles
 
 # [Awesome Android](http://vs.tcgbrowser.com/images/cards/big/FAN-042.jpg)
 Set: The Fantastic Battles  
-**Mimicry**  
 If there are no other face-up characters in play, Awesome Android's ATK/DEF become 0/0 (and he gets stunned).
 
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
 Set: Legacy  
-**Hypnotize**  
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
@@ -1573,11 +1558,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDU4MzA2LC0xMjgxOTQ0MDE5LDQ4Nz
-E3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMx
-MzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LD
-EwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODEx
-MDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOT
-csLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwt
-NTg2ODYyMzI2XX0=
+eyJoaXN0b3J5IjpbMTAxNDI5OTc1OCwtMTI4MTk0NDAxOSw0OD
+cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
+MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
+wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
+MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
+k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
+LTU4Njg2MjMyNl19
 -->
