@@ -1070,21 +1070,21 @@ Set: The Predator Battles
 **We’re Going to Kill Them All**  
 Royce’s supporting character has this Super Power. It allows him to move a wound from an enemy character (even an enemy Main Character) to an enemy Supporting Character. The characters must be different. The first character counts as being healed and the second character counts as being wounded.
 
-# The Runner
+# [The Runner](http://vs.tcgbrowser.com/images/cards/big/CV2-008.jpg)
 Set: Crossover vol. 2  
 The Runner is so fast he can actually attack during your Build Phase. This means you can recruit characters and equipment after the Runner attacks. (You could even recruit a new copy of Runner and attack with it!) Note: The Runner attacking during the Build Phase does count as a regular Combat so **Combat** Super Powers and Plot Twists, and power ups can be used during a Build Phase combat. However, during the combat you can't use any **Build** Super Powers and Plot Twists.
 
-# Sacred Ground 
+# [Sacred Ground](http://vs.tcgbrowser.com/images/cards/big/TUB-029.jpg) 
 Set: The Utopia Battles  
 This Plot Twist lets a character pay any power symbol. You can generate a power symbol in the usual ways -- by turning a Location that makes a power symbol face down, or by discarding a Location that makes a power symbol.
 
-# Sauron
+# [Sauron](http://vs.tcgbrowser.com/images/cards/big/BOM-016.jpg)
 Set: Brotherhood of Mutants  
 **Terrifying Delusions**  
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
 
 # Scarlet Spider
-## Scarlet Spider (MC)
+## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-003.jpg) (MC)
 Set: Spider-Friends  
 Before he was the Scarlet Spider, the man who would become Ben Reilly was created from Peter Parker’s DNA to be a perfect clone. So in the game he actually starts off as a different “Spider” hero until his true self is revealed (once he reaches Level 2). Here’s how it works: 
 
@@ -1475,7 +1475,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTExMDgxMCwtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbLTg4MDIxNjE0MiwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
