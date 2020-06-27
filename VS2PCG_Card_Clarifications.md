@@ -1022,12 +1022,12 @@ Professor X’s **Graduation** power lets you turn an (X-Men) supporting charact
 
 This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
 
-# Pyro
+# [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
 Set: Brotherhood of Mutants  
 **Fire Manipulation**  
 Pyro’s Fire Manipulation power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
-# The Reality Gem
+# [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 Set: Black Order  
 You can use this Gem to turn cards in play face up. If you choose a stunned character this counts as recovering it. If you choose a hidden character, it counts as un-hiding it. If you choose a face-down location, it will turn face up. If you choose any other type of face-down resource (including an Infinity Gem), it will remain face down. (It should be revealed to each player to prove that it's not a location). 
 
@@ -1036,16 +1036,16 @@ You can also use the Gem to turn cards in play face down. If you do this to a re
 If you do it to an equipment, that equipment will stay equipped but its powers are temporarily turned off. It will turn face up again when the characters on that side would recover. If you do it to a location or face-up Infinity Gem, it will turn face down.  
 
 # Rhino
-## Rhino (Sinister Syndicate)
+## [Rhino](http://vs.tcgbrowser.com/images/cards/big/CV1-013.jpg) (Sinister Syndicate)
 Set: Crossover  
 **Headlong Charge**  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
-## Rhino (Underworld)
+## [Rhino](http://vs.tcgbrowser.com/images/cards/big/def-039.jpg) (Underworld)
 Set: The Defenders  
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
-# Roberta
+# [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
 Set:  The Herald  
 **Receptionist**  
 **Receptionist** prevents Roberta from leaving the front row. This means she can't be moved to the back row during your Formation Step, and she ignores any card effects that would move her out of the front row. However, an effect could move her from one player's front row to another player's front row.
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDk5OTgxOSwtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbLTE5MTU2ODg5MTcsLTEzNTg3OTI1NDAsOT
+IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
+MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
+05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
+NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
+EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
+MzI2MTQ0ODZdfQ==
 -->
