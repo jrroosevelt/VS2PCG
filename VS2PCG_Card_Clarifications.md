@@ -790,10 +790,10 @@ The MCU Battles
 **I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
-# Mad Thinker
+# [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 Set: The Fantastic Battles  
 **Computer Mind**  
-The Mad Thinker's **Computer Mind** is so powerful he can very accurately predict what his enemies are going to do. When you make a **Prediction**, secretly write down the name of two characters; an attacker and a defender. The names don't have to be characters in play at the time Mad Thinker uses the super power. When a character with the attacker's name attacks a character on your side with the defender's name (even in a team attack), cancel the combat. Then make anot
+The Mad Thinker's **Computer Mind** is so powerful he can very accurately predict what his enemies are going to do. When you make a **Prediction**, secretly write down the name of two characters; an attacker and a defender. The names don't have to be characters in play at the time Mad Thinker uses the super power. When a character with the attacker's name attacks a character on your side with the defender's name (even in a team attack), cancel the combat. Then make another **Prediction** about the same turn, but this time you'll have a lot more data! You can make a maximum of two **Predictions** from each use of the super power.
 
 # [Magik](http://vs.tcgbrowser.com/images/cards/big/NEW-014.jpg) 
 Set: New Mutants  
@@ -1506,11 +1506,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjQxNDQsNDg3MTc2MTk0LDE4MDQ5OT
-g1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1Mzgx
-OSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNj
-E2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkz
-NDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4Mi
-wxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIy
-NTcxOTc4XX0=
+eyJoaXN0b3J5IjpbLTEyODE5NDQwMTksNDg3MTc2MTk0LDE4MD
+Q5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1
+MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NC
+wxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQw
+ODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4OD
+k4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYs
+NTIyNTcxOTc4XX0=
 -->
