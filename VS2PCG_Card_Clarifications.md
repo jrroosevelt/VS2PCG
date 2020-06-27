@@ -531,14 +531,18 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
     * Note: Your hand, deck, KO pile, and out-of-game piles can be accessed in both the original universe and the **Pocket Universe** (more on this below).  
 * Each player who has characters in a **Pocket Universe** will take a separate turn in that **Pocket Universe** after their normal turn (before the next player's normal turn, and including the turn Franklin creates the **Pocket Universe**).  
     * First take your normal turn. During this turn, ignore the **Pocket Universe**.  
-    * After your turn is over, you then take a **Pocket Universe** turn. During this turn, ignore the original universe.
+    * After your turn is over, you then take a **Pocket Universe** turn. During this turn, ignore the original universe.  
     * The cars you play on a particular turn can only affect that turn's universe.  
-* A **Pocket Universe** turn sequence is a little different than a normal turn, as follows:
-    * Start of turn
-        * Note that there is no Draw Phase.
-    * Recovery Phase
-    * Formation Step
-        * Note that there is no Build Phase because there are no rec
+* A **Pocket Universe** turn sequence is a little different than a normal turn, as follows:  
+    * Start of turn  
+        * Note that there is no Draw Phase.  
+    * Recovery Phase  
+    * Formation Step  
+        * Note that there is no Build Phase because there are no Recruit Points or resource rows in the **Pocket Universe**.  
+    * Main Phase  
+        * This works just like a "Normal" Main Phase in regard to combats.  
+        * You can play Plot 
+        
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
@@ -1484,11 +1488,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzQwMDE4MSwxODA0OTk4NTM3LC0xMz
-g1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3
-OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Ni
-w4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2
-NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMD
-QzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwt
-MTI2NjAwMzEwXX0=
+eyJoaXN0b3J5IjpbLTE5MzQ5NzQyOTQsMTgwNDk5ODUzNywtMT
+M4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4
+NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0ND
+YsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0
+NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4Mj
+A0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5Nzgs
+LTEyNjYwMDMxMF19
 -->
