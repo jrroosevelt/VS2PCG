@@ -992,7 +992,7 @@ Set: MCU heroes
 **They Need Someone to Avenge**  
 Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
 
-# Pixie (MC)
+# [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
 Set: The Utopia Battles  
 **Souldagger** 
 **Souldagger** causes a character to lose each modifier it gained during combat. A modifier is an effect that modifies the game. There are two types of modifiers – 
@@ -1006,14 +1006,14 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 **Half-Fairy**  
 **Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an (Energy/"Blue"). This includes when a character uses an (Engergy/"Blue") Super Power, or choosing to spend an (Energy/"Blue") when you play the Plot Twist **Sacred Ground**.
 
-# Power Man
+# [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
 Set: The New Defenders  
 Some characters are known by more than one moniker - like Power Man, who says **AKA Luke Cage**. He counts as having both names, which means you can use a Luke Cage supporting character to Power Up Power Man, and vice versa. It also means they both count as the same person for the purposes of the Uniqueness rules.
 
 **Crash the Party**  
 Power Man loves a good party, especially if he wasn’t invited. His Crash the Party power counts each enemy power, even if there are multiple instances of the same power. But remember face-down characters lose their powers so he won’t count their powers.
 
-# Professor X (MC)
+# [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC)
 Set: New Mutants  
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
 
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA4NDc4NjksLTEzNTg3OTI1NDAsOT
-IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
-MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
-05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
-NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
-EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
-MzI2MTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbLTU0NDk5OTgxOSwtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
