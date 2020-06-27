@@ -94,12 +94,12 @@ ESP Box takes effect once the game starts and lasts the whole game (even while A
 When Arnim Zola enters A New Robot Body, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
 
 # Avalanche
-## Avalanche (Brotherhood)
+## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/BOM-009.jpg) (Brotherhood)
 Set: Brotherhood of Mutants  
 **Sustained Seismic Waves**  
 Avalanche’s Sustained Seismic Waves power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
 
-## Avalanche (Resistance)
+## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/TUB-022.jpg) (Resistance)
 Set: The Utopia Battles  
 **The Big One**
 **The Big One** KOs basic Locations with different types. The types are:
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNj
-gyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQz
-OSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMT
-A0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3
-MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0xNjQzNjI2Nz
-gxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2MDUzMDAyNTYsMTUx
-MjYxMDg0NF19
+eyJoaXN0b3J5IjpbLTU2MTI4MDM0NSw5MjE0NTM5MjksMTAzMT
+c1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5
+LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMT
+cwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4
+NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzOD
+AsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYw
+NTMwMDI1Nl19
 -->
