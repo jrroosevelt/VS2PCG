@@ -1065,7 +1065,7 @@ Set: A-Force
 **Absorb Powers**  
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
 
-# Royce
+# [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
 Set: The Predator Battles  
 **We’re Going to Kill Them All**  
 Royce’s supporting character has this Super Power. It allows him to move a wound from an enemy character (even an enemy Main Character) to an enemy Supporting Character. The characters must be different. The first character counts as being healed and the second character counts as being wounded.
@@ -1475,7 +1475,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTEwMzU3MywtMTM1ODc5MjU0MCw5Mj
+eyJoaXN0b3J5IjpbLTgwMTExMDgxMCwtMTM1ODc5MjU0MCw5Mj
 E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
 OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
 kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
