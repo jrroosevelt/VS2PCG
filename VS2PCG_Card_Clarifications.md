@@ -1330,7 +1330,7 @@ Set: The Buffy Battles
 Set: Crossover vol. 2  
 Terrigen Mist puts +1/+1 counters on each character on your side, including ones that are already exhausted.
 
-# Thanos (MC)
+# [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 Set: Black Order  
 **Resurrected by Death Herself**  
 At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
@@ -1344,7 +1344,7 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 **The Universe Will Now Be Set Right**  
 **The Universe Will Now Be Set Right**  has a 50-50 chance of removing each character on each side from the game. If this removes a players last main character, that player ;oses the game. If this removes each player's last main character (including Thanos, himself) then the Thanos player wins the game. (This is similar to how if the final two main characters KO each other in combat, the player whose turn it was wins.)
 
-# Thor (MC)
+# [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
 Set: The MCU Battles  
 **Journey of Self Discovery**  
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
@@ -1459,7 +1459,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTAzODEyOCwtMTM4NTQyNzQ4NywtMz
+eyJoaXN0b3J5IjpbMTI1MTc0NzI5OSwtMTM4NTQyNzQ4NywtMz
 I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
 MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
 E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
