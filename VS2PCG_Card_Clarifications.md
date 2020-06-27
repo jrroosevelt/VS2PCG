@@ -517,6 +517,14 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 Set: The Buffy Battles  
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
+# Franklin Richards
+Set: The Fantastic Battles  
+**Pocket Universe**  
+Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
+
+* Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
+    *A **Pocket Universe** has only front
+
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
 Set: Resistance  
@@ -1461,11 +1469,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMz
-I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
-MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
-E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
-NzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3Mz
-Y2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwt
-MTA3MDAwMjM4MF19
+eyJoaXN0b3J5IjpbLTIwMjc0NDAyNTgsMTgwNDk5ODUzNywtMT
+M4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4
+NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0ND
+YsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0
+NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4Mj
+A0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5Nzgs
+LTEyNjYwMDMxMF19
 -->
