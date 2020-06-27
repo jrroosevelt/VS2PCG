@@ -1289,17 +1289,17 @@ Her **Intangibility** power lets her strike characters while they're in a player
 * She can strike characters who normally couldn't be struck by her while on a side (like Bulletproof characters) because those powers aren't active while the character is in a hand.  
 * It doesn't matter how much (Health) a struck character has, it gets discarded. 
 
-# Storm
+# [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg)
 Set: Resistance  
 **You Can’t Weather This Storm**  
 **You Can’t Weather This Storm** is a Keyword Power, not a Super Power.
 
-# Sunspot
+# [Sunspot](http://vs.tcgbrowser.com/images/cards/big/NEW-013.jpg)
 Set: New Mutants   
 **Solar Absorption**  
 Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
 
-# Supergiant
+# [Supergiant](http://vs.tcgbrowser.com/images/cards/big/BLK-013.jpg)
 Set: Black Order  
 Both of Supergiant's powers trigger when she appears. You can resolve them in whichever order you like.
 
@@ -1459,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzMzNTc1LC0xMzg1NDI3NDg3LC0zMj
-UwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUz
-OTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMT
-Q2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3
-NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNj
-Y2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0x
-MDcwMDAyMzgwXX0=
+eyJoaXN0b3J5IjpbLTIwODg2MzY5MzQsLTEzODU0Mjc0ODcsLT
+MyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0
+NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOS
+wxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkz
+MDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1Nz
+M2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAs
+LTEwNzAwMDIzODBdfQ==
 -->
