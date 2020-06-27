@@ -541,7 +541,10 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
         * Note that there is no Build Phase because there are no Recruit Points or resource rows in the **Pocket Universe**.  
     * Main Phase  
         * This works just like a "Normal" Main Phase in regard to combats.  
-        * You can play Plot 
+        * You can play Plot Twists from our hand to affect a **Pocket Universe**.
+        * You can discard Locations from your hand to generate a power symbol in the **Pocket Universe**. (Since the **Pocket Universe** has no resource row, there are no locations to turn face down to generate a power symbol.)  
+        * You can discard characters from your hand to Power Up characters in a **Pocket Universe**.
+        * When a character is KO'd in a **Pocket Universe** the
         
 
 # Gambit
@@ -1488,11 +1491,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ5NzQyOTQsMTgwNDk5ODUzNywtMT
-M4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4
-NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0ND
-YsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0
-NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4Mj
-A0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5Nzgs
-LTEyNjYwMDMxMF19
+eyJoaXN0b3J5IjpbLTYzNjg0ODk3LDE4MDQ5OTg1MzcsLTEzOD
+U0Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5
+MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LD
+g1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3
+MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwND
+MyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0x
+MjY2MDAzMTBdfQ==
 -->
