@@ -111,17 +111,17 @@ Set: The Utopia Battles
 * Alien (Space)
 * Humanity (Earth)
 
-# Baron Mordo (MC)
+# [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
 Set: Legacy  
 **Hypnotize**  
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 
-# Beast 
+# [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
 Set: The New Defenders  
 **Acrobatic**  
 Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
 
-# * Bishop *
+# \* Bishop \*
 Set: Legacy  
 **Energy Transference**  
 This power refers to (Energy/Atom) super powers.This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTI4MDM0NSw5MjE0NTM5MjksMTAzMT
+eyJoaXN0b3J5IjpbMjAyMzQxNjgwOCw5MjE0NTM5MjksMTAzMT
 c1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5
 LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMT
 cwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4
