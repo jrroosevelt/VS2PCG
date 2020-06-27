@@ -1545,7 +1545,29 @@ Here are the four Plot Twists he has at his disposal:
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 Set: The Fantastic Battles  
 **Self-Awareness**  
-Wyatt 
+Wyatt knows he is in a  **Card Game**, and he wants to play too! So when he appears, and until he leaves play, he gets his own hand and resource row.  **Note:** His hand counts as being part of your hand, and his resource row counts as being part of your resource row.
+
+Here’s how it works:
+
+-   At the end of your Draw Phase, Wyatt draws two cards into his part of your hand. (Keep these cards separate from the main part of your hand.)
+    -   **This is the only way to add cards to his part of your hand**. If another effect would add cards to your hand, they always go to the main part of your hand, never to Wyatt’s part of your hand.
+    -   All other effects that affect your hand work as normal.
+        -   For example, if you are forced to ”discard a random card”, you must randomize all the cards in your hand, including Wyatt’s part of your hand.
+
+-   At the end of your Resource Step, Wyatt may play a resource from his hand into his part of your resource row. (Keep these resources separate from the main part of your resource row.)
+    -   **This is the only way to add resources to his part of your resource row**. If another effect would add resources to your resource row, they always go to the main part of your resource row, never to Wyatt’s part of your resource row.
+
+-   At the end of your Recruit Step (after you’ve spent your normal Recruit Points to play cards from the main part of your hand, and any leftover Recruit Points go away), you gain 1 Recruit Point for each resource in Wyatt’s part of the resource row. You can only spend these Recruit Points to play cards from Wyatt’s part of your hand.
+
+Characters and Equipment you play from Wyatt’s part of the hand work as normal once they are on your side. (Once they’re in play, it doesn’t matter if they came from your main hand or Wyatt’s part of your hand.)
+
+You can play Plot Twists or power-ups from Wyatt’s part of your hand as normal.
+
+You can spend Locations in Wyatt’s part of your resource row or discard them from Wyatt’s hand to generate power symbols normally.
+
+When Wyatt leaves play, remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part of your hand stay in play.)
+
+**Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
 
 # [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
 Set: New Mutants  
@@ -1555,11 +1577,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzExMjI4MjAsLTEyODE5NDQwMTksND
-g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
-MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
-ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
-MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1OD
-A5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5
-LC01ODY4NjIzMjZdfQ==
+eyJoaXN0b3J5IjpbMTQ3MDcyMzk3NiwtMTI4MTk0NDAxOSw0OD
+cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
+MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
+wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
+MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
+k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
+LTU4Njg2MjMyNl19
 -->
