@@ -711,22 +711,22 @@ Set: MCU Villains
  **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
-# The Kingpin (SC)
+# [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-047.jpg) (SC)
 Set: The Defenders  
 **Underworld Boss**  
 The Kingpin Supporting Character has a Super Power where he takes over as your main character. When this happens, your former Main Character becomes a Supporting Character and remains in the game. It can still gain XP and Level Up, but you don’t lose the game if it gets KO’d. Instead, you now lose the game when Kingpin gets KO’d.
 
-# Kraven the Hunter (MC)
+# [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 Set: Sinister Syndicate  
 ** Spring the Trap **  
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
-# Lambert
+# [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
 Set: The Predator Battles  
 **No Autographs**   
 While in play, Lambert has every Good Team Affiliation. This does a variety of things. For example, he can team attack with any other Good characters, and while he is face up, he helps you play any Good Plot Twists.
 
-# Legacy
+# [Legacy](http://vs.tcgbrowser.com/images/cards/big/HER-012.jpg)
 Set: The Herald  
 **Nega-Bands**  
 Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negative Zone Location. Spending a Negative Zone means turning a Location named Negative Zone face down in your resource row or discarding one from your hand. (It works just like using a regular Location to pay for a super power except you don't actually generate a power symbol.)
@@ -1476,11 +1476,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTgzNzY2NTQsLTEzNTg3OTI1NDAsOT
-IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
-MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
-05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
-NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
-EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
-MzI2MTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbLTMyMTU0MTI5MywtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
