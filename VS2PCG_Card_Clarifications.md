@@ -1207,7 +1207,7 @@ Set: Spider-Friends
 **Spider-Powers**  
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
 
-## Spider-Man (SC - Webheads)
+## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-017.jpg) (SC - Webheads)
 Set: Webheads  
 **Tony's Tinkering**  
 When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's **Updates**). When Spidey installs **Updates**, you may remove any number of **Update** counters from him.
@@ -1218,7 +1218,7 @@ You can remove the same number of **Updates** more than once. For example, if yo
 
 Note: **Update** counters aren't removed from Spidey when he gets turned face down. However, they are still removed when he leaves play.
 
-# \* Spider-Man \*
+# \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
 Set: Crossover Vol. 2  
 **Citizen of the Multiverse**  
 Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
@@ -1226,7 +1226,7 @@ Miles Morales doesn't technically have the **Spider-Verse** keyword, but he like
 These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
 
 # \*\* Spider-Man \*\* 
-## \*\* Spider-Man \*\* (MC)
+## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-002.jpg) \*\* (MC)
 Set: Webheads  
 **Oz Formula**  
 This Spider-Man, from the Ultimate Universe, is our first character to share a mantle with two other people! (Miles Morales and the main Marvel Universe's Peter Parker.) In this comics, this Peter died... but then came back to life because the **Oz Formula** that gave him his powers also granted him immortality. For the game, this means when Peter is KO'd, you won't lose the game immediately for not having a main character. You'll have until the end of your next turn to bring him back when a Supporting Character with the **Friends and Family** keyword appears on your side. In this case, put him back onto your side with wounds equal to his (Health) minus 1. (With the **Oz Formula** mechanic, Peter can continue fighting for those he cares about.)
@@ -1459,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDM4NzI0LC0zMjUwOTMxMzEsLTE2NT
-A0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5
-NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMT
-Y0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgx
-ODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMz
-I2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0x
-NjQzNjI2NzgxXX0=
+eyJoaXN0b3J5IjpbMTUwNjQ3NjMyNiwtMzI1MDkzMTMxLC0xNj
+UwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUz
+OTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLT
+E2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4
+MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2Mj
+MyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MCwt
+MTY0MzYyNjc4MV19
 -->
