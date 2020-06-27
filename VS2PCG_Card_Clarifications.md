@@ -102,14 +102,12 @@ Baron Mordo can revert a main character back to level 1 until your next turn. Wh
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
 Set: The New Defenders  
-**Acrobatic**  
 Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
 
 # \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
 Set: Legacy  
 **Energy Transference**  
-This power refers to (Energy/Atom) super powers.This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in
-its cost).
+This power refers to (Energy/"Blue") super powers.This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
 Set: Monsters Unleashed!  
@@ -123,23 +121,19 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
 Set: Cosmic Avengers  
-**Passing Down the Knowledge**  
 For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
 Set: MCU Heroes  
-**Vibranium Weave Suit**  
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
 Set: MCU Heroes  
-**Bulletproof**  
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
 Set: Crossover  
-**Boing!**  
 If Blob strikes a character and his **Boing!** power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
 
 **Immovable Object**  
@@ -147,11 +141,9 @@ If Blob moves for any reason (including during your Formation Step or because an
 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/BOM-015.jpg) (SC)
 Set: Brotherhood of Mutants  
-**Stuck in His Stomach**  
-Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
+Blob’s **Stuck in His Stomach** power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
  
-**Bounced Off His Belly**  
-And his Bounced Off His Belly power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
+And his **Bounced Off His Belly** power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
 # [Book of the Vishanti](http://vs.tcgbrowser.com/images/cards/big/SVH-058.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
@@ -183,12 +175,10 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 # [Buffy](http://vs.tcgbrowser.com/images/cards/big/TBB-003.jpg) (MC) 
 Set: The Buffy Battles  
-**Save the World. A Lot.**  
 Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character. If she does and it’s the last enemy Main Character in play, you win immediately! But if something goes wrong or there are other enemy Main Characters left, Buffy will get KO’d at the end of the turn.
 
 # [Bullseye](http://vs.tcgbrowser.com/images/cards/big/def-027.jpg) (MC)
 Set: H.A.M.M.E.R.  
-**Perfect Aim**  
 When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
 
 **Everything’s a Weapon**  
@@ -196,12 +186,10 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 # [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
 Set: New Mutants  
-**Advanced Cybernetics**  
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
 Set: Cosmic Avengers  
-**Cosmic Awareness**
 His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
 * "Do you have any Plot Twists in your hand?"  
 * "Do you have any Fin Fang Fooms in your hand?"  
@@ -215,7 +203,6 @@ Carnage’s power triggers when he stuns or gets stunned. So it’s possible for
 # Chameleon
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SFO-001.jpg) (MC)
 Set: Spidey-Foes  
-**Blessing in Disguise**  
 If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Characters on your side.
 
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SYN-007.jpg) (SC)
@@ -1558,11 +1545,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDI5OTc1OCwtMTI4MTk0NDAxOSw0OD
-cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
-MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
-wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
-MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
-k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
-LTU4Njg2MjMyNl19
+eyJoaXN0b3J5IjpbMzQzODk0NDMsLTEyODE5NDQwMTksNDg3MT
+c2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEz
+MSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMT
+AzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEw
+MjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5Ny
+wtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01
+ODY4NjIzMjZdfQ==
 -->
