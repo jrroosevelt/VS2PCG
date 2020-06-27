@@ -142,18 +142,18 @@ Set: Cosmic Avengers
 **Passing Down the Knowledge**  
 For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
 
-## Black Panther (MC - Photo)
+## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
 Set: MCU Heroes  
 **Vibranium Weave Suit**  
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
 
-## Black Panther (SC)
+## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
 Set: MCU Heroes  
 **Bulletproof**  
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
 
 # Blob 
-## Blob (MC)
+## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
 Set: Crossover  
 **Boing!**  
 If Blob strikes a character and his **Boing!** power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
@@ -161,7 +161,7 @@ If Blob strikes a character and his **Boing!** power causes that character to st
 **Immovable Object**  
 If Blob moves for any reason (including during your Formation Step or because another effect moves him), he will be prevented from gaining an XP. At the end of Blob’s first turn of the game, he will gain an XP if he didn’t move that turn.
 
-## Blob (SC)
+## [Blob](http://vs.tcgbrowser.com/images/cards/big/BOM-015.jpg) (SC)
 Set: Brotherhood of Mutants  
 **Stuck in His Stomach**  
 Blob’s Stuck in His Stomach power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM5MDA2ODIsOTIxNDUzOTI5LDEwMz
-E3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIz
-OSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLT
-E3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2
-ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMz
-gwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2
-MDUzMDAyNTZdfQ==
+eyJoaXN0b3J5IjpbMTY3ODcxNTAxLDkyMTQ1MzkyOSwxMDMxNz
+UzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzks
+LTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0xNz
+A4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2NjksLTU4Njg2
+MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwtMTA3MDAwMjM4MC
+wtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMyNjE0NDg2LC0xNjA1
+MzAwMjU2XX0=
 -->
