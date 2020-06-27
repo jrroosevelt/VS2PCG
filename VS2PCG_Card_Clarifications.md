@@ -696,18 +696,17 @@ Set: Galactic Guardians
 **Follower**  
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
 
-# Jessica Jones
+# [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
 Set: Legacy  
 **Psionic Protection**  
 This power refers to (Intellect/Light bulb) super powers. This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
 
-
-# Juggernaut (MC)
+# [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
 Set: Brotherhood of Mutants  
 **It’s Gonna Take Something More to Stop Me!**  
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
-# Kaecilius
+# [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 Set: MCU Villains  
  **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
@@ -1477,7 +1476,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI1ODE1NDEsLTEzNTg3OTI1NDAsOT
+eyJoaXN0b3J5IjpbLTE5MTgzNzY2NTQsLTEzNTg3OTI1NDAsOT
 IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
 MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
 05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
