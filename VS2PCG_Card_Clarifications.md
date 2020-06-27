@@ -762,11 +762,11 @@ Set: Galactic Guardians
 **Primary Operating System**  
 When Mainframe uses **Primary Operating System** it applies only to characters that are currently on your side. It doesn't apply to characters that appear on your side later that turn.
 
-# Magneto (MC)
+# [Magneto](http://vs.tcgbrowser.com/images/cards/big/BOM-005.jpg) (MC)
 Set: Brotherhood of Mutants  
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
-# Mandarin
+# [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg)
 Set: The MCU Battles  
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
@@ -774,8 +774,7 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 
 # Marvel Required (Equipment)
 Set: S.H.I.E.L.D. vs Hydra    
-This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of
-Marvel character cards.)
+This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of Marvel character cards.)
 
 # Mary Walker
 Set: The Defenders  
@@ -1476,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0OTMxNjQzLC0xMzU4NzkyNTQwLDkyMT
-Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
-LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
-MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
-MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
-wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
-NjE0NDg2XX0=
+eyJoaXN0b3J5IjpbLTgzOTc5MzY0OCwtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
