@@ -239,12 +239,12 @@ Set: Sinister Syndicate
 **Master of Disguise**  
 Chameleon does copy the **Sinister Six** keyword from your main characters who have that keyword. It doesn’t do anything for him in the game because he’s not a main character – he just wants to feel like a real part of the team.
 
-# The Champion
+# [The Champion](http://vs.tcgbrowser.com/images/cards/big/CV2-019.jpg)
 Set: Crossover Vol. 2  
 **Primordial Power**  
 (Infinite) ATK means the Champion will always have enough ATK to stun a defender and his DEF will always be high enough to avoid getting stunned by a defender's strike. Although if somehow, the defender also has infinite ATK and DEF, then both characters will get stunned. (In other words, infinite ATK is treated as equal to infinite DEF which results in a stun. It's maths.)
 
-# Chimichanga
+# [Chimichanga](http://vs.tcgbrowser.com/images/cards/big/MFM-021.jpg)
 Set: Deadpool & Friends  
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjIwMTE1LC0xMzU4NzkyNTQwLDkyMT
+eyJoaXN0b3J5IjpbMzk1Mjk3NDY5LC0xMzU4NzkyNTQwLDkyMT
 Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
 LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
 MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
