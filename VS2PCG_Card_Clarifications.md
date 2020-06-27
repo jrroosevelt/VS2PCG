@@ -1261,12 +1261,12 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 Set: Crossover  
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
 
-# Star Hawk
+# [Star Hawk](http://vs.tcgbrowser.com/images/cards/big/GAL-012.jpg)
 Set: Galactic Guardians  
 **Composite Being**  At one point Starhawk was actually two beings merged together who took turns occupying the same space. The Starhawk card from way back in the Vs. System 2PCG: Legacy expansion represents Stakar Ogord, but this card brings Aleta Ogord to the fore. Because they share the same body, you cant have both Starhawks in play at the same time. However, Aleta's **Composite Being** grants **Bond with Starhawk** to any Stakar Starhawks in your hand.
 
 # Star Lord
-## Star Lord (MC)
+## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
 Set: The MCU Battles  
 **Dance Off, Bro**  
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
@@ -1459,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MjMyNjI3LC0zMjUwOTMxMzEsLTE2NT
-A0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5
-NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMT
-Y0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgx
-ODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2ODYyMz
-I2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMzgwLC0x
-NjQzNjI2NzgxXX0=
+eyJoaXN0b3J5IjpbLTEzODU0Mjc0ODcsLTMyNTA5MzEzMSwtMT
+Y1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1
+Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC
+0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcw
+ODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4Nj
+IzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAs
+LTE2NDM2MjY3ODFdfQ==
 -->
