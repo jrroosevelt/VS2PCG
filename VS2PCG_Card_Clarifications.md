@@ -883,14 +883,14 @@ Set: Sinister Syndicate
 **Holographic Projector**  
 Plot twists without team affiliations can be played  regardless of the team affiliations you have on face-up characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, (Sinister Syndicate) characters on your side.
 
-# Mystique (MC)
+# [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC)
 Set: Legacy  
 **Identity Theft**  
 Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
-# Namor (MC)
+# [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
 Set: The New Defenders  
 Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy characters as well. Likewise, his two **Level Up** powers also DO count facedown exhausted enemy characters as well.
 
@@ -902,7 +902,7 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 * They can’t be attacked unless each character in your front and back rows is face down.
 
 # Nebula
-## Nebula (MC)
+## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-003.jpg) (MC)
 Set: Black Order  
 **Thanos's Greatest Creation**  
 **Thanos's Greatest Creation** prevents Nebula from having keyword or super powers other than **Passive** (and **Thanos's Greatest Creation**, of course). This includes any granted by an equipment, too. 
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODY3OTg5MywtMTM1ODc5MjU0MCw5Mj
-E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
-OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
-kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
-NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
-AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
-MjYxNDQ4Nl19
+eyJoaXN0b3J5IjpbNDY5MzY1NzA5LC0xMzU4NzkyNTQwLDkyMT
+Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
+LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
+MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
+MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
+wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
+NjE0NDg2XX0=
 -->
