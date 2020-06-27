@@ -846,7 +846,7 @@ Set: Crossover
 **Usurp the Throne**  
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
 
-# Mephisto
+# [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
 Set: The Fantastic Battles  
 **Deal with the Devil**  
 At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
@@ -991,6 +991,10 @@ Set: Black Order
 Set: The MCU Battles  
 **Rivalry**  
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
+
+# [Negative Zone](http://vs.tcgbrowser.com/images/cards/big/FAN-029.jpg)
+Set: The Fantastic Battles  
+Although the Negative Zone has a (Fantastic) team affiliation, any main character can pay a powe
 
 # New Mutants
 Set: New Mutants  
@@ -1527,11 +1531,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNjAzMDYxLC0xMjgxOTQ0MDE5LDQ4Nz
-E3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMx
-MzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LD
-EwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODEx
-MDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOT
-csLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwt
-NTg2ODYyMzI2XX0=
+eyJoaXN0b3J5IjpbLTc0NTM3ODMsLTEyODE5NDQwMTksNDg3MT
+c2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEz
+MSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMT
+AzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEw
+MjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5Ny
+wtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01
+ODY4NjIzMjZdfQ==
 -->
