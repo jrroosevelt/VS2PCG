@@ -849,8 +849,13 @@ Set: Crossover
 # Mephisto
 Set: The Fantastic Battles  
 **Deal with the Devil**  
-At your own risk, you may offer a **Deal with the Devil**. Here's how it works: 
-* 
+At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
+
+* The **Deal** must involve at least two elements.  
+    * For example, the offer can't be "I draw ten cards."
+* There can only be one offer for the **Deal** - this is a "take it or leave it" situation.
+    * Mephisto hates negotiation.
+* The **Deal* can only involve game effects
 
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
 Set: Black Order  
@@ -1512,7 +1517,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1ODc1MjU5LC0xMjgxOTQ0MDE5LDQ4Nz
+eyJoaXN0b3J5IjpbLTY5NTM2ODc1LC0xMjgxOTQ0MDE5LDQ4Nz
 E3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMx
 MzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LD
 EwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODEx
