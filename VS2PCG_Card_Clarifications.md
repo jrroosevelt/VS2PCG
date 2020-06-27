@@ -400,12 +400,10 @@ Emma’s power can be used any number of times each turn. So if a character ends
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/HAM-016.jpg) (SC) (H.A.M.M.E.R.)
 Set: H.A.M.M.E.R.  
-**Fluid Forms and Fidelity**  
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of her counters, and any effects on her.
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/RES-014.jpg) (SC) (Resistance)
 Set: Resistance    
-**Fluid Forms and Fidelity**  
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/ exhausted, face-up /face-down), all of her counters, and any effects on her.
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
@@ -441,12 +439,10 @@ Faith can steal any kind of counter from an enemy defender.
 
 # [Falcon](http://vs.tcgbrowser.com/images/cards/big/mcu1-016.jpg)
 Set: The MCU Battles  
-**Air Superiority**  
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
 
 # [Falcon Drone](http://vs.tcgbrowser.com/images/cards/big/PRD-009.jpg)
-Set: The Predator Battles  
-**Bond**  
+Set: The Predator Battles   
 Some characters have a **Bond** with another character. This allows them to be discarded from your hand to generate a Power Symbol for that other character’s Super Powers. You can do this for that character’s Main or Supporting Character. 
 
 Example: You want to use the Falconer Supporting Character’s **Bait and Switch** Super Power, which costs (Skill/"Red"). You may discard a Falcon Drone from your hand to pay for the Super Power. If a character with Bond is used to generate a Power Symbol for a Super Power with Amplify, the Amplify text will apply
@@ -456,13 +452,11 @@ Set: The Predator Battles
 **Active Falcon Drone**  
 Falconer starts the game with a Falcon Drone from your deck on his side. The Falcon Drone still counts toward your 60 cards when you build your deck. 
 
-**We're the Game**  
 His Level Up Power, **We’re the Game**, triggers whenever an enemy player reveals one or more cards. Some effects that would grant 1 XP this way are when a player reveals their hand, when a player reveals one or more cards from the top of their deck, or when a player reveals the cards they draw (due to a Falcon Drone).
 
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
 Set: The Herald  
-**The Core Four**  
-**The Core Fourr** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
+**The Core Four** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
 Set: Monsters Unleashed!  
@@ -474,7 +468,6 @@ If two or more players are playing as The First Evil, they will need to randomly
 
 # Franklin Richards
 Set: The Fantastic Battles  
-**Pocket Universe**  
 Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
 
 * Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
@@ -519,17 +512,14 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-012.jpg) (SC)
 Set: Resistance  
-**Molecular Acceleration**  
 **Molecular Acceleration** is a Keyword Power, not a Super Power.
 
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 Set: The Buffy Battles  
-**Hush**  
 **Hush** prevents players from using effects that require you to “say” something or to “name” something. **Hush** also prevents players from talking. You can still communicate in other ways such as using hand signals, or writing things down. You can also make sounds without using your vocal chords. If a player does speak, do your best impersonation of a Gentleman in order to shush them. (There is no in-game penalty for speaking. It’s just not cool.)
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
 Set: Webheads  
-**You Can Borrow This for a While**  
 **You Can Borrow This for a While** grants characters with the chosen name the **Dimensional Wristwatch** keyword. You can recruit a character with **Dimensional Wristwatch** directly from your deck: Announce you're recruiting them from your deck, search your deck for the character, shuffle your deck, and then recruit them (pay its cost and put it onto your side). 
 
 If a character with the chosen name gets put back into your deck somehow it will regain **Dimensional Wristwatch** while it's in your deck.
@@ -546,7 +536,6 @@ If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players
 
 # [Gilgamesh](http://vs.tcgbrowser.com/images/cards/small/COS-015.jpg)
 Set: Cosmic Avengers  
-**The Forgotten One**  
 For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you from speaking, he will lose Eternal at the end of the turn.
 
 # [Global Information Network](http://vs.tcgbrowser.com/images/cards/big/COS-020.jpg)
@@ -561,7 +550,6 @@ In this Arc, we are playing around with how players can use locations besides su
 
 # [Glory](http://vs.tcgbrowser.com/images/cards/big/TBB-049.jpg) 
 Set: The Buffy Battles  
-**Drain Sanity**  
 **Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
 
 # [Goblin Queen](http://vs.tcgbrowser.com/images/cards/big/aff-042.jpg)
@@ -578,12 +566,10 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
 
-**Bag of Tricks**  
-Goblin’s Bag of Tricks allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
+Goblin’s **Bag of Tricks** allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 Set: Cosmic Avengers  
-**Custom Quiver**  
 Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
@@ -1530,11 +1516,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MjMxOTk4LC0xMjgxOTQ0MDE5LDQ4Nz
-E3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMx
-MzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LD
-EwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODEx
-MDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOT
-csLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwt
-NTg2ODYyMzI2XX0=
+eyJoaXN0b3J5IjpbLTU1MzI1ODc0NiwtMTI4MTk0NDAxOSw0OD
+cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
+MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
+wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
+MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
+k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
+LTU4Njg2MjMyNl19
 -->
