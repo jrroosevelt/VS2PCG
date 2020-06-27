@@ -1303,12 +1303,12 @@ Sunspot’s **Solar Absorption** power is not optional. At the start of your Mai
 Set: Black Order  
 Both of Supergiant's powers trigger when she appears. You can resolve them in whichever order you like.
 
-# Superior Spider-Man (MC)
+# [Superior Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-007.jpg) (MC)
 Set: Webheads  
 **A Superior Hero**  
 **A Superior Hero** represents Doc Ock's realization that Peter Parker's selflessness makes Peter the superior hero. When another character on your side is attacked, you may transform Superior Spider-Man into the Marvel Battles Level 2 Spider-Man with **Friendly Neighbor**, remove the defender from combat, and replace it with your new Spider-Man Main Character. Note: Spider-Man will keep all counters, Equipment, effects, and orientation (ready/exhausted) that Superior Spider-Man had.
 
-# Super Skrull (MC)
+# [Super Skrull](http://vs.tcgbrowser.com/images/cards/big/FAN-035.jpg) (MC)
 Set: The Fantastic Battles  
 **First Faker**  
 Super-Skrull's **First Faker** Level Up power looks at every player's side (not just yours) and it counts Main and Supporting Characters. But if there are, for example, two Human Torches in play, he still only gets 1 XP for Human Torch.  
@@ -1316,17 +1316,17 @@ Super-Skrull's **First Faker** Level Up power looks at every player's side (not 
 **Cosmic Energy Power Receptors**
 The powers he gains from his **Cosmic Energy Power Receptors** have no duration, so he keeps them until he leaves play. They also look at every player's side (not just yours). Note that if he copies **Stroke of Genius** from Mister Fantastic, he will only be able to **Invent** if you already have an Invention pile for your deck.
 
-# Supreme Leader
+# [Supreme Leader](http://vs.tcgbrowser.com/images/cards/big/SVH-008.jpg)
 Set: S.H.I.E.L.D. vs. Hydra  
 **Hydra High Council**   
 Supreme Leader has a Super Power which prevents you from losing the game even after he’s KO’d. Just continue to play without a main character.
 
-# Sweet
+# [Sweet](http://vs.tcgbrowser.com/images/cards/big/TBB-047.jpg)
 Set: The Buffy Battles  
 **That's Entertainment**   
 **That’s Entertainment** moves each face-up character to their front row and has them perform a Musical Number. There is no official definition of what counts as a Musical Number. We recommend rocking the cards back and forth and having them sing a song. (Although if The Gentlemen are in play, no singing is allowed.)
 
-# Terrigen Mist
+# [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
 Set: Crossover vol. 2  
 Terrigen Mist puts +1/+1 counters on each character on your side, including ones that are already exhausted.
 
@@ -1459,11 +1459,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg2MzY5MzQsLTEzODU0Mjc0ODcsLT
-MyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0
-NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOS
-wxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkz
-MDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1Nz
-M2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAs
-LTEwNzAwMDIzODBdfQ==
+eyJoaXN0b3J5IjpbMTExNTAzODEyOCwtMTM4NTQyNzQ4NywtMz
+I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
+MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
+E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
+NzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3Mz
+Y2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMCwt
+MTA3MDAwMjM4MF19
 -->
