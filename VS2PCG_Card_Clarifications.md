@@ -588,7 +588,6 @@ Set: H.A.M.M.E.R.
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 Set: Spidey-Foes  
-**Nothing Without the Green Goblin**  
 As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appears" powers on face-up Green Goblin characters on your side (like **Blast**).
 
 # Hulk
@@ -597,25 +596,21 @@ Set: The MCU Battles
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-024.jpg) (SC - Photo)
-Set: The MCU Battles  
-**Hulk Like Raging Fire**  
+Set: The MCU Battles   
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/DFX-018.jpg) (SC - Illustrated)
 Set: The New Defenders  
-**Puny Weapons Can’t Hurt Hulk**  
 Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and even Evil Lethal wounds) won’t KO him. This also includes, but is not limited to, things like Gamora’s Godslayer Blade and MCU Drax’s Finger on Throat Means Death.
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 Set: Spidey-Foes  
-**Fluid Tactics**  
 **Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't play a Plot Twist that gives him +3 ATK and convert it into +2 ATK and +1 DEF.
 
 Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tactics**.
 
 # [Hyperion](http://vs.tcgbrowser.com/images/cards/big/COS-014.jpg)
 Set: Cosmic Avengers  
-**Reliance on Solar Energy**  
 Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required (Energy/"Blue"). But it doesn't have to be in the combat.
 
 # Impersonating Powers
@@ -629,7 +624,6 @@ Impossible Man is three cards in one. He can be played as an Equipment, a Plot T
 
 # [The In-Betweener](http://vs.tcgbrowser.com/images/cards/big/CV2-009.jpg)
 Set: Crossover Vol. 2  
-**Duality Itself**  
 **Duality Itself** lets you put the In-Betweener onto your side between two turns of the game. You can deven do this after an enemy player's first turn but before your first turn.
 
 The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to have so he ended up between two whole numbers. In most cases, his stats work like this. 1 ½ cost means you must pay 1 ½ recruit points to recruit him. So you will have ½ a recruit point left over. 4 ½ ATK means his strikes will stun a 4 DEF character but not a 5 DEF character. 3 ½ DEF means if he is struck with 3 ATK, he won't get stunned, but if he gets struck with 4 ATK he will get stunned. 2 ½ (Health) means 2 wounds won't KO him, but 3 wounds will.
@@ -660,12 +654,10 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
 Set: The Herald  
-**Remove Cosmic Energy**  
 **Remove Cosmic Energy** has no duration. Once you've named a super power (including one that is not currently in play if you like) enemy Supporting Characters can't use that power for the rest of the game.
 
 # [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
 Set: Crossover  
-**We’re All Weirdos Here**  
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
@@ -679,7 +671,6 @@ Isabelle’s supporting character has this keyword. Enemy players can turn down 
 
 # [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg)
 Set: Galactic Guardians  
-**Follower**  
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
 
 # [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
@@ -689,12 +680,10 @@ This power refers to (Intellect/Light bulb) super powers. This counts for any su
 
 # [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
 Set: Brotherhood of Mutants  
-**It’s Gonna Take Something More to Stop Me!**  
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 Set: MCU Villains  
- **Fold Space and Matter**  
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
 
 # [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-047.jpg) (SC)
@@ -714,7 +703,6 @@ While in play, Lambert has every Good Team Affiliation. This does a variety of t
 
 # [Legacy](http://vs.tcgbrowser.com/images/cards/big/HER-012.jpg)
 Set: The Herald  
-**Nega-Bands**  
 Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negative Zone Location. Spending a Negative Zone means turning a Location named Negative Zone face down in your resource row or discarding one from your hand. (It works just like using a regular Location to pay for a super power except you don't actually generate a power symbol.)
 
 # [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
@@ -727,27 +715,22 @@ This Plot Twist puts two characters on your side in a Relationship. This means t
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 Set: Galactic Guardians  
-**Balances the Multiverse**  
 When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards are cards that have photographic artwork on them, from TV shows and movies. The other universe is the Illustrated Universe, whose cards are cards with drawn, or illustrated artwork.
 
 # [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC)
 The MCU Battles  
-**I Am Burdened With Glorious Purpose**  
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 Set: The Fantastic Battles  
-**Computer Mind**  
 The Mad Thinker's **Computer Mind** is so powerful he can very accurately predict what his enemies are going to do. When you make a **Prediction**, secretly write down the name of two characters; an attacker and a defender. The names don't have to be characters in play at the time Mad Thinker uses the super power. When a character with the attacker's name attacks a character on your side with the defender's name (even in a team attack), cancel the combat. Then make another **Prediction** about the same turn, but this time you'll have a lot more data! You can make a maximum of two **Predictions** from each use of the super power.
 
 # [Magik](http://vs.tcgbrowser.com/images/cards/big/NEW-014.jpg) 
 Set: New Mutants  
-**Summon Soulsword**  
 Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
 Set: Galactic Guardians  
-**Stationary**  
 **Stationary** prevents Mainframe from moving even if an enemy player uses a push or pull effect on him or rearranges your formation.
 
 **Primary Operating System**  
@@ -1516,11 +1499,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzI1ODc0NiwtMTI4MTk0NDAxOSw0OD
-cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
-MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
-wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
-MTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MD
-k3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3MzY2Njks
-LTU4Njg2MjMyNl19
+eyJoaXN0b3J5IjpbLTIwMTc2NTI2MzYsLTEyODE5NDQwMTksND
+g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
+MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
+ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
+MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1OD
+A5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5
+LC01ODY4NjIzMjZdfQ==
 -->
