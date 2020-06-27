@@ -63,7 +63,7 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 Set: The Buffy Battles  
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
 
-# Angela
+# [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
 Set: Galactic Guardians  
 **An Angel From the Heavens**  
 **An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have (Flight) or (Range) (or both) to solo attack her. 
@@ -71,7 +71,7 @@ Set: Galactic Guardians
 **The Tenth Realm**  
 When Angela opens a **Bridge to Heven**, you must put each revealed character onto your side. This may cause some characters to be KO'd due to the uniqueness rules.
 
-# Anya 
+# [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
 Set: The Buffy Battles
 Her **Newly Human and Strangely Literal** power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
 
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1ND
-I2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAw
-OTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC
-0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2
-MDAzMTAsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMj
-c1MiwzMjYxNDQ4NiwtMTYwNTMwMDI1NiwxNTEyNjEwODQ0LDIz
-NzMzMzYxN119
+eyJoaXN0b3J5IjpbLTE4MTQ2NTE1MzcsMTAzMTc1Mzk0NCwxNj
+E2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkz
+NDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4Mi
+wxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4NjIzMjYsNTIy
+NTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzODAsLTE2NDM2Mj
+Y3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYwNTMwMDI1Niwx
+NTEyNjEwODQ0XX0=
 -->
