@@ -1158,11 +1158,11 @@ At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X
 
 See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
 
-# Sif
+# [Sif](http://vs.tcgbrowser.com/images/cards/big/CV1-015.jpg)
 Set: Crossover  
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
 
-# Silver Surfer (MC)
+# [Silver Surfer](http://vs.tcgbrowser.com/images/cards/big/HER-005.jpg) (MC)
 Set:  The Herald  
 **Take a Stand**  
 **Take a Stand** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a (Humanity/"Earth") for the Silver Surfer.
@@ -1170,7 +1170,7 @@ Set:  The Herald
 **Protect the Earth**  
 **Protect the Earth** will return the highest cost Supporting Character to its owner's hand, whether that character is on your side or on another player's side.
 
-# Simon Trask (MC) 
+# [Simon Trask](http://vs.tcgbrowser.com/images/cards/big/TUB-037.jpg) (MC) 
 Set: The Utopia Battles  
 **Proposition X**  
 **Proposition X** works like this. When an enemy character appears, check each of its team affiliations against each team affiliation on characters on your side. For each affiliation the enemy character has that is NOT shared, Trask gains 1 XP. 
@@ -1475,7 +1475,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzgzNDIzMiwtMTY1MDQ1MzgxOSwtMT
+eyJoaXN0b3J5IjpbLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMT
 M1ODc5MjU0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIx
 NDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC
 0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0
