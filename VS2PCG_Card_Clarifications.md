@@ -1050,17 +1050,17 @@ Set:  The Herald
 **Receptionist**  
 **Receptionist** prevents Roberta from leaving the front row. This means she can't be moved to the back row during your Formation Step, and she ignores any card effects that would move her out of the front row. However, an effect could move her from one player's front row to another player's front row.
 
-# Rocket
+# [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
 Set: The MCU Battles  
 **I’m Gonna Need a Few Things**  
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
 
 # Rogue
-## Rogue (MC)
+## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC)
 Set: Resistance
 Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
 
-## Rogue (SC)
+## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC)
 Set: A-Force  
 **Absorb Powers**  
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
@@ -1475,11 +1475,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU2ODg5MTcsLTEzNTg3OTI1NDAsOT
-IxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMw
-MDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC
-05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5
-NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMz
-EwLC0xMDcwMDAyMzgwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIs
-MzI2MTQ0ODZdfQ==
+eyJoaXN0b3J5IjpbLTg4NTEwMzU3MywtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
