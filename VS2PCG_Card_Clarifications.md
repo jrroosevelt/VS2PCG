@@ -525,6 +525,8 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 * Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
     * A **Pocket Universe** has only front and back rows (no resource row).  
     * When the characters are moved to the **Pocket Universe** they stay in the same rows they were in in the original universe. They keep all their counters and their orientation (ready/exhausted; face up/face down).  
+    * The **Pocket Universe** is still in the same overall game as the original universe. So cards don't "appear" or "leave play" when they move from the original universe to the **Pocket Universe** or vice versa.  
+    * Cards in the **Pocket Universe** cannot attack or otherwise affect cards in the original universe and vice versa.  
     * 
 
 # Gambit
@@ -1471,11 +1473,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc0MDUzODcsMTgwNDk5ODUzNywtMT
-M4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4
-NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0ND
-YsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0
-NjcxMDA5MCwtOTMwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4Mj
-A0MzIsLTEyOTU3MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5Nzgs
-LTEyNjYwMDMxMF19
+eyJoaXN0b3J5IjpbMTYwNzU2MTI1NiwxODA0OTk4NTM3LC0xMz
+g1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3
+OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Ni
+w4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwtMTQ2
+NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIsMTA0NDgyMD
+QzMiwtMTI5NTczNjY2OSwtNTg2ODYyMzI2LDUyMjU3MTk3OCwt
+MTI2NjAwMzEwXX0=
 -->
