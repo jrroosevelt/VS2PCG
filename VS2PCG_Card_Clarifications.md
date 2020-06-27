@@ -252,7 +252,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 Set: Spider-Friends  
 Spider-Man and many of his friends and foes are great at climbing up buildings. In the game, this lets them get an advantage before the fighting starts: At the start of your Main Phase, you may exhaust a location on your side to put a +1/+1 counter on your character with Climb. A character can only climb one location per turn and the same location can’t be climbed by more than one character. (You exhaust the location to show that it’s been climbed.) So if you have two locations but three climbers, one of them is out of luck. During your Recovery Phase your exhausted locations will ready the same time your characters do.
 
-# Cloak 
+# [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
 Set: The Utopia Battles
 **Darkforce Channeling**  
 **Darkforce Channeling** affects all characters, including ones that appear on your side
@@ -264,7 +264,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 Set: S.H.I.E.L.D. vs. Hydra  
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
 
-# Cosmo (MC)
+# [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
 Set: Galactic Guardians  
 **All Bark, No Flight**  
 With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1Mjk3NDY5LC0xMzU4NzkyNTQwLDkyMT
-Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
-LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
-MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
-MzY2NjksLTU4Njg2MjMyNiw1MjI1NzE5NzgsLTEyNjYwMDMxMC
-wtMTA3MDAwMjM4MCwtMTY0MzYyNjc4MSwyMDM5NjEyNzUyLDMy
-NjE0NDg2XX0=
+eyJoaXN0b3J5IjpbLTY2NjI1Njc4MCwtMTM1ODc5MjU0MCw5Mj
+E0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAw
+OSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLT
+kzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1
+NzM2NjY5LC01ODY4NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMT
+AsLTEwNzAwMDIzODAsLTE2NDM2MjY3ODEsMjAzOTYxMjc1Miwz
+MjYxNDQ4Nl19
 -->
