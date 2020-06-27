@@ -193,11 +193,11 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
-# Bruce Banner (and the Hulk) (MC)
+# [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
 Set: The MCU Battles  
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
-# Buffy (MC) 
+# [Buffy](http://vs.tcgbrowser.com/images/cards/big/TBB-003.jpg) (MC) 
 Set: The Buffy Battles  
 **Save the World. A Lot.**  
 Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character. If she does and it’s the last enemy Main Character in play, you win immediately! But if something goes wrong or there are other enemy Main Characters left, Buffy will get KO’d at the end of the turn.
@@ -1480,11 +1480,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDI4NTcxOCw5MjE0NTM5MjksMTAzMT
-c1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMjM5
-LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5NywtMT
-cwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5LC01ODY4
-NjIzMjYsNTIyNTcxOTc4LC0xMjY2MDAzMTAsLTEwNzAwMDIzOD
-AsLTE2NDM2MjY3ODEsMjAzOTYxMjc1MiwzMjYxNDQ4NiwtMTYw
-NTMwMDI1Nl19
+eyJoaXN0b3J5IjpbLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMz
+E3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIz
+OSwtMTY0MDg5MzQzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLT
+E3MDgxODg5ODIsMTA0NDgyMDQzMiwtMTI5NTczNjY2OSwtNTg2
+ODYyMzI2LDUyMjU3MTk3OCwtMTI2NjAwMzEwLC0xMDcwMDAyMz
+gwLC0xNjQzNjI2NzgxLDIwMzk2MTI3NTIsMzI2MTQ0ODYsLTE2
+MDUzMDAyNTZdfQ==
 -->
