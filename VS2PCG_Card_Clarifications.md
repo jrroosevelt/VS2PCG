@@ -615,17 +615,17 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 Set: The MCU Battles  
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
 
-## Hulk (SC - Photo)
+## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-024.jpg) (SC - Photo)
 Set: The MCU Battles  
 **Hulk Like Raging Fire**  
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
 
-## Hulk (SC - Illustrated)
+## [Hulk](http://vs.tcgbrowser.com/images/cards/big/DFX-018.jpg) (SC - Illustrated)
 Set: The New Defenders  
 **Puny Weapons Can’t Hurt Hulk**  
 Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and even Evil Lethal wounds) won’t KO him. This also includes, but is not limited to, things like Gamora’s Godslayer Blade and MCU Drax’s Finger on Throat Means Death.
 
-# Hydro-Man
+# [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 Set: Spidey-Foes  
 **Fluid Tactics**  
 **Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't play a Plot Twist that gives him +3 ATK and convert it into +2 ATK and +1 DEF.
@@ -1480,7 +1480,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDE4MjM5LC0xMzU4NzkyNTQwLDkyMT
+eyJoaXN0b3J5IjpbNjg2NjE3MTA0LC0xMzU4NzkyNTQwLDkyMT
 Q1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5
 LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOT
 MwNzU4MDk3LC0xNzA4MTg4OTgyLDEwNDQ4MjA0MzIsLTEyOTU3
