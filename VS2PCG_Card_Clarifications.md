@@ -1397,14 +1397,14 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 **Note:** The Level 3 Ultron’s **Your Extinction** power KOs all enemy cards (in a very dramatic way).
 
 
-# Venom (MC)
+# [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC)
 Set: Crossover  
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
 
 **Relentless Bond**  
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
 
-# Vocal Mimicry
+# [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
 Set: The Predator Battles  
 Currently, there are only 3 (Predator) One of a Kind Plot Twists that it can copy: “Any Time.”, “Over Here.” and “Turn Around.”
 
@@ -1460,7 +1460,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzQ3NDQ0MCwtMTM4NTQyNzQ4NywtMz
+eyJoaXN0b3J5IjpbMTQ1OTEwNjM1NiwtMTM4NTQyNzQ4NywtMz
 I1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1
 MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LD
 E0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMw
