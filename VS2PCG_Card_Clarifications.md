@@ -694,7 +694,7 @@ The Kingpin Supporting Character has a Super Power where he takes over as your m
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 Set: Sinister Syndicate  
-** Spring the Trap **  
+**Spring the Trap**  
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
@@ -787,10 +787,10 @@ At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
     * Nothing that affects later turns or games.  
 * All parts of the **Deal** must resolved simultaneously.  
 
-Here are a few exemplar **Deals**:
-* "I draw five cards an you draw ten cards."  
-* "Wound your main character and put a supporting character from your hand onto your side."  
-* "You choose a character on your side and a character on my side and we stun them both."  
+Here are a few exemplar **Deals**:  
+
+ -  "I draw five cards an you draw ten cards."  
+ - "Wound your main character and put a supporting character from your hand onto your side."  * "You choose a character on your side and a character on my side and we stun them both."  
 * "I discard my hand and you lose the game."  
 
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
@@ -1433,11 +1433,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMD
-U0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4
-NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MT
-ksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYx
-NjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5Mz
-QzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIs
-MTA0NDgyMDQzMl19
+eyJoaXN0b3J5IjpbMjA5NDMwMzcxLDY2Nzc1NDY1NSwtMTI2Mj
+k2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYx
+OTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC
+0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMx
+NzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMz
+ksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0x
+NzA4MTg4OTgyXX0=
 -->
