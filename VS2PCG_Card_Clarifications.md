@@ -790,8 +790,9 @@ At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
 Here are a few exemplar **Deals**:  
 
  -  "I draw five cards an you draw ten cards."  
- - "Wound your main character and put a supporting character from your hand onto your side."  * "You choose a character on your side and a character on my side and we stun them both."  
-* "I discard my hand and you lose the game."  
+ - "Wound your main character and put a supporting character from your hand onto your side."  
+ - "You choose a character on your side and a character on my side and we stun them both."  
+ - "I discard my hand and you lose the game."  
 
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
 Set: Black Order  
@@ -851,7 +852,7 @@ Set: The Predator Battles
 **Enhanced Bio-Mask** 
 Mr. Black’s super power allows him to attack a face-down (hidden or stunned) character. Treat it as a regular attack (both players can play Plot Twists, Power-Up, etc.), but keep in mind the face-down character’s powers are turned off and its Team Affiliation is not available for things like playing a Plot Twist. 
 
-When Mr. Black and the defender strike each other: 
+When Mr. Black and the defender strike each other:  
 * Mr. Black can get stunned as normal.  
 * A hidden character can get stunned as normal. (Wound it and change its orientation from ready to exhausted.)  
 * If Mr. Black’s strike would stun an already-stunned character, wound it instead. Note: A stunned character can’t be stunned (including by having its DEF reduced to 0 or a direct “stun” effect).
@@ -1037,7 +1038,7 @@ Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two ca
 
 # Rogue
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC)
-Set: Resistance
+Set: Resistance  
 Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
 
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC)
@@ -1433,11 +1434,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDMwMzcxLDY2Nzc1NDY1NSwtMTI2Mj
-k2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYx
-OTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC
-0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMx
-NzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMz
-ksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwtOTMwNzU4MDk3LC0x
-NzA4MTg4OTgyXX0=
+eyJoaXN0b3J5IjpbMTk0NTg2MzQyNSw2Njc3NTQ2NTUsLTEyNj
+I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
+MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
+wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
+MTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMj
+M5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5Nywt
+MTcwODE4ODk4Ml19
 -->
