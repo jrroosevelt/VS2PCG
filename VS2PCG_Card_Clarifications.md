@@ -261,7 +261,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
 Set: Crossover  
 **Deconstruct the Universe**  
-When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
+When Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
 
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
  
@@ -1433,11 +1433,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLT
-EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
-Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5Mj
-U0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1
-NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MT
-AwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMy
-LC0xMjk1NzM2NjY5XX0=
+eyJoaXN0b3J5IjpbNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMD
+U0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4
+NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MT
+ksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYx
+NjgyMTQ0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5Mz
+QzOSwtMTQ2NzEwMDkwLC05MzA3NTgwOTcsLTE3MDgxODg5ODIs
+MTA0NDgyMDQzMl19
 -->
