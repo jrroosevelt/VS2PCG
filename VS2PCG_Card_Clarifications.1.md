@@ -261,7 +261,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
 Set: Crossover  
 **Deconstruct the Universe**  
-When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
+When Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
 
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
  
@@ -330,7 +330,7 @@ Set: Monsters Unleashed!
 Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team. But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
 
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-105.jpg) and Moon Girl (MCs)  
-The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
+The Main Characters, Moon Girl and Devil Dinosaur, go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
 # [Devil Slayer](http://vs.tcgbrowser.com/images/cards/big/DFX-009.jpg)
 Set: The New Defenders  
@@ -427,11 +427,12 @@ If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg)
 * If you reveal a Facehugger token character, KO its Ovomorph, put the Facehugger into your Back Row, and it captures an enemy supporting character. (It can capture a face-up or stunned supporting character.)  
 
 “Capture” is a new game action that means:  
-* Remove the Captive card from the game, but keep any wound counters on it.  
-* Put the Captive card next to (or underneath) its Captor to make it clear who its Captor is.  
-* When the Captor leaves play, put its Captive back into play stunned in its owner’s back row.  
-* You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
-* Note: Put the KO’d Facehugger token back into your Facehugger Pile.
+
+ - Remove the Captive card from the game, but keep any wound counters on it.  
+ - Put the Captive card next to (or underneath) its Captor to make it clear who its Captor is.  
+ - When the Captor leaves play, put its Captive back into play stunned in its owner’s back row.  
+ - You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
+ - Note: Put the KO’d Facehugger token back into your Facehugger Pile.
 
 # [Faith](http://vs.tcgbrowser.com/images/cards/big/TBB-055.jpg) 
 Set: The Buffy Battles  
@@ -1432,11 +1433,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1Mjk3MTMsMTQ2ODExMDIzOSw0MD
-I3MzIxMiwxNjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQx
-MDYsMTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OS
-wxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0x
-MDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1MzM4OSwtMjE1Mz
-UxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0xMzU4MjY1NTMs
-LTE2NDY4OTkyNDldfQ==
+eyJoaXN0b3J5IjpbNjY3NzU0NjU1LDE0NjgxMTAyMzksNDAyNz
+MyMTIsMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2
+LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMT
+M3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3
+ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MT
+gzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0x
+NjQ2ODk5MjQ5XX0=
 -->
