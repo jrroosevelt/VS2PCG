@@ -1431,14 +1431,14 @@ Set: New Mutants
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 
 # [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
-Set: The Buffy Battles
+Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
-I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
-MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
-wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
-MTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4MTEwMj
-M5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1ODA5Nywt
-MTcwODE4ODk4Ml19
+eyJoaXN0b3J5IjpbLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nz
+c1NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0
+NDAxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4Ny
+wtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDky
+MTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMD
+A5LDE0NjgxMTAyMzksLTE2NDA4OTM0MzksLTE0NjcxMDA5MCwt
+OTMwNzU4MDk3XX0=
 -->
