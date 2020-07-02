@@ -1068,7 +1068,7 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 Set: Spider-Friends  
 Before he was the Scarlet Spider, the man who would become Ben Reilly was created from Peter Parker’s DNA to be a perfect clone. So in the game he actually starts off as a different “Spider” hero until his true self is revealed (once he reaches Level 2). Here’s how it works: 
 
-Your Spider Web is a new out-of-play pile that includes up to one copy of every other Level 1 main character with “Spider” in its name. (Currently this includes Spider-Man from The Marvel Battles expansion, *Spider-Man* from Monsters Unleashed, and Spider-Man and Spider-Woman from this Issue.) 
+Your Spider Web is a new out-of-play pile that includes up to one copy of every other Level 1 main character with “Spider” in its name. (Currently this includes Spider-Man from The Marvel Battles expansion, \* Spider-Man \* from Monsters Unleashed, and Spider-Man and Spider-Woman from this Issue.) 
 
 Your Clone Pile is another out-of-play pile. It starts empty but during the game you’ll put characters from your Spider Web into it. 
 
@@ -1434,7 +1434,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTg2MzQyNSw2Njc3NTQ2NTUsLTEyNj
+eyJoaXN0b3J5IjpbMTAzMzA4Mzc0OSw2Njc3NTQ2NTUsLTEyNj
 I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
 MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
 wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
