@@ -1151,7 +1151,7 @@ Set: The Utopia Battles
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 Set: Crossover Vol. 2
-Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as * Spider-Man *' s **Spider-People**. It's just how they spell in the future!
+Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as \* Spider-Man \*' s **Spider-People**. It's just how they spell in the future!
 
 SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Regeneration** heals SP//dr's last wound, you won't get to draw from **Genius** that turn.
 
@@ -1188,7 +1188,7 @@ Note: **Update** counters aren't removed from Spidey when he gets turned face do
 
 # \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
 Set: Crossover Vol. 2  
-Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
+Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. \* Spider Man \*'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
 
 These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
 
@@ -1434,7 +1434,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzA4Mzc0OSw2Njc3NTQ2NTUsLTEyNj
+eyJoaXN0b3J5IjpbLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
 I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
 MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
 wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
