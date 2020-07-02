@@ -259,9 +259,9 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
-Set: Crossover  \
+Set: Crossover  
 **Deconstruct the Universe**  
-Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
+When Dark Phoenix Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
 
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
  
@@ -277,7 +277,7 @@ Dark Phoenix When Dark Phoenix Deconstructs the Universe, an entire concept of t
 * **Super Powers:** Remove all Super Powers from the game. Remove the term “Super Power” from all card text. For the rest of the game, ignore any effects that would cause Super Powers to enter the game in any way.  
 
 # [Dawn](http://vs.tcgbrowser.com/images/cards/big/TBB-011.jpg)
-Set: The Buffy Battles
+Set: The Buffy Battles  
 Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
 
 # [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC)
@@ -327,7 +327,7 @@ While this card is face down in your Resource Row, you can play it as if it was 
 # Devil Dinosaur
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-113.jpg) Team Affiliations
 Set: Monsters Unleashed!  
-Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team.But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
+Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team. But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
 
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-105.jpg) and Moon Girl (MCs)  
 The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
@@ -1432,11 +1432,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksND
-g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
-MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
-ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
-MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MTAwOTAsLTkzMDc1OD
-A5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMyLC0xMjk1NzM2NjY5
-LC01ODY4NjIzMjZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDg1Mjk3MTMsLTIwNTQ2NDA4MTgsLT
+EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
+Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5Mj
+U0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1
+NDI2MzAwOSwxNDY4MTEwMjM5LC0xNjQwODkzNDM5LC0xNDY3MT
+AwOTAsLTkzMDc1ODA5NywtMTcwODE4ODk4MiwxMDQ0ODIwNDMy
+LC0xMjk1NzM2NjY5XX0=
 -->
