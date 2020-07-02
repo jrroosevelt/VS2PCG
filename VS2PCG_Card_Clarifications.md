@@ -330,7 +330,7 @@ Set: Monsters Unleashed!
 Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team. But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
 
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-105.jpg) and Moon Girl (MCs)  
-The Main Characters, Moon Girl and Devil Dinosaur,go together. You start with both on your side and you’re only out of the game once both are KO’d.
+The Main Characters, Moon Girl and Devil Dinosaur, go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
 # [Devil Slayer](http://vs.tcgbrowser.com/images/cards/big/DFX-009.jpg)
 Set: The New Defenders  
@@ -427,11 +427,12 @@ If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg)
 * If you reveal a Facehugger token character, KO its Ovomorph, put the Facehugger into your Back Row, and it captures an enemy supporting character. (It can capture a face-up or stunned supporting character.)  
 
 “Capture” is a new game action that means:  
-* Remove the Captive card from the game, but keep any wound counters on it.  
-* Put the Captive card next to (or underneath) its Captor to make it clear who its Captor is.  
-* When the Captor leaves play, put its Captive back into play stunned in its owner’s back row.  
-* You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
-* Note: Put the KO’d Facehugger token back into your Facehugger Pile.
+
+ - Remove the Captive card from the game, but keep any wound counters on it.  
+ - Put the Captive card next to (or underneath) its Captor to make it clear who its Captor is.  
+ - When the Captor leaves play, put its Captive back into play stunned in its owner’s back row.  
+ - You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
+ - Note: Put the KO’d Facehugger token back into your Facehugger Pile.
 
 # [Faith](http://vs.tcgbrowser.com/images/cards/big/TBB-055.jpg) 
 Set: The Buffy Battles  
@@ -1432,7 +1433,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1Mjk3MTMsLTIwNTQ2NDA4MTgsLT
+eyJoaXN0b3J5IjpbLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLT
 EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
 Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5Mj
 U0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1
