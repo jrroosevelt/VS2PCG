@@ -694,7 +694,7 @@ The Kingpin Supporting Character has a Super Power where he takes over as your m
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 Set: Sinister Syndicate  
-** Spring the Trap **  
+**Spring the Trap**  
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
@@ -787,11 +787,12 @@ At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
     * Nothing that affects later turns or games.  
 * All parts of the **Deal** must resolved simultaneously.  
 
-Here are a few exemplar **Deals**:
-* "I draw five cards an you draw ten cards."  
-* "Wound your main character and put a supporting character from your hand onto your side."  
-* "You choose a character on your side and a character on my side and we stun them both."  
-* "I discard my hand and you lose the game."  
+Here are a few exemplar **Deals**:  
+
+ -  "I draw five cards an you draw ten cards."  
+ - "Wound your main character and put a supporting character from your hand onto your side."  
+ - "You choose a character on your side and a character on my side and we stun them both."  
+ - "I discard my hand and you lose the game."  
 
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
 Set: Black Order  
@@ -851,7 +852,7 @@ Set: The Predator Battles
 **Enhanced Bio-Mask** 
 Mr. Black’s super power allows him to attack a face-down (hidden or stunned) character. Treat it as a regular attack (both players can play Plot Twists, Power-Up, etc.), but keep in mind the face-down character’s powers are turned off and its Team Affiliation is not available for things like playing a Plot Twist. 
 
-When Mr. Black and the defender strike each other: 
+When Mr. Black and the defender strike each other:  
 * Mr. Black can get stunned as normal.  
 * A hidden character can get stunned as normal. (Wound it and change its orientation from ready to exhausted.)  
 * If Mr. Black’s strike would stun an already-stunned character, wound it instead. Note: A stunned character can’t be stunned (including by having its DEF reduced to 0 or a direct “stun” effect).
@@ -1037,7 +1038,7 @@ Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two ca
 
 # Rogue
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC)
-Set: Resistance
+Set: Resistance  
 Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
 
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC)
@@ -1067,7 +1068,7 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 Set: Spider-Friends  
 Before he was the Scarlet Spider, the man who would become Ben Reilly was created from Peter Parker’s DNA to be a perfect clone. So in the game he actually starts off as a different “Spider” hero until his true self is revealed (once he reaches Level 2). Here’s how it works: 
 
-Your Spider Web is a new out-of-play pile that includes up to one copy of every other Level 1 main character with “Spider” in its name. (Currently this includes Spider-Man from The Marvel Battles expansion, *Spider-Man* from Monsters Unleashed, and Spider-Man and Spider-Woman from this Issue.) 
+Your Spider Web is a new out-of-play pile that includes up to one copy of every other Level 1 main character with “Spider” in its name. (Currently this includes Spider-Man from The Marvel Battles expansion, \* Spider-Man \* from Monsters Unleashed, and Spider-Man and Spider-Woman from this Issue.) 
 
 Your Clone Pile is another out-of-play pile. It starts empty but during the game you’ll put characters from your Spider Web into it. 
 
@@ -1150,7 +1151,7 @@ Set: The Utopia Battles
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 Set: Crossover Vol. 2
-Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as * Spider-Man *' s **Spider-People**. It's just how they spell in the future!
+Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as \* Spider-Man \*' s **Spider-People**. It's just how they spell in the future!
 
 SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Regeneration** heals SP//dr's last wound, you won't get to draw from **Genius** that turn.
 
@@ -1187,7 +1188,7 @@ Note: **Update** counters aren't removed from Spidey when he gets turned face do
 
 # \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
 Set: Crossover Vol. 2  
-Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. * Spider Man *'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
+Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. \* Spider Man \*'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
 
 These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
 
@@ -1430,14 +1431,14 @@ Set: New Mutants
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 
 # [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
-Set: The Buffy Battles
+Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NzU0NjU1LDE0NjgxMTAyMzksNDAyNz
-MyMTIsMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2
-LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMT
-M3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3
-ODQzMTI5OSwxODU2Mzg3OTAyLC01NTE0NTMzODksLTIxNTM1MT
-gzLDEyNjk3MzQwNzAsMTM5Njk4ODMyNCwtMTM1ODI2NTUzLC0x
-NjQ2ODk5MjQ5XX0=
+eyJoaXN0b3J5IjpbLTE0MjY3OTU3OSw2Njc3NTQ2NTUsMTQ2OD
+ExMDIzOSw0MDI3MzIxMiwxNjQ5MDc1ODMyLC0xOTc2ODQzOTg0
+LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMT
+A5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2
+ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1MTQ1Mz
+M4OSwtMjE1MzUxODMsMTI2OTczNDA3MCwxMzk2OTg4MzI0LC0x
+MzU4MjY1NTNdfQ==
 -->
