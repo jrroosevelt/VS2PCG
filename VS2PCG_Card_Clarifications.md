@@ -1162,23 +1162,27 @@ Mysterio can use his special effects expertise to make any plot twist seem like 
 * Sinister Six
 
 When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignore everything that’s printed on it, and pretend you just played one of the (Sinister Syndicate) plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an (Avengers) **Combat** plot twist during your Build Phase as a copy of Putting the Team Together.
-
 ^(Source: Rule insert)
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-008.jpg) (SC)
-Set: Sinister Syndicate  
+*Set: Sinister Syndicate*  
+
 **Holographic Projector**  
 Plot twists without team affiliations can be played  regardless of the team affiliations you have on face-up characters on your side. So Mysterio’s power means you can play any plot twist in your hand even if you only have, say, (Sinister Syndicate) characters on your side.
+^(Source: Rule insert)
 
 # [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC)
-Set: Legacy  
+*Set: Legacy*  
+
 **Identity Theft**  
 Mystique’s super power allows her to transform into a different Level 2 Main Character. When she does this, remove her from the game and put the new character into play in the same orientation (ready/exhausted) she was in. Move all counters from her onto the new character, applying any effects (such as Freeze) to the new character. 
 
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
+^(Source: Rule insert)
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
-Set: The New Defenders  
+*Set: The New Defenders*  
+
 Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy characters as well. Likewise, his two **Level Up** powers also DO count facedown exhausted enemy characters as well.
 
 **Atlantis Rises** adds a new row to your side, between your back row and your resource row, for the rest of the game. A player can’t have more than one Atlantis row on their side. Atlantis works just like your front and back rows (you can move characters there during your Formation Step, for example) with the following exceptions: 
@@ -1187,35 +1191,45 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 * They are ‘protected’ by faceup characters in your front row and back row.  
 * They can’t be attacked unless each character in your front and back rows is face down.
 
+^(Source: Rule insert)
+
 # Nebula
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-003.jpg) (MC)
-Set: Black Order  
+*Set: Black Order*  
+
 **Thanos's Greatest Creation** prevents Nebula from having keyword or super powers other than **Passive** (and **Thanos's Greatest Creation**, of course). This includes any granted by an equipment, too. 
 
 Her **Revenge!** power works the say way, but for Thanos, of course.
 
 When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it for the rest of the game. (Although cards like Cosmo or The Nullifier can still turn it off.)
+^(Source: Rule insert)
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-012.jpg) (SC - Illustrated)
-Set: Black Order  
+*Set: Black Order*  
+
 **A New Order Exists Within the Universe** checks to see if an enemy character shares at least one team affiliation with a main character on its side. If the main character has no team affiliation, then no supporting characters on its side can share a team affiliation with it. 
 
 **Note:** This is not a super power even though it requires Nebula to pay a (Might/"Green").
+^(Source: Rule insert)
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/mcu1-050.jpg) (SC - Photo)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
 
 # [Negative Zone](http://vs.tcgbrowser.com/images/cards/big/FAN-029.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 Although the Negative Zone has a (Fantastic) team affiliation, any main character can pay a power symbol to use it.
 
 # New Mutants
-Set: New Mutants  
+*Set: New Mutants*  
+
 The New Mutants are a part of the (X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
 
 # [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC)
-Set: S.H.I.E.L.D. vs. Hydra  
+*Set: S.H.I.E.L.D. vs. Hydra*  
+
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
 
@@ -1731,11 +1745,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDk3MTQwNiwtMjQxMzcxMTA0LDEzND
-cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
-MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
-YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
-NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
-EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
-MzE3NTM5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTUxNDE4NzEsLTI0MTM3MTEwNCwxMz
+Q3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAy
+MTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMT
+I2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcx
+NzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMT
+MxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwx
+MDMxNzUzOTQ0XX0=
 -->
