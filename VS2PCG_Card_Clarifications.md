@@ -129,12 +129,16 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 ^(Source: Rule insert)
 
 # [Awesome Android](http://vs.tcgbrowser.com/images/cards/big/FAN-042.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 If there are no other face-up characters in play, Awesome Android's ATK/DEF become 0/0 (and he gets stunned).
+^(Source: Rule insert)
 
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
-Set: Legacy  
+*Set: Legacy*  
+
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
+^(Source: Rule insert)
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
 Set: The New Defenders  
@@ -1470,7 +1474,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTM4MTcwNCw5NDg2MzYxMzgsLTMyOT
+eyJoaXN0b3J5IjpbLTgzMTU5MzQxOCw5NDg2MzYxMzgsLTMyOT
 k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
 LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
 Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
