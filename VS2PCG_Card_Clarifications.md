@@ -1216,35 +1216,44 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 *Set: The MCU Battles*  
 
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
+^(Source: Rule insert)
 
 # [Negative Zone](http://vs.tcgbrowser.com/images/cards/big/FAN-029.jpg)
 *Set: The Fantastic Battles*  
 
 Although the Negative Zone has a (Fantastic) team affiliation, any main character can pay a power symbol to use it.
+^(Source: Rule insert)
 
 # New Mutants
 *Set: New Mutants*  
 
 The New Mutants are a part of the (X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
+^(Source: Rule insert)
 
 # [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC)
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
+^(Source: Rule insert)
 
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 **Mercurial Personality** allows you to **Burn** an enemy supporting character. This means "At the end of each of your turns, stun that character." (**Note:** "You" refers to the player who used Nikki's effect.) A Burn effect has no set duration - it will last until the character leaves play.
+^(Source: Rule insert)
 
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 Norman’s Level 2 Keyword Powers also affect himself. 
 
-Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (H.A.M.M.E.R.) team affiliation
+Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (H.A.M.M.E.R.) team affiliation.
+^(Source: Rule insert)
 
 # [Nova Corps](http://vs.tcgbrowser.com/images/cards/big/GAL-018.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
 
 * They are not super powers.  
@@ -1252,28 +1261,36 @@ In this Arc, we are playing around with how players can use locations besides su
 * Your main characters can use a "Wild" Special Location from their team to pay for them.  
 * These cards are neutral, so just like any other neutral cards they can be in Loyalty decks.  
 * The Special Locations don't count as locations power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or Zzutak's **Paint to Life**).
+* ^(Source: Rule insert)
 
 # [The Nullifier](http://vs.tcgbrowser.com/images/cards/big/SVH-057.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 Because this copies everything from any enemy Plot Twist you choose except for that Plot Twist's team affiliations (and it technically keeps its (Fearsome) team affiliation, you must only have a face up (Fearsome) character on your side in order to play this Plot Twist.
+^(Source: Rule insert)
 
 # [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
 These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
+^(Source: Rule insert)
 
 See also: [Machine](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_machine)
 
 # [Omega Red](http://vs.tcgbrowser.com/images/cards/big/CV1-019.jpg)
-Set: Crossover  
+*Set: Crossover*  
+
 **Carbonadium Tentacles**  
 The phrase “could melee attack” means Omega Red can legally attack that character(s) right now. Normally this just means he must be ready and the character(s) must be unprotected.
+^(Source: Rule insert)
 
 # [Onslaught](http://vs.tcgbrowser.com/images/cards/big/LEG-035.jpg)
-Set: Legacy  
+*Set: Legacy*  
+
 **Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
+^(Source: Rule insert)
 
 # [Oz](http://vs.tcgbrowser.com/images/cards/big/TBB-019.jpg)
 Set: The Buffy Battles  
@@ -1745,11 +1762,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUxNDE4NzEsLTI0MTM3MTEwNCwxMz
-Q3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAy
-MTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMT
-I2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcx
-NzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMT
-MxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwx
-MDMxNzUzOTQ0XX0=
+eyJoaXN0b3J5IjpbODE1MzIxODA2LC0yNDEzNzExMDQsMTM0Nz
+I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
+LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
+I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
+MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
+wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
+MTc1Mzk0NF19
 -->
