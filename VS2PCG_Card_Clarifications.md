@@ -545,11 +545,14 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 ^(Source: Rule insert)
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/RES-014.jpg) (SC) (Resistance)
-Set: Resistance    
+*Set: Resistance*    
+
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/ exhausted, face-up /face-down), all of her counters, and any effects on her.
+^(Source: Rule insert)
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
-Set: Deadpool & Friends   
+*Set: Deadpool & Friends* 
+  
 Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect).
 
 **Merc With an Evil Mouth**  
@@ -557,9 +560,11 @@ Evil Deadpool loves being Evil. That’s why he can grant Evil characters on you
 
 **It's Like You, But Eviler!**  
 Evil Deadpool’s Level 2 super power puts Good characters into play but turns them Evil and adds the word “Evil” at the beginning of their name. Changing their name DOES affect the uniqueness rules. For example, it would allow you to have “Iron Man” and “Evil Iron Man” on your side at the same time. However, you would not be able to add “Evil” to regular Deadpool because then his name would be “Evil Deadpool” which is the same name as your main character. And Evil Deadpool hates Deadpool anyway.
+^(Source: Rule insert)
 
 # [Facehugger](http://vs.tcgbrowser.com/images/cards/big/ALN-052.jpg)
-Set: The Alien Battles  
+*Set: The Alien Battles*  
+
 **Facehuggers and Capturing Characters**   
 If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg) in your deck (the eggs that make Facehuggers), you’ll use the Facehugger Pile. 
 
@@ -576,37 +581,52 @@ If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg)
  - You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
  - Note: Put the KO’d Facehugger token back into your Facehugger Pile.
 
+^(Source: Rule insert)
+
 # [Faith](http://vs.tcgbrowser.com/images/cards/big/TBB-055.jpg) 
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 Faith can steal any kind of counter from an enemy defender.
+^(Source: Rule insert)
 
 # [Falcon](http://vs.tcgbrowser.com/images/cards/big/mcu1-016.jpg)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
+^(Source: Rule insert)
 
 # [Falcon Drone](http://vs.tcgbrowser.com/images/cards/big/PRD-009.jpg)
-Set: The Predator Battles   
+*Set: The Predator Battles*   
+
 Some characters have a **Bond** with another character. This allows them to be discarded from your hand to generate a Power Symbol for that other character’s Super Powers. You can do this for that character’s Main or Supporting Character. 
 
 Example: You want to use the Falconer Supporting Character’s **Bait and Switch** Super Power, which costs (Skill/"Red"). You may discard a Falcon Drone from your hand to pay for the Super Power. If a character with Bond is used to generate a Power Symbol for a Super Power with Amplify, the Amplify text will apply
+^(Source: Rule insert)
 
 # [Falconer](http://vs.tcgbrowser.com/images/cards/big/PRD-001.jpg) (MC) 
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 **Active Falcon Drone**  
 Falconer starts the game with a Falcon Drone from your deck on his side. The Falcon Drone still counts toward your 60 cards when you build your deck. 
 
 His Level Up Power, **We’re the Game**, triggers whenever an enemy player reveals one or more cards. Some effects that would grant 1 XP this way are when a player reveals their hand, when a player reveals one or more cards from the top of their deck, or when a player reveals the cards they draw (due to a Falcon Drone).
+^(Source: Rule insert)
 
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
-Set: The Herald  
+*Set: The Herald*  
+
 **The Core Four** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
+^(Source: Rule insert)
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
-Set: Monsters Unleashed!  
+*Set: Monsters Unleashed!*  
+
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
+^(Source: Rule insert)
 
 # [The First Evil](http://vs.tcgbrowser.com/images/cards/big/TBB-034.jpg) (MC) 
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
 # Franklin Richards
@@ -1576,11 +1596,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzYxMjIsOTQ4NjM2MTM4LC0zMjk5NT
-AyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwt
-MTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0OD
-cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
-MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
-wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
-MTAyMzldfQ==
+eyJoaXN0b3J5IjpbLTE3MzIzMzEwMzcsOTQ4NjM2MTM4LC0zMj
+k5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1
+NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOS
+w0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1
+MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1Mz
+kyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0
+NjgxMTAyMzldfQ==
 -->
