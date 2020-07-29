@@ -46,33 +46,45 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule insert)
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF become  10/10.
+^(Source: Rule insert)
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
+^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
-Set: Resistance  
+*Set: Resistance*  
+
 When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
+^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
-Set: The Buffy Battles  
-Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
+*Set: The Buffy Battles*  
 
+Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
+^(Source: Rule insert)
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 **An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have (Flight) or (Range) (or both) to solo attack her. 
 
 When Angela opens a **Bridge to Heven**, you must put each revealed character onto your side. This may cause some characters to be KO'd due to the uniqueness rules.
+^(Source: Rule insert)
 
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
-Set: The Buffy Battles
+*Set: The Buffy Battles*
+
 Her **Newly Human and Strangely Literal** power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
+^(Source: Rule insert)
 
 # [Archangel](http://vs.tcgbrowser.com/images/cards/big/RES-002.jpg)
 Set: Resistance  
+
 **Violent** means that he strikes Supporting Characters with double his ATK.
 
 # [Ardina](http://vs.tcgbrowser.com/images/cards/big/HER-008.jpg)
@@ -1443,7 +1455,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzI1MDY2Niw5NDg2MzYxMzgsLTMyOT
+eyJoaXN0b3J5IjpbLTM4MDE0MTA1Niw5NDg2MzYxMzgsLTMyOT
 k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
 LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
 Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
