@@ -171,16 +171,19 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 *Set: Cosmic Avengers*  
 
 For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
+^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
 *Set: MCU Heroes*  
 
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
+^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
 *Set: MCU Heroes*  
 
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
+^(Source: Rule insert)
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
@@ -202,14 +205,19 @@ And his **Bounced Off His Belly** power represents projectiles getting bounced b
 
 # [Book of the Vishanti](http://vs.tcgbrowser.com/images/cards/big/SVH-058.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
+^(Source: Rule insert)
+
 
 # [Boomerang](http://vs.tcgbrowser.com/images/cards/big/SFO-008.jpg)
-Set: Spidey-Foes  
+*Set: Spidey-Foes*  
+
 **Specialized Boomerangs**  
 Boomerang can "throw" a different Boomerang each turn at one front row and one back row enemy. You can choose a front row character on one side and a back row character on a different side. If there are no enemy front row characters you can just choose an enemy back row character (and vice versa).
+^(Source: Rule insert)
 
 # [Break the Fourth Wall](http://vs.tcgbrowser.com/images/cards/big/MFM-019.jpg)
-Set: Deadpool & Friends  
+*Set: Deadpool & Friends*  
+
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
 
 * **How do you prove your age?** If you’re at a tournament you’ll need an ID with a birthday. If you don’t have one, we’ll just pretend you’re 11.  
@@ -224,9 +232,12 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 
 * **I feel like you’re not taking this seriously.** That’s not a question.
 
+
 # [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
+^(Source: Rule insert)
 
 # [Buffy](http://vs.tcgbrowser.com/images/cards/big/TBB-003.jpg) (MC) 
 Set: The Buffy Battles  
@@ -1489,7 +1500,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODE3MTQ4MCw5NDg2MzYxMzgsLTMyOT
+eyJoaXN0b3J5IjpbMTg2NzI2MTM2Miw5NDg2MzYxMzgsLTMyOT
 k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
 LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
 Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
