@@ -1100,36 +1100,48 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 ^(Source: Rule insert)
 
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
-Set: New Mutants   
+*Set: New Mutants*   
+
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
+^(Source: Rule insert)
 
 # [Mister Sinister](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
-Set: Legacy  
+*Set: Legacy*  
+
 **Genetic Manipulation**  
-This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play./
+This power grants a Keyword power to a character. Unlike most effects, which only last for a turn or two, this effect lasts until the character leaves play.
+^(Source: Rule insert)
 
 # [Mister X](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
-Set: H.A.M.M.E.R.  
-**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is
-currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
+*Set: H.A.M.M.E.R.*  
+
+**I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
+^(Source: Rule insert)
 
 # [Mole Man](http://vs.tcgbrowser.com/images/cards/big/FAN-033.jpg) (MC)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Locations, he must tunnel under those first. If there are none, he can tunnel under a face-down resource. When he **Tunnels**, remove him from the game and place him beneath the card he is tunneling under. At the start of your next turn, put him back onto your side and if the card he was under was a Location, turn it face down. If it was already face down, KO it.
 
 If he is beneath a Location and it gets turned face down (including by being used for a super power) or leaves play, put him into your back row. If he is beneath a face-down resource and it leaves play, put him into your back row.
+^(Source: Rule insert)
 
 # [Moon Girl](http://vs.tcgbrowser.com/images/cards/big/MMU-054.jpg)
-Set: Monsters Unleashed!  
+*Set: Monsters Unleashed!*  
+
 See [Devil Dinosaur](#wiki_devil_dinosaur).
+^(Source: Rule insert)
 
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
-Set: A-Force  
+*Set: A-Force*  
+
 **Growing Magic**  
 Morgan le Fay’s super power counts how many times you’ve used a power named Growing Magic this game. This means that if you use the power a few times on one card and then later use it on a different card, all of those usages count.
+^(Source: Rule insert)
 
 # [Mr. Black](http://vs.tcgbrowser.com/images/cards/big/PRD-008.jpg) (MC)
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 **Enhanced Bio-Mask** 
 Mr. Black’s super power allows him to attack a face-down (hidden or stunned) character. Treat it as a regular attack (both players can play Plot Twists, Power-Up, etc.), but keep in mind the face-down character’s powers are turned off and its Team Affiliation is not available for things like playing a Plot Twist. 
 
@@ -1137,10 +1149,12 @@ When Mr. Black and the defender strike each other:
 * Mr. Black can get stunned as normal.  
 * A hidden character can get stunned as normal. (Wound it and change its orientation from ready to exhausted.)  
 * If Mr. Black’s strike would stun an already-stunned character, wound it instead. Note: A stunned character can’t be stunned (including by having its DEF reduced to 0 or a direct “stun” effect).
+^(Source: Rule insert)
 
 # Mysterio
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC)
-Set: Sinister Syndicate  
+*Set: Sinister Syndicate*  
+
 **Hallucinogenic Gas**  
 Mysterio can use his special effects expertise to make any plot twist seem like a (Sinister Syndicate) plot twist. Here are the two in this set:
 
@@ -1148,6 +1162,8 @@ Mysterio can use his special effects expertise to make any plot twist seem like 
 * Sinister Six
 
 When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignore everything that’s printed on it, and pretend you just played one of the (Sinister Syndicate) plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an (Avengers) **Combat** plot twist during your Build Phase as a copy of Putting the Team Together.
+
+^(Source: Rule insert)
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-008.jpg) (SC)
 Set: Sinister Syndicate  
@@ -1715,11 +1731,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NzgwNTA3LC0yNDEzNzExMDQsMTM0Nz
-I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
-LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
-I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
-MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
-wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
-MTc1Mzk0NF19
+eyJoaXN0b3J5IjpbMTgwNDk3MTQwNiwtMjQxMzcxMTA0LDEzND
+cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
+MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
+YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
+NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
+EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
+MzE3NTM5NDRdfQ==
 -->
