@@ -141,49 +141,64 @@ Baron Mordo can revert a main character back to level 1 until your next turn. Wh
 ^(Source: Rule insert)
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
-Set: The New Defenders  
+*Set: The New Defenders*  
+
 Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
+^(Source: Rule insert)
 
 # \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
-Set: Legacy  
+*Set: Legacy*  
+
 **Energy Transference**  
 This power refers to (Energy/"Blue") super powers.This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
+^(Source: Rule insert)
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
-Set: Monsters Unleashed!  
+*Set: Monsters Unleashed!*  
+
 Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
+^(Source: Rule insert)
 
 # [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
-Set: Spider-Friends  
+*Set: Spider-Friends*  
+
 **Personal Loyalty**  
 Black Cat has often wavered between being a hero and a villain. In the game she doesn’t have a team affiliation and is neither Good nor Evil… until she’s on a side (she is neither Good nor Evil while she is in your hand, deck, or KO pile). Then if Spider-Man is your main character, he has a good influence on her and she’ll ferociously fight alongside her partner. But if he’s not your main character, she’ll go back to slinking around as a criminal.
+^(Source: Rule insert)
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
-Set: Cosmic Avengers  
+*Set: Cosmic Avengers*  
+
 For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
-Set: MCU Heroes  
+*Set: MCU Heroes*  
+
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
-Set: MCU Heroes  
+*Set: MCU Heroes*  
+
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
-Set: Crossover  
+*Set: Crossover*  
+
 If Blob strikes a character and his **Boing!** power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
 
 **Immovable Object**  
 If Blob moves for any reason (including during your Formation Step or because another effect moves him), he will be prevented from gaining an XP. At the end of Blob’s first turn of the game, he will gain an XP if he didn’t move that turn.
+^(Source: Rule insert)
 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/BOM-015.jpg) (SC)
-Set: Brotherhood of Mutants  
+*Set: Brotherhood of Mutants*  
+
 Blob’s **Stuck in His Stomach** power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
  
 And his **Bounced Off His Belly** power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
+^(Source: Rule insert)
 
 # [Book of the Vishanti](http://vs.tcgbrowser.com/images/cards/big/SVH-058.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
@@ -1474,7 +1489,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTU5MzQxOCw5NDg2MzYxMzgsLTMyOT
+eyJoaXN0b3J5IjpbMTc4ODE3MTQ4MCw5NDg2MzYxMzgsLTMyOT
 k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
 LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
 Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
