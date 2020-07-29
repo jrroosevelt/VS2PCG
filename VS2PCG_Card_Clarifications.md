@@ -1640,12 +1640,14 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 ^(Source: Rule insert)
 
 # [Star Hawk](http://vs.tcgbrowser.com/images/cards/big/GAL-012.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 At one point Starhawk was actually two beings merged together who took turns occupying the same space. The Starhawk card from way back in the Vs. System 2PCG: Legacy expansion represents Stakar Ogord, but this card brings Aleta Ogord to the fore. Because they share the same body, you cant have both Starhawks in play at the same time. However, Aleta's **Composite Being** grants **Bond with Starhawk** to any Stakar Starhawks in your hand.
+^(Source: Rule insert)
 
 # Star Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
 **Dance Off, Bro**  
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
@@ -1849,11 +1851,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MTYwMDAxLC0yNDEzNzExMDQsMTM0Nz
-I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
-LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
-I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
-MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
-wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
-MTc1Mzk0NF19
+eyJoaXN0b3J5IjpbMTkyODg4MzQ4OCwtMjQxMzcxMTA0LDEzND
+cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
+MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
+YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
+NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
+EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
+MzE3NTM5NDRdfQ==
 -->
