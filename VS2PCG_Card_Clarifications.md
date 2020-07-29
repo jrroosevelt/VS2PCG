@@ -1013,29 +1013,40 @@ This set includes four One of a Kind equipment cards – The Nullifier, Book of 
 ^(Source: Rule insert)
 
 # [Mary Walker](http://vs.tcgbrowser.com/images/cards/big/def-061.jpg)
-Set: The Defenders  
+*Set: The Defenders*  
+
 Each version of Mary Walker has a different text box and ATK and DEF, but they all count as Mary Walker and can be used to Power-Up each other. Each Mary has the “One of a Kind” keyword which means you can only have one of that Mary in your deck.
+^(Source: Rule insert)
 
 # [Masacre](http://vs.tcgbrowser.com/images/cards/big/MFM-014.jpg)
-Set: Deadpool & Friends  
+*Set: Deadpool & Friends*  
+
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
+^(Source: Rule insert)
 
 # [Mastermind](http://vs.tcgbrowser.com/images/cards/big/CV2-014.jpg)
-Set: Crossover vol. 2  
+*Set: Crossover vol. 2*  
+
 When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you mach choose to play a random card from your Tactics pile. If you do, follow the instructions under its Tactic. Then put the card into your KO pile. When Mastermind leaves play, you'll leave your Tactics pile where it is. A player can only have one Tactics pile at a time. Later, if Mastermind appears on your side again, and you can (and want to) add more Tactics from your hand or deck, add them to your existing Tactics pile. Note: One of Mastermind's Tactics sets an attacker's ATK to 0 this combat. That character can still gain ATK later in the combat.
+^(Source: Rule insert)
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
-Set: Webheads  
+*Set: Webheads*  
+
 If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five Gifts to each of them. If you don't have at least five characters on your side with different names (or you don't have a Main Character on your side), Mattie can't use **The Gathering of Five**.
 
 The Gift of Death will instantly KO its assigned character. The other four grant new abilities to their assigned characters (some good, some bad). Gift cards are not actually in play. Their cards are just play aids to remind everyone what new abilities each character has gained. If a character leaves play its Gift will no longer affect them (even if that character reenters play). 
+^(Source: Rule insert)
 
 # [Maximus](http://vs.tcgbrowser.com/images/cards/big/CV1-018.jpg)
-Set: Crossover   
+*Set: Crossover*   
+
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
+^(Source: Rule insert)
 
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
 
 * The **Deal** must involve at least two elements.  
@@ -1055,8 +1066,11 @@ Here are a few exemplar **Deals**:
  - "You choose a character on your side and a character on my side and we stun them both."  
  - "I discard my hand and you lose the game."  
 
+^(Source: Rule insert)
+
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
-Set: Black Order  
+*Set: Black Order*  
+
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nebula (who has a keyword power which requires spending a (Might/"Green)), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations.
 
 * They are not super powers.  
@@ -1064,13 +1078,17 @@ In this Arc, we are playing around with how players can use locations besides su
 * Your main characters can use a "Wild" Special Location from their team to pay for them.  
 * These cards are neutral, so just like any other neutral cards, they can be in Loyalty decks.  
 * The Special Locations don't count as location swith a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
+^(Source: Rule insert)
 
 # [The Milano](http://vs.tcgbrowser.com/images/cards/big/GAL-019.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 See [Nova Corps](#wiki_nova_corps)
+^(Source: Rule insert)
 
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
-Set: H.A.M.M.E.R.  
+*Set: H.A.M.M.E.R.*  
+
 Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
 
 During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
@@ -1078,6 +1096,8 @@ During setup when you reveal Mimic as your Main Character, you’ll also reveal 
 When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
 **Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
+
+^(Source: Rule insert)
 
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 Set: New Mutants   
@@ -1695,11 +1715,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNj
-MyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3
-OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMj
-A1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5
-ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzOD
-E5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2
-MTY4MjE0NDZdfQ==
+eyJoaXN0b3J5IjpbNDQ4NzgwNTA3LC0yNDEzNzExMDQsMTM0Nz
+I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
+LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
+I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
+MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
+wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
+MTc1Mzk0NF19
 -->
