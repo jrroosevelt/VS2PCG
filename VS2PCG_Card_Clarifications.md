@@ -95,7 +95,8 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 ---
-
+If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw), you do not have to pay the additional cost of wounding Silver Surfer.
+^(Source: FB Community di)
 
 
 # [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
@@ -1462,11 +1463,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQ0MjI0OSw5NDg2MzYxMzgsLTMyOT
-k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
-LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
-Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
-OTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOT
-I5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2
-ODExMDIzOV19
+eyJoaXN0b3J5IjpbLTEyMjc2OTA3MzMsOTQ4NjM2MTM4LC0zMj
+k5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1
+NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOS
+w0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1
+MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1Mz
+kyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0
+NjgxMTAyMzldfQ==
 -->
