@@ -412,7 +412,8 @@ Here are some quick tips:
 ^(Source: Rule insert)
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
-Set: Black Order  
+*Set: Black Order*  
+
 Death is **Amortal** which means:
 
 * She has no level (She is beyond such mortal trappings).  
@@ -427,20 +428,28 @@ Since Death doesn't turn face down, she can be stunned multiple times in a singl
 
 **Mistress of the Infinity Well** allows each player to draw an extra card each time you draw cards. For example, when you draw your usual two cards during your Draw Phase, you'll draw an extra one. And if you have a **Genius** in play that lets you draw a card, you'll draw an extra one then, too. 
 
+^(Source: Rule insert)
+
 # [Death Trap](http://vs.tcgbrowser.com/images/cards/big/PRD-053.jpg) 
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 While this card is face down in your Resource Row, you can play it as if it was in your hand. If you do, put it into your KO pile as normal, then replace it with the top card of your deck, face down. If you have no cards in your deck, you can still play it, you just won’t be able to replace it.
+^(Source: Rule insert)
 
 # Devil Dinosaur
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-113.jpg) Team Affiliations
-Set: Monsters Unleashed!  
+*Set: Monsters Unleashed!*  
+
 Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team. But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
+^(Source: Rule insert)
 
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-105.jpg) and Moon Girl (MCs)  
 The Main Characters, Moon Girl and Devil Dinosaur, go together. You start with both on your side and you’re only out of the game once both are KO’d.
+^(Source: Rule insert)
 
 # [Devil Slayer](http://vs.tcgbrowser.com/images/cards/big/DFX-009.jpg)
-Set: The New Defenders  
+*Set: The New Defenders*  
+
 His **Shadow Cloak** lets him attack hidden and stunned characters. Treat it as a regular attack (both players can play Plot Twists, Power Up, etc.), but keep in mind the face-down character’s powers are turned off and its team affiliation is not available for things like playing a plot twist.
 
 When Devil-Slayer and the defender strike each other: 
@@ -449,17 +458,24 @@ When Devil-Slayer and the defender strike each other:
 * A hidden character can get stunned as normal. (Wound it and change it from ready to exhausted.) 
 * If Devil-Slayer’s strike would stun an already-stunned character, just wound it instead.
 
+^(Source: Rule insert)
+
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 Doctor Doom's **Time Platform**  does something very odd. It shuffles a card into a deck face up. We suggest you close your eyes when shuffling a deck with a face-up card in it. In a tournament, you can always ask a judge to shuffle the deck if necessary. Once the deck is shuffled, where the card is in the deck is public information, so we also suggest you turn it 90 degrees so it's sticking out of your deck.
+^(Source: Rule insert)
 
 # [Doctor Faustus](http://vs.tcgbrowser.com/images/cards/big/SVH-011.jpg)
-Set: S.H.I.E.L.D. vs. Hydra  
+*Set: S.H.I.E.L.D. vs. Hydra*  
+
 **Hypnotic Suggestion**  
 Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
 
+^(Source: Rule insert)
+
 # [Doctor Nemesis](http://vs.tcgbrowser.com/images/cards/big/RES-008.jpg)
-Set: Resistance  
+*Set: Resistance*  
 **Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
 
@@ -1541,11 +1557,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MzE4NjMyLDk0ODYzNjEzOCwtMzI5OT
-UwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUs
-LTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksND
-g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
-MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
-ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
-MTEwMjM5XX0=
+eyJoaXN0b3J5IjpbLTExMzg1ODkwNjksOTQ4NjM2MTM4LC0zMj
+k5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1
+NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOS
+w0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1
+MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1Mz
+kyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0
+NjgxMTAyMzldfQ==
 -->
