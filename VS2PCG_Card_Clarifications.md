@@ -861,47 +861,68 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 * Now win the game.  
 * Draw a card.
 
+^(Source: Rule insert)
+
 # Infinity Gems
-Set: Black Order  
+*Set: Black Order*  
+
 **Owned By**  
 Each of the six Infinity Gems has an "Owned by..." power which lets you play it for free on the appropriate character. For example, The Mind Gem can be played for free on The Grandmaster. You may notice that some of these powers refer to characters that aren't yet part of the game. Weird, right?
+^(Source: Rule insert)
 
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
-Set: The Herald  
+*Set: The Herald*  
+
 **Remove Cosmic Energy** has no duration. Once you've named a super power (including one that is not currently in play if you like) enemy Supporting Characters can't use that power for the rest of the game.
+^(Source: Rule insert)
 
 # [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
-Set: Crossover  
+*Set: Crossover*  
+
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
+^(Source: Rule insert)
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
+^(Source: Rule insert)
 
 # [Isabelle](http://vs.tcgbrowser.com/images/cards/big/PRD-047.jpg)
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 **Sniper Nest**   
 Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an (Energy/"Blue"), including their “wild” Location, to turn off this effect for a turn.
+^(Source: Rule insert)
 
 # [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
+^(Source: Rule insert)
 
 # [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
-Set: Legacy  
+*Set: Legacy*  
+
 **Psionic Protection**  
 This power refers to (Intellect/Light bulb) super powers. This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
+^(Source: Rule insert)
 
 # [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
-Set: Brotherhood of Mutants  
+*Set: Brotherhood of Mutants*  
+
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
+^(Source: Rule insert)
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
-Set: MCU Villains  
+*Set: MCU Villains*  
+
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
+^(Source: Rule insert)
 
 # [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-047.jpg) (SC)
-Set: The Defenders  
+*Set: The Defenders*  
+
 **Underworld Boss**  
 The Kingpin Supporting Character has a Super Power where he takes over as your main character. When this happens, your former Main Character becomes a Supporting Character and remains in the game. It can still gain XP and Level Up, but you don’t lose the game if it gets KO’d. Instead, you now lose the game when Kingpin gets KO’d.
 
@@ -1647,11 +1668,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTg5MjY0LDEyNjMyMzMwMjIsOTQ4Nj
-M2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYz
-LDY2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMT
-I4MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQy
-NzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNT
-QwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0
-MjYzMDA5XX0=
+eyJoaXN0b3J5IjpbLTE5Mzk2NjY0NzIsMTI2MzIzMzAyMiw5ND
+g2MzYxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3
+NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC
+0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1
+NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OT
+I1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4
+NTQyNjMwMDldfQ==
 -->
