@@ -630,7 +630,8 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
 # Franklin Richards
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
 
 * Move each Character other than Franklin to the side of the playing space. **They are now in a separate part of the game.**
@@ -661,28 +662,38 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
     * Cards in one **Pocket Universe** cannot attack or otherwise affect cards in another **Pocket Universe**.
 * When Franklin leaves play, the characters from each **Pocket Universe** he created pop back into the original universe part of the game, in the same rows and with the same orientation they were in their **Pocket Universe**.
     * If this leads to more than one character with teh same name on your side, KO all except one (your choice).
+
+^(Source: Rule insert)
         
 
 # [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores (Flight), (Range), and team restrictions for an attack.
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
-Set: Resistance  
+*Set: Resistance*  
+
 **'Dis Card**  
 Note that discarding a card includes Power Ups. So each time any character on your side Powers Up, Gambit will gain an XP.
+^(Source: Rule insert)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-012.jpg) (SC)
-Set: Resistance  
+*Set: Resistance*  
+
 **Molecular Acceleration** is a Keyword Power, not a Super Power.
+^(Source: Rule insert)
 
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 **Hush** prevents players from using effects that require you to “say” something or to “name” something. **Hush** also prevents players from talking. You can still communicate in other ways such as using hand signals, or writing things down. You can also make sounds without using your vocal chords. If a player does speak, do your best impersonation of a Gentleman in order to shush them. (There is no in-game penalty for speaking. It’s just not cool.)
+^(Source: Rule insert)
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
-Set: Webheads  
+*Set: Webheads*  
+
 **You Can Borrow This for a While** grants characters with the chosen name the **Dimensional Wristwatch** keyword. You can recruit a character with **Dimensional Wristwatch** directly from your deck: Announce you're recruiting them from your deck, search your deck for the character, shuffle your deck, and then recruit them (pay its cost and put it onto your side). 
 
 If a character with the chosen name gets put back into your deck somehow it will regain **Dimensional Wristwatch** while it's in your deck.
@@ -696,6 +707,7 @@ When Ghost-Spider enters another game or gets removed from the game set aside al
 If Ghost-Spider enters anotehr game of Vs. System 2PCG, you decide which player gains control over her. She can attack, gain counters, get stunned, get KO'd, etc., just like in her original game. However, no matter what happens she will go back to her original game at the start of your next turn. When she jumps back, any counters, Equipment, etc. that she gained in the other game will be removed.
 
 If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players in that game to decide exactly how she works in that game.
+^(Source: Rule insert)
 
 # [Gilgamesh](http://vs.tcgbrowser.com/images/cards/small/COS-015.jpg)
 Set: Cosmic Avengers  
@@ -1596,11 +1608,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIzMzEwMzcsOTQ4NjM2MTM4LC0zMj
-k5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1
-NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOS
-w0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1
-MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1Mz
-kyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0
-NjgxMTAyMzldfQ==
+eyJoaXN0b3J5IjpbNjY3Mzg1ODI0LDk0ODYzNjEzOCwtMzI5OT
+UwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUs
+LTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksND
+g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
+MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
+ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
+MTEwMjM5XX0=
 -->
