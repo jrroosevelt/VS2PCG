@@ -1293,23 +1293,30 @@ Onslaught’s power occurs when you pay to recruit him, but before he appears. T
 ^(Source: Rule insert)
 
 # [Oz](http://vs.tcgbrowser.com/images/cards/big/TBB-019.jpg)
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 **Lose Control** lets an enemy player force Oz to strike another Supporting Character. If Oz’s ATK is greater than or equal to that character’s DEF, Oz stuns that character.
+^(Source: Rule insert)
 
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
-Set: Crossover  
+*Set: Crossover*  
+
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
 
 His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of **Agent** on a character, so FitzSimmons will count as two Agents. And **I’m a Guy With a Plan** will count Coulson himself.
+^(Source: Rule insert)
 
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/mcu2-013.jpg) (Photo)
-Set: MCU heroes  
+*Set: MCU heroes*  
+
 **They Need Someone to Avenge**  
 Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO pile at the start of your Main Phase, you must remove him from the game and then you can put +1/+1 counters on your characters.
+^(Source: Rule insert)
 
 # [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 **Souldagger** causes a character to lose each modifier it gained during combat. A modifier is an effect that modifies the game. There are two types of modifiers – 
 
 A one-shot modifier does something immediately and then is done. Example: “Put two +1/+1 counters on a character.”
@@ -1320,40 +1327,52 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 
 **Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an (Energy/"Blue"). This includes when a character uses an (Engergy/"Blue") Super Power, or choosing to spend an (Energy/"Blue") when you play the Plot Twist **Sacred Ground**.
 
+^(Source: Rule insert)
+
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
-Set: The New Defenders  
+*Set: The New Defenders*  
+
 Some characters are known by more than one moniker - like Power Man, who says **AKA Luke Cage**. He counts as having both names, which means you can use a Luke Cage supporting character to Power Up Power Man, and vice versa. It also means they both count as the same person for the purposes of the Uniqueness rules.
 
 Power Man loves a good party, especially if he wasn’t invited. His **Crash the Party** power counts each enemy power, even if there are multiple instances of the same power. But remember face-down characters lose their powers so he won’t count their powers.
+^(Source: Rule insert)
 
 # [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC)
-Set: New Mutants  
+*Set: New Mutants*  
+
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
 
 Professor X’s **Graduation** power lets you turn an (X-Men) supporting character into the main character version of that character. (Once it’s become a main character it can level up normally. Professor X is a really good teacher.)
 
 This allows you to have any number of main characters in play at once. However, Professor X is still your MAIN main character – if he gets KO’d you’ll lose the game. (Your other main characters getting KO’d won’t cause you to lose the game.)
+^(Source: Rule insert)
 
 # [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
-Set: Brotherhood of Mutants  
+*Set: Brotherhood of Mutants*  
+
 Pyro’s **Fire Manipulation** power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
+^(Source: Rule insert)
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
-Set: Black Order  
+*Set: Black Order*  
+
 You can use this Gem to turn cards in play face up. If you choose a stunned character this counts as recovering it. If you choose a hidden character, it counts as un-hiding it. If you choose a face-down location, it will turn face up. If you choose any other type of face-down resource (including an Infinity Gem), it will remain face down. (It should be revealed to each player to prove that it's not a location). 
 
 You can also use the Gem to turn cards in play face down. If you do this to a ready character, it counts as hiding it. If you do it to an exhausted character, it counts as dazing it (i.e. stun it but it doesn't gain a wound). 
 
 If you do it to an equipment, that equipment will stay equipped but its powers are temporarily turned off. It will turn face up again when the characters on that side would recover. If you do it to a location or face-up Infinity Gem, it will turn face down.  
+^(Source: Rule insert)
 
 # Rhino
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/CV1-013.jpg) (Sinister Syndicate)
-Set: Crossover  
+*Set: Crossover*  
+
 **Headlong Charge**  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
 
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/def-039.jpg) (Underworld)
-Set: The Defenders  
+*Set: The Defenders*  
+
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
@@ -1762,11 +1781,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MzIxODA2LC0yNDEzNzExMDQsMTM0Nz
-I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
-LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
-I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
-MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
-wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
-MTc1Mzk0NF19
+eyJoaXN0b3J5IjpbLTgwNTM2MTE5NiwtMjQxMzcxMTA0LDEzND
+cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
+MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
+YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
+NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
+EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
+MzE3NTM5NDRdfQ==
 -->
