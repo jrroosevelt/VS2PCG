@@ -476,54 +476,73 @@ Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Chara
 
 # [Doctor Nemesis](http://vs.tcgbrowser.com/images/cards/big/RES-008.jpg)
 *Set: Resistance*  
+
 **Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
+^(Source: Rule insert)
 
 # [Domino](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg)
-Set: The Utopia Battles   
+*Set: The Utopia Battles*   
+
 **Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
+^(Source: Rule insert)
 
 # [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
-Set: MCU Villains  
+*Set: MCU Villains*  
+
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
+^(Source: Rule insert)
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
-Set: Webheads  
+*Set: Webheads*  
+
 For every Dr. Curt Connors in your deck, you must also bring that many copies of the Lizard which will start in an out-of-game Lizard pile. When **The Monster Within** transforms Dr. Connors after he is stunned, remove him from the game and replace him with a Lizard from your Lizard Pile. 
 
 Since this is a "transformation", the Lizard will keep any counters and effects that Dr. Connors had (including a wound counter since he was just stunned).
 
 You can include up to the usual four copies of Lizard in your deck as well as bring up to four copies for your Lizard pile (one for each copy of Dr. Cur Connors in your deck). If you don't have any Lizards in your Lizard pile, **The Monster Within** won't do anything.
+^(Source: Rule insert)
 
 # [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
 
 # [Ego](http://vs.tcgbrowser.com/images/cards/big/mcu3-003.jpg)
-Set: MCU Villains  
+*Set: MCU Villains*  
+
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
+^(Source: Rule insert)
 
 # Electro
 ## [Electro](http://vs.tcgbrowser.com/images/cards/big/SYN-011.jpg) (SC)
-Set: Sinister Syndicate  
+*Set: Sinister Syndicate*  
+
 **Electrocution**  
 Electro introduces a new concept: remaining health. Remaining health is a character’s (Health) maximum minus its wounds. (Maximum (Health) is printed plus any bonus .) For example, when a character with 1  printed (Health) appears, it will have 1 remaining health. If a character has 3 printed (Health) and is getting +1 (Health) from an effect and has 2 wounds, its remaining health is 2 (3 + 1 – 2 = 2).
+^(Source: Rule insert)
 
 ## [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
-Set: Legacy  
+*Set: Legacy*  
+
 **Hand Experience**  
 Elektra (main character) has a super power that allows you to hide her in your hand until your next turn starts. But if she somehow gets discarded from your hand, shuffled into your deck, or otherwise goes anywhere except into play, then you’ll lose the game at the start of your next turn.
+^(Source: Rule insert)
 
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 **Keeper of Law** allows a character to strike an additional time in a combat. The character can strike two different characters once each (if they’re being team attacked, for example), or they can strike the same character twice. In the latter case, add the character’s ATK together for each strike and then compare it to the enemy’s DEF. 
 
 Emma’s power can be used any number of times each turn. So if a character ends up being allowed to strike 3, 4, or more times, it works as above. Any number of strikes can be combined against an enemy or split amongst multiple enemies.
+^(Source: Rule insert)
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/HAM-016.jpg) (SC) (H.A.M.M.E.R.)
-Set: H.A.M.M.E.R.  
+*Set: H.A.M.M.E.R.*  
+
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of her counters, and any effects on her.
+^(Source: Rule insert)
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/RES-014.jpg) (SC) (Resistance)
 Set: Resistance    
@@ -1557,11 +1576,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg1ODkwNjksOTQ4NjM2MTM4LC0zMj
-k5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1
-NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOS
-w0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1
-MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1Mz
-kyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0
-NjgxMTAyMzldfQ==
+eyJoaXN0b3J5IjpbLTUwMzYxMjIsOTQ4NjM2MTM4LC0zMjk5NT
+AyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwt
+MTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0OD
+cxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkz
+MTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOS
+wxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0Njgx
+MTAyMzldfQ==
 -->
