@@ -990,6 +990,7 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 **Primary Operating System**  
 When Mainframe uses **Primary Operating System** it applies only to characters that are currently on your side. It doesn't apply to characters that appear on your side later that turn.
+^(Source: Rule insert)
 
 # [Magneto](http://vs.tcgbrowser.com/images/cards/big/BOM-005.jpg) (MC)
 Set: Brotherhood of Mutants  
@@ -1688,7 +1689,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDI1NDY1MCwxMjYzMjMzMDIyLDk0OD
+eyJoaXN0b3J5IjpbMTM0NzI0MDc4NSwxMjYzMjMzMDIyLDk0OD
 YzNjEzOCwtMzI5OTUwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2
 Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLT
 EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
