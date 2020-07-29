@@ -1839,24 +1839,27 @@ See [Global Information Network](#wiki_global_information_network)
 ^(Source: Rule insert)
 
 # [Willie Lumpkin](http://vs.tcgbrowser.com/images/cards/big/FAN-010.jpg)
-
- - Set: The Fantastic Battles
+*Set: The Fantastic Battles*  
 
 Willie is a **Delivery Expert**, not a Delivery Novice. Package counters stay on Willie even if he's turned face down.
 
 Also, Willie *can* deliver a Package to a Baxter Building in Wyatt Wingfoot's part of the resource row. He's that good!
+^(Source: Rule insert)
 
 # [Willow](http://vs.tcgbrowser.com/images/cards/big/TBB-023.jpg) (SC) 
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 Willow’s **Spell Research** power puts Plot Twists into a special pile removed from the game called your Spellbook. Your Spellbook can’t have more than one copy of the same Plot Twist. 
 
 **Spellcasting**  
 Her Spellcasting power lets you play Plot Twists from your Spellbook, putting them into your KO pile when they resolve. 
 
 If Willow gets KO’d or otherwise is no longer on your side, you won’t be able to access the Plot Twists in your Spellbook. But if you play another copy of Willow, then you can use your Spellbook again.
+^(Source: Rule insert)
 
 # [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 **Wizard Armor**  
 Here are the four Plot Twists he has at his disposal:
 
@@ -1871,6 +1874,8 @@ Here are the four Plot Twists he has at his disposal:
 
 **Best Offense is a Good Defense**  
 (Any Combat): Choose an attacker to get +0/+5 this combat.
+
+^(Source: Rule insert)
 
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 Set: The Fantastic Battles  
@@ -1901,11 +1906,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc1OTY2MTUsLTE5ODYzMzI0MzgsLT
-I0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2
-MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLD
-Y2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4
-MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNz
-Q4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQw
-LDkyMTQ1MzkyOV19
+eyJoaXN0b3J5IjpbMTMyMDgxMzA2OSwtMTk4NjMzMjQzOCwtMj
+QxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYx
+MzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNj
+Y3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgx
+OTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3ND
+g3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAs
+OTIxNDUzOTI5XX0=
 -->
