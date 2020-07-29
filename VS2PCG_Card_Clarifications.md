@@ -925,47 +925,67 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 **Underworld Boss**  
 The Kingpin Supporting Character has a Super Power where he takes over as your main character. When this happens, your former Main Character becomes a Supporting Character and remains in the game. It can still gain XP and Level Up, but you don’t lose the game if it gets KO’d. Instead, you now lose the game when Kingpin gets KO’d.
+^(Source: Rule insert)
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
-Set: Sinister Syndicate  
+*Set: Sinister Syndicate*  
+
 **Spring the Trap**  
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
+^(Source: Rule insert)
 
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 **No Autographs**   
 While in play, Lambert has every Good Team Affiliation. This does a variety of things. For example, he can team attack with any other Good characters, and while he is face up, he helps you play any Good Plot Twists.
+^(Source: Rule insert)
 
 # [Legacy](http://vs.tcgbrowser.com/images/cards/big/HER-012.jpg)
-Set: The Herald  
+*Set: The Herald*  
+
 Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negative Zone Location. Spending a Negative Zone means turning a Location named Negative Zone face down in your resource row or discarding one from your hand. (It works just like using a regular Location to pay for a super power except you don't actually generate a power symbol.)
+^(Source: Rule insert)
 
 # [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
-Set: Monsters Unleashed!  
+*Set: Monsters Unleashed!*  
+
 See [Fin Fang Foom](#wiki_fin_fang_foom).
+^(Source: Rule insert)
 
 # [Life on the Hellmouth](http://vs.tcgbrowser.com/images/cards/big/TBB-057.jpg) 
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 This Plot Twist puts two characters on your side in a Relationship. This means they can team attack together (even if they’re not on the same team), and while doing so they can’t be struck back by a defender. Once a character in a Relationship leaves play, the Relationship is over.
+^(Source: Rule insert)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards are cards that have photographic artwork on them, from TV shows and movies. The other universe is the Illustrated Universe, whose cards are cards with drawn, or illustrated artwork.
+^(Source: Rule insert)
 
 # [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC)
-The MCU Battles  
+*The MCU Battles*  
+
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
+^(Source: Rule insert)
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 The Mad Thinker's **Computer Mind** is so powerful he can very accurately predict what his enemies are going to do. When you make a **Prediction**, secretly write down the name of two characters; an attacker and a defender. The names don't have to be characters in play at the time Mad Thinker uses the super power. When a character with the attacker's name attacks a character on your side with the defender's name (even in a team attack), cancel the combat. Then make another **Prediction** about the same turn, but this time you'll have a lot more data! You can make a maximum of two **Predictions** from each use of the super power.
+^(Source: Rule insert)
 
 # [Magik](http://vs.tcgbrowser.com/images/cards/big/NEW-014.jpg) 
-Set: New Mutants  
+*Set: New Mutants*  
+
 Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
+^(Source: Rule insert)
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 **Stationary** prevents Mainframe from moving even if an enemy player uses a push or pull effect on him or rearranges your formation.
 
 **Primary Operating System**  
@@ -1668,11 +1688,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk2NjY0NzIsMTI2MzIzMzAyMiw5ND
-g2MzYxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3
-NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC
-0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1
-NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OT
-I1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4
-NTQyNjMwMDldfQ==
+eyJoaXN0b3J5IjpbMTEwNDI1NDY1MCwxMjYzMjMzMDIyLDk0OD
+YzNjEzOCwtMzI5OTUwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2
+Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLT
+EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
+Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5Mj
+U0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1
+NDI2MzAwOV19
 -->
