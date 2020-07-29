@@ -1369,46 +1369,64 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 
 **Headlong Charge**  
 Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino just enough. The defender doesn’t count as moving. When an enemy front row character sidesteps, you’ll get to pick a new defender in their back row. If there aren’t any, the combat will end. Sorry Rhino!
+^(Source: Rule insert)
 
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/def-039.jpg) (Underworld)
 *Set: The Defenders*  
 
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+^(Source: Rule insert)
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
-Set:  The Herald  
+*Set:  The Herald*  
+
 **Receptionist** prevents Roberta from leaving the front row. This means she can't be moved to the back row during your Formation Step, and she ignores any card effects that would move her out of the front row. However, an effect could move her from one player's front row to another player's front row.
+^(Source: Rule insert)
 
 # [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
+^(Source: Rule insert)
 
 # Rogue
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC)
-Set: Resistance  
+*Set: Resistance*  
+
 Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
+^(Source: Rule insert)
 
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC)
-Set: A-Force  
+*Set: A-Force*  
+
 **Absorb Powers**  
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
+^(Source: Rule insert)
 
 # [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 **We’re Going to Kill Them All**  
 Royce’s supporting character has this Super Power. It allows him to move a wound from an enemy character (even an enemy Main Character) to an enemy Supporting Character. The characters must be different. The first character counts as being healed and the second character counts as being wounded.
+^(Source: Rule insert)
 
 # [The Runner](http://vs.tcgbrowser.com/images/cards/big/CV2-008.jpg)
-Set: Crossover vol. 2  
+*Set: Crossover vol. 2*  
+
 The Runner is so fast he can actually attack during your Build Phase. This means you can recruit characters and equipment after the Runner attacks. (You could even recruit a new copy of Runner and attack with it!) Note: The Runner attacking during the Build Phase does count as a regular Combat so **Combat** Super Powers and Plot Twists, and power ups can be used during a Build Phase combat. However, during the combat you can't use any **Build** Super Powers and Plot Twists.
+^(Source: Rule insert)
 
 # [Sacred Ground](http://vs.tcgbrowser.com/images/cards/big/TUB-029.jpg) 
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 This Plot Twist lets a character pay any power symbol. You can generate a power symbol in the usual ways -- by turning a Location that makes a power symbol face down, or by discarding a Location that makes a power symbol.
+^(Source: Rule insert)
 
 # [Sauron](http://vs.tcgbrowser.com/images/cards/big/BOM-016.jpg)
-Set: Brotherhood of Mutants  
+*Set: Brotherhood of Mutants*  
+
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
+^(Source: Rule insert)
 
 # Scarlet Spider
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-003.jpg) (MC)
@@ -1781,11 +1799,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTM2MTE5NiwtMjQxMzcxMTA0LDEzND
-cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
-MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
-YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
-NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
-EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
-MzE3NTM5NDRdfQ==
+eyJoaXN0b3J5IjpbMjI3ODEwNDA0LC0yNDEzNzExMDQsMTM0Nz
+I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
+LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
+I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
+MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
+wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
+MTc1Mzk0NF19
 -->
