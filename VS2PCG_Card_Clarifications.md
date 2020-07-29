@@ -1648,15 +1648,20 @@ At one point Starhawk was actually two beings merged together who took turns occ
 # Star Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
 *Set: The MCU Battles*  
+
 **Dance Off, Bro**  
 Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
+^(Source: Rule insert)
 
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
+^(Source: Rule insert)
 
 # \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed. So she has *s around her name, meaning she shares the "mantle" with Star-Lord, himself. The sharing of the mantle means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of the uniqueness rules and they can't power each other up.
 
 Note that although this card represents her joining the Guardians of the Galaxy she's still an X-Men at heart, so she has both team affiliations.
@@ -1666,37 +1671,52 @@ Her **Intangibility** power lets her strike characters while they're in a player
 * She can strike any number of 0 DEF characters (or characters with * DEF).  
 * She can strike characters who normally couldn't be struck by her while on a side (like Bulletproof characters) because those powers aren't active while the character is in a hand.  
 * It doesn't matter how much (Health) a struck character has, it gets discarded. 
+^(Source: Rule insert)
 
 # [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg)
-Set: Resistance  
+*Set: Resistance*  
+
 **You Can’t Weather This Storm** is a Keyword Power, not a Super Power.
+^(Source: Rule insert)
 
 # [Sunspot](http://vs.tcgbrowser.com/images/cards/big/NEW-013.jpg)
-Set: New Mutants   
+*Set: New Mutants*   
+
 Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
+^(Source: Rule insert)
 
 # [Supergiant](http://vs.tcgbrowser.com/images/cards/big/BLK-013.jpg)
-Set: Black Order  
+*Set: Black Order*  
+
 Both of Supergiant's powers trigger when she appears. You can resolve them in whichever order you like.
+^(Source: Rule insert)
 
 # [Superior Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-007.jpg) (MC)
-Set: Webheads  
+*Set: Webheads*  
+
 **A Superior Hero** represents Doc Ock's realization that Peter Parker's selflessness makes Peter the superior hero. When another character on your side is attacked, you may transform Superior Spider-Man into the Marvel Battles Level 2 Spider-Man with **Friendly Neighbor**, remove the defender from combat, and replace it with your new Spider-Man Main Character. Note: Spider-Man will keep all counters, Equipment, effects, and orientation (ready/exhausted) that Superior Spider-Man had.
+^(Source: Rule insert)
 
 # [Super Skrull](http://vs.tcgbrowser.com/images/cards/big/FAN-035.jpg) (MC)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 Super-Skrull's **First Faker** Level Up power looks at every player's side (not just yours) and it counts Main and Supporting Characters. But if there are, for example, two Human Torches in play, he still only gets 1 XP for Human Torch.  
 
 The powers he gains from his **Cosmic Energy Power Receptors** have no duration, so he keeps them until he leaves play. They also look at every player's side (not just yours). Note that if he copies **Stroke of Genius** from Mister Fantastic, he will only be able to **Invent** if you already have an Invention pile for your deck.
+^(Source: Rule insert)
 
 # [Supreme Leader](http://vs.tcgbrowser.com/images/cards/big/SVH-008.jpg)
-Set: S.H.I.E.L.D. vs. Hydra  
+*Set: S.H.I.E.L.D. vs. Hydra*  
+
 **Hydra High Council**   
 Supreme Leader has a Super Power which prevents you from losing the game even after he’s KO’d. Just continue to play without a main character.
+^(Source: Rule insert)
 
 # [Sweet](http://vs.tcgbrowser.com/images/cards/big/TBB-047.jpg)
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 **That’s Entertainment** moves each face-up character to their front row and has them perform a Musical Number. There is no official definition of what counts as a Musical Number. We recommend rocking the cards back and forth and having them sing a song. (Although if The Gentlemen are in play, no singing is allowed.)
+^(Source: Rule insert)
 
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
 Set: Crossover vol. 2  
@@ -1851,7 +1871,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODg4MzQ4OCwtMjQxMzcxMTA0LDEzND
+eyJoaXN0b3J5IjpbMTM5OTM2OTkzNCwtMjQxMzcxMTA0LDEzND
 cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
 MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
 YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
