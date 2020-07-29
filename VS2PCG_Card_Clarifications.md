@@ -1790,9 +1790,11 @@ When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**
 **The Watcher** sees everywhere; including but not limited to enemy decks (shuffle them afterwards) hands, face-down resources, cards removed from the game and out of game piles (even if they're secret). 
 
 **The Doer** *does* remove the effects of the **Freeze** keyword.
+^(Source: Rule insert)
 
 # [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 **Ultron Facility**  
 Ultron is really six main characters in one: three identical Level 1s, two identical Level 2s, and one Level 3. Before the game starts you’ll put one Level 1 Ultron onto your side. The remaining five Ultron cards will start out of play in a face-up pile called your **Ultron Facility**. 
 
@@ -1801,34 +1803,45 @@ During the game you can use any Ultron’s **There’s Only One Path To Peace** 
 If all your Ultrons are in the Ultron Facility at the same time, you lose the game. 
 
 **Note:** The Level 3 Ultron’s **Your Extinction** power KOs all enemy cards (in a very dramatic way).
-
+^(Source: Rule insert)
 
 # [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC)
-Set: Crossover  
+*Set: Crossover*  
+
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
 
 Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he’s stunned.
+^(Source: Rule insert)
 
 # [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 Currently, there are only 3 (Predator) One of a Kind Plot Twists that it can copy: “Any Time.”, “Over Here.” and “Turn Around.”
+^(Source: Rule insert)
 
 # [Vulture](http://vs.tcgbrowser.com/images/cards/big/SYN-009.jpg)
-Set: Sinister Syndicate  
+*Set: Sinister Syndicate*  
+
 While Vulture is attacking a character without (Flight) that is also in its back row, his **From Above** power will give him +2/+2. Ka kaw!
+^(Source: Rule insert)
 
 # [Wakanda](http://vs.tcgbrowser.com/images/cards/big/COS-022.jpg)
-Set: Cosmic Avengers  
+*Set: Cosmic Avengers*  
+
 See [Global Information Network](#wiki_global_information_network)
 
 # [Weapon Omega](http://vs.tcgbrowser.com/images/cards/big/TUB-035.jpg) (MC) 
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 **Mutant Energy Absorption**’s effect has no duration. So a character that loses and can’t gain powers this way, will remain like that until it leaves play. 
 
 **Addicted to Mutant Energy** affects a character as it appears, which means it won’t even trigger any of its powers that occur when it appears. It also has no duration, so a character affected by it will remain affected until that character leaves play.
+^(Source: Rule insert)
 
 # [Willie Lumpkin](http://vs.tcgbrowser.com/images/cards/big/FAN-010.jpg)
-Set: The Fantastic Battles  
+
+ - Set: The Fantastic Battles
+
 Willie is a **Delivery Expert**, not a Delivery Novice. Package counters stay on Willie even if he's turned face down.
 
 Also, Willie *can* deliver a Package to a Baxter Building in Wyatt Wingfoot's part of the resource row. He's that good!
@@ -1888,11 +1901,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMz
-Q3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAy
-MTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMT
-I2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcx
-NzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMT
-MxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwx
-MDMxNzUzOTQ0XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc1OTY2MTUsLTE5ODYzMzI0MzgsLT
+I0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2
+MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLD
+Y2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4
+MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNz
+Q4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQw
+LDkyMTQ1MzkyOV19
 -->
