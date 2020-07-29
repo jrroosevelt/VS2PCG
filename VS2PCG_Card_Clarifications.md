@@ -1496,7 +1496,8 @@ Shadow King is technically a supporting character but he doesn’t want to actua
 ^(Source: Rule insert)
 
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
-Set: A-Force  
+*Set: A-Force*  
+
 **Rules Lawyer**  
 She-Hulk’s main character introduces a new kind of super power called a **Reaction**. It reads: 
 
@@ -1505,51 +1506,68 @@ She-Hulk’s main character introduces a new kind of super power called a **Reac
 Reaction powers trigger when a certain condition is met (in this case it’s “When an enemy player uses a super power”). When that happens you can pay an (and say “Objection” of course) and if you do it cancels the super power so it never takes effect.
 
 You can use a Reaction power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
+^(Source: Rule insert)
 
 # Shifting Loyalties 
-Set: The Utopia battles  
+*Set: The Utopia battles*  
+
 At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (H.A.M.M.E.R.) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
+^(Source: Rule insert)
 
 See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
 
 # [Sif](http://vs.tcgbrowser.com/images/cards/big/CV1-015.jpg)
-Set: Crossover  
+*Set: Crossover*  
+
 You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
+^(Source: Rule insert)
 
 # [Silver Surfer](http://vs.tcgbrowser.com/images/cards/big/HER-005.jpg) (MC)
-Set:  The Herald  
+*Set:  The Herald*  
+
 **Take a Stand** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a (Humanity/"Earth") for the Silver Surfer.
 
 **Protect the Earth** will return the highest cost Supporting Character to its owner's hand, whether that character is on your side or on another player's side.
+^(Source: Rule insert)
 
 # [Simon Trask](http://vs.tcgbrowser.com/images/cards/big/TUB-037.jpg) (MC) 
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 **Proposition X** works like this. When an enemy character appears, check each of its team affiliations against each team affiliation on characters on your side. For each affiliation the enemy character has that is NOT shared, Trask gains 1 XP. 
  
 **Biosentinel** is a keyword power that has no built-in effect. Instead it is referenced by Trask’s other powers.
+^(Source: Rule insert)
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
-Set: Crossover Vol. 2
+*Set: Crossover Vol. 2*
+
 Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as \* Spider-Man \*' s **Spider-People**. It's just how they spell in the future!
 
 SP//dr must not have any wounds at the start of your turn in order for its **Genius** power to trigger. So even if **Regeneration** heals SP//dr's last wound, you won't get to draw from **Genius** that turn.
+^(Source: Rule insert)
 
 # [Specialized Web Cartridges](http://vs.tcgbrowser.com/images/cards/big/WEB-024.jpg)
-Set: Webheads  
+*Set: Webheads*  
+
 **Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. Note: The attack power will trigger whether the equipped character is making a melee or ranged attack.
+^(Source: Rule insert)
 
 # [Spider-Gwen](http://vs.tcgbrowser.com/images/cards/big/LEG-061.jpg)
-Set: Legacy  
+*Set: Legacy*  
+
 **Dimensional Wristwatch**  
 Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
+^(Source: Rule insert)
 
 # Spider-Man
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC)
-Set: Spider-Friends  
+*Set: Spider-Friends*  
+
 **I Can and Will Fight You**
 This issue introduces the powerful Alien Symbiote version of Spider-Man. But as they say, with great alien power comes great alien… danger. While the symbiote does make him stronger, he must remove it or it will quickly be game over. In the comics, when Spider-Man fights off the symbiote, it splits off from him as a separate entity. In the game, when Spider-Man sheds the symbiote, it splits off from him as a separate card. When this happens, Spider-Man will become Level 2 and now wears a cloth version of his black costume and the Alien Symbiote will look for a new host. (Note: Spider-Man Level 2 has one less Health – this represents losing the strength of the symbiote.) 
 
 When a character with the Alien Symbiote is turned face down but isn’t KO’d, just keep the equipment token face up and ready, just like when it’s equipped to a face-up character (it doesn’t exhaust or turn face down). And remember, the symbiote is a jealous entity – it can’t be destroyed or removed from its host (at least until the host leaves play).
+^(Source: Rule insert)
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-019.jpg) (SC - Spider-Friends)
 Set: Spider-Friends  
@@ -1813,11 +1831,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTk4ODQ5MywtMjQxMzcxMTA0LDEzND
-cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
-MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
-YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
-NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
-EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
-MzE3NTM5NDRdfQ==
+eyJoaXN0b3J5IjpbMTgxMzE0NjMyLC0yNDEzNzExMDQsMTM0Nz
+I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
+LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
+I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
+MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
+wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
+MTc1Mzk0NF19
 -->
