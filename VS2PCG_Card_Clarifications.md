@@ -814,26 +814,36 @@ Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tact
 ^(Source: Rule insert)
 
 # [Hyperion](http://vs.tcgbrowser.com/images/cards/big/COS-014.jpg)
-Set: Cosmic Avengers  
+*Set: Cosmic Avengers*  
+
 Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required (Energy/"Blue"). But it doesn't have to be in the combat.
+^(Source: Rule insert)
 
 # Impersonating Powers
-Set: Utopia Battles   
+*Set: Utopia Battles*   
+
 Several characters have powers that impersonate other characters. These powers turn off immediately if the character they’re impersonating ever shows up. It doesn’t matter if the character that’s being impersonated is face up or face down or what side they’re on. Either way they count as being on “a side” and will turn off the Impersonation power.
+^(Source: Rule insert)
 
 # [Impossible Man](http://vs.tcgbrowser.com/images/cards/big/FAN-049.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 **Omnifarious**  
 Impossible Man is three cards in one. He can be played as an Equipment, a Plot Twist, or a Supporting Character. Note that if he is an Equipment, his Equipment power has no name, so it can't be chosen by any effects that choose power names. 
+^(Source: Rule insert)
 
 # [The In-Betweener](http://vs.tcgbrowser.com/images/cards/big/CV2-009.jpg)
-Set: Crossover Vol. 2  
-**Duality Itself** lets you put the In-Betweener onto your side between two turns of the game. You can deven do this after an enemy player's first turn but before your first turn.
+*Set: Crossover Vol. 2*  
+
+**Duality Itself** lets you put the In-Betweener onto your side between two turns of the game. You can even do this after an enemy player's first turn but before your first turn.
 
 The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to have so he ended up between two whole numbers. In most cases, his stats work like this. 1 ½ cost means you must pay 1 ½ recruit points to recruit him. So you will have ½ a recruit point left over. 4 ½ ATK means his strikes will stun a 4 DEF character but not a 5 DEF character. 3 ½ DEF means if he is struck with 3 ATK, he won't get stunned, but if he gets struck with 4 ATK he will get stunned. 2 ½ (Health) means 2 wounds won't KO him, but 3 wounds will.
+^(Source: Rule insert)
+^(Source: Rule insert)
 
 # [The Infinity Gauntlet](http://vs.tcgbrowser.com/images/cards/big/BLK-017.jpg)
-Set: Black Order  
+*Set: Black Order*  
+
 While equipped, the Infinity Gauntlet allows you to turn any number of face-down Infinity Gem equipment in your resource row face up to show that you've "set" them into the Gauntlet. If a card with Infinity gets put into a KO pile from anywhere, you may shuffle it into its owner's deck. 
 
 If the Gauntlet leaves play, leave the face-up Gems in your resource row as they are. However, you can no longer user their powers. If a character on your side equips the Gauntlet later in the game, those Gems will already be inset and its Wielder can use their power again.
@@ -1637,11 +1647,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjc2NDgxNywxMjYzMjMzMDIyLDk0OD
-YzNjEzOCwtMzI5OTUwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2
-Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLT
-EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
-Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5Mj
-U0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1
-NDI2MzAwOV19
+eyJoaXN0b3J5IjpbLTI5MTg5MjY0LDEyNjMyMzMwMjIsOTQ4Nj
+M2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYz
+LDY2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMT
+I4MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQy
+NzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNT
+QwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0
+MjYzMDA5XX0=
 -->
