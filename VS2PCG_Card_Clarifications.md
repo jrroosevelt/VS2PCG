@@ -282,35 +282,46 @@ Carnage’s power triggers when he stuns or gets stunned. So it’s possible for
 *Set: Spidey-Foes*  
 
 If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Characters on your side.
+^(Source: Rule insert)
 
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SYN-007.jpg) (SC)
-Set: Sinister Syndicate  
+*Set: Sinister Syndicate*  
+
 **Master of Disguise**  
 Chameleon does copy the **Sinister Six** keyword from your main characters who have that keyword. It doesn’t do anything for him in the game because he’s not a main character – he just wants to feel like a real part of the team.
+^(Source: Rule insert)
 
 # [The Champion](http://vs.tcgbrowser.com/images/cards/big/CV2-019.jpg)
-Set: Crossover Vol. 2  
+*Set: Crossover Vol. 2*  
+
 **Primordial Power**  
 (Infinite) ATK means the Champion will always have enough ATK to stun a defender and his DEF will always be high enough to avoid getting stunned by a defender's strike. Although if somehow, the defender also has infinite ATK and DEF, then both characters will get stunned. (In other words, infinite ATK is treated as equal to infinite DEF which results in a stun. It's maths.)
+^(Source: Rule insert)
 
 # [Chimichanga](http://vs.tcgbrowser.com/images/cards/big/MFM-021.jpg)
-Set: Deadpool & Friends  
-Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
+*Set: Deadpool & Friends*  
 
+Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
+^(Source: Rule insert)
 
 # [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
-Set: The Utopia Battles
+*Set: The Utopia Battles*
+
 **Darkforce Channeling** affects all characters, including ones that appear on your side
 
 **Shifting Loyalties**
 See [Shifting Loyalties](#wiki_shifting_loyalties)
+^(Source: Rule insert)
 
 # Cosmic Cubes
-Set: S.H.I.E.L.D. vs. Hydra  
+*Set: S.H.I.E.L.D. vs. Hydra*  
+
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
+^(Source: Rule insert)
 
 # [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
-Set: Galactic Guardians  
+*Set: Galactic Guardians*  
+
 With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
@@ -1512,11 +1523,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4NDUzMTMsOTQ4NjM2MTM4LC0zMj
-k5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1
-NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOS
-w0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1
-MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1Mz
-kyOSwxMDMxNzUzOTQ0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0
-NjgxMTAyMzldfQ==
+eyJoaXN0b3J5IjpbMTQzMzU1MDExLDk0ODYzNjEzOCwtMzI5OT
+UwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUs
+LTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksND
+g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
+MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
+ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
+MTEwMjM5XX0=
 -->
