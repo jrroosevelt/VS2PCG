@@ -1570,11 +1570,14 @@ When a character with the Alien Symbiote is turned face down but isn’t KO’d,
 ^(Source: Rule insert)
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-019.jpg) (SC - Spider-Friends)
-Set: Spider-Friends  
+*Set: Spider-Friends*  
+
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
+^(Source: Rule insert)
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-017.jpg) (SC - Webheads)
-Set: Webheads  
+*Set: Webheads*  
+
 When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's **Updates**). When Spidey installs **Updates**, you may remove any number of **Update** counters from him.
 
 If you remove exactly one **Update** he gains (Flight) and (Range) until he leaves play. If you remove exactly two **Updates**, put two vitality counters on him. If you remove exactly three **Updates**, put twelve +1/+1 counters on him.
@@ -1582,28 +1585,38 @@ If you remove exactly one **Update** he gains (Flight) and (Range) until he leav
 You can remove the same number of **Updates** more than once. For example, if you remove the two **Updates** for a second time, Spider-Man will get two more vitality counters.
 
 Note: **Update** counters aren't removed from Spidey when he gets turned face down. However, they are still removed when he leaves play.
+^(Source: Rule insert)
 
 # \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
-Set: Crossover Vol. 2  
+*Set: Crossover Vol. 2*  
+
 Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. \* Spider Man \*'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
 
-These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you ahve at least one of your other Main Characters on your side.
+These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you have at least one of your other Main Characters on your side.
+^(Source: Rule insert)
 
 # \*\* Spider-Man \*\* 
 ## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-002.jpg) \*\* (MC)
-Set: Webheads  
+*Set: Webheads*  
+
 This Spider-Man, from the Ultimate Universe, is our first character to share a mantle with two other people! (Miles Morales and the main Marvel Universe's Peter Parker.) In this comics, this Peter died... but then came back to life because the **Oz Formula** that gave him his powers also granted him immortality. For the game, this means when Peter is KO'd, you won't lose the game immediately for not having a main character. You'll have until the end of your next turn to bring him back when a Supporting Character with the **Friends and Family** keyword appears on your side. In this case, put him back onto your side with wounds equal to his (Health) minus 1. (With the **Oz Formula** mechanic, Peter can continue fighting for those he cares about.)
+^(Source: Rule insert)
 
 ## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-016.jpg) \*\* (SC)
-Set: Webheads  
+*Set: Webheads*  
+
 **Ultimate Spider-Man** lets Spidey strike multiple times in a combat. If he strikes the same character more than once, add his ATK together for each strike and then compare it to the enemy's DEF. For example, if he has 5 ATK and strikes a character three times compare a total of 15 ATK to that character's DEF. He can also split up his strikes if he's in combat with multiple enemies (such as if he's being team attacked).
+^(Source: Rule insert)
 
 # [Spider-Man Noir](http://vs.tcgbrowser.com/images/cards/big/CV2-006.jpg)
-Set: Crossover Vol. 2  
+*Set: Crossover Vol. 2*  
+
 **Black and White** prevents enemy Locations from producing the power symbol of your choice. An enemy player can still turn a Location face down or discard it from their hand to try to produce that symbol, but nothing will happen.
+^(Source: Rule insert)
 
 # [Spider-UK](http://vs.tcgbrowser.com/images/cards/big/WEB-005.jpg) (MC)
-Set: Webheads  
+*Set: Webheads*  
+
 A British Spider-Man from another Universe, Spider-UK is a new Main Character with the **Spider-Verse** keyword. **Spider-Verse** means two things:
 
 First, if you choose a **Spider-Verse** character to be your starting Main Character you can include up to four other **Spider-Verse** Main Characters in your deck when you build it. (Four other Spider-Verse Main Characters premiered in the 2019 Vs. System 2PCG: Crossover Vol 2 Issue.)
@@ -1611,15 +1624,20 @@ First, if you choose a **Spider-Verse** character to be your starting Main Chara
 Second, during your Build Phase, if a character with **Spider-Verse** is in your hand, you may put it onto your side. 
 
 Note: Spider-UK can be powered up by any character with "Spider" in their name, which includes Main Characters that are in your hand.
+^(Source: Rule insert)
 
 # [Squirrel Girl](http://vs.tcgbrowser.com/images/cards/big/LEG-060.jpg)
-Set: Legacy  
+*Set: Legacy*  
+
 **Let’s Get Nuts**  
 Squirrel Girl’s power lets her put token characters into play. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, it ceases to exist. The token card can be reused later if Squirrel Girl appears again.
+^(Source: Rule insert)
 
 # [Stand Together](http://vs.tcgbrowser.com/images/cards/big/CV1-022.jpg)
-Set: Crossover  
+*Set: Crossover*  
+
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
+^(Source: Rule insert)
 
 # [Star Hawk](http://vs.tcgbrowser.com/images/cards/big/GAL-012.jpg)
 Set: Galactic Guardians  
@@ -1831,7 +1849,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzE0NjMyLC0yNDEzNzExMDQsMTM0Nz
+eyJoaXN0b3J5IjpbODI3MTYwMDAxLC0yNDEzNzExMDQsMTM0Nz
 I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
 LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
 I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
