@@ -21,22 +21,29 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 ^(Source: Rule insert)
 
 # [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
-Set: Galactic Guardians  
+*Set: Galactic Guardians* 
+ 
 At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become [Level 2](http://vs.tcgbrowser.com/images/cards/big/GAL-002.jpg) while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
+^(Source: Rule insert)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
-Set: The Fantastic Battles  
-If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
+*Set: The Fantastic Battles*  
 
+If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
+^(Source: Rule insert)
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
-Set: Deadpool & Friends  
+*Set: Deadpool & Friends*  
+
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
+^(Source: Rule insert)
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
-Set: H.A.M.M.E.R.  
+*Set: H.A.M.M.E.R.*  
+
 Set: H.A.M.M.E.R.  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
+^(Source: Rule insert)
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
 Set: The Fantastic Battles  
@@ -1436,11 +1443,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLTE0Mj
-Y3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMTI2Mjk2OTI3
-NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYxOTQsMT
-gwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUw
-NDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOT
-Q0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2
-NDA4OTM0MzldfQ==
+eyJoaXN0b3J5IjpbLTg0MzI1MDY2Niw5NDg2MzYxMzgsLTMyOT
+k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
+LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
+Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
+OTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOT
+I5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2
+ODExMDIzOV19
 -->
