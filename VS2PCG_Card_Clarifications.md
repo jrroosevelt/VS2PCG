@@ -15,7 +15,8 @@ For additional information, see also:
 
 
 # [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
-Set: MCU Battles  
+*Set: MCU Battles*
+  
 Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack to include a specific character and the defender must be Abomination. However if either that character can’t attack or Abomination can’t be attacked, the effect does nothing. Also, the player can choose not to attack at all on their turn.
 ^(Source: Rule insert)
 
@@ -1435,11 +1436,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01Nj
-Q5MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0NjQw
-ODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NTM3LC
-0xMzg1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEz
-NTg3OTI1NDAsOTIxNDUzOTI5LDEwMzE3NTM5NDQsMTYxNjgyMT
-Q0Niw4NTQyNjMwMDksMTQ2ODExMDIzOSwtMTY0MDg5MzQzOSwt
-MTQ2NzEwMDkwXX0=
+eyJoaXN0b3J5IjpbOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLTE0Mj
+Y3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMTI2Mjk2OTI3
+NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYxOTQsMT
+gwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUw
+NDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOT
+Q0LDE2MTY4MjE0NDYsODU0MjYzMDA5LDE0NjgxMTAyMzksLTE2
+NDA4OTM0MzldfQ==
 -->
