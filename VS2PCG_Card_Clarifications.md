@@ -1719,11 +1719,14 @@ Supreme Leader has a Super Power which prevents you from losing the game even af
 ^(Source: Rule insert)
 
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
-Set: Crossover vol. 2  
+*Set: Crossover vol. 2*  
+
 Terrigen Mist puts +1/+1 counters on each character on your side, including ones that are already exhausted.
+^(Source: Rule insert)
 
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
-Set: Black Order  
+*Set: Black Order*  
+
 At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 
 **Schemes and Dreams**  prevents you from drawing cards during your Draw Phase, including your normal draws plus effects like Genius. However, if Thanos is face down at the start of your turn, Schemes and Dreams will be turned off. This means you can draw cards during your Draw Phase, however you can't search for a card.
@@ -1731,45 +1734,59 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 **My Quest Begins** counts each card that enters your hand from your deck. So if you draw three cards, that would be 3 XP.
   
 **The Universe Will Now Be Set Right**  has a 50-50 chance of removing each character on each side from the game. If this removes a players last main character, that player ;oses the game. If this removes each player's last main character (including Thanos, himself) then the Thanos player wins the game. (This is similar to how if the final two main characters KO each other in combat, the player whose turn it was wins.)
+^(Source: Rule insert)
 
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
+^(Source: Rule insert)
 
 # \* [Thor](http://vs.tcgbrowser.com/images/cards/big/COS-011.jpg) \*
-Set: Cosmic Avengers  
+*Set: Cosmic Avengers*  
+
 Jane Foster becomes Thor when the original Thor shirks his responsibility. She has \*s around her name, meaning she shares the "mantle" with Thor himself. This means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of uniqueness rules and they can't power each other up. When Thor is ready to start being "the" Thor again, Jane gracefully demurs. 
 
 To represent this, her **There Must Always Be a Thor** power can only search for a card named "Thor" (with no \*s ) or with **AKA Thor** (like Odinson). It can't get a copy of herself. 
 
 Jane's **A God Who Knows How Precious Life Is** is not a super power.
+^(Source: Rule insert)
 
 # [Titan](http://vs.tcgbrowser.com/images/cards/big/BLK-024.jpg)
 Set: Black Order
 See [Might Makes Right](#wiki_might_makes_right)
 
 # [Titania](http://vs.tcgbrowser.com/images/cards/big/aff-037.jpg)
-Set: A-Force  
+*Set: A-Force*  
+
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recovers and doesn’t get wounded. 
 
 However, if she was in the middle of combat when she got stunned (perhaps by Sin’s super power), even though she would recover immediately, getting stunned would still remove her from combat.
+^(Source: Rule insert)
 
 # [Toad](http://vs.tcgbrowser.com/images/cards/big/RES-011.jpg) 
-Set: Resistance  
+*Set: Resistance*  
+
 **Toadally Awesome**  
 Remember, Toad isn’t just Sort of Awesome.
+^(Source: Rule insert)
 
 # [Tracker](http://vs.tcgbrowser.com/images/cards/big/PRD-018.jpg)
-Set: The Predator Battles  
+*Set: The Predator Battles*  
+
 **It Wants Us to Run**   
 Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): (Humanity/"Earth"), (Alien/"Space"), (Energy/"Blue"), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
+^(Source: Rule insert)
 
 # [Trance](http://vs.tcgbrowser.com/images/cards/big/RES-009.jpg) 
-Set: Resistance  
+*Set: Resistance*  
+
 When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**. **Stealth** means she can melee attack back row characters, even while they’re protected. **Fearless** means that she strikes Main Characters with double her ATK.
+^(Source: Rule insert)
 
 # [Uatu](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 **The Watcher** sees everywhere; including but not limited to enemy decks (shuffle them afterwards) hands, face-down resources, cards removed from the game and out of game piles (even if they're secret). 
 
 **The Doer** *does* remove the effects of the **Freeze** keyword.
@@ -1871,11 +1888,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTM2OTkzNCwtMjQxMzcxMTA0LDEzND
-cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
-MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
-YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
-NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
-EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
-MzE3NTM5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMz
+Q3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAy
+MTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMT
+I2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcx
+NzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMT
+MxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwx
+MDMxNzUzOTQ0XX0=
 -->
