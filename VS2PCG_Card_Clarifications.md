@@ -993,18 +993,24 @@ When Mainframe uses **Primary Operating System** it applies only to characters t
 ^(Source: Rule insert)
 
 # [Magneto](http://vs.tcgbrowser.com/images/cards/big/BOM-005.jpg) (MC)
-Set: Brotherhood of Mutants  
+*Set: Brotherhood of Mutants*  
+
 In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
+^(Source: Rule insert)
 
 # [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
 
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
+^(Source: Rule insert)
 
 # Marvel Required (Equipment)
-Set: S.H.I.E.L.D. vs Hydra    
+*Set: S.H.I.E.L.D. vs Hydra*   
+ 
 This set includes four One of a Kind equipment cards – The Nullifier, Book of Vishanti, Darkhold, and Serpent Crown. Each of these has the (Marvel) symbol on its top right instead of a team affiliation. This means in order to play one, you must have a face-up (Marvel) character on your side. (The Marvel symbol is on the bottom of Marvel character cards.)
+^(Source: Rule insert)
 
 # [Mary Walker](http://vs.tcgbrowser.com/images/cards/big/def-061.jpg)
 Set: The Defenders  
@@ -1689,11 +1695,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzI0MDc4NSwxMjYzMjMzMDIyLDk0OD
-YzNjEzOCwtMzI5OTUwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2
-Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLT
-EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
-Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5Mj
-U0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1
-NDI2MzAwOV19
+eyJoaXN0b3J5IjpbLTI0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNj
+MyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3
+OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMj
+A1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5
+ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0xNjUwNDUzOD
+E5LC0xMzU4NzkyNTQwLDkyMTQ1MzkyOSwxMDMxNzUzOTQ0LDE2
+MTY4MjE0NDZdfQ==
 -->
