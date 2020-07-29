@@ -770,33 +770,48 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 * **[Shrink](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_shrink)**  
 * **[Freeze](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_freeze)** 
 
+^(Source: Rule insert)
+
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
-Set: H.A.M.M.E.R.  
+*Set: H.A.M.M.E.R.*  
+
 **Executioner**  
 **Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
+^(Source: Rule insert)
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
-Set: Spidey-Foes  
+*Set: Spidey-Foes*  
+
 As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appears" powers on face-up Green Goblin characters on your side (like **Blast**).
+
+^(Source: Rule insert)
 
 # Hulk
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC)
-Set: The MCU Battles  
+*Set: The MCU Battles*  
+
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
+^(Source: Rule insert)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-024.jpg) (SC - Photo)
-Set: The MCU Battles   
+*Set: The MCU Battles*   
+
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
+^(Source: Rule insert)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/DFX-018.jpg) (SC - Illustrated)
-Set: The New Defenders  
+*Set: The New Defenders*  
+
 Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and even Evil Lethal wounds) won’t KO him. This also includes, but is not limited to, things like Gamora’s Godslayer Blade and MCU Drax’s Finger on Throat Means Death.
+^(Source: Rule insert)
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
-Set: Spidey-Foes  
+*Set: Spidey-Foes*  
+
 **Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't play a Plot Twist that gives him +3 ATK and convert it into +2 ATK and +1 DEF.
 
 Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tactics**.
+^(Source: Rule insert)
 
 # [Hyperion](http://vs.tcgbrowser.com/images/cards/big/COS-014.jpg)
 Set: Cosmic Avengers  
@@ -1622,11 +1637,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOT
-k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
-LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
-Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
-OTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOT
-I5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2
-ODExMDIzOV19
+eyJoaXN0b3J5IjpbMTMwNjc2NDgxNywxMjYzMjMzMDIyLDk0OD
+YzNjEzOCwtMzI5OTUwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2
+Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLT
+EyODE5NDQwMTksNDg3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0
+Mjc0ODcsLTMyNTA5MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5Mj
+U0MCw5MjE0NTM5MjksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1
+NDI2MzAwOV19
 -->
