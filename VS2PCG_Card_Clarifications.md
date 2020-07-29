@@ -1878,7 +1878,8 @@ Here are the four Plot Twists he has at his disposal:
 ^(Source: Rule insert)
 
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
-Set: The Fantastic Battles  
+*Set: The Fantastic Battles*  
+
 **Self-Awareness**  
 Wyatt knows he is in a  **Card Game**, and he wants to play too! So when he appears, and until he leaves play, he gets his own hand and resource row.  **Note:** His hand counts as being part of your hand, and his resource row counts as being part of your resource row.
 
@@ -1897,20 +1898,25 @@ Here’s how it works:
 * When Wyatt leaves play, remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part of your hand stay in play.)
 
 **Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
+^(Source: Rule insert)
 
 # [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
-Set: New Mutants  
+*Set: New Mutants*  
+
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
+^(Source: Rule insert)
 
 # [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
+^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDgxMzA2OSwtMTk4NjMzMjQzOCwtMj
-QxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYx
-MzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNj
-Y3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgx
-OTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3ND
-g3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAs
-OTIxNDUzOTI5XX0=
+eyJoaXN0b3J5IjpbLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLT
+I0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2
+MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLD
+Y2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4
+MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNz
+Q4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQw
+LDkyMTQ1MzkyOV19
 -->
