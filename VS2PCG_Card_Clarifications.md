@@ -1430,7 +1430,8 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 
 # Scarlet Spider
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-003.jpg) (MC)
-Set: Spider-Friends  
+*Set: Spider-Friends*  
+
 Before he was the Scarlet Spider, the man who would become Ben Reilly was created from Peter Parker’s DNA to be a perfect clone. So in the game he actually starts off as a different “Spider” hero until his true self is revealed (once he reaches Level 2). Here’s how it works: 
 
 Your Spider Web is a new out-of-play pile that includes up to one copy of every other Level 1 main character with “Spider” in its name. (Currently this includes Spider-Man from The Marvel Battles expansion, \* Spider-Man \* from Monsters Unleashed, and Spider-Man and Spider-Woman from this Issue.) 
@@ -1442,21 +1443,29 @@ Before the game begins, when each player reveals their main character, you’ll 
 When that character would become Level 2, you’ll instead transform it into Level 2 Scarlet Spider. (It will keep its counters, any effects on it, and its ready/exhausted and face-up/facedown orientation.) Then put the Level 1 main character he started the game as and the Level 1 Scarlet Spider main character into your Clone Pile. 
 
 Once he’s Level 2, if he would be wounded, there’s a chance it was just a clone body instead: reveal a random card from your Clone Pile. If you reveal Scarlet Spider, he’ll get wounded as normal – they found you! But if you reveal someone else, he doesn’t get wounded (although whoever was revealed goes back into your Spider Web.)
+^(Source: Rule insert)
 
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-014.jpg) (SC)
-Set: Spider-Friends  
+*Set: Spider-Friends*  
+
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
+^(Source: Rule insert)
 
 # [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
-Set: The Defenders  
+*Set: The Defenders*  
+
 Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up. They can still gain XP up to their Level Up number, but not beyond. And once Scarlet Witch gets stunned or leaves play, if they have enough XP, they’ll immediately Level Up.
+^(Source: Rule insert)
 
 # [Scourge](http://vs.tcgbrowser.com/images/cards/big/HAM-014.jpg)
-Set: H.A.M.M.E.R.  
+*Set: H.A.M.M.E.R.*  
+
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
+^(Source: Rule insert)
 
 # [Secret Hideout](http://vs.tcgbrowser.com/images/cards/big/SFO-016.jpg)
-Set: Spidey-Foes  
+*Set: Spidey-Foes*  
+
 **Family is a Source of Weakness** lets your (Sinister Syndicate) Main Character take a **Hostage**. If you have any Secret Hideouts in your deck, you must bring a Hostage pile, which includes one ore more *different* (Spider-Friends) Supporting Characters with the **Friends and Family** keyword.
 
 When you play Secret Hideout, one of your Main Characters takes a **Hostage**. Choose a character from your Hostage pile and put it beneath the Secret Hideout as a **Hostage**. Your Main Character gets the Keyword Power granted by that Hostage *while that Main Character is in your front row*.
@@ -1468,18 +1477,23 @@ When that Main character gets stunned or leaves play, turn the Secret Hideout fa
 It's possible for the same Main Character to have multiple Hostages (one for each Secret Hideout you play while you have that Main Character). 
 
 Note: A **Hostage** is never actually in play. It's either in a Hostage pile, beneath a Secret Hideout, or set aside (after leaving a Secret Hideout).
+^(Source: Rule insert)
 
 # [Sentry](http://vs.tcgbrowser.com/images/cards/big/TUB-053.jpg)
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 **Reluctant God** prevents Sentry from striking, but he can still attack.
+^(Source: Rule insert)
 
 # [Serpent Crown](http://vs.tcgbrowser.com/images/cards/big/SVH-056.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 # [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
-Set: Brotherhood of Mutants  
+*Set: Brotherhood of Mutants*  
+
 **Anchor Host**  
-Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game
+Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game.
+^(Source: Rule insert)
 
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
 Set: A-Force  
@@ -1799,11 +1813,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3ODEwNDA0LC0yNDEzNzExMDQsMTM0Nz
-I0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEy
-LC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNj
-I5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2
-MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMS
-wtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5MjksMTAz
-MTc1Mzk0NF19
+eyJoaXN0b3J5IjpbLTcyOTk4ODQ5MywtMjQxMzcxMTA0LDEzND
+cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
+MiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMj
+YyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3
+NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMz
+EsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOTI5LDEw
+MzE3NTM5NDRdfQ==
 -->
