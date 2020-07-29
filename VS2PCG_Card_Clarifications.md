@@ -710,11 +710,14 @@ If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players
 ^(Source: Rule insert)
 
 # [Gilgamesh](http://vs.tcgbrowser.com/images/cards/small/COS-015.jpg)
-Set: Cosmic Avengers  
+*Set: Cosmic Avengers*  
+
 For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you from speaking, he will lose Eternal at the end of the turn.
+^(Source: Rule insert)
 
 # [Global Information Network](http://vs.tcgbrowser.com/images/cards/big/COS-020.jpg)
-Set: Cosmic Avengers  
+*Set: Cosmic Avengers*  
+
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like \* Thor \* and Hyperion (who have keyword powers which requires spending an (Intellect/"Yellow) and (Energy/"Blue")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations:
 
 * They are not super powers.  
@@ -723,28 +726,39 @@ In this Arc, we are playing around with how players can use locations besides su
 * These cards are neutral, so just like any other neutral cards, they can be in Loyalty decks.  
 * The Special Locations don't count as location swith a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
 
+^(Source: Rule insert)
+
 # [Glory](http://vs.tcgbrowser.com/images/cards/big/TBB-049.jpg) 
-Set: The Buffy Battles  
-**Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory
+*Set: The Buffy Battles*  
+
+**Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory.
+^(Source: Rule insert)
 
 # [Goblin Queen](http://vs.tcgbrowser.com/images/cards/big/aff-042.jpg)
-Set: A-Force  
+*Set: A-Force*  
+
 **Token Characters**  
 Goblin Queen has the power to make token characters. A token character works just like a regular character except that if it ever gets put into a KO pile or otherwise leaves play, remove it from the game.
+^(Source: Rule insert)
 
 # \* [Gorgon](http://vs.tcgbrowser.com/images/cards/small/SVH-013.jpg) \*
-Set: S.H.I.E.L.D. vs. Hydra  
+*Set: S.H.I.E.L.D. vs. Hydra*  
+
 **The Spear in the East**  
 Gorgon’s power removes the stat benefit from +1/+1 counters on enemy characters. They still count as having the counters though. For example, if an enemy character with two +1/+1 counters gains a -1/-1 counter, you’ll still remove one of each counter type.
+^(Source: Rule insert)
 
 # [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC)
-Set: Crossover  
+*Set: Crossover*  
+
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
 
 Goblin’s **Bag of Tricks** allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
+^(Source: Rule insert)
 
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
-Set: Cosmic Avengers  
+*Set: Cosmic Avengers*  
+
 Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
@@ -1608,11 +1622,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3Mzg1ODI0LDk0ODYzNjEzOCwtMzI5OT
-UwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUs
-LTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksND
-g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
-MzEzMSwtMTY1MDQ1MzgxOSwtMTM1ODc5MjU0MCw5MjE0NTM5Mj
-ksMTAzMTc1Mzk0NCwxNjE2ODIxNDQ2LDg1NDI2MzAwOSwxNDY4
-MTEwMjM5XX0=
+eyJoaXN0b3J5IjpbMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOT
+k1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1
+LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LD
+Q4NzE3NjE5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUw
+OTMxMzEsLTE2NTA0NTM4MTksLTEzNTg3OTI1NDAsOTIxNDUzOT
+I5LDEwMzE3NTM5NDQsMTYxNjgyMTQ0Niw4NTQyNjMwMDksMTQ2
+ODExMDIzOV19
 -->
