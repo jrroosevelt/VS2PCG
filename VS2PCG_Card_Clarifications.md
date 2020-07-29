@@ -323,32 +323,43 @@ Hydra has four different Cosmic Cubes under their control. However, each one has
 *Set: Galactic Guardians*  
 
 With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
+^(Source: Rule insert)
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 You will draw two cards with **They’ll Follow Him** if you have one Supporting Character that is both (Brotherhood) and (X-Men). Similarly, a multi-affiliation character can satisfy more than one of the requirements of **The Squad I’ve Put Together** and **Trust the Plan**. 
 
 Note: **Trust the Plan** will only put three +1/+1 counters on a character even if you’re using it to satisfy two or more of the requirements. And even if you have several characters of all three required affiliations, Trust the Plan can only ever put three counters on three characters maximum.
+^(Source: Rule insert)
 
 # [Dagger](http://vs.tcgbrowser.com/images/cards/big/TUB-041.jpg)
-Set: The Utopia Battles  
+*Set: The Utopia Battles*  
+
 **Shifting Loyalties**
 See [Shifting Loyalties](#wiki_shifting_loyalties)
+^(Source: Rule insert)
 
 # [Daken](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
-Set: Brotherhood of Mutants  
+*Set: Brotherhood of Mutants*  
+
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
+^(Source: Rule insert)
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
-Set: The Defenders  
+*Set: The Defenders*  
+
 **Radar Sense**  
 Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+^(Source: Rule insert)
 
 # [Darkhold](http://vs.tcgbrowser.com/images/cards/big/SVH-055.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
+^(Source: Rule insert)
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
-Set: Crossover  
+*Set: Crossover*  
+
 **Deconstruct the Universe**  
 When Deconstructs the Universe, an entire concept of the game gets removed for the rest of the game (even if she leaves play). If, as a result of this, the wording of a card’s power is unclear, the part that is unclear does nothing. Here’s how removing each concept works: 
 
@@ -365,12 +376,17 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 
 * **Super Powers:** Remove all Super Powers from the game. Remove the term “Super Power” from all card text. For the rest of the game, ignore any effects that would cause Super Powers to enter the game in any way.  
 
+^(Source: Rule insert)
+
 # [Dawn](http://vs.tcgbrowser.com/images/cards/big/TBB-011.jpg)
-Set: The Buffy Battles  
+*Set: The Buffy Battles*  
+
 Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
+^(Source: Rule insert)
 
 # [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC)
-Set: Deadpool & Friends
+*Set: Deadpool & Friends*
+
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
 > 
 > It’s because a main character can only level up into a main character from the same set or into one that has the same artwork. And guess what? I don’t mean to brag but I’m actually a designer now. You know all the cards in this set that you love? That’s right -- I designed them. (All the cards that you hate were designed by those other two dummies.) Designing stuff is sweet. You can pretty much do whatever you want.  
@@ -392,6 +408,8 @@ Here are some quick tips:
 * When you Ban a character, you can name any number you want. Even a million bazillion. Try it, it’s fun!
 
 * If someone tries to tell you that this isn’t really how nerfing, errata-ing, and banning works, you just take your katana and do some "development” on them, if you know what I mean.
+
+^(Source: Rule insert)
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 Set: Black Order  
@@ -1523,7 +1541,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 Set: The Buffy Battles  
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzU1MDExLDk0ODYzNjEzOCwtMzI5OT
+eyJoaXN0b3J5IjpbODc5MzE4NjMyLDk0ODYzNjEzOCwtMzI5OT
 UwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUs
 LTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksND
 g3MTc2MTk0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5
