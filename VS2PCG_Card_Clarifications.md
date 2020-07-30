@@ -890,6 +890,11 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 
 ^(Source: Rule insert)
 
+# Enchantress (MC)
+*Set: A-Force*
+
+Q: 
+
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 *Set: Deadpool & Friends* 
   
@@ -2414,11 +2419,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNj
-M3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1
-MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNj
-k4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAs
-LTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMj
-EzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5
-NjE5MiwtMTk4NjMzMjQzOF19
+eyJoaXN0b3J5IjpbLTE1NDE3Mjg4MCwtMTY1ODkzMTI5NCwyMD
+E0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1
+Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MD
+A1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2
+LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxND
+Q0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIw
+NDgwLC0xOTgyODk2MTkyXX0=
 -->
