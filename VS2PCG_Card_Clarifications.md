@@ -30,7 +30,7 @@ At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam War
 *Q:   If I don’t use his Emerge power, will he recover normally during my next Recovery Phase?*
 
 A: Yes. But he’s huge! Spend that MIGHT and start bashing with him right away, man!
->(Source: UDE FAQ - UDE Approved 6/10/2016)
+^(Source: UDE FAQ - UDE Approved 6/10/2016)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 *Set: The Fantastic Battles*  
@@ -150,7 +150,7 @@ Baron Mordo can revert a main character back to level 1 until your next turn. Wh
 *Q: If I **Hypnotize** a Ripley #8 L2 that started the game as Sister Ripley, which Level 1 Character does she become? Sister Ripley or Ripley#8 level 1?*
 
 A: Ripley #8 Level 1. A character will always become the level one version of what it is.
-^(Source
+^(Source: FB Post - Chad Daniel)
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
 *Set: The New Defenders*  
@@ -1924,11 +1924,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQwODUxMCwtNjkzNjIwNDgwLC0xOT
-gyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0
-MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEyLC
-0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNjI5
-NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2MT
-k0LDE4MDQ5OTg1MzcsLTEzODU0Mjc0ODcsLTMyNTA5MzEzMSwt
-MTY1MDQ1MzgxOV19
+eyJoaXN0b3J5IjpbMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5OD
+I4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3MjQw
+Nzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLT
+E0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMTI2Mjk2
+OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYxOT
+QsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0x
+NjUwNDUzODE5XX0=
 -->
