@@ -1027,7 +1027,10 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 Q: Does Cosmo shut off **Creature**?
 
 A: No, the power specifically says it can not be turned off.
-Editor's note: One exception to this is [Dark Phoenix (SC)](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off creature.
+
+Chad Daniel - FB Post
+
+Editor's note: One exception to this is [Dark Phoenix (SC)](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off **Creature**.
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
 *Set: Monsters Unleashed!*  
@@ -2478,11 +2481,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMj
-g4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5
-OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyOD
-AwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcs
-LTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMD
-kwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMz
-NTE5NjUsMTE5MjI3NTExXX0=
+eyJoaXN0b3J5IjpbLTE3MDc3MzQ3NzcsLTE3MjExOTQwNTUsMT
+cwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4
+NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2Nz
+gwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUs
+LTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNj
+k5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3
+MTg0NjIsLTIxMzMzNTE5NjVdfQ==
 -->
