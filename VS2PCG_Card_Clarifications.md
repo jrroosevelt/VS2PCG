@@ -281,7 +281,10 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character. If she does and it’s the last enemy Main Character in play, you win immediately! But if something goes wrong or there are other enemy Main Characters left, Buffy will get KO’d at the end of the turn.
 ^(Source: Rule insert)
 
-# Build
+# [Build a Better World](http://vs.tcgbrowser.com/images/cards/big/aff-025.jpg)
+*Set: A-Force*
+
+Q:
 
 # [Bullseye](http://vs.tcgbrowser.com/images/cards/big/def-027.jpg) (MC)
 *Set: H.A.M.M.E.R.*  
@@ -1949,11 +1952,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNjIzNTUxLC0xMDI2MTE1NzgyLDE0ND
-Q3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0
-ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNC
-wxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5
-NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NS
-wtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0
-ODcxNzYxOTRdfQ==
+eyJoaXN0b3J5IjpbLTIzNTQ4Mjk3MCwtMTAyNjExNTc4MiwxND
+Q0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIw
+NDgwLC0xOTgyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMD
+QsMTM0NzI0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5
+OTUwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NT
+UsLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTks
+NDg3MTc2MTk0XX0=
 -->
