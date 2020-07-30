@@ -1143,6 +1143,8 @@ Q: If I have L2 Ghost Rider out and use his **Hell on Wheels** super power and a
 
 A: No, defense is never chipped away in this game.
 
+^(Source: FB Post - UDE Approved)
+
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
 *Set: Webheads*  
 
@@ -2514,7 +2516,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU2NzQ4OTIsLTE3MjExOTQwNTUsMT
+eyJoaXN0b3J5IjpbLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMT
 cwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4
 NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2Nz
 gwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUs
