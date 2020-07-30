@@ -101,8 +101,8 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 ---
-If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw or Legacy), you do not have to pay the additional cost of wounding Silver Surfer.
-^(Source: [FB Community Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814))
+If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw or Legacy), you do not have to pay the additional cost of wounding Silver Surfer.  
+^Source: [^FB ^Community ^Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
 
 
 # [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
@@ -1924,11 +1924,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OT
-M2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3
-MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC
-0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1
-NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0ND
-AxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4Nywt
-MzI1MDkzMTMxXX0=
+eyJoaXN0b3J5IjpbMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMT
+kyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMz
+MjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIzMzAyMi
+w5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5
+MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0NjQwOD
+E4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NTM3LC0x
+Mzg1NDI3NDg3XX0=
 -->
