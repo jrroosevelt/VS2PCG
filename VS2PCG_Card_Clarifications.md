@@ -1027,6 +1027,7 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 Q: Does Cosmo shut off **Creature**?
 
 A: No, the power specifically says it can not be turned off.
+Editor's note"
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
 *Set: Monsters Unleashed!*  
@@ -2477,11 +2478,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNj
-U4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUy
-NzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNj
-QyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAs
-LTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMD
-I2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3
-NTExLC02OTM2MjA0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTQyMDU1NjYsMTcwNTEyMTExNywxMj
+g4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5
+OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyOD
+AwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcs
+LTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMD
+kwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMz
+NTE5NjUsMTE5MjI3NTExXX0=
 -->
