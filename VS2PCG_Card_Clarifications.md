@@ -637,7 +637,7 @@ Q: If I have both Silver Sable and Deadpool, can they both enter a team attack w
 
 A: No, For a team attack to be legal, all characters have to be on the same team or legal to attack with each other. Deadpool & Silver Sable are not on the same team and can only team attack with Main Characters, not each other.
 
-^(Sourc
+^(Source: FB Post)
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 *Set: Black Order*  
@@ -730,6 +730,7 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 ^(Source: Rule insert)
+
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
@@ -2319,7 +2320,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYyNjkxNzgsLTE1Nzk1Njc4MDYsLT
+eyJoaXN0b3J5IjpbLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLT
 MyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5
 NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1Mj
 Y3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYy
