@@ -761,6 +761,16 @@ Q: How does Dramatic Entrance work if I bring a Loki 7 drop SC into play with it
 
 A: If you bring in Loki SC with Dramatic Entrance, Schemer will not trigger. At the time you PLAYED the plot twist, Loki was not in play. Once he is in play, he does not look back in time and see that you played a plot twist. Also if you play another plot twist, Schemer will still not trigger because it is not your first plot twist played this turn.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: If you dramatic entrance a Wasp or Ant-man can you just Shrink the combat?
+
+A: The triggering event for Shrink is "When [this character] gets attacked for the first time each turn..." and by the time you play Dramatic Entrance, you are past the point which Shrink would trigger.
+
+^(Source: FB Post - UDE Approved)
+
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
 
@@ -2376,11 +2386,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI1OTgwNTAsLTYzNzA5OTQ3NCwtMj
-EwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5
-MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1ND
-EwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkw
-LC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMT
-E5MjI3NTExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYz
-MzI0MzgsLTI0MTM3MTEwNF19
+eyJoaXN0b3J5IjpbMTYwNjM0Nzc5NywtNjM3MDk5NDc0LC0yMT
+AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
+MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
+A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
+LTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMT
+kyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMz
+MjQzOCwtMjQxMzcxMTA0XX0=
 -->
