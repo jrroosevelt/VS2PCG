@@ -898,8 +898,12 @@ Q: If I have multiple characters bigger than all my opponents' characters can En
 A: It would have to have the wording "for each" somewhere in there. Since the condition is if "A" supporting character of yours is stronger than all of theirs, you get 1 XP.
 
 ^(Source - FB Post - Martin Schank - UDE Approved)
-Can Enchantress level up if your opponent has no face up enemy supporting characters and you have one?
 
+Q: Can Enchantress level up if with **Champion of Amora** if my opponent has no face up supporting characters and I have one?
+
+A: Yes.
+
+^(Source - FB Post - Chad Daniel - UDE Approved)
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 *Set: Deadpool & Friends* 
@@ -2425,11 +2429,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk3NDk1NTksLTE2NTg5MzEyOTQsMj
-AxNDg1NjY1NSwtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5
-NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5OD
-AwNSwtMTk4OTQwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4
-Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMT
-Q0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYy
-MDQ4MCwtMTk4Mjg5NjE5Ml19
+eyJoaXN0b3J5IjpbMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMD
+E0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1
+Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MD
+A1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2
+LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxND
+Q0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIw
+NDgwLC0xOTgyODk2MTkyXX0=
 -->
