@@ -178,7 +178,13 @@ Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power,
 ^(Source: Rule insert)
 
 # Black Cat
-## Black Cat (MC)
+## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
+*Set: A-Force*
+
+Q: If Satana is in play and Black Cat attacks a defender and uses **Cross their Path** to Daze that character, is it KO'd by Lethal?
+
+A: Daze counts as stunning, but Lethal was changed to work when a wounding a defending supporting character. Since Daze does not wound, lethal is not applied.
+^(Source: FB Post - Chad Daniel)
 
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
 *Set: Spider-Friends*  
@@ -1933,11 +1939,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIyNDEwMTQsMTQ0NDcxODQ2MiwtMj
-EzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5
-NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3OD
-UsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQy
-Njc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mj
-c2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwx
-ODA0OTk4NTM3XX0=
+eyJoaXN0b3J5IjpbMTM2MzY0MjIxMiwxNDQ0NzE4NDYyLC0yMT
+MzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2
+MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0MDc4NS
+wxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEyLC0xNDI2
+Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNz
+YsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2MTk0LDE4
+MDQ5OTg1MzddfQ==
 -->
