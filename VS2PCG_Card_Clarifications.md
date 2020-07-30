@@ -143,13 +143,13 @@ If there are no other face-up characters in play, Awesome Android's ATK/DEF beco
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
 *Set: Legacy*  
 
-Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
+Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.  
 ^(Source: Rule insert)
 
 ---
-*Q: If I **Hypnotize** a Ripley #8 L2 that started the game as Sister Ripley, which Level 1 Character does she become? Sister Ripley or Ripley#8 level 1?*
+*Q: If I* **Hypnotize** *a Ripley #8 L2 that started the game as Sister Ripley, which Level 1 Character does she become? Sister Ripley or Ripley#8 level 1?*
 
-A: Ripley #8 Level 1. A character will always become the level one version of what it is.
+A: Ripley #8 Level 1. A character will always become the level one version of what it is.  
 ^(Source: FB Post - Chad Daniel)
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
@@ -1924,11 +1924,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5OD
-I4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3MjQw
-Nzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLT
-E0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMTI2Mjk2
-OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0ODcxNzYxOT
-QsMTgwNDk5ODUzNywtMTM4NTQyNzQ4NywtMzI1MDkzMTMxLC0x
-NjUwNDUzODE5XX0=
+eyJoaXN0b3J5IjpbLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OT
+M2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3
+MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC
+0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1
+NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0ND
+AxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNzQ4Nywt
+MzI1MDkzMTMxXX0=
 -->
