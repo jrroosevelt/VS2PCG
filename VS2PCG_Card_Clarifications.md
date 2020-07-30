@@ -284,7 +284,11 @@ Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character.
 # [Build a Better World](http://vs.tcgbrowser.com/images/cards/big/aff-025.jpg)
 *Set: A-Force*
 
-Q:
+Q: If I need to play two of the same color locations for an ability, can I play a plot twist in between to turn a location face up? Or do I need to use two different locations to pay the cost?
+
+A: When you pay a cost, you have to pay the entire cost, and you can not play any other powers or plot twists while you are in the middle of playing a power.
+
+
 
 # [Bullseye](http://vs.tcgbrowser.com/images/cards/big/def-027.jpg) (MC)
 *Set: H.A.M.M.E.R.*  
@@ -1952,11 +1956,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTQ4Mjk3MCwtMTAyNjExNTc4MiwxND
-Q0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIw
-NDgwLC0xOTgyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMD
-QsMTM0NzI0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5
-OTUwMjEyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NT
-UsLTEyNjI5NjkyNzYsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTks
-NDg3MTc2MTk0XX0=
+eyJoaXN0b3J5IjpbLTE1MTcxMDA2ODYsLTEwMjYxMTU3ODIsMT
+Q0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYy
+MDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMT
+A0LDEzNDcyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMy
+OTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0Nj
+U1LC0xMjYyOTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5
+LDQ4NzE3NjE5NF19
 -->
