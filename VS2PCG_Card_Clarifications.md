@@ -940,6 +940,8 @@ A: No, Even the odds does not remove -1/-1 counters, as it says, it only removes
 
 ---
 
+Q: Hello, a question about the Perfect Organism and Even The Odds. If I use the ability to strike with double of the attack, (**This Thing is Huge! It's...It's Big!** / **Fearless**) and my opponent play even the odds, what happen?
+
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 *Set: Deadpool & Friends* 
   
@@ -2464,11 +2466,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzY3MzY4MCwxMjg4NzAwOTA5LC0xNj
-U4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUy
-NzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNj
-QyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAs
-LTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMD
-I2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3
-NTExLC02OTM2MjA0ODBdfQ==
+eyJoaXN0b3J5IjpbOTEwNDE3MjQ1LDEyODg3MDA5MDksLTE2NT
+g5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0yMTAxNTI3
+MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2ND
+IsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MTA4MCwt
+MTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMj
+YxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1
+MTEsLTY5MzYyMDQ4MF19
 -->
