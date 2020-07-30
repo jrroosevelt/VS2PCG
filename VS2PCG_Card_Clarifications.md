@@ -905,6 +905,9 @@ A: Yes.
 
 ^(Source - FB Post - Chad Daniel - UDE Approved)
 
+# Even the Odds
+*Set: The Marvel Bat
+
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 *Set: Deadpool & Friends* 
   
@@ -2429,11 +2432,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMD
-E0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1
-Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MD
-A1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2
-LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxND
-Q0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIw
-NDgwLC0xOTgyODk2MTkyXX0=
+eyJoaXN0b3J5IjpbMTYyMjI0NjY0OCwxMjg4NzAwOTA5LC0xNj
+U4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUy
+NzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNj
+QyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAs
+LTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMD
+I2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3
+NTExLC02OTM2MjA0ODBdfQ==
 -->
