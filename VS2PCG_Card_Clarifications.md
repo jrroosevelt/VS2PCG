@@ -1,9 +1,9 @@
 
 
   
-# Rule insert card and key ability clarifications
+# Card clarifications and FAQs
 
-The following clarifications are included in the rule inserts that come with the various sets. 
+The following card-specific information is a culmination of clarifications, rule changes, and FAQs from various sources. After each item (or series of items 
 
 **Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rulesheet and do not fundamentally change the intent of the original text.
 
@@ -2357,11 +2357,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk1NjE2NTcsLTYzNzA5OTQ3NCwtMj
-EwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5
-MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1ND
-EwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkw
-LC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMT
-E5MjI3NTExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYz
-MzI0MzgsLTI0MTM3MTEwNF19
+eyJoaXN0b3J5IjpbMTA3MDkzNzUyNywtNjM3MDk5NDc0LC0yMT
+AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
+MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
+A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
+LTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMT
+kyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMz
+MjQzOCwtMjQxMzcxMTA0XX0=
 -->
