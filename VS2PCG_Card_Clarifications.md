@@ -1112,6 +1112,15 @@ A: No. There must be a face-up enemy supporting character in play.
 
 ^(Source: UDE FAQ)
 
+# Gamora (MC)
+*Set: The Marvel Battles*
+
+Q: Does her **Deadliest Woman in the Universe** power work if a Main Character attacked her (and she stunned it)?
+
+A: Yes.
+
+^(Source: UDE FAQ)
+
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 *Set: The Buffy Battles*  
 
@@ -2490,11 +2499,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODExODYyMiwtMTcyMTE5NDA1NSwxNz
-A1MTIxMTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1
-NjY1NSwtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3OD
-A2LC0zMjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwt
-MTk4OTQwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OT
-kxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcx
-ODQ2MiwtMjEzMzM1MTk2NV19
+eyJoaXN0b3J5IjpbLTEwODM0NTI3NzYsLTE3MjExOTQwNTUsMT
+cwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4
+NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2Nz
+gwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUs
+LTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNj
+k5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3
+MTg0NjIsLTIxMzMzNTE5NjVdfQ==
 -->
