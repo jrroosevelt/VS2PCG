@@ -753,6 +753,8 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 ^(Source: Rule insert)
 
+# 
+
 # [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
 *Set: The Predator Battles*  
 
@@ -2330,11 +2332,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNTEyNTI3LC0yMTAxNTI3MDg2LC0xNT
-c5NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5
-ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2ND
-Y4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIs
-MTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5Mz
-YyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcx
-MTA0LDEzNDcyNDA3ODVdfQ==
+eyJoaXN0b3J5IjpbLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMT
+U3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5
+OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5Nj
+Q2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1Nzgy
+LDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OT
+M2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3
+MTEwNCwxMzQ3MjQwNzg1XX0=
 -->
