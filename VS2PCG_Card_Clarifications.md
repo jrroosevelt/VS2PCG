@@ -781,7 +781,11 @@ A: You can, you just apply the uniqueness rule and KO the older one.
 
 ---
 
-Q: If I use Dramatic Entrance to put Adam Warlock into play as the new Defender, what happens since he comes into play stunned due to his ?
+Q: If I use Dramatic Entrance to put Adam Warlock into play as the new Defender, what happens since he comes into play stunned due to his **Evolutionary Cocoon**?
+
+A: The original defender is still removed from combat, but since Adam enters play stunned, he can not become the defender, so he will enter play and he will be unable to become the defender. Since there is no defender, the combat will end, at which point, the delayed trigger will trigger and KO Adam Warlock.
+
+^(Source: FB Post - Chad Daniel)
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
@@ -2398,7 +2402,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ5NzkzMSwtNjM3MDk5NDc0LC0yMT
+eyJoaXN0b3J5IjpbMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0yMT
 AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
 MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
 A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
