@@ -630,7 +630,14 @@ A: No, the other characters don’t know what a player is.
 
 ---
 
+## Deadpool (SC)
+*Set: The Marvel Battles*
 
+Q: If I have both Silver Sable and Deadpool, can they both enter a team attack with my Main Character?
+
+A: No, For a team attack to be legal, all characters have to be on the same team or legal to attack with each other. Deadpool & Silver Sable are not on the same team and can only team attack with Main Characters, not each other.
+
+^(Sourc
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 *Set: Black Order*  
@@ -2312,11 +2319,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NjUyMjQyLC0xNTc5NTY3ODA2LC0zMj
-U1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQw
-Njk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2Nz
-AsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcxODQ2Miwt
-MjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mj
-g5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3
-ODUsMTI2MzIzMzAyMl19
+eyJoaXN0b3J5IjpbLTE3MzYyNjkxNzgsLTE1Nzk1Njc4MDYsLT
+MyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5
+NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1Mj
+Y3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYy
+LC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOT
+gyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0
+MDc4NSwxMjYzMjMzMDIyXX0=
 -->
