@@ -854,6 +854,8 @@ Elektra (main character) has a super power that allows you to hide her in your h
 
 ^(Source: Rule insert)
 
+Q: Can choose Elektra to be discarded with Helmut Zemo's Sow Distrust?
+
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
 *Set: The Utopia Battles*  
@@ -2402,11 +2404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0yMT
-AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
-MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
-A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
-LTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMT
-kyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMz
-MjQzOCwtMjQxMzcxMTA0XX0=
+eyJoaXN0b3J5IjpbMTA1ODAxMjE3MiwyMDE0ODU2NjU1LC02Mz
+cwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUx
+MjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OT
+g3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwt
+MTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMT
+MzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2
+MTkyLC0xOTg2MzMyNDM4XX0=
 -->
