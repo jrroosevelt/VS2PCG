@@ -452,7 +452,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 Q: If I remove Copycat to Singularity's **Pocket Dimension** with two other characters, when all 3 return does Copycat get all the powers of the other two supporting characters she returned with?
 
-A: If a modifiers duration would expire before it is created, then it is never created. Basically if two supporting characters appeared at the same time, they would both cause her to trigger, but also both cause the other to expire since they appeared simultaneously.
+A: If a modifier's duration would expire before it is created, then it is never created. Basically if two supporting characters appeared at the same time, they would both cause her to trigger, but also both cause the other to expire since they appeared simultaneously.
 
 ^(Source: FB Post - Chad Daniel)
 
@@ -460,7 +460,11 @@ A: If a modifiers duration would expire before it is created, then it is never c
 
 Q: If I remove Copy Cat and Sabretooth to Singularity's **Pocket Dimension**, will she gain Sabretooth’s powers when they appear?
 
-A: 
+A: Yes
+
+^(Source: FB Post - Chad Daniel)
+
+---
 
 # Cosmic Cubes
 *Set: S.H.I.E.L.D. vs. Hydra*  
@@ -2250,11 +2254,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
-IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
-NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MT
-k2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5Miwt
-MTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3ODUsMTI2Mz
-IzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5
-LC01NjQ5MDg3NjNdfQ==
+eyJoaXN0b3J5IjpbODU4MjM2ODQyLDE1NjA5OTgwMDUsLTE5OD
+k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
+NjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0Nj
+IsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5
+ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3Mj
+QwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAyMTIs
+LTE0MjY3OTU3OV19
 -->
