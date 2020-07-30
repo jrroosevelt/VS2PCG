@@ -593,7 +593,11 @@ Q: If I use **Merc With a Mouth** to make my Gambit or Dazzler Lethal, will they
 
 A: No, for Lethal to work a character with Lethal needs to wound a Defending supporting character during Combat. Dazzler and Gambit use their Super Powers during the Main Phase.
 
-^(
+^(Source: FB Post Kirk)
+
+---
+
+
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 *Set: Black Order*  
@@ -2275,11 +2279,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMT
-g2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAy
-NTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MD
-g5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1
-LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2MTkyLC0xOT
-g2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0MDc4NSwxMjYzMjMz
-MDIyLDk0ODYzNjEzOF19
+eyJoaXN0b3J5IjpbLTE2NzUxMjcyNTQsLTE1Nzk1Njc4MDYsLT
+MyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5
+NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1Mj
+Y3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYy
+LC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOT
+gyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0
+MDc4NSwxMjYzMjMzMDIyXX0=
 -->
