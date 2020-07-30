@@ -1022,7 +1022,11 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 ^(Source: Rule insert)
 
 # Ferocious Xenomorph
-*Set: The Al
+*Set: The Alien Battles*
+
+Q: Does Cosmo shut off **Creature**?
+
+A: No, the power specifically says it can not be turned off.
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
 *Set: Monsters Unleashed!*  
@@ -2473,7 +2477,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTk2MzAzOCwxMjg4NzAwOTA5LC0xNj
+eyJoaXN0b3J5IjpbMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNj
 U4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUy
 NzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNj
 QyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAs
