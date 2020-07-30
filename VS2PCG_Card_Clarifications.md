@@ -734,7 +734,13 @@ Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main 
 ^(Source: Rule insert)
 
 ## Dormammu
-*Set: The
+*Set: The Marvel Battles*
+
+Q: When I use Necromancy can I put the character into my Front or Back Row? Can it attack that turn?
+
+A: Either is fine. Yes, it can attack that turn.
+
+^(Source: UDE FAQ)
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
@@ -2324,7 +2330,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNTQyNTU1LC0yMTAxNTI3MDg2LC0xNT
+eyJoaXN0b3J5IjpbNzIwNTEyNTI3LC0yMTAxNTI3MDg2LC0xNT
 c5NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5
 ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2ND
 Y4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIs
