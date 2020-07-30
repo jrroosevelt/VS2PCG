@@ -765,7 +765,11 @@ A: Yes, **Mass Transmutation** states "For each one, remove it's +1/+1 counters 
 ---
 
 **Mass Transmutation**
-Q: If my opponent has Dagger in play would Doctor strange be able to turn anopponents counters to negative counters?
+Q: If my opponent has Dagger in play would Doctor strange be able to turn an opponent's counters to negative counters?
+
+A: No, it would remove the +1/+1 and then... nothing else happens because they can't gain -1/-1.
+
+^(Source: FB Post - Chad Daniel)
 
 # [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
 *Set: The Predator Battles*  
@@ -2344,11 +2348,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzQ4ODc3NiwtNjM3MDk5NDc0LC0yMT
-AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
-MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
-A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
-LTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMT
-kyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMz
-MjQzOCwtMjQxMzcxMTA0XX0=
+eyJoaXN0b3J5IjpbMTQ5NTE1NjY5LC02MzcwOTk0NzQsLTIxMD
+E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
+MjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMD
+gwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwt
+MTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1LDExOT
+IyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2MTkyLC0xOTg2MzMy
+NDM4LC0yNDEzNzExMDRdfQ==
 -->
