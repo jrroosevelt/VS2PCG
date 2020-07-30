@@ -1137,7 +1137,11 @@ A: Yes.
 ^(Source: Rule insert)
 
 # Ghost Rider (MC)
+*Set: Defenders*
 
+Q: If I have L2 Ghost Rider out and use his **Hell on Wheels** super power and attack multiple characters, would his defense be chipped away after each attack or would it refresh for each attack?
+
+A: No, defense is never chipped away in this game.
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
 *Set: Webheads*  
@@ -2510,7 +2514,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgwNDkwMDAsLTE3MjExOTQwNTUsMT
+eyJoaXN0b3J5IjpbLTEwNjU2NzQ4OTIsLTE3MjExOTQwNTUsMT
 cwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4
 NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2Nz
 gwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUs
