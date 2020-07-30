@@ -521,6 +521,8 @@ Q: If I attack Daredevil with Mary Walker (Typhoid Mary) and I put a -1/-1 count
 
 A: The turn player decides the order per page 9 of the rule book under "Timing." Daredevil's level up power has an intervening "if" clause, which means the condition must be true when it triggers AND when it resolves. So if the turn player decides to resolve Mary Walker's power before Daredevil's power, Daredevil will not get an XP because he won't be protecting anyone once his level up power resolves. On the other hand, if the turn player decides to resolve Daredevil's power before Mary's then Daredevil will gain an XP.
 
+^(Source: FB Post - Chad Daniel)
+
 # [Darkhold](http://vs.tcgbrowser.com/images/cards/big/SVH-055.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
@@ -2263,11 +2265,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTY1MDA4LC0xODY5MTAyNjQyLDE1Nj
-A5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5
-NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1Nz
-gyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02
-OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MT
-M3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4
-LC0zMjk5NTAyMTJdfQ==
+eyJoaXN0b3J5IjpbLTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNT
+YwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgw
+OTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNT
+c4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwt
+NjkzNjIwNDgwLC0xOTgyODk2MTkyLC0xOTg2MzMyNDM4LC0yND
+EzNzExMDQsMTM0NzI0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEz
+OCwtMzI5OTUwMjEyXX0=
 -->
