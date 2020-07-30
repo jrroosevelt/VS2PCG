@@ -1121,12 +1121,23 @@ A: Yes.
 
 ^(Source: UDE FAQ)
 
+---
+
+Q: Does **Godslayer Blade** work on Main Characters?
+
+A: Yes.
+
+^(Source: UDE FAQ)
+
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 *Set: The Buffy Battles*  
 
 **Hush** prevents players from using effects that require you to “say” something or to “name” something. **Hush** also prevents players from talking. You can still communicate in other ways such as using hand signals, or writing things down. You can also make sounds without using your vocal chords. If a player does speak, do your best impersonation of a Gentleman in order to shush them. (There is no in-game penalty for speaking. It’s just not cool.)
 
 ^(Source: Rule insert)
+
+# Ghost Rider (MC)
+
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
 *Set: Webheads*  
@@ -2499,7 +2510,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM0NTI3NzYsLTE3MjExOTQwNTUsMT
+eyJoaXN0b3J5IjpbLTE3OTgwNDkwMDAsLTE3MjExOTQwNTUsMT
 cwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4
 NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2Nz
 gwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUs
