@@ -940,7 +940,11 @@ A: No, Even the odds does not remove -1/-1 counters, as it says, it only removes
 
 ---
 
-Q: Hello, a question about the Perfect Organism and Even The Odds. If I use the ability to strike with double of the attack, (**This Thing is Huge! It's...It's Big!** / **Fearless**) and my opponent play even the odds, what happen?
+Q: Hello, a question about the Perfect Organism and Even The Odds. If I use the ability to strike with double of the attack, (**This Thing is Huge! It's...It's Big!** / **Fearless**) and my opponent plays Even The Odds, what happen?
+
+A: This **Thing is Huge! It's... It's Big!** does not actually modify the ATK. It is modifying how hard it strikes during combat resolution. Normally when you strike, you strike an equal amount to your ATK. This power (and the Daredevil one) changes the rules of the game so that you are striking with double that amount, or triple with Amplify.
+
+^(Source - FB Post - Chad Daniel)
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 *Set: Deadpool & Friends* 
@@ -1016,6 +1020,9 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 **The Core Four** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
 
 ^(Source: Rule insert)
+
+# Ferocious Xenomorph
+*Set: The Al
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
 *Set: Monsters Unleashed!*  
@@ -2466,11 +2473,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNDE3MjQ1LDEyODg3MDA5MDksLTE2NT
-g5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0yMTAxNTI3
-MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2ND
-IsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MTA4MCwt
-MTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMj
-YxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1
-MTEsLTY5MzYyMDQ4MF19
+eyJoaXN0b3J5IjpbMTg1NTk2MzAzOCwxMjg4NzAwOTA5LC0xNj
+U4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUy
+NzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNj
+QyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAs
+LTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMD
+I2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3
+NTExLC02OTM2MjA0ODBdfQ==
 -->
