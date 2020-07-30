@@ -602,6 +602,13 @@ Q: If I’m playing with 3 or 4 players, do ALL enemy characters have to be stun
 
 A: No. At the end of your turn, if any enemy player has no face-up characters, Deadpool will gain 1 XP. (If two or more players have all stunned characters, Deadpool still only gains 1 XP.)
 
+^(Source: UDE FAQ)
+
+---
+
+Q: What’s going on with his **Oh, there’s someone! Hi there!** power?
+
+A: 
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 *Set: Black Order*  
@@ -2283,11 +2290,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk5OTI3NzEsLTE1Nzk1Njc4MDYsLT
-MyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5
-NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1Mj
-Y3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYy
-LC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOT
-gyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0
-MDc4NSwxMjYzMjMzMDIyXX0=
+eyJoaXN0b3J5IjpbLTU5OTA2NzUwOSwtMTU3OTU2NzgwNiwtMz
+I1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0
+MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNj
+cwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIs
+LTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5OD
+I4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3MjQw
+Nzg1LDEyNjMyMzMwMjJdfQ==
 -->
