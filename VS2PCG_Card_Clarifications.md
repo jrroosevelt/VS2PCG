@@ -597,6 +597,10 @@ A: No, for Lethal to work a character with Lethal needs to wound a Defending sup
 
 ---
 
+**Man, There's Noone Left to Kill**
+Q: If I’m playing with 3 or 4 players, do ALL enemy characters have to be stunned for Deadpool to gain an XP?
+
+A: No. At the end of your turn, if any enemy player has no face-up characters, Deadpool will gain 1 XP. (If two or more players have all stunned characters, Deadpool still only gains 1 XP.)
 
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
@@ -2279,7 +2283,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzUxMjcyNTQsLTE1Nzk1Njc4MDYsLT
+eyJoaXN0b3J5IjpbLTE4Mjk5OTI3NzEsLTE1Nzk1Njc4MDYsLT
 MyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5
 NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1Mj
 Y3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYy
