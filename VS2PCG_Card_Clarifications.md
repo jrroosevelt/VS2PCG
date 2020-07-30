@@ -906,7 +906,21 @@ A: Yes.
 ^(Source - FB Post - Chad Daniel - UDE Approved)
 
 # Even the Odds
-*Set: The Marvel Bat
+*Set: The Marvel Battles*
+
+Q: How does this card work?
+
+A: You can use it to “reset” an enemy back to its base stats. You remove all +1/+1 counters from it and any modifiers that were affecting its base ATK and DEF are overridden or suppressed.
+
+^(Source - UDE FAQ)
+
+---
+
+Q: What happens if after I play Even the Odds on a character to “reset” it, my opponent plays a Plot Twist to increase its ATK?
+
+A: Even the Odds resets a character one time and then has no further effect. So the Plot Twist will work normally.
+
+
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 *Set: Deadpool & Friends* 
@@ -2432,11 +2446,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjI0NjY0OCwxMjg4NzAwOTA5LC0xNj
-U4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUy
-NzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNj
-QyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAs
-LTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMD
-I2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3
-NTExLC02OTM2MjA0ODBdfQ==
+eyJoaXN0b3J5IjpbLTEwNzg1MTYxMDksMTI4ODcwMDkwOSwtMT
+Y1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1
+MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMj
+Y0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMDgw
+LC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwtMT
+AyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIy
+NzUxMSwtNjkzNjIwNDgwXX0=
 -->
