@@ -199,6 +199,7 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 Q: [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg) targeting Blackheart. He resets to a 4/4 for the rest of the combat, yes? His power does not turn on until the next combat he becomes involved in?
 
 A: Even the Odds creates a modifier that overrides or suppresses any other modifiers modifying ATK/DEF for THAT COMBAT. Any modifiers that with a duration longer than the the combat will "turn on" after the combat has passed.
+^(Source: FB Post - Community)
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
@@ -279,6 +280,8 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character. If she does and it’s the last enemy Main Character in play, you win immediately! But if something goes wrong or there are other enemy Main Characters left, Buffy will get KO’d at the end of the turn.
 ^(Source: Rule insert)
+
+# Build
 
 # [Bullseye](http://vs.tcgbrowser.com/images/cards/big/def-027.jpg) (MC)
 *Set: H.A.M.M.E.R.*  
@@ -1946,11 +1949,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMj
-EzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5
-NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3OD
-UsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQy
-Njc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mj
-c2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwx
-ODA0OTk4NTM3XX0=
+eyJoaXN0b3J5IjpbOTgwNjIzNTUxLC0xMDI2MTE1NzgyLDE0ND
+Q3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0
+ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNC
+wxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5
+NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NS
+wtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4MTk0NDAxOSw0
+ODcxNzYxOTRdfQ==
 -->
