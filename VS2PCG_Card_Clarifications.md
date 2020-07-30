@@ -27,7 +27,7 @@ At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam War
 ^(Source: Rule insert)
 
 ---
-Q: 
+*Q:   If I don’t use his Emerge power, will he recover normally during my next Recovery Phase?*
 
 
 
@@ -1917,11 +1917,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMT
-k4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIz
-MzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC
-01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0
-NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NT
-M3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTks
-LTEzNTg3OTI1NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzg3NjE0MDUsLTY5MzYyMDQ4MCwtMT
+k4Mjg5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcy
+NDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMi
+wtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMjYy
+OTY5Mjc2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3Nj
+E5NCwxODA0OTk4NTM3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMzEs
+LTE2NTA0NTM4MTldfQ==
 -->
