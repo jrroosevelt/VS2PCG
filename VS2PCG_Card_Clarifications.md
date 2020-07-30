@@ -7,7 +7,7 @@ The following card-specific information is a culmination of clarifications, rule
 * Rule inserts from the set
 * An official FAQ doc published by Upper Deck Entertainment (UDE FAQ)
 * An official rule change, clarification, or errata
-* A community source, such as Facebook or Discord. (Some of these have been officially approved by UDE and  
+* A community source, such as Facebook or Discord. (Some of these have been officially approved by UDE and, if so, are noted in the source citation). 
 
 **Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rulesheet and do not fundamentally change the intent of the original text.
 
@@ -745,6 +745,11 @@ Q: When I use Necromancy can I put the character into my Front or Back Row? Can 
 A: Either is fine. Yes, it can attack that turn.
 
 ^(Source: UDE FAQ)
+
+# Dramatic Entrance
+*Set: A-Force* 
+
+
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
@@ -2361,11 +2366,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjQ5MDIwOCwtNjM3MDk5NDc0LC0yMT
-AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
-MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
-A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
-LTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMT
-kyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMz
-MjQzOCwtMjQxMzcxMTA0XX0=
+eyJoaXN0b3J5IjpbOTQ2NzQ1Nzg3LC02MzcwOTk0NzQsLTIxMD
+E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
+MjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMD
+gwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwt
+MTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1LDExOT
+IyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2MTkyLC0xOTg2MzMy
+NDM4LC0yNDEzNzExMDRdfQ==
 -->
