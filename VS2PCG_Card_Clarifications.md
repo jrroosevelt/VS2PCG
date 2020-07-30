@@ -614,7 +614,9 @@ Q: What does “the player counts as a supporting character” mean?
 
 A: It means that if Deadpool is attacking you, you can play Plot Twists that would help a supporting character to increase your stats or otherwise survive the combat.
 
-Q: 
+Q: What if an effect puts a +1/+1 or -1/-1 counter on me while I’m defending against Deadpool?
+
+A: 
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 *Set: Black Order*  
@@ -2296,7 +2298,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTY1MzAzNiwtMTU3OTU2NzgwNiwtMz
+eyJoaXN0b3J5IjpbMjAzODU2NDc5NSwtMTU3OTU2NzgwNiwtMz
 I1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0
 MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNj
 cwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIs
