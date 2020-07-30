@@ -196,9 +196,9 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 # [Blackheart](http://vs.tcgbrowser.com/images/cards/big/def-048.jpg)
 *Set: Defenders*
 
-Q: Even the Odds targeting Blackheart. He resets to a 4/4 for the rest of the combat, yes? His power does not turn on until the next combat he becomes involved in?
+Q: [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg) targeting Blackheart. He resets to a 4/4 for the rest of the combat, yes? His power does not turn on until the next combat he becomes involved in?
 
-A: Even the Odds creates a modifer that overrides or supresses any other modifers modifing ATK/DEF for THAT COMBAT. Any modifers that with a duration longer than the the combat will "turn on" after the combat has passed.
+A: Even the Odds creates a modifier that overrides or suppresses any other modifiers modifying ATK/DEF for THAT COMBAT. Any modifiers that with a duration longer than the the combat will "turn on" after the combat has passed.
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
@@ -1946,11 +1946,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzc0Nzk1NiwxNDQ0NzE4NDYyLC0yMT
-MzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2
-MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0MDc4NS
-wxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEyLC0xNDI2
-Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNz
-YsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2MTk0LDE4
-MDQ5OTg1MzddfQ==
+eyJoaXN0b3J5IjpbLTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMj
+EzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5
+NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3OD
+UsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQy
+Njc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mj
+c2LC0yMDU0NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwx
+ODA0OTk4NTM3XX0=
 -->
