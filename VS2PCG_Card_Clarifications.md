@@ -616,7 +616,21 @@ A: It means that if Deadpool is attacking you, you can play Plot Twists that wou
 
 Q: What if an effect puts a +1/+1 or -1/-1 counter on me while I’m defending against Deadpool?
 
-A: 
+A: It goes on you. If this puts you to 0 DEF, you’ll get stunned (and KO’d). If it makes your stats better, that could help you survive this attack and will stick around to help you if he attacks you again on a later turn.
+
+Q: What if I get KO’d?
+
+A: You’re out of the game, the same way as if your Main Character got KO’d. (You do not actually lose consciousness.)
+
+Q: After Deadpool uses his **Oh, there’s Someone! Hi there!** power, can he team attack a player?
+
+A: No, the other characters don’t know what a player is.
+
+^(Source: UDE FAQ)
+
+---
+
+
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 *Set: Black Order*  
@@ -2298,11 +2312,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODU2NDc5NSwtMTU3OTU2NzgwNiwtMz
-I1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0
-MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNj
-cwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIs
-LTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5OD
-I4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3MjQw
-Nzg1LDEyNjMyMzMwMjJdfQ==
+eyJoaXN0b3J5IjpbMjU3NjUyMjQyLC0xNTc5NTY3ODA2LC0zMj
+U1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQw
+Njk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2Nz
+AsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcxODQ2Miwt
+MjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mj
+g5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3
+ODUsMTI2MzIzMzAyMl19
 -->
