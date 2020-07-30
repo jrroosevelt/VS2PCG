@@ -514,6 +514,13 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 
 ^(Source: Rule insert)
 
+---
+
+**Protector of Hell's Kitchen**
+Q: If I attack Daredevil with Mary Walker (Typhoid Mary) and I put a -1/-1 counter on Daredevil and one on the only character he's protecting which happens to have 1 defense (like Black Widow), KO'ing her, does Daredevil gets an XP?
+
+A: The turn player decides the order per page 9 of the rule book under "Timing." Daredevil's level up power has an intervening "if" clause, which means the condition must be true when it triggers AND when it resolves. So if the turn player decides to resolve Mary Walker's power before Daredevil's power, Daredevil will not get an XP because he won't be protecting anyone once his level up power resolves. On the other hand, if the turn player decides to resolve Daredevil's power before Mary's then Daredevil will gain an XP.
+
 # [Darkhold](http://vs.tcgbrowser.com/images/cards/big/SVH-055.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
@@ -2256,11 +2263,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMT
-k4OTQwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkx
-NTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcxOD
-Q2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwt
-MTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzND
-cyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIx
-MiwtMTQyNjc5NTc5XX0=
+eyJoaXN0b3J5IjpbMTE3MTY1MDA4LC0xODY5MTAyNjQyLDE1Nj
+A5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5
+NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1Nz
+gyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02
+OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MT
+M3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4
+LC0zMjk5NTAyMTJdfQ==
 -->
