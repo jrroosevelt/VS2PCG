@@ -724,13 +724,17 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 
 ^(Source: Rule insert)
 
-# [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
+
+# Dormammu
+## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
 *Set: MCU Villains*  
 
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
 
 ^(Source: Rule insert)
 
+## Dormammu
+*Set: The
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
@@ -2320,11 +2324,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLT
-MyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5
-NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1Mj
-Y3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYy
-LC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOT
-gyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0
-MDc4NSwxMjYzMjMzMDIyXX0=
+eyJoaXN0b3J5IjpbNzAzNTQyNTU1LC0yMTAxNTI3MDg2LC0xNT
+c5NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5
+ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2ND
+Y4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIs
+MTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5Mz
+YyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcx
+MTA0LDEzNDcyNDA3ODVdfQ==
 -->
