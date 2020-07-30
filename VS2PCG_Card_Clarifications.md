@@ -370,6 +370,11 @@ A: His power will still trigger and stun the defender even though Cable himself 
 
 ^(Source: UDE FAQ)
 
+# Captain America (MC)
+*Set: The Marvel Battles*
+
+Q: 
+
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
 *Set: Cosmic Avengers*  
 
@@ -2218,11 +2223,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNj
-k5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3
-MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0OD
-AsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwx
-MzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NT
-AyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwt
-MTI2Mjk2OTI3Nl19
+eyJoaXN0b3J5IjpbMTE2MzQ0NjgyOCwtMTIwMjU0MTA4MCwtMT
+g4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYx
+MTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MT
+EsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwt
+MjQxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIzMzAyMiw5NDg2Mz
+YxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMs
+NjY3NzU0NjU1XX0=
 -->
