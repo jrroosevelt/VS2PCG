@@ -860,6 +860,11 @@ A: While Elektra is in your hand, you do not control a Main Character. Therefore
 
 ^(Source: Chad Daniel)
 
+Q: If I activate Kingpin's **Underworld Boss** while Elektra is in my hand, what happens to Elektra?
+
+A: She is demoted to a Supporting character no matter what zone she is in. From the rules: "Some effects may promote a Supporting Character to Main Character and vice versa. Unlike most modifiers, these modifiers can apply to a Main Character in any zone (or side) and continue to apply to the character even if it changes zones."
+
+^(Source: FB Post - Chad Daniel)
 
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
@@ -2409,11 +2414,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODQxNTEyLDIwMTQ4NTY2NTUsLTYzNz
-A5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEy
-ODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5OD
-csLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0x
-MDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMz
-MzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5ODI4OTYx
-OTIsLTE5ODYzMzI0MzhdfQ==
+eyJoaXN0b3J5IjpbMjA5MTk0NjA1MywyMDE0ODU2NjU1LC02Mz
+cwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUx
+MjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OT
+g3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwt
+MTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMT
+MzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2
+MTkyLC0xOTg2MzMyNDM4XX0=
 -->
