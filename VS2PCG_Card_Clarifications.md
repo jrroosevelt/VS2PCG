@@ -152,6 +152,11 @@ Baron Mordo can revert a main character back to level 1 until your next turn. Wh
 A: Ripley #8 Level 1. A character will always become the level one version of what it is.  
 ^(Source: FB Post - Chad Daniel)
 
+---
+Q: Does **Hex** prevent a **Hypnotized** character from turning back into Level 2 at the start of my next turn?
+
+A: No, Hypnotize creates a modifier with an expiration that temporarily makes a character its Level 1 version. When that modifier expires it becomes its Level 2 version again, and this is not considered Leveling up.
+
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
 *Set: The New Defenders*  
 
@@ -1924,11 +1929,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMT
-kyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMz
-MjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIzMzAyMi
-w5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5
-MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0NjQwOD
-E4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NTM3LC0x
-Mzg1NDI3NDg3XX0=
+eyJoaXN0b3J5IjpbLTc1Mjc3NzAzMCwxNDQ0NzE4NDYyLC0yMT
+MzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2
+MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0MDc4NS
+wxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEyLC0xNDI2
+Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNjI5NjkyNz
+YsLTIwNTQ2NDA4MTgsLTEyODE5NDQwMTksNDg3MTc2MTk0LDE4
+MDQ5OTg1MzddfQ==
 -->
