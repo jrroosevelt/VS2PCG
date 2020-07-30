@@ -373,7 +373,19 @@ A: His power will still trigger and stun the defender even though Cable himself 
 # Captain America (MC)
 *Set: The Marvel Battles*
 
-Q: 
+Q: Does his **Avengers Assemble** power work even if he’s not one of the team attackers?
+
+A: Yes.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: If Cap team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, but Cap still stuns the defender, will he get an XP?
+
+A: Yes.
+
+^(Source: UDE FAQ)
 
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
 *Set: Cosmic Avengers*  
@@ -2223,11 +2235,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzQ0NjgyOCwtMTIwMjU0MTA4MCwtMT
-g4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYx
-MTU3ODIsMTQ0NDcxODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MT
-EsLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwt
-MjQxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIzMzAyMiw5NDg2Mz
-YxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMs
-NjY3NzU0NjU1XX0=
+eyJoaXN0b3J5IjpbLTE0ODYxMDM3NzIsLTEyMDI1NDEwODAsLT
+E4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2
+MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NT
+ExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0Mzgs
+LTI0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4Nj
+M2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYz
+LDY2Nzc1NDY1NV19
 -->
