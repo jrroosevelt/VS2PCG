@@ -1103,6 +1103,15 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 
 ^(Source: Rule insert)
 
+## Gambit (SC)
+*Set: The Marvel Battles*
+
+Q: Can I use **Kinetic Card Throw** to discard a card even if there’s no enemy supporting character to stun? (For example, can I use Gambit to put Deadpool into my KO Pile even if there’s no enemies with cost 3 or less in play?)
+
+A: No. There must be a face-up enemy supporting character in play.
+
+^(Source: UDE FAQ)
+
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 *Set: The Buffy Battles*  
 
@@ -2481,11 +2490,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc3MzQ3NzcsLTE3MjExOTQwNTUsMT
-cwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4
-NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2Nz
-gwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUs
-LTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNj
-k5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3
-MTg0NjIsLTIxMzMzNTE5NjVdfQ==
+eyJoaXN0b3J5IjpbLTYxODExODYyMiwtMTcyMTE5NDA1NSwxNz
+A1MTIxMTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1
+NjY1NSwtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3OD
+A2LC0zMjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwt
+MTk4OTQwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OT
+kxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcx
+ODQ2MiwtMjEzMzM1MTk2NV19
 -->
