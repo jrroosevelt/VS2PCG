@@ -557,7 +557,8 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 
 ^(Source: Rule insert)
 
-# [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC)
+# Deadpool
+## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC)
 *Set: Deadpool & Friends*
 
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
@@ -584,6 +585,13 @@ Here are some quick tips:
 
 
 ^(Source: Rule insert)
+
+## Deadpool (MC)
+*Set: The Marvel Battles*
+
+Q: If I use **Merc With a Mouth** to make my Gambit or Dazzler Lethal, will they KO a character by using their Super Powers to stun them?
+
+A
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
 *Set: Black Order*  
@@ -2265,11 +2273,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNT
-YwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgw
-OTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNT
-c4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwt
-NjkzNjIwNDgwLC0xOTgyODk2MTkyLC0xOTg2MzMyNDM4LC0yND
-EzNzExMDQsMTM0NzI0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEz
-OCwtMzI5OTUwMjEyXX0=
+eyJoaXN0b3J5IjpbLTE2Njc3NzU4NCwtMzI1NTEyODAwLC0xOD
+Y5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1
+NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwOD
+kwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUs
+MTE5MjI3NTExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5OD
+YzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMw
+MjIsOTQ4NjM2MTM4XX0=
 -->
