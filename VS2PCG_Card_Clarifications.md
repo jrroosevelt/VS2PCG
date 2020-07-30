@@ -771,6 +771,18 @@ A: The triggering event for Shrink is "When [this character] gets attacked for t
 
 ^(Source: FB Post - UDE Approved)
 
+---
+
+Q: Can you bring a character in with Dramatic Entrance that is already on the field? If so, does it KO the one on the field?
+
+A: You can, you just apply the uniqueness rule and KO the older one.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: If I use Dramatic Entrance to put Adam Warlock into play as the new Defender, what happens since he comes into play stunned due to his ?
+
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
 
@@ -2386,7 +2398,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjM0Nzc5NywtNjM3MDk5NDc0LC0yMT
+eyJoaXN0b3J5IjpbLTE2ODQ5NzkzMSwtNjM3MDk5NDc0LC0yMT
 AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
 MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
 A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
