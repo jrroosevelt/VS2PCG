@@ -749,7 +749,17 @@ A: Either is fine. Yes, it can attack that turn.
 # Dramatic Entrance
 *Set: A-Force* 
 
+Q: Do "Appears" powers work when character are brought into play with Dramatic Entrance? I'm not sure because it says, "put into play."
 
+A: It does not matter how a character enters play. If it goes from not being in play, to being in play, it has "appeared" whether that is from recruiting, or some other effect putting it into play.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: How does Dramatic Entrance work if I bring a Loki 7 drop SC into play with it? Does Loki draw me a card if it was the first PT I played that turn? Or since it wasn't in play, it doesn't grant me the benefit? If it doesn't, then does the next PT I play that turn trigger Loki's Schemer power?
+
+A: If you bring in Loki SC with Dramatic Entrance, Schemer will not trigger. At the time you PLAYED the plot twist, Loki was not in play. Once he is in play, he does not look back in time and see that you played a plot twist. Also if you play another plot twist, Schemer will still not trigger because it is not your first plot twist played this turn.
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 *Set: Webheads*  
@@ -2366,11 +2376,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NzQ1Nzg3LC02MzcwOTk0NzQsLTIxMD
-E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
-MjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMD
-gwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwt
-MTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1LDExOT
-IyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2MTkyLC0xOTg2MzMy
-NDM4LC0yNDEzNzExMDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDI1OTgwNTAsLTYzNzA5OTQ3NCwtMj
+EwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5
+MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1ND
+EwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkw
+LC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMT
+E5MjI3NTExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYz
+MzI0MzgsLTI0MTM3MTEwNF19
 -->
