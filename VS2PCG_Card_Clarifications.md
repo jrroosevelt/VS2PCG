@@ -348,9 +348,17 @@ Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
 *Set: The Marvel Battles*
 
-Q: How does his Ultimate Soldier power work?
+Q: How does his **Ultimate Soldier** power work?
 
 A: When you activate his power while he’s attacking, it means the defender will get stunned at the end of the combat even if the attackers’ ATK isn’t as much as the defender’s DEF.
+
+^(Source: UDE FAQ)
+
+-
+
+Q: What happens if I use his power but the combat gets canceled?
+
+A: Cable’s power has no effect since the combat didn’t come to its natural conclusion. It doesn’t matter if the combat was canceled due to a card effect like Think Again or due to all of the attackers getting stunned.
 
 ^(Source: UDE FAQ)
 
@@ -2202,11 +2210,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODYzMDUxMSwtMTg4MDk2NDY4Niw2OT
-kxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcx
-ODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MC
-wtMTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEz
-NDcyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MD
-IxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0x
-MjYyOTY5Mjc2XX0=
+eyJoaXN0b3J5IjpbLTEzOTEzOTU4MjgsLTE4ODA5NjQ2ODYsNj
+k5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3
+MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0OD
+AsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwx
+MzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NT
+AyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwt
+MTI2Mjk2OTI3Nl19
 -->
