@@ -447,6 +447,9 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
 
+# Copycat
+
+
 # Cosmic Cubes
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -2235,11 +2238,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLT
-E4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2
-MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NT
-ExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0Mzgs
-LTI0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4Nj
-M2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYz
-LDY2Nzc1NDY1NV19
+eyJoaXN0b3J5IjpbMTAyNzMwMTMxLC0xOTg5NDA2OTg3LC0xMj
+AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
+MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOT
+Y1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2MTkyLC0x
+OTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0MDc4NSwxMjYzMj
+MzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEyLC0xNDI2Nzk1Nzks
+LTU2NDkwODc2M119
 -->
