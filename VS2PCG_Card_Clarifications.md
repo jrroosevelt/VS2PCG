@@ -345,8 +345,14 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
-## Cable (SC)
-*Set: 
+## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
+*Set: The Marvel Battles*
+
+Q: How does his Ultimate Soldier power work?
+
+A: When you activate his power while he’s attacking, it means the defender will get stunned at the end of the combat even if the attackers’ ATK isn’t as much as the defender’s DEF.
+
+^(Source: UDE FAQ)
 
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
 *Set: Cosmic Avengers*  
@@ -2196,11 +2202,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzg4MjA1LC0xODgwOTY0Njg2LDY5OT
-E1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4
-NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC
-0xOTgyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0
-NzI0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMj
-EyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEy
-NjI5NjkyNzZdfQ==
+eyJoaXN0b3J5IjpbLTkyODYzMDUxMSwtMTg4MDk2NDY4Niw2OT
+kxNTI2NzAsLTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcx
+ODQ2MiwtMjEzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MC
+wtMTk4Mjg5NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEz
+NDcyNDA3ODUsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MD
+IxMiwtMTQyNjc5NTc5LC01NjQ5MDg3NjMsNjY3NzU0NjU1LC0x
+MjYyOTY5Mjc2XX0=
 -->
