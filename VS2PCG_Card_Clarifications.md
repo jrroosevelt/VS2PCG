@@ -383,7 +383,7 @@ A: Yes.
 
 Q: If Cap team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, but Cap still stuns the defender, will he get an XP?
 
-A: Yes.
+A: No. Once the other character gets stunned mid-combat, it stops being a team attack and becomes a solo attack so Cap won’t get the XP. For Cap to get the XP it must be a team attack at the end of the combat.
 
 ^(Source: UDE FAQ)
 
@@ -2235,7 +2235,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYxMDM3NzIsLTEyMDI1NDEwODAsLT
+eyJoaXN0b3J5IjpbLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLT
 E4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2
 MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NT
 ExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0Mzgs
