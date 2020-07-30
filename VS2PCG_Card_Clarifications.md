@@ -354,11 +354,11 @@ A: When you activate his power while he’s attacking, it means the defender wil
 
 ^(Source: UDE FAQ)
 
---
+---
 
 Q: What happens if I use his power but the combat gets canceled?
 
-A: Cable’s power has no effect since the combat didn’t come to its natural conclusion. It doesn’t matter if the combat was canceled due to a card effect like Think Again or due to all of the attackers getting stunned.
+A: Cable’s power has no effect since the combat didn’t come to its natural conclusion. It doesn’t matter if the combat was canceled due to a card effect like **Think Again** or due to all of the attackers getting stunned.
 
 ^(Source: UDE FAQ)
 
@@ -2218,11 +2218,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODMxMDg3LC0xODgwOTY0Njg2LDY5OT
-E1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4
-NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC
-0xOTgyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0
-NzI0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMj
-EyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEy
-NjI5NjkyNzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNj
+k5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3
+MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OTM2MjA0OD
+AsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwx
+MzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NT
+AyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwt
+MTI2Mjk2OTI3Nl19
 -->
