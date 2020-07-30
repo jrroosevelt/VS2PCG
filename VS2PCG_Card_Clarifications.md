@@ -3,7 +3,11 @@
   
 # Card clarifications and FAQs
 
-The following card-specific information is a culmination of clarifications, rule changes, and FAQs from various sources. After each item (or series of items 
+The following card-specific information is a culmination of clarifications, rule changes, and FAQs from various sources. After each item (or series of items), there's a "Source" indicator that specifies whether the item came from:
+* Rule inserts from the set
+* An official FAQ doc published by Upper Deck Entertainment (UDE FAQ)
+* An official rule change, clarification, or errata
+* A community source, such as Facebook or Discord. (Some of these have been officially approved by UDE and  
 
 **Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rulesheet and do not fundamentally change the intent of the original text.
 
@@ -2357,7 +2361,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDkzNzUyNywtNjM3MDk5NDc0LC0yMT
+eyJoaXN0b3J5IjpbMTEyMjQ5MDIwOCwtNjM3MDk5NDc0LC0yMT
 AxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Njkx
 MDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0MT
 A4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3NTA4OTAs
