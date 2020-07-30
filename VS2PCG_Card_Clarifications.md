@@ -339,11 +339,14 @@ When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to th
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
 ^(Source: Rule insert)
-
-# [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
+# Cable
+## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
 *Set: New Mutants*  
 
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
+
+## Cable (SC)
+*Set: 
 
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
 *Set: Cosmic Avengers*  
@@ -2193,11 +2196,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMD
-kwNzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMz
-NTE5NjUsMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5ODI4OTYxOT
-IsLTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3MjQwNzg1LDEy
-NjMyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OT
-U3OSwtNTY0OTA4NzYzLDY2Nzc1NDY1NSwtMTI2Mjk2OTI3Niwt
-MjA1NDY0MDgxOF19
+eyJoaXN0b3J5IjpbMTUyNzg4MjA1LC0xODgwOTY0Njg2LDY5OT
+E1MjY3MCwtMTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4
+NDYyLC0yMTMzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC
+0xOTgyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0
+NzI0MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMj
+EyLC0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEy
+NjI5NjkyNzZdfQ==
 -->
