@@ -753,7 +753,12 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 ^(Source: Rule insert)
 
-# 
+# Dr. Strange (MC)
+*Set: Defenders*
+
+Q: If I activate L2 Dr. Strange's **Mass Transmutation** power can I target a character with +1/+1 counters as well as a character with -1/-1 counters and switch them to their opposite counter types?
+
+A: 
 
 # [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
 *Set: The Predator Battles*  
@@ -2332,11 +2337,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMT
-U3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5
-OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5Nj
-Q2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2MTE1Nzgy
-LDE0NDQ3MTg0NjIsLTIxMzMzNTE5NjUsMTE5MjI3NTExLC02OT
-M2MjA0ODAsLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLTI0MTM3
-MTEwNCwxMzQ3MjQwNzg1XX0=
+eyJoaXN0b3J5IjpbNzA1MTkwNjQ3LC02MzcwOTk0NzQsLTIxMD
+E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
+MjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMD
+gwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwt
+MTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOTY1LDExOT
+IyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2MTkyLC0xOTg2MzMy
+NDM4LC0yNDEzNzExMDRdfQ==
 -->
