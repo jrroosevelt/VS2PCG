@@ -146,6 +146,12 @@ If there are no other face-up characters in play, Awesome Android's ATK/DEF beco
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.
 ^(Source: Rule insert)
 
+---
+*Q: If I **Hypnotize** a Ripley #8 L2 that started the game as Sister Ripley, which Level 1 Character does she become? Sister Ripley or Ripley#8 level 1?*
+
+A: Ripley #8 Level 1. A character will always become the level one version of what it is.
+^(Source
+
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
 *Set: The New Defenders*  
 
@@ -1918,7 +1924,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTA4NDc0NSwtNjkzNjIwNDgwLC0xOT
+eyJoaXN0b3J5IjpbMTkwODQwODUxMCwtNjkzNjIwNDgwLC0xOT
 gyODk2MTkyLC0xOTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0
 MDc4NSwxMjYzMjMzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEyLC
 0xNDI2Nzk1NzksLTU2NDkwODc2Myw2Njc3NTQ2NTUsLTEyNjI5
