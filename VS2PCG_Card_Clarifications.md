@@ -26,6 +26,11 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become [Level 2](http://vs.tcgbrowser.com/images/cards/big/GAL-002.jpg) while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
 ^(Source: Rule insert)
 
+---
+Q: 
+
+
+
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 *Set: The Fantastic Battles*  
 
@@ -1912,11 +1917,11 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI4OTYxOTIsLTE5ODYzMzI0MzgsLT
-I0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNjMyMzMwMjIsOTQ4NjM2
-MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3OSwtNTY0OTA4NzYzLD
-Y2Nzc1NDY1NSwtMTI2Mjk2OTI3NiwtMjA1NDY0MDgxOCwtMTI4
-MTk0NDAxOSw0ODcxNzYxOTQsMTgwNDk5ODUzNywtMTM4NTQyNz
-Q4NywtMzI1MDkzMTMxLC0xNjUwNDUzODE5LC0xMzU4NzkyNTQw
-LDkyMTQ1MzkyOV19
+eyJoaXN0b3J5IjpbLTY5MzYyMDQ4MCwtMTk4Mjg5NjE5MiwtMT
+k4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3ODUsMTI2MzIz
+MzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQyNjc5NTc5LC
+01NjQ5MDg3NjMsNjY3NzU0NjU1LC0xMjYyOTY5Mjc2LC0yMDU0
+NjQwODE4LC0xMjgxOTQ0MDE5LDQ4NzE3NjE5NCwxODA0OTk4NT
+M3LC0xMzg1NDI3NDg3LC0zMjUwOTMxMzEsLTE2NTA0NTM4MTks
+LTEzNTg3OTI1NDBdfQ==
 -->
