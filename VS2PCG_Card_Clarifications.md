@@ -769,7 +769,8 @@ Q: If my opponent has Dagger in play would Doctor strange be able to turn an opp
 
 A: No, it would remove the +1/+1 and then... nothing else happens because they can't gain -1/-1.
 
-^(Source: FB Post - Chad Daniel)
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 
 # [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
 *Set: The Predator Battles*  
@@ -2348,7 +2349,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTE1NjY5LC02MzcwOTk0NzQsLTIxMD
+eyJoaXN0b3J5IjpbNDAxODA1NDYzLC02MzcwOTk0NzQsLTIxMD
 E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
 MjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMjAyNTQxMD
 gwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1MDg5MCwt
