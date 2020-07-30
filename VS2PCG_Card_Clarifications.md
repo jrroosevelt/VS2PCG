@@ -177,7 +177,10 @@ This power refers to (Energy/"Blue") super powers.This counts for any super powe
 Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
 ^(Source: Rule insert)
 
-# [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
+# Black Cat
+## Black Cat (MC)
+
+## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
 *Set: Spider-Friends*  
 
 **Personal Loyalty**  
@@ -1930,7 +1933,7 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA4OTQ0ODksMTQ0NDcxODQ2MiwtMj
+eyJoaXN0b3J5IjpbLTE3NjIyNDEwMTQsMTQ0NDcxODQ2MiwtMj
 EzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5
 NjE5MiwtMTk4NjMzMjQzOCwtMjQxMzcxMTA0LDEzNDcyNDA3OD
 UsMTI2MzIzMzAyMiw5NDg2MzYxMzgsLTMyOTk1MDIxMiwtMTQy
