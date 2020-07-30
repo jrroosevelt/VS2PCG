@@ -846,7 +846,7 @@ Electro introduces a new concept: remaining health. Remaining health is a charac
 
 ^(Source: Rule insert)
 
-## [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
+# [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
 *Set: Legacy*  
 
 **Hand Experience**  
@@ -2414,11 +2414,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTk0NjA1MywyMDE0ODU2NjU1LC02Mz
-cwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUx
-MjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OT
-g3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwt
-MTA5MDc1MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMT
-MzMzUxOTY1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2
-MTkyLC0xOTg2MzMyNDM4XX0=
+eyJoaXN0b3J5IjpbLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNj
+M3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1
+MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNj
+k4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAs
+LTEwOTA3NTA4OTAsLTEwMjYxMTU3ODIsMTQ0NDcxODQ2MiwtMj
+EzMzM1MTk2NSwxMTkyMjc1MTEsLTY5MzYyMDQ4MCwtMTk4Mjg5
+NjE5MiwtMTk4NjMzMjQzOF19
 -->
