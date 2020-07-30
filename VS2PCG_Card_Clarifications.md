@@ -448,7 +448,11 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule insert)
 
 # Copycat
+*Set: Deadpool & Friends*
 
+Q: If I remove Copycat to Singularity's **Pocket Dimension** with two other characters, when all 3 return does Copycat get all the powers of the other two supporting characters she returned with?
+
+A: 
 
 # Cosmic Cubes
 *Set: S.H.I.E.L.D. vs. Hydra*  
@@ -2238,11 +2242,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzMwMTMxLC0xOTg5NDA2OTg3LC0xMj
-AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
-MDg5MCwtMTAyNjExNTc4MiwxNDQ0NzE4NDYyLC0yMTMzMzUxOT
-Y1LDExOTIyNzUxMSwtNjkzNjIwNDgwLC0xOTgyODk2MTkyLC0x
-OTg2MzMyNDM4LC0yNDEzNzExMDQsMTM0NzI0MDc4NSwxMjYzMj
-MzMDIyLDk0ODYzNjEzOCwtMzI5OTUwMjEyLC0xNDI2Nzk1Nzks
-LTU2NDkwODc2M119
+eyJoaXN0b3J5IjpbLTEwNDY2MTUyNDYsLTE5ODk0MDY5ODcsLT
+EyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkw
+NzUwODkwLC0xMDI2MTE1NzgyLDE0NDQ3MTg0NjIsLTIxMzMzNT
+E5NjUsMTE5MjI3NTExLC02OTM2MjA0ODAsLTE5ODI4OTYxOTIs
+LTE5ODYzMzI0MzgsLTI0MTM3MTEwNCwxMzQ3MjQwNzg1LDEyNj
+MyMzMwMjIsOTQ4NjM2MTM4LC0zMjk5NTAyMTIsLTE0MjY3OTU3
+OSwtNTY0OTA4NzYzXX0=
 -->
