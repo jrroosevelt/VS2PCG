@@ -1549,14 +1549,14 @@ A: You make a solo attack with him against a front row character, then during co
 
 Q: If I use Enchantress' **Go Forth My Champion** on Juggernaut, and then activate **Unstoppable** on his first attack on a front row character, does he exhaust for his second **Unstoppable** attack?
 
-A: In the case of Juggernaut it says to immediately attack a support row character, so the game jumps right back into combat. When "blah" is attacked/attacks triggers will still happen, but the normal rules for checking the legality if the attack (exhausting the attacker, making sure they are not protected etc.) do not apply. So in the case of Juggernaut + Enchantress it would work like this:  
+A: In the case of Juggernaut it says to immediately attack a back row character, so the game jumps right back into combat. When "blah" is attacked/attacks triggers will still happen, but the normal rules for checking the legality if the attack (exhausting the attacker, making sure they are not protected etc.) do not apply. So in the case of Juggernaut + Enchantress it would work like this:  
   
-Use Enchantress's power on Juggernaut.  
-Juggernaut attacks a front row character and immediately readies.  
-Juggernaut uses his Unstoppable super power.  
-Juggernaut stuns the front row character and survives.  
-Juggernaut immediately attacks a back row character without exhausting.  
-Assuming Juggernaut survives the second combat he will still be ready.
+* Use Enchantress's power on Juggernaut.  
+* Juggernaut attacks a front row character and immediately readies.  
+* Juggernaut uses his Unstoppable super power.  
+* Juggernaut stuns the front row character and survives.  
+* Juggernaut immediately attacks a back row character without exhausting.  
+* Assuming Juggernaut survives the second combat he will still be ready.
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
@@ -2678,11 +2678,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzYwMDUwOSw3Mjc0MDg5ODAsLTIwNj
-Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
-MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
-UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
-MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
-k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
-NjcwLC0xMDkwNzUwODkwXX0=
+eyJoaXN0b3J5IjpbLTExMjU4MjkxNzcsNzI3NDA4OTgwLC0yMD
+Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
+MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
+U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
+LTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOT
+g5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1
+MjY3MCwtMTA5MDc1MDg5MF19
 -->
