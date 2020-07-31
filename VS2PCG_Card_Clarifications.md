@@ -2533,6 +2533,9 @@ A: You choose where to move it back to.
 
 ^(Source: UDE FAQ)
 
+# Punisher
+*
+
 # [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
 *Set: Brotherhood of Mutants*  
 
@@ -3166,7 +3169,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzg2NzE5NSwtMzI1NTQxNDQsLTUwNz
+eyJoaXN0b3J5IjpbMjAzMzY5MDQzOCwtMzI1NTQxNDQsLTUwNz
 IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
 LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
 M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
