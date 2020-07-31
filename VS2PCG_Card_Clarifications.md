@@ -1857,7 +1857,7 @@ In this set Magneto gets a whole new main character card, and this time  it goes
 ^(Source: Rule insert)
 
 # Mandarin
-# [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
+## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
 *Set: The MCU Battles*  
 
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
@@ -1869,7 +1869,13 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 ## Mandarin (Illustrated)
 *Set: The Marvel Battles*
 
-Q:  
+Q: Can use all his powers in the same turn? 
+
+A: Yes. They all share the name **Makluan Rings**, but they are different powers.
+
+^(Source: UDE FAQ)
+
+# Mantis
 
 # Marvel Required (Equipment)
 *Set: S.H.I.E.L.D. vs Hydra*   
@@ -2885,11 +2891,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDIxOTY2MTgsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
-I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
-MTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMD
-E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
-MjY0MiwxNTYwOTk4MDA1XX0=
+eyJoaXN0b3J5IjpbMTY0Nzg5MDIxMCwtMTM0NTMxMTYwOCw5MT
+MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
+MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
+YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
+NjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMT
+UyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAy
+NjQyLDE1NjA5OTgwMDVdfQ==
 -->
