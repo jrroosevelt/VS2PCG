@@ -1856,7 +1856,8 @@ In this set Magneto gets a whole new main character card, and this time  it goes
 
 ^(Source: Rule insert)
 
-# [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg)
+# Mandarin
+# [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
 *Set: The MCU Battles*  
 
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
@@ -1864,6 +1865,11 @@ Mandarin is really three potential characters in one. If Mandarin is in your dec
 This represents who Mandarin really is – lowly actor or deadly warlord. Leave the Behind the Camera pile face down – it’s important that your opponent doesn’t find out who the Mandarin really is until you’re ready to show them.
 
 ^(Source: Rule insert)
+
+## Mandarin (Illustrated)
+*Set: The Marvel Battles*
+
+Q:  
 
 # Marvel Required (Equipment)
 *Set: S.H.I.E.L.D. vs Hydra*   
@@ -2879,7 +2885,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgzNjM4NDAsLTEzNDUzMTE2MDgsOT
+eyJoaXN0b3J5IjpbLTIxMDIxOTY2MTgsLTEzNDUzMTE2MDgsOT
 EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
 NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
 I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
