@@ -1638,6 +1638,18 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 
 Q: When does Death Strike determine if Lady Deathstrike has survived the Combat if I bring her into combat with an MC with Dramatic Entrance? If she isn't stunned by the Attacking MC and activated Death Strike will the MC get 2 wounds even though Dramatic Entrance will KO her at the end of combat?
 
+A: To survive combat means to be unstunned at the conclusion of combat resolution; The survival check/combat resolution is distinctly before end of combat effects triggering. So yes, the MC will get 2 wounds.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: How does Lady's Deathstrike's Death Strike ability interact with Luke Cage's Impervious skin? would he negate both wounds?
+
+A: Impervious Skin would not apply because it only prevents wounds from getting stunned, it does NOT prevent wounds given another way. The wound given by Lady Deathstrike's Super Power is NOT from stunning, it is given directly by the resolving effect.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
 *Set: The Predator Battles*  
 
@@ -2735,7 +2747,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzE3MjAzOCw3Mjc0MDg5ODAsLTIwNj
+eyJoaXN0b3J5IjpbLTI5ODAzMTk5OSw3Mjc0MDg5ODAsLTIwNj
 Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
 MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
 UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
