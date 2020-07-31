@@ -2152,7 +2152,8 @@ Plot twists without team affiliations can be played  regardless of the team affi
 
 ^(Source: Rule insert)
 
-# [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC)
+# Mystique
+## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC)
 *Set: Legacy*  
 
 **Identity Theft**  
@@ -2161,6 +2162,9 @@ Mystique’s super power allows her to transform into a different Level 2 Main C
 Playing with friends, you can choose to transform into any character in your collection, but if you’re playing in a tournament, you must select three Main Character options when you build your deck. You must set them face-down next to your unused Level 2/Level 3 characters. (You don’t need to show them to your opponent.)
 
 ^(Source: Rule insert)
+
+## Mystique SC
+*
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
 *Set: The New Defenders*  
@@ -2982,11 +2986,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
-gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
-ODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MS
-w3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3
-MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OT
-MxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4
-NiwtMTU3OTU2NzgwNl19
+eyJoaXN0b3J5IjpbMTg0Nzg4MzMzNSw2NDYyNjA2NTMsMTc2Nz
+kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
+NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
+0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
+NzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MD
+A5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0
+LC0yMTAxNTI3MDg2XX0=
 -->
