@@ -1202,7 +1202,7 @@ Goblin Queen has the power to make token characters. A token character works jus
 
 ---
 
-Q: When a token takes lethal damage, does it become KO'd and count towards Thanos's level up ability?
+Q: When a token takes lethal damage, does it become KO'd and count towards Thanos's **The Mad Titan** level up ability?
 
 # \* [Gorgon](http://vs.tcgbrowser.com/images/cards/small/SVH-013.jpg) \*
 *Set: S.H.I.E.L.D. vs. Hydra*  
@@ -2520,7 +2520,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAzOTQzOTIsLTEwMTczNTQxMjYsLT
+eyJoaXN0b3J5IjpbLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLT
 E3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4
 OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNz
 A4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQy
