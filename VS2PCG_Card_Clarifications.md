@@ -1767,7 +1767,15 @@ A: Yes, characters keep their affiliations even when they are stunned.
 
 # Luke Cage
 
-Q: 
+Q: When I use his **Impervious Skin** power, what happens if he gets stunned?
+
+A: Everything happens normally – he turns face down, loses all +1/+1 or -1/-1 counters, etc. – the only difference is he won’t gain a wound.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: Cable attacks Luke and both use their powers (Impervious Skin (no other effects are played). Has Luke's power worn off by the time Cable's power stuns him
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2823,11 +2831,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDYwOTkyNiwtMTM0NTMxMTYwOCw5MT
-MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
-MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
-YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
-NjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMT
-UyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAy
-NjQyLDE1NjA5OTgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE2MzczNzgyNDIsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
+I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
+MTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMD
+E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
+MjY0MiwxNTYwOTk4MDA1XX0=
 -->
