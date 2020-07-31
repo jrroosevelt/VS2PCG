@@ -2163,7 +2163,7 @@ Playing with friends, you can choose to transform into any character in your col
 
 ^(Source: Rule insert)
 
-## Mystique SC
+## Mystique (SC)
 *Set: The Marvel Battles**
 
 Q: After I use her **Impersonate** power to copy someone’s ATK and DEF, what happens if that character’s ATK or DEF change?
@@ -2171,6 +2171,12 @@ Q: After I use her **Impersonate** power to copy someone’s ATK and DEF, what h
 A: Nothing. Mystique locks in whatever that character’s current ATK and DEF are as her Base ATK and DEF for the turn. If they change later it doesn’t affect her.
 
 ^(Source: UDE FAQ)
+
+---
+
+Q: What happens if Mystique has any +1/+1 counters when I use Impersonate?
+
+A: 
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
 *Set: The New Defenders*  
@@ -2992,11 +2998,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
-kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
-NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
-0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
-NzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MD
-A5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0
-LC0yMTAxNTI3MDg2XX0=
+eyJoaXN0b3J5IjpbMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
+I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
+ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
+02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
+NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMj
+ExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1
+LC02MzcwOTk0NzRdfQ==
 -->
