@@ -1245,10 +1245,15 @@ A: Yes.
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
 # Groot
-## Groot (SC)
+## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-070.jpg) (SC)
 *Set: The Marvel Battles*
 
-Q: If **I Am Groot** is turned off and  Groot he gets stunned for being a 0/0, what happens when he recovers?
+Q: If **I Am Groot** is turned off and Groot gets stunned for being a 0/0, what happens when he recovers?
+
+A: If his power is still turned off when he recovers, he becomes a 0/0 again and is stunned and KO'd if he takes a final wound.
+
+^(Source: FB Post)
+
 
 
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
@@ -2550,7 +2555,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjE4NjU5MiwtMjA2NDU3MDg5MSwtMT
+eyJoaXN0b3J5IjpbMTg5ODYzNzU2MCwtMjA2NDU3MDg5MSwtMT
 AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
 MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
 c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
