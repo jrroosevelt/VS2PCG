@@ -2345,7 +2345,11 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ---
 
-Q: 
+Q: Can I shut off an enemy Nullifier's **Ultimate Nullification** already in play with my own Nullifer?
+
+A: No, **Ultimate Nullification** is an Appears power that remains in effect until the Nullifier leaves play. When you play your Nullifer on theirs, it's too late.
+
+^(Source: Rule insert)
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
 *Set: The Fantastic Battles*  
@@ -3071,11 +3075,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTA3NDQzOCwtNTA3MjE0NDg1LDE1MT
-k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
-OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
-kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
-MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1ND
-EyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDks
-LTE2NTg5MzEyOTRdfQ==
+eyJoaXN0b3J5IjpbLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
+Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
+LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
+I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
+MTY1ODkzMTI5NF19
 -->
