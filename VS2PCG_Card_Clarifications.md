@@ -2279,9 +2279,11 @@ Although the Negative Zone has a (Fantastic) team affiliation, any main characte
 
 Q: Can I Daze a face down character with Net Launcher-equipped Gamora who has **Godslayer Blade** activated and KO the character?
 
-A: Net Launcher allows you to use a super power that will DAZE a character. This will allow for any stun triggers to occur, even from Gamora.  
+A: Net Launcher allows you to use a super power that will Daze a character. This will allow for any stun triggers to occur, even from Gamora.  
   
 While you are allowed to chose a face-down character for Net Launcher's super power, this does NOT mean you are stunning them. You can NOT daze/stun a character that is already stunned. Now if they are face-down because they are hidden, then sure you can daze/stun them.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # The Newborn
 *Set: The Alien Battles*
@@ -3063,11 +3065,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3ODg1Mzk2LC01MDcyMTQ0ODUsMTUxOT
-Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
-LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
-I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
-MTY1ODkzMTI5NF19
+eyJoaXN0b3J5IjpbMTgxOTAwMzEwMCwtNTA3MjE0NDg1LDE1MT
+k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
+OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
+kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
+MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1ND
+EyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDks
+LTE2NTg5MzEyOTRdfQ==
 -->
