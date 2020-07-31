@@ -2505,6 +2505,14 @@ A: Yes. You control that character for the whole turn as though it were your own
 
 ^(Source: UDE FAQ)
 
+---
+
+Q: If I stun an enemy without attacking (like with Gambit’s **Kinetic Card Throw**), will I still get the XP from **A Dream of Peace**?
+
+A: Yes.
+
+^(Source: UDE FAQ)
+
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC - New Mutants)
 *Set: New Mutants*  
 
@@ -3158,11 +3166,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwOTc1NDgzLC0zMjU1NDE0NCwtNTA3Mj
-E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
-MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
-Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
-NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
-wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
-ODg3MDA5MDldfQ==
+eyJoaXN0b3J5IjpbMTMwMzg2NzE5NSwtMzI1NTQxNDQsLTUwNz
+IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
+LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
+M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
+MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
+EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
+Mjg4NzAwOTA5XX0=
 -->
