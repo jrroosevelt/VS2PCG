@@ -1325,10 +1325,15 @@ A: The effect is asking if a character in their hand matches the team affiliatio
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-## Helmut Zemo (MC)
+## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/SVH-001.jpg) (MC)
 *Set: S.H.I.E.L.D. vs. Hydra*
 
-Q: 
+Q: If I have Zemo L1 and I play Gwenpool, do I get 5 XP or 6 XP for her?
+
+A: Zemo is a recruit trigger, if you are recruiting Gwen, she is not in play when the level up power resolves.  
+So 5. 
+
+^(Source: IM Conversation - Chad Daniel - UDE Approved)
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 *Set: Spidey-Foes*  
@@ -1337,6 +1342,9 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 
 ^(Source: Rule insert)
+
+# Hope Summers
+
 
 # Hulk
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC)
@@ -2604,11 +2612,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjI3NTk1MCwtMjA2NDU3MDg5MSwtMT
-AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
-MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
-c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
-LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
-IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
-NTA4OTAsLTEwMjYxMTU3ODJdfQ==
+eyJoaXN0b3J5IjpbODUyNDY3NzAxLC0yMDY0NTcwODkxLC0xMD
+E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
+MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
+QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
+MTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMj
+AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
+MDg5MCwtMTAyNjExNTc4Ml19
 -->
