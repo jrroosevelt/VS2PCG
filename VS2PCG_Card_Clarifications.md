@@ -1607,7 +1607,17 @@ Q: I control lvl2 Professor X and 2 Underworld supporting characters. I (until e
 
 A: You lose the game. More specifically, at the beginning of your next turn if your opponent controls your MC, you lose the game.
 
-^(Source: FB Post - Kirk)
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Can I steal an opponent's Kingpin with Purple Man after they've used **Underworld Boss** to make him their MC?
+
+A: If Kingpin uses **Underworld Boss** and becomes the MC, he is no longer an SC and effects that require an SC can not be used or played on Kingpin. In short Purple Man can NOT steal Kingpin once he becomes a MC.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 *Set: Sinister Syndicate*  
@@ -2714,7 +2724,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA3OTYzNDMsNzI3NDA4OTgwLC0yMD
+eyJoaXN0b3J5IjpbLTE2MDg1MDcwODQsNzI3NDA4OTgwLC0yMD
 Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
 MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
 U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
