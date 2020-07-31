@@ -2491,8 +2491,11 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 # Professor X
 ## Professor X (MC - The Marvel Battles)
 
+Q: If Prof X MC uses **Mental Domination** to take control of Sister Grimm MC and suicides her, does she level up?
 
+A: The default point of reference is always the controller. The controller in this case is the Professor X player. And it is during his turn and if he suicides Sister Grimm MC, it is NOT the "enemy's turn."
 
+^(Source: FB Post - Chad Daniel)
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC - New Mutants)
 *Set: New Mutants*  
 
@@ -3146,11 +3149,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA1Njg4NDYsLTMyNTU0MTQ0LC01MD
-cyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1
-MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLT
-EzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2
-NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwOD
-kxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcs
-MTI4ODcwMDkwOV19
+eyJoaXN0b3J5IjpbMTM3MDk3MDMxNiwtMzI1NTQxNDQsLTUwNz
+IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
+LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
+M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
+MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
+EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
+Mjg4NzAwOTA5XX0=
 -->
