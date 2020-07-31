@@ -1739,7 +1739,9 @@ Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a charac
 ## Loki (SC - Super Villains)
 *Set: The Marvel Battles*
 
-Q: 
+Q: Can I play 4 copies of the Marvel Villains Loki and 4 copies of the A Force Loki in the same deck effectively playing 8 copies of Loki? And can I discard either one to the other as a power up? Can I have a copy of each in play at the same time?
+
+A: 
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2795,11 +2797,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTY4MjE0MywtNjU0NjcxNjM1LC0xNz
-c1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1
-NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MD
-ksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0y
-MTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Nj
-kxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0
-MTA4MCwtMTg4MDk2NDY4Nl19
+eyJoaXN0b3J5IjpbLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMT
+c3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTcz
+NTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOT
+A5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwt
+MjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xOD
+Y5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1
+NDEwODAsLTE4ODA5NjQ2ODZdfQ==
 -->
