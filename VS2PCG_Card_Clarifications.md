@@ -1775,7 +1775,14 @@ A: Everything happens normally – he turns face down, loses all +1/+1 or -1/-1 
 
 ---
 
-Q: Cable attacks Luke and both use their powers (Impervious Skin (no other effects are played). Has Luke's power worn off by the time Cable's power stuns him
+Q: Cable attacks Luke and both use their powers (**Ultimate Soldier** and **Impervious Skin**) - no other effects are played. Has Luke's power worn off by the time Cable's power stuns him?
+
+A: Cable's power triggers at the end of combat, so Luke Cages' power has already expired by the time Cable's power has resolved. So yes, Luke gets a wound.
+
+^(Source: FB Post - Chad Daniel)
+
+# M4A1 Pulse Rifle
+
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2831,11 +2838,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzczNzgyNDIsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
-I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
-MTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMD
-E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
-MjY0MiwxNTYwOTk4MDA1XX0=
+eyJoaXN0b3J5IjpbMjE4NjQ4NzgsLTEzNDUzMTE2MDgsOTEzMT
+YwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0
+NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC
+0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1
+ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1Mj
+cwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMjY0
+MiwxNTYwOTk4MDA1XX0=
 -->
