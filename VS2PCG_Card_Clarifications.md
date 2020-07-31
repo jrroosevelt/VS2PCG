@@ -1763,7 +1763,11 @@ Q: Does Loyal Soldiers care about the affiliation of stunned characters on your 
 
 A: Yes, characters keep their affiliations even when they are stunned.
 
-^(Source: UDE Blog Preview post)
+^(Source: Tim Saunders, FB Post - Chad Daniel)
+
+# Luke Cage
+
+Q: 
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2819,11 +2823,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MjE1MDE4LC0xMzQ1MzExNjA4LDkxMz
-E2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcw
-NDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNi
-wtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDksLTE2
-NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0yMTAxNT
-I3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2
-NDIsMTU2MDk5ODAwNV19
+eyJoaXN0b3J5IjpbMTM1MDYwOTkyNiwtMTM0NTMxMTYwOCw5MT
+MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
+MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
+YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
+NjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMT
+UyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAy
+NjQyLDE1NjA5OTgwMDVdfQ==
 -->
