@@ -2472,9 +2472,12 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 Q: If I: 
 * Use Pixie's **Hallucinogenic Dust** to pull Adam Warlock
 * Use a location to recover and ready Adam Warlock
-* Then at the end of the turn I use Singularity to remove Pixie. 
+* Then at the end of the turn I use Singularity to remove Pixie...
+Does Adam Warlock get KO'd??
 
-Does Adam Warlock get ko'd??
+A: Pixie's effect becomes independent of Pixie once it brings Adam into play. So if Adam is in play at End of Turn, he will be KO'ed.
+
+^(Source: FB Post - Kirk - UDE Approved)
 
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
 *Set: The New Defenders*  
@@ -2485,7 +2488,8 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 
 ^(Source: Rule insert)
 
-# [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC)
+# Professor X
+## [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC)
 *Set: New Mutants*  
 
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
@@ -3129,11 +3133,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTkyMDAwMiwtMzI1NTQxNDQsLTUwNz
-IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
-LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
-M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
-MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
-EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
-Mjg4NzAwOTA5XX0=
+eyJoaXN0b3J5IjpbODgyNzk3NDE1LC0zMjU1NDE0NCwtNTA3Mj
+E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
+MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
+Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
+NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
+wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
+ODg3MDA5MDldfQ==
 -->
