@@ -1633,7 +1633,10 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 
 ^(Source: Rule insert)
 
-# L
+# [Lady Deathstrike](http://vs.tcgbrowser.com/images/cards/big/aff-046.jpg)
+*Set: A-Force*
+
+Q: When does Death Strike determine if Lady Deathstrike has survived the Combat if I bring her into combat with an MC with Dramatic Entrance? If she isn't stunned by the Attacking MC and activated Death Strike will the MC get 2 wounds even though Dramatic Entrance will KO her at the end of combat?
 
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
 *Set: The Predator Battles*  
@@ -2732,11 +2735,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MzM4MzExLDcyNzQwODk4MCwtMjA2ND
-U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
-MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
-wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
-MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
-QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
-NzAsLTEwOTA3NTA4OTBdfQ==
+eyJoaXN0b3J5IjpbLTUxMzE3MjAzOCw3Mjc0MDg5ODAsLTIwNj
+Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
+MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
+UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
+MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
+k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
+NjcwLC0xMDkwNzUwODkwXX0=
 -->
