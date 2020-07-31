@@ -1562,7 +1562,11 @@ A: In the case of Juggernaut it says to immediately attack a back row character,
 
 --- 
 
-Q: 
+Q: I attack with my Unstoppable Juggernaut. My opponent's front row character Plays Dead. Do I still get to trample through or no?
+
+A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did not stun the defender, his ability will not trigger.
+
+^(Source: FB Post - Chad Daniel)
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
@@ -2684,7 +2688,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjI3MjI1LDcyNzQwODk4MCwtMjA2ND
+eyJoaXN0b3J5IjpbMTQ3MDc0NjY4LDcyNzQwODk4MCwtMjA2ND
 U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
 MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
 wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
