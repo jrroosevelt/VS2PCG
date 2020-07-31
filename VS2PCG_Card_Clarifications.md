@@ -2411,12 +2411,23 @@ A: Cosmo prevents powers from working, it does NOT stop modifiers from applying 
 
 Q: What happens if Onslaught has a +1/+1 counter and is moved to Singularity's **Pocket Dimension**. He comes back as 1/1 with 0 Health, is he stunned?
 
+A: He would still be stunned since he will have wounds equal to his health (0 is equal to 0).
+
+^(Source: FB Post - Chad Daniel)
+
 # [Oz](http://vs.tcgbrowser.com/images/cards/big/TBB-019.jpg)
 *Set: The Buffy Battles*  
 
 **Lose Control** lets an enemy player force Oz to strike another Supporting Character. If Oz’s ATK is greater than or equal to that character’s DEF, Oz stuns that character.
 
 ^(Source: Rule insert)
+
+# Pain and Suffering
+*Set: Defenders*
+
+Q: Pain and Suffering has to played be during combat but does it have to target a character in the combat? It does not specify with "an attacker" or "a defender" or "a character in this combat" like cards like Even the Odds, Hidden Weapons, etc. do.
+
+A: Pain and Suffering can only affect a character in the combat.
 
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
@@ -3105,11 +3116,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjU0ODU0MSwtMzI1NTQxNDQsLTUwNz
-IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
-LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
-M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
-MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
-EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
-Mjg4NzAwOTA5XX0=
+eyJoaXN0b3J5IjpbNDQ3Nzk3Nzc3LC0zMjU1NDE0NCwtNTA3Mj
+E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
+MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
+Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
+NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
+wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
+ODg3MDA5MDldfQ==
 -->
