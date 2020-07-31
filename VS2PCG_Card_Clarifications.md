@@ -1398,7 +1398,7 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 
 ^(Source: Rule insert)
 
-# Iceman
+# [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg)
 *Set: The Marvel Battles*
 
 Q: Can I freeze a character that has already been frozen that same turn?
@@ -1470,6 +1470,9 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 **Remove Cosmic Energy** has no duration. Once you've named a super power (including one that is not currently in play if you like) enemy Supporting Characters can't use that power for the rest of the game.
 
 ^(Source: Rule insert)
+
+# Iron Fist
+
 
 # [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
 *Set: Crossover*  
@@ -2635,11 +2638,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MDU3MTk3LDcyNzQwODk4MCwtMjA2ND
-U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
-MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
-wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
-MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
-QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
-NzAsLTEwOTA3NTA4OTBdfQ==
+eyJoaXN0b3J5IjpbMTU1NzAzMTE5Nyw3Mjc0MDg5ODAsLTIwNj
+Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
+MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
+UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
+MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
+k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
+NjcwLC0xMDkwNzUwODkwXX0=
 -->
