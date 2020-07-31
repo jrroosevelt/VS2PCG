@@ -2017,7 +2017,7 @@ Q: If I’m playing with 3 players and the other two players have characters in 
 
 A: Yes. It will put a -1/-1 counter on each character in the combat.
 
-
+^(Source: UDE FAQ)
 
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
 *Set: Black Order*  
@@ -2059,6 +2059,15 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
 
 ^(Source: Rule insert)
+
+# Miss America
+*Set: A-Force*
+
+Q: If my Miss America is attacked and I use Play Dead on her, can I recover her with **Tough**? And what happens to the Combat?
+
+A: When Miss America is stunned by play dead, the combat is canceled, you may use tough to recover her and she will not get a wound.
+
+^(Source: FB Post)
 
 # [Mister Sinister](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
 *Set: Legacy*  
@@ -2964,11 +2973,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjI0MDg2NSwxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
-EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
-NzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1OD
-kzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1Mjcw
-ODYsLTE1Nzk1Njc4MDZdfQ==
+eyJoaXN0b3J5IjpbNTg4MTE5NDQxLDE3Njc5MDY1NjksMTY2OT
+gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
+ODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MS
+w3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3
+MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OT
+MxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4
+NiwtMTU3OTU2NzgwNl19
 -->
