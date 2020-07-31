@@ -2008,11 +2008,16 @@ Here are a few exemplar **Deals**:
  - "You choose a character on your side and a character on my side and we stun them both."  
  - "I discard my hand and you lose the game."  
 
-
 ^(Source: Rule insert)
 
 # Metal and Fire
-*Set: 
+*Set: The Marvel Battles*
+
+Q: If I’m playing with 3 players and the other two players have characters in combat, can I play this?
+
+A: Yes. It will put a -1/-1 counter on each character in the combat.
+
+
 
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
 *Set: Black Order*  
@@ -2959,7 +2964,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzA4NDYwNCwxNzY3OTA2NTY5LDE2Nj
+eyJoaXN0b3J5IjpbLTU5MjI0MDg2NSwxNzY3OTA2NTY5LDE2Nj
 k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
 MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
 EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
