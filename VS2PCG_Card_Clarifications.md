@@ -2395,7 +2395,13 @@ Onslaught’s power occurs when you pay to recruit him, but before he appears. T
 
 Q: What happens when Onslaught comes back from Singularity's **Pocket Dimension**? Does he keep the ATK/DEF and Health he gained from when he was recruited?
 
-A: If he is removed from the game and comes back, he is a 0/0 with 0 health. The Modifier created by Joint Consciousness can not track him between zones, so once he leaves play, it no longer applies. When he comes back into play, Joint Consciousness will not trigger.
+A: If he is removed from the game and comes back, he is a 0/0 with 0 health. The Modifier created by **Joint Consciousness** can not track him between zones, so once he leaves play, it no longer applies. When he comes back into play, **Joint Consciousness** will not trigger.
+
+^(Source: FB Post - Chad Daniel)
+
+---
+
+
 
 # [Oz](http://vs.tcgbrowser.com/images/cards/big/TBB-019.jpg)
 *Set: The Buffy Battles*  
@@ -3091,11 +3097,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NTIxOTk4LC0zMjU1NDE0NCwtNTA3Mj
-E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
-MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
-Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
-NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
-wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
-ODg3MDA5MDldfQ==
+eyJoaXN0b3J5IjpbLTgzNjM0MTA0NywtMzI1NTQxNDQsLTUwNz
+IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
+LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
+M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
+MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
+EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
+Mjg4NzAwOTA5XX0=
 -->
