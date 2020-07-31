@@ -1756,6 +1756,15 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 
 ^(Source: UDE Blog Preview post)
 
+# Loyal Soldiers
+*Set: Defenders*
+
+Q: Does Loyal Soldiers care about the affiliation of stunned characters on your side?
+
+A: Yes, characters keep their affiliations even when they are stunned.
+
+^(Source: UDE Blog Preview post)
+
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
 
@@ -2810,11 +2819,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ0MzgyMjcsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
-I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
-MTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMD
-E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
-MjY0MiwxNTYwOTk4MDA1XX0=
+eyJoaXN0b3J5IjpbODM1MjE1MDE4LC0xMzQ1MzExNjA4LDkxMz
+E2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcw
+NDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNi
+wtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDksLTE2
+NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0yMTAxNT
+I3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4NjkxMDI2
+NDIsMTU2MDk5ODAwNV19
 -->
