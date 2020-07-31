@@ -1973,6 +1973,9 @@ A: Yes.
 
 Q: Can a character who is affected by the **Prehensile Hair** ability be moved to another player's side? If they can, must they remain in the front row when moved?
 
+A: If the card uses the word move, push, pull or switch, it can not be done.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
@@ -2945,7 +2948,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzc2MDQwMiwxNzY3OTA2NTY5LDE2Nj
+eyJoaXN0b3J5IjpbMjAxODg2NDQxNiwxNzY3OTA2NTY5LDE2Nj
 k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
 MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
 EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
