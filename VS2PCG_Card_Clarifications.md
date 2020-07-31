@@ -2274,6 +2274,18 @@ Although the Negative Zone has a (Fantastic) team affiliation, any main characte
 
 ^(Source: Rule insert)
 
+# Net Launcher
+*Set: The Pr
+
+# The Newborn
+*Set: The Alien Battles*
+
+Q: If I have 1 Fortress in hand, can I discard it to pay for **Rrrraaarrrr!** since my hand will be empty from the discard?
+
+A: You need to meet all restrictions before you can pay the costs. You could not discard a location to pay for it, because if you have a location in your hand, you would not meet the restrictions.
+
+^(Source: Chad Daniel)
+
 # New Mutants
 *Set: New Mutants*  
 
@@ -3045,7 +3057,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI2MjczMzYsLTUwNzIxNDQ4NSwxNT
+eyJoaXN0b3J5IjpbLTEwNDYzNzc4OTUsLTUwNzIxNDQ4NSwxNT
 E5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1
 NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOC
 w5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3
