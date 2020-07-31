@@ -1218,7 +1218,7 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 ^(Source: Rule insert)
 
 # Green Goblin
-## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC - Crossover)
+## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC - Sinister Six)
 *Set: Crossover*  
 
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
@@ -1227,7 +1227,8 @@ Goblin’s **Bag of Tricks** allows you to discard Locations to make him more po
 
 ^(Source: Rule insert)
 
-## Green Goblin (MC)
+## Green Goblin (MC - Super Villains)
+*Set: The Marvel Battles* 
 
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 *Set: Cosmic Avengers*  
@@ -2528,11 +2529,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzI0MjI0NiwtMjA2NDU3MDg5MSwtMT
-AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
-MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
-c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
-LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
-IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
-NTA4OTAsLTEwMjYxMTU3ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0MTY4NDEwMTQsLTIwNjQ1NzA4OTEsLT
+EwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4
+NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OT
+Q3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAw
+LC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLT
+EyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkw
+NzUwODkwLC0xMDI2MTE1NzgyXX0=
 -->
