@@ -1217,7 +1217,8 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 
 ^(Source: Rule insert)
 
-# [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC)
+# Green Goblin
+## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC - Crossover)
 *Set: Crossover*  
 
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
@@ -1225,6 +1226,8 @@ The Sinister Six have gained two new Main Characters to choose from. Remember, w
 Goblin’s **Bag of Tricks** allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
 
 ^(Source: Rule insert)
+
+## Green Goblin (MC)
 
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 *Set: Cosmic Avengers*  
@@ -2525,11 +2528,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxOTE4ODcwLC0yMDY0NTcwODkxLC0xMD
-E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
-MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
-QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
-MTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMj
-AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
-MDg5MCwtMTAyNjExNTc4Ml19
+eyJoaXN0b3J5IjpbMTM2MzI0MjI0NiwtMjA2NDU3MDg5MSwtMT
+AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
+MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
+c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
+LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
+IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
+NTA4OTAsLTEwMjYxMTU3ODJdfQ==
 -->
