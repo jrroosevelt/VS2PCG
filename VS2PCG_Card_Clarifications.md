@@ -1558,6 +1558,12 @@ A: In the case of Juggernaut it says to immediately attack a back row character,
 * Juggernaut immediately attacks a back row character without exhausting.  
 * Assuming Juggernaut survives the second combat he will still be ready.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+--- 
+
+Q: 
+
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
 
@@ -2678,11 +2684,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU4MjkxNzcsNzI3NDA4OTgwLC0yMD
-Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
-MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
-U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
-LTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOT
-g5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1
-MjY3MCwtMTA5MDc1MDg5MF19
+eyJoaXN0b3J5IjpbMTg5NjI3MjI1LDcyNzQwODk4MCwtMjA2ND
+U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
+MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
+wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
+MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
+QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
+NzAsLTEwOTA3NTA4OTBdfQ==
 -->
