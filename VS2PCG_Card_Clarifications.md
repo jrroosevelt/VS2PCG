@@ -1679,7 +1679,10 @@ This Plot Twist puts two characters on your side in a Relationship. This means t
 
 ^(Source: Rule insert)
 
-# Lilith
+# [Lilith](http://vs.tcgbrowser.com/images/cards/big/LEG-072.jpg)
+*Set: Legacy*
+
+Q: If Lilith KOs Mantis or Dormammu Are they removed from game, or do their own powers happen instead? (Mantis to the row, Dormamu shuffled into the deck)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 *Set: Galactic Guardians*  
@@ -2749,11 +2752,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mjk5ODI5MCw3Mjc0MDg5ODAsLTIwNj
-Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
-MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
-UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
-MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
-k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
-NjcwLC0xMDkwNzUwODkwXX0=
+eyJoaXN0b3J5IjpbLTY0MjI4ODc2LDcyNzQwODk4MCwtMjA2ND
+U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
+MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
+wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
+MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
+QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
+NzAsLTEwOTA3NTA4OTBdfQ==
 -->
