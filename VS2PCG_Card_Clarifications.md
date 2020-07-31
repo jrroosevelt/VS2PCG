@@ -2339,7 +2339,13 @@ In this Arc, we are playing around with how players can use locations besides su
 ^(Source: Rule insert)
 
 # [The Nullifier](http://vs.tcgbrowser.com/images/cards/big/SVH-057.jpg)
+*Set: S.H.I.E.L.D. vs. Hydra*
+
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
+
+---
+
+Q: 
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
 *Set: The Fantastic Battles*  
@@ -3065,7 +3071,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTAwMzEwMCwtNTA3MjE0NDg1LDE1MT
+eyJoaXN0b3J5IjpbMTU5MTA3NDQzOCwtNTA3MjE0NDg1LDE1MT
 k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
 OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
 kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
