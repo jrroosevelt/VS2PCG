@@ -1307,10 +1307,18 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 
 ^(Source: Rule insert)
 
-# [Helmut Zero](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg)
+# [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg)
 *Set: Defenders*
 
-Q: If I use the Sow Distrust power and my opponent's MC is stunned, does that mean I can choose any character in their hand?
+Q: If I use the **Sow Distrust** power and my opponent's MC is stunned, does that mean I can choose any character in their hand?
+
+A: Stunned characters keep their team affiliation so it doesn't matter if the MC is face up or stunned.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: If I use **Sow Distrust** on my opponent and she has her MC removed from game ( suwith Singularity, can I pick any card I want?
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 *Set: Spidey-Foes*  
@@ -2586,7 +2594,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTAyNzczMCwtMjA2NDU3MDg5MSwtMT
+eyJoaXN0b3J5IjpbMTc2Mjc3NDc3NiwtMjA2NDU3MDg5MSwtMT
 AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
 MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
 c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
