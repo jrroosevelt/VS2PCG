@@ -2301,13 +2301,23 @@ The New Mutants are a part of the (X-Men) team. However, there are certain effec
 
 ^(Source: Rule insert)
 
-# [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC)
+# Nick Fury
+## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC)
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 **Infinity Formula**  
 Nick Fury has a Super Power which keeps him alive. But once you use the power the first time, you must continue using it on each of your successive turns. Otherwise Fury will get KO’d.
 
 ^(Source: Rule insert)
+
+## Nick Fury (SC-Avengers)
+*Set: The Marvel Battles*
+
+Q: Do I have to show my opponent the card I put into my resource row?
+
+A: No. When you activate his power, take the top card of your deck and place it face down. However, if it’s a Location you can place it face up instead.
+
+^(Source: C)
 
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
 *Set: Galactic Guardians*  
@@ -3075,11 +3085,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
-Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
-LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
-I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
-MTY1ODkzMTI5NF19
+eyJoaXN0b3J5IjpbLTEyODI0NDIwOTcsLTMyNTU0MTQ0LC01MD
+cyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1
+MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLT
+EzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2
+NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwOD
+kxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcs
+MTI4ODcwMDkwOV19
 -->
