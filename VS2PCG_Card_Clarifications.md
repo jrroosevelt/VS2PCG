@@ -1745,7 +1745,7 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 2) You can discard each one to power up the other, they are the same character for game purposes.   
 3) No, you can not have both versions in play at the same time, they are the same character for game purposes and the Uniqueness rule.
 
-^(Source: Rule insert)
+^(Source: UDE Blog Preview post)
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2801,11 +2801,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NT
-Q2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcw
-ODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMT
-csMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02
-MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNT
-UxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2
-OTg3LC0xMjAyNTQxMDgwXX0=
+eyJoaXN0b3J5IjpbLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMD
+A4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4
+OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MD
+U1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwy
+MDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nz
+k1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4
+MDA1LC0xOTg5NDA2OTg3XX0=
 -->
