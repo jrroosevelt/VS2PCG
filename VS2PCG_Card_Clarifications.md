@@ -2534,7 +2534,16 @@ A: You choose where to move it back to.
 ^(Source: UDE FAQ)
 
 # Punisher
-*
+*Set: The Defenders*
+
+Q: If I'm ranged team attacking with Punisher and Star-Lord, can I activate **Perfect Position** and choose to have the ranged defender strike back at Punisher? Hereby avoiding the damage?
+
+A: Yes. This also works with Namor team attacking alongside a Leader against a back row character.
+
+^(Source: Chad Daniel)
+
+# Purple Man
+*Set
 
 # [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
 *Set: Brotherhood of Mutants*  
@@ -3169,11 +3178,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzY5MDQzOCwtMzI1NTQxNDQsLTUwNz
-IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
-LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
-M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
-MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
-EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
-Mjg4NzAwOTA5XX0=
+eyJoaXN0b3J5IjpbNjk0MDcyMDQ2LC0zMjU1NDE0NCwtNTA3Mj
+E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
+MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
+Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
+NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
+wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
+ODg3MDA5MDldfQ==
 -->
