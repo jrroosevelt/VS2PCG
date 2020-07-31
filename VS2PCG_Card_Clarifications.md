@@ -1352,7 +1352,7 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 ^(Source: UDE FAQ)
 
 # Hulk
-## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC)
+## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC - Ph)
 *Set: The MCU Battles*  
 
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
@@ -2617,11 +2617,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMD
-E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
-MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
-QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
-MTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMj
-AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
-MDg5MCwtMTAyNjExNTc4Ml19
+eyJoaXN0b3J5IjpbMTQ3MTU4NDI3Myw3Mjc0MDg5ODAsLTIwNj
+Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
+MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
+UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
+MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
+k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
+NjcwLC0xMDkwNzUwODkwXX0=
 -->
