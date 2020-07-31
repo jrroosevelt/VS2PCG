@@ -2175,6 +2175,16 @@ Q: Ok, what if she has three -1/-1 counters on her, giving her basically -2 Atta
 
 A: 4 XP . From the rule book: ATK values that are below 0 are treated as 0 except when trying to raise or lower them. In the latter case, always use the real value.
 
+^(Source: FB Post - Kirk)
+
+---
+
+Q: Does adding counters count as her gaining ATK? What about Trickster God switching her ATK/DEF, would she gain 5 xp as she turns into a 6/1?
+
+A: Yes and Yes.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 ## Mystique (SC)
 *Set: The Marvel Battles**
 
@@ -2191,6 +2201,8 @@ Q: What happens if Mystique has any +1/+1 counters when I use Impersonate?
 A: Apply the +1/+1s after her stats change. For example, let’s say she has two +1/+1 counters and she Impersonate’s a 4/7 character. She’ll become 4/7 with two +1/+1 counters for an end result of 6/9.
 
 ^(Source: UDE FAQ)
+
+
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
 *Set: The New Defenders*  
@@ -3012,11 +3024,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDAwNDMzOSwxNTE5NDQyMjY0LC05MT
-AxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5
-OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLT
-IwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0
-MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOT
-QwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0
-LDIwMTQ4NTY2NTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMTY2ODc2MTYsMTUxOTQ0MjI2NCwtOT
+EwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0
+OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC
+0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3
+NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMT
+k0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5
+NCwyMDE0ODU2NjU1XX0=
 -->
