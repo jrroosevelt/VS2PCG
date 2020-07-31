@@ -1698,7 +1698,21 @@ A: No, Lilith has to survive the combat.
 
 ---
 
-Q: If Lilith KO's my supporting character, can I save it with Envelop?
+Q: If Lilith KO's my supporting character, can I save it with Singularity's **Envelop**?
+
+A: Yes, a reaction super power will resolve before the **Vampirism** trigger.
+
+^(Source: Chad Daniel)
+
+---
+
+Q: If I play a second Lilith, KOing the first, does she get an extra Health?
+
+A: No, for Uniqueness violations, it's the game forcing the KO not any character.
+
+^(Source: FB Post - Kirk)
+
+---
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 *Set: Galactic Guardians*  
@@ -2768,11 +2782,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0OTgwNTQ5LDcyNzQwODk4MCwtMjA2ND
-U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
-MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
-wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
-MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
-QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
-NzAsLTEwOTA3NTA4OTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMD
+Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
+MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
+U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
+LTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOT
+g5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1
+MjY3MCwtMTA5MDc1MDg5MF19
 -->
