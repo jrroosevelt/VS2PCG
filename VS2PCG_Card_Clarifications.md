@@ -1955,7 +1955,9 @@ A: "Can't be moved" only applies to effects that use the words move, pull, push 
 
 ---
 
+Q: Can a defending character locked down by Medusa be replaced in the combat & moved with Uncanny Defense or Spiderman MC?
 
+A: 
 
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
 *Set: The Fantastic Battles*  
@@ -2927,11 +2929,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xND
-IwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3
-MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MC
-wtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwx
-NzA1MTIxMTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxND
-g1NjY1NSwtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3
-ODA2LC0zMjU1MTI4MDBdfQ==
+eyJoaXN0b3J5IjpbMjQyMzU1MzgwLDE3Njc5MDY1NjksMTY2OT
+gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
+ODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MS
+w3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3
+MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OT
+MxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4
+NiwtMTU3OTU2NzgwNl19
 -->
