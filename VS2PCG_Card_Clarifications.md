@@ -1238,7 +1238,11 @@ A: First, you choose which character you want to stun. Then your opponent may di
 
 ---
 
-A
+Q: Green Goblin gets xp for stunning an enemy if he is stunned back, right?
+
+A: Yes.
+
+^(Source: FB Post - Tim Saunders - UDE Approved)
 
 
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
@@ -2540,11 +2544,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjE4OTIzLC0yMDY0NTcwODkxLC0xMD
-E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
-MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
-QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
-MTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMj
-AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
-MDg5MCwtMTAyNjExNTc4Ml19
+eyJoaXN0b3J5IjpbLTE3MDc2MjEyNTMsLTIwNjQ1NzA4OTEsLT
+EwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4
+NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OT
+Q3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAw
+LC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLT
+EyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkw
+NzUwODkwLC0xMDI2MTE1NzgyXX0=
 -->
