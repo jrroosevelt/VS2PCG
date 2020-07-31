@@ -1892,6 +1892,14 @@ A: Yes.
 
 ^(Source: UDE FAQ)
 
+---
+
+Q: If an opponent steals my Mantis (using Professor X) and then she gets KO’d, who gets to use her **Rebirth** effect?
+
+A: Whoever currently controls the card gets to choose whether to use the **Rebirth** effect. However, she can only be placed in the Resource Row of her owner. In the example, that will be you.
+
+^(Source: UDE FAQ)
+
 # Marvel Required (Equipment)
 *Set: S.H.I.E.L.D. vs Hydra*   
  
@@ -2906,11 +2914,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzY2NzQxNiwtMTM0NTMxMTYwOCw5MT
-MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
-MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
-YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
-NjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMT
-UyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAy
-NjQyLDE1NjA5OTgwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
+I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
+MTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMD
+E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
+MjY0MiwxNTYwOTk4MDA1XX0=
 -->
