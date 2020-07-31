@@ -1340,11 +1340,16 @@ So 5.
 
 As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appears" powers on face-up Green Goblin characters on your side (like **Blast**).
 
-
 ^(Source: Rule insert)
 
-# Hope Summers
+# [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg)
+*Set: The Marvel Battles*
 
+Q: How does this power work?
+
+A: While she is in play, she has all the powers of each face-up X-Men supporting character on your side. This includes, but not limited to, appears powers (like Iceman and Emma Frost), Flight, and Range.
+
+^(Source: UDE FAQ)
 
 # Hulk
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC)
@@ -2612,7 +2617,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNDY3NzAxLC0yMDY0NTcwODkxLC0xMD
+eyJoaXN0b3J5IjpbNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMD
 E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
 MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
 QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
