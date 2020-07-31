@@ -1576,9 +1576,12 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ^(Source: Rule insert)
 
 # The Kingpin
-## The Kingpin (MC)
+## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
 *Set: Defenders*
 
+Q: When I discard a Location card to use a Super Power does that give Kingpin an XP?
+
+A: No, "appears" means to come into play from anywhere, so the Location has to be put into play. So playing one from your hand into your resource row or putting one into play from the top of your deck with Nick Fury would count. Discarding does not.
 
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-047.jpg) (SC)
 *Set: The Defenders*  
@@ -2693,11 +2696,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY1NjM3Myw3Mjc0MDg5ODAsLTIwNj
-Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
-MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
-UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
-MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
-k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
-NjcwLC0xMDkwNzUwODkwXX0=
+eyJoaXN0b3J5IjpbMjI1NjYwNjUzLDcyNzQwODk4MCwtMjA2ND
+U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
+MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
+wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
+MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
+QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
+NzAsLTEwOTA3NTA4OTBdfQ==
 -->
