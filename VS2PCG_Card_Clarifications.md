@@ -2317,7 +2317,7 @@ Q: Do I have to show my opponent the card I put into my resource row?
 
 A: No. When you activate his power, take the top card of your deck and place it face down. However, if it’s a Location you can place it face up instead.
 
-^(Source: C)
+^(Source: Chad Daniel)
 
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
 *Set: Galactic Guardians*  
@@ -3085,7 +3085,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI0NDIwOTcsLTMyNTU0MTQ0LC01MD
+eyJoaXN0b3J5IjpbLTExMTYzMDE5ODksLTMyNTU0MTQ0LC01MD
 cyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1
 MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLT
 EzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2
