@@ -374,7 +374,7 @@ A: His power will still trigger and stun the defender even though Cable himself 
 
 ^(Source: UDE FAQ)
 
-# Captain America (MC)
+# [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
 *Set: The Marvel Battles*
 
 Q: Does his **Avengers Assemble** power work even if he’s not one of the team attackers?
@@ -451,7 +451,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
 
-# Copycat
+# [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
 *Set: Deadpool & Friends*
 
 Q: If I remove Copycat to Singularity's **Pocket Dimension** with two other characters, when all 3 return does Copycat get all the powers of the other two supporting characters she returned with?
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMj
-U1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4
-Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xND
-IwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3
-MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MC
-wtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwx
-NzA1MTIxMTE3XX0=
+eyJoaXN0b3J5IjpbMTQ0NzAwODA1NSwtOTI3ODAxMDY1LDEwMT
+UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
+NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
+k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
+MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
+EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
+NzIxMTk0MDU1XX0=
 -->
