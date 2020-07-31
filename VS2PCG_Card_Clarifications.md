@@ -2496,6 +2496,15 @@ Q: If Prof X MC uses **Mental Domination** to take control of Sister Grimm MC an
 A: The default point of reference is always the controller. The controller in this case is the Professor X player. And it is during his turn and if he suicides Sister Grimm MC, it is NOT the "enemy's turn."
 
 ^(Source: FB Post - Chad Daniel)
+
+---
+
+Q: Can I steal a Main Character with **Mental Domination**?
+
+A: Yes. You control that character for the whole turn as though it were your own. If it gets stunned, it takes a wound as normal. If that wound would KO it, it gets KO’d as normal and that player is out of the game. It can even gain XP and level up, but we would recommend against doing that for your opponent.
+
+^(Source: UDE FAQ)
+
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC - New Mutants)
 *Set: New Mutants*  
 
@@ -3149,11 +3158,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDk3MDMxNiwtMzI1NTQxNDQsLTUwNz
-IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
-LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
-M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
-MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
-EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
-Mjg4NzAwOTA5XX0=
+eyJoaXN0b3J5IjpbNzAwOTc1NDgzLC0zMjU1NDE0NCwtNTA3Mj
+E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
+MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
+Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
+NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
+wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
+ODg3MDA5MDldfQ==
 -->
