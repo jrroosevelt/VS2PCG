@@ -1471,8 +1471,14 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 
 ^(Source: Rule insert)
 
-# Iron Fist
+# [Iron Fist](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
+*Set: Defenders*
 
+Q: If my opponent attacks my character and uses **Iron Fist Punch** and I play Shock to the System reducing Iron Fist's attack to 0, he does not strike to stun, correct?
+
+A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does not stun the character with his Iron Fist Punch.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
 *Set: Crossover*  
@@ -2638,11 +2644,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzAzMTE5Nyw3Mjc0MDg5ODAsLTIwNj
-Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
-MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
-UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
-MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
-k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
-NjcwLC0xMDkwNzUwODkwXX0=
+eyJoaXN0b3J5IjpbODg0ODEyMTMwLDcyNzQwODk4MCwtMjA2ND
+U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
+MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
+wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
+MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
+QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
+NzAsLTEwOTA3NTA4OTBdfQ==
 -->
