@@ -1369,8 +1369,11 @@ Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mnb-004.jpg) (MC - Illustrated)
 *Set: The Marvel Battles*
 
-Q: 
+Q: For his **Banner’s Influence** power, can I just remove some +1/+1 counters?
 
+A: No, you must remove them all.
+
+^(Source: UDE FAQ)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/DFX-018.jpg) (SC - Illustrated)
 *Set: The New Defenders*  
@@ -2623,7 +2626,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA1MTQ1NTEsNzI3NDA4OTgwLC0yMD
+eyJoaXN0b3J5IjpbLTIwNzE3MTM1NTksNzI3NDA4OTgwLC0yMD
 Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
 MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
 U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
