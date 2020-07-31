@@ -2574,7 +2574,9 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 
 Q: How does **Dust of Death** work?
 
+A: It will stun one character that is melee attacking the Red Skull. If that was the only attacker in the combat, the combat will be canceled.
 
+^(Source: UDE FAQ)
 
 # Rhino
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/CV1-013.jpg) (Sinister Syndicate)
@@ -3191,7 +3193,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTkzODIwOCwxMDE1MDcxMzQ2LC0zMj
+eyJoaXN0b3J5IjpbLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMj
 U1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4
 Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xND
 IwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3
