@@ -1729,6 +1729,15 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 
 # Loki
 
+## Loki (MC)
+*Set: The Marvel Battles*
+
+Q: How does his **God of Mischief** power work?
+
+A: During combat when you activate that power, you immediately choose and play an anytime Combat Plot Twist from your KO pile, as though you played it from hand. Then when it resolves, shuffle it into your deck.
+
+^(Source: UDE FAQ)
+
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC - Photo)
 *The MCU Battles*  
 
@@ -2801,11 +2810,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMD
-A4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4
-OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MD
-U1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwy
-MDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nz
-k1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4
-MDA1LC0xOTg5NDA2OTg3XX0=
+eyJoaXN0b3J5IjpbLTExNjQ0MzgyMjcsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MT
+I2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwt
+MTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMD
+E1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEw
+MjY0MiwxNTYwOTk4MDA1XX0=
 -->
