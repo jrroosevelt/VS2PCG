@@ -2242,7 +2242,7 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 
 ^(Source: Rule insert)
 
-## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-012.jpg) (SC - Illustrated)
+## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-012.jpg) (SC - Black Order)
 *Set: Black Order*  
 
 **A New Order Exists Within the Universe** checks to see if an enemy character shares at least one team affiliation with a main character on its side. If the main character has no team affiliation, then no supporting characters on its side can share a team affiliation with it. 
@@ -2250,6 +2250,9 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 **Note:** This is not a super power even though it requires Nebula to pay a (Might/"Green").
 
 ^(Source: Rule insert)
+
+## Nebula (SC - Femme Fatales)
+*Set: 
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/mcu1-050.jpg) (SC - Photo)
 *Set: The MCU Battles*  
@@ -3036,11 +3039,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MT
-AxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5
-OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLT
-IwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0
-MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOT
-QwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0
-LDIwMTQ4NTY2NTVdfQ==
+eyJoaXN0b3J5IjpbMTE3NDk1MjY5NCwtNTA3MjE0NDg1LDE1MT
+k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
+OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
+kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
+MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1ND
+EyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDks
+LTE2NTg5MzEyOTRdfQ==
 -->
