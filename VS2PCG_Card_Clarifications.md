@@ -1245,6 +1245,18 @@ A: Yes.
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
 # Groot
+## Groot (MC)
+*Set: The Marvel Battles*
+
+Q: Why are so many of his powers called **I am Groot**?
+
+A: I am Groot.
+
+^(Source: UDE FAQ)
+
+---
+
+
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-070.jpg) (SC)
 *Set: The Marvel Battles*
 
@@ -2555,11 +2567,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODYzNzU2MCwtMjA2NDU3MDg5MSwtMT
-AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
-MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
-c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
-LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
-IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
-NTA4OTAsLTEwMjYxMTU3ODJdfQ==
+eyJoaXN0b3J5IjpbMTQ3MDI2MzAwLC0yMDY0NTcwODkxLC0xMD
+E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
+MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
+QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
+MTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMj
+AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
+MDg5MCwtMTAyNjExNTc4Ml19
 -->
