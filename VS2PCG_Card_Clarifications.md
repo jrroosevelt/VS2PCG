@@ -2401,8 +2401,15 @@ A: If he is removed from the game and comes back, he is a 0/0 with 0 health. The
 
 ---
 
-Q: What happens if I Nullify Onslaught with Cosmo?
+Q: What happens if I **Nullify** Onslaught with Cosmo?
 
+A: Cosmo prevents powers from working, it does NOT stop modifiers from applying to a character. Once **Joint Consciousness** has resolved and established the base stats, using Cosmo on him will NOT change that. It will only suppress any powers he may have gained.
+
+^(Source: FB Post - Chad Daniel)
+
+---
+
+Q: What happens if Onslaught has a +1/+1 counter and is moved to Singularity's **Pocket Dimension**. He comes back as 1/1 with 0 Health, is he stunned?
 
 # [Oz](http://vs.tcgbrowser.com/images/cards/big/TBB-019.jpg)
 *Set: The Buffy Battles*  
@@ -3098,11 +3105,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIwNTY4NjMsLTMyNTU0MTQ0LC01MD
-cyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1
-MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLT
-EzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2
-NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwOD
-kxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcs
-MTI4ODcwMDkwOV19
+eyJoaXN0b3J5IjpbLTUwNjU0ODU0MSwtMzI1NTQxNDQsLTUwNz
+IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
+LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
+M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
+MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
+EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
+Mjg4NzAwOTA5XX0=
 -->
