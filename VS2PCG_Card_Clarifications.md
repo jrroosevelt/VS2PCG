@@ -2543,7 +2543,13 @@ A: Yes. This also works with Namor team attacking alongside a Leader against a b
 ^(Source: Chad Daniel)
 
 # Purple Man
-*Set
+*Set: Defenders*
+
+Q: How does Cosmo interact with a Purple Man that has already stolen a character in the turn it came into play?
+
+A: Once Purple man's power has been activated and resolved, it is independent of its source. Cosmo removing his power after the fact has no effect on a modifier from a previously resolved power.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
 *Set: Brotherhood of Mutants*  
@@ -3178,11 +3184,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MDcyMDQ2LC0zMjU1NDE0NCwtNTA3Mj
-E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
-MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
-Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
-NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
-wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
-ODg3MDA5MDldfQ==
+eyJoaXN0b3J5IjpbMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNz
+IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
+LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
+M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
+MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
+EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
+Mjg4NzAwOTA5XX0=
 -->
