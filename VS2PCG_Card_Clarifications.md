@@ -2542,7 +2542,7 @@ A: Yes. This also works with Namor team attacking alongside a Leader against a b
 
 ^(Source: Chad Daniel)
 
-# Purple Man
+# [Purple Man](http://vs.tcgbrowser.com/images/cards/big/def-045.jpg)
 *Set: Defenders*
 
 Q: How does Cosmo interact with a Purple Man that has already stolen a character in the turn it came into play?
@@ -3184,11 +3184,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNz
-IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
-LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
-M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
-MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
-EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
-Mjg4NzAwOTA5XX0=
+eyJoaXN0b3J5IjpbLTQ2MzE3NTI3MCwxMDE1MDcxMzQ2LC0zMj
+U1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4
+Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xND
+IwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3
+MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MC
+wtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwx
+NzA1MTIxMTE3XX0=
 -->
