@@ -1266,7 +1266,9 @@ A: You switch his Level 2 version with his Level 1 version the same way you swit
 
 Q: Can Groot gain XP and level up again if he used his Super Power and became level 1?
 
+A: Yes
 
+^(Source: UDE FAQ)
 
 
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-070.jpg) (SC)
@@ -1304,6 +1306,11 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 **Ferocious** means – While in melee combat, Headsman strikes before characters without Ferocious.
 
 ^(Source: Rule insert)
+
+# [Helmut Zero](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg)
+*Set: Defenders*
+
+Q: If I use the Sow Distrust power and my opponent's MC is stunned, does that mean I can choose any character in their hand?
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 *Set: Spidey-Foes*  
@@ -2579,11 +2586,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIxNjgwMzEsLTIwNjQ1NzA4OTEsLT
-EwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4
-NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OT
-Q3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAw
-LC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLT
-EyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkw
-NzUwODkwLC0xMDI2MTE1NzgyXX0=
+eyJoaXN0b3J5IjpbMTc3OTAyNzczMCwtMjA2NDU3MDg5MSwtMT
+AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
+MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
+c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
+LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
+IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
+NTA4OTAsLTEwMjYxMTU3ODJdfQ==
 -->
