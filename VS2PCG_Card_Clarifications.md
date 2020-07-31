@@ -1727,12 +1727,19 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 
 ^(Source: Rule insert)
 
-# [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC)
+# Loki
+
+## [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC - Photo)
 *The MCU Battles*  
 
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
 
 ^(Source: Rule insert)
+
+## Loki (SC - Super Villains)
+*Set: The Marvel Battles*
+
+Q: 
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2788,11 +2795,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MSw3Mj
-c0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjEx
-OTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMj
-k0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4Niwt
-MTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1Nj
-A5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5
-NjQ2ODYsNjk5MTUyNjcwXX0=
+eyJoaXN0b3J5IjpbLTgzMTY4MjE0MywtNjU0NjcxNjM1LC0xNz
+c1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1
+NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MD
+ksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5NDc0LC0y
+MTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAsLTE4Nj
+kxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMTIwMjU0
+MTA4MCwtMTg4MDk2NDY4Nl19
 -->
