@@ -1490,8 +1490,11 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 # [Ironman](http://vs.tcgbrowser.com/images/cards/big/mnb-005.jpg) (MC)
 *Set: The Marvel Battles*
 
+Q: For his **Armor Mk 3** power, can Iron Man be the one who powered-up?
 
+A: Yes. It can be Iron Man or another character on your side.
 
+^(Source: UDE FAQ)
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
 *Set: The MCU Battles*  
@@ -1523,12 +1526,16 @@ This power refers to (Intellect/Light bulb) super powers. This counts for any su
 
 ^(Source: Rule insert)
 
-# [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
+# Juggernaut
+## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
 *Set: Brotherhood of Mutants*  
 
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
 ^(Source: Rule insert)
+
+## Juggernaut (SC)
+*Set: 
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
@@ -2650,7 +2657,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDIyNDY1Nyw3Mjc0MDg5ODAsLTIwNj
+eyJoaXN0b3J5IjpbMTU2NDc2ODM0NCw3Mjc0MDg5ODAsLTIwNj
 Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
 MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
 UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
