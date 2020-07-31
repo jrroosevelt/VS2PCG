@@ -1245,7 +1245,7 @@ A: Yes.
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
 # Groot
-## Groot (MC)
+## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
 *Set: The Marvel Battles*
 
 Q: Why are so many of his powers called **I am Groot**?
@@ -1263,6 +1263,9 @@ A: You switch his Level 2 version with his Level 1 version the same way you swit
 ^(Source: UDE FAQ)
 
 ---
+
+Q: Can Groot gain XP and level up again if he used his Super Power and became level 1?
+
 
 
 
@@ -2576,11 +2579,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTUwNTE2OCwtMjA2NDU3MDg5MSwtMT
-AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
-MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
-c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
-LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
-IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
-NTA4OTAsLTEwMjYxMTU3ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0NDIxNjgwMzEsLTIwNjQ1NzA4OTEsLT
+EwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4
+NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OT
+Q3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAw
+LC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLT
+EyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkw
+NzUwODkwLC0xMDI2MTE1NzgyXX0=
 -->
