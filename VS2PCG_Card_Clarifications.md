@@ -1793,7 +1793,12 @@ Since the equipment is giving the powers to the character, it would be prevented
 
 ---
 
-Q: 
+Q: Does activating the **M-40 Grenade** give Storm MC an XP?
+
+A: "The Equipment gives the character new powers and will stay with it until that character gets stunned or leaves play."    
+So the character has the power and the character is using it, so yes, this would count for Storm.
+
+
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2849,7 +2854,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzU5NzcwOCwtMTM0NTMxMTYwOCw5MT
+eyJoaXN0b3J5IjpbMTA0ODEwODEwNywtMTM0NTMxMTYwOCw5MT
 MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
 MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
 YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
