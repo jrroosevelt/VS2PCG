@@ -1949,6 +1949,14 @@ The Gift of Death will instantly KO its assigned character. The other four grant
 
 Q: If you use Medusa's **Prehensile Hair** ability can that character be removed with Singularity? I know it says can't be moved but I am not sure if that just refers to front of back row.
 
+A: "Can't be moved" only applies to effects that use the words move, pull, push and switch.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+
+
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
 *Set: The Fantastic Battles*  
 
@@ -2919,11 +2927,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
-M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
-MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
-EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
-Mjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNz
-A5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEy
-ODAwLC0xODY5MTAyNjQyXX0=
+eyJoaXN0b3J5IjpbMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xND
+IwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3
+MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MC
+wtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwx
+NzA1MTIxMTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxND
+g1NjY1NSwtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3
+ODA2LC0zMjU1MTI4MDBdfQ==
 -->
