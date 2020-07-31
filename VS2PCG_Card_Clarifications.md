@@ -1583,11 +1583,21 @@ Q: When I discard a Location card to use a Super Power does that give Kingpin an
 
 A: No, "appears" means to come into play from anywhere, so the Location has to be put into play. So playing one from your hand into your resource row or putting one into play from the top of your deck with Nick Fury would count. Discarding does not.
 
+^(Source: FB Post - Kirk)
+
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-047.jpg) (SC)
 *Set: The Defenders*  
 
 **Underworld Boss**  
 The Kingpin Supporting Character has a Super Power where he takes over as your main character. When this happens, your former Main Character becomes a Supporting Character and remains in the game. It can still gain XP and Level Up, but you don’t lose the game if it gets KO’d. Instead, you now lose the game when Kingpin gets KO’d.
+
+^(Source: Rule insert)
+
+---
+
+Q: If Kingpin (SC) becomes my Main Character will Groot (my former MC) still be able to level down? And if so will he sill get XP later on?
+
+A: Groot retains his powers and Level Up ability, and **We Are Groot** is a Super Power that puts him back to Level 1, so yes.
 
 ^(Source: Rule insert)
 
@@ -2696,11 +2706,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NjYwNjUzLDcyNzQwODk4MCwtMjA2ND
-U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
-MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
-wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
-MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
-QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
-NzAsLTEwOTA3NTA4OTBdfQ==
+eyJoaXN0b3J5IjpbLTExNjc1NzY2MTcsNzI3NDA4OTgwLC0yMD
+Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
+MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
+U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
+LTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOT
+g5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1
+MjY3MCwtMTA5MDc1MDg5MF19
 -->
