@@ -2122,7 +2122,13 @@ When Mr. Black and the defender strike each other:
 ^(Source: Rule insert)
 
 # Ms. Marvel
-*Set: The Marvel Battles
+*Set: The Marvel Battles*
+
+Q: Does Ms. Marvel's **Energy Absorption** count stunned characters?
+
+A: No, because stunned character lose their powers including the Ranged symbol.
+
+^(Source: UDE FAQ)
 
 # Mysterio
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC)
@@ -2976,11 +2982,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTI5MjI5MCwxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
-EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
-NzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1OD
-kzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1Mjcw
-ODYsLTE1Nzk1Njc4MDZdfQ==
+eyJoaXN0b3J5IjpbNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
+gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
+ODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MS
+w3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3
+MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OT
+MxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4
+NiwtMTU3OTU2NzgwNl19
 -->
