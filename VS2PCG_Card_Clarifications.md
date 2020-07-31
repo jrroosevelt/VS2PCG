@@ -562,7 +562,7 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 ^(Source: Rule insert)
 
 # Deadpool
-## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC)
+## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
 *Set: Deadpool & Friends*
 
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
@@ -590,7 +590,7 @@ Here are some quick tips:
 
 ^(Source: Rule insert)
 
-## Deadpool (MC)
+## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-031.jpg) (MC- - X)
 *Set: The Marvel Battles*
 
 Q: If I use **Merc With a Mouth** to make my Gambit or Dazzler Lethal, will they KO a character by using their Super Powers to stun them?
@@ -634,7 +634,7 @@ A: No, the other characters don’t know what a player is.
 
 ---
 
-## Deadpool (SC)
+## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-039.jpg) (SC)
 *Set: The Marvel Battles*
 
 Q: If I have both Silver Sable and Deadpool, can they both enter a team attack with my Main Character?
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzAwODA1NSwtOTI3ODAxMDY1LDEwMT
-UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
-NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
-EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
-NzIxMTk0MDU1XX0=
+eyJoaXN0b3J5IjpbLTE2MzE3MTAxNDgsLTkyNzgwMTA2NSwxMD
+E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
+NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
+Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
+MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwND
+cxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwt
+MTcyMTE5NDA1NV19
 -->
