@@ -1599,7 +1599,15 @@ Q: If Kingpin (SC) becomes my Main Character will Groot (my former MC) still be 
 
 A: Groot retains his powers and Level Up ability, and **We Are Groot** is a Super Power that puts him back to Level 1, so yes.
 
-^(Source: Rule insert)
+^(Source: FB Post - Kirk)
+
+---
+
+Q: I control lvl2 Professor X and 2 Underworld supporting characters. I (until end of turn) gain control of your Kingpin SC. I activate Kingpin's super power and he becomes my main character. I end my turn and return control of your Kingpin SC (my MC). You could hypothetically KO my entire board and be unable to KO my main character. What rules are there dealing with this?
+
+A: You lose the game. More specifically, at the beginning of your next turn if your opponent controls your MC, you lose the game.
+
+^(Source: FB Post - Kirk)
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 *Set: Sinister Syndicate*  
@@ -2706,7 +2714,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc1NzY2MTcsNzI3NDA4OTgwLC0yMD
+eyJoaXN0b3J5IjpbLTEyMjA3OTYzNDMsNzI3NDA4OTgwLC0yMD
 Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
 MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
 U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
