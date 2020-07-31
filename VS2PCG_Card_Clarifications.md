@@ -1977,6 +1977,14 @@ A: If the card uses the word move, push, pull or switch, it can not be done.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+# Meggan
+*Set: A-Force* 
+
+Q: Do counters count on face down characters such as Carnage for her ability?
+
+A: Yes. Meggan's ability doesn't specifically say face up characters. It is a character and it has counters so it counts.
+
+
 
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
 *Set: The Fantastic Battles*  
@@ -2948,7 +2956,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODg2NDQxNiwxNzY3OTA2NTY5LDE2Nj
+eyJoaXN0b3J5IjpbMTU3MTM4OTIyNSwxNzY3OTA2NTY5LDE2Nj
 k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
 MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
 EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
