@@ -2176,7 +2176,9 @@ A: Nothing. Mystique locks in whatever that character’s current ATK and DEF ar
 
 Q: What happens if Mystique has any +1/+1 counters when I use Impersonate?
 
-A: 
+A: Apply the +1/+1s after her stats change. For example, let’s say she has two +1/+1 counters and she Impersonate’s a 4/7 character. She’ll become 4/7 with two +1/+1 counters for an end result of 6/9.
+
+^(Source: UDE FAQ)
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
 *Set: The New Defenders*  
@@ -2998,11 +3000,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
-I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
-ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
-02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
-NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMj
-ExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1
-LC02MzcwOTk0NzRdfQ==
+eyJoaXN0b3J5IjpbMTc5NDYxMzUsMTUxOTQ0MjI2NCwtOTEwMT
+E2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgs
+LTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMD
+A4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4
+OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MD
+U1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwy
+MDE0ODU2NjU1XX0=
 -->
