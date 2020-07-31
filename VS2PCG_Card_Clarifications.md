@@ -1307,7 +1307,8 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 
 ^(Source: Rule insert)
 
-# [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg)
+# Helmut Zemo
+## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg) (SC)
 *Set: Defenders*
 
 Q: If I use the **Sow Distrust** power and my opponent's MC is stunned, does that mean I can choose any character in their hand?
@@ -1318,7 +1319,13 @@ A: Stunned characters keep their team affiliation so it doesn't matter if the MC
 
 ---
 
-Q: If I use **Sow Distrust** on my opponent and she has her MC removed from game ( suwith Singularity, can I pick any card I want?
+Q: If I use **Sow Distrust** on my opponent and she has her MC removed from game (such as with Singularity), can I pick any card I want?
+
+A: The effect is asking if a character in their hand matches the team affiliation of their MC. If the opponent does not have an MC at the time the effect resolves, then any character the player chooses, "will not share a team affiliation with that players main character." As he does not have one. Short of it, you can discard any character you like.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+## Helmut Zemo (MC)
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 *Set: Spidey-Foes*  
@@ -2594,11 +2601,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mjc3NDc3NiwtMjA2NDU3MDg5MSwtMT
-AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
-MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
-c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
-LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
-IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
-NTA4OTAsLTEwMjYxMTU3ODJdfQ==
+eyJoaXN0b3J5IjpbMjEyODk3NzIxLC0yMDY0NTcwODkxLC0xMD
+E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
+MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
+QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
+MTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMj
+AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
+MDg5MCwtMTAyNjExNTc4Ml19
 -->
