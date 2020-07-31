@@ -2163,6 +2163,12 @@ Playing with friends, you can choose to transform into any character in your col
 
 ^(Source: Rule insert)
 
+---
+
+Q: If she is lvl 1 and has one -1/-1 counter on her and attacks lvl2 She-Hulk (6/6) and uses **Masquerade**, does she gain +6 ATK and +6 XP?
+
+A: 
+
 ## Mystique (SC)
 *Set: The Marvel Battles**
 
@@ -3000,11 +3006,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDYxMzUsMTUxOTQ0MjI2NCwtOTEwMT
-E2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgs
-LTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMD
-A4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4
-OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MD
-U1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwy
-MDE0ODU2NjU1XX0=
+eyJoaXN0b3J5IjpbNTU4MjM1MDk2LDE1MTk0NDIyNjQsLTkxMD
+ExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4
+LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMj
+AwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQw
+ODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5ND
+A1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQs
+MjAxNDg1NjY1NV19
 -->
