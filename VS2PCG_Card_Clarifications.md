@@ -2429,6 +2429,8 @@ Q: Pain and Suffering has to played be during combat but does it have to target 
 
 A: Pain and Suffering can only affect a character in the combat.
 
+^(Source: Danny Mandel)
+
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
 *Set: Crossover*  
@@ -2447,7 +2449,9 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 
 ^(Source: Rule insert)
 
-# [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
+# Pixie
+
+## [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
 *Set: The Utopia Battles*  
 
 **Souldagger** causes a character to lose each modifier it gained during combat. A modifier is an effect that modifies the game. There are two types of modifiers – 
@@ -2460,8 +2464,9 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 
 **Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an (Energy/"Blue"). This includes when a character uses an (Engergy/"Blue") Super Power, or choosing to spend an (Energy/"Blue") when you play the Plot Twist **Sacred Ground**.
 
-
 ^(Source: Rule insert)
+
+## Pixie
 
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
 *Set: The New Defenders*  
@@ -3116,11 +3121,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3Nzk3Nzc3LC0zMjU1NDE0NCwtNTA3Mj
-E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
-MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
-Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
-NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
-wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
-ODg3MDA5MDldfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ0MjExMTIsLTMyNTU0MTQ0LC01MD
+cyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1
+MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLT
+EzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2
+NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwOD
+kxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcs
+MTI4ODcwMDkwOV19
 -->
