@@ -1957,7 +1957,23 @@ A: "Can't be moved" only applies to effects that use the words move, pull, push 
 
 Q: Can a defending character locked down by Medusa be replaced in the combat & moved with Uncanny Defense or Spiderman MC?
 
-A: 
+A: The Defender will be replaced with a new defender but the switching of places is defined as a move so they will both stay where they are because if one of the characters can't move for a switch, neither will.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Can you have several opponents characters exhausted?
+
+A: Yes.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Can a character who is affected by the **Prehensile Hair** ability be moved to another player's side? If they can, must they remain in the front row when moved?
+
+
 
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
 *Set: The Fantastic Battles*  
@@ -2929,11 +2945,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMzU1MzgwLDE3Njc5MDY1NjksMTY2OT
-gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
-ODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MS
-w3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3
-MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OT
-MxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4
-NiwtMTU3OTU2NzgwNl19
+eyJoaXN0b3J5IjpbMjEzNzc2MDQwMiwxNzY3OTA2NTY5LDE2Nj
+k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
+MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
+EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
+NzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1OD
+kzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1Mjcw
+ODYsLTE1Nzk1Njc4MDZdfQ==
 -->
