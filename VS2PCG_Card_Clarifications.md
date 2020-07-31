@@ -2251,8 +2251,14 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 
 ^(Source: Rule insert)
 
-## Nebula (SC - Femme Fatales)
-*Set: 
+## Nebula (SC - Femme Fatale)
+*Set: A-Force*
+
+Q: Opponent has Nebula in play and Level 2 Thanos. Thanos gets stunned does Nebula stay a 6/6? How about if Thanos gets removed by Singularity and Nebula stays behind?
+
+A: Face down characters still have all their characteristics except their powers. So Thanos is still part of an evil team and is still level 2. She does not get the bonus if Thanos is RFGed by Singularity.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/mcu1-050.jpg) (SC - Photo)
 *Set: The MCU Battles*  
@@ -3039,11 +3045,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDk1MjY5NCwtNTA3MjE0NDg1LDE1MT
-k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
-OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
-kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
-MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1ND
-EyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDks
-LTE2NTg5MzEyOTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI2MjczMzYsLTUwNzIxNDQ4NSwxNT
+E5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1
+NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOC
+w5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3
+NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNT
+QxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5
+LC0xNjU4OTMxMjk0XX0=
 -->
