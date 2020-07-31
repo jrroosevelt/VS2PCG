@@ -1204,6 +1204,11 @@ Goblin Queen has the power to make token characters. A token character works jus
 
 Q: When a token takes lethal damage, does it become KO'd and count towards Thanos's **The Mad Titan** level up ability?
 
+A: Thanos will gain XP from a Token being KO'd and Tokens will exist for a brief moment in the KO pile before ceasing to exist via the rules of the game. Basically if a token ever ends up in a non play zone, it will cease to exist.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+
 # \* [Gorgon](http://vs.tcgbrowser.com/images/cards/small/SVH-013.jpg) \*
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -2520,11 +2525,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLT
-E3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4
-OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNz
-A4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQy
-LDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLT
-E4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkwNzUwODkwLC0xMDI2
-MTE1NzgyLDE0NDQ3MTg0NjJdfQ==
+eyJoaXN0b3J5IjpbNTYxOTE4ODcwLC0yMDY0NTcwODkxLC0xMD
+E3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcw
+MDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0Nz
+QsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwt
+MTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5NDA2OTg3LC0xMj
+AyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3MCwtMTA5MDc1
+MDg5MCwtMTAyNjExNTc4Ml19
 -->
