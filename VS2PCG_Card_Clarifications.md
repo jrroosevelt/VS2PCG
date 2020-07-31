@@ -2167,7 +2167,13 @@ Playing with friends, you can choose to transform into any character in your col
 
 Q: If she is lvl 1 and has one -1/-1 counter on her and attacks lvl2 She-Hulk (6/6) and uses **Masquerade**, does she gain +6 ATK and +6 XP?
 
-A: 
+A: Yes, you clever Monkey.
+
+^(Source: FB Community Post)
+
+Q: Ok, what if she has three -1/-1 counters on her, giving her basically -2 Attack and she gains +4 ATK making her have 2 ATK; does she gain 4 XP or 2 XP?
+
+A: 4 XP . From the rule book: ATK values that are below 0 are treated as 0 except when trying to raise or lower them. In the latter case, always use the real value.
 
 ## Mystique (SC)
 *Set: The Marvel Battles**
@@ -3006,11 +3012,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MjM1MDk2LDE1MTk0NDIyNjQsLTkxMD
-ExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4
-LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMj
-AwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQw
-ODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5ND
-A1NSwxNzA1MTIxMTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQs
-MjAxNDg1NjY1NV19
+eyJoaXN0b3J5IjpbMjAxNDAwNDMzOSwxNTE5NDQyMjY0LC05MT
+AxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5
+OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLT
+IwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0
+MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOT
+QwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0
+LDIwMTQ4NTY2NTVdfQ==
 -->
