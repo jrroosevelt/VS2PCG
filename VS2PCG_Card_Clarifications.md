@@ -2500,6 +2500,13 @@ This allows you to have any number of main characters in play at once. However, 
 
 ^(Source: Rule insert)
 
+## Professor X (SC)
+*Set: The Marvel Battles*
+
+Q: After using **Mind Control**, when I have to move a character back at the end of my turn, can I put it in either their Front or Back Row?
+
+A: 
+
 # [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
 *Set: Brotherhood of Mutants*  
 
@@ -3133,11 +3140,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNzk3NDE1LC0zMjU1NDE0NCwtNTA3Mj
-E0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMs
-MTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMz
-Q1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0Njcx
-NjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MS
-wtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEy
-ODg3MDA5MDldfQ==
+eyJoaXN0b3J5IjpbMjAyNTQyNzMxOSwtMzI1NTQxNDQsLTUwNz
+IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
+LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
+M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
+MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
+EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
+Mjg4NzAwOTA5XX0=
 -->
