@@ -1487,7 +1487,11 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 
 ^(Source: Rule insert)
 
-# Ironman
+# [Ironman](http://vs.tcgbrowser.com/images/cards/big/mnb-005.jpg) (MC)
+*Set: The Marvel Battles*
+
+
+
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
 *Set: The MCU Battles*  
@@ -2646,11 +2650,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkzODk2ODUsNzI3NDA4OTgwLC0yMD
-Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
-MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
-U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
-LTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOT
-g5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1
-MjY3MCwtMTA5MDc1MDg5MF19
+eyJoaXN0b3J5IjpbMTc4MDIyNDY1Nyw3Mjc0MDg5ODAsLTIwNj
+Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
+MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
+UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
+MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
+k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
+NjcwLC0xMDkwNzUwODkwXX0=
 -->
