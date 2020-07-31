@@ -1539,7 +1539,11 @@ Q: How does his **Unstoppable** power work?
 
 A: You make a solo attack with him against a front row character, then during combat you activate his power. If he stuns the defender and survives the combat, you may then immediately make another solo attack with him against a back row character controlled by the same player. Leave Juggernaut exhausted and dive right into his second combat. You can attack a back row character this way even if there are still face up front row characters.
 
+^(Source: UDE FAQ)
 
+---
+
+Q: If I use Enchantress' **Go Forth My Champion** on Juggernaut, and then activate **Unstoppable** on his first attack on a front row character, does he exhaust for his second **Unstoppable** attack?
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
@@ -2661,11 +2665,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMjk2NjcsNzI3NDA4OTgwLC0yMDY0NT
-cwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjEx
-MTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2NjU1LC
-02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYsLTMy
-NTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOTg5ND
-A2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1MjY3
-MCwtMTA5MDc1MDg5MF19
+eyJoaXN0b3J5IjpbNzI4MTE2ODE2LDcyNzQwODk4MCwtMjA2ND
+U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
+MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
+wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
+MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
+QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
+NzAsLTEwOTA3NTA4OTBdfQ==
 -->
