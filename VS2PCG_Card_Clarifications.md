@@ -1679,6 +1679,8 @@ This Plot Twist puts two characters on your side in a Relationship. This means t
 
 ^(Source: Rule insert)
 
+# Lilith
+
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 *Set: Galactic Guardians*  
 
@@ -2747,7 +2749,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODAzMTk5OSw3Mjc0MDg5ODAsLTIwNj
+eyJoaXN0b3J5IjpbMTE1Mjk5ODI5MCw3Mjc0MDg5ODAsLTIwNj
 Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
 MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
 UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
