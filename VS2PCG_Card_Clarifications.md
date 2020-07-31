@@ -1244,6 +1244,12 @@ A: Yes.
 
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
+# Groot
+## Groot (SC)
+*Set: The Marvel Battles*
+
+Q: If **I Am Groot** is turned off and  Groot he gets stunned for being a 0/0, what happens when he recovers?
+
 
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 *Set: Cosmic Avengers*  
@@ -2544,11 +2550,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc2MjEyNTMsLTIwNjQ1NzA4OTEsLT
-EwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4
-NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OT
-Q3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAw
-LC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5ODk0MDY5ODcsLT
-EyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUyNjcwLC0xMDkw
-NzUwODkwLC0xMDI2MTE1NzgyXX0=
+eyJoaXN0b3J5IjpbMTMyMjE4NjU5MiwtMjA2NDU3MDg5MSwtMT
+AxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIxMTE3LDEyODg3
+MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NSwtNjM3MDk5ND
+c0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0zMjU1MTI4MDAs
+LTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OTQwNjk4NywtMT
+IwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2NzAsLTEwOTA3
+NTA4OTAsLTEwMjYxMTU3ODJdfQ==
 -->
