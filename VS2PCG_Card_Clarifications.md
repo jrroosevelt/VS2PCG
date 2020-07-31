@@ -1617,7 +1617,13 @@ A: If Kingpin uses **Underworld Boss** and becomes the MC, he is no longer an SC
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
 
+Q: If I activate **Underworld Boss** while Elektra is in my hand, what happens to Elektra?
+
+A: She is demoted to a Supporting character no matter what zone she is in. From the rules: "Some effects may promote a Supporting Character to Main Character and vice versa. Unlike most modifiers, these modifiers can apply to a Main Character in any zone (or side) and continue to apply to the character even if it changes zones."
+
+^(Source: FB Post - Chad Daniel)
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 *Set: Sinister Syndicate*  
@@ -1626,6 +1632,8 @@ A: If Kingpin uses **Underworld Boss** and becomes the MC, he is no longer an SC
 Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 ^(Source: Rule insert)
+
+# L
 
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
 *Set: The Predator Battles*  
@@ -2724,11 +2732,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg1MDcwODQsNzI3NDA4OTgwLC0yMD
-Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
-MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
-U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
-LTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOT
-g5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1
-MjY3MCwtMTA5MDc1MDg5MF19
+eyJoaXN0b3J5IjpbNDc1MzM4MzExLDcyNzQwODk4MCwtMjA2ND
+U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
+MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
+wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
+MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
+QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
+NzAsLTEwOTA3NTA4OTBdfQ==
 -->
