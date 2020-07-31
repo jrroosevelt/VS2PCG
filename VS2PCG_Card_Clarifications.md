@@ -2466,7 +2466,15 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 
 ^(Source: Rule insert)
 
-## Pixie
+## Pixie (SC)
+*Set: A-Force*
+
+Q: If I: 
+* Use Pixie's **Hallucinogenic Dust** to pull Adam Warlock
+* Use a location to recover and ready Adam Warlock
+* Then at the end of the turn I use Singularity to remove Pixie. 
+
+Does Adam Warlock get ko'd??
 
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
 *Set: The New Defenders*  
@@ -3121,11 +3129,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ0MjExMTIsLTMyNTU0MTQ0LC01MD
-cyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1
-MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLT
-EzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2
-NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwOD
-kxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUxMjExMTcs
-MTI4ODcwMDkwOV19
+eyJoaXN0b3J5IjpbMTczMTkyMDAwMiwtMzI1NTQxNDQsLTUwNz
+IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
+LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
+M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
+MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OT
+EsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEyMTExNywx
+Mjg4NzAwOTA5XX0=
 -->
