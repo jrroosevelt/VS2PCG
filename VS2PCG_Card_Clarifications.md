@@ -1798,7 +1798,21 @@ Q: Does activating the **M-40 Grenade** give Storm MC an XP?
 A: "The Equipment gives the character new powers and will stay with it until that character gets stunned or leaves play."    
 So the character has the power and the character is using it, so yes, this would count for Storm.
 
+^(Source: FB Post - Chad Daniel)
 
+---
+
+Q: If I want to use a wild location to pay for the Super Power granted by Equipment, which one do I need to use?
+
+A: Since the character has the power, any wild location will need to match the character's team affiliation.
+
+^(Source: FB Post - Chad Daniel)
+
+---
+
+Q: Does using the **M-40 Grenade** ability count as that character causing the stun (if it stuns?)
+
+A: 
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2854,7 +2868,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODEwODEwNywtMTM0NTMxMTYwOCw5MT
+eyJoaXN0b3J5IjpbMjEyMjA3OTE0OSwtMTM0NTMxMTYwOCw5MT
 MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
 MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
 YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
