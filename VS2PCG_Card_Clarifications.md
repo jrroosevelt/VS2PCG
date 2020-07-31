@@ -1714,6 +1714,12 @@ A: No, for Uniqueness violations, it's the game forcing the KO not any character
 
 ---
 
+Q: If Lilith has an [M41A Pulse Rifle](http://vs.tcgbrowser.com/images/cards/big/ALN-023.jpg) equipped and uses the **M-40 Grenade** to stun and KO a character, she gains a Health?
+
+A: No, Her trigger requires a KO AND surviving. This means it can ONLY happen as a result of combat.
+
+
+
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 *Set: Galactic Guardians*  
 
@@ -2782,11 +2788,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMD
-Y0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMTk0MDU1LDE3MDUx
-MjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5NCwyMDE0ODU2Nj
-U1LC02MzcwOTk0NzQsLTIxMDE1MjcwODYsLTE1Nzk1Njc4MDYs
-LTMyNTUxMjgwMCwtMTg2OTEwMjY0MiwxNTYwOTk4MDA1LC0xOT
-g5NDA2OTg3LC0xMjAyNTQxMDgwLC0xODgwOTY0Njg2LDY5OTE1
-MjY3MCwtMTA5MDc1MDg5MF19
+eyJoaXN0b3J5IjpbMTAwNDQwMDkyMSwtMTc3NTE3MDQ3MSw3Mj
+c0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjEx
+OTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMj
+k0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4Niwt
+MTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAyNjQyLDE1Nj
+A5OTgwMDUsLTE5ODk0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5
+NjQ2ODYsNjk5MTUyNjcwXX0=
 -->
