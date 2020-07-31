@@ -1781,8 +1781,19 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 
-# M4A1 Pulse Rifle
+# M41A Pulse Rifle
+*Set: The Alien Battles*
 
+Q: Are equipment powers separate from character powers. Ex. Does Cosmo shut off the equipment on the character?
+
+A: "The Equipment gives the character new powers and will stay with it until that character gets stunned or leaves play."    
+Since the equipment is giving the powers to the character, it would be prevented or turned off by **Nullify**.
+
+^(Source: FB Post - Chad Daniel)
+
+---
+
+Q: 
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 *Set: The Fantastic Battles*  
@@ -2838,11 +2849,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NjQ4NzgsLTEzNDUzMTE2MDgsOTEzMT
-YwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0
-NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC
-0xNzIxMTk0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1
-ODkzMTI5NCwyMDE0ODU2NjU1LC02MzcwOTk0NzQsLTIxMDE1Mj
-cwODYsLTE1Nzk1Njc4MDYsLTMyNTUxMjgwMCwtMTg2OTEwMjY0
-MiwxNTYwOTk4MDA1XX0=
+eyJoaXN0b3J5IjpbMTg2NzU5NzcwOCwtMTM0NTMxMTYwOCw5MT
+MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
+MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
+YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
+NjU4OTMxMjk0LDIwMTQ4NTY2NTUsLTYzNzA5OTQ3NCwtMjEwMT
+UyNzA4NiwtMTU3OTU2NzgwNiwtMzI1NTEyODAwLC0xODY5MTAy
+NjQyLDE1NjA5OTgwMDVdfQ==
 -->
