@@ -2185,6 +2185,18 @@ A: Yes and Yes.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
+
+Q: Mystique and Green Goblin are out; Mystique attacks and uses her power to give her 4 ATK and she has enough to level up. Does she keep those 3 ATK she took from green goblin to make her a 9/7?
+
+A: Yes. The vast majority of the time, the results of a resolving effect are "locked in" at resolution and even if the situation later changes, the modifier still applies. The only exception is if they use the word "While" which mean it is continuously looking for a specific variable to be true or false.  
+  
+Since this does not use "While" we know it is locked in at resolution. As long as the duration has not expired, any modifier affecting the Lvl 1 Mystique will continue to affect the Lvl 2 Mystique.  
+  
+In the example given by the OP, the +3 ATK gained by her Super Power would continue to apply after she is level 2.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 ## Mystique (SC)
 *Set: The Marvel Battles**
 
@@ -3024,11 +3036,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY2ODc2MTYsMTUxOTQ0MjI2NCwtOT
-EwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0
-OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC
-0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3
-NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0xNzIxMT
-k0MDU1LDE3MDUxMjExMTcsMTI4ODcwMDkwOSwtMTY1ODkzMTI5
-NCwyMDE0ODU2NjU1XX0=
+eyJoaXN0b3J5IjpbLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MT
+AxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5
+OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLT
+IwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0
+MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOT
+QwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0
+LDIwMTQ4NTY2NTVdfQ==
 -->
