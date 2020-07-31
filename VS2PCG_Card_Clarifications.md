@@ -1686,6 +1686,20 @@ Q: If Lilith KO's Mantis or Dormammu Are they removed from game, or do their own
 
 A: When multiple triggers happen at the same time, the active player chooses which happens first. If it's the Lilith player's turn they may choose to remove the KO'd character from the game first (and gain a Health). As soon as these characters change zones, any other modifiers are lost. If it's the Mantis or Immortal player's turn, they can choose their triggers to happen first and the Lilith modifier is lost and they are not removed from the game (also Lilith does not gain a Health).
 
+^(Source: FB Post - Kirk & Chad)
+
+---
+
+Q: If there is a mutual stun situation, does Lilith get the extra Health?
+
+A: No, Lilith has to survive the combat.
+
+^(Source: FB Post - Kirk)
+
+---
+
+Q: If Lilith KO's my supporting character, can I save it with Envelop?
+
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 *Set: Galactic Guardians*  
 
@@ -2754,11 +2768,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzY5MzQ2Niw3Mjc0MDg5ODAsLTIwNj
-Q1NzA4OTEsLTEwMTczNTQxMjYsLTE3MjExOTQwNTUsMTcwNTEy
-MTExNywxMjg4NzAwOTA5LC0xNjU4OTMxMjk0LDIwMTQ4NTY2NT
-UsLTYzNzA5OTQ3NCwtMjEwMTUyNzA4NiwtMTU3OTU2NzgwNiwt
-MzI1NTEyODAwLC0xODY5MTAyNjQyLDE1NjA5OTgwMDUsLTE5OD
-k0MDY5ODcsLTEyMDI1NDEwODAsLTE4ODA5NjQ2ODYsNjk5MTUy
-NjcwLC0xMDkwNzUwODkwXX0=
+eyJoaXN0b3J5IjpbNjk0OTgwNTQ5LDcyNzQwODk4MCwtMjA2ND
+U3MDg5MSwtMTAxNzM1NDEyNiwtMTcyMTE5NDA1NSwxNzA1MTIx
+MTE3LDEyODg3MDA5MDksLTE2NTg5MzEyOTQsMjAxNDg1NjY1NS
+wtNjM3MDk5NDc0LC0yMTAxNTI3MDg2LC0xNTc5NTY3ODA2LC0z
+MjU1MTI4MDAsLTE4NjkxMDI2NDIsMTU2MDk5ODAwNSwtMTk4OT
+QwNjk4NywtMTIwMjU0MTA4MCwtMTg4MDk2NDY4Niw2OTkxNTI2
+NzAsLTEwOTA3NTA4OTBdfQ==
 -->
