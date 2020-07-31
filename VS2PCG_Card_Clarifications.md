@@ -1876,6 +1876,21 @@ A: Yes. They all share the name **Makluan Rings**, but they are different powers
 ^(Source: UDE FAQ)
 
 # Mantis
+*Set: The Marvel Battles*
+
+Q: Can I use a **Rebirth** power on the same turn I played a resource normally?
+
+A: Yes. It’s essentially an extra resource.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: If a character with **Rebirth** gets KO’d by the Uniqueness rules (i.e. I play a second copy of Mantis) can I still use her Rebirth power?
+
+A: Yes.
+
+^(Source: UDE FAQ)
 
 # Marvel Required (Equipment)
 *Set: S.H.I.E.L.D. vs Hydra*   
@@ -2891,7 +2906,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzg5MDIxMCwtMTM0NTMxMTYwOCw5MT
+eyJoaXN0b3J5IjpbLTQzNzY2NzQxNiwtMTM0NTMxMTYwOCw5MT
 MxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3
 MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMj
 YsLTE3MjExOTQwNTUsMTcwNTEyMTExNywxMjg4NzAwOTA5LC0x
