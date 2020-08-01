@@ -2947,6 +2947,12 @@ A: Singularity's power creates a delayed triggered modifier that exists independ
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
+
+Q: What happens to the character brought in by Pixie if I want to RFG it with Singularity?
+
+
+
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
 
@@ -3365,11 +3371,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwND
-k2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0
-NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MT
-AxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5
-OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLT
-IwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0
-MDg5ODBdfQ==
+eyJoaXN0b3J5IjpbNTA3MjkzMjc3LDE0NDE1NTI5NTAsLTMzMj
+kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
+LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
+Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
+LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzFdfQ==
 -->
