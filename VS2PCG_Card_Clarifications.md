@@ -3025,8 +3025,19 @@ Q: Does Magneto get a level up counter if he enters play at the start of the tur
 
 A: No. Once the delayed trigger from Singularity resolves, we are now past the point at which, "At the start of your turn..." would occur, so Magneto is not in play.
 
+^(Source: FB Post - UDE Approved)
 
+---
 
+Q: Can a main character still gain XP when you use Singularity on them? For instance Ghost Rider can he gain XP if Singularity is attacked and KO'd?
+
+A: Cards have to be in play for their powers to work unless their text says differently or the power could only work from another zone.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: 
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3446,11 +3457,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODMwMjY2MCwxNDQxNTUyOTUwLC0zMz
-I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
-NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
-k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
-OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
-kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
-MTcwNDcxXX0=
+eyJoaXN0b3J5IjpbMjIwNzA5MDA5LDE0NDE1NTI5NTAsLTMzMj
+kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
+LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
+Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
+LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzFdfQ==
 -->
