@@ -2879,6 +2879,8 @@ Q: How does **Rules Lawyer** work on powers like **Nullify** or **Magnetic Supre
 
 A: It doesn't, those are "Keyword Powers", **Rules Lawyer** only reacts to "Super Powers." Super Powers are powers that require an activation cost using icons from Locations.
 
+^(Source: FB Post)
+
 # Shifting Loyalties 
 *Set: The Utopia battles*  
 
@@ -3331,7 +3333,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjI3Njc3NywyMDQ5NjEzNDU3LDc4MT
+eyJoaXN0b3J5IjpbMTU3NTc0NzM3MSwyMDQ5NjEzNDU3LDc4MT
 U1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0
 LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
 I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
