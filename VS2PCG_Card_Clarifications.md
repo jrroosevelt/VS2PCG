@@ -2957,7 +2957,18 @@ A: Both trigger "At end of turn" when there are multiple triggers that trigger a
 
 ---
 
-Q: 
+Q: If you Singularity Doc Oc does he draw at the start of your turn?
+
+A: The delayed trigger from Singularity and Genius both trigger "At the start of your turn..." Once the delayed trigger from Singularity resolves, we are now past the point at which, "At the start of your turn..." triggers would have triggered. So you do not draw from Genius brought back with Singularity in the same turn.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Do Appears powers trigger when characters come back from being RFGed by Singularity?
+
+A: Yes.
+
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3377,11 +3388,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc0MTM2MjUsMTQ0MTU1Mjk1MCwtMz
-MyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEw
-NjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNT
-E5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1
-NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOC
-w5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3
-NTE3MDQ3MV19
+eyJoaXN0b3J5IjpbMTY3MDQ1ODYwMCwxNDQxNTUyOTUwLC0zMz
+I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
+NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
+k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
+OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
+kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
+MTcwNDcxXX0=
 -->
