@@ -2621,7 +2621,12 @@ A: Yes. If you’re lucky enough.
 
 ---
 
-Q: Does Rocket Level up when The Infinity Gauntlet makes him discard his hand?
+Q: Does Rocket Level up when Thanos's **The Infinity Gauntlet** makes him discard his hand?
+
+A: No. In order; Rocket is stunned first, then later discards and then draws on their turn before Rocket recovers. So at no point when Rocket is face up does he have no cards in hand.
+
+^(Source: FB Post - Tim Saunders)
+
 
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
 *Set: The MCU Battles*  
@@ -2645,6 +2650,10 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 Rogue has the ability to gain the keyword and super powers of supporting characters she’s KO’d. When she does this, if that character’s power refers to its own name, use Rogue’s name instead.
 
 ^(Source: Rule insert)
+
+---
+
+
 
 # [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
 *Set: The Predator Battles*  
@@ -3215,7 +3224,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTQ3MTA3Niw3ODE1NTQ0MDEsLTkyNz
+eyJoaXN0b3J5IjpbMjA3Njg4NjYwMCw3ODE1NTQ0MDEsLTkyNz
 gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
 LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
 kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
