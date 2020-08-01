@@ -2855,7 +2855,7 @@ Q: How does **Rules Lawyer** work timing wise under the rules for effects needin
 
 A: Basically when She-Hulk LV2 is in play, whenever an opponent uses a Super Power, they will need to give the She-Hulk player a chance to respond before resolving the effect.
 
-^(Source: FB Post - Chad Daniel)
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ---
 
@@ -2867,7 +2867,11 @@ A: If the effect requires a choice, like choosing a character, the She-Hulk play
 
 ---
 
-Q: How does She-Hulk's Rules Lawyer work against Sister Grimm MC? I announce Open Sesame and flip my Academy. My opponent says objection and flips his. Do I lose my level and my ability to ever use Open Sesame again? And does Sister Grimm flip back to Level 1?
+Q: How does She-Hulk's **Rules Lawyer** work against Sister Grimm MC? I announce **Open Sesame** and flip my Academy. My opponent says objection and flips his. Do I lose my level and my ability to ever use **Open Sesame** again? And does Sister Grimm flip back to Level 1?
+
+A: You go back to level 1 and you also cannot use that ability again.
+
+^(Source: FB Post -  Martin Shank/Chad Confirmed)
 
 # Shifting Loyalties 
 *Set: The Utopia battles*  
@@ -3321,11 +3325,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMwNTA0NDAsMjA0OTYxMzQ1Nyw3OD
-E1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0
-NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2ND
-YyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUx
-NDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMS
-wtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2
-NDU3MDg5MV19
+eyJoaXN0b3J5IjpbLTE1Nzc1NDQyMCwyMDQ5NjEzNDU3LDc4MT
+U1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0
+LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
+I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
+ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
+02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
+NTcwODkxXX0=
 -->
