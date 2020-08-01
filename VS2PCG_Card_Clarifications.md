@@ -2969,6 +2969,18 @@ Q: Do Appears powers trigger when characters come back from being RFGed by Singu
 
 A: Yes.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: What happens if I RFG a stolen character from Prof X/Purple Man with Singularity and then Purple Man is removed the very next turn. Do I keep the stolen character or do they return to the opponent when they reappear?
+
+A: The wording on Singularity specifically says they come into play on their *owner's* side.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+
+
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3388,7 +3400,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDQ1ODYwMCwxNDQxNTUyOTUwLC0zMz
+eyJoaXN0b3J5IjpbLTU2ODUxMDE1MCwxNDQxNTUyOTUwLC0zMz
 I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
 NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
 k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
