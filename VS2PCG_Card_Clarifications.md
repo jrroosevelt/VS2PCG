@@ -2849,7 +2849,19 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 
 ^(Source: Rule insert)
 
+---
 
+Q: How does **Rules Lawyer** work timing wise under the rules for effects needing to resolve as soon as they are played?
+
+A: Basically when She-Hulk LV2 is in play, whenever an opponent uses a Super Power, they will need to give the She-Hulk player a chance to respond before resolving the effect.
+
+^(Source: FB Post - Chad Daniel)
+
+---
+
+Q: How does **Rules Lawyer** work if the Super Power needs one choice made from multiple options?
+
+A: 
 
 # Shifting Loyalties 
 *Set: The Utopia battles*  
@@ -3303,11 +3315,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk4NjM1NTEsMjA0OTYxMzQ1Nyw3OD
-E1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0
-NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2ND
-YyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUx
-NDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMS
-wtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2
-NDU3MDg5MV19
+eyJoaXN0b3J5IjpbLTI3MDgyODExOSwyMDQ5NjEzNDU3LDc4MT
+U1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0
+LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
+I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
+ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
+02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
+NTcwODkxXX0=
 -->
