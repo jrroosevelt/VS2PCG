@@ -2601,7 +2601,14 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 
 ^(Source: Rule insert)
 
-# [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
+# Rocket
+## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mnb-053.jpg) (MC)
+**Set: The Marvel Battles**
+
+Q: Will his **Back Against the Wall** power trigger if I have no cards for a moment in the middle of resolving an effect? For example, if I use Emma Frost’s Mind Games on myself?
+
+
+## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
 *Set: The MCU Battles*  
 
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
@@ -3193,11 +3200,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjU0OTE5Nyw3ODE1NTQ0MDEsLTkyNz
-gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
-LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
-kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
-NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
-0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
-NzM1NDEyNl19
+eyJoaXN0b3J5IjpbLTE5Mjg1MTU0ODQsNzgxNTU0NDAxLC05Mj
+c4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4
+NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Nj
+c5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMx
+MTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNS
+wtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEw
+MTczNTQxMjZdfQ==
 -->
