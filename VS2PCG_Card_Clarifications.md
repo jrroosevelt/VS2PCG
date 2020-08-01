@@ -3053,7 +3053,9 @@ A: No, the game ends when you KO your opponent’s Main Character or they KO you
 
 ---
 
+Q: Juggernaut attacks Singularity who is in the front row, pays a Might and stuns her. Do the other characters come back in time for Juggernaut to declare his second attack or no?
 
+A:  
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3473,7 +3475,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTYxMjEyLDE0NDE1NTI5NTAsLTMzMj
+eyJoaXN0b3J5IjpbMTE1NzM2MTc5LDE0NDE1NTI5NTAsLTMzMj
 kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
 LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
 Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
