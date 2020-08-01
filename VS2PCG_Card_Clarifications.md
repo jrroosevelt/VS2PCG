@@ -2251,7 +2251,7 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 
 ^(Source: Rule insert)
 
-## Nebula (SC - Femme Fatale)
+## [Nebula](http://vs.tcgbrowser.com/images/cards/big/aff-041.jpg) (SC - Femme Fatale)
 *Set: A-Force*
 
 Q: Opponent has Nebula in play and Level 2 Thanos. Thanos gets stunned does Nebula stay a 6/6? How about if Thanos gets removed by Singularity and Nebula stays behind?
@@ -2274,7 +2274,7 @@ Although the Negative Zone has a (Fantastic) team affiliation, any main characte
 
 ^(Source: Rule insert)
 
-# Net Launcher
+# [Net Launcher](http://vs.tcgbrowser.com/images/cards/big/PRD-027.jpg)
 *Set: The Predator Battles*
 
 Q: Can I Daze a face down character with Net Launcher-equipped Gamora who has **Godslayer Blade** activated and KO the character?
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI5Nzc4NTcsLTkyNzgwMTA2NSwxMD
-E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
-NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
-Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
-MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwND
-cxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwt
-MTcyMTE5NDA1NV19
+eyJoaXN0b3J5IjpbLTMxMDAyMjQ2MiwtOTI3ODAxMDY1LDEwMT
+UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
+NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
+k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
+MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
+EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
+NzIxMTk0MDU1XX0=
 -->
