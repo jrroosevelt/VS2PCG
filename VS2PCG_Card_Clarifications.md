@@ -2938,7 +2938,9 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 
 Q: If three of my 1 drop characters are KO'd by Electro, can I use Envelop to return all of them to my hand?
 
-A: 
+A: No, each SC would give you the opportunity to use the Reaction power, but only the one you choose could come back. It is like have three triggers, you can only pay the cost once, but you can decide which trigger you pay for.
+
+^(Source: FB Post - Chad Daniel)
 
 
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/BAN-004.jpg) (SC - AFF-015)
@@ -3526,11 +3528,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODY2NjYwLDE0NDE1NTI5NTAsLTMzMj
-kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
-LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
-Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
-LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzFdfQ==
+eyJoaXN0b3J5IjpbMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMz
+I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
+NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
+k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
+OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
+kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
+MTcwNDcxXX0=
 -->
