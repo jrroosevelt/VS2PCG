@@ -2729,6 +2729,9 @@ This Plot Twist lets a character pay any power symbol. You can generate a power 
 
 ^(Source: Rule insert)
 
+# Satana
+
+
 # [Sauron](http://vs.tcgbrowser.com/images/cards/big/BOM-016.jpg)
 *Set: Brotherhood of Mutants*  
 
@@ -3276,11 +3279,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNz
-gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
-LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
-kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
-NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
-0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
-NzM1NDEyNl19
+eyJoaXN0b3J5IjpbMTMxMDIyMjcwNiwyMDQ5NjEzNDU3LDc4MT
+U1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0
+LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
+I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
+ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
+02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
+NTcwODkxXX0=
 -->
