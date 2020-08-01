@@ -2936,6 +2936,9 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ## Singularity (SC - AFF-015)
 *Set A-Force*
 
+The original [Singularity SC was banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_singularity_sc_.28a-force_set.29).
+
+## Sin
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3355,11 +3358,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQyMzE2OTYsLTMzMjkyODgxNiwyMD
-Q5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEz
-NDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOT
-EwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0
-OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC
-0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3
-NDA4OTgwXX0=
+eyJoaXN0b3J5IjpbNzgyNzMwNDMsLTMzMjkyODgxNiwyMDQ5Nj
+EzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYs
+LTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMT
+E2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgs
+LTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMD
+A4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4
+OTgwXX0=
 -->
