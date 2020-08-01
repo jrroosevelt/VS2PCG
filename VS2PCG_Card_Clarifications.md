@@ -2951,7 +2951,13 @@ A: Singularity's power creates a delayed triggered modifier that exists independ
 
 Q: What happens to the character brought in by Pixie if I want to RFG it with Singularity?
 
+A: Both trigger "At end of turn" when there are multiple triggers that trigger at the same time, you get to decide the order. So yes, you can use Singularity to "save" the character brought in by Pixie.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: 
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3371,11 +3377,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MjkzMjc3LDE0NDE1NTI5NTAsLTMzMj
-kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
-LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
-Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
-LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzFdfQ==
+eyJoaXN0b3J5IjpbLTExMzc0MTM2MjUsMTQ0MTU1Mjk1MCwtMz
+MyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEw
+NjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNT
+E5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1
+NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOC
+w5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3
+NTE3MDQ3MV19
 -->
