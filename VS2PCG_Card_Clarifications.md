@@ -1745,10 +1745,10 @@ Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a charac
 
 ^(Source: Rule insert)
 
-## Loki (SC - Super Villains)
+## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-098.jpg) (SC - Super Villains)
 *Set: The Marvel Battles*
 
-Q: Can I play 4 copies of the Marvel Villains Loki and 4 copies of the A Force Loki in the same deck effectively playing 8 copies of Loki? And can I discard either one to the other as a power up? Can I have a copy of each in play at the same time?
+Q: Can I play 4 copies of the Marvel Villains Loki and 4 copies of the A-Force Loki in the same deck effectively playing 8 copies of Loki? And can I discard either one to the other as a power up? Can I have a copy of each in play at the same time?
 
 A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. They are different cards for deck building purposes.   
 2) You can discard each one to power up the other, they are the same character for game purposes.   
@@ -1756,7 +1756,7 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 
 ^(Source: UDE Blog Preview post)
 
-# Loyal Soldiers
+# [Loyal Soldiers](http://vs.tcgbrowser.com/images/cards/big/def-053.jpg)
 *Set: Defenders*
 
 Q: Does Loyal Soldiers care about the affiliation of stunned characters on your side?
@@ -1765,7 +1765,7 @@ A: Yes, characters keep their affiliations even when they are stunned.
 
 ^(Source: Tim Saunders, FB Post - Chad Daniel)
 
-# Luke Cage
+# [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 
 Q: When I use his **Impervious Skin** power, what happens if he gets stunned?
 
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ2OTA2ODMsLTkyNzgwMTA2NSwxMD
-E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
-NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
-Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
-MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwND
-cxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwt
-MTcyMTE5NDA1NV19
+eyJoaXN0b3J5IjpbMTQxMDcxNDY2NSwtOTI3ODAxMDY1LDEwMT
+UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
+NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
+k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
+MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
+EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
+NzIxMTk0MDU1XX0=
 -->
