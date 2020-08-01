@@ -2938,7 +2938,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 
 The original [Singularity SC was banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_singularity_sc_.28a-force_set.29).
 
-## Singularity (SC - AFF-015*)
+## [Singularity](http://vs.tcgbrowser.com/images/cards/big/aff-015.jpg) (SC - AFF-015*)
 *Set: A-Force*
 
 Q: What happens if I use Singularity's power to remove my characters, then on my opponent's turn, Singularity is targeted by Cosmo. Do my characters still return at the end of the turn or when singularity is stunned/leaves play?
@@ -3365,7 +3365,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjI2NDU1OSwtMzMyOTI4ODE2LDIwND
+eyJoaXN0b3J5IjpbMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwND
 k2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0
 NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MT
 AxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5
