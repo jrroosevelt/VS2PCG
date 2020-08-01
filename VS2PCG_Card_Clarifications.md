@@ -2653,7 +2653,13 @@ Rogue has the ability to gain the keyword and super powers of supporting charact
 
 ---
 
+Q: If I team attack with Star-Lord (sc) Gamora (sc) and Rogue, I know Gamora **Lethal** will KO the defender, but will Rogue gain the powers of the defender since it's is a **Lethal** trigger from Gamora KOing the defender?
 
+A: Yes. **Lethal** is no longer a trigger. It changes the wound given in combat to a lethal wound. Since this is a KO by combat, all team attackers get credit for the KO, including Rogue.
+
+---
+
+Q: 
 
 # [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
 *Set: The Predator Battles*  
@@ -3224,7 +3230,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Njg4NjYwMCw3ODE1NTQ0MDEsLTkyNz
+eyJoaXN0b3J5IjpbMTkwNDA3OTkzNSw3ODE1NTQ0MDEsLTkyNz
 gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
 LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
 kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
