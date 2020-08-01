@@ -2673,19 +2673,23 @@ Q: If Rogue KO's Madame Masque, can I power up Rogue and put the discarded Rogue
 
 A: Yes, Rogue's Absorb Power gains all of Madam's powers and replaces all instances of Madam's Name with her own, so she gains this power. The second copy of Rogue in play is not KO'd because the first copy also absorbed the **Swarm** power.
 
-^(Source: FB Post - Chad Daniel)
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 Q: Ok, so now I have two Rogues in play (via Madame Masque as mentioned above); if the first one with **Swarm** is Stunned does she lose **Swarm** and do I lose the second copy to uniqueness?
 
 A: While the stunning itself would NOT remove **Swarm**, that is not relevant here. The modifier that gives Rogue **Swarm** has a duration that only lasts UNTIL she is stunned. So when she is stunned, the modifier stops giving her **Swarm**, and you will need to apply the uniqueness rule if relevant.
 
-^(Source: FB Post - Chad Daniel)
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
-Q: Alright, so what if the first Rogue with Swarm gets Nullified by Cosmo, doesn't she lose Absorb which would in turn make her lose Swarm?
+Q: Alright, so what if the first Rogue with **Swarm** gets Nullified by Cosmo, doesn't she lose **Absorb** which would in turn make her lose **Swarm**?
 
+A: **Swarm** is still there as nothing can remove **Swarm**. **Absorb** is now gone so she can not "absorb" any new powers, but any previously created modifiers (like the one giving her **Swarm**) are still there.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ---
+
+Q: If I have 3 copies of Rogue in play, and only 1 of them has **Swarm** and that copy gets KO'd, would you need to KO another one to account for Uniqueness?
 
 
 
@@ -3258,7 +3262,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MjY4NDAwLDc4MTU1NDQwMSwtOTI3OD
+eyJoaXN0b3J5IjpbNDQ0OTQ4NjI2LDc4MTU1NDQwMSwtOTI3OD
 AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
 MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
 A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
