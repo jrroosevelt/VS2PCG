@@ -2787,7 +2787,11 @@ Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up.
 
 ---
 
-Q: What happens to the MC when singularity takes them out the game while being hexed by Scarlet Witch?
+Q: What happens to the MC when Singularity takes them out the game while being **Hex**ed by Scarlet Witch?
+
+A: Scarlet Witch isn't targeting your opponent's MC, it is a blanket effect on the game state. The real question then becomes, can MC's level up outside the game at that point, which is no.
+
+^(Source: FB Post - Tim Saunders)
 
 # [Scourge](http://vs.tcgbrowser.com/images/cards/big/HAM-014.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -3297,11 +3301,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODk5MTQ5NywyMDQ5NjEzNDU3LDc4MT
-U1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0
-LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
-I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
-ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
-02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
-NTcwODkxXX0=
+eyJoaXN0b3J5IjpbLTE4ODMwODQwNjcsMjA0OTYxMzQ1Nyw3OD
+E1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0
+NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2ND
+YyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUx
+NDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMS
+wtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2
+NDU3MDg5MV19
 -->
