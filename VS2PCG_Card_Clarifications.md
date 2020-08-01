@@ -2285,7 +2285,7 @@ While you are allowed to chose a face-down character for Net Launcher's super po
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-# The Newborn
+# [The Newborn](http://vs.tcgbrowser.com/images/cards/big/ALN-033.jpg)
 *Set: The Alien Battles*
 
 Q: If I have 1 Fortress in hand, can I discard it to pay for **Rrrraaarrrr!** since my hand will be empty from the discard?
@@ -2310,7 +2310,7 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 
 ^(Source: Rule insert)
 
-## Nick Fury (SC-Avengers)
+## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/mnb-014.jpg) (SC-Avengers)
 *Set: The Marvel Battles*
 
 Q: Do I have to show my opponent the card I put into my resource row?
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDAyMjQ2MiwtOTI3ODAxMDY1LDEwMT
-UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
-NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
-EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
-NzIxMTk0MDU1XX0=
+eyJoaXN0b3J5IjpbNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNT
+A3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0
+LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
+gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
+ODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MS
+w3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3
+MjExOTQwNTVdfQ==
 -->
