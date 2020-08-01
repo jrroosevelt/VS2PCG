@@ -2849,6 +2849,8 @@ You can use a Reaction power at any time, as long as its trigger condition is me
 
 ^(Source: Rule insert)
 
+
+
 # Shifting Loyalties 
 *Set: The Utopia battles*  
 
@@ -3301,7 +3303,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMwODQwNjcsMjA0OTYxMzQ1Nyw3OD
+eyJoaXN0b3J5IjpbLTE0ODk4NjM1NTEsMjA0OTYxMzQ1Nyw3OD
 E1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0
 NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2ND
 YyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUx
