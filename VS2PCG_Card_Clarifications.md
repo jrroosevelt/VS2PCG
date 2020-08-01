@@ -3005,7 +3005,25 @@ A: They all come into play at the same time and when characters enter play at th
 
 ---
 
-Q: When a Character targeted by Nullify is removed with Pocket Dimension, does it come back free from the Nullify?
+Q: When a Character targeted by **Nullify** is removed with **Pocket Dimension**, does it come back free from the **Nullify**?
+
+A: Yes, it is a new character. Nothing affecting it previously would affect it now.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Are out of play characters considered to be on your side?
+
+A: No. 
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Does Magneto get a level up counter if he enters play at the start of the turn with singularity's effect?
+
+A: No. Once the delayed trigger from Singularity resolves, we are now past the point at which, "At the start of your turn..." would occur, so Magneto is not in play.
 
 
 
@@ -3428,7 +3446,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDc1MzgwMSwxNDQxNTUyOTUwLC0zMz
+eyJoaXN0b3J5IjpbLTgxODMwMjY2MCwxNDQxNTUyOTUwLC0zMz
 I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
 NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
 k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
