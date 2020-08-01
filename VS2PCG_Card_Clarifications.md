@@ -2671,11 +2671,19 @@ A: No, Rogue will only gain the *printed* powers of Hope.
 
 Q: If Rogue KO's Madame Masque, can I power up Rogue and put the discarded Rogue into play?
 
-A: Yes, Rogue's Absorb Power gains all of Madam's powers and replaces all instances of Madam's Name with her own, so she gains this power. The second copy of Rogue in play is not KO'd because the first copy also absorbed the Swarm power.
+A: Yes, Rogue's Absorb Power gains all of Madam's powers and replaces all instances of Madam's Name with her own, so she gains this power. The second copy of Rogue in play is not KO'd because the first copy also absorbed the **Swarm** power.
 
 ^(Source: FB Post - Chad Daniel)
 
-Q: Ok, so now I have two Rogues in play (via Madame Masque as mentioned above), if the first one with Swarm is Stunned does she lose Swarm and do I lose the second copy to uniqueness?
+Q: Ok, so now I have two Rogues in play (via Madame Masque as mentioned above); if the first one with **Swarm** is Stunned does she lose **Swarm** and do I lose the second copy to uniqueness?
+
+A: While the stunning itself would NOT remove **Swarm**, that is not relevant here. The modifier that gives Rogue **Swarm** has a duration that only lasts UNTIL she is stunned. So when she is stunned, the modifier stops giving her **Swarm**, and you will need to apply the uniqueness rule if relevant.
+
+^(Source: FB Post - Chad Daniel)
+
+Q: Alright, so what if the first Rogue with Swarm gets Nullified by Cosmo, doesn't she lose Absorb which would in turn make her lose Swarm?
+
+
 
 ---
 
@@ -3250,11 +3258,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIzMjA3NzAsNzgxNTU0NDAxLC05Mj
-c4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4
-NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Nj
-c5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMx
-MTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNS
-wtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEw
-MTczNTQxMjZdfQ==
+eyJoaXN0b3J5IjpbNjI1MjY4NDAwLDc4MTU1NDQwMSwtOTI3OD
+AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
+MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
+A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
+MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLT
+E3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3
+MzU0MTI2XX0=
 -->
