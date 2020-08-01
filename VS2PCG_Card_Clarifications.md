@@ -2687,9 +2687,17 @@ A: **Swarm** is still there as nothing can remove **Swarm**. **Absorb** is now g
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
----
-
 Q: If I have 3 copies of Rogue in play, and only 1 of them has **Swarm** and that copy gets KO'd, would you need to KO another one to account for Uniqueness?
+
+A: Yes.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+Q: If I have 3 copies of Rogue in play and the one with **Swarm** is stunned, causing a Uniqueness situation, which ones are KO'd and which one stays in play?
+
+A: The most recently played one stays in play.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 
 
@@ -3262,11 +3270,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0OTQ4NjI2LDc4MTU1NDQwMSwtOTI3OD
-AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
-MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
-A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
-MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLT
-E3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3
-MzU0MTI2XX0=
+eyJoaXN0b3J5IjpbLTc0MzU5MjkzOCw3ODE1NTQ0MDEsLTkyNz
+gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
+LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
+kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
+NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
+0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
+NzM1NDEyNl19
 -->
