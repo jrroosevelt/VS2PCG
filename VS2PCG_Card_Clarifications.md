@@ -799,7 +799,7 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 ^(Source: Rule insert)
 
 # Dr. Strange
-## Dr. Strange (MC)
+## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC)
 *Set: Defenders*
 
 Q: If I activate L2 Dr. Strange's **Mass Transmutation** power can I target a character with +1/+1 counters as well as a character with -1/-1 counters and switch them to their opposite counter types?
@@ -817,7 +817,7 @@ A: No, it would remove the +1/+1 and then... nothing else happens because they c
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-## Dr. Strange (SC)
+## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/mnb-019.jpg) (SC)
 *Set: The Marvel Battles*
 Q: Can his Transmute power stun someone?
 
@@ -890,7 +890,7 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 
 ^(Source: Rule insert)
 
-# Enchantress (MC)
+# [Enchantress](http://vs.tcgbrowser.com/images/cards/big/aff-048.jpg) (MC)
 *Set: A-Force*
 
 Q: If I have multiple characters bigger than all my opponents' characters can Enchantress get multiple XP via **Champion of Amora** in a turn?
@@ -905,7 +905,7 @@ A: Yes.
 
 ^(Source - FB Post - Chad Daniel - UDE Approved)
 
-# Even the Odds
+# [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg)
 *Set: The Marvel Battles*
 
 Q: How does this card work?
@@ -3193,7 +3193,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTgzNDg1NCwtOTI3ODAxMDY1LDEwMT
+eyJoaXN0b3J5IjpbMTY5MjkyODU5NywtOTI3ODAxMDY1LDEwMT
 UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
 NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
 k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
