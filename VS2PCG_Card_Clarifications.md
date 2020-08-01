@@ -2657,9 +2657,19 @@ Q: If I team attack with Star-Lord (sc) Gamora (sc) and Rogue, I know Gamora **L
 
 A: Yes. **Lethal** is no longer a trigger. It changes the wound given in combat to a lethal wound. Since this is a KO by combat, all team attackers get credit for the KO, including Rogue.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 ---
 
-Q: 
+Q: If I KO my opponent's Hope Summers with Rogue and he has a Beast in play, will my Rogue also gain the Genius keyword until she is stunned or removed from play?
+
+A: No, Rogue will only gain the *printed* powers of Hope.
+
+^(Source: FB Post - Chad Daniel)
+
+---
+
+
 
 # [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
 *Set: The Predator Battles*  
@@ -3230,11 +3240,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDA3OTkzNSw3ODE1NTQ0MDEsLTkyNz
-gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
-LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
-kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
-NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
-0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
-NzM1NDEyNl19
+eyJoaXN0b3J5IjpbLTk0MTQ4MTM1LDc4MTU1NDQwMSwtOTI3OD
+AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
+MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
+A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
+MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLT
+E3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3
+MzU0MTI2XX0=
 -->
