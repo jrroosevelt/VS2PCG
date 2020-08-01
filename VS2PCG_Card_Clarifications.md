@@ -2489,7 +2489,7 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 ^(Source: Rule insert)
 
 # Professor X
-## Professor X (MC - The Marvel Battles)
+## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-033.jpg) (MC - The Marvel Battles)
 
 Q: If Prof X MC uses **Mental Domination** to take control of Sister Grimm MC and suicides her, does she level up?
 
@@ -2524,7 +2524,7 @@ This allows you to have any number of main characters in play at once. However, 
 
 ^(Source: Rule insert)
 
-## Professor X (SC)
+## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-048.jpg) (SC)
 *Set: The Marvel Battles*
 
 Q: After using **Mind Control**, when I have to move a character back at the end of my turn, can I put it in either their Front or Back Row?
@@ -2533,7 +2533,7 @@ A: You choose where to move it back to.
 
 ^(Source: UDE FAQ)
 
-# Punisher
+# [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
 
 Q: If I'm ranged team attacking with Punisher and Star-Lord, can I activate **Perfect Position** and choose to have the ranged defender strike back at Punisher? Hereby avoiding the damage?
@@ -2569,7 +2569,7 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 
 ^(Source: Rule insert)
 
-# Red Skull (SC)
+# [Red Skull](http://vs.tcgbrowser.com/images/cards/big/mnb-091.jpg) (SC)
 *Set: The Marvel Battles*
 
 Q: How does **Dust of Death** work?
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MTMwNzEyLDc4MTU1NDQwMSwtOTI3OD
-AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
-MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
-A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
-MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLT
-E3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3
-MzU0MTI2XX0=
+eyJoaXN0b3J5IjpbLTk4MjU0OTE5Nyw3ODE1NTQ0MDEsLTkyNz
+gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
+LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
+kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
+NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
+0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
+NzM1NDEyNl19
 -->
