@@ -2699,7 +2699,13 @@ A: The most recently played one stays in play.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
 
+Q: Can Rogue gain multiple instances of the same power?
+
+A: Rogue can get the same power twice. Sometimes it will be redundant (**Flight**/**Range**/**Fearless**/**Mobile**/**Shrink**) and give no benefit, but sometimes it will give additional benefit (**Berserker**/Appear Triggers/Super Powers). In the case of super powers, each copy of the power is distinct and each can be used once per turn.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
 *Set: The Predator Battles*  
@@ -3270,7 +3276,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzU5MjkzOCw3ODE1NTQ0MDEsLTkyNz
+eyJoaXN0b3J5IjpbMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNz
 gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
 LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
 kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
