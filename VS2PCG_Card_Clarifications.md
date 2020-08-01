@@ -1866,7 +1866,7 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 
 ^(Source: Rule insert)
 
-## Mandarin (Illustrated)
+## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mnb-095.jpg) (Illustrated)
 *Set: The Marvel Battles*
 
 Q: Can use all his powers in the same turn? 
@@ -1875,7 +1875,7 @@ A: Yes. They all share the name **Makluan Rings**, but they are different powers
 
 ^(Source: UDE FAQ)
 
-# Mantis
+# [Mantis](http://vs.tcgbrowser.com/images/cards/big/mnb-064.jpg)
 *Set: The Marvel Battles*
 
 Q: Can I use a **Rebirth** power on the same turn I played a resource normally?
@@ -1944,7 +1944,7 @@ The Gift of Death will instantly KO its assigned character. The other four grant
 
 ^(Source: Rule insert)
 
-# Medusa
+# [Medusa](http://vs.tcgbrowser.com/images/cards/big/aff-014.jpg)
 *Set: A-Force*
 
 Q: If you use Medusa's **Prehensile Hair** ability can that character be removed with Singularity? I know it says can't be moved but I am not sure if that just refers to front of back row.
@@ -1977,7 +1977,7 @@ A: If the card uses the word move, push, pull or switch, it can not be done.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-# Meggan
+# [Meggan](http://vs.tcgbrowser.com/images/cards/big/aff-013.jpg)
 *Set: A-Force* 
 
 Q: Do counters count on face down characters such as Carnage for her ability?
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc4MDY5NjcsLTkyNzgwMTA2NSwxMD
-E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
-NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
-Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
-MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwND
-cxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwt
-MTcyMTE5NDA1NV19
+eyJoaXN0b3J5IjpbLTQyODAzMzQ4MiwtOTI3ODAxMDY1LDEwMT
+UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
+NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
+k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
+MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
+EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
+NzIxMTk0MDU1XX0=
 -->
