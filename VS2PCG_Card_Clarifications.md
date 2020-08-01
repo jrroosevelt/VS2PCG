@@ -1021,7 +1021,7 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 
 ^(Source: Rule insert)
 
-# Ferocious Xenomorph
+# [Ferocious Xenomorph](http://vs.tcgbrowser.com/images/cards/big/ALN-039.jpg)
 *Set: The Alien Battles*
 
 Q: Does Cosmo shut off **Creature**?
@@ -1044,7 +1044,7 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
-# Franklin Richards
+# [Franklin Richards](http://vs.tcgbrowser.com/images/cards/big/FAN-021.jpg)
 *Set: The Fantastic Battles*  
 
 Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
@@ -1103,7 +1103,7 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 
 ^(Source: Rule insert)
 
-## Gambit (SC)
+## [Gambit](http://vs.tcgbrowser.com/images/cards/big/mnb-041.jpg) (SC)
 *Set: The Marvel Battles*
 
 Q: Can I use **Kinetic Card Throw** to discard a card even if there’s no enemy supporting character to stun? (For example, can I use Gambit to put Deadpool into my KO Pile even if there’s no enemies with cost 3 or less in play?)
@@ -3193,7 +3193,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjkyODU5NywtOTI3ODAxMDY1LDEwMT
+eyJoaXN0b3J5IjpbMjA3MDE4MzQzNCwtOTI3ODAxMDY1LDEwMT
 UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
 NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
 k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
