@@ -2871,7 +2871,11 @@ Q: How does She-Hulk's **Rules Lawyer** work against Sister Grimm MC? I announce
 
 A: You go back to level 1 and you also cannot use that ability again.
 
-^(Source: FB Post -  Martin Shank/Chad Confirmed)
+^(Source: FB Post -  Martin Shank/Chad Confirmed - UDE Approved)
+
+---
+
+Q: How does **Rules Lawyer** work on powers like Nullify or Magnetic Supression?
 
 # Shifting Loyalties 
 *Set: The Utopia battles*  
@@ -3325,11 +3329,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg1NjM1OTAsMjA0OTYxMzQ1Nyw3OD
-E1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0
-NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2ND
-YyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUx
-NDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMS
-wtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2
-NDU3MDg5MV19
+eyJoaXN0b3J5IjpbMTQ1MTIzOTY3NSwyMDQ5NjEzNDU3LDc4MT
+U1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0
+LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
+I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
+ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
+02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
+NTcwODkxXX0=
 -->
