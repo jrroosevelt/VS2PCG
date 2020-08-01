@@ -2933,6 +2933,8 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: Rule insert)
 
 # Singularity
+## Singularity (SC - AFF-015)
+*Set A-Force*
 
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
@@ -3353,11 +3355,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2OTU5MTk4LC0zMzI5Mjg4MTYsMjA0OT
-YxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2
-LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMD
-ExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4
-LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMj
-AwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQw
-ODk4MF19
+eyJoaXN0b3J5IjpbLTIwMzQyMzE2OTYsLTMzMjkyODgxNiwyMD
+Q5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEz
+NDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOT
+EwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0
+OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC
+0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3
+NDA4OTgwXX0=
 -->
