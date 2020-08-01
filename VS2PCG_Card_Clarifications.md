@@ -2945,6 +2945,7 @@ Q: What happens if I use Singularity's power to remove my characters, then on my
 
 A: Singularity's power creates a delayed triggered modifier that exists independent of its source. Removing the power from the source does nothing to negate or change the delayed trigger modifier already created. In short, playing Cosmo on Singularity does not stop the previously removed characters from returning.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3364,11 +3365,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk4MDEyNjUsLTMzMjkyODgxNiwyMD
-Q5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEz
-NDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOT
-EwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0
-OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC
-0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3
-NDA4OTgwXX0=
+eyJoaXN0b3J5IjpbLTI5NjI2NDU1OSwtMzMyOTI4ODE2LDIwND
+k2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0
+NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MT
+AxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5
+OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLT
+IwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MSw3Mjc0
+MDg5ODBdfQ==
 -->
