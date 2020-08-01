@@ -1781,7 +1781,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 
-# M41A Pulse Rifle
+# [M41A Pulse Rifle](http://vs.tcgbrowser.com/images/cards/big/ALN-023.jpg)
 *Set: The Alien Battles*
 
 Q: Are equipment powers separate from character powers. Ex. Does Cosmo shut off the equipment on the character?
@@ -1830,7 +1830,7 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 ^(Source: Rule insert)
 
-# Magneto (MC)
+# [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
 *Set: The Marvel Battles*
 
 Q: If I go first, will his **Mutant Master** power trigger on the very first turn of the game?
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDcxNDY2NSwtOTI3ODAxMDY1LDEwMT
-UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
-NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUxNzA0Nz
-EsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3MzU0MTI2LC0x
-NzIxMTk0MDU1XX0=
+eyJoaXN0b3J5IjpbLTEzMjc4MDY5NjcsLTkyNzgwMTA2NSwxMD
+E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
+NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
+Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
+MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwND
+cxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAxNzM1NDEyNiwt
+MTcyMTE5NDA1NV19
 -->
