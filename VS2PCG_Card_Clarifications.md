@@ -2736,8 +2736,15 @@ Q: If I had both Lokis in my deck would Satana remove all my Lokis (both male an
 
 A: Yes, remove all characters named Loki, even if they are different cards.
 
-^(Source: Rule insert)
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
+
+Q: Is Satana intended to remove copies of the character in play as well?
+
+A: No.
+
+^(Source: FB Post )
 
 # [Sauron](http://vs.tcgbrowser.com/images/cards/big/BOM-016.jpg)
 *Set: Brotherhood of Mutants*  
@@ -3286,7 +3293,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA2MzQ3NjYsMjA0OTYxMzQ1Nyw3OD
+eyJoaXN0b3J5IjpbLTE4MjgwMDI5MTksMjA0OTYxMzQ1Nyw3OD
 E1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0
 NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2ND
 YyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUx
