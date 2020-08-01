@@ -3055,7 +3055,9 @@ A: No, the game ends when you KO your opponent’s Main Character or they KO you
 
 Q: Juggernaut attacks Singularity who is in the front row, pays a Might and stuns her. Do the other characters come back in time for Juggernaut to declare his second attack or no?
 
-A:  
+A:  The controller of Singularity decides which row the characters come back into play. So they could put them in the front row, or the back row. So if they opt to put them all in the front row, it is no dice. If they put at least one in the back row, the next question then becomes, can Juggernaut attack them? And the answer is YES! You see, Singularity triggers upon her leaving play which is during combat resolution, so that is when her power triggers. Juggernaut on the other hand, triggers after combat resolution is over. Since Singularity triggered first, it will resolve first and your opponent could opt to put a character into his back row. IF he does, then it will be there for Juggernaut to attack when his trigger resolves.
+
+
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3475,11 +3477,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzM2MTc5LDE0NDE1NTI5NTAsLTMzMj
-kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
-LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
-Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
-LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
-EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
-NzA0NzFdfQ==
+eyJoaXN0b3J5IjpbLTM1MzA2NjM2OSwxNDQxNTUyOTUwLC0zMz
+I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
+NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
+k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
+OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
+kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
+MTcwNDcxXX0=
 -->
