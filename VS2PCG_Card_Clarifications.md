@@ -3057,7 +3057,21 @@ Q: Juggernaut attacks Singularity who is in the front row, pays a Might and stun
 
 A:  The controller of Singularity decides which row the characters come back into play. So they could put them in the front row, or the back row. So if they opt to put them all in the front row, it is no dice. If they put at least one in the back row, the next question then becomes, can Juggernaut attack them? And the answer is YES! You see, Singularity triggers upon her leaving play which is during combat resolution, so that is when her power triggers. Juggernaut on the other hand, triggers after combat resolution is over. Since Singularity triggered first, it will resolve first and your opponent could opt to put a character into his back row. IF he does, then it will be there for Juggernaut to attack when his trigger resolves.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
+
+Q: Singularity + Kingpin SC. I allow Kingpin to "take over", then move my original MC out with Singularity. He comes back and forgets that he is now a SC. Do I now have two MCs?
+
+A: No, Modifiers that demote or promote characters work across all zones. If you RFG a demoted MC, it will remain demoted when it comes back into play.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Prof X L2 and Singularity are on board. You use Prof X L2 to steal the opposing MC. At the end of your turn you remove the MC from game using Singularity. The opponent's turn starts, but now they have no MC... What happens? Does the Prof X player win?
+
+A: 
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3477,11 +3491,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzA2NjM2OSwxNDQxNTUyOTUwLC0zMz
-I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
-NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
-k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
-OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LD
-kxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1
-MTcwNDcxXX0=
+eyJoaXN0b3J5IjpbLTE4Nzg5NzE2MTgsMTQ0MTU1Mjk1MCwtMz
+MyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEw
+NjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNT
+E5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1
+NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOC
+w5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3
+NTE3MDQ3MV19
 -->
