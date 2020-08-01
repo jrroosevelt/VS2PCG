@@ -2897,7 +2897,10 @@ You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t h
 
 ^(Source: Rule insert)
 
-# Silver Sable
+# [Silver Sable](http://vs.tcgbrowser.com/images/cards/big/aff-040.jpg)
+*Set: A-Force*
+
+
 
 # [Silver Surfer](http://vs.tcgbrowser.com/images/cards/big/HER-005.jpg) (MC)
 *Set:  The Herald*  
@@ -3335,11 +3338,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MT
-U1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0
-LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0Nj
-I2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0
-ODUsLTEzNDUzMTE2MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC
-02NTQ2NzE2MzUsLTE3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0
-NTcwODkxXX0=
+eyJoaXN0b3J5IjpbNzMwNTEzMzAyLC0zMzI5Mjg4MTYsMjA0OT
+YxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2
+LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMD
+ExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4
+LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMj
+AwODk3MzEwMSwtNjU0NjcxNjM1LC0xNzc1MTcwNDcxLDcyNzQw
+ODk4MF19
 -->
