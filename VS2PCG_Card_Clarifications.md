@@ -2979,6 +2979,16 @@ A: The wording on Singularity specifically says they come into play on their *ow
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
+
+Q: Do characters return to their owners side readied and do you get to place which row when they are returned in this fashion?
+
+A: Whenever a character comes into play on your side, you choose which row it is in, and unless some other effect says otherwise, it always comes into play ready.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
 
 
 
@@ -3400,7 +3410,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODUxMDE1MCwxNDQxNTUyOTUwLC0zMz
+eyJoaXN0b3J5IjpbLTg5MDUwODU0OSwxNDQxNTUyOTUwLC0zMz
 I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
 NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
 k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
