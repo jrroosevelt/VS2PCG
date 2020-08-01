@@ -1227,7 +1227,7 @@ Goblin’s **Bag of Tricks** allows you to discard Locations to make him more po
 
 ^(Source: Rule insert)
 
-## Green Goblin (MC - Super Villains)
+## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/mnb-079.jpg) (MC - Super Villains)
 *Set: The Marvel Battles* 
 
 Q: How does his **Sadistic Choice** power work?
@@ -1729,7 +1729,7 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 
 # Loki
 
-## Loki (MC)
+## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
 *Set: The Marvel Battles*
 
 Q: How does his **God of Mischief** power work?
@@ -3193,7 +3193,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIyOTg2MDgsLTkyNzgwMTA2NSwxMD
+eyJoaXN0b3J5IjpbLTExMDQ2OTA2ODMsLTkyNzgwMTA2NSwxMD
 E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
 NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
 Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
