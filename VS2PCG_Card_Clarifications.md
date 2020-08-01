@@ -2422,7 +2422,7 @@ A: He would still be stunned since he will have wounds equal to his health (0 is
 
 ^(Source: Rule insert)
 
-# Pain and Suffering
+# [Pain and Suffering](http://vs.tcgbrowser.com/images/cards/big/def-050.jpg)
 *Set: Defenders*
 
 Q: Pain and Suffering has to played be during combat but does it have to target a character in the combat? It does not specify with "an attacker" or "a defender" or "a character in this combat" like cards like Even the Odds, Hidden Weapons, etc. do.
@@ -2466,7 +2466,7 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 
 ^(Source: Rule insert)
 
-## Pixie (SC)
+## [Pixie](http://vs.tcgbrowser.com/images/cards/big/aff-011.jpg) (SC)
 *Set: A-Force*
 
 Q: If I: 
@@ -3193,11 +3193,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNT
-A3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0
-LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
-gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
-ODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3NTE3MDQ3MS
-w3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEwMTczNTQxMjYsLTE3
-MjExOTQwNTVdfQ==
+eyJoaXN0b3J5IjpbNTM2MTMwNzEyLDc4MTU1NDQwMSwtOTI3OD
+AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
+MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
+A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
+MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLT
+E3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3
+MzU0MTI2XX0=
 -->
