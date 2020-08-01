@@ -2613,7 +2613,15 @@ A: No. You have to have no cards after the effect has finished resolving.
 
 ---
 
+Q: Can I discard a Skill location to activate **One Raccoon’s Garbage** and then randomly get it back with that power?
 
+A: Yes. If you’re lucky enough.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: Does Rocket Level up when The Infinity Gauntlet makes him discard his hand?
 
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
 *Set: The MCU Battles*  
@@ -3207,11 +3215,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDk2MDgyLDc4MTU1NDQwMSwtOTI3OD
-AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
-MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
-A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
-MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLT
-E3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3
-MzU0MTI2XX0=
+eyJoaXN0b3J5IjpbMTU1MTQ3MTA3Niw3ODE1NTQ0MDEsLTkyNz
+gwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1
+LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nz
+kwNjU2OSwxNjY5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzEx
+NjA4LDkxMzE2MDI4MSwtMjAwODk3MzEwMSwtNjU0NjcxNjM1LC
+0xNzc1MTcwNDcxLDcyNzQwODk4MCwtMjA2NDU3MDg5MSwtMTAx
+NzM1NDEyNl19
 -->
