@@ -2605,7 +2605,14 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mnb-053.jpg) (MC)
 **Set: The Marvel Battles**
 
-Q: Will his **Back Against the Wall** power trigger if I have no cards for a moment in the middle of resolving an effect? For example, if I use Emma Frost’s Mind Games on myself?
+Q: Will his **Back Against the Wall** power trigger if I have no cards for a moment in the middle of resolving an effect? For example, if I use Emma Frost’s **Mind Games** on myself?
+
+A: No. You have to have no cards after the effect has finished resolving.
+
+^(Source: UDE FAQ)
+
+---
+
 
 
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
@@ -3200,11 +3207,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg1MTU0ODQsNzgxNTU0NDAxLC05Mj
-c4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4
-NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Nj
-c5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMx
-MTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNS
-wtMTc3NTE3MDQ3MSw3Mjc0MDg5ODAsLTIwNjQ1NzA4OTEsLTEw
-MTczNTQxMjZdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDk2MDgyLDc4MTU1NDQwMSwtOTI3OD
+AxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUs
+MTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OT
+A2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2
+MDgsOTEzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLT
+E3NzUxNzA0NzEsNzI3NDA4OTgwLC0yMDY0NTcwODkxLC0xMDE3
+MzU0MTI2XX0=
 -->
