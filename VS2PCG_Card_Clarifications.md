@@ -3037,7 +3037,23 @@ A: Cards have to be in play for their powers to work unless their text says diff
 
 ---
 
-Q: 
+Q: Can I remove my Main Character with Singularity?
+
+A: Yes.
+
+^(Source: FB Post - UDE Approved)
+
+---
+
+Q: If a player uses Singularity's Pocket Dimension on his or her MC does that player lose the game?
+
+A: No, the game ends when you KO your opponent’s Main Character or they KO yours.
+
+^(Source: Rulebook - UDE Approved)
+
+---
+
+
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3457,7 +3473,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNzA5MDA5LDE0NDE1NTI5NTAsLTMzMj
+eyJoaXN0b3J5IjpbLTQ5NTYxMjEyLDE0NDE1NTI5NTAsLTMzMj
 kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
 LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
 Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
