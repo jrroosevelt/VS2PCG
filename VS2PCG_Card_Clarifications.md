@@ -2933,7 +2933,14 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: Rule insert)
 
 # Singularity
-## Singularity 
+## [Singularity](http://vs.tcgbrowser.com/images/cards/big/LEG-055.jpg) (MC)
+*Set: Legacy* 
+
+Q: If three of my 1 drop characters are KO'd by Electro, can I use Envelop to return all of them to my hand?
+
+A: 
+
+
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/BAN-004.jpg) (SC - AFF-015)
 *Set A-Force*
 
@@ -3519,11 +3526,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU5OTUzMzUsMTQ0MTU1Mjk1MCwtMz
-MyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEw
-NjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNT
-E5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1
-NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOC
-w5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3
-NTE3MDQ3MV19
+eyJoaXN0b3J5IjpbLTYzODY2NjYwLDE0NDE1NTI5NTAsLTMzMj
+kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
+LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
+Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
+LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzFdfQ==
 -->
