@@ -3071,7 +3071,21 @@ A: No, Modifiers that demote or promote characters work across all zones. If you
 
 Q: Prof X L2 and Singularity are on board. You use Prof X L2 to steal the opposing MC. At the end of your turn you remove the MC from game using Singularity. The opponent's turn starts, but now they have no MC... What happens? Does the Prof X player win?
 
-A: 
+A: No, it's fine if a player's MC is removed from the game. A player only loses if their MC is on an enemy player's side at the start of that enemy player's turn
+
+^(Source: Chad Daniel & Michal - UDE Approved)
+
+---
+
+Q: What exactly counts as a "Counter" - for Singularity? Are Wounds and XP "Counters," or only +1's and -1's?
+
+A: All of the above.
+
+^(Source: FB Post - UDE Approved)
+
+---
+
+Q: If you use Play Dead on Singularity do the removed cards stay removed or enter play?
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3491,11 +3505,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg5NzE2MTgsMTQ0MTU1Mjk1MCwtMz
-MyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEw
-NjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNT
-E5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1
-NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOC
-w5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3MTYzNSwtMTc3
-NTE3MDQ3MV19
+eyJoaXN0b3J5IjpbMjI5NzYwNDkwLDE0NDE1NTI5NTAsLTMzMj
+kyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1
+LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOT
+Q0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5
+LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOT
+EzMTYwMjgxLC0yMDA4OTczMTAxLC02NTQ2NzE2MzUsLTE3NzUx
+NzA0NzFdfQ==
 -->
