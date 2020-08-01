@@ -2999,7 +2999,15 @@ A: They are gone, but you can get them again by using the Goblin Queen to make m
 
 Q: How does Singularity interact with Captain America SC's **Inspire** with other characters appearing, along with the Captain himself?
 
-A: 
+A: They all come into play at the same time and when characters enter play at the same time, each of them will "see" the others also coming into play, so Inspire will trigger for all the other characters.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: When a Character targeted by Nullify is removed with Pocket Dimension, does it come back free from the Nullify?
+
+
 
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
@@ -3420,7 +3428,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI5Njg3MywxNDQxNTUyOTUwLC0zMz
+eyJoaXN0b3J5IjpbLTkzNDc1MzgwMSwxNDQxNTUyOTUwLC0zMz
 I5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2
 NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MT
 k0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2
