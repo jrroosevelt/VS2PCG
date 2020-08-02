@@ -156,12 +156,6 @@ This rule change is to unify the intent that a Wild location can be used to gene
 ## Individual Card Rulings/Changes
 
 
-### **Winter Soldier**
-
-* *Winter Soldier MC will not gain experience if he can't "Freeze"*
-
-A commonly asked interaction on the Winter Soldier MC is whether or not you can use an effect like X-Factor to ready him the same turn he has frozen himself, then gain another XP.  The final ruling is that the Freeze effect is a cost that must be paid to gain the XP and a Frozen character cannot Freeze again.  Winter Soldier must wait until he is no longer Frozen (normally two turns after gaining the first XP) before he is eligible to Freeze again and gain the second XP.
-
 ### **Fin Fang Foom**
 
 * *[Fin Fang Foom](https://i.imgur.com/e0WOynY.png) cannot attack a row if any character in that row is an illegal target*
@@ -241,5 +235,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODgzOTM3OCwxODA4MTA3ODc1XX0=
+eyJoaXN0b3J5IjpbLTYzNzM5MDIxNywxODA4MTA3ODc1XX0=
 -->
