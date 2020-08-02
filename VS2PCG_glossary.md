@@ -604,6 +604,11 @@ A: Frozen only stops readying, so yes
 
 * The team or teams to which this character belongs. Typically the team affiliation is indicated by the icon in the upper-right corner of the card, though there are cards that can grant or remove affiliations. Team Affiliation is *not* lost when the character is face-down.
 
+---
+
+Q: If team affiliation isn't lost when the character is face-down, does that mean I can play plot twists for a given team affiliation even if all my characters on that team are face-down?
+
+A: No. Though they keep their team affiliation when face-down, you must have a face-up character with that team affiliation in order to play a plot twist of that affiliation. (Though there are some characters with powers that
 
 # Token  
   
@@ -670,6 +675,6 @@ A: Frozen only stops readying, so yes
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDE3NDI2MiwzMTAzOTc5MCwxNTk0OD
+eyJoaXN0b3J5IjpbMTg2ODU1NTE4NywzMTAzOTc5MCwxNTk0OD
 QxODk3XX0=
 -->
