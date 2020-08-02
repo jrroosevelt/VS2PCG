@@ -2357,9 +2357,12 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 > The Nullifier's effect can be Nullified by effects that turn off keyword powers and if it changes sides it will target the updated "enemy characters" as the affected target(s).
 
-This was clarified in July 2019 that many people were playing this card incorrectly. We originally believed this card to work in a way that made Nullifier's effect independent of the card itself, so it could not be Nullified. Essentially that the effect and targets would be unchanged until the card left the play zone, even if it swapped sides or got targetted by Cosmo or another Nullifier.
+This was clarified in July 2019 that many people were playing this card incorrectly. We originally believed this card to work in a way that made Nullifier's effect independent of the card itself, so it could not be Nullified. Essentially that the effect and targets would be unchanged until the card left the play zone, even if it swapped sides or got targeted by Cosmo or another Nullifier.
 
 ^(Source: UDE official clarification)
+
+To explain differently:
+
 
 ---
 
@@ -3536,11 +3539,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0Mz
-Q3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYxMzQ1
-Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMj
-U1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4
-Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xND
-IwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3
-MzEwMV19
+eyJoaXN0b3J5IjpbLTE4NjM0ODI4MDIsMTIyOTY0MjI2Miw3Mz
+g5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4
+MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMD
+E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
+NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
+Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
+MDI4MV19
 -->
