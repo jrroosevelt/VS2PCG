@@ -3345,8 +3345,18 @@ Her **Intangibility** power lets her strike characters while they're in a player
 ^(Source: Rule insert)
 
 # Storm
-## Storm (MC)
-*Set: Resistance*
+## [Storm](http://vs.tcgbrowser.com/images/cards/big/mnb-027.jpg) (MC)
+*Set: The Marvel Battles*
+
+Q: With her “Lightning Storm” power, can I put both -1/-1 counters on the same enemy character?
+
+A: Yes.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: Will using Deadpool’s (SC) power “Can’t Keep a Bad Man Down” trigger Storm’s “Children of the Atom”?
 
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg) (SC)
 *Set: Resistance*  
@@ -3614,7 +3624,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjEzNjQ1OSwxMjI5NjQyMjYyLDczOD
+eyJoaXN0b3J5IjpbMTE1MjA3NDg3MywxMjI5NjQyMjYyLDczOD
 kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
 NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
 UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
