@@ -3452,7 +3452,14 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 
 ^(Source: Rule insert)
 
+# Thanos
 
+## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BAN-002.jpg) (MC - MNB-085)
+*Set: The Marvel Battles*
+
+[This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_thanos_mc_.28marvel_battles.29).
+
+## 
 
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 *Set: Black Order*  
@@ -3663,11 +3670,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzA1MDU4MCwxNTQxODkzNDM1LDEyMj
-k2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1
-MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mj
-c4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4
-NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Nj
-c5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMx
-MTYwOF19
+eyJoaXN0b3J5IjpbLTE5ODY0NjYyNTAsMTU0MTg5MzQzNSwxMj
+I5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5
+NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOT
+I3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0
+ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNz
+Y3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUz
+MTE2MDhdfQ==
 -->
