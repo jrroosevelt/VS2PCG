@@ -599,7 +599,9 @@ A: Frozen only stops readying, so yes
   
 
 * This character can have and gain +1/+1 counters while stunned.  
-  
+
+# Team Affiliation  
+
 
 # Token  
   
@@ -666,5 +668,6 @@ A: Frozen only stops readying, so yes
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMzk3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbMTAwNjMyNzMyNCwzMTAzOTc5MCwxNTk0OD
+QxODk3XX0=
 -->
