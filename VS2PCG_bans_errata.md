@@ -157,11 +157,6 @@ This rule change is to unify the intent that a Wild location can be used to gene
 
 
 
-### **Supreme Leader MC**
-
-* *[Supreme Leader's](https://i.imgur.com/usAYbmJ.jpg) effect will prevent you from losing the game and will also prevent other players from winning the game*
-
-Supreme Leader MC is worded in a way that may make veterans of other card games such as Magic the Gathering believe that a card like [Dutch SC](https://i.imgur.com/N3EzGfJ.jpg) or [Deadpool MC](https://i.imgur.com/3Qt4DfF.png) may still allow an alternate win condition.  After all, in MtG a player being unable to lose doesn't prevent another player from winning as they are isolated effects.  In VS 2PCG this is considered an extension of the "can't beats can" rule.  By that logic, alternate win conditions are ignored as long as Supreme Leader is preventing its controller from losing the game.
 
 ### **Copycat**
 
@@ -222,5 +217,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM2MDU2NzUsMTgwODEwNzg3NV19
+eyJoaXN0b3J5IjpbMTU1NDI4OTQyOCwxODA4MTA3ODc1XX0=
 -->
