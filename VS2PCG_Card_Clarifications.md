@@ -1111,7 +1111,7 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 
 ---
 
-Gambit's level up condition is misprinted and should read "Level Up (4) – When you discard one or more cards, Gambit gains an XP."_
+[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_gambit_mc)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/mnb-041.jpg) (SC)
 *Set: The Marvel Battles*
@@ -2862,6 +2862,8 @@ Note: A **Hostage** is never actually in play. It's either in a Hostage pile, be
 # [Serpent Crown](http://vs.tcgbrowser.com/images/cards/big/SVH-056.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
+# Shadow
+
 # [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
 *Set: Brotherhood of Mutants*  
 
@@ -3831,7 +3833,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTQ4Mzc3OCwtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbLTYwOTA1ODIzOSwtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
