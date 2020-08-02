@@ -356,6 +356,13 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
+---
+
+Q: Question about Cables LV2 ability **Time Travel** is that super power basically like a board reset? I know it says KO'ed pile, hand, and removed, and all other cards on there side, meaning cards in play, resource row? Just wanted to double check on the cards in there side part.
+
+A: 
+
+
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
 *Set: The Marvel Battles*
 
@@ -3950,11 +3957,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA0NzYyNjgsMTExNDE1MjMwMCwxMT
-Q2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4
-OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2Mi
-wxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1
-NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NC
-wtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYy
-NjA2NTNdfQ==
+eyJoaXN0b3J5IjpbMjE0NDE0MDQxMSwxMTE0MTUyMzAwLDExND
+Y3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5
+MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLD
+E0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1
+NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC
+01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2
+MDY1M119
 -->
