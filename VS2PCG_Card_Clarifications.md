@@ -2367,7 +2367,9 @@ First, the Nullifier does two things: A triggered power when it appears (you nam
 
 Because this is now classified as a continuous modifier it means that it will impact characters played after the Nullifier entered play.
 
-It also mean
+It also means that the Nullifier can now be Nullified. Cosmo or an opposing Nullifier can now Nullify the continuous modifier. It also means that when Grid steals a Nullifier it continues to work, targeting *enemy* characters. This turns the Nullifier against the player who played it.
+
+^(Source: FB Post - Benjamin Brozene)
 
 ---
 
@@ -3544,11 +3546,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM3NzQ4MTMsMTIyOTY0MjI2Miw3Mz
-g5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4
-MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMD
-E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
-NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
-Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
-MDI4MV19
+eyJoaXN0b3J5IjpbOTcyMzI4NjE5LDEyMjk2NDIyNjIsNzM4OT
+M5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2
+LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNT
+A3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0
+LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
+gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
+ODFdfQ==
 -->
