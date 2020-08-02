@@ -3313,14 +3313,21 @@ Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance O
 
 ^(Source: Rule insert)
 
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC)
+## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
 *Set: The MCU Battles*  
 
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 ^(Source: Rule insert)
 
-## Star Lord (SC 
+## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
+*Set: Marvel Battles*
+
+Q: Does **Space Cop** affect Level Up powers? How about Flight and Range?
+
+A: Yes to all the above.
+
+^(Source: UDE FAQ)
 
 # \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
 *Set: Galactic Guardians*  
@@ -3603,7 +3610,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkwMzA2MSwxMjI5NjQyMjYyLDczOD
+eyJoaXN0b3J5IjpbMTA4MTU3Nzk0MCwxMjI5NjQyMjYyLDczOD
 kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
 NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
 UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
