@@ -360,7 +360,9 @@ Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the
 
 Q: Question about Cables LV2 ability **Time Travel** is that super power basically like a board reset? I know it says KO'ed pile, hand, and removed, and all other cards on there side, meaning cards in play, resource row? Just wanted to double check on the cards in there side part.
 
-A: 
+A: Yes. Only wounds, levels, and equipment on MCs remain as-is.
+
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/586933857715224598))
 
 
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
@@ -3957,7 +3959,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDE0MDQxMSwxMTE0MTUyMzAwLDExND
+eyJoaXN0b3J5IjpbMTE0OTk2ODgxMywxMTE0MTUyMzAwLDExND
 Y3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5
 MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLD
 E0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1
