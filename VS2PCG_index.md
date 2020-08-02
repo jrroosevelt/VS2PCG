@@ -28,10 +28,9 @@ Check out the [*wiki page on the Events and Featured Formats*](https://www.reddi
 
 ## **Clarifications, Rulings, FAQs, Errata, Etc.**
 
-Rule changes, card bans & errata, misprints, and tournament-specifi
-[Wiki page containing](https://www.reddit.com/r/VS2PCG/wiki/rulings) information on rule changes, bans, errata and tournament-specific rules.
+[Rule changes, card bans & errata, misprints, and tournament-specific rules](https://www.reddit.com/r/VS2PCG/wiki/rulings)
 
-[Card clarifications and FAQ](https://www.reddit.com/r/VS2PCG/wiki/rules-insert) Clarifications and FAQs on specific cards from sources including Rule Inserts, official FAQs, and community posts
+[Card-specific clarifications and FAQ](https://www.reddit.com/r/VS2PCG/wiki/rules-insert) Clarifications and FAQs on specific cards from sources including Rule Inserts, official FAQs, and community posts
 
 ## **Lists and Databases**
 
@@ -115,5 +114,5 @@ Email qa@upperdeck.com if you buy a box that you discover is missing any cards. 
 
 * In the Friendly Neighborhood set, released in March 2020, the L1 Main Character [Mysterio card was misprinted](https://www.upperdeckblog.com/2020/03/vs-system-2pcg-friendly-neighborhood-card-preview-mysterious/?fbclid=IwAR0Fuo-OuTRNMy2Urd5l-wLPZtrnAg4Nsx70IBAonWCNN72WcPEgBMUvWlA).  Reach out to qa@upperdeck.com for a corrected copy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTQ2NDc3Nl19
+eyJoaXN0b3J5IjpbLTE2NjIwOTA3ODFdfQ==
 -->
