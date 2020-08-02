@@ -3749,6 +3749,8 @@ Here are the four Plot Twists he has at his disposal:
 
 ^(Source: Rule insert)
 
+# Wolverine (MC)
+
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 *Set: The Fantastic Battles*  
 
@@ -3787,7 +3789,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjEzNDg0NiwtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMTIwNjI3NzAxNywtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
