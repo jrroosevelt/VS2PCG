@@ -2353,6 +2353,22 @@ In this Arc, we are playing around with how players can use locations besides su
 
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
+---
+
+> The Nullifier's effect can be Nullified by effects that turn off keyword powers and if it changes sides it will target the updated "enemy characters" as the affected target(s).
+
+This was clarified in July 2019 that many people were playing this card incorrectly. We originally believed this card to work in a way that made Nullifier's effect independent of the card itself, so it could not be Nullified. Essentially that the effect and targets would be unchanged until the card left the play zone, even if it swapped sides or got targetted by Cosmo or another Nullifier.
+
+^(Source: UDE official clarification)
+
+---
+
+> The Nullifier only affect powers that resolve in the play zone.
+
+This was clarified in July 2019 that the Nullifier will have no effects on powers that resolve before they appear such as Dark Phoenix SC who has a "When you recruit Dark Phoenix" trigger. Recruiting happens before appearing so it cannot be stopped with the Nullifier. This is also true of cards that have effects that will resolve from your hand such as Shadowcat SC's Intagible Escape. You can still name a power that is not in play yet, but Nullifier will only act upon that power once the card is in play and some effects will resolve before that point.
+
+
+
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
 *Set: The Fantastic Battles*  
 
@@ -3520,11 +3536,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MT
-U1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAx
-LC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNz
-IxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUz
-LDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMT
-M0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5NzMxMDEsLTY1NDY3
-MTYzNV19
+eyJoaXN0b3J5IjpbLTE3OTQxODU1NjUsNzM4OTM5MjY0LDE4ND
+M0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0
+NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMz
+I1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYy
+ODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMT
+QyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5
+NzMxMDFdfQ==
 -->
