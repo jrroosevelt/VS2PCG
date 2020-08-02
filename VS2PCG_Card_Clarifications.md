@@ -1470,6 +1470,10 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 
 ^(Source: Rule insert)
 
+---
+
+[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
+
 # Infinity Gems
 *Set: Black Order*  
 
@@ -3836,11 +3840,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzI0MzcsLTE1NTM0MjI3NDMsLTEyMj
-MzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2
-NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNiwyMD
-Q5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEz
-NDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOT
-EwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0
-OThdfQ==
+eyJoaXN0b3J5IjpbMjUwNTE4NzkyLC0xNTUzNDIyNzQzLC0xMj
+IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
+NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
+A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
+MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
+kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
+NDk4XX0=
 -->
