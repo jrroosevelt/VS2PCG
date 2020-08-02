@@ -3468,6 +3468,12 @@ A: Yes.
 
 ^(Source: UDE FAQ)
 
+---
+
+Q: When a token takes lethal damage, does it become KO'd and count towards Thanos' level up ability?
+
+A
+
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 *Set: Black Order*  
 
@@ -3677,11 +3683,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMj
-I5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5
-NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOT
-I3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0
-ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNz
-Y3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUz
-MTE2MDhdfQ==
+eyJoaXN0b3J5IjpbMjExNDMzMzg4MiwtMTIyMzM0MTkzMCwxNT
+QxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1
+NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNz
+gxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQx
+NDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNj
+Q2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1
+MTQ4NV19
 -->
