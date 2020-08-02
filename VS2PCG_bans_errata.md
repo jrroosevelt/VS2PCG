@@ -155,15 +155,6 @@ This rule change is to unify the intent that a Wild location can be used to gene
 
 ## Individual Card Rulings/Changes
 
-### **Taskmaster**
-
-* *Keyword abilities are only in effect while the character card is in play unless otherwise specified.*
-
-Previous to [Taskmaster's](https://i.imgur.com/85KjJHT.jpg) release, keyword abilities were active in all zones.  This allowed cards such as [Hope Summers](https://i.imgur.com/R2iOAee.png) to use their powers from the hand, deck or KO pile.  With the release of Taskmaster, this rule became limiting on design of future cards and was changed.  (For example, Taskmaster was able to be recruited from the deck with [Spider-Gwen's](https://i.imgur.com/ZkdbqZ0.png) Dimensional Watch keyword if your opponent had her in play.)
-
-* *A copied power can't copy a power with the same name as itself.*
-
-An infinite loop was discovered when [Taskmaster](https://i.imgur.com/85KjJHT.jpg) was across from an opposing Taskmaster where they would gain a copy of, then continuously copy the printed version of their opponent's Photgraphic Reflexes.  With this additional rule, this scenario would result in Taskmaster gaining two instances of all keyword powers for face-up enemy supporting characters, but the loop would not continue beyond two instances.
 
 ### **Winter Soldier**
 
@@ -250,5 +241,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU3Nzg5NTUsMTgwODEwNzg3NV19
+eyJoaXN0b3J5IjpbMTM4ODgzOTM3OCwxODA4MTA3ODc1XX0=
 -->
