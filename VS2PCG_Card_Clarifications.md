@@ -2206,6 +2206,10 @@ When Mr. Black and the defender strike each other:
 
 [This card has a misprint (or errata?).](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mr._black_mc)
 
+---
+
+See also Devil Slayer for a similar ability question.
+
 # [Ms. Marvel](http://vs.tcgbrowser.com/images/cards/big/mnb-017.jpg)
 *Set: The Marvel Battles*
 
@@ -3946,7 +3950,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk4OTMwNjksMTExNDE1MjMwMCwxMT
+eyJoaXN0b3J5IjpbLTE1NTk3MDI4ODEsMTExNDE1MjMwMCwxMT
 Q2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4
 OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2Mi
 wxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1
