@@ -1051,14 +1051,23 @@ Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at on
 
 For example, if [Xenomorph Ambusher](https://i.imgur.com/XHtrRFS.jpg) was in the back row, Fin Fang Foom cannot declare an attack on that row due to the Ambusher's "Camouflage" keyword.
 
+^(Source: Official Clarification)
+
+---
 
 > If an effect would remove a defender from the attack when Fin Fang Foom is the attacker, that defender remains removed from the attack even if it did not change rows
 
 This ruling was made to clarify how Fin Fang Foom would interact with cards such as [Dramatic Entrance](https://i.imgur.com/bit8aVS.jpg) or [Uncanny Defense](https://i.imgur.com/unboeQ6.png) that remove a defender from the combat, but may still result in the defender occupying the row that Foom is attacking.  The ruling is that the defender removed by one of these cards is no longer part of the combat.
 
-* *The [Massive](https://i.imgur.com/e0WOynY.png) keyword does not combine with special attack declarations such as attacking a [Machine](https://i.imgur.com/Fg27kSk.jpg) or attacking a Location.*
+^(Source: Official Clarification)
+
+---
+
+>The [Massive](https://i.imgur.com/e0WOynY.png) keyword does not combine with special attack declarations such as attacking a [Machine](https://i.imgur.com/Fg27kSk.jpg) or attacking a Location.
 
 Attacking a machine is a special type of attack declaration that can only be done if all conditions are met. (No face up characters in the same row as the machine and the attacker can otherwise legally make an attack on that row.)  This was compared to attacking a location with the keyword on [The Thing That Crawls By Night](https://i.imgur.com/U3yOlXN.jpg).  Attacking a row with Massive is Foom's normal attack mode and does not combine with these special attack declarations.  That said, if Foom attacks a row with a Machine in it, he will simply not strike the Machine.  Foom can choose to make a single target attack on the machine if the other conditions are met allowing him to do so.  This is the same as the power on [The Thing That Crawls By Night](https://i.imgur.com/U3yOlXN.jpg) where if an SC were to gain both powers at once, they could not attack multiple Locations in a player's row.  They would need to either attack the front or back row with Massive or attack a Location with the keyword "Nothing is Too Big For it to Attack!"
+
+^(Source: Official Clarification)
 
 # [The First Evil](http://vs.tcgbrowser.com/images/cards/big/TBB-034.jpg) (MC) 
 *Set: The Buffy Battles*  
@@ -3488,6 +3497,12 @@ Supreme Leader has a Super Power which prevents you from losing the game even af
 
 ^(Source: Rule insert)
 
+---
+
+*>Supreme Leader's.imgur.com/usAYbmJ.jpg) effect will prevent you from losing the game and will also prevent other players from winning the game*
+
+Supreme Leader MC is worded in a way that may make veterans of other card games such as Magic the Gathering believe that a card like [Dutch SC](https://i.imgur.com/N3EzGfJ.jpg) or [Deadpool MC](https://i.imgur.com/3Qt4DfF.png) may still allow an alternate win condition.  After all, in MtG a player being unable to lose doesn't prevent another player from winning as they are isolated effects.  In VS 2PCG this is considered an extension of the "can't beats can" rule.  By that logic, alternate win conditions are ignored as long as Supreme Leader is preventing its controller from losing the game.
+
 # [Sweet](http://vs.tcgbrowser.com/images/cards/big/TBB-047.jpg)
 *Set: The Buffy Battles*  
 
@@ -3891,7 +3906,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjA0MTg2NywtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMjAyNDEyODY4NywtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
