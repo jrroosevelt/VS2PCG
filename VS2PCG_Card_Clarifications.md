@@ -3760,7 +3760,19 @@ A: Yes, because it only checks if it was a solo attack during combat resolution.
 
 ---
 
+Q: If Wolverine is stunned as an enemy character is stunned as the result of striking each other, will Wolverine get an XP?
 
+A: Yes.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: Scenario: Wolverine level 2 has 4 wounds and 1 XP. He attacks and trades with a defender. Question: Does wolverine take his 5th wound and get KO'd or can he get the XP and level up first (gaining a 6th health).
+
+A: There is a difference between a stunned Wolverine leveling up while stunned and a stunned Wolverine leveling up before he is KO'ed. While technically the level-up power will trigger, by the time it resolves, Wolverine is already KO'ed.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 *Set: The Fantastic Battles*  
@@ -3800,11 +3812,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0ODk2MDcxLC0xNTUzNDIyNzQzLC0xMj
-IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
-NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
-A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
-MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
-kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
-NDk4XX0=
+eyJoaXN0b3J5IjpbMTU5NTg4Nzc2NSwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
+05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
+MDQ5OF19
 -->
