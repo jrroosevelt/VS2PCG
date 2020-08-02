@@ -3153,6 +3153,17 @@ A: The restriction is applied to that physical card, if your opponent uses the s
 
 Q: Do you have to Shuffle your deck after you search?
 
+A: Yes.
+
+^(Source: Chad Daniel - UDE Approved)
+
+---
+
+Q: If I only have a Villain Main Character and Sister Grimm in play and I search up an Avenger's Team Stamped Plot Twist, I am not able to play it. Where does it go?
+
+A: It stays in the deck.
+
+^(Source: Chad Daniel - UDE Approved)
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3572,11 +3583,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODExNDIwNywxMjI5NjQyMjYyLDczOD
-kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
-NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
-UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
-NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxXX0=
+eyJoaXN0b3J5IjpbLTEwNjAwMTU1MTUsMTIyOTY0MjI2Miw3Mz
+g5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4
+MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMD
+E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
+NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
+Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
+MDI4MV19
 -->
