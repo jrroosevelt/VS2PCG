@@ -3762,6 +3762,14 @@ If Willow gets KO’d or otherwise is no longer on your side, you won’t be abl
 # [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/def-033.jpg) (MC)
 *Set: The Defenders* 
 
+> Winter Soldier MC will not gain experience if he can't "Freeze"
+
+A commonly asked interaction on the Winter Soldier MC is whether or not you can use an effect like X-Factor to ready him the same turn he has frozen himself, then gain another XP.  The final ruling is that the Freeze effect is a cost that must be paid to gain the XP and a Frozen character cannot Freeze again.  Winter Soldier must wait until he is no longer Frozen (normally two turns after gaining the first XP) before he is eligible to Freeze again and gain the second XP.
+
+^(Source: Official clarification)
+
+---
+
 Q: Can Winter Solider team attack to Level Up?
 
 A: Yes, Winter Soldier gets credit for stunning a character in a team attack.
@@ -3773,16 +3781,6 @@ A: Yes, Winter Soldier gets credit for stunning a character in a team attack.
 Q: Does Winter Soldier gain an XP if he is stunned while stunning a defender?
 
 A: Yes.
-
-^(Source: FB Post - Chad Daniel - UDE Approved)
-
----
-
-Q: Can I gain 2 XP in a single turn with Winter Solder (MC) if I attack (with an X-Men character on board) and stun a character, freeze, and then ready with X-Factor and attack again and stun another character?
-
-A: No. While you could use X-Factor to ready him and attack again, you would not be able to get another XP. Winter Soldier's text says, When Winter Soldier stuns a defending enemy character, you may Freeze Winter Soldier if he's not already Frozen. If you do, he gains an XP." Since he is already frozen, you can not freeze him again to get a 2nd XP."  
-  
-Note: This wording has been updated in the Official Card Reference Document.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
@@ -3878,11 +3876,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk3NDUyNDgsLTE1NTM0MjI3NDMsLT
-EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
-OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
-wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
-NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
-wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
-MzA0OThdfQ==
+eyJoaXN0b3J5IjpbLTQwNzI2NDA5OSwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
+05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
+MDQ5OF19
 -->
