@@ -716,7 +716,11 @@ When Devil-Slayer and the defender strike each other:
 
 ---
 
-Q: 
+Q: I have Devil-Slayer. My opponent has a stunned character in their back row and a face-up character in their front row. Can Devil-Slayer attack the stunned character in the back row? I'm asking because the comp rules state that a stunned character "can't be protected".
+
+A: No. Devil Slayer still has to follow all the other legal attack rules. He doesn't have flight so he can't ignore the front row.
+
+^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
 *Set: The Fantastic Battles*  
@@ -3942,11 +3946,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NTQwNDUwLDExMTQxNTIzMDAsMTE0Nj
-cwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkz
-NDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMT
-Q0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0
-NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLT
-UwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYw
-NjUzXX0=
+eyJoaXN0b3J5IjpbLTE2NDk4OTMwNjksMTExNDE1MjMwMCwxMT
+Q2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4
+OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2Mi
+wxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1
+NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NC
+wtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYy
+NjA2NTNdfQ==
 -->
