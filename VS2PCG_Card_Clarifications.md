@@ -3148,7 +3148,11 @@ A: The restriction is applied to that physical card, if your opponent uses the s
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-## 
+## [Sister Grimm](http://vs.tcgbrowser.com/images/cards/big/aff-010.jpg) (SC)
+*Set: A-Force*
+
+Q: Do you have to Shuffle your deck after you search?
+
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3568,7 +3572,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTM4NDUwNCwxMjI5NjQyMjYyLDczOD
+eyJoaXN0b3J5IjpbLTIyODExNDIwNywxMjI5NjQyMjYyLDczOD
 kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
 NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
 UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
