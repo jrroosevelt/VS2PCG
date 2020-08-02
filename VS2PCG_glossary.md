@@ -1,11 +1,7 @@
   
-VS2PCG_bans_errata
+# Common Glossary and FAQ of Keywords and Effects    
 
-  
-#Common Glossary of Keywords and Effects  
-  
-
-Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  
+Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This 
   
 
 #  [Absorption History](https://www.upperdeckblog.com/2019/07/h-a-m-m-e-r-time/)  
@@ -679,6 +675,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNjM0ODE2LDMxMDM5NzkwLDE1OTQ4ND
-E4OTddfQ==
+eyJoaXN0b3J5IjpbMTI3NTE5NjkzNSwzMTAzOTc5MCwxNTk0OD
+QxODk3XX0=
 -->
