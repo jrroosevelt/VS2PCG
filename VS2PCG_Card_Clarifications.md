@@ -3165,6 +3165,12 @@ A: It stays in the deck.
 
 ^(Source: Chad Daniel - UDE Approved)
 
+---
+
+Q: Does Sister Grimm have to be in combat to use her ability?
+
+A: No, The Staff of One has "Any Combat" Which allows it to be used during any combat, even one she is not a part of.
+
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
 
@@ -3583,11 +3589,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAwMTU1MTUsMTIyOTY0MjI2Miw3Mz
-g5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4
-MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMD
-E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
-NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
-Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
-MDI4MV19
+eyJoaXN0b3J5IjpbNjU3MzIyNTcsMTIyOTY0MjI2Miw3Mzg5Mz
+kyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYs
+MjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MD
+cxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQs
+LTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5OD
+MwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4
+MV19
 -->
