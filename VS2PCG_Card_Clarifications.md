@@ -3622,6 +3622,7 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 
 
 
+
 # [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC)
 *Set: Crossover*  
 
@@ -3739,7 +3740,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODM4MDE0MSwtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMjA3MTQ4NDUwNywtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
