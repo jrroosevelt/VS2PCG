@@ -2167,6 +2167,12 @@ See [Devil Dinosaur](#wiki_devil_dinosaur).
 
 Q: Hi all, if Moonstone gets KO’d, do the characters in play get flight back?
 
+A: Yes.
+
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/558239352535384064))
+
+*Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
+
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
 *Set: A-Force*  
 
@@ -3932,11 +3938,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU5NjAwMDAsMTE0NjcwNDU5MCwtMT
-U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
-NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MC
-wtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4
-MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NS
-wxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5
-MDY1NjldfQ==
+eyJoaXN0b3J5IjpbMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNT
+UzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0
+MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC
+0zMzI5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgw
+MTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LD
+E1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nzkw
+NjU2OV19
 -->
