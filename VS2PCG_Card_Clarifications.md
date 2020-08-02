@@ -3620,7 +3620,11 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 # [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg)
 *Set: The Defenders*
 
+Q: Do you still have to spend resource points to recruit after activating Valkyrie's **Chooser of the Slain**?
 
+A: Yes. Valerie doesn't allow you to play from KO pile for free. It specifically says you can recruit from KO pile which means you would have to pay recruit cost to play the character from KO pile.
+
+^(Source: FB Post - Michael Palmer)
 
 
 # [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC)
@@ -3740,7 +3744,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTQ4NDUwNywtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMTI0OTU5MDcwNiwtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
