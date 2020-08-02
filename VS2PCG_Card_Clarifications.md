@@ -3642,6 +3642,8 @@ Q: Does removing -1/-1 counters from Venom (via power up, Fair and Balanced, etc
 
 A: The ways you mentioned do not "remove -1/-1" they add +1/+1 counters to a character. It is only after they are added that the rules of the game will then remove +1/+1 counters and -1/-1 counters until only one kind remain or none. So yes, they will trigger Venom's level up power.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 # [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
 *Set: The Predator Battles*  
 
@@ -3690,6 +3692,9 @@ Her Spellcasting power lets you play Plot Twists from your Spellbook, putting th
 If Willow gets KO’d or otherwise is no longer on your side, you won’t be able to access the Plot Twists in your Spellbook. But if you play another copy of Willow, then you can use your Spellbook again.
 
 ^(Source: Rule insert)
+
+# Winter Soldier (MC)
+*Set: THe Defenders
 
 # [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
 *Set: The Fantastic Battles*  
@@ -3750,11 +3755,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NTU2Mzk2LC0xNTUzNDIyNzQzLC0xMj
-IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
-NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
-A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
-MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
-kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
-NDk4XX0=
+eyJoaXN0b3J5IjpbMTg2MTUwNTM3OCwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
+05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
+MDQ5OF19
 -->
