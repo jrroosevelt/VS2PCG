@@ -3253,6 +3253,10 @@ A: No, **The Staff of One** has "Any Combat" Which allows it to be used during a
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+# [Sister Ripley](http://vs.tcgbrowser.com/images/cards/big/ALN-005.jpg)
+*Set: The Alien Battles*
+
+Q: 
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3919,11 +3923,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMT
-IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
-MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
-IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
-MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
-05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
-MDQ5OF19
+eyJoaXN0b3J5IjpbLTE4MjAwNzU2MTIsMTE0NjcwNDU5MCwtMT
+U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
+NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MC
+wtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4
+MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NS
+wxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5
+MDY1NjldfQ==
 -->
