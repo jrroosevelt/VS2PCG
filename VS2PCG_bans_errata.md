@@ -156,19 +156,6 @@ This rule change is to unify the intent that a Wild location can be used to gene
 ## Individual Card Rulings/Changes
 
 
-### **Fin Fang Foom**
-
-* *[Fin Fang Foom](https://i.imgur.com/e0WOynY.png) cannot attack a row if any character in that row is an illegal target*
-
-For example, if [Xenomorph Ambusher](https://i.imgur.com/XHtrRFS.jpg) was in the back row, Fin Fang Foom cannot declare an attack on that row due to the Ambusher's "Camouflage" keyword.
-
-* *If an effect would remove a defender from the attack when [Fin Fang Foom](https://i.imgur.com/e0WOynY.png) is the attacker, that defender remains removed from the attack even if it did not change rows*
-
-This ruling was made to clarify how Fin Fang Foom would interact with cards such as [Dramatic Entrance](https://i.imgur.com/bit8aVS.jpg) or [Uncanny Defense](https://i.imgur.com/unboeQ6.png) that remove a defender from the combat, but may still result in the defender occupying the row that Foom is attacking.  The ruling is that the defender removed by one of these cards is no longer part of the combat.
-
-* *The [Massive](https://i.imgur.com/e0WOynY.png) keyword does not combine with special attack declarations such as attacking a [Machine](https://i.imgur.com/Fg27kSk.jpg) or attacking a Location.*
-
-Attacking a machine is a special type of attack declaration that can only be done if all conditions are met. (No face up characters in the same row as the machine and the attacker can otherwise legally make an attack on that row.)  This was compared to attacking a location with the keyword on [The Thing That Crawls By Night](https://i.imgur.com/U3yOlXN.jpg).  Attacking a row with Massive is Foom's normal attack mode and does not combine with these special attack declarations.  That said, if Foom attacks a row with a Machine in it, he will simply not strike the Machine.  Foom can choose to make a single target attack on the machine if the other conditions are met allowing him to do so.  This is the same as the power on [The Thing That Crawls By Night](https://i.imgur.com/U3yOlXN.jpg) where if an SC were to gain both powers at once, they could not attack multiple Locations in a player's row.  They would need to either attack the front or back row with Massive or attack a Location with the keyword "Nothing is Too Big For it to Attack!"
 
 ### **Supreme Leader MC**
 
@@ -235,5 +222,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzM5MDIxNywxODA4MTA3ODc1XX0=
+eyJoaXN0b3J5IjpbLTE3ODM2MDU2NzUsMTgwODEwNzg3NV19
 -->
