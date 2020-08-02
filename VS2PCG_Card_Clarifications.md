@@ -3462,7 +3462,11 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-085.jpg) (MC - MNB-085)
 *Set: Legacy*
 
-Q: If Thanos is stunned as an enemy character is KO'd as the result of striking each other, will Thanos get an XP?
+Q: If Thanos is stunned as an enemy character is KO'd as the result of striking each other, will Thanos get an XP for **The Mad Titan**?
+
+A: Yes.
+
+^(Source: UDE FAQ)
 
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 *Set: Black Order*  
@@ -3673,7 +3677,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQwMDAyNTgsMTU0MTg5MzQzNSwxMj
+eyJoaXN0b3J5IjpbLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMj
 I5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5
 NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOT
 I3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0
