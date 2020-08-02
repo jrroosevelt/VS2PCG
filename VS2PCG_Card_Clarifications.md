@@ -3592,7 +3592,8 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 
 ^(Source: Rule insert)
 
-# Uncanny Defenses
+# [Uncanny Defenses](http://vs.tcgbrowser.com/images/cards/big/mnb-051.jpg)
+
 
 # [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC)
 *Set: Crossover*  
@@ -3711,11 +3712,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc4MTk4MTUsLTE1NTM0MjI3NDMsLT
-EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
-OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
-wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
-NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
-wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
-MzA0OThdfQ==
+eyJoaXN0b3J5IjpbMTExMDY4MTIxNCwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
+05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
+MDQ5OF19
 -->
