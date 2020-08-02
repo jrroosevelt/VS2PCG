@@ -3159,7 +3159,7 @@ A: Yes.
 
 ---
 
-Q: If I only have a Villain Main Character and Sister Grimm in play and I search up an Avenger's Team Stamped Plot Twist, I am not able to play it. Where does it go?
+Q: If I only have a Villain Main Character and Sister Grimm in play and I search up an Avenger's Team Stamped Plot Twist via **The Staff of One**, I am not able to play it. Where does it go?
 
 A: It stays in the deck.
 
@@ -3169,7 +3169,10 @@ A: It stays in the deck.
 
 Q: Does Sister Grimm have to be in combat to use her ability?
 
-A: No, The Staff of One has "Any Combat" Which allows it to be used during any combat, even one she is not a part of.
+A: No, **The Staff of One** has "Any Combat" Which allows it to be used during any combat, even one she is not a part of.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3186,6 +3189,8 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 **Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. Note: The attack power will trigger whether the equipped character is making a melee or ranged attack.
 
 ^(Source: Rule insert)
+
+# Spectrum
 
 # [Spider-Gwen](http://vs.tcgbrowser.com/images/cards/big/LEG-061.jpg)
 *Set: Legacy*  
@@ -3589,11 +3594,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3MzIyNTcsMTIyOTY0MjI2Miw3Mzg5Mz
-kyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYs
-MjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MD
-cxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQs
-LTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5OD
-MwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4
-MV19
+eyJoaXN0b3J5IjpbLTE3OTMwMTM2ODcsMTIyOTY0MjI2Miw3Mz
+g5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4
+MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMD
+E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
+NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
+Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
+MDI4MV19
 -->
