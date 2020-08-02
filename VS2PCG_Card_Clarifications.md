@@ -1586,7 +1586,7 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 
 ^(Source: FB Post - Chad Daniel)
 
-# Jungle Hunter (MC)
+# [Jungle Hunter](http://vs.tcgbrowser.com/images/cards/big/PRD-006.jpg) (MC)
 *Set: The Predator Battles*
 
 [This card has a misprint.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
@@ -2174,6 +2174,10 @@ Mysterio can use his special effects expertise to make any plot twist seem like 
 When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignore everything that’s printed on it, and pretend you just played one of the (Sinister Syndicate) plot twists. You can use any plot twist this way, regardless of its printed team affiliation or timing restriction. For example, you could play an (Avengers) **Combat** plot twist during your Build Phase as a copy of Putting the Team Together.
 
 ^(Source: Rule insert)
+
+---
+
+This card has a misprint.
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-008.jpg) (SC)
 *Set: Sinister Syndicate*  
@@ -3858,7 +3862,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTkwMzY3OSwtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMTA4MzI0OTk0MywtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
