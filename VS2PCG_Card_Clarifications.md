@@ -2361,15 +2361,6 @@ This was clarified in July 2019 that many people were playing this card incorrec
 
 ^(Source: UDE official clarification)
 
-To explain differently:
-
-First, the Nullifier does two things: A triggered power when it appears (you name a thing); then, a continuous power that keeps the named thing turned off.
-
-Because this is now classified as a continuous modifier it means that it will impact characters played after the Nullifier entered play.
-
-It also means that the Nullifier can now be Nullified. Cosmo or an opposing Nullifier can now Nullify the continuous modifier. It also means that when Grid steals a Nullifier it continues to work, targeting *enemy* characters. This turns the Nullifier against the player who played it.
-
-^(Source: FB Post - Benjamin Brozene)
 
 ---
 
@@ -2378,6 +2369,18 @@ It also means that the Nullifier can now be Nullified. Cosmo or an opposing Null
 This was clarified in July 2019 that the Nullifier will have no effects on powers that resolve before they appear such as Dark Phoenix SC who has a "When you recruit Dark Phoenix" trigger. Recruiting happens before appearing so it cannot be stopped with the Nullifier. This is also true of cards that have effects that will resolve from your hand such as Shadowcat SC's Intagible Escape. You can still name a power that is not in play yet, but Nullifier will only act upon that power once the card is in play and some effects will resolve before that point.
 
 ^(Source: UDE official clarification)
+
+---
+
+To explain the above differently:
+
+First, the Nullifier does two things: A triggered power when it appears (you name a thing); then, a continuous power that keeps the named thing turned off.
+
+Because this is now classified as a continuous modifier it means that it will impact characters played after the Nullifier entered play.
+
+It also means that the Nullifier can now be Nullified. Cosmo or an opposing Nullifier can now Nullify the continuous modifier. It also means that when Grid steals a Nullifier it continues to work, targeting *enemy* characters. This turns the Nullifier against the player who played it.
+
+^(Source: FB Post - Benjamin Brozene)
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
 *Set: The Fantastic Battles*  
@@ -3546,11 +3549,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMzI4NjE5LDEyMjk2NDIyNjIsNzM4OT
-M5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2
-LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNT
-A3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0
-LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
-gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTM2ODk5NzM0MCwxMjI5NjQyMjYyLDczOD
+kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
+NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
+UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
+NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
+k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
+MjgxXX0=
 -->
