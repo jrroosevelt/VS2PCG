@@ -3344,7 +3344,11 @@ Her **Intangibility** power lets her strike characters while they're in a player
 
 ^(Source: Rule insert)
 
-# [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg)
+# Storm
+## Storm (MC)
+*Set: Resistance*
+
+## [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg) (SC)
 *Set: Resistance*  
 
 **You Can’t Weather This Storm** is a Keyword Power, not a Super Power.
@@ -3610,7 +3614,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTU3Nzk0MCwxMjI5NjQyMjYyLDczOD
+eyJoaXN0b3J5IjpbMTg0NjEzNjQ1OSwxMjI5NjQyMjYyLDczOD
 kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
 NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
 UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
