@@ -3256,7 +3256,11 @@ A: No, **The Staff of One** has "Any Combat" Which allows it to be used during a
 # [Sister Ripley](http://vs.tcgbrowser.com/images/cards/big/ALN-005.jpg)
 *Set: The Alien Battles*
 
-Q: 
+Q: How does Sister Ripley's **No Weapon of Any Kind** work?
+
+A: Any time you make a melee attack (any attack from the front row) while she is face up, she gains an XP. She will gain it as soon as the attack is declared so if it's the last XP she needs, she will be attacking with her new stats.
+
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/503484419256877059))
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3923,7 +3927,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAwNzU2MTIsMTE0NjcwNDU5MCwtMT
+eyJoaXN0b3J5IjpbLTIwMDU5MzU3NDQsMTE0NjcwNDU5MCwtMT
 U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
 NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MC
 wtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4
