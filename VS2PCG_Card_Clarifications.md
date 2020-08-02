@@ -3443,7 +3443,7 @@ As far as the power's that Onslaught has, Taskmaster doesn't copy those because 
   
 So Onslaught is effectively doing nothing for Taskmaster.
 
-^(Source: FB P)
+^(Source: FB Post - UDE Approved)
 
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
 *Set: Crossover vol. 2*  
@@ -3451,6 +3451,8 @@ So Onslaught is effectively doing nothing for Taskmaster.
 Terrigen Mist puts +1/+1 counters on each character on your side, including ones that are already exhausted.
 
 ^(Source: Rule insert)
+
+
 
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 *Set: Black Order*  
@@ -3464,6 +3466,8 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 **The Universe Will Now Be Set Right**  has a 50-50 chance of removing each character on each side from the game. If this removes a players last main character, that player ;oses the game. If this removes each player's last main character (including Thanos, himself) then the Thanos player wins the game. (This is similar to how if the final two main characters KO each other in combat, the player whose turn it was wins.)
 
 ^(Source: Rule insert)
+
+---
 
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
 *Set: The MCU Battles*  
@@ -3659,7 +3663,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTgxNTIzNywxNTQxODkzNDM1LDEyMj
+eyJoaXN0b3J5IjpbMTQ0MzA1MDU4MCwxNTQxODkzNDM1LDEyMj
 k2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1
 MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mj
 c4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4
