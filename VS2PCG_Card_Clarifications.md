@@ -714,6 +714,10 @@ When Devil-Slayer and the defender strike each other:
 
 ^(Source: Rule insert)
 
+---
+
+Q: 
+
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
 *Set: The Fantastic Battles*  
 
@@ -3938,11 +3942,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNT
-UzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0
-MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC
-0zMzI5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgw
-MTA2NSwxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LD
-E1MTk0NDIyNjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2Nzkw
-NjU2OV19
+eyJoaXN0b3J5IjpbNTE3NTQwNDUwLDExMTQxNTIzMDAsMTE0Nj
+cwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkz
+NDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMT
+Q0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0
+NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLT
+UwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYw
+NjUzXX0=
 -->
