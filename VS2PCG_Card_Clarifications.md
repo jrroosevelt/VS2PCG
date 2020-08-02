@@ -3704,8 +3704,21 @@ A: Yes, Winter Soldier gets credit for stunning a character in a team attack.
 
 ---
 
+Q: Does Winter Soldier gain an XP if he is stunned while stunning a defender?
 
+A: Yes.
 
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: Can I gain 2 XP in a single turn with Winter Solder (MC) if I attack (with an X-Men character on board) and stun a character, freeze, and then ready with X-Factor and attack again and stun another character?
+
+A: No. While you could use X-Factor to ready him and attack again, you would not be able to get another XP. Winter Soldier's text says, When Winter Soldier stuns a defending enemy character, you may Freeze Winter Soldier if he's not already Frozen. If you do, he gains an XP." Since he is already frozen, you can not freeze him again to get a 2nd XP."  
+  
+Note: This wording has been updated in the Official Card Reference Document.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
 *Set: The Fantastic Battles*  
@@ -3766,11 +3779,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTQ0NDQ5LC0xNTUzNDIyNzQzLC0xMj
-IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
-NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
-A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
-MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
-kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
-NDk4XX0=
+eyJoaXN0b3J5IjpbLTEzOTEzODkyNzMsLTE1NTM0MjI3NDMsLT
+EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
+OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
+wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
+NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
+wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
+MzA0OThdfQ==
 -->
