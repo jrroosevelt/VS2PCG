@@ -2143,6 +2143,10 @@ When Mr. Black and the defender strike each other:
 
 ^(Source: Rule insert)
 
+---
+
+This card has a misprint (or errata?).
+
 # [Ms. Marvel](http://vs.tcgbrowser.com/images/cards/big/mnb-017.jpg)
 *Set: The Marvel Battles*
 
@@ -2531,10 +2535,10 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 
 ^(Source: Rule insert)
 
-# Private Hudson
+# [Private Hudson](http://vs.tcgbrowser.com/images/cards/big/ALN-019.jpg)
 *Set: The Alien Battles*
 
-This card has a misprint.
+[This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_private_hudson).
 
 # Professor X
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-033.jpg) (MC - The Marvel Battles)
@@ -3849,7 +3853,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTAzNzA2NiwtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMTQ3MDc4NjQ2MywtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
