@@ -3720,6 +3720,14 @@ Note: This wording has been updated in the Official Card Reference Document.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
+
+Q: Does a frozen character thaw out if they get sent to a **Pocket Dimension** by Singularity? Can this circumvent MC Winter Soldier's drawback?
+
+A: Modifiers do not track characters that leave play unless the rules or card text specifically says they do.
+
+^(Source: FB Post - Chad Daniel - UDE Approved)
+
 # [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
 *Set: The Fantastic Battles*  
 
@@ -3779,11 +3787,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTEzODkyNzMsLTE1NTM0MjI3NDMsLT
-EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
-OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
-wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
-NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
-wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
-MzA0OThdfQ==
+eyJoaXN0b3J5IjpbMTE0MjEzNDg0NiwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
+05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
+MDQ5OF19
 -->
