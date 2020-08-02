@@ -1,9 +1,11 @@
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 
-# Major Rulings, Errata, Bans, FAQ
+# Major Rulings, Errata, Bans
 
-This page is intended to be a one-stop reference for new and returning players to list official rule changes and any major clarifications made by the designers of the game Ben Cichoski and Danny Mandel along with head judge/rules guru/rulebook author/man with many names Chad Daniel.
+This page is intended to be a one-stop reference for new and returning players to list official rule changes made by the designers of the game Ben Cichoski and Danny Mandel along with head judge/rules guru/rulebook author/man with many names Chad Daniel.
+
+There is a separate page for other card-
 
 ## Bans & Errata
 
@@ -153,15 +155,6 @@ In the [June 2020 Rules Update](https://www.upperdeckblog.com/2020/06/vs-system-
 
 This rule change is to unify the intent that a Wild location can be used to generate a power symbol for an effect like Rhino's Stupid or Juggernaut's "It's Gonna Take Something More To Stop Me!"  See the [July 2019 Rules Update.](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw) for a complete explanation.
 
-## Individual Card Rulings/Changes
-
-
-### **Alien Symbiote**
-
-* *If a character that is equipped with the [Alien Symbiote](https://i.imgur.com/rKPvFQT.png) gains an equipment card, put the Alien Symbiote in the KO pile.*
-
-The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
-
 ## Tournament Rules
 
 ### **Split Universe**
@@ -199,5 +192,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzg1NTc3NywxODA4MTA3ODc1XX0=
+eyJoaXN0b3J5IjpbOTU1ODA1NTAsMTgwODEwNzg3NV19
 -->
