@@ -3560,6 +3560,8 @@ When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**
 
 ^(Source: Rule insert)
 
+# Trickster God
+
 # [Uatu](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
 *Set: The Fantastic Battles*  
 
@@ -3700,7 +3702,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU1NzYzNzEsLTEyMjMzNDE5MzAsMT
+eyJoaXN0b3J5IjpbLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMT
 U0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2
 NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LD
 c4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0
