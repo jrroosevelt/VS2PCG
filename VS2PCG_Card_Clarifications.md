@@ -3190,7 +3190,14 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 
 ^(Source: Rule insert)
 
-# Spectrum
+# [Spectrum](http://vs.tcgbrowser.com/images/cards/big/aff-018.jpg)
+*Set: A-Force*
+
+Q: Does Spectrum gain +1/+1 counters from face down labs? Her effect does not specify whether the location should be face up.
+
+A: A face-down card in a resource row is just a resource. The resource row is hidden information, so things that are face down have no identity.
+
+^(Source: FB pos)
 
 # [Spider-Gwen](http://vs.tcgbrowser.com/images/cards/big/LEG-061.jpg)
 *Set: Legacy*  
@@ -3594,11 +3601,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMwMTM2ODcsMTIyOTY0MjI2Miw3Mz
-g5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4
-MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMD
-E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
-NjQsLTkxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNj
-Y5ODMwNDk4LC0xNDIwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2
-MDI4MV19
+eyJoaXN0b3J5IjpbMTM3NzI3NDE4LDEyMjk2NDIyNjIsNzM4OT
+M5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2
+LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNT
+A3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0
+LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
+gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
+ODFdfQ==
 -->
