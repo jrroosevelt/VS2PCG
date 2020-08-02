@@ -1388,6 +1388,10 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 ^(Source: Rule insert)
 
+---
+
+This card has received errata.
+
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 *Set: Spidey-Foes*  
 
@@ -3189,7 +3193,7 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 
 ^(Source: Rule insert)
 
-# The Space Gem
+# [The Space Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-022.jpg)
 *Set: Black Order*
 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_the_space_gem_.28black_order_set.29).
@@ -3823,11 +3827,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMDYwMTAwLC0xNTUzNDIyNzQzLC0xMj
-IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
-NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
-A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
-MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
-kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
-NDk4XX0=
+eyJoaXN0b3J5IjpbLTEwMTg4NTM4NzIsLTE1NTM0MjI3NDMsLT
+EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
+OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
+wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
+NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
+wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
+MzA0OThdfQ==
 -->
