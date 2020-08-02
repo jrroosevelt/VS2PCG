@@ -479,12 +479,15 @@ Hydra has four different Cosmic Cubes under their control. However, each one has
 
 ^(Source: Rule insert)
 
-# [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
+# Cosmo
+## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
 *Set: Galactic Guardians*  
 
 With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
 
 ^(Source: Rule insert)
+
+## Cosmo (SC - MNB-061
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
 *Set: The Utopia Battles*  
@@ -3772,7 +3775,7 @@ Q: Scenario: Wolverine level 2 has 4 wounds and 1 XP. He attacks and trades with
 
 A: There is a difference between a stunned Wolverine leveling up while stunned and a stunned Wolverine leveling up before he is KO'ed. While technically the level-up power will trigger, by the time it resolves, Wolverine is already KO'ed.
 
-^(Source: FB Post - Chad Daniel - UDE Approved)
+^(Source: FB Post - Chad Daniel)
 
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 *Set: The Fantastic Battles*  
@@ -3812,11 +3815,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTg4Nzc2NSwtMTU1MzQyMjc0MywtMT
-IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
-MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
-IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
-MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
-05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
-MDQ5OF19
+eyJoaXN0b3J5IjpbLTE2NTYxNzY0NDcsLTE1NTM0MjI3NDMsLT
+EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
+OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
+wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
+NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
+wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
+MzA0OThdfQ==
 -->
