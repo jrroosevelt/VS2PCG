@@ -244,7 +244,13 @@ Here is the list of the most common recurring keywords, powers or terms that are
   
 
 * Exhaust a character.  That character can't Ready during its next turn.  
+
+---
+Q: If a player is frozen...can they still climb?
+
+A: Frozen only stops readying, so yes
   
+  ^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/503484419256877059))
 
 # Friendly  
 
@@ -660,5 +666,5 @@ Here is the list of the most common recurring keywords, powers or terms that are
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbMzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
