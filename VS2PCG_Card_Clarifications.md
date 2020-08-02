@@ -69,6 +69,11 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 
 ^(Source: Rule insert)
 
+# Alien Symbiote
+*Set: Spider Friends*
+
+http://vs.tcgbrowser.com/images/cards/big/SPF-021.jpg
+
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 *Set: The Utopia Battles*  
 
@@ -474,7 +479,7 @@ A: Yes
 
 With the reveal of Copycat, the question arose on her interaction with [Singularity](https://i.imgur.com/3vlwcdR.jpg).  Specifically, if multiple characters (other than Copycat) appear at once, which SC's powers, if any, does Copycat inherit?  The ruling is that if multiple triggers occur simultaneously for Copycat, she will not gain any powers.  The reasoning is that she only gains powers "until another supporting character appears on your side."  This means that when multiple characters appear at once, the duration of her effect has already expired by the time it resolves.  From head judge: "if a modifier’s duration would cause it to expire before it is created, then the modifier is never created."  Ultimately, Copycat needs only a single character to appear in order to resolve as intended.
 
-^(Source: Offical clarific
+^(Source: Official clarification)
 
 # Cosmic Cubes
 *Set: S.H.I.E.L.D. vs. Hydra*  
@@ -3912,11 +3917,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNDY4NjkwLC0xNTUzNDIyNzQzLC0xMj
-IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
-NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
-A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
-MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
-kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
-NDk4XX0=
+eyJoaXN0b3J5IjpbMTQ0Mjg4NDkzNiwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
+05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
+MDQ5OF19
 -->
