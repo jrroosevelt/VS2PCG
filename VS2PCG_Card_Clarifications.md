@@ -3593,6 +3593,25 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 ^(Source: Rule insert)
 
 # [Uncanny Defenses](http://vs.tcgbrowser.com/images/cards/big/mnb-051.jpg)
+*Set: The Marvel Battles*
+
+Q: Can I switch the defender with a stunned character on my side?
+
+A: No. You can only replace a defender with a face-up character. (Stunned characters can’t enter combat.)
+
+^(Source: UDE FAQ)
+
+---
+
+Q: Can I play it if I don’t have a valid character to replace the defender?
+
+A: Yes, but nothing will happen.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: What happens if I make a ranged attack and my opponent plays a Plot Twist to switch the defender to a character with Dodge?
 
 
 # [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC)
@@ -3712,7 +3731,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDY4MTIxNCwtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbLTg2NzI4Nzk2NywtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
