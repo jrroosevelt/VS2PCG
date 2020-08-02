@@ -3369,6 +3369,17 @@ A: Yes.
 
 ^(Source: Rule insert)
 
+# Strength Above All Else
+*Set: S.H.I.E.L.D. vs. Hydra*
+
+Q: 
+* My 1/10 Mystique MC is attacking Baron Von Strucker who is a 6/2. I play Masquerade, and match his power.  
+* 6/10 Mystique attacking 6/3 Baron. I've played her super power and pass.  
+* Baron plays Strength Above All Else. At this moment we match so he has highest attack and can't be struck this combat.  
+* Priority back to me, I play Cat Fight to raise my attack to 10/10.  
+  
+Does Strength still prevent the damage? Did it just grant protection when it resolves, or does it check for ATK again at strike?
+
 # [Sunspot](http://vs.tcgbrowser.com/images/cards/big/NEW-013.jpg)
 *Set: New Mutants*   
 
@@ -3628,11 +3639,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczOD
-kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
-NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
-UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
-NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxXX0=
+eyJoaXN0b3J5IjpbMTM1NzIwMzA4NiwxNTQxODkzNDM1LDEyMj
+k2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1
+MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mj
+c4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4
+NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Nj
+c5MDY1NjksMTY2OTgzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMx
+MTYwOF19
 -->
