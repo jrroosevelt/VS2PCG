@@ -3611,7 +3611,15 @@ A: Yes, but nothing will happen.
 
 ---
 
-Q: What happens if I make a ranged attack and my opponent plays a Plot Twist to switch the defender to a character with Dodge?
+Q: What happens if I make a ranged attack and my opponent plays a Plot Twist to switch the defender to a character with **Dodge**?
+
+A: Once an attack starts, it can no longer be made illegal. So that attack will continue as normal.
+
+^(Source: UDE FAQ)
+
+# [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg)
+*Set: The Defenders*
+
 
 
 # [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC)
@@ -3731,7 +3739,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzI4Nzk2NywtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMTYyODM4MDE0MSwtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
