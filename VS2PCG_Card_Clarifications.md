@@ -3430,8 +3430,20 @@ Supreme Leader has a Super Power which prevents you from losing the game even af
 
 ^(Source: Rule insert)
 
-# Taskmaster
-*
+# [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
+*Set: Legacy*
+
+Q: What happens if I recruit Taskmaster while my opponent has Onslaught in play?
+
+A: So Onslaught's Power happens at the time you recruit him (faster than appears powers).  
+  
+Taskmaster comes into play, but doesn't have Onslaught's power when he's recruited, so nothing happens.  
+  
+As far as the power's that Onslaught has, Taskmaster doesn't copy those because they aren't Printed Powers like Taskmaster is looking for.  
+  
+So Onslaught is effectively doing nothing for Taskmaster.
+
+^(Source: FB P)
 
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
 *Set: Crossover vol. 2*  
@@ -3647,7 +3659,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzkzMjU5NCwxNTQxODkzNDM1LDEyMj
+eyJoaXN0b3J5IjpbMTgzMTgxNTIzNywxNTQxODkzNDM1LDEyMj
 k2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1
 MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mj
 c4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4
