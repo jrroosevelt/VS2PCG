@@ -3495,6 +3495,22 @@ So Onslaught is effectively doing nothing for Taskmaster.
 
 ^(Source: FB Post - UDE Approved)
 
+---
+
+> Keyword abilities are only in effect while the character card is in play unless otherwise specified.
+
+Previous to [Taskmaster's](https://i.imgur.com/85KjJHT.jpg) release, keyword abilities were active in all zones.  This allowed cards such as [Hope Summers](https://i.imgur.com/R2iOAee.png) to use their powers from the hand, deck or KO pile.  With the release of Taskmaster, this rule became limiting on design of future cards and was changed.  (For example, Taskmaster was able to be recruited from the deck with [Spider-Gwen's](https://i.imgur.com/ZkdbqZ0.png) Dimensional Watch keyword if your opponent had her in play.)
+
+^(Source: Official clarification)
+
+---
+
+>A copied power can't copy a power with the same name as itself.
+
+An infinite loop was discovered when [Taskmaster](https://i.imgur.com/85KjJHT.jpg) was across from an opposing Taskmaster where they would gain a copy of, then continuously copy the printed version of their opponent's Photgraphic Reflexes.  With this additional rule, this scenario would result in Taskmaster gaining two instances of all keyword powers for face-up enemy supporting characters, but the loop would not continue beyond two instances.
+
+^(Source: Official clarification)
+
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
 *Set: Crossover vol. 2*  
 
@@ -3862,11 +3878,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NzE0NDExLC0xNTUzNDIyNzQzLC0xMj
-IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
-NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
-A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
-MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
-kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
-NDk4XX0=
+eyJoaXN0b3J5IjpbLTExOTk3NDUyNDgsLTE1NTM0MjI3NDMsLT
+EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
+OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
+wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
+NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
+wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
+MzA0OThdfQ==
 -->
