@@ -2177,7 +2177,7 @@ When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignor
 
 ---
 
-This card has a misprint.
+[This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mysterio_mc).
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-008.jpg) (SC)
 *Set: Sinister Syndicate*  
@@ -3862,11 +3862,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzI0OTk0MywtMTU1MzQyMjc0MywtMT
-IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
-MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
-IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
-MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
-05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
-MDQ5OF19
+eyJoaXN0b3J5IjpbMjk1NzE0NDExLC0xNTUzNDIyNzQzLC0xMj
+IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
+NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
+A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
+MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
+kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
+NDk4XX0=
 -->
