@@ -1,5 +1,5 @@
 
-
+[BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
   
 # Card clarifications and FAQs
 
@@ -3919,7 +3919,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjM1ODM3NywtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
