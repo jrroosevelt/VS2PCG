@@ -3133,9 +3133,11 @@ A: Yes, most modifers do not track characters that leave play. The only ones tha
 # [Sister Grim](http://vs.tcgbrowser.com/images/cards/big/aff-006.jpg) (MC)
 *Set: A-Force*
 
-Q: The Singularity ruling states that when a character comes back into play it is a new character and nothing has now previously effected it. Can Sister Grimm use ability an she has previously used since technically she's a new character and now has not technically used the previous ability?
+Q: The Singularity ruling states that when a character comes back into play it is a new character and nothing has now previously effected it. Can Sister Grimm use a **...Let the Staff of One Emerge** ability she has previously used since technically she's a new character and now has not technically used the previous ability?
 
 A: A once per game restriction is something that functions in all zones, no matter who controls the character or what zone it is in. This means even if a character with a power with a once per game restriction leaves play and comes back, you still can not use it again if it was used before leaving play. Also if an opponent takes control of a character with a one per game restriction, if they use the super power, when you get it back, you will not be able to use that power.
+
+^(Source: Chad Daniel - UDE Approved)
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3555,11 +3557,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDAyODI0NiwxMjI5NjQyMjYyLDczOD
-kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
-NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
-UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
-NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
-k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
-MjgxXX0=
+eyJoaXN0b3J5IjpbNjAxNzg4MTM1LDEyMjk2NDIyNjIsNzM4OT
+M5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2
+LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNT
+A3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0
+LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
+gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
+ODFdfQ==
 -->
