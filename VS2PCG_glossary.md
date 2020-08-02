@@ -602,6 +602,8 @@ A: Frozen only stops readying, so yes
 
 # Team Affiliation  
 
+* The team or teams to which this character belongs. Typically the team affiliation is indicated by the icon in the upper-right corner of the card, though there are cards that can grant or remove affiliations. Team Affiliation is *not* lost when the character is face-down.
+
 
 # Token  
   
@@ -668,6 +670,6 @@ A: Frozen only stops readying, so yes
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjMyNzMyNCwzMTAzOTc5MCwxNTk0OD
+eyJoaXN0b3J5IjpbLTg0MDE3NDI2MiwzMTAzOTc5MCwxNTk0OD
 QxODk3XX0=
 -->
