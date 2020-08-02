@@ -3474,11 +3474,15 @@ Q: When a token takes lethal damage, does it become KO'd and count towards Thano
 
 A: Thanos will gain XP from a Token being KO'd and Tokens will exist for a brief moment in the KO pile before ceasing to exist via the rules of the game. Basically if a token ever ends up in a non play zone, it will cease to exist.
 
-^(Source: FB Post - Chad Daniel)
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ---
 
-Q: If I use Professor X to take my opponent's level 2 Thanos, and I use Infinity Gauntlet, does Thanos get stunned?
+Q: If I use Professor X to take my opponent's level 2 Thanos, and I use **Infinity Gauntlet**, does Thanos get stunned?
+
+A: No, "Your" refers to the MC you control. At the time **Infinity Gauntlet** resolves, the opponent does not control an MC, so nothing happens with that part of the effect.
+
+^(Source: Chad Daniel - UDE Approved)
 
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 *Set: Black Order*  
@@ -3501,6 +3505,8 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
 ^(Source: Rule insert)
+
+#
 
 # \* [Thor](http://vs.tcgbrowser.com/images/cards/big/COS-011.jpg) \*
 *Set: Cosmic Avengers*  
@@ -3689,7 +3695,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDYyMTk0NSwtMTIyMzM0MTkzMCwxNT
+eyJoaXN0b3J5IjpbMTg3NjA1NzMwMiwtMTIyMzM0MTkzMCwxNT
 QxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1
 NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNz
 gxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQx
