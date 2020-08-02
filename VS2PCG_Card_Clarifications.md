@@ -3497,7 +3497,14 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 
 ^(Source: Rule insert)
 
----
+# [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-100.jpg) (SC)
+*Set: The Marvel Battles*
+
+Q: Can he put a wound on my opponent’s main character?
+
+A: Yes. In fact, he affects all stunned characters so he could put a wound on your main character too.
+
+^(Source: UDE )
 
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
 *Set: The MCU Battles*  
@@ -3505,8 +3512,6 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
 
 ^(Source: Rule insert)
-
-#
 
 # \* [Thor](http://vs.tcgbrowser.com/images/cards/big/COS-011.jpg) \*
 *Set: Cosmic Avengers*  
@@ -3695,7 +3700,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjA1NzMwMiwtMTIyMzM0MTkzMCwxNT
+eyJoaXN0b3J5IjpbLTE3ODE1NzY0MSwtMTIyMzM0MTkzMCwxNT
 QxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1
 NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNz
 gxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQx
