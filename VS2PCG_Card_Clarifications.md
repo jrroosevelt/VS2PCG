@@ -2862,7 +2862,10 @@ Note: A **Hostage** is never actually in play. It's either in a Hostage pile, be
 # [Serpent Crown](http://vs.tcgbrowser.com/images/cards/big/SVH-056.jpg)
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
-# Shadow
+# [Shadowcat](http://vs.tcgbrowser.com/images/cards/big/LEG-014.jpg)
+*Set: Legacy*
+
+[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_shadowcat_sc) 
 
 # [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
 *Set: Brotherhood of Mutants*  
@@ -3833,11 +3836,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTA1ODIzOSwtMTU1MzQyMjc0MywtMT
-IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
-MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
-IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
-MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
-05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
-MDQ5OF19
+eyJoaXN0b3J5IjpbLTc4MzI0MzcsLTE1NTM0MjI3NDMsLTEyMj
+MzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2
+NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNiwyMD
+Q5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEz
+NDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOT
+EwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0
+OThdfQ==
 -->
