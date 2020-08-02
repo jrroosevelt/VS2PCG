@@ -2162,6 +2162,11 @@ See [Devil Dinosaur](#wiki_devil_dinosaur).
 
 ^(Source: Rule insert)
 
+# [Moonstone](http://vs.tcgbrowser.com/images/cards/big/aff-039.jpg)
+*Set: A-Force*
+
+Q: Hi all, if Moonstone gets KO’d, do the characters in play get flight back?
+
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
 *Set: A-Force*  
 
@@ -3927,7 +3932,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU5MzU3NDQsMTE0NjcwNDU5MCwtMT
+eyJoaXN0b3J5IjpbLTE4OTU5NjAwMDAsMTE0NjcwNDU5MCwtMT
 U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
 NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MC
 wtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4
