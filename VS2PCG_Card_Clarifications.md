@@ -3560,7 +3560,14 @@ When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**
 
 ^(Source: Rule insert)
 
-# Trickster God
+# [Trickster God](http://vs.tcgbrowser.com/images/cards/big/mnb-103.jpg)
+*Set: The Marvel Battles*
+
+Q: How does this work?
+
+A: When you play it switch the character’s current stats. Any new stat changes will work as normal off those switched stats. For example, let’s say you have a 4/7. When you play Trickster God it becomes a 7/4. Then if you give it +3 DEF it becomes a 7/7.
+
+^(Source: UDE FAQ)
 
 # [Uatu](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
 *Set: The Fantastic Battles*  
@@ -3702,11 +3709,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMT
-U0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2
-NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LD
-c4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0
-MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLD
-Y0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4MzA0OTgsLTE0MjA5
-NTE0ODVdfQ==
+eyJoaXN0b3J5IjpbLTE3OTYwMDA1MDEsLTE1NTM0MjI3NDMsLT
+EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
+OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
+wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
+NzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NC
+wtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Njk4
+MzA0OThdfQ==
 -->
