@@ -3472,7 +3472,13 @@ A: Yes.
 
 Q: When a token takes lethal damage, does it become KO'd and count towards Thanos' level up ability?
 
-A
+A: Thanos will gain XP from a Token being KO'd and Tokens will exist for a brief moment in the KO pile before ceasing to exist via the rules of the game. Basically if a token ever ends up in a non play zone, it will cease to exist.
+
+^(Source: FB Post - Chad Daniel)
+
+---
+
+Q: If I use Professor X to take my opponent's level 2 Thanos, and I use Infinity Gauntlet, does Thanos get stunned?
 
 # [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 *Set: Black Order*  
@@ -3683,7 +3689,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDMzMzg4MiwtMTIyMzM0MTkzMCwxNT
+eyJoaXN0b3J5IjpbLTQzMDYyMTk0NSwtMTIyMzM0MTkzMCwxNT
 QxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1
 NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNz
 gxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQx
