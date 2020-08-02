@@ -69,10 +69,12 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 
 ^(Source: Rule insert)
 
-# Alien Symbiote
+# [Alien Symbiote](http://vs.tcgbrowser.com/images/cards/big/SPF-021.jpg)
 *Set: Spider Friends*
 
-http://vs.tcgbrowser.com/images/cards/big/SPF-021.jpg
+>If a character that is equipped with the Alien Symbiote gains an equipment card, put the Alien Symbiote in the KO pile.
+
+The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 *Set: The Utopia Battles*  
@@ -3917,7 +3919,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjg4NDkzNiwtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbMTk3MjM1ODM3NywtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
