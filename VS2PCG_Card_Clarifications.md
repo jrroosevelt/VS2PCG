@@ -356,13 +356,15 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
+^(Source: Rule Insert)
+
 ---
 
 Q: Another question about Cable and his super power **Advanced Cybernetics**. If I pay the yellow, then declare an attack can I equip Combistick onto him during the combat? Basically does that super change change all team symbols and what not on the card to X-men?
 
 A: Though the equipment itself gets the X-Men affiliation the text still requires the character to be a Predator in order to equip it as a PT in combat.
 
-Source: Discord Post.
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/587034456930516998))
 
 Q: Question about Cables LV2 ability **Time Travel** is that super power basically like a board reset? I know it says KO'ed pile, hand, and removed, and all other cards on there side, meaning cards in play, resource row? Just wanted to double check on the cards in there side part.
 
@@ -3965,11 +3967,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI0NzM2NCwxMTE0MTUyMzAwLDExND
-Y3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5
-MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLD
-E0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1
-NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC
-01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2MjgzLDY0NjI2
-MDY1M119
+eyJoaXN0b3J5IjpbNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Nj
+cwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkz
+NDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMT
+Q0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0
+NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLT
+UwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYw
+NjUzXX0=
 -->
