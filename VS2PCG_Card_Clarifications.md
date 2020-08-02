@@ -470,7 +470,11 @@ A: Yes
 
 ---
 
+>If multiple characters "appear" at once, Copycat is unable to copy any of them.
 
+With the reveal of Copycat, the question arose on her interaction with [Singularity](https://i.imgur.com/3vlwcdR.jpg).  Specifically, if multiple characters (other than Copycat) appear at once, which SC's powers, if any, does Copycat inherit?  The ruling is that if multiple triggers occur simultaneously for Copycat, she will not gain any powers.  The reasoning is that she only gains powers "until another supporting character appears on your side."  This means that when multiple characters appear at once, the duration of her effect has already expired by the time it resolves.  From head judge: "if a modifier’s duration would cause it to expire before it is created, then the modifier is never created."  Ultimately, Copycat needs only a single character to appear in order to resolve as intended.
+
+^(Source: Offical clarific
 
 # Cosmic Cubes
 *Set: S.H.I.E.L.D. vs. Hydra*  
@@ -3499,9 +3503,11 @@ Supreme Leader has a Super Power which prevents you from losing the game even af
 
 ---
 
-*>Supreme Leader's.imgur.com/usAYbmJ.jpg) effect will prevent you from losing the game and will also prevent other players from winning the game*
+>Supreme Leader's effect will prevent you from losing the game and will also prevent other players from winning the game
 
 Supreme Leader MC is worded in a way that may make veterans of other card games such as Magic the Gathering believe that a card like [Dutch SC](https://i.imgur.com/N3EzGfJ.jpg) or [Deadpool MC](https://i.imgur.com/3Qt4DfF.png) may still allow an alternate win condition.  After all, in MtG a player being unable to lose doesn't prevent another player from winning as they are isolated effects.  In VS 2PCG this is considered an extension of the "can't beats can" rule.  By that logic, alternate win conditions are ignored as long as Supreme Leader is preventing its controller from losing the game.
+
+^(Source: Official clarification)
 
 # [Sweet](http://vs.tcgbrowser.com/images/cards/big/TBB-047.jpg)
 *Set: The Buffy Battles*  
@@ -3906,11 +3912,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDEyODY4NywtMTU1MzQyMjc0MywtMT
-IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
-MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
-IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
-MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
-05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
-MDQ5OF19
+eyJoaXN0b3J5IjpbNDkyNDY4NjkwLC0xNTUzNDIyNzQzLC0xMj
+IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
+NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
+A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
+MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
+kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
+NDk4XX0=
 -->
