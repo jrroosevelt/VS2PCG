@@ -1390,7 +1390,7 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 ---
 
-This card has received errata.
+[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 *Set: Spidey-Foes*  
@@ -3827,7 +3827,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg4NTM4NzIsLTE1NTM0MjI3NDMsLT
+eyJoaXN0b3J5IjpbLTEwMTQyNzM3NTcsLTE1NTM0MjI3NDMsLT
 EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
 OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
 wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
