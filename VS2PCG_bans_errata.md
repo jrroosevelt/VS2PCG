@@ -1,3 +1,4 @@
+
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 
 # Major Rulings, Errata, Bans, FAQ
@@ -249,5 +250,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODEwNzg3NV19
+eyJoaXN0b3J5IjpbLTE2OTU3Nzg5NTUsMTgwODEwNzg3NV19
 -->
