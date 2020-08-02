@@ -1,11 +1,11 @@
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 
-# Major Rulings, Errata, Bans
+# Major Rulings, Errata, Bans, and Misprints
 
 This page is intended to be a one-stop reference for new and returning players to list official rule changes made by the designers of the game Ben Cichoski and Danny Mandel along with head judge/rules guru/rulebook author/man with many names Chad Daniel.
 
-There is a separate page for other card-
+There is a separate page for other [card-specific clarifications and FAQs](https://www.reddit.com/r/VS2PCG/wiki/rules-insert).
 
 ## Bans & Errata
 
@@ -192,5 +192,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1ODA1NTAsMTgwODEwNzg3NV19
+eyJoaXN0b3J5IjpbLTYxMTg0NjY0OSwxODA4MTA3ODc1XX0=
 -->
