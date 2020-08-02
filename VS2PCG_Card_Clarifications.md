@@ -3356,7 +3356,11 @@ A: Yes.
 
 ---
 
-Q: Will using Deadpool’s (SC) power “Can’t Keep a Bad Man Down” trigger Storm’s “Children of the Atom”?
+Q: Will using Deadpool’s (SC) power **Can’t Keep a Bad Man Down** trigger Storm’s **Children of the Atom**?
+
+A: Yes.
+
+^(Source: UDE FAQ)
 
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg) (SC)
 *Set: Resistance*  
@@ -3624,7 +3628,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjA3NDg3MywxMjI5NjQyMjYyLDczOD
+eyJoaXN0b3J5IjpbMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczOD
 kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
 NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
 UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
