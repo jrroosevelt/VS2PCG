@@ -156,29 +156,11 @@ This rule change is to unify the intent that a Wild location can be used to gene
 ## Individual Card Rulings/Changes
 
 
-
-
-### **Copycat**
-
-* *If multiple characters "appear" at once, Copycat is unable to copy any of them.*
-
-With the reveal of [Copycat](https://i.imgur.com/1A7Zzk8.jpg), the question arose on her interaction with [Singularity](https://i.imgur.com/3vlwcdR.jpg).  Specifically, if multiple characters (other than Copycat) appear at once, which SC's powers, if any, does Copycat inherit?  The ruling is that if multiple triggers occur simultaneously for Copycat, she will not gain any powers.  The reasoning is that she only gains powers "until another supporting character appears on your side."  This means that when multiple characters appear at once, the duration of her effect has already expired by the time it resolves.  From head judge: "if a modifier’s duration would cause it to expire before it is created, then the modifier is never created."  Ultimately, Copycat needs only a single character to appear in order to resolve as intended.
-
 ### **Alien Symbiote**
 
 * *If a character that is equipped with the [Alien Symbiote](https://i.imgur.com/rKPvFQT.png) gains an equipment card, put the Alien Symbiote in the KO pile.*
 
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
-
-### **The Nullifier**
-
-* *The Nullifier's effect can be Nullified by effects that turn off keyword powers and if it changes sides it will target the updated "enemy characters" as the affected target(s).*
-
-This was clarified in July 2019 that many people were playing this card incorrectly.  We originally believed this card to work in a way that made Nullifier's effect independent of the card itself, so it could not be Nullified.  Essentially that the effect and targets would be unchanged until the card left the play zone, even if it swapped sides or got targetted by Cosmo or another Nullifier.
-
-* *The Nullifier only affect powers that resolve in the play zone.*
-
-This was clarified in July 2019 that the Nullifier will have no effects on powers that resolve before they appear such as Dark Phoenix SC who has a "When you recruit Dark Phoenix" trigger.  Recruiting happens before appearing so it cannot be stopped with the Nullifier.  This is also true of cards that have effects that will resolve from your hand such as Shadowcat SC's Intagible Escape.  You can still name a power that is not in play yet, but Nullifier will only act upon that power once the card is in play and some effects will resolve before that point.
 
 ## Tournament Rules
 
@@ -217,5 +199,5 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDI4OTQyOCwxODA4MTA3ODc1XX0=
+eyJoaXN0b3J5IjpbMTcyMzg1NTc3NywxODA4MTA3ODc1XX0=
 -->
