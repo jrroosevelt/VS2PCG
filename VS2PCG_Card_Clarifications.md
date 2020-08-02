@@ -358,7 +358,11 @@ Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the
 
 ---
 
-Q: Another question about Cable and his super power advanced cybernetics. If I pay the yellow, then declare an attack can I equip combistick onto him during the combat? Basically does that super change change all team symbols and what not on the card to X-men?
+Q: Another question about Cable and his super power **Advanced Cybernetics**. If I pay the yellow, then declare an attack can I equip Combistick onto him during the combat? Basically does that super change change all team symbols and what not on the card to X-men?
+
+A: Though the equipment itself gets the X-Men affiliation the text still requires the character to be a Predator in order to equip it as a PT in combat.
+
+Source: Discord Post.
 
 Q: Question about Cables LV2 ability **Time Travel** is that super power basically like a board reset? I know it says KO'ed pile, hand, and removed, and all other cards on there side, meaning cards in play, resource row? Just wanted to double check on the cards in there side part.
 
@@ -3961,7 +3965,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTk0MzA5MSwxMTE0MTUyMzAwLDExND
+eyJoaXN0b3J5IjpbLTE5MTI0NzM2NCwxMTE0MTUyMzAwLDExND
 Y3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5
 MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLD
 E0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1
