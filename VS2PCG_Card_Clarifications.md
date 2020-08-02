@@ -1586,6 +1586,11 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 
 ^(Source: FB Post - Chad Daniel)
 
+# Jungle Hunter (MC)
+*Set: The Predator Battles*
+
+[This card has a misprint.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
+
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
 
@@ -2145,7 +2150,7 @@ When Mr. Black and the defender strike each other:
 
 ---
 
-This card has a misprint (or errata?).
+[This card has a misprint (or errata?).](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mr._black_mc)
 
 # [Ms. Marvel](http://vs.tcgbrowser.com/images/cards/big/mnb-017.jpg)
 *Set: The Marvel Battles*
@@ -3853,7 +3858,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDc4NjQ2MywtMTU1MzQyMjc0MywtMT
+eyJoaXN0b3J5IjpbLTczNTkwMzY3OSwtMTU1MzQyMjc0MywtMT
 IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
 MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
 IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
