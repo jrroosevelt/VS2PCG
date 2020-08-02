@@ -2363,6 +2363,11 @@ This was clarified in July 2019 that many people were playing this card incorrec
 
 To explain differently:
 
+First, the Nullifier does two things: A triggered power when it appears (you name a thing); then, a continuous power that keeps the named thing turned off.
+
+Because this is now classified as a continuous modifier it means that it will impact characters played after the Nullifier entered play.
+
+It also mean
 
 ---
 
@@ -3539,7 +3544,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM0ODI4MDIsMTIyOTY0MjI2Miw3Mz
+eyJoaXN0b3J5IjpbLTE2NDM3NzQ4MTMsMTIyOTY0MjI2Miw3Mz
 g5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4
 MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMD
 E1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIy
