@@ -2367,7 +2367,7 @@ This was clarified in July 2019 that many people were playing this card incorrec
 
 This was clarified in July 2019 that the Nullifier will have no effects on powers that resolve before they appear such as Dark Phoenix SC who has a "When you recruit Dark Phoenix" trigger. Recruiting happens before appearing so it cannot be stopped with the Nullifier. This is also true of cards that have effects that will resolve from your hand such as Shadowcat SC's Intagible Escape. You can still name a power that is not in play yet, but Nullifier will only act upon that power once the card is in play and some effects will resolve before that point.
 
-
+^(Source: UDE official clarification)
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
 *Set: The Fantastic Battles*  
@@ -3536,11 +3536,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQxODU1NjUsNzM4OTM5MjY0LDE4ND
-M0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0
-NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMz
-I1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYy
-ODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgzMDQ5OCwtMT
-QyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAyODEsLTIwMDg5
-NzMxMDFdfQ==
+eyJoaXN0b3J5IjpbMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0Mz
+Q3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYxMzQ1
+Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMj
+U1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDExNjI4
+Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMwNDk4LC0xND
+IwOTUxNDg1LC0xMzQ1MzExNjA4LDkxMzE2MDI4MSwtMjAwODk3
+MzEwMV19
 -->
