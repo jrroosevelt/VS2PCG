@@ -3197,7 +3197,7 @@ Q: Does Spectrum gain +1/+1 counters from face down labs? Her effect does not sp
 
 A: A face-down card in a resource row is just a resource. The resource row is hidden information, so things that are face down have no identity.
 
-^(Source: FB pos)
+^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Spider-Gwen](http://vs.tcgbrowser.com/images/cards/big/LEG-061.jpg)
 *Set: Legacy*  
@@ -3319,6 +3319,8 @@ Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance O
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 ^(Source: Rule insert)
+
+## Star Lord (SC 
 
 # \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
 *Set: Galactic Guardians*  
@@ -3601,11 +3603,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzI3NDE4LDEyMjk2NDIyNjIsNzM4OT
-M5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2
-LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNT
-A3MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0
-LC05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OT
-gzMDQ5OCwtMTQyMDk1MTQ4NSwtMTM0NTMxMTYwOCw5MTMxNjAy
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzODkwMzA2MSwxMjI5NjQyMjYyLDczOD
+kzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgx
+NiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMT
+UwNzEzNDYsLTMyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2
+NCwtOTEwMTE2MjgzLDY0NjI2MDY1MywxNzY3OTA2NTY5LDE2Nj
+k4MzA0OTgsLTE0MjA5NTE0ODUsLTEzNDUzMTE2MDgsOTEzMTYw
+MjgxXX0=
 -->
