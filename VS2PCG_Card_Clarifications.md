@@ -2071,6 +2071,10 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 ^(Source: Rule insert)
 
+---
+
+[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
+
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 *Set: New Mutants*   
 
@@ -2526,6 +2530,11 @@ Some characters are known by more than one moniker - like Power Man, who says **
 Power Man loves a good party, especially if he wasn’t invited. His **Crash the Party** power counts each enemy power, even if there are multiple instances of the same power. But remember face-down characters lose their powers so he won’t count their powers.
 
 ^(Source: Rule insert)
+
+# Private Hudson
+*Set: The Alien Battles*
+
+This card has a misprint.
 
 # Professor X
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-033.jpg) (MC - The Marvel Battles)
@@ -3840,11 +3849,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNTE4NzkyLC0xNTUzNDIyNzQzLC0xMj
-IzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5Mzky
-NjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMj
-A0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcx
-MzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLT
-kxMDExNjI4Myw2NDYyNjA2NTMsMTc2NzkwNjU2OSwxNjY5ODMw
-NDk4XX0=
+eyJoaXN0b3J5IjpbLTg0OTAzNzA2NiwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0NiwtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC
+05MTAxMTYyODMsNjQ2MjYwNjUzLDE3Njc5MDY1NjksMTY2OTgz
+MDQ5OF19
 -->
