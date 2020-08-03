@@ -2180,12 +2180,12 @@ If he is beneath a Location and it gets turned face down (including by being use
 
 ^(Source: Rule insert)
 
-# Moloids
+# Moloid
 *Set: The Fantastic Battles*
 
-Q: Which side does Moloids check to determine the ATK boost?
+Q: Which side does Moloid check to determine the ATK boost?
 
-A: Though it's not totally clear, "that" refers to the opponent against whom you were attacking. So if you had 3 face down resources and your opponent had 5, Moloids would get +5 ATK when they attacked.
+A: Though it's not totally clear, "that" refers to the opponent against whom you were attacking. So if you had 3 face down resources and your opponent had 5, Moloid would get +5 ATK when it attacked.
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3136234033078788/))
 
@@ -3986,11 +3986,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTIzMTc4MywtODgwMzkyMTY4LC0xNz
-E0ODE4NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1
-OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNS
-wxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1
-NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMS
-wtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLTMyNTU0MTQ0LC01MDcy
-MTQ0ODVdfQ==
+eyJoaXN0b3J5IjpbMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MT
+Q4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5
+MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LD
+EyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1
+Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC
+05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIx
+NDQ4NV19
 -->
