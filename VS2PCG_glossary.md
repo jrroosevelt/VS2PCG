@@ -555,6 +555,10 @@ A: Frozen only stops readying, so yes
   
 
 * When this character appears, put -1/-1 counters equal to the number of Soldiers on your side onto an enemy supporting character.  
+
+---
+
+Q: Does the 
   
 
 # Spider-Gear  
@@ -675,6 +679,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0OD
-QxODk3XX0=
+eyJoaXN0b3J5IjpbLTExNTM4Njk0NzEsMTgwMDg0NTA5NywzMT
+AzOTc5MCwxNTk0ODQxODk3XX0=
 -->
