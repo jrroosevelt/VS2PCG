@@ -2307,6 +2307,8 @@ In the example given by the OP, the +3 ATK gained by her Super Power would conti
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+## Mystique (MC -Femme Fatale)
+
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
 *Set: The Marvel Battles**
 
@@ -3967,11 +3969,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Nj
-cwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkz
-NDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMT
-Q0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0
-NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLT
-UwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAxMTYyODMsNjQ2MjYw
-NjUzXX0=
+eyJoaXN0b3J5IjpbOTY2MzE2NDkzLDczODU2NjQ3NSwxMTE0MT
+UyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5
+MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxOD
+QzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEz
+NDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLT
+MyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2
+MjgzXX0=
 -->
