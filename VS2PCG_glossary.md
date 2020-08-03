@@ -216,9 +216,8 @@ Here is the list of the most common recurring keywords, powers or terms that are
   
 
 * Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles lose and can't gain powers. *(Including Flight and Range)*  
-  
- # Evil
- 
+
+# Evil 
 * Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
 
 # Fearless  
@@ -688,6 +687,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTM0MzYwNywtMTQ4NTE3NDg0MiwxOD
-AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbMjk0OTQ3MjY5LC0xNDg1MTc0ODQyLDE4MD
+A4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
