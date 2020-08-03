@@ -2315,7 +2315,7 @@ For example, if Spider Ham attacks Mystique while Madame Web is in his side, giv
 
 A: Mystique matches power including all modifiers, so she’d gain 7 attack. It would say “printed attack” if it worked the other way.
 
-^(Source: FB Post)
+^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
 *Set: The Marvel Battles**
@@ -3977,11 +3977,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMT
-QxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0
-MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LD
-E4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2
-MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3MTM0Ni
-wtMzI1NTQxNDQsLTUwNzIxNDQ4NSwxNTE5NDQyMjY0LC05MTAx
-MTYyODNdfQ==
+eyJoaXN0b3J5IjpbLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
+g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
+NzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Mi
+w3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5
+Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NS
+wxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0
+NDIyNjRdfQ==
 -->
