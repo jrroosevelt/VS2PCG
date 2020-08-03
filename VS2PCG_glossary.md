@@ -558,7 +558,9 @@ A: Frozen only stops readying, so yes
 
 ---
 
-Q: Does the 
+Q: Does the target of the **Soldier** ability have to be unprotected? The card doesn't mention this, but the S.H.I.E.L.D. vs. Hydra rule book does.
+
+A: No, it can be any supporting character. This was a misprint in the rule book.
   
 
 # Spider-Gear  
@@ -679,6 +681,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM4Njk0NzEsMTgwMDg0NTA5NywzMT
-AzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbMTU3NTk5NTc4OCwxODAwODQ1MDk3LDMxMD
+M5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
