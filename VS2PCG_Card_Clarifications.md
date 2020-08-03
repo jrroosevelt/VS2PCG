@@ -3987,6 +3987,22 @@ Here are the four Plot Twists he has at his disposal:
 
 ^(Source: Rule insert)
 
+---
+
+**Wizard Armor**  reads:
+
+>While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surprise, or Best Offense is A Good Defense plot twist.
+
+When you use **Wizard Armor,** ignore everything about the plot twist you’re holding and play it entirely as an Open Fire, Find Cover, etc.
+
+If the plot twist has a play restriction you can’t meet (for example a team affiliation symbol you don’t have on your side) it doesn’t matter.
+
+Similarly, if a Plot Twist has a play benefit (like Death Trap) you don’t get to make use of it.
+
+The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles set.
+
+^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
+
 # [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
 *Set: The Marvel Battles*
 
@@ -4050,11 +4066,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1Mjc3OTA4LC0xNTAxMTc3MDgzLDE5MT
-U0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2NDQy
-LDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczOD
-U2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3
-NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLD
-czODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjky
-ODgxNl19
+eyJoaXN0b3J5IjpbMTA4MzAyOTEyMiwtMTUwMTE3NzA4MywxOT
+E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
+MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
+g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
+NzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Mi
+w3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5
+Mjg4MTZdfQ==
 -->
