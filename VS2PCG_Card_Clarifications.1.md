@@ -356,6 +356,23 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
 
+^(Source: Rule Insert)
+
+---
+
+Q: Another question about Cable and his super power **Advanced Cybernetics**. If I pay the yellow, then declare an attack can I equip Combistick onto him during the combat? Basically does that super change change all team symbols and what not on the card to X-men?
+
+A: Though the equipment itself gets the X-Men affiliation the text still requires the character to be a Predator in order to equip it as a PT in combat.
+
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/587034456930516998))
+
+Q: Question about Cables LV2 ability **Time Travel** is that super power basically like a board reset? I know it says KO'ed pile, hand, and removed, and all other cards on there side, meaning cards in play, resource row? Just wanted to double check on the cards in there side part.
+
+A: Yes. Only wounds, levels, and equipment on MCs remain as-is.
+
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/586933857715224598))
+
+
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
 *Set: The Marvel Battles*
 
@@ -713,6 +730,14 @@ When Devil-Slayer and the defender strike each other:
 
 
 ^(Source: Rule insert)
+
+---
+
+Q: I have Devil-Slayer. My opponent has a stunned character in their back row and a face-up character in their front row. Can Devil-Slayer attack the stunned character in the back row? I'm asking because the comp rules state that a stunned character "can't be protected".
+
+A: No. Devil Slayer still has to follow all the other legal attack rules. He doesn't have flight so he can't ignore the front row.
+
+^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
 *Set: The Fantastic Battles*  
@@ -2162,6 +2187,17 @@ See [Devil Dinosaur](#wiki_devil_dinosaur).
 
 ^(Source: Rule insert)
 
+# [Moonstone](http://vs.tcgbrowser.com/images/cards/big/aff-039.jpg)
+*Set: A-Force*
+
+Q: Hi all, if Moonstone gets KO’d, do the characters in play get flight back?
+
+A: Yes.
+
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/558239352535384064))
+
+*Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
+
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
 *Set: A-Force*  
 
@@ -2186,6 +2222,10 @@ When Mr. Black and the defender strike each other:
 ---
 
 [This card has a misprint (or errata?).](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mr._black_mc)
+
+---
+
+[See also Devil Slayer](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_devil_slayer) for a similar ability question.
 
 # [Ms. Marvel](http://vs.tcgbrowser.com/images/cards/big/mnb-017.jpg)
 *Set: The Marvel Battles*
@@ -3253,6 +3293,14 @@ A: No, **The Staff of One** has "Any Combat" Which allows it to be used during a
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+# [Sister Ripley](http://vs.tcgbrowser.com/images/cards/big/ALN-005.jpg)
+*Set: The Alien Battles*
+
+Q: How does Sister Ripley's **No Weapon of Any Kind** work?
+
+A: Any time you make a melee attack (any attack from the front row) while she is face up, she gains an XP. She will gain it as soon as the attack is declared so if it's the last XP she needs, she will be attacking with her new stats.
+
+^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/503484419256877059))
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 *Set: Crossover Vol. 2*
@@ -3919,11 +3967,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjcwNDU5MCwtMTQyNjc5NTc5LDY2Nz
-c1NDY1NSwxNDY4MTEwMjM5LDQwMjczMjEyLDE2NDkwNzU4MzIs
-LTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LC0xMD
-U2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3
-MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4Nz
-kwMiwtNTUxNDUzMzg5LC0yMTUzNTE4MywxMjY5NzM0MDcwLDEz
-OTY5ODgzMjRdfQ==
+eyJoaXN0b3J5IjpbNzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0Mj
+Y3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwx
+NjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OT
+Q0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTky
+NTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMj
+k5LDE4NTYzODc5MDIsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2
+OTczNDA3MF19
 -->
