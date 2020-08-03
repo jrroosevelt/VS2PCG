@@ -1,5 +1,5 @@
 
-[BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
+[BACK TO INDEX](/r/VS2PCG/wiki/index)
   
 # Card clarifications and FAQs
 
@@ -13,9 +13,9 @@ The following card-specific information is a culmination of clarifications, rule
 
 For additional information, see also:
 
-* [Rule changes, bans, errata, and clarifications](https://www.reddit.com/r/VS2PCG/wiki/rulings)
+* [Rule changes, bans, errata, and clarifications](/r/VS2PCG/wiki/rulings)
 
-* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
+* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary )
 
 
 
@@ -519,7 +519,7 @@ With **All Bark, No Flight** each power lost grants 1 XP. So if a character lose
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/BAN-001.jpg) (SC - MNB-061)
 *Set: The Marvel Battles*
 
-[This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
+[This card has been banned](/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
 *Set: The Utopia Battles*  
@@ -4029,7 +4029,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU4NzY1OTMsMTkxNTQxMDQ3Nyw5Nz
+eyJoaXN0b3J5IjpbLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5Nz
 gxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEz
 LC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMT
 QxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0
