@@ -2589,7 +2589,7 @@ A: Pain and Suffering can only affect a character in the combat.
 
 ^(Source: Danny Mandel)
 
-# Paladin
+# [Paladin](http://vs.tcgbrowser.com/images/cards/big/HAM-013.jpg)
 *Set: H.A.M.M.E.R*
 
 Q: Does this guy have to be face-up after the combat for his ability to work?
@@ -4013,11 +4013,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDQzMTY4OSwtNzYwMTg2NDQyLDI4Nz
-UzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2NjQ3
-NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLT
-EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
-OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
-wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
-NzEzNDZdfQ==
+eyJoaXN0b3J5IjpbOTYyODE4MzA3LC03NjAxODY0NDIsMjg3NT
+MwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1
+LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0Nl19
 -->
