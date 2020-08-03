@@ -391,6 +391,23 @@ A: Frozen only stops readying, so yes
   
 
 * Put this in your deck only if each card with a team affiliation and each character in your deck share a team affiliation. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
+
+---
+
+As of the [June 2020 Rules update](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/), the following applies:
+Currently, if you want to build a Loyalty deck, all your out-of-game piles must also follow any Loyalty restrictions.
+
+From now on, that rule will be removed:
+
+**Out-of-game piles do NOT need to follow Loyalty restrictions.**
+
+Some examples of what this change will allow:
+
+-   You can now play a Mister Fantastic or Doctor Doom Loyalty deck with an Invention pile.
+-   You can now play Dr. Curt Connors (with his Lizard pile) in a Spider-Friends Loyalty deck.
+-   You can now use a Secret Hideout (with its Hostage pile) in a Sinister Syndicate Loyalty deck.
+
+^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
   
 
 # Lumbering  
@@ -687,6 +704,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTQ3MjY5LC0xNDg1MTc0ODQyLDE4MD
-A4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbMTM5MDMxMzQzMywtMTQ4NTE3NDg0MiwxOD
+AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
