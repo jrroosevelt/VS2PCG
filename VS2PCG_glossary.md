@@ -356,6 +356,8 @@ A: Frozen only stops readying, so yes
 
 * At the end of your turn, if this character is ready, you may [hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) her.  
   
+# Keyword
+
 
 # Invisible  
   
@@ -715,6 +717,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MDQ4Mjg4LC0xNDg1MTc0ODQyLDE4MD
-A4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbMTU0NTY1ODY2OCwtMTQ4NTE3NDg0MiwxOD
+AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
