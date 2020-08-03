@@ -2596,7 +2596,7 @@ Q: Does this guy have to be face-up after the combat for his ability to work?
 
 A: No. As long as he stuns the defender, the power is applied, even if Paladin is stunned as a result of the combat.
 
-^Source: ^Dis
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/595302528631963648)
 
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
@@ -4013,11 +4013,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc0OTYzMjUsLTc2MDE4NjQ0MiwyOD
-c1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0
-NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC
-0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5
-MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MT
-YsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1
-MDcxMzQ2XX0=
+eyJoaXN0b3J5IjpbLTQ1NDQzMTY4OSwtNzYwMTg2NDQyLDI4Nz
+UzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2NjQ3
+NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLT
+EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
+OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
+wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
+NzEzNDZdfQ==
 -->
