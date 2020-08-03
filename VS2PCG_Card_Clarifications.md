@@ -128,7 +128,7 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 
 ---
 If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw or Legacy), you do not have to pay the additional cost of wounding Silver Surfer.  
-^Source: [^FB ^Community ^Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
+^Source: [^FB Community Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
 
 
 # [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
@@ -419,6 +419,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 *Set: Cosmic Avengers*  
 
 His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
+
 * "Do you have any Plot Twists in your hand?"  
 * "Do you have any Fin Fang Fooms in your hand?"  
 * "Do you have a 7 cost card in your hand?"
@@ -4027,11 +4028,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMT
-g2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEw
-LDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NT
-M0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQy
-MjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLT
-MzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAx
-MDY1XX0=
+eyJoaXN0b3J5IjpbMTA2NDQ5OTI4OSw5NzgxNTY4ODUsMTQ0Mz
+EzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgs
+LTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Nj
+cwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkz
+NDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMT
+Q0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0
+NDAxXX0=
 -->
