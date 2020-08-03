@@ -2589,6 +2589,15 @@ A: Pain and Suffering can only affect a character in the combat.
 
 ^(Source: Danny Mandel)
 
+# Paladin
+*Set: H.A.M.M.E.R*
+
+Q: Does this guy have to be face-up after the combat for his ability to work?
+
+A: No. As long as he stuns the defender, the power is applied, even if Paladin is stunned as a result of the combat.
+
+^Source: ^Dis
+
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
 *Set: Crossover*  
@@ -4004,7 +4013,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk2MjUwNTEsLTc2MDE4NjQ0MiwyOD
+eyJoaXN0b3J5IjpbLTE2Nzc0OTYzMjUsLTc2MDE4NjQ0MiwyOD
 c1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0
 NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC
 0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5
