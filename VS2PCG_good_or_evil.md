@@ -40,7 +40,12 @@ Here are the current Good or Evil categorizations:
 * MCU Heroes
 * Scoobies
 
-### Forces of Da
+### Evil Teams
+* Forces of Darkness
+* MCU Villains
+* Monsters of the Week
+* Syndicate
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTE3NDE3NF19
+eyJoaXN0b3J5IjpbMTMxOTcxNzYwOF19
 -->
