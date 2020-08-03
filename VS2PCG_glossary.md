@@ -363,7 +363,9 @@ Flight and Ranged are the two most common keyword powers.
 
 ---
 
-Q: Is there a distinction between Keyword Text and Keyword Powers? I ask because Dark Phoenix
+Q: Is there a distinction between Keyword Text and Keyword Powers? I ask because Dark Phoenix's **Deconstruct the Universe** can disable Keyword Text, but she doesn't disable Flight or Range when doing so. 
+
+A: In this case, Flight and Range are just two specific exceptions for Dark Phoenix
 
 # Invisible  
   
@@ -723,6 +725,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE2NTg4MDMsLTE0ODUxNzQ4NDIsMT
-gwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbMTA3MDg3MzU0NywtMTQ4NTE3NDg0MiwxOD
+AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
