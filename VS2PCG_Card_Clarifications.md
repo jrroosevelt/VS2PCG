@@ -2307,6 +2307,12 @@ In the example given by the OP, the +3 ATK gained by her Super Power would conti
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+---
+
+Q: With **Masquerade**, Does Mystique gain that character’s base ATK, or their current attack including counters/modifiers/etc?
+
+For example, if Spider Ham attacks Mystique while Madame Web is in his side, giving him 8/4, and Mystique uses masquerade, does she gain attack up to 6 (since this is spider ham’s base atk) or does she gain attack up to 8 (since he has +2/+2 from madame web)? So would she gain 5xp or 7xp?
+
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
 *Set: The Marvel Battles**
 
@@ -3967,11 +3973,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NTY2NDc1LDczODU2NjQ3NSwxMTE0MT
-UyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5
-MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkzOTI2NCwxOD
-QzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNiwyMDQ5NjEz
-NDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUwNzEzNDYsLT
-MyNTU0MTQ0LC01MDcyMTQ0ODUsMTUxOTQ0MjI2NCwtOTEwMTE2
-MjgzXX0=
+eyJoaXN0b3J5IjpbLTE5MTc1NDg0OSw3Mzg1NjY0NzUsMTExND
+E1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQx
+OTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMT
+g0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYx
+MzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC
+0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0NDIyNjQsLTkxMDEx
+NjI4M119
 -->
