@@ -217,6 +217,9 @@ Here is the list of the most common recurring keywords, powers or terms that are
 
 * Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles lose and can't gain powers. *(Including Flight and Range)*  
   
+ # Evil
+ 
+* Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
 
 # Fearless  
   
@@ -261,9 +264,8 @@ A: Frozen only stops readying, so yes
 * Like all powers, Genius is only active while face-up.  Some cards with Genius call this out specifically in their text while others don't but it is true in either case.  
 
 # Good
-* Classif
+* Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
   
-
 # Grab  
   
 
@@ -686,6 +688,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDAwMzU2NSwtMTQ4NTE3NDg0MiwxOD
+eyJoaXN0b3J5IjpbLTc0NTM0MzYwNywtMTQ4NTE3NDg0MiwxOD
 AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
