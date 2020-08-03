@@ -17,7 +17,30 @@ Here are the current Good or Evil categorizations:
 * Monsters Unleashed
 * Prey
 * Resistance
-* S.H.I.E.
+* S.H.I.E.L.D.
+* Spider-Friends
+* X-Men
+
+### Evil teams
+* Brotherhood of Mutants
+* Femme Fatales
+* Frightful
+* H.A.M.M.E.R.
+* Hydra
+* Leviathons
+* Predators
+* Sinister Syndicate
+* Super Villains
+* Underworld
+* Xenomorphs
+
+## Photographic universe
+### Good teams
+* Bureau
+* MCU Heroes
+* Scoobies
+
+### Forces of Da
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc2MzA0ODddfQ==
+eyJoaXN0b3J5IjpbMTE1MTE3NDE3NF19
 -->
