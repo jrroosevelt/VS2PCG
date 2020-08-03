@@ -357,7 +357,13 @@ A: Frozen only stops readying, so yes
 * At the end of your turn, if this character is ready, you may [hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) her.  
   
 # Keyword
+Keywords are powers that often show up on more than one character. When a character has a keyword power, just follow the instructions in its text. (Some common or older keywords might not have their text displayed. In that case, you can look up their definition in this Rulebook.)
 
+Flight and Ranged are the two most common keyword powers.
+
+---
+
+Q: Is there a distinction between Keyword Text and Keyword Powers? I ask because Dark Phoenix
 
 # Invisible  
   
@@ -717,6 +723,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTY1ODY2OCwtMTQ4NTE3NDg0MiwxOD
-AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbLTE1NzE2NTg4MDMsLTE0ODUxNzQ4NDIsMT
+gwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
