@@ -556,6 +556,7 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 ---
 
 **Protector of Hell's Kitchen**
+
 Q: If I attack Daredevil with Mary Walker (Typhoid Mary) and I put a -1/-1 counter on Daredevil and one on the only character he's protecting which happens to have 1 defense (like Black Widow), KO'ing her, does Daredevil gets an XP?
 
 A: The turn player decides the order per page 9 of the rule book under "Timing." Daredevil's level up power has an intervening "if" clause, which means the condition must be true when it triggers AND when it resolves. So if the turn player decides to resolve Mary Walker's power before Daredevil's power, Daredevil will not get an XP because he won't be protecting anyone once his level up power resolves. On the other hand, if the turn player decides to resolve Daredevil's power before Mary's then Daredevil will gain an XP.
@@ -590,7 +591,7 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
  
 * **Equipment**: Remove all Equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and Equipment that are already removed from the game. This also includes any cards that were once Equipment cards but don’t currently count as Equipment (such as a face-down resource or an Equipment that has become a character via Arnim Zola’s   
-**ESP Box**). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
+**ESP Box** ). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
 
 * **Keyword text:** Removing this concept doesn’t affect **Flight** and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
  
@@ -4028,7 +4029,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDQ5OTI4OSw5NzgxNTY4ODUsMTQ0Mz
+eyJoaXN0b3J5IjpbMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0Mz
 EzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgs
 LTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Nj
 cwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkz
