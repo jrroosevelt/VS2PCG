@@ -28,11 +28,15 @@ Check out the [*wiki page on the Events and Featured Formats*](https://www.reddi
 
 ## **Clarifications, Rulings, FAQs, Errata, Etc.**
 
-[Rule changes, card bans & errata, misprints, and tournament-specific rules](https://www.reddit.com/r/VS2PCG/wiki/rulings)
+[Rule changes, card bans & errata, misprints, and tournament-specific rules](https://www.reddit.com/r/VS2PCG/wiki/rulings)  
 
-[Card-specific clarifications and FAQ](https://www.reddit.com/r/VS2PCG/wiki/rules-insert) Clarifications and FAQs on specific cards from sources including Rule Inserts, official FAQs, and community posts
 
-[Good or Evil?](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil) Current classifiec
+[Card-specific clarifications and FAQ](https://www.reddit.com/r/VS2PCG/wiki/rules-insert)   
+Clarifications and FAQs on specific cards from sources including Rule Inserts, official FAQs, and community posts
+
+[Good or Evil?](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil) Current classification for which teams are the good guys or bad guys.
+
+[Glossary and FAQ of Terms, keywords and effects](https://www.reddit.com/r/VS2PCG/wiki/glossary) 
 
 ## **Lists and Databases**
 
@@ -47,8 +51,6 @@ Check out the [*wiki page on the Events and Featured Formats*](https://www.reddi
 [Full Learn to Play & Demonstration decks Wiki Page](https://www.reddit.com/r/VS2PCG/wiki/how-to-play)
 
 [Basic Rulebook (for Beginners, or new to VS)](http://www.upperdeck.com/OP/RuleBooks/Vs_2PCG_Alien_Rules.pdf)
-
-[Glossary of Terms, keywords and effects](https://www.reddit.com/r/VS2PCG/wiki/glossary)
 
 [***Compiled Rules 3.2*** (Updated 4/3/2018)](https://docs.google.com/document/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/edit)  Complete official rules, goes beyond the basic rules and clarifies 99.9% of interactions.
 
@@ -116,6 +118,5 @@ Email qa@upperdeck.com if you buy a box that you discover is missing any cards. 
 
 * In the Friendly Neighborhood set, released in March 2020, the L1 Main Character [Mysterio card was misprinted](https://www.upperdeckblog.com/2020/03/vs-system-2pcg-friendly-neighborhood-card-preview-mysterious/?fbclid=IwAR0Fuo-OuTRNMy2Urd5l-wLPZtrnAg4Nsx70IBAonWCNN72WcPEgBMUvWlA).  Reach out to qa@upperdeck.com for a corrected copy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjkwMzAxNDAsLTE2NjIwOTA3ODFdfQ
-==
+eyJoaXN0b3J5IjpbMTM3NzM0NzE3MywtMTY2MjA5MDc4MV19
 -->
