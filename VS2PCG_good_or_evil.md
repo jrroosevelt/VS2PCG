@@ -1,3 +1,4 @@
+[BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 # Good or Evil?
 A card's Good or Evil categorization is typically based on its [Team Affiliation](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_team_affiliation), though occasionally another card's abilities can change that categorization.
 
@@ -47,5 +48,5 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MjMyMTkxLDEzMTk3MTc2MDhdfQ==
+eyJoaXN0b3J5IjpbLTE5Njc2OTUxMCwxMzE5NzE3NjA4XX0=
 -->
