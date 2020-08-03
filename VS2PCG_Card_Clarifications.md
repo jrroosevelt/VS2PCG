@@ -575,6 +575,8 @@ A: [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil) affiliation
 
 For example: Power Loader would be Good because it has The Company team affiliation, but Omega Machine would be Evil because it is H.A.M.M.E.R. affiliated.
 
+However, for this specific question it should be noted that Darkhold is neutral. It does require you to have a Marvel character, but Marvel isn't a Team Affiliation and doesn't make the card Good or Evil. So Darkhold - even though it can only be equipped to an Evil character -  is not Evil itself (and would *not* benefit from Dark Beast's power).
+
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
 *Set: Crossover*  
@@ -4023,11 +4025,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDk3MDAyNSwxNDQzMTM0MDYsLTc2MD
-E4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYx
-MCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNT
-UzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0
-MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC
-0zMzI5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgw
-MTA2NV19
+eyJoaXN0b3J5IjpbLTE5MDA5NDY5ODgsMTQ0MzEzNDA2LC03Nj
+AxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2
+MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMT
+U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
+NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MC
+wtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4
+MDEwNjVdfQ==
 -->
