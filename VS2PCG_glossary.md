@@ -450,7 +450,9 @@ Some examples of what this change will allow:
 
 ---
 
-Q: If I have both Hit Monkey and Masacre, can they both team attack with my Main 
+Q: If I have both Hit Monkey and Masacre, can they both team attack with my Main Character at the same time?
+
+A: In this case, yes. Because Hit Monkey and Masacre are both on the same team already, they can both use their Mercenary ability to team attack with your Main Character. However, if you have two supporting characters with Mercenary who aren't on the same team (such as Silver Sable and Hit Monkey), they cannot simultan
   
 
 # Mobile  
@@ -711,6 +713,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTkyMTU1MywtMTQ4NTE3NDg0MiwxOD
-AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbNDE2MjAwODk1LC0xNDg1MTc0ODQyLDE4MD
+A4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
