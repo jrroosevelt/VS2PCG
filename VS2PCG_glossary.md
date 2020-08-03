@@ -444,6 +444,9 @@ Some examples of what this change will allow:
 * Cards sharing a mantle are considered to have different names, and if an effect refers to one of them, it will not apply to the other.  
   
 * For Example: [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-015.jpg) and [\*Captain America\*](http://vs.tcgbrowser.com/images/cards/big/SVH-043.jpg) share a mantle.  Both can be on the field at the same time but cannot power each other up because their names are different.  Also because their names are considered to be different, [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg) cannot team attack with \*Captain America\* because his text only refers to Captain America (without the stars).  
+
+# Mercenary
+* 
   
 
 # Mobile  
@@ -704,6 +707,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDMxMzQzMywtMTQ4NTE3NDg0MiwxOD
-AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbLTE0NDkzNDAxMTIsLTE0ODUxNzQ4NDIsMT
+gwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
