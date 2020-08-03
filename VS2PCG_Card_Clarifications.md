@@ -1841,7 +1841,7 @@ Q: How does Lockjaw’s **Along for the Ride** work? Do the characters that come
 
 A: Yes. Any time a character appears they get the Appear trigger - even when put into play by a game effect and not a recruit.
 
-Editor's note: On the flip side, the characters brought **Along for the Ride** will not trigger any Recruit abilities. For example, 
+Editor's note: On the flip side, the characters brought **Along for the Ride** will not trigger any Recruit abilities. For example, [Ardina's](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_ardina) **Clone of the Silver Surfer** ability will not trigger.
 
 # Loki
 
@@ -4075,11 +4075,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDExMDc3MiwtMTUwMTE3NzA4MywxOT
-E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
-MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
-g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
-NzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Mi
-w3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5
-Mjg4MTZdfQ==
+eyJoaXN0b3J5IjpbNTQwMTYyMDM2LC0xNTAxMTc3MDgzLDE5MT
+U0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2NDQy
+LDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczOD
+U2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3
+NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLD
+czODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjky
+ODgxNl19
 -->
