@@ -2892,7 +2892,7 @@ Q: On Sabretooth's level up it says at the end of "each turn". Because it doesn'
 
 A: Yes he gains an XP for every turn he is face up; both yours and your opponent's.
 
-^Source: ^Discord ^Post
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/594442510458290189)
 
 
 # [Sacred Ground](http://vs.tcgbrowser.com/images/cards/big/TUB-029.jpg) 
@@ -4004,11 +4004,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0NDY1NDgyLC03NjAxODY0NDIsMjg3NT
-MwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1
-LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMT
-IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
-MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
-IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
-MTM0Nl19
+eyJoaXN0b3J5IjpbLTE0ODk2MjUwNTEsLTc2MDE4NjQ0MiwyOD
+c1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0
+NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC
+0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5
+MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MT
+YsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1
+MDcxMzQ2XX0=
 -->
