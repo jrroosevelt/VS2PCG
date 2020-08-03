@@ -2180,6 +2180,9 @@ If he is beneath a Location and it gets turned face down (including by being use
 
 ^(Source: Rule insert)
 
+# Moloid
+
+
 # [Moon Girl](http://vs.tcgbrowser.com/images/cards/big/MMU-054.jpg)
 *Set: Monsters Unleashed!*  
 
@@ -3977,11 +3980,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
-g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
-NzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Mi
-w3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5
-Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgwMTA2NS
-wxMDE1MDcxMzQ2LC0zMjU1NDE0NCwtNTA3MjE0NDg1LDE1MTk0
-NDIyNjRdfQ==
+eyJoaXN0b3J5IjpbNjE0NTI0MjkzLC04ODAzOTIxNjgsLTE3MT
+Q4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5
+MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LD
+EyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1
+Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC
+05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIx
+NDQ4NV19
 -->
