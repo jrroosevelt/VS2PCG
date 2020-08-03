@@ -259,6 +259,9 @@ A: Frozen only stops readying, so yes
 * At the start of your turn, draw a card.  
   
 * Like all powers, Genius is only active while face-up.  Some cards with Genius call this out specifically in their text while others don't but it is true in either case.  
+
+# Good
+* Classif
   
 
 # Grab  
@@ -683,6 +686,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMT
-AzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbMTI2MDAwMzU2NSwtMTQ4NTE3NDg0MiwxOD
+AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
