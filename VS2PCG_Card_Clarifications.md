@@ -573,7 +573,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 Q: Dark Beast SC2. "Pay 2 less to play evil equipment." Outside of Darkhold, how does one define "evil" equipment?
 
-A: [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil) affiliations are typically based on the [Team Affiliation](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_team_affiliation) of the card. 
+A: [Good or Evil](/r/VS2PCG/wiki/good_or_evil) affiliations are typically based on the [Team Affiliation](/r/VS2PCG/wiki/glossary#wiki_team_affiliation) of the card. 
 
 For example: Power Loader would be Good because it has The Company team affiliation, but Omega Machine would be Evil because it is H.A.M.M.E.R. affiliated.
 
@@ -1088,7 +1088,7 @@ A: No, the power specifically says it can not be turned off.
 
 Chad Daniel - FB Post
 
-Editor's note: One exception to this is [Dark Phoenix (SC)](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off **Creature**.
+Editor's note: One exception to this is [Dark Phoenix (SC)](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off **Creature**.
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
 *Set: Monsters Unleashed!*  
@@ -1187,7 +1187,7 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 
 ---
 
-[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_gambit_mc)
+[This card has received errata.](/r/VS2PCG/wiki/rulings#wiki_gambit_mc)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/mnb-041.jpg) (SC)
 *Set: The Marvel Battles*
@@ -1375,12 +1375,12 @@ Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
 
-* **[Sniper](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_sniper)**   
-* **[Stealth](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_stealth)**  
-* **[Lethal](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_lethal)**  
-* **[Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)**  
-* **[Shrink](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_shrink)**  
-* **[Freeze](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_freeze)** 
+* **[Sniper]/r/VS2PCG/wiki/glossary#wiki_sniper)**   
+* **[Stealth](/r/VS2PCG/wiki/glossary#wiki_stealth)**  
+* **[Lethal](/r/VS2PCG/wiki/glossary#wiki_lethal)**  
+* **[Violent](/r/VS2PCG/wiki/glossary#wiki_violent)**  
+* **[Shrink](/r/VS2PCG/wiki/glossary#wiki_shrink)**  
+* **[Freeze](/r/VS2PCG/wiki/glossary#wiki_freeze)** 
 
 
 ^(Source: Rule insert)
@@ -1470,7 +1470,7 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 ---
 
-[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
+[This card has received errata](/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 *Set: Spidey-Foes*  
@@ -1556,7 +1556,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 
 ---
 
-[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
+[This card has received errata](/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
 *Set: Black Order*  
@@ -1673,7 +1673,7 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 # [Jungle Hunter](http://vs.tcgbrowser.com/images/cards/big/PRD-006.jpg) (MC)
 *Set: The Predator Battles*
 
-[This card has a misprint.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
+[This card has a misprint.](/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
@@ -2162,7 +2162,7 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 ---
 
-[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
+[This card has received errata.](/r/VS2PCG/wiki/rulings#wiki_mimic)
 
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 *Set: New Mutants*   
@@ -2254,7 +2254,7 @@ When Mr. Black and the defender strike each other:
 
 ---
 
-[This card has a misprint (or errata?).](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mr._black_mc)
+[This card has a misprint (or errata?).](/r/VS2PCG/wiki/rulings#wiki_mr._black_mc)
 
 ---
 
@@ -4029,11 +4029,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0Mz
-EzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgs
-LTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Nj
-cwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkz
-NDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMT
-Q0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0
-NDAxXX0=
+eyJoaXN0b3J5IjpbLTM3NDgzNjI2MCwxOTE1NDEwNDc3LDk3OD
+E1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMs
+LTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMTExND
+E1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQx
+OTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMT
+g0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYx
+MzQ1N119
 -->
