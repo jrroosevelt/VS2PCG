@@ -2886,7 +2886,13 @@ The Runner is so fast he can actually attack during your Build Phase. This means
 ^(Source: Rule insert)
 
 # [Sabretooth](http://vs.tcgbrowser.com/images/cards/big/BOM-006.jpg) (MC)
-*
+*Set: Brotherhood of Mutants*
+
+Q: On Sabretooth's level up it says at the end of "each turn". Because it doesn't say "your turn" does this mean he gains XP at the end of my opponent's turn as well. Or does it mean after both I and my opponent have had a turn?
+
+A: Yes he gains an XP for every turn he is face up; both yours and your opponent's.
+
+^Source: ^Discord ^Post
 
 
 # [Sacred Ground](http://vs.tcgbrowser.com/images/cards/big/TUB-029.jpg) 
@@ -3998,11 +4004,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDE0MjgxOSwtNzYwMTg2NDQyLDI4Nz
-UzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2NjQ3
-NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLT
-EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
-OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
-wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
-NzEzNDZdfQ==
+eyJoaXN0b3J5IjpbODI0NDY1NDgyLC03NjAxODY0NDIsMjg3NT
+MwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1
+LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMT
+IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
+MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
+IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
+MTM0Nl19
 -->
