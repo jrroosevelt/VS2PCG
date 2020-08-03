@@ -571,7 +571,9 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 Q: Dark Beast SC2. "Pay 2 less to play evil equipment." Outside of Darkhold, how does one define "evil" equipment?
 
-A: [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil) affiliations are typically based on the Team Affiliation](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_team_affiliation) of the card. 
+A: [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil) affiliations are typically based on the [Team Affiliation](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_team_affiliation) of the card. 
+
+For example: Power Loader would be Good because it has The Company team affiliation, but Omega Machine would be Evil because it is H.A.M.M.E.R. affiliated.
 
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
@@ -4021,7 +4023,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzc4MDA3NywxNDQzMTM0MDYsLTc2MD
+eyJoaXN0b3J5IjpbMTY4MDk3MDAyNSwxNDQzMTM0MDYsLTc2MD
 E4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYx
 MCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNT
 UzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0
