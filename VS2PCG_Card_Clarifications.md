@@ -2885,6 +2885,10 @@ The Runner is so fast he can actually attack during your Build Phase. This means
 
 ^(Source: Rule insert)
 
+# [Sabretooth](http://vs.tcgbrowser.com/images/cards/big/BOM-006.jpg) (MC)
+*
+
+
 # [Sacred Ground](http://vs.tcgbrowser.com/images/cards/big/TUB-029.jpg) 
 *Set: The Utopia Battles*  
 
@@ -3994,11 +3998,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MD
-M5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMw
-MCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLD
-E1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3
-NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYxMzQ1Ny
-w3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1
-NDE0NF19
+eyJoaXN0b3J5IjpbLTY4MDE0MjgxOSwtNzYwMTg2NDQyLDI4Nz
+UzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2NjQ3
+NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLT
+EyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLDczODkz
+OTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjkyODgxNi
+wyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAxMDY1LDEwMTUw
+NzEzNDZdfQ==
 -->
