@@ -2164,6 +2164,27 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 [This card has received errata.](/r/VS2PCG/wiki/rulings#wiki_mimic)
 
+---
+
+Mimic’s  **Absorption History**  does not allow you to copy any “setup” powers from the Level 1 Main Character in his Absorption History pile.
+
+From the Absorption History rules:
+
+>During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super powers only when the game begins.
+
+When the game begins, it is past the point when you would have needed to resolve any setup powers.
+
+-   For example, Scarlet Spider’s  **Spider-Clone**  power takes effect during Setup. But since Mimic gains Scarlet Spider’s power once the game begins, it’s too late for it to affect anything.
+-   Similarly, Mimic gaining the  **Sinister Six**  keyword from one of those characters won’t do anything.
+
+There is one weird case we’re going to mention here since it includes cards from the latest story arc (First Family).
+
+If Mimic has Doctor Doom (Level 1 or Level 2) or Mister Fantastic (Level 2) in his Absorption History, that will not grant Mimic an Invention pile. However, if you already have an Invention pile (because you have a supporting character  **Inventor**  in your deck) while Mimic is in an **Inventor** he will be able to access your Invention pile.
+
+The Mimic Main Character is found in the Vs. System 2PCG: H.A.M.M.E.R. expansion.
+
+^(Source: [UDE Official Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
+
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 *Set: New Mutants*   
 
@@ -4029,11 +4050,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5Nz
-gxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEz
-LC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMT
-QxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0
-MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LD
-E4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2
-MTM0NTddfQ==
+eyJoaXN0b3J5IjpbOTQ1Mjc3OTA4LC0xNTAxMTc3MDgzLDE5MT
+U0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2NDQy
+LDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczOD
+U2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3
+NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQyMjYyLD
+czODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLTMzMjky
+ODgxNl19
 -->
