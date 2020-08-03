@@ -365,7 +365,7 @@ Flight and Ranged are the two most common keyword powers.
 
 Q: Is there a distinction between Keyword Text and Keyword Powers? I ask because [Dark Phoenix's](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29) **Deconstruct the Universe** can disable Keyword Text, but she doesn't disable **Flight** or **Range** when doing so. 
 
-A: In this case, **Flight** and **Range** are just two specific exceptions of Keywords that are not affected by **Deconstruct the Universe**. But there is not a meaningful distinction betweek "Keyword Powers" and "Keyword Text".
+A: In this case, **Flight** and **Range** are just two specific exceptions of Keywords that are not affected by **Deconstruct the Universe**. So, there is not a meaningful distinction between "Keyword Powers" and "Keyword Text".
 
 ^(Source: Chad Daniel)
 
@@ -727,6 +727,6 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mzg0MzQxOSwtMTQ4NTE3NDg0MiwxOD
-AwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbMjIwMzAxMjY3LC0xNDg1MTc0ODQyLDE4MD
+A4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
