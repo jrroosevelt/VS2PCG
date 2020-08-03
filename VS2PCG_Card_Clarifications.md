@@ -1834,6 +1834,11 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 
 ^(Source: Rule insert)
 
+# Lockjaw
+*Set: Monsters Unleashed*
+
+
+
 # Loki
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
@@ -4066,7 +4071,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzAyOTEyMiwtMTUwMTE3NzA4MywxOT
+eyJoaXN0b3J5IjpbMTM0ODI4ODg1MiwtMTUwMTE3NzA4MywxOT
 E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
 MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
 g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
