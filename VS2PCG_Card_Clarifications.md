@@ -1481,6 +1481,14 @@ A: Yes, but it won't do anything.
 
 ^(Source: UDE FAQ)
 
+---
+
+Q: Can Iceman’s freeze ability target a stunned /character?
+
+A: Yes. The character would recover its next turn, but it wouldn't ready.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
+
 # Impersonating Powers
 *Set: Utopia Battles*   
 
@@ -3986,11 +3994,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MT
-Q4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5
-MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LD
-EyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1
-Mjk1MCwtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC
-05Mjc4MDEwNjUsMTAxNTA3MTM0NiwtMzI1NTQxNDQsLTUwNzIx
-NDQ4NV19
+eyJoaXN0b3J5IjpbLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MD
+M5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMw
+MCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLD
+E1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3
+NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYxMzQ1Ny
+w3ODE1NTQ0MDEsLTkyNzgwMTA2NSwxMDE1MDcxMzQ2LC0zMjU1
+NDE0NF19
 -->
