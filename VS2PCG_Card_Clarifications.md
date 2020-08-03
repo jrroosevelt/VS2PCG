@@ -566,12 +566,13 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ^(Source: Rule insert)
 
-# Dark Beast
+# [Dark Beast](http://vs.tcgbrowser.com/images/cards/big/TUB-042.jpg)
 *Set: Utopia Battles*
 
 Q: Dark Beast SC2. "Pay 2 less to play evil equipment." Outside of Darkhold, how does one define "evil" equipment?
 
-A: Good or Evil affiliations are typically based on the Team Affiliation of the character. 
+A: [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil) affiliations are typically based on the Team Affiliation](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_team_affiliation) of the card. 
+
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
 *Set: Crossover*  
@@ -4020,11 +4021,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NT
-MwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1
-LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMT
-IyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5
-MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LD
-IwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4MDEwNjUsMTAxNTA3
-MTM0Nl19
+eyJoaXN0b3J5IjpbLTQ4Mzc4MDA3NywxNDQzMTM0MDYsLTc2MD
+E4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYx
+MCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNT
+UzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0
+MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC
+0zMzI5Mjg4MTYsMjA0OTYxMzQ1Nyw3ODE1NTQ0MDEsLTkyNzgw
+MTA2NV19
 -->
