@@ -1841,7 +1841,7 @@ Q: How does Lockjaw’s **Along for the Ride** work? Do the characters that come
 
 A: Yes. Any time a character appears they get the Appear trigger - even when put into play by a game effect and not a recruit.
 
-Editor's 
+Editor's note: On the flip side, the characters brought **Along for the Ride** will not trigger any Recruit abilities. For example, 
 
 # Loki
 
@@ -4075,11 +4075,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAzMzU0NzUsLTE1MDExNzcwODMsMT
-kxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0
-NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNz
-M4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQy
-Mjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNj
-IsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMy
-OTI4ODE2XX0=
+eyJoaXN0b3J5IjpbMTM1NDExMDc3MiwtMTUwMTE3NzA4MywxOT
+E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
+MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
+g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
+NzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Mi
+w3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5
+Mjg4MTZdfQ==
 -->
