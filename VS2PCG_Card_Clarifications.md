@@ -577,6 +577,8 @@ For example: Power Loader would be Good because it has The Company team affiliat
 
 However, for this specific question it should be noted that Darkhold is neutral. It does require you to have a Marvel character, but Marvel isn't a Team Affiliation and doesn't make the card Good or Evil. So Darkhold - even though it can only be equipped to an Evil character -  is not Evil itself (and would *not* benefit from Dark Beast's power).
 
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/606578749281927181)
+
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
 *Set: Crossover*  
@@ -4025,11 +4027,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA5NDY5ODgsMTQ0MzEzNDA2LC03Nj
-AxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2
-MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMT
-U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
-NDIyNjIsNzM4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MC
-wtMzMyOTI4ODE2LDIwNDk2MTM0NTcsNzgxNTU0NDAxLC05Mjc4
-MDEwNjVdfQ==
+eyJoaXN0b3J5IjpbOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMT
+g2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEw
+LDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NT
+M0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5NjQy
+MjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1NTI5NTAsLT
+MzMjkyODgxNiwyMDQ5NjEzNDU3LDc4MTU1NDQwMSwtOTI3ODAx
+MDY1XX0=
 -->
