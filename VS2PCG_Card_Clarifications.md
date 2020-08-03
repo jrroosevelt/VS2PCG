@@ -13,9 +13,9 @@ The following card-specific information is a culmination of clarifications, rule
 
 For additional information, see also:
 
-* [Rule changes, bans, errata, and clarifications](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
+* [Rule changes, bans, errata, and clarifications](https://www.reddit.com/r/VS2PCG/wiki/rulings)
 
-* [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
+* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
 
 
@@ -2258,7 +2258,7 @@ When Mr. Black and the defender strike each other:
 
 ---
 
-[See also Devil Slayer](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_devil_slayer) for a similar ability question.
+[See also Devil Slayer](/r/VS2PCG/wiki/rules-insert#wiki_devil_slayer) for a similar ability question.
 
 # [Ms. Marvel](http://vs.tcgbrowser.com/images/cards/big/mnb-017.jpg)
 *Set: The Marvel Battles*
@@ -2285,7 +2285,7 @@ When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignor
 
 ---
 
-[This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mysterio_mc).
+[This card has a misprint](/r/VS2PCG/wiki/rulings#wiki_mysterio_mc).
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-008.jpg) (SC)
 *Set: Sinister Syndicate*  
@@ -2547,7 +2547,7 @@ These are four different One of a Kind Equipment that have the same name. Unlike
 
 ^(Source: Rule insert)
 
-See also: [Machine](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_machine)
+See also: [Machine](/r/VS2PCG/wiki/glossary#wiki_machine)
 
 # [Omega Red](http://vs.tcgbrowser.com/images/cards/big/CV1-019.jpg)
 *Set: Crossover*  
@@ -2674,7 +2674,7 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 # [Private Hudson](http://vs.tcgbrowser.com/images/cards/big/ALN-019.jpg)
 *Set: The Alien Battles*
 
-[This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_private_hudson).
+[This card has a misprint](/r/VS2PCG/wiki/rulings#wiki_private_hudson).
 
 # Professor X
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-033.jpg) (MC - The Marvel Battles)
@@ -3028,7 +3028,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 # [Shadowcat](http://vs.tcgbrowser.com/images/cards/big/LEG-014.jpg)
 *Set: Legacy*
 
-[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_shadowcat_sc) 
+[This card has received errata.](/r/VS2PCG/wiki/rulings#wiki_shadowcat_sc) 
 
 # [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
 *Set: Brotherhood of Mutants*  
@@ -3149,7 +3149,7 @@ A: No, each SC would give you the opportunity to use the Reaction power, but onl
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/BAN-004.jpg) (SC - AFF-015)
 *Set A-Force*
 
-The original [Singularity SC was banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_singularity_sc_.28a-force_set.29).
+The original [Singularity SC was banned](/r/VS2PCG/wiki/rulings#wiki_singularity_sc_.28a-force_set.29).
 
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/aff-015.jpg) (SC - AFF-015*)
 *Set: A-Force*
@@ -3376,7 +3376,7 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 # [The Space Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-022.jpg)
 *Set: Black Order*
 
-[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_the_space_gem_.28black_order_set.29).
+[This card has received errata](/r/VS2PCG/wiki/rulings#wiki_the_space_gem_.28black_order_set.29).
 
 # [Specialized Web Cartridges](http://vs.tcgbrowser.com/images/cards/big/WEB-024.jpg)
 *Set: Webheads*  
@@ -3676,7 +3676,7 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BAN-002.jpg) (MC - MNB-085)
 *Set: The Marvel Battles*
 
-[This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_thanos_mc_.28marvel_battles.29).
+[This card has been banned](/r/VS2PCG/wiki/rulings#wiki_thanos_mc_.28marvel_battles.29).
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-085.jpg) (MC - MNB-085)
 *Set: Legacy*
@@ -4029,11 +4029,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDgzNjI2MCwxOTE1NDEwNDc3LDk3OD
-E1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMs
-LTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMTExND
-E1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQx
-OTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMT
-g0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5Mjg4MTYsMjA0OTYx
-MzQ1N119
+eyJoaXN0b3J5IjpbLTE4MjU4NzY1OTMsMTkxNTQxMDQ3Nyw5Nz
+gxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEz
+LC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMT
+QxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0
+MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LD
+E4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4ODE2LDIwNDk2
+MTM0NTddfQ==
 -->
