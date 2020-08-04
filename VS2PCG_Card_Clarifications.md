@@ -2071,7 +2071,11 @@ Q: If Match strikes a Defender does he *only* put -1 counters on someone, or doe
 
 A: When he strikes a Defender, his strike *is* the -1/-1 counters. If the negative counters take the Defender to 0 DEF, the defender is stunned. Otherwise, the counters are applied and the combat resolves as normal (including strike-back with the Defender's ATK value modified by the counters).
 
-^Source: 
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/709929676856098886) 
+
+---
+
+Q: 
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
 *Set: Webheads*  
@@ -4112,11 +4116,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQwNDMwNzYsMTc1NjQ2MTk2OCwxND
-gxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3
-NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLT
-c2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgx
-ODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC
-0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIy
-OTY0MjI2Ml19
+eyJoaXN0b3J5IjpbNzY2Njk5Nzk2LDE3NTY0NjE5NjgsMTQ4MT
+QwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcw
+ODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03Nj
+AxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2
+MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMT
+U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
+NDIyNjJdfQ==
 -->
