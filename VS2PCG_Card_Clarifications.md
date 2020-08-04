@@ -1387,7 +1387,11 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 
 ---
 
-Q: Do cards from teh *
+Q: Do cards from the **Custom Quiver** go to the KO pile once played?
+
+A: Yes.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/622921783787388930)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -4089,7 +4093,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODM0MjExOSwtMTUwMTE3NzA4MywxOT
+eyJoaXN0b3J5IjpbMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOT
 E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
 MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
 g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
