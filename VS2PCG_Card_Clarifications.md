@@ -2198,8 +2198,9 @@ The Mimic Main Character is found in the Vs. System 2PCG: H.A.M.M.E.R. expansion
 
 ---
 
-Q: When using whichever lvl character from the absorption pile, which team affiliation does one use: mimic's hammer OR the absorption power character?  
-I'm pretty sure Im using everything on the absorption character, except health and level up condition but want to make sure ...
+Q: When using whichever lvl character from the **Absorption History** pile, which team affiliation does one use: Mimic's (H.A.M.M.E.R.) or the absorption power character's team?  
+
+A: Mimic gains their powers, not team affiliations. Mimic is H.A.M.M.E.R. - it oesn't matter what his absorb guy is for any reason. That card isn't even technically in play.
 
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 *Set: New Mutants*   
@@ -4082,11 +4083,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDc3NjA4MiwtMTUwMTE3NzA4MywxOT
-E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
-MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
-g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
-NzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Mi
-w3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5
-Mjg4MTZdfQ==
+eyJoaXN0b3J5IjpbMzkyNzc3NTMsLTE1MDExNzcwODMsMTkxNT
+QxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIs
+Mjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NT
+Y2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0
+MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNz
+M4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4
+ODE2XX0=
 -->
