@@ -204,6 +204,9 @@ Here is the list of the most common recurring keywords, powers or terms that are
   
 
 * If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
+
+# Equipment
+* Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
   
 
 # Eternal  
@@ -727,6 +730,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMzAxMjY3LC0xNDg1MTc0ODQyLDE4MD
-A4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbLTIwMzg1Nzc0NDgsMjIwMzAxMjY3LC0xND
+g1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5
+N119
 -->
