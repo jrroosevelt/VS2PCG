@@ -1790,9 +1790,9 @@ See [Fin Fang Foom](#wiki_fin_fang_foom).
 # Leviathon Twin Drake
 *Set: Crossover Vol. 1*
 
-Q: First line says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work " Comet fall add -1/-1 counters to enemy chars.  Does adding an additional comet fall make it 2x -1/-1 counters?
+Q: First line says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work? " 
 
-A: Correct. All characters with Comet
+A: All characters with **Comet Fall** gain an additional instance of **Comet Fall**. So when one such character appears, it now puts two -1/-1 counters on each opposing character.
 
 # [Life on the Hellmouth](http://vs.tcgbrowser.com/images/cards/big/TBB-057.jpg) 
 *Set: The Buffy Battles*  
@@ -4100,7 +4100,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzMTUwNDUsMTE4NzAzNjMxNCwtMT
+eyJoaXN0b3J5IjpbLTE1OTQ1NTMxMzUsMTE4NzAzNjMxNCwtMT
 UwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0
 MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMT
 cxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0
