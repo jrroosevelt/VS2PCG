@@ -2067,7 +2067,9 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 # Match
 *Set: The Utopia Battles*
 
-Q: 
+Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
+
+A: When he strokes a 
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
 *Set: Webheads*  
@@ -4108,11 +4110,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzOD
-EwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1NDEw
-NDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyOD
-c1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0
-NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC
-0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5
-MzkyNjRdfQ==
+eyJoaXN0b3J5IjpbMTA4MzY1MTQ1OSwxNzU2NDYxOTY4LDE0OD
+E0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3
+MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNz
+YwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4
+NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLT
+E1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5
+NjQyMjYyXX0=
 -->
