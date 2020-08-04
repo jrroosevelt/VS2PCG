@@ -224,7 +224,7 @@ Q: Match's ability says, "If Match would strike a defender, put -1/-1 counters e
 
 A: Correct.
 
-^Source: ^Discord ^Post
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/732730395120107581)
   
 
 # Eternal  
@@ -748,7 +748,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODM3MTQ5MiwyMjAzMDEyNjcsLTE0OD
+eyJoaXN0b3J5IjpbMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0OD
 UxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3
 XX0=
 -->
