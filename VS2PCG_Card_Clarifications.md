@@ -2073,9 +2073,14 @@ A: When he strikes a Defender, his strike *is* the -1/-1 counters. If the negati
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/709929676856098886) 
 
+
 ---
 
-Q: 
+Q: Match's ability says, "If Match would strike a defender, put -1/-1 counters equal to his ATK on that defender instead." Does that mean this ability only applies when Match is attacking? (Not when he is striking back as a defender.)
+
+A: Correct.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/732730395120107581)
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
 *Set: Webheads*  
@@ -4116,11 +4121,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2Njk5Nzk2LDE3NTY0NjE5NjgsMTQ4MT
-QwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcw
-ODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03Nj
-AxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2
-MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMT
-U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
-NDIyNjJdfQ==
+eyJoaXN0b3J5IjpbLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0OD
+E0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3
+MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNz
+YwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4
+NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLT
+E1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5
+NjQyMjYyXX0=
 -->
