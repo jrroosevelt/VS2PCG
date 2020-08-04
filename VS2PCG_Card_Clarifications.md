@@ -2069,7 +2069,7 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
 
-A: When he strokes a 
+A: When he strikes a Defender, his strike *is* the -1/-1 counters. If the negative counters take the Defender to 0 DEF, the defender is stunned. Otherwise, the counters are applied and the combat resolves as normal (including stri
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
 *Set: Webheads*  
@@ -4110,11 +4110,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzY1MTQ1OSwxNzU2NDYxOTY4LDE0OD
-E0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3
-MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNz
-YwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4
-NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLT
-E1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5
-NjQyMjYyXX0=
+eyJoaXN0b3J5IjpbODkzMTEzOTQ3LDE3NTY0NjE5NjgsMTQ4MT
+QwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcw
+ODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03Nj
+AxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2
+MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMT
+U1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2
+NDIyNjJdfQ==
 -->
