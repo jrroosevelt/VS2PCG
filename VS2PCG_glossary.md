@@ -212,8 +212,9 @@ Here is the list of the most common recurring keywords, powers or terms that are
 
 Q: When a character is a different team affiliation than an equipment that is attached to them. Can you use the character’s ‘wild’ location to pay the equipment's power ? Or does it have to be the equipment affiliated ‘wild’ location?
 
-For example, if uch as Misty Knight using a net launcher-
-Can she use the Sanctum Sanctotum?
+For example, if Misty Knight (Defenders) is using a Net Launcher can she use the Sanctum Santorum (Defenders wild location) to pay for it?
+
+A: It would be the wild location for the character, not the equipment. So Misty could use Sanctum
   
 
 # Eternal  
@@ -737,7 +738,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI3NjIxMzUsMjIwMzAxMjY3LC0xND
+eyJoaXN0b3J5IjpbLTEzOTUwMzU0MzMsMjIwMzAxMjY3LC0xND
 g1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5
 N119
 -->
