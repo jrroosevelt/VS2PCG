@@ -1371,7 +1371,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 *Set: Cosmic Avengers*  
 
-Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
+Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat Plot Twists he doesn't have to be in the combat himself (he can shoot really far). 
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
 
@@ -1384,6 +1384,10 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 
 
 ^(Source: Rule insert)
+
+---
+
+Q: Do cards from teh *
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -2200,7 +2204,9 @@ The Mimic Main Character is found in the Vs. System 2PCG: H.A.M.M.E.R. expansion
 
 Q: When using whichever lvl character from the **Absorption History** pile, which team affiliation does one use: Mimic's (H.A.M.M.E.R.) or the absorption power character's team?  
 
-A: Mimic gains their powers, not team affiliations. Mimic is H.A.M.M.E.R. - it oesn't matter what his absorb guy is for any reason. That card isn't even technically in play.
+A: Mimic gains their powers, not team affiliations. Mimic is H.A.M.M.E.R. - it doesn't matter what his absorb guy is for any reason. That card isn't even technically in play.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/621777031813660676)
 
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 *Set: New Mutants*   
@@ -4083,11 +4089,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNzc3NTMsLTE1MDExNzcwODMsMTkxNT
-QxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIs
-Mjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NT
-Y2NDc1LDExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0
-MywtMTIyMzM0MTkzMCwxNTQxODkzNDM1LDEyMjk2NDIyNjIsNz
-M4OTM5MjY0LDE4NDM0NzY1NjIsMTQ0MTU1Mjk1MCwtMzMyOTI4
-ODE2XX0=
+eyJoaXN0b3J5IjpbMTI1ODM0MjExOSwtMTUwMTE3NzA4MywxOT
+E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
+MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
+g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
+NzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0MzUsMTIyOTY0MjI2Mi
+w3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQxNTUyOTUwLC0zMzI5
+Mjg4MTZdfQ==
 -->
