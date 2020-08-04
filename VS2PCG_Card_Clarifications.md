@@ -2196,6 +2196,11 @@ The Mimic Main Character is found in the Vs. System 2PCG: H.A.M.M.E.R. expansion
 
 ^(Source: [UDE Official Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
 
+---
+
+Q: When using whichever lvl character from the absorption pile, which team affiliation does one use: mimic's hammer OR the absorption power character?  
+I'm pretty sure Im using everything on the absorption character, except health and level up condition but want to make sure ...
+
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 *Set: New Mutants*   
 
@@ -4077,7 +4082,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDAyMTI3NSwtMTUwMTE3NzA4MywxOT
+eyJoaXN0b3J5IjpbLTUzMDc3NjA4MiwtMTUwMTE3NzA4MywxOT
 E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
 MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
 g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
