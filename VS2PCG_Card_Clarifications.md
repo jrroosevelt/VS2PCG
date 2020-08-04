@@ -1900,6 +1900,9 @@ A: Yes, characters keep their affiliations even when they are stunned.
 
 ^(Source: Tim Saunders, FB Post - Chad Daniel)
 
+# Lt. Ripley
+*Set: The Alie
+
 # [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 
 Q: When I use his **Impervious Skin** power, what happens if he gets stunned?
@@ -4102,11 +4105,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNT
-AxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQw
-NiwtNzYwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNz
-E0ODE4NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1
-OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNS
-wxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1
-NTI5NTBdfQ==
+eyJoaXN0b3J5IjpbMTQwNzcwNTE5LDEzODEwODc2MzEsMTE4Nz
+AzNjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4
+NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MD
+M5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMw
+MCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLD
+E1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3
+NjU2Ml19
 -->
