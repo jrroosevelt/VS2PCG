@@ -2069,7 +2069,7 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
 
-A: When he strikes a Defender, his strike *is* the -1/-1 counters. If the negative counters take the Defender to 0 DEF, the defender is stunned. Otherwise, the counters are applied and the combat resolves as normal (including strike-back with the Defender's ATK value modified by the counters).
+A: When he strikes a Defender, his strike *is* the -1/-1 counters. These aren't applied, however, until the combat is resolved. So, let's say that his opponent is 
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/709929676856098886) 
 
@@ -4121,11 +4121,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0OD
-E0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3
-MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNz
-YwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4
-NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLT
-E1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNSwxMjI5
-NjQyMjYyXX0=
+eyJoaXN0b3J5IjpbLTYyMTgyNjMwNiwtMzA0NzI3OTEwLDE3NT
+Y0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYz
+MTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMT
+Q0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIx
+NjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMT
+E0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQx
+ODkzNDM1XX0=
 -->
