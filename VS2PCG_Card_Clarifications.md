@@ -1901,7 +1901,8 @@ A: Yes, characters keep their affiliations even when they are stunned.
 ^(Source: Tim Saunders, FB Post - Chad Daniel)
 
 # Lt. Ripley
-*Set: The Alie
+*Set: The Alien Battle*
+
 
 # [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 
@@ -4105,11 +4106,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzcwNTE5LDEzODEwODc2MzEsMTE4Nz
-AzNjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4
-NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MD
-M5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMw
-MCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLD
-E1NDE4OTM0MzUsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3
-NjU2Ml19
+eyJoaXN0b3J5IjpbMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExOD
+cwMzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4
+ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04OD
+AzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIz
+MDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMC
+wxNTQxODkzNDM1LDEyMjk2NDIyNjIsNzM4OTM5MjY0LDE4NDM0
+NzY1NjJdfQ==
 -->
