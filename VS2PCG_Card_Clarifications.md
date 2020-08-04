@@ -1790,9 +1790,11 @@ See [Fin Fang Foom](#wiki_fin_fang_foom).
 # Leviathon Twin Drake
 *Set: Crossover Vol. 1*
 
-Q: First line says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work? " 
+Q: The first line of **Leviathon Overseer** says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work? 
 
 A: All characters with **Comet Fall** gain an additional instance of **Comet Fall**. So when one such character appears, it now puts two -1/-1 counters on each opposing character.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/625832553487663127)
 
 # [Life on the Hellmouth](http://vs.tcgbrowser.com/images/cards/big/TBB-057.jpg) 
 *Set: The Buffy Battles*  
@@ -4100,11 +4102,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ1NTMxMzUsMTE4NzAzNjMxNCwtMT
-UwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0
-MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMT
-cxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0
-NTkwLC0xNTUzNDIyNzQzLC0xMjIzMzQxOTMwLDE1NDE4OTM0Mz
-UsMTIyOTY0MjI2Miw3Mzg5MzkyNjQsMTg0MzQ3NjU2MiwxNDQx
-NTUyOTUwXX0=
+eyJoaXN0b3J5IjpbMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNT
+AxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQw
+NiwtNzYwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNz
+E0ODE4NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1
+OTAsLTE1NTM0MjI3NDMsLTEyMjMzNDE5MzAsMTU0MTg5MzQzNS
+wxMjI5NjQyMjYyLDczODkzOTI2NCwxODQzNDc2NTYyLDE0NDE1
+NTI5NTBdfQ==
 -->
