@@ -105,6 +105,14 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 
 ^(Source: Rule insert)
 
+# Annihilus
+*Set: The Frightful*
+
+**Lord of the Negative Zone** allows you to include up to two Negative Zone Locations in your deck. (If Mister Fantastic is in your deck your Invention pile will also include its usual two Negative Zones.)
+
+
+
+
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
 *Set: The Buffy Battles*
 
@@ -4121,11 +4129,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NT
-Y0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYz
-MTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMT
-Q0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIx
-NjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMT
-E0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIyMzM0MTkzMCwxNTQx
-ODkzNDM1XX0=
+eyJoaXN0b3J5IjpbNTY4MjAzNDU0LDE3MTU5NzI4NTIsLTMwND
+cyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYz
+MSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOT
+c4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2NDQyLDI4NzUzMDkx
+MywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2NjQ3NSwxMT
+E0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMz
+NDE5MzBdfQ==
 -->
