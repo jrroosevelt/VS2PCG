@@ -1190,7 +1190,7 @@ This Plot Twist can allow you to add an attacker to your attack. The attacker mu
 
 ^(Source: Rule Insert)
 
-# Galactus (SC)
+# [Galactus](http://vs.tcgbrowser.com/images/cards/big/FRI-018.jpg) (SC)
 *Set: The Frightful*
 
 **The Monster of All Worlds** removes locations from everywhere. To resolve it, each player reveals their hand, deck, resources (including face-down ones), KO pile, and any out-of-game piles. All locations with that name are removed from the game. Then each player shuffles their deck.
@@ -4184,11 +4184,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMT
-k4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5
-NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLT
-E1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEz
-NDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLT
-E3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Njcw
-NDU5MF19
+eyJoaXN0b3J5IjpbLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMT
+AwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3
+OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLD
+ExODcwMzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5Nzgx
+NTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC
+04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQx
+NTIzMDBdfQ==
 -->
