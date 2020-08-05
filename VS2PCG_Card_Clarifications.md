@@ -1724,7 +1724,9 @@ If any number of Kangs are in your deck, **The Tomorrow War** lets you pick a si
 
 So if you pick 7 as your **Future Date**, Kang can only appear while you have exactly seven resources. (On the bright side, he's free.) Note: If you forget to pick a **Future Date** at the beginning of the game, the game acts as though you chose 10 as the Date. 
 
-**Time Will Tell** sets Kang' 
+**Time Will Tell** sets Kang's base ATK/DEF to be equal to the **Future Date** you selected. It doesn't matter how many resources you currently have. **Time Will Tell** "locks in" when you select the **Future Date** before the game starts.
+
+^(Source: Rules Insert)
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
@@ -4157,7 +4159,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDA3NDAwMCwtMjE5ODQxMjY1LDE3MT
+eyJoaXN0b3J5IjpbMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MT
 U5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAx
 MzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLD
 E5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2
