@@ -1710,10 +1710,13 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ^(Source: Rule insert)
 
 # Kang
-## Kang (MC)
+## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-006.jpg) (MC)
 *Set: The Frightful*
 
-**Immeasurable Identities** makes all Kang Supporting Characters you own into Main Charac
+**Immeasurable Identities** makes all Kang Supporting Characters you own into Main Characters. This effect lasts the whole game, even if your starting Kang Main Character gets KO'd. And remember - as long as you have any Main Characters on your side, you don't lose the game.
+
+## Kang (SC)
+*Set: The Frightful*
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
@@ -4146,11 +4149,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwODg3ODQsLTIxOTg0MTI2NSwxNzE1OT
-cyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMz
-LDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOT
-E1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0
-MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mz
-g1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIy
-NzQzXX0=
+eyJoaXN0b3J5IjpbMTE4MzUyODM4OSwtMjE5ODQxMjY1LDE3MT
+U5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAx
+MzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLD
+E5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2
+NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLD
+czODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0
+MjI3NDNdfQ==
 -->
