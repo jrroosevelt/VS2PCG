@@ -1718,7 +1718,9 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-009.jpg) (SC)
 *Set: The Frightful*
 
-If any number of Kangs are in your deck, **The Tomorrow War** lets you pick a single **Future Date** b
+If any number of Kangs are in your deck, **The Tomorrow War** lets you pick a single **Future Date** before players draw their opening hands during setup. A **Future Date** is represented by a whole number from 1-10. It counts as being that "Date" while you have exactly that many resources.
+
+So if you pick 7 as your Future Date, Kang can only appear while you have exactly seven resources. (On the bright side, he's free.)
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
@@ -4151,11 +4153,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTUzNjQ2MywtMjE5ODQxMjY1LDE3MT
-U5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAx
-MzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLD
-E5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2
-NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLD
-czODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0
-MjI3NDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDI3OTc1MzEsLTIxOTg0MTI2NSwxNz
+E1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAw
+MTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4My
+wxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4
+NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMC
+w3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUz
+NDIyNzQzXX0=
 -->
