@@ -1188,6 +1188,15 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 
 This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores (Flight), (Range), and team restrictions for an attack.
 
+^(Source: Rule Insert)
+
+# Galactus (SC)
+*Set: The Frightful*
+
+**The Monster of All Worlds** removes locations from everywhere. To resolve it, each player reveals their hand, deck, resources (including face-down ones), KO pile, and any out-of-game piles. All locations with that name are removed from the game. Then each player shuffles their deck.
+
+^(Source: Rule Insert)
+
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
 *Set: Resistance*  
@@ -4175,11 +4184,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2ODAzMDE1LDIxMDAzMjQxOTUsLTIxOT
-g0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2
-OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMT
-UwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0
-MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMT
-cxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0
-NTkwXX0=
+eyJoaXN0b3J5IjpbMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMT
+k4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5
+NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLT
+E1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEz
+NDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLT
+E3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Njcw
+NDU5MF19
 -->
