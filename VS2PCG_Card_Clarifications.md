@@ -110,7 +110,9 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 
 **Lord of the Negative Zone** allows you to include up to two Negative Zone Locations in your deck. (If Mister Fantastic is in your deck your Invention pile will also include its usual two Negative Zones.)
 
+**The Living Death That Walks** grants 1 XP for each of the listed actions. So if Annihilus attacks, strikes, and stuns a defending character, but somehow doesn't wound or KO it, he will gain 3 XP.
 
+When Annihilus levels up, you'll shuffle his Level 1 card into your deck. While it's in your hand you may reveal it for hi
 
 
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
@@ -4129,11 +4131,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4MjAzNDU0LDE3MTU5NzI4NTIsLTMwND
-cyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYz
-MSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOT
-c4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2NDQyLDI4NzUzMDkx
-MywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2NjQ3NSwxMT
-E0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMz
-NDE5MzBdfQ==
+eyJoaXN0b3J5IjpbMTc4NDM0NTUwMiwxNzE1OTcyODUyLC0zMD
+Q3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2
+MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LD
+k3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5
+MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMT
+ExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIz
+MzQxOTMwXX0=
 -->
