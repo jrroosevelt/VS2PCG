@@ -3787,10 +3787,12 @@ An infinite loop was discovered when [Taskmaster](https://i.imgur.com/85KjJHT.jp
 
 ^(Source: Official clarification)
 
-# Terrax
+# [Terrax](http://vs.tcgbrowser.com/images/cards/big/FRI-016.jpg)
 *Set: The Frightful*
 
 If **Cosmic Geokinesis** moves all +1/+1 counters onto a  character that has any -1/-1 counters, first doulbe the +1/+1 counters, then remove the required amount due to the -1/-1 counters.
+
+^(Source: Rule insert)
 
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
 *Set: Crossover vol. 2*  
@@ -4173,11 +4175,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ5ODQ3OTIsMjEwMDMyNDE5NSwtMj
-E5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYx
-OTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC
-0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMx
-MzQwNiwtNzYwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC
-0xNzE0ODE4NjEwLDczODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3
-MDQ1OTBdfQ==
+eyJoaXN0b3J5IjpbNjU2ODAzMDE1LDIxMDAzMjQxOTUsLTIxOT
+g0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2
+OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMT
+UwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0
+MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMT
+cxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0
+NTkwXX0=
 -->
