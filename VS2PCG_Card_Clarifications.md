@@ -76,12 +76,8 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
-# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
-*Set: The Utopia Battles*  
 
-**Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
 
-^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
 *Set: Resistance*  
@@ -105,7 +101,7 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 
 ^(Source: Rule insert)
 
-# Annihilus
+# [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
 *Set: The Frightful*
 
 **Lord of the Negative Zone** allows you to include up to two Negative Zone Locations in your deck. (If Mister Fantastic is in your deck your Invention pile will also include its usual two Negative Zones.)
@@ -142,6 +138,12 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw or Legacy), you do not have to pay the additional cost of wounding Silver Surfer.  
 ^Source: [^FB Community Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
 
+# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
+*Set: The Utopia Battles*  
+
+**Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
+
+^(Source: Rule insert)
 
 # [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
 *Set: Crossover* 
@@ -1083,6 +1085,9 @@ Falconer starts the game with a Falcon Drone from your deck on his side. The Fal
 His Level Up Power, **We’re the Game**, triggers whenever an enemy player reveals one or more cards. Some effects that would grant 1 XP this way are when a player reveals their hand, when a player reveals one or more cards from the top of their deck, or when a player reveals the cards they draw (due to a Falcon Drone).
 
 ^(Source: Rule insert)
+
+# Fallen One
+*Set: The Frightful**
 
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
 *Set: The Herald*  
@@ -4133,11 +4138,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2Nzk3NjkwLDE3MTU5NzI4NTIsLTMwND
-cyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYz
-MSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOT
-c4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2NDQyLDI4NzUzMDkx
-MywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2NjQ3NSwxMT
-E0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0MjI3NDMsLTEyMjMz
-NDE5MzBdfQ==
+eyJoaXN0b3J5IjpbLTMzNjE5Mjg2MywxNzE1OTcyODUyLC0zMD
+Q3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2
+MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LD
+k3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5
+MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMT
+ExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIz
+MzQxOTMwXX0=
 -->
