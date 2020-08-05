@@ -1089,7 +1089,7 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 # [Fallen One](http://vs.tcgbrowser.com/images/cards/big/FRI-011.jpg)
 *Set: The Frightful*
 
-When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. 
+When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. However, if Fallen One's strike already had enough ATK to stun them, **Fallen Herald** won't do anything. (In other words, **Fallen Herald** won't cause Galactus or Thanos to become stunned twice in one combat.)
 
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
 *Set: The Herald*  
@@ -4140,11 +4140,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIyMjUzNzksMTcxNTk3Mjg1MiwtMz
-A0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3
-NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Ny
-w5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMw
-OTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LD
-ExMTQxNTIzMDAsMTE0NjcwNDU5MCwtMTU1MzQyMjc0MywtMTIy
-MzM0MTkzMF19
+eyJoaXN0b3J5IjpbLTIxOTg0MTI2NSwxNzE1OTcyODUyLC0zMD
+Q3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2
+MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LD
+k3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5
+MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1NjY0NzUsMT
+ExNDE1MjMwMCwxMTQ2NzA0NTkwLC0xNTUzNDIyNzQzLC0xMjIz
+MzQxOTMwXX0=
 -->
