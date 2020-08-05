@@ -1715,8 +1715,10 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 **Immeasurable Identities** makes all Kang Supporting Characters you own into Main Characters. This effect lasts the whole game, even if your starting Kang Main Character gets KO'd. And remember - as long as you have any Main Characters on your side, you don't lose the game.
 
-## Kang (SC)
+## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-009.jpg) (SC)
 *Set: The Frightful*
+
+If any number of Kangs are in your deck, **The Tomorrow War** lets you pick a single **Future Date** b
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
@@ -4149,7 +4151,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzUyODM4OSwtMjE5ODQxMjY1LDE3MT
+eyJoaXN0b3J5IjpbMTg0OTUzNjQ2MywtMjE5ODQxMjY1LDE3MT
 U5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAx
 MzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLD
 E5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2
