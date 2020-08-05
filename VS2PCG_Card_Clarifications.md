@@ -2030,6 +2030,15 @@ In this set Magneto gets a whole new main character card, and this time  it goes
 
 ^(Source: Rule insert)
 
+# The Maker
+*Set: The Frightful*
+
+If the Maker is in your deck, you get to have the usual Invention pile, plus you can add up to five Equipment to it. They must be different cards (same name but different game text is fine) and can’t already have the Keyword  **Invention**. (You can also include copies of those Equipment in your deck if you like, and the copies in your Invention pile don’t count against them. For example, you can have a  **One of a Kind** Equipment in your deck and the same one in your Invention pile.)
+
+**Note**: While the Maker (and only the Maker) can Invent those Equipment, you can still only play them if you meet their play requirements. For example, if the Maker invents a (Hydra) Cosmic Cube, you get to put it into your hand. But you still can’t play it unless you have a character with the Hydra team affiliation on your side.
+
+^(Source: Rule insert)
+
 # Mandarin
 ## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
 *Set: The MCU Battles*  
@@ -4159,11 +4168,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MT
-U5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAx
-MzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLD
-E5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2
-NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLD
-czODU2NjQ3NSwxMTE0MTUyMzAwLDExNDY3MDQ1OTAsLTE1NTM0
-MjI3NDNdfQ==
+eyJoaXN0b3J5IjpbNDEzNzI4MzU3LDIxMDAzMjQxOTUsLTIxOT
+g0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2
+OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMT
+UwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0
+MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMT
+cxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0
+NTkwXX0=
 -->
