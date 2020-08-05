@@ -2030,7 +2030,7 @@ In this set Magneto gets a whole new main character card, and this time  it goes
 
 ^(Source: Rule insert)
 
-# The Maker
+# [The Maker](http://vs.tcgbrowser.com/images/cards/big/FRI-015.jpg)
 *Set: The Frightful*
 
 If the Maker is in your deck, you get to have the usual Invention pile, plus you can add up to five Equipment to it. They must be different cards (same name but different game text is fine) and can’t already have the Keyword  **Invention**. (You can also include copies of those Equipment in your deck if you like, and the copies in your Invention pile don’t count against them. For example, you can have a  **One of a Kind** Equipment in your deck and the same one in your Invention pile.)
@@ -4168,11 +4168,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNzI4MzU3LDIxMDAzMjQxOTUsLTIxOT
-g0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2
-OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMT
-UwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0
-MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMT
-cxNDgxODYxMCw3Mzg1NjY0NzUsMTExNDE1MjMwMCwxMTQ2NzA0
-NTkwXX0=
+eyJoaXN0b3J5IjpbMTAyNTcxMjE0MCwyMTAwMzI0MTk1LC0yMT
+k4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5
+NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLT
+E1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEz
+NDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAzOTIxNjgsLT
+E3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQxNTIzMDAsMTE0Njcw
+NDU5MF19
 -->
