@@ -107,30 +107,24 @@ Stun the character, but it doesn't get a wound.
 [See the specific-card clarification page](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29) for details on this keyword that only exists on Dark Phoenix Supporting Character that reads: *"When you recruit Dark Phoenix, you may remove one of the following concepts from the game:"*  
   
 # Dimensional Wristwatch  
- You may recruit this character from your deck. (Search your deck for them, shuffle, then recruit them.)  
+You may recruit this character from your deck. (Search your deck for them, shuffle, then recruit them.)  
   
 In tournament play, you're only allowed to search for and fail to find a character with this keyword once.  After that you're just shuffling your deck for free and it is frowned upon.  
   
 
 # Dodge  
-  
-
-* This character cannot be Range attacked  
+This character cannot be Range attacked  
   
 
 # Duplicate  
-  
-
-* A Duplicate has all the same printed characteristics as your Main Character – name, team, current Level, and powers with an ATK/DEF of 0/1 and 1 Health – plus it has Swarm and it can’t gain XP, can’t Level up or Level Down, transform, or otherwise become a different card. When it’s KO’d it will go back to being the Parallel Dimension Plot Twist in your KO pile.  
+A Duplicate has all the same printed characteristics as your Main Character – name, team, current Level, and powers with an ATK/DEF of 0/1 and 1 Health – plus it has Swarm and it can’t gain XP, can’t Level up or Level Down, transform, or otherwise become a different card. When it’s KO’d it will go back to being the Parallel Dimension Plot Twist in your KO pile.  
   
 
 # Durable  
-  
-
-* If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
+If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
 
 # Equipment
-* Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
+Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
 
 --- 
 
@@ -664,7 +658,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NjMxNTM1LDQ2MzAzNjY2OCw3MDc4Nz
-A5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0Miwx
-ODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbMTM3MzcyNTc4Nyw0NjMwMzY2NjgsNzA3OD
+cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
+MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
