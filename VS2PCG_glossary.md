@@ -138,35 +138,27 @@ A: It would be the wild location for the character, not the equipment. So Misty 
   
 
 # Eternal  
-  
-
-* If this character would leave play, you may put them into their owner's hand instead.  
+If this character would leave play, you may put them into their owner's hand instead.  
   
 
 # Errata  
-  
+Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles lose and can't gain powers. *(Including Flight and Range)*  
 
-* Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles lose and can't gain powers. *(Including Flight and Range)*  
+This ability is currently available on the [Deadpool MC from the Deadpool & Friends set](/r/VS2PCG/wiki/rules-insert#wiki_deadpool_.28mc_-_underworld.29).
 
 # Evil 
-* Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
+Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
 
 # Fearless  
-  
-
-* While attacking a main character, this character strikes with double its ATK.  
+ While attacking a main character, this character strikes with double its ATK.  
   
 
 # Ferocious  
-  
-
-* While in melee combat, this character strikes before characters without Ferocious.  
+While in melee combat, this character strikes before characters without Ferocious.  
   
 
 # Flight  
-  
-
-* This character can attack protected characters in the back row unless there is a face-up character with Flight in the enemy front row.  
+This character can attack protected characters in the back row unless there is a face-up character with Flight in the enemy front row.  
   
 
 # Freeze  
@@ -658,7 +650,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzcyNTc4Nyw0NjMwMzY2NjgsNzA3OD
+eyJoaXN0b3J5IjpbMTY0NTkyNjI0MCw0NjMwMzY2NjgsNzA3OD
 cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
 MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
