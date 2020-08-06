@@ -375,29 +375,21 @@ This ability is currently available on the [Deadpool MC from the Deadpool & Frie
   
 
 # Noble  
-  
-
-* While defending, this character strikes with double its ATK.  
+While defending, this character strikes with double its ATK.  
   
 
 # One of a Kind  
-  
-
-* You may only include one copy of this card in your deck.  
+You may only include one copy of this card in your deck.  
   
 
 # Passive  
-
-* This character cannot attack and cannot strike back.  
+This character cannot attack and cannot strike back.  
   
 
-#  [Pocket Universe](https://www.upperdeckblog.com/2020/04/vs-system-2pcg-the-fantastic-battles-card-preview-pick-a-pocket/)  
+#  Pocket Universe
+Summary: Move each other character (everyone but Franklin) to a Pocket Universe. This creates a new front and back row for each player that cannot interact with cards in another "universe."  After each of your turns, take a turn controlling cards in each Pocket Universe you have created.  The Pocket Universe turns skip the Draw and Build phases.  
   
-
-* Summary: Move each other character (everyone but Franklin) to a Pocket Universe.   
- This creates a new front and back row for each player that cannot interact with cards in another "universe."  After each of your turns, take a turn controlling cards in each Pocket Universe you have created.  The Pocket Universe turns skip the Draw and Build phases.  
-  
-* Read the [article](https://www.upperdeckblog.com/2020/04/vs-system-2pcg-the-fantastic-battles-card-preview-pick-a-pocket/) for full details on a Pocket Universe  
+See the Franklin Richards section of the card-specific clarifications page.
   
 
 # Pounce  
@@ -596,7 +588,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2Mzk3ODk1LDQ2MzAzNjY2OCw3MDc4Nz
-A5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0Miwx
-ODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbLTEyODQwNTY3NDIsNDYzMDM2NjY4LDcwNz
+g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
+LDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
