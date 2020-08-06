@@ -209,8 +209,8 @@ Hidden characters can't be attacked without special effects allowing attacks on 
 Each Hologram has an associated power symbol. If an enemy character with that type of Super Power appears, it automatically stuns the Hologram.  
   
 
-#  [Hostage](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-spidey-foes-card-preview-playing-pretend/)  
-Currently only exists on the Sinister Syndicate Special Location "Secret Hideout".  See the [reveal article](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-spidey-foes-card-preview-playing-pretend/) or the rules insert of the Spidey-Foes set for a full breakdown.  
+#  Hostage
+For a full breakdown, see the [Sinister Syndicate Special Location Secret Hideout](/r/VS2PCG/wiki/rules-insert#wiki_secret_hideout) section of the card-clarification. 
   
 
 # Hunter  
@@ -633,7 +633,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc1NjIyMzEsNDYzMDM2NjY4LDcwNz
-g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
-LDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbMTIyNzQ3ODI4NCw0NjMwMzY2NjgsNzA3OD
+cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
+MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
