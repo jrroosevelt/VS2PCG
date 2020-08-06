@@ -103,23 +103,10 @@ This character cannot be equipped.
 Stun the character, but it doesn't get a wound.  
   
 
-#  Deconstruct the Universe](https://www.upperdeckblog.com/2018/11/vs-system-2pcg-crossover-insert-flowery-phoenix-imagery-here-probably-use-the-word-ashes/)  
+#  Deconstruct the Universe
+See the specific-card clarification page for details on this keyword that only exists on Dark Phoenix Supporting Character that reads: *"When you recruit Dark Phoenix, you may remove one of the following concepts from the game:"*  
   
 
-* Elaboration on this keyword that only exists on Dark Phoenix Supporting Character that reads: *"When you recruit Dark Phoenix, you may remove one of the following concepts from the game:"*  
-  
-* **+1/+1 and -1/-1 counters**: Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way.  
-  
-* **Equipment**: Remove all equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and equipment that are already removed from the game. This also includes any cards that were once equipment cards but don’t currently count as equipment.  (such as a face-down resource or an equipment that has become a character via Arnim Zola’s  ESP Box). Remove the term “equipment” from all card text. For the rest of the game, ignore any effects that would cause equipment to enter the game in any way.  
-  
-* **Keyword text**: Removing this concept doesn’t affect [FLIGHT] and [RANGE]. Remove all keyword text from the game, including powers that “can’t be turned off”. Remove the term “keyword” from all card text. For the rest of the game, ignore any effects that would cause keyword text to enter the game in any way.  
-  
-* **Levels**: All main characters everywhere become Level 1 if possible. Remove all remaining Level 2 and higher main characters from the game. Remove all Level Up powers and XP from the game, and the terms “Level” and “XP” from all card text. Ignore any effects that would cause XP or a Level 2 or higher main character to enter the game in any way.  
-  
-* **Plot Twists**: Remove all plot twist cards everywhere from the game. This includes all decks, hands, KO piles, and plot twists that are already removed from the game. This also includes any cards that were once plot twist cards but are not currently plot twists (such as a face-down resource). Remove the term “plot twist” from all card text. For the rest of the game, ignore any effects that would cause a plot twist to enter the game in any way.  
-  
-* **Super Powers**: Remove all super powers from the game. Remove the term “super power” from all card text. For the rest of the game, ignore any effects that would cause super powers to enter the game in any way.  
-  
 
 # Dimensional Wristwatch  
   
@@ -681,7 +668,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDQ3MjM5Myw0NjMwMzY2NjgsNzA3OD
+eyJoaXN0b3J5IjpbLTI1ODYzMTY5Miw0NjMwMzY2NjgsNzA3OD
 cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
 MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
