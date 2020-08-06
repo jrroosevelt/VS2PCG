@@ -210,43 +210,31 @@ Each Hologram has an associated power symbol. If an enemy character with that ty
   
 
 #  Hostage
-For a full breakdown, see the [Sinister Syndicate Special Location Secret Hideout](/r/VS2PCG/wiki/rules-insert#wiki_secret_hideout) section of the card-clarification. 
+For a full breakdown, see the [Sinister Syndicate Special Location Secret Hideout](/r/VS2PCG/wiki/rules-insert#wiki_secret_hideout) section of the card-clarification page. 
   
 
 # Hunter  
-  
-
-* This character gets +3 ATK while attacking.  
+This character gets +3 ATK while attacking.  
   
 
 # Immobile  
-  
-
-* This character can't move during the formation step.  
+ This character can't move during the formation step.  
   
 
 # Infinity  
-  
-
-* If a card with Infinity would get put into a KO pile from anywhere, you may shuffle it into its owner's deck instead. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
+If a card with Infinity would get put into a KO pile from anywhere, you may shuffle it into its owner's deck instead. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
   
 
 # Inspire  
-  
-
-* When another character appears on your side, put a +1/+1 counter on it.  
+When another character appears on your side, put a +1/+1 counter on it.  
   
 
 # Invade  
-  
-
-* While this character is attacking a back row character, it can't strike back at him.  
+While this character is attacking a back row character, it can't strike back at him.  
   
 
 #  [Invention](https://www.upperdeckblog.com/2020/04/vs-system-2pcg-the-fantastic-battles-card-preview-fantastic-stories/)  
-  
-
-* If you have any characters that can create an Invention (inventors) in your deck, you get a single Invention pile (even if you have multiple different inventors in your deck).  
+If you have any characters that can create an Invention (inventors) in your deck, you get a single Invention pile (even if you have multiple different inventors in your deck).  
   
 * Invention piles are secret (only you know their contents).  
   
@@ -258,9 +246,7 @@ For a full breakdown, see the [Sinister Syndicate Special Location Secret Hideou
   
 
 # Invisibility  
-  
-
-* At the end of your turn, if this character is ready, you may [hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) her.  
+At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
   
 # Keyword
 Keywords are powers that often show up on more than one character. When a character has a keyword power, just follow the instructions in its text. (Some common or older keywords might not have their text displayed. In that case, you can look up their definition in this Rulebook.)
@@ -276,39 +262,27 @@ A: In this case, **Flight** and **Range** are just two specific exceptions of Ke
 ^(Source: Chad Daniel)
 
 # Invisible  
-  
-
-* This character doesn’t protect characters and can attack protected characters.  
+This character doesn’t protect characters and can attack protected characters.  
   
 
 # Leader  
-  
-
-* While this character is team attacking, you choose who the defender strikes back against.  
+ While this character is team attacking, you choose who the defender strikes back against.  
   
 
 # Leap  
-  
-
-* This character has Flight on your turn.  
+This character has Flight on your turn.  
   
 
 # Legion  
-  
-
-* You may include up to eight copies of this card in your deck.  
+You may include up to eight copies of this card in your deck.  
   
 
 # Lethal  
-  
-
-* If this character wounds a defending supporting character, KO it. *(Lethal's text received errata to trigger on wound and not stun as is written on some older cards.)*  
+If this character wounds a defending supporting character, KO it. *(Lethal's text received errata to trigger on wound and not stun as is written on some older cards.)*  
   
 
 # Loyalty  
-  
-
-* Put this in your deck only if each card with a team affiliation and each character in your deck share a team affiliation. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
+Put this in your deck only if each card with a team affiliation and each character in your deck share a team affiliation. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
 
 ---
 
@@ -329,15 +303,11 @@ Some examples of what this change will allow:
   
 
 # Lumbering  
-  
-
-* As this character attacks, the defending player chooses who the defender is. (It must be a character that it could attack.)  
+As this character attacks, the defending player chooses who the defender is. (It must be a character that it could attack.)  
   
 
 # Machine  
-  
-
-* Some equipment cards are labeled "Equipment - Machine" beneath their card names.  
+Some equipment cards are labeled "Equipment - Machine" beneath their card names.  
   
 * If a Machine has a team affiliation, you still need to have a face-up character with that team affiliation symbol on your side (including your Main Character) to play it.  
   
@@ -633,7 +603,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzQ3ODI4NCw0NjMwMzY2NjgsNzA3OD
-cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
-MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbNTM3MTc4LDQ2MzAzNjY2OCw3MDc4NzA5MS
+wxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAw
+ODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
