@@ -325,16 +325,14 @@ Some equipment cards are labeled "Equipment - Machine" beneath their card names.
   
 
 # Mantle  
+A card "shares a mantle" with another card when there are two or more cards in the game with that name, but one of them has one or more stars in the name line.  
   
-
-* A card "shares a mantle" with another card when there are two or more cards in the game with that name, but one of them has one or more stars in the name line.  
+Cards sharing a mantle are considered to have different names, and if an effect refers to one of them, it will not apply to the other.  
   
-* Cards sharing a mantle are considered to have different names, and if an effect refers to one of them, it will not apply to the other.  
-  
-* For Example: [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-015.jpg) and [\*Captain America\*](http://vs.tcgbrowser.com/images/cards/big/SVH-043.jpg) share a mantle.  Both can be on the field at the same time but cannot power each other up because their names are different.  Also because their names are considered to be different, [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg) cannot team attack with \*Captain America\* because his text only refers to Captain America (without the stars).  
+For Example: [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-015.jpg) and [\*Captain America\*](http://vs.tcgbrowser.com/images/cards/big/SVH-043.jpg) share a mantle.  Both can be on the field at the same time but cannot power each other up because their names are different.  Also because their names are considered to be different, [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg) cannot team attack with \*Captain America\* because his text only refers to Captain America (without the stars).  
 
 # Mercenary
-* This character can team attack with any Main Character.
+This character can team attack with any Main Character.
 
 ---
 
@@ -346,22 +344,17 @@ A: In this case, yes. Because Hit Monkey and Masacre are both on the same team a
   
 
 # Mobile  
-  
-
-* Once per turn during your Main Phase but not during combat, you may move this character to your front row or back row.  
+Once per turn during your Main Phase but not during combat, you may move this character to your front row or back row.  
   
 
 # Monstrous  
-  
-
-* While this character is defending against a melee team attack, he strikes back against each attacker.  
+ While this character is defending against a melee team attack, he strikes back against each attacker.  
   
 
 # Nerf  
-  
+Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides and in enemy hands, decks and KO piles are 0/1 with 1 Health and nothing can ever, ever change that.  
 
-* Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides and in enemy hands, decks and KO piles are 0/1 with 1 Health and nothing can ever, ever change that.  
-  
+This ability is currently available on the [Deadpool MC from the Deadpool & Friends set](/r/VS2PCG/wiki/rules-insert#wiki_deadpool_.28mc_-_underworld.29).  
 
 # Nest  
   
@@ -603,7 +596,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MTc4LDQ2MzAzNjY2OCw3MDc4NzA5MS
-wxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAw
-ODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbNDk2Mzk3ODk1LDQ2MzAzNjY2OCw3MDc4Nz
+A5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0Miwx
+ODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
