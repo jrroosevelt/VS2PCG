@@ -4,18 +4,8 @@
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
   
 
-#  Absorption History](https://www.upperdeckblog.com/2019/07/h-a-m-m-e-r-time/)  
-  
-
-* Mimic’s Absorption History represents three characters that he’s copied powers from in his past. In game terms it’s a hidden pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t even share a name through AKA). For example, you could choose Cyclops Level 1, Storm Level 2, and Spider-Man Level 3.  
-  
-* During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History and Mimic gains its Keyword and Super Powers when the game begins.  
-  
-* When Mimic becomes Level 2, as you may have guessed, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.  
-  
-* When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. (Are you sensing a pattern?) Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.  
-  
-* While Absorption History is a Keyword and can technically be turned off by certain effects,  Turning it off or deconstructing keywords doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).  
+#  Absorption History
+  See the [card-specific clarification for Mimic (MC)](/r/VS2PCG/wiki/rules-insert#wiki_mimic_.28mc.29).
   
 
 # Agenda  
@@ -31,19 +21,14 @@ Here is the list of the most common recurring keywords, powers or terms that are
   
 
 # Agent  
-  
-
-* When this character appears, look at cards from the top of your deck equal to the number of Agents on your side.  Put any of them on the bottom of your deck.  
+   When this character appears, look at cards from the top of your deck equal to the number of Agents on your side.  Put any of them on the bottom of your deck.  
   
 
 # AKA [name]  
+This character is also considered to have the name specified.  This is not considered a power.  
   
 
-* This character is also considered to have the name specified.  This is not considered a power.  
-  
-
-# Amortal  
-  
+# Amortal   
 
 * Only exists on *Death* Main Character:  
   
@@ -740,7 +725,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjUyOTc0OCw3MDc4NzA5MSwxNjg2MD
+eyJoaXN0b3J5IjpbLTkzNzc3MDQ3Myw3MDc4NzA5MSwxNjg2MD
 YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
 LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
