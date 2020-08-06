@@ -67,43 +67,32 @@ Remove the captured character from the game but keep track of any wound counters
   
 
 #  Card Game
-  
-
-* Wyatt knows he's in a [Card Game](https://www.upperdeckblog.com/2020/04/vs-system-2pcg-the-fantastic-battles-card-preview-support-staff/).  See link for full details.  
-  
-* To summarize, Wyatt will draw cards into his own "hand" and place resources into his own "resource row" that can be used to recruit during his own recruit step to bring cards onto your side.  When Wyatt leaves play or changes sides, his hand and resource row are removed from the game.  
+ This is a power currently available on [Wyatt Wingfoot](/r/VS2PCG/wiki/rules-insert#wiki_wyatt_wingfoot).
+ 
+To summarize, Wyatt will draw cards into his own "hand" and place resources into his own "resource row" that can be used to recruit during his own recruit step to bring cards onto your side.  When Wyatt leaves play or changes sides, his hand and resource row are removed from the game.  
   
 
 # Card Title  
-  
-
-* The name of a card on the name line (ignoring AKAs).  
+ The name of a card on the name line (ignoring AKAs).  
   
 
 # Climb  
+At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on this character.  
   
-
-* At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on this character.  
-  
-* Exhausted Locations can still be flipped face-down to pay for super powers but a face-down Location cannot be climbed (it is not counted as a location while face-down).  Exhausted Locations also do not generate Recruit Points but with Climb they will recover before the start of the Build Phase anyway so that is a non-issue.  
+Exhausted Locations can still be flipped face-down to pay for super powers but a face-down Location cannot be climbed (it is not counted as a location while face-down).  Exhausted Locations also do not generate Recruit Points but with Climb they will recover before the start of the Build Phase anyway so that is a non-issue.  
   
 
 # Collect  
   
-
-* Remove the chosen character from the game. You may only collect a character with a different team affiliation from every other character you've collected this game.  A collection is unique to a player.  
+Remove the chosen character from the game. You may only collect a character with a different team affiliation from every other character you've collected this game.  A collection is unique to a player.  
   
 
 # Combat Master  
-  
-
-* While this character is in combat, enemy players can't play plot twists.  
+While this character is in combat, enemy players can't play plot twists.  
   
 
 # Comet Fall  
-  
-
-* When this character appears, put a -1/-1 counter on each enemy character.  
+ When this character appears, put a -1/-1 counter on each enemy character.  
   
 
 # Creature  
@@ -696,7 +685,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI5MTE1MTMsNzA3ODcwOTEsMTY4Nj
-A2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5
-NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbLTg4MjY0MzY0MCw3MDc4NzA5MSwxNjg2MD
+YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
+LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
