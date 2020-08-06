@@ -4,7 +4,7 @@
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
   
 
-#  [Absorption History](https://www.upperdeckblog.com/2019/07/h-a-m-m-e-r-time/)  
+#  Absorption History](https://www.upperdeckblog.com/2019/07/h-a-m-m-e-r-time/)  
   
 
 * Mimic’s Absorption History represents three characters that he’s copied powers from in his past. In game terms it’s a hidden pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t even share a name through AKA). For example, you could choose Cyclops Level 1, Storm Level 2, and Spider-Man Level 3.  
@@ -740,7 +740,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMD
-EyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwx
-NTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbMTEzNjUyOTc0OCw3MDc4NzA5MSwxNjg2MD
+YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
+LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
