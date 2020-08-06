@@ -104,16 +104,12 @@ Stun the character, but it doesn't get a wound.
   
 
 #  Deconstruct the Universe
-See the specific-card clarification page for details on this keyword that only exists on Dark Phoenix Supporting Character that reads: *"When you recruit Dark Phoenix, you may remove one of the following concepts from the game:"*  
+[See the specific-card clarification page](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29) for details on this keyword that only exists on Dark Phoenix Supporting Character that reads: *"When you recruit Dark Phoenix, you may remove one of the following concepts from the game:"*  
   
-
-
 # Dimensional Wristwatch  
+ You may recruit this character from your deck. (Search your deck for them, shuffle, then recruit them.)  
   
-
-* You may recruit this character from your deck. (Search your deck for them, shuffle, then recruit them.)  
-  
-* In tournament play, you're only allowed to search for and fail to find a character with this keyword once.  After that you're just shuffling your deck for free and it is frowned upon.  
+In tournament play, you're only allowed to search for and fail to find a character with this keyword once.  After that you're just shuffling your deck for free and it is frowned upon.  
   
 
 # Dodge  
@@ -668,7 +664,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODYzMTY5Miw0NjMwMzY2NjgsNzA3OD
-cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
-MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbMjc5NjMxNTM1LDQ2MzAzNjY2OCw3MDc4Nz
+A5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0Miwx
+ODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
