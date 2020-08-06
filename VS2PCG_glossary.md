@@ -29,22 +29,9 @@ This character is also considered to have the name specified.  This is not consi
   
 
 # Amortal   
-
-* Only exists on *Death* Main Character:  
-  
-* At the start of the game, and for the rest of the game, the following applies:  
-  
-* Death has no level.  
-  
-* She starts with her card that has infinite health. (Her other card has 8 health. Also known as sideways infinity. The infinite health side represents that she can never really be killed. But as her other side has 8 health, if she ever has 8 or more wounds on either side, KO her.)  
-  
-* Death can’t be face down. If she would be turned face down, switch her with her other card instead and leave it face up. She still suffers other effects from the stun such as losing +1/+1 and -1/-1 counters, gaining a wound, and becoming exhausted.  
-  
-* If Death would be hidden, instead switch her with her other card which will remain face up and place her in the ready position.  
-  
-* Amortal can’t be turned off.  
-  
-* See [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw) for full details  
+This power currently only exists on the *Death* Main Character.
+ 
+See also [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw) for full details  
   
 
 # Amplify  
@@ -725,7 +712,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzc3MDQ3Myw3MDc4NzA5MSwxNjg2MD
+eyJoaXN0b3J5IjpbMTUwMjM5MzQ0OCw3MDc4NzA5MSwxNjg2MD
 YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
 LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
