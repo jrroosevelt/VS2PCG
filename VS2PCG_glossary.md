@@ -389,7 +389,7 @@ This character cannot attack and cannot strike back.
 #  Pocket Universe
 Summary: Move each other character (everyone but Franklin) to a Pocket Universe. This creates a new front and back row for each player that cannot interact with cards in another "universe."  After each of your turns, take a turn controlling cards in each Pocket Universe you have created.  The Pocket Universe turns skip the Draw and Build phases.  
   
-See the Franklin Richards section of the card-specific clarifications page.
+See the [Franklin Richards section of the card-specific clarifications page](/r/VS2PCG/wiki/rules-insert#wiki_franklin_richards).
   
 
 # Pounce  
@@ -588,7 +588,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQwNTY3NDIsNDYzMDM2NjY4LDcwNz
-g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
-LDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3OD
+cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
+MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
