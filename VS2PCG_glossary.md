@@ -96,15 +96,11 @@ While this character is in combat, enemy players can't play plot twists.
   
 
 # Creature  
-  
-
-* This character cannot be equipped.  
+This character cannot be equipped.  
   
 
 # Daze  
-  
-
-* Stun the character, but it doesn't get a wound.  
+Stun the character, but it doesn't get a wound.  
   
 
 #  [Deconstruct the Universe](https://www.upperdeckblog.com/2018/11/vs-system-2pcg-crossover-insert-flowery-phoenix-imagery-here-probably-use-the-word-ashes/)  
@@ -685,7 +681,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjY0MzY0MCw3MDc4NzA5MSwxNjg2MD
-YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
-LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbNDYzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNj
+ExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcs
+MzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
