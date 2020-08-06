@@ -29,60 +29,44 @@ This character is also considered to have the name specified.  This is not consi
   
 
 # Amortal   
-This power currently only exists on the *Death* Main Character.
+This power currently only exists on the [*Death* Main Character](/r/VS2PCG/wiki/rules-insert#wiki_death).
  
 See also [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw) for full details  
   
 
 # Amplify  
-  
-
-* If you discard the location from your hand to power this super power you gain the text after the word Amplify.  
+If you discard the location from your hand to power this super power you gain the text after the word Amplify.  
   
 
 # Angry  
-  
-
-* This character must be in your first attack each turn if able.  (It can be a team attack.)  
+This character must be in your first attack each turn if able.  (It can be a team attack.)  
   
 
 # Ban  
-  
-
-* Name a character and choose a number.  Put all supporting characters with that name on enemy sides into their owner's hands.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that.  
+Name a character and choose a number.  Put all supporting characters with that name on enemy sides into their owner's hands.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that.  
   
 
 # Berserker  
-  
-
-* When this character attacks, put a +1/+1 counter on it  
+When this character attacks, put a +1/+1 counter on it  
   
 
 # Biosentinel  
-  
-
-* The Biosentinel keyword does nothing by itself and is instead referenced by other powers.  
+ The Biosentinel keyword does nothing by itself and is instead referenced by other powers.  
   
 
 # Bulletproof  
-  
-
-* Characters with Range can't strike this character. *(Even in melee combat.)*  
+  Characters with Range can't strike this character. *(Even in melee combat.)*  
   
 
 # Burn  
-  
-
-* Stun this character at the end of each of your turns.  
+   Stun this character at the end of each of your turns.  
   
 
 # Capture  
+Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
   
 
-* Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
-  
-
-#  [Card Game](https://www.upperdeckblog.com/2020/04/vs-system-2pcg-the-fantastic-battles-card-preview-support-staff/)  
+#  Card Game
   
 
 * Wyatt knows he's in a [Card Game](https://www.upperdeckblog.com/2020/04/vs-system-2pcg-the-fantastic-battles-card-preview-support-staff/).  See link for full details.  
@@ -712,7 +696,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjM5MzQ0OCw3MDc4NzA5MSwxNjg2MD
-YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
-LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbLTIwMDI5MTE1MTMsNzA3ODcwOTEsMTY4Nj
+A2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5
+NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
