@@ -162,9 +162,7 @@ This character can attack protected characters in the back row unless there is a
   
 
 # Freeze  
-  
-
-* Exhaust a character.  That character can't Ready during its next turn.  
+Exhaust a character.  That character can't Ready during its next turn.  
 
 ---
 Q: If a player is frozen...can they still climb?
@@ -174,60 +172,45 @@ A: Frozen only stops readying, so yes
   ^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/503484419256877059))
 
 # Friendly  
-
-* This character cannot attack. (Note: Unlike **Passive**, this character can strike back.)  
+This character cannot attack. (Note: Unlike **Passive**, this character can strike back.)  
   
 
 # Genius  
+ At the start of your turn, draw a card.  
   
-
-* At the start of your turn, draw a card.  
-  
-* Like all powers, Genius is only active while face-up.  Some cards with Genius call this out specifically in their text while others don't but it is true in either case.  
+Like all powers, Genius is only active while face-up.  Some cards with Genius call this out specifically in their text while others don't but it is true in either case.  
 
 # Good
-* Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
+Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
   
 # Grab  
-  
-
-* While this character is in the front row, enemy characters can't fly over him.  
+ While this character is in the front row, enemy characters can't fly over him.  
   
 
 # Graduate  
-  
-
-* Functionally the same as [Transform](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_transform)  
+ Functionally the same as [Transform](/r/VS2PCG/wiki/glossary#wiki_transform)  
   
 
 # Hex  
-  
-
-* Enemy main characters can't level up. *(They still gain XP.)*  
+ Enemy main characters can't level up. *(They still gain XP.)*  
   
 
 # Hide  
+ Turn this character face-down but Ready.  He doesn't count as being stunned.  
   
-
-* Turn this character face-down but Ready.  He doesn't count as being stunned.  
+Hidden characters still lose powers, Equipment and +1/+1 or -1/-1 counters.  
   
-* Hidden characters still lose powers, Equipment and +1/+1 or -1/-1 counters.  
+Hidden characters will turn face up in the Recovery phase.  
   
-* Hidden characters will turn face up in the Recovery phase.  
-  
-* Hidden characters can't be attacked without special effects allowing attacks on a face-down character.  If attacked or struck, a hidden character can still be stunned and wounded normally.  
+Hidden characters can't be attacked without special effects allowing attacks on a face-down character.  If attacked or struck, a hidden character can still be stunned and wounded normally.  
   
 
 #  [Hologram](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-friendly-neighborhood-card-preview-you-dont-want-any-part-of-this-or-do-you/)  
-  
-
-* Each Hologram has an associated power symbol. If an enemy character with that type of Super Power appears, it automatically stuns the Hologram.  
+Each Hologram has an associated power symbol. If an enemy character with that type of Super Power appears, it automatically stuns the Hologram.  
   
 
 #  [Hostage](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-spidey-foes-card-preview-playing-pretend/)  
-  
-
-* Currently only exists on the Sinister Syndicate Special Location "Secret Hideout".  See the [reveal article](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-spidey-foes-card-preview-playing-pretend/) or the rules insert of the Spidey-Foes set for a full breakdown.  
+Currently only exists on the Sinister Syndicate Special Location "Secret Hideout".  See the [reveal article](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-spidey-foes-card-preview-playing-pretend/) or the rules insert of the Spidey-Foes set for a full breakdown.  
   
 
 # Hunter  
@@ -650,7 +633,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTkyNjI0MCw0NjMwMzY2NjgsNzA3OD
-cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
-MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbLTE4Mzc1NjIyMzEsNDYzMDM2NjY4LDcwNz
+g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
+LDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
