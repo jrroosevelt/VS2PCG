@@ -405,53 +405,38 @@ This character can make Ranged attacks from the back row and can strike back whe
   
 
 # Regeneration  
-  
-
-* At the start of your turn, heal a wound from this character. *(The character must be face up.)*  
+At the start of your turn, heal a wound from this character. *(The character must be face up.)*  
   
 
 # Relationship  
-  
-
-* The chosen characters can team attack with each other and can't be struck back while team attacking with each other.  
+The chosen characters can team attack with each other and can't be struck back while team attacking with each other.  
   
 
 # Safeguard  
-  
-
-* Characters without Safeguard in the same row as this character cannot be attacked.  
+ Characters without Safeguard in the same row as this character cannot be attacked.  
   
 
 # Shrink  
-  
-
-* When this character gets attacked for the first time each turn, you may cancel the combat.  
+When this character gets attacked for the first time each turn, you may cancel the combat.  
   
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
   
-
-* Your Sinister Six pile consists of exactly six main characters with the Sinister Six keyword.  At the start of the game when all players would reveal your main character (after choosing first player) you reveal your Sinister Six pile instead.  Then you choose which character from your Sinister Six pile will start the game in play.  
+Your Sinister Six pile consists of exactly six main characters with the Sinister Six keyword.  At the start of the game when all players would reveal your main character (after choosing first player) you reveal your Sinister Six pile instead.  Then you choose which character from your Sinister Six pile will start the game in play.  
   
-* If this character is a main character and gets KO'd while your Sinister Six pile is not empty, you don't lose the game.  Instead, remove it from the game and at the start of your next turn put another character with Sinister Six from your Sinister Six pile onto your side.  This power can't be turned off.  If a newly arrived Sinister Six MC has the same name as a supporting character on your side, that SC will be KO’d.  
+If this character is a main character and gets KO'd while your Sinister Six pile is not empty, you don't lose the game.  Instead, remove it from the game and at the start of your next turn put another character with Sinister Six from your Sinister Six pile onto your side.  This power can't be turned off.  If a newly arrived Sinister Six MC has the same name as a supporting character on your side, that SC will be KO’d.  
   
 
 # Slayer  
-  
-
-* When this character is melee attacking, if it wounds an Evil supporting character, remove it from the game.  
+ When this character is melee attacking, if it wounds an Evil supporting character, remove it from the game.  
   
 
 # Sniper  
-  
-
-* This character can ranged attack back row characters even while they're protected.  
+ This character can ranged attack back row characters even while they're protected.  
   
 
 # Soldier  
-  
-
-* When this character appears, put -1/-1 counters equal to the number of Soldiers on your side onto an enemy supporting character.  
+ When this character appears, put -1/-1 counters equal to the number of Soldiers on your side onto an enemy supporting character.  
 
 ---
 
@@ -463,47 +448,35 @@ A: No, it can be any supporting character. This was a misprint in the rule book.
   
 
 # Spider-Gear  
-  
-
-* This Equipment can only be equipped to a character with “Spider” in its name.  
+ This Equipment can only be equipped to a character with “Spider” in its name.  
   
 
 #  [Spider-Verse](https://www.upperdeckblog.com/2019/12/vs-system-2pcg-crossover-vol-2-card-preview-into-the-multiverse/)  
   
+If you choose a Spider-Verse character to be your starting main character, you may include up to four other Spider-Verse main characters in your deck.  
 
-* If you choose a Spider-Verse character to be your starting main character, you may include up to four other Spider-Verse main characters in your deck.  
+During your Build Phase, if this character is in your hand, you may put it onto your side.  This doesn't count as recruiting the character.  
   
-* During your Build Phase, if this character is in your hand, you may put it onto your side.  This doesn't count as recruiting the character.  
-  
-* These characters **do** count toward your total of 60 cards in your deck. You don’t have to include any Spider-Verse main characters in your deck, but you can include up to four.  As a reminder, if you have multiple main characters, they must all be KO'd for you to lose the game.  
+These characters **do** count toward your total of 60 cards in your deck. You don’t have to include any Spider-Verse main characters in your deck, but you can include up to four.  As a reminder, if you have multiple main characters, they must all be KO'd for you to lose the game.  
   
 
 # Stealth  
+ This character can melee attack back row characters even while they are protected.  
   
 
-* This character can melee attack back row characters even while they are protected.  
-  
-
-#Survives  
-  
-
-* A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
+# Survives  
+A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
   
 
 # Swarm  
-  
-
-* You can have any number of characters with this character's name on your side. This power can't be turned off.  
+You can have any number of characters with this character's name on your side. This power can't be turned off.  
   
 
 # Symbiosis  
-  
-
-* This character can have and gain +1/+1 counters while stunned.  
+ This character can have and gain +1/+1 counters while stunned.  
 
 # Team Affiliation  
-
-* The team or teams to which this character belongs. Typically the team affiliation is indicated by the icon in the upper-right corner of the card, though there are cards that can grant or remove affiliations. Team Affiliation is *not* lost when the character is face-down.
+The team or teams to which this character belongs. Typically the team affiliation is indicated by the icon in the upper-right corner of the card, though there are cards that can grant or remove affiliations. Team Affiliation is *not* lost when the character is face-down.
 
 ---
 
@@ -516,9 +489,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
 ^(Source: Official Rulebook)
 
 # Token  
-  
-
-* Some cards have the type "Token" under the card's name.  Some examples are "Monkey Joe" SC token for Squirrel Girl or "Alien Symbiote" Equipment token for Black Suit Spider-Man MC.  These cards cannot be included in your deck.  Instead, if you have a card in your deck that has an effect that would bring the token into play, you include it in a side deck much like your Main Character.  They do not count toward the 60-card limitation of the deck.  
+Some cards have the type "Token" under the card's name.  Some examples are "Monkey Joe" SC token for Squirrel Girl or "Alien Symbiote" Equipment token for Black Suit Spider-Man MC.  These cards cannot be included in your deck.  Instead, if you have a card in your deck that has an effect that would bring the token into play, you include it in a side deck much like your Main Character.  They do not count toward the 60-card limitation of the deck.  
   
 * If a token leaves play for any reason, it is returned to the side deck.  
   
@@ -580,8 +551,8 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5OD
-Q1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3Nywy
-MjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOT
-c5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbLTEyNjk0MTI4MTEsMTIxMTk5OTYzNSwzND
+Q1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEs
+MTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMD
+g0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
