@@ -396,12 +396,8 @@ See the [Franklin Richards section of the card-specific clarifications page](/r/
 While this character is attacking an exhausted character, it can't strike back at her.  
   
 
-#  [Prediction](https://www.upperdeckblog.com/2020/05/vs-system-2pcg-the-fantastic-battles-card-preview-dooms-day/)  
-  
-
-* When you make a Prediction, secretly write down the name of two characters: an attacker and a defender. The names don’t have to be characters in play at the time Mad Thinker uses the super power.  
-  
-* When a character with the attacker’s name attacks a character on your side with the defender’s name (even in a team attack), cancel the combat. Then make another Prediction about the same turn, but this time you’ll have a lot more data! You can make a maximum of two Predictions from each use of the super power.  
+#  Prediction
+Prediction is a power currently on only The Mad Thinker. See The Mad Thinker section of the card-specific clarifications page for details.
   
 
 # Range  
@@ -584,8 +580,8 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMD
-M2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0x
-NDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MT
-g5N119
+eyJoaXN0b3J5IjpbMTUyMDYxMDE1NSwzNDQ1MDgxOTksLTE5OD
+Q1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3Nywy
+MjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOT
+c5MCwxNTk0ODQxODk3XX0=
 -->
