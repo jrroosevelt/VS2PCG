@@ -503,33 +503,23 @@ Some cards have the type "Token" under the card's name.  Some examples are "Monk
   
 
 # Tough  
-  
-
-* When this character gets stunned, you may recover it. *It still gets a wound.*  
+When this character gets stunned, you may recover it. *It still gets a wound.*  
   
 
 # Transform  
-  
-
-* When a character transforms it means they are being replaced with a different character. Remove them from the game and put the new character into play in the same orientation (ready/exhausted) they were in. Move all counters and equipment from them onto the new character, apply any modifiers (such as Freeze) to the new character.  
+When a character transforms it means they are being replaced with a different character. Remove them from the game and put the new character into play in the same orientation (ready/exhausted) they were in. Move all counters and equipment from them onto the new character, apply any modifiers (such as Freeze) to the new character.  
   
 
 # Vampire  
-  
-
-* When this character KOs a defending character in melee combat and survives, put a Vitality counter on it.  
+When this character KOs a defending character in melee combat and survives, put a Vitality counter on it.  
   
 
 # Violent  
-  
-
-* While attacking a supporting character, this character strikes with double its ATK.  
+While attacking a supporting character, this character strikes with double its ATK.  
   
 
 # Wealthy  
-  
-
-* At the start of your Build Phase, gain a recruit point.  
+ At the start of your Build Phase, gain a recruit point.  
   
 
 #  [Wish](https://www.upperdeckblog.com/2019/11/vs-system-2pcg-the-x-files-battles-card-preview-5/)  
@@ -551,8 +541,8 @@ Some cards have the type "Token" under the card's name.  Some examples are "Monk
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk0MTI4MTEsMTIxMTk5OTYzNSwzND
-Q1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEs
-MTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMD
-g0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbMTU4NjA0OTUyNywxMjExOTk5NjM1LDM0ND
+UwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MDc4NzA5MSwx
+Njg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwOD
+Q1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
