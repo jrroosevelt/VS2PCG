@@ -393,9 +393,7 @@ See the [Franklin Richards section of the card-specific clarifications page](/r/
   
 
 # Pounce  
-  
-
-* While this character is attacking an exhausted character, it can't strike back at her.  
+While this character is attacking an exhausted character, it can't strike back at her.  
   
 
 #  [Prediction](https://www.upperdeckblog.com/2020/05/vs-system-2pcg-the-fantastic-battles-card-preview-dooms-day/)  
@@ -407,9 +405,7 @@ See the [Franklin Richards section of the card-specific clarifications page](/r/
   
 
 # Range  
-  
-
-* This character can make Ranged attacks from the back row and can strike back when defending from a Ranged attack.  
+This character can make Ranged attacks from the back row and can strike back when defending from a Ranged attack.  
   
 
 # Regeneration  
@@ -588,7 +584,8 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3OD
-cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIs
-MTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
+eyJoaXN0b3J5IjpbMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMD
+M2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0x
+NDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MT
+g5N119
 -->
