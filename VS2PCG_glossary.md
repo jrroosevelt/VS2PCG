@@ -397,7 +397,7 @@ While this character is attacking an exhausted character, it can't strike back a
   
 
 #  Prediction
-Prediction is a power currently on only The Mad Thinker. See The Mad Thinker section of the card-specific clarifications page for details.
+Prediction is a power currently on only Mad Thinker. See the [Mad Thinker section](/r/VS2PCG/wiki/rules-insert#wiki_mad_thinker) of the card-specific clarifications page for details.
   
 
 # Range  
@@ -580,7 +580,7 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDYxMDE1NSwzNDQ1MDgxOTksLTE5OD
+eyJoaXN0b3J5IjpbMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5OD
 Q1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3Nywy
 MjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOT
 c5MCwxNTk0ODQxODk3XX0=
