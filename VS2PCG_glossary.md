@@ -96,7 +96,7 @@ While this character is in combat, enemy players can't play plot twists.
   
 
 # Creature  
-This character cannot be equipped.  
+This character cannot be equipped.
   
 
 # Daze  
@@ -545,9 +545,9 @@ While attacking a supporting character, this character strikes with double its A
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTEwMjM2MCwtMjE0NzA3NTY4MywxNT
-g2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUz
-MjEsNDYzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMz
-AxMjY3LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAs
-MTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbNTg2NzI1NzM2LC0yMTQ3MDc1NjgzLDE1OD
+YwNDk1MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMy
+MSw0NjMwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMD
+EyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwx
+NTk0ODQxODk3XX0=
 -->
