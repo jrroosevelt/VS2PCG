@@ -257,10 +257,16 @@ Flight and Ranged are the two most common keyword powers.
 
 Q: Is there a distinction between Keyword Text and Keyword Powers? I ask because [Dark Phoenix's](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29) **Deconstruct the Universe** can disable Keyword Text, but she doesn't disable **Flight** or **Range** when doing so. 
 
-A: There is a slight distinction between **Keyword Text** and **Keyword Powers**.  **Keyword Powers** include the Flight and Range icons and all text in the Keyword area of the card with these exceptions:
+A: There is a slight distinction between **Keyword Text** and **Keyword Powers**.  See below for details:
+
+## Keyword Powers
+**Keyword Powers** include the Flight and Range icons and all text in the Keyword area of the card with these exceptions:
 
 * Superpowers
-* Certain card designations such as: **Creature**, 
+* Level-Up powers
+
+## Keyword Text
+**Keyword Text** Is a subset of **Keyword Powers** and in 
 
 # Invisible  
 This character doesn’t protect characters and can attack protected characters.  
@@ -542,7 +548,7 @@ While attacking a supporting character, this character strikes with double its A
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzA2NDM4NiwtMjE0NzA3NTY4MywxNT
+eyJoaXN0b3J5IjpbLTMyMzAxNDA0NywtMjE0NzA3NTY4MywxNT
 g2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUz
 MjEsNDYzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMz
 AxMjY3LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAs
