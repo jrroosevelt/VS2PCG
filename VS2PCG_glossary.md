@@ -264,6 +264,7 @@ A: There is a slight distinction between **Keyword Text** and **Keyword Powers**
 
 * Superpowers
 * Level-Up powers
+* "Flavor" text (the quotations that appear on some cards)
 
 ## Keyword Text
 **Keyword Text** is a *subset* of **Keyword Powers**. **Keyword Text** applies only to text in the Keyword area of the card (and does not include Flight and Range icons). Because it is a subset, it also has the exceptions mentioned for **Keyword Powers** as well.
@@ -548,9 +549,9 @@ While attacking a supporting character, this character strikes with double its A
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNT
-g2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUz
-MjEsNDYzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMz
-AxMjY3LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAs
-MTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbNDk4MjE1NzI1LDEyMzg0NTEyMzUsLTIxND
+cwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5NjM1LDM0NDUwODE5
+OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MDc4NzA5MSwxNjg2MD
+YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
+LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
