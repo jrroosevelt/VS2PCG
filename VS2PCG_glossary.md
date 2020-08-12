@@ -266,7 +266,7 @@ A: There is a slight distinction between **Keyword Text** and **Keyword Powers**
 * Level-Up powers
 
 ## Keyword Text
-**Keyword Text** is a subset of **Keyword Powers**. **Keyword Text** applies only to text in the Keyword area of the card (and 
+**Keyword Text** is a *subset* of **Keyword Powers**. **Keyword Text** applies only to text in the Keyword area of the card (and does not include Flight and Range icons). Because it is a subset, it also has the exceptions mentioned for *
 
 # Invisible  
 This character doesn’t protect characters and can attack protected characters.  
@@ -548,7 +548,7 @@ While attacking a supporting character, this character strikes with double its A
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDUwNDA5OCwtMjE0NzA3NTY4MywxNT
+eyJoaXN0b3J5IjpbLTM4Mzk5NTkwNCwtMjE0NzA3NTY4MywxNT
 g2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUz
 MjEsNDYzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMz
 AxMjY3LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAs
