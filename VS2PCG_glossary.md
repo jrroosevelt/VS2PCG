@@ -113,7 +113,7 @@ In tournament play, you're only allowed to search for and fail to find a charact
   
 
 # Dodge  
-This character cannot be Range attacked  
+This character cannot be Range attacked.
   
 
 # Duplicate  
@@ -545,9 +545,9 @@ While attacking a supporting character, this character strikes with double its A
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODE5OTUzNiwtMjE0NzA3NTY4MywxNT
-g2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUz
-MjEsNDYzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMz
-AxMjY3LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAs
-MTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbLTEyOTM1OTMyMTQsLTIxNDcwNzU2ODMsMT
+U4NjA0OTUyNywxMjExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1
+MzIxLDQ2MzAzNjY2OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMD
+MwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3LDMxMDM5Nzkw
+LDE1OTQ4NDE4OTddfQ==
 -->
