@@ -30,7 +30,7 @@ Here are the current Good or Evil categorizations:
 * Hydra
 * Leviathons
 * Predators
-* Sentinels ![Sentinels](https://emoji.redditmedia.com/wgd4hdftlse51_t5_39cu7/Sentinels&#x27)
+* Sentinels 
 * Sinister Syndicate
 * Super Villains
 * Underworld
@@ -49,6 +49,7 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQyNzUyMzksLTE5MDQyNzUyMzksNz
-IyMjcxNzYzLC0xOTY3Njk1MTAsMTMxOTcxNzYwOF19
+eyJoaXN0b3J5IjpbMTE4MDk0NzMxNSwtMTkwNDI3NTIzOSwtMT
+kwNDI3NTIzOSw3MjIyNzE3NjMsLTE5Njc2OTUxMCwxMzE5NzE3
+NjA4XX0=
 -->
