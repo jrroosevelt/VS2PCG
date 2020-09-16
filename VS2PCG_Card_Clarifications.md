@@ -1956,7 +1956,8 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 
 Here's how his **Canadian Resistance Colonel** works:
 * You can recruit characters from the three mutant teams face down (without revealing them), and if you do, they appear hidden (face down and ready) on your side, instead of face up.
-* While you still must pay normally for cards recruited this way (includin
+* While you still must pay normally for cards recruited this way (including any additional costs), you do not have to announce the recruit cost of the hidden cards you are recruiting.
+* For example, if you have 7 recruit points and you recruit a 3-cost and 4-cost character face down, you don't have to announce how much you paid for each one or how much you paid total. (However, you can't
 
 ^(Source: Rule Insert)
 
@@ -4236,11 +4237,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc1OTg5MTIsLTY5MDA3MDg4MywxNj
-MyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMy
-NDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMC
-wxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3
-MDM2MzE0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2OD
-g1LDE0NDMxMzQwNiwtNzYwMTg2NDQyLDI4NzUzMDkxMywtODgw
-MzkyMTY4XX0=
+eyJoaXN0b3J5IjpbMTIyOTMyODAyNiwtNjkwMDcwODgzLDE2Mz
+I5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0
+MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLD
+E3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcw
+MzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4OD
+UsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAz
+OTIxNjhdfQ==
 -->
