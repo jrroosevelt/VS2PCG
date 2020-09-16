@@ -47,6 +47,9 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 
 ^(Source: Rule insert)
 
+# Ahab
+You start the game with a private out-of-game Hound pile. The pile must contain exactl
+
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 *Set: Deadpool & Friends*  
 
@@ -4273,11 +4276,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03Nz
-Y3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4
-NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LD
-E3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0
-MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MD
-gzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYw
-MTg2NDQyXX0=
+eyJoaXN0b3J5IjpbLTEwNjMxMjkxOTYsMTk0NjA3ODY1MSwyMD
+U0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1
+MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NS
+wtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2
+NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2Mz
+E0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0
+NDMxMzQwNl19
 -->
