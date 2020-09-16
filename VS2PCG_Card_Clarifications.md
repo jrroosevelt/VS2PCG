@@ -2948,7 +2948,11 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 # Rachel Summers (MC)
 *Set: Futures Past*
 
-**Powerful Heritage** and **Daughter of the Phoenix** refer  to the "card title" for Phoenix and Dark Phoenix. This means the name at the very top of the c
+**Powerful Heritage** and **Daughter of the Phoenix** refer  to the "card title" for Phoenix and Dark Phoenix. This means the name at the very top of the card must be Phoenix or Dark Phoenix. **AKA**s don't count.
+
+Here are the cards as of this Issue for her **Daughter of the Phoenix**.
+
+Currently, Rachel gets the existing **Teke Shield**, **Life 
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 *Set: Black Order*  
@@ -4256,7 +4260,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQyMjE0MSwyMDU0NDIxNTExLC03Nz
+eyJoaXN0b3J5IjpbLTUxMDc4NTA0MSwyMDU0NDIxNTExLC03Nz
 Y3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4
 NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LD
 E3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0
