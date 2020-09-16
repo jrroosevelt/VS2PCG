@@ -1959,8 +1959,10 @@ Here's how his **Canadian Resistance Colonel** works:
 * While you still must pay normally for cards recruited this way (including any additional costs), you do not have to announce the recruit cost of the hidden cards you are recruiting.
 * For example, if you have 7 recruit points and you recruit a 3-cost and 4-cost character face down, you don't have to announce how much you paid for each one or how much you paid total. (However, you can't spend more recruit points than you have.)
     * You must also follow any other rules about recruiting, including any restrictions for when a character can appear, including uniqueness rules.
- * Hidden cards recruited this way mostly act like other hidden cards:
- * 
+* Hidden cards recruited this way mostly act like other hidden cards:
+    * They aren't stunned, can't have Equipment or +1/+1 or -1/-1 counters, can't be attacked, and lose their powers.
+    * 
+ 
 
 ^(Source: Rule Insert)
 
@@ -4240,11 +4242,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzQ2MDg0NiwtNjkwMDcwODgzLDE2Mz
-I5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0
-MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLD
-E3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcw
-MzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4OD
-UsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAz
-OTIxNjhdfQ==
+eyJoaXN0b3J5IjpbODA3MTY3NDYzLC02OTAwNzA4ODMsMTYzMj
+k5NTE3MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQx
+OTUsLTIxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMT
+c1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAz
+NjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NS
+wxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5
+MjE2OF19
 -->
