@@ -1607,6 +1607,11 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 
 ^(Source: Rule insert)
 
+# Inhibitor Collar
+*Set: Futures Past*
+
+A player can equip the Collar to a face-up character or a stunned character. If that character already has Equipment equipped, KO it. When an equipped face-up character is stunned, the Collar remains on (and face up). If a character equipped with the Collar h
+
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
 *Set: The Herald*  
 
@@ -4278,11 +4283,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODA2MDg2OCwxOTQ2MDc4NjUxLDIwNT
-Q0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUx
-NzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC
-0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0
-NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMT
-QsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0
-MzEzNDA2XX0=
+eyJoaXN0b3J5IjpbMjQzNDgxMjYyLDE5NDYwNzg2NTEsMjA1ND
+QyMTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3
+MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLT
+IxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2
+MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNC
+wtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQz
+MTM0MDZdfQ==
 -->
