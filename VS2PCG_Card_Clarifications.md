@@ -1739,7 +1739,15 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 
 # Kate (and Kitty) Pryde (MC)
 *Set: Futures Past*
-Kate and Kitty have one name at Level 1 and then gain a new name at Level 
+Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
+
+For her **Future** power, you get the resources after you have mulliganed (or decided not to mulligan).
+
+^(Source: Rules Insert)
+
+---
+
+Q: What if I use Singularity  
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
@@ -4188,11 +4196,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE3MzM0NjEsLTE4OTA4MTg0NTksMT
-IzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3
-Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMy
-wxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMsMTkx
-NTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0ND
-IsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4
-NTY2NDc1XX0=
+eyJoaXN0b3J5IjpbLTU4MDIwMDY4OSwtMTg5MDgxODQ1OSwxMj
+M5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcy
+ODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLD
+EzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1
+NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0Mi
+wyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1
+NjY0NzVdfQ==
 -->
