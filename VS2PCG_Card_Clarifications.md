@@ -2483,7 +2483,7 @@ A: No, because stunned character lose their powers including the Ranged symbol.
 # Mutant Control Act
 *Set: Futures Past*
 
-This Plot Twist 
+This Plot Twist will stop "recruit" and "appears" powers.
 
 ^(Source: Rule Insert)
 
@@ -4292,7 +4292,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzIxNTM2NiwxOTQ2MDc4NjUxLDIwNT
+eyJoaXN0b3J5IjpbMTI1ODg0NDcwNywxOTQ2MDc4NjUxLDIwNT
 Q0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUx
 NzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC
 0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0
