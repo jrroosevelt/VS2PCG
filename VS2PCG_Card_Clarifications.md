@@ -1961,6 +1961,8 @@ Here's how his **Canadian Resistance Colonel** works:
     * You must also follow any other rules about recruiting, including any restrictions for when a character can appear, including uniqueness rules.
 * Hidden cards recruited this way mostly act like other hidden cards:
     * They aren't stunned, can't have Equipment or +1/+1 or -1/-1 counters, can't be attacked, and lose their powers.
+    * They keep their names and team affiliations.
+    * During your Recovery Phase, you must turn hidden cards on your side face up when you recover your stunned characters.
     * 
  
 
@@ -4242,7 +4244,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MTY3NDYzLC02OTAwNzA4ODMsMTYzMj
+eyJoaXN0b3J5IjpbNTE1NDUyMzM5LC02OTAwNzA4ODMsMTYzMj
 k5NTE3MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQx
 OTUsLTIxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMT
 c1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAz
