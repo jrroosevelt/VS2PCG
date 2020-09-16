@@ -2678,6 +2678,8 @@ A: No. When you activate his power, take the top card of your deck and place it 
 
 ^(Source: Rule insert)
 
+# Nimrod
+
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
 *Set: The Utopia Battles*  
 
@@ -2955,6 +2957,8 @@ Here are the cards as of this Issue for her **Daughter of the Phoenix**.
 Currently, Rachel gets the existing **Teke Shield**, **Life Incarnate**, and **What Was, What Is, What Will Be** at Level 2.
 
 **Note**: Future releases that include Phoenix or Dark Phoenix card titles will make Rachel even more powerful!
+
+^(Source: Rule Inserts)
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 *Set: Black Order*  
@@ -4262,11 +4266,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5Mzk5ODk1LDIwNTQ0MjE1MTEsLTc3Nj
-cyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0
-NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMT
-cxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQw
-MDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwOD
-MsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAx
-ODY0NDJdfQ==
+eyJoaXN0b3J5IjpbLTEyNzgwMzg3ODksMjA1NDQyMTUxMSwtNz
+c2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgx
+ODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NS
+wxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgx
+NDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3Nz
+A4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2
+MDE4NjQ0Ml19
 -->
