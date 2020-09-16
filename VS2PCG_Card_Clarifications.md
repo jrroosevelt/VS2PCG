@@ -2952,7 +2952,9 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 Here are the cards as of this Issue for her **Daughter of the Phoenix**.
 
-Currently, Rachel gets the existing **Teke Shield**, **Life 
+Currently, Rachel gets the existing **Teke Shield**, **Life Incarnate**, and **What Was, What Is, What Will Be** at Level 2.
+
+**Note**: Future releases that include Phoenix or Dark Phoenix card titles will make Rachel even more powerful!
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 *Set: Black Order*  
@@ -4260,11 +4262,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDc4NTA0MSwyMDU0NDIxNTExLC03Nz
-Y3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4
-NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LD
-E3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0
-MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MD
-gzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYw
-MTg2NDQyXX0=
+eyJoaXN0b3J5IjpbNTY5Mzk5ODk1LDIwNTQ0MjE1MTEsLTc3Nj
+cyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0
+NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMT
+cxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQw
+MDEzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwOD
+MsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAx
+ODY0NDJdfQ==
 -->
