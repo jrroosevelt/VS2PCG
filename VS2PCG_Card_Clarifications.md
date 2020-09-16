@@ -1971,9 +1971,8 @@ Here's how his **Canadian Resistance Colonel** works:
 		 * They don't exhaust when they attack.
 		 * Right before they strike, turn them face up and exhaust them.
 
-**Note:** Opponents will need to verify after 
+**Note:** Opponents will need to verify after cards recruited this way are turned face up that they were played within the rules, especially in regard to their costs.
  
-
 ^(Source: Rule Insert)
 
 
@@ -4252,7 +4251,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjQxNjQxOCwtNjkwMDcwODgzLDE2Mz
+eyJoaXN0b3J5IjpbLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2Mz
 I5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0
 MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLD
 E3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcw
