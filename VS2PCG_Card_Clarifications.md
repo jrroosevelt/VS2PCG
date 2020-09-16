@@ -2945,6 +2945,11 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 ^(Source: Rule insert)
 
+# Rachel Summers (MC)
+*Set: Futures Past*
+
+**Powerful Heritage** and **Daughter of the Phoenix** refer  
+
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 *Set: Black Order*  
 
@@ -4251,11 +4256,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2Mz
-I5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0
-MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLD
-E3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcw
-MzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4OD
-UsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAz
-OTIxNjhdfQ==
+eyJoaXN0b3J5IjpbMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC02OT
+AwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgxODQ1OSwxMjM5NjY0
+ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcyODUyLC
+0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEw
+ODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwND
+c3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1
+MzA5MTNdfQ==
 -->
