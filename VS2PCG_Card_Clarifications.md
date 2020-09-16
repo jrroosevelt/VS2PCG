@@ -1941,12 +1941,13 @@ Editor's note: On the flip side, the characters brought **Along for the Ride** w
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/613412785925390355) 
 
-# Logan (MC)
+# Logan 
+(MC)
 *Set: Futures Past*
 
 Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Timeline**) to every Level 3 Wolverine on your side. As of this Issue, there is only one Level 3 Wolverine (from the 2017 Vs. System 2PCG: Legacy issue). 
 
-**Note:** Logan is from an alternate future timeline, so although Wolverine Levels Up into him, you can have a Wolverine Supporting Character on 
+**Note:** Logan is from an alternate future timeline, so although Wolverine Levels Up into him, you can have a Wolverine Supporting Character on your side with the Logan Main Character.
 
 # Loki
 
@@ -4223,11 +4224,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xOD
-kwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQx
-MjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LD
-E0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAx
-MTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNi
-wtNzYwMTg2NDQyLDI4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0
-ODE4NjEwXX0=
+eyJoaXN0b3J5IjpbMTY1MDI0NjY1MSwtNjkwMDcwODgzLDE2Mz
+I5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0
+MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLD
+E3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcw
+MzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4OD
+UsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAz
+OTIxNjhdfQ==
 -->
