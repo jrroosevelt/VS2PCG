@@ -1737,6 +1737,10 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 
 ^(Source: Rules Insert)
 
+# Kate (and Kitty) Pryde (MC)
+*Set: Futures Past*
+Kate and Kitty have one name at Level 1 and then gain a new name at Level 
+
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
 *Set: Defenders*
@@ -4184,11 +4188,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMT
-AwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3
-OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLD
-ExODcwMzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5Nzgx
-NTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC
-04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4NTY2NDc1LDExMTQx
-NTIzMDBdfQ==
+eyJoaXN0b3J5IjpbLTExNzE3MzM0NjEsLTE4OTA4MTg0NTksMT
+IzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3
+Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMy
+wxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMsMTkx
+NTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0ND
+IsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4
+NTY2NDc1XX0=
 -->
