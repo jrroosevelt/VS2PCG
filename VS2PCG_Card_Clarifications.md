@@ -1610,7 +1610,9 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 # Inhibitor Collar
 *Set: Futures Past*
 
-A player can equip the Collar to a face-up character or a stunned character. If that character already has Equipment equipped, KO it. When an equipped face-up character is stunned, the Collar remains on (and face up). If a character equipped with the Collar h
+A player can equip the Collar to a face-up character or a stunned character. If that character already has Equipment equipped, KO it. When an equipped face-up character is stunned, the Collar remains on (and face up). If a character equipped with the Collar hides, KO the Collar (they must have figured out how to take it off)!
+
+^(Source: Rule Insert)
 
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
 *Set: The Herald*  
@@ -1734,7 +1736,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 **Immeasurable Identities** makes all Kang Supporting Characters you own into Main Characters. This effect lasts the whole game, even if your starting Kang Main Character gets KO'd. And remember - as long as you have any Main Characters on your side, you don't lose the game.
 
-^(Source: Rules Insert)
+^(Source: Rule Insert)
 
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-009.jpg) (SC)
 *Set: The Frightful*
@@ -1745,7 +1747,7 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 
 **Time Will Tell** sets Kang's base ATK/DEF to be equal to the **Future Date** you selected. It doesn't matter how many resources you currently have. **Time Will Tell** "locks in" when you select the **Future Date** before the game starts.
 
-^(Source: Rules Insert)
+^(Source: Rule Insert)
 
 # Kate (and Kitty) Pryde (MC)
 *Set: Futures Past*
@@ -4283,11 +4285,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNDgxMjYyLDE5NDYwNzg2NTEsMjA1ND
-QyMTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3
-MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLT
-IxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2
-MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNC
-wtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQz
-MTM0MDZdfQ==
+eyJoaXN0b3J5IjpbMTM5Njg2NDkwNywxOTQ2MDc4NjUxLDIwNT
+Q0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUx
+NzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC
+0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0
+NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMT
+QsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0
+MzEzNDA2XX0=
 -->
