@@ -1967,15 +1967,16 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 *Set: Futures Past*
 
 Here's how his **Canadian Resistance Colonel** works:
-* You can recruit characters from the three mutant teams face down (without revealing them), and if you do, they appear hidden (face down and ready) on your side, instead of face up.
-* While you still must pay normally for cards recruited this way (including any additional costs), you do not have to announce the recruit cost of the hidden cards you are recruiting.
-* For example, if you have 7 recruit points and you recruit a 3-cost and 4-cost character face down, you don't have to announce how much you paid for each one or how much you paid total. (However, you can't spend more recruit points than you have.)
+
+ - You can recruit characters from the three mutant teams face down (without revealing them), and if you do, they appear hidden (face down and ready) on your side, instead of face up.
+ - While you still must pay normally for cards recruited this way (including any additional costs), you do not have to announce the recruit cost of the hidden cards you are recruiting.
+ - For example, if you have 7 recruit points and you recruit a 3-cost and 4-cost character face down, you don't have to announce how much you paid for each one or how much you paid total. (However, you can't spend more recruit points than you have.)
     * You must also follow any other rules about recruiting, including any restrictions for when a character can appear, including uniqueness rules.
-* Hidden cards recruited this way mostly act like other hidden cards:
+ - Hidden cards recruited this way mostly act like other hidden cards:
     * They aren't stunned, can't have Equipment or +1/+1 or -1/-1 counters, can't be attacked, and lose their powers.
     * They keep their names and team affiliations.
     * During your Recovery Phase, you must turn hidden cards on your side face up when you recover your stunned characters.
- * There are exceptions to cards recruited this way when compared to normal hidden cards.
+ - There are exceptions to cards recruited this way when compared to normal hidden cards.
 	 * Only the cards' owner can look at them.
 	 * They can make attacks while hidden on the turn appear:
 		 * Cards with printed (flight) and (range) can make attacks while hidden as if they still had those powers.
@@ -4292,7 +4293,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODg0NDcwNywxOTQ2MDc4NjUxLDIwNT
+eyJoaXN0b3J5IjpbMTI1OTQ4NzM1MCwxOTQ2MDc4NjUxLDIwNT
 Q0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUx
 NzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC
 0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0
