@@ -1751,8 +1751,13 @@ Q: What if I use Singularity  to remove Kate Pryde from the battlefield. Does sh
 
 A: If multiple triggers occur at the same time, the turn player decides the order in which they resolve.
 Powers only affect characters in play, and Level up powers are not an exception.
-So, with Sing, if you activated her power: both Pocket Dimension and Past activate at end of turn, and the active player decides in which order to resolve them.
-If you resolve Pocket Dimension first, then Kate cannot gain the xp from Past, because she is not in play when it resolves.
+
+So, with Singularity, if you activated her power: both **Pocket Dimension** and **Past** activate at end of turn, and the active player decides in which order to resolve them.
+
+If you resolve **Pocket Dimension** first, then Kate cannot gain the XP from **Past**, because she is not in play when it resolves.
+
+^(Source: FB Post - Chad Daniel and others)
+
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
@@ -4201,11 +4206,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY2NjgyNjUsLTE4OTA4MTg0NTksMT
-IzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3
-Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMy
-wxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMsMTkx
-NTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0ND
-IsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4
-NTY2NDc1XX0=
+eyJoaXN0b3J5IjpbMTA3NjQxMTUxMywtMTg5MDgxODQ1OSwxMj
+M5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcy
+ODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLD
+EzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1
+NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0Mi
+wyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1
+NjY0NzVdfQ==
 -->
