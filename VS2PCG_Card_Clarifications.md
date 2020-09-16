@@ -48,7 +48,9 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 ^(Source: Rule insert)
 
 # Ahab
-You start the game with a private out-of-game Hound pile. The pile must contain exactl
+You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) who do not share any names and do not have any copies in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
+
+^(Source: Rules Insert)
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 *Set: Deadpool & Friends*  
@@ -4276,11 +4278,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMxMjkxOTYsMTk0NjA3ODY1MSwyMD
-U0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1
-MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NS
-wtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2
-NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2Mz
-E0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0
-NDMxMzQwNl19
+eyJoaXN0b3J5IjpbMTQ4ODA2MDg2OCwxOTQ2MDc4NjUxLDIwNT
+Q0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUx
+NzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC
+0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0
+NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMT
+QsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0
+MzEzNDA2XX0=
 -->
