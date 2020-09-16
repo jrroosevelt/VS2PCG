@@ -1747,7 +1747,7 @@ For her **Future** power, you get the resources after you have mulliganed (or de
 
 ---
 
-Q: What if I use Singularity  to remove Kate Pryde from the battlefield. Does she still get XP?
+Q: What if I use Singularity  to remove Kate Pryde from the battlefield. Does she still get XP from **Past**?
 
 A: If multiple triggers occur at the same time, the turn player decides the order in which they resolve.
 Powers only affect characters in play, and Level up powers are not an exception.
@@ -1760,7 +1760,9 @@ If you resolve **Pocket Dimension** first, then Kate cannot gain the XP from **P
 
 ---
 
-Q: What if I use **Invisibility** to Hide Kate Pryde. Does she still get XP?
+Q: What if I use **Invisibility** to **Hide** Kate Pryde. Does she still get XP from **Past**?
+
+A: 
 
 
 # The Kingpin
@@ -4209,11 +4211,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjE4NTAxNSwtMTg5MDgxODQ1OSwxMj
-M5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcy
-ODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLD
-EzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1
-NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0Mi
-wyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1
-NjY0NzVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTA2MDcwNDIsLTE4OTA4MTg0NTksMT
+IzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3
+Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMy
+wxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMsMTkx
+NTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0ND
+IsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4
+NTY2NDc1XX0=
 -->
