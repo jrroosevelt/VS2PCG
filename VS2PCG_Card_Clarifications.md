@@ -2681,7 +2681,11 @@ A: No. When you activate his power, take the top card of your deck and place it 
 # Nimrod (MC)
 *Set: Futures Past*
 
-With his **Enemy Power Analysis**, if the attacker has more than one of thelisted items, 
+With his **Enemy Power Analysis**, if the attacker has more than one of the listed items, Nimrod will get the respective powers from all of them, not just one.
+
+**Note:** "Keyword text" means Keyword Powers in the text box of a card - or in other words, all Keyword Powers except for (Flight) and (Range).
+
+^(Source: Rules Insert)
 
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
 *Set: The Utopia Battles*  
@@ -4269,7 +4273,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzI1NTA4NywyMDU0NDIxNTExLC03Nz
+eyJoaXN0b3J5IjpbMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03Nz
 Y3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4
 NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LD
 E3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0
