@@ -1758,10 +1758,13 @@ If you resolve **Pocket Dimension** first, then Kate cannot gain the XP from **P
 
 ^(Source: FB Post - Chad Daniel and others)
 
+---
+
+Q: What if I use **Invisibility** to Hide Kate Pryde. Does she still get XP?
+
 
 # The Kingpin
-## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
-*Set: Defenders*
+## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)*Set: Defenders*
 
 Q: When I discard a Location card to use a Super Power does that give Kingpin an XP?
 
@@ -4206,7 +4209,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjQxMTUxMywtMTg5MDgxODQ1OSwxMj
+eyJoaXN0b3J5IjpbMTg4NjE4NTAxNSwtMTg5MDgxODQ1OSwxMj
 M5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcy
 ODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLD
 EzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1
