@@ -1954,7 +1954,10 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 ## Logan SC)
 *Set: Futures Past*
 
-Here's how his **Canadian Resistance Colo
+Here's how his **Canadian Resistance Colonel** works:
+* You can recruit characters from the three mutant teams face down (without revealing them), and if you do, they appear hidden (face down and ready) on your side, instead of face up.
+* While you still must pay normally for cards recruited this way (includin
+
 ^(Source: Rule Insert)
 
 
@@ -4233,11 +4236,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMDkyOTA1LC02OTAwNzA4ODMsMTYzMj
-k5NTE3MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQx
-OTUsLTIxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMT
-c1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAz
-NjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NS
-wxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5
-MjE2OF19
+eyJoaXN0b3J5IjpbLTIwNDc1OTg5MTIsLTY5MDA3MDg4MywxNj
+MyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMy
+NDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMC
+wxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3
+MDM2MzE0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2OD
+g1LDE0NDMxMzQwNiwtNzYwMTg2NDQyLDI4NzUzMDkxMywtODgw
+MzkyMTY4XX0=
 -->
