@@ -1966,7 +1966,12 @@ Here's how his **Canadian Resistance Colonel** works:
  * There are exceptions to cards recruited this way when compared to normal hidden cards.
 	 * Only the cards' owner can look at them.
 	 * They can make attacks while hidden on the turn appear:
-		 * 
+		 * Cards with printed (flight) and (range) can make attacks while hidden as if they still had those powers.
+		 * Remember, these cards keep their team affiliations, so they can make team attacks as normal, even with face-up characters.
+		 * They don't exhaust when they attack.
+		 * Right before they strike, turn them face up and exhaust them.
+
+**Note:** Opponents will need to verify after 
  
 
 ^(Source: Rule Insert)
@@ -4247,11 +4252,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNTQ0OTgxLC02OTAwNzA4ODMsMTYzMj
-k5NTE3MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQx
-OTUsLTIxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMT
-c1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAz
-NjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NS
-wxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5
-MjE2OF19
+eyJoaXN0b3J5IjpbLTM1MjQxNjQxOCwtNjkwMDcwODgzLDE2Mz
+I5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0
+MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLD
+E3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcw
+MzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4OD
+UsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAz
+OTIxNjhdfQ==
 -->
