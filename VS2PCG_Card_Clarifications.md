@@ -1941,6 +1941,11 @@ Editor's note: On the flip side, the characters brought **Along for the Ride** w
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/613412785925390355) 
 
+# Logan (MC)
+*Set: Futures Past*
+
+Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Timeline**)
+
 # Loki
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
@@ -4216,11 +4221,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjk5NTE3MCwtMTg5MDgxODQ1OSwxMj
-M5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcy
-ODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLD
-EzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1
-NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2MDE4NjQ0Mi
-wyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcxNDgxODYxMCw3Mzg1
-NjY0NzVdfQ==
+eyJoaXN0b3J5IjpbLTE0OTA3MTU5ODcsMTYzMjk5NTE3MCwtMT
+g5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0
+MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OC
+wxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUw
+MTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MD
+YsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5MjE2OCwtMTcx
+NDgxODYxMF19
 -->
