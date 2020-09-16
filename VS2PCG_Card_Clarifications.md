@@ -1963,7 +1963,7 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 
 ^(Source: Rule Insert)
 
-## Logan SC)
+## Logan (SC)
 *Set: Futures Past*
 
 Here's how his **Canadian Resistance Colonel** works:
@@ -4293,11 +4293,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTQ4NzM1MCwxOTQ2MDc4NjUxLDIwNT
-Q0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUx
-NzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC
-0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0
-NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcwMzYzMT
-QsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0
-MzEzNDA2XX0=
+eyJoaXN0b3J5IjpbLTEyMDc1OTc1OTQsMTk0NjA3ODY1MSwyMD
+U0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1
+MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NS
+wtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2
+NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2Mz
+E0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0
+NDMxMzQwNl19
 -->
