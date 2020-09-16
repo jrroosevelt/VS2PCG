@@ -1954,10 +1954,7 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 ## Logan SC)
 *Set: Futures Past*
 
-Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Timeline**) to every Level 3 Wolverine on your side. As of this Issue, there is only one Level 3 Wolverine (from the 2017 Vs. System 2PCG: Legacy issue). 
-
-**Note:** Logan is from an alternate future timeline, so although Wolverine Levels Up into him, you can have a Wolverine Supporting Character on your side with the Logan Main Character.
-
+Here's how his **Canadian Resistance Colo
 ^(Source: Rule Insert)
 
 
@@ -4236,11 +4233,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTI1MDc0OCwtNjkwMDcwODgzLDE2Mz
-I5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0
-MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLD
-E3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDExODcw
-MzYzMTQsLTE1MDExNzcwODMsMTkxNTQxMDQ3Nyw5NzgxNTY4OD
-UsMTQ0MzEzNDA2LC03NjAxODY0NDIsMjg3NTMwOTEzLC04ODAz
-OTIxNjhdfQ==
+eyJoaXN0b3J5IjpbODYxMDkyOTA1LC02OTAwNzA4ODMsMTYzMj
+k5NTE3MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQx
+OTUsLTIxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMT
+c1NjQ2MTk2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAz
+NjMxNCwtMTUwMTE3NzA4MywxOTE1NDEwNDc3LDk3ODE1Njg4NS
+wxNDQzMTM0MDYsLTc2MDE4NjQ0MiwyODc1MzA5MTMsLTg4MDM5
+MjE2OF19
 -->
