@@ -2678,7 +2678,10 @@ A: No. When you activate his power, take the top card of your deck and place it 
 
 ^(Source: Rule insert)
 
-# Nimrod
+# Nimrod (MC)
+*Set: Futures Past*
+
+With his **Enemy Power Analysis**, if the attacker has more than one of thelisted items, 
 
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
 *Set: The Utopia Battles*  
@@ -4266,11 +4269,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgwMzg3ODksMjA1NDQyMTUxMSwtNz
-c2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgx
-ODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NS
-wxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgx
-NDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3Nz
-A4MywxOTE1NDEwNDc3LDk3ODE1Njg4NSwxNDQzMTM0MDYsLTc2
-MDE4NjQ0Ml19
+eyJoaXN0b3J5IjpbMTUxMzI1NTA4NywyMDU0NDIxNTExLC03Nz
+Y3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4
+NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LD
+E3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0
+MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MD
+gzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYw
+MTg2NDQyXX0=
 -->
