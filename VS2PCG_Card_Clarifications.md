@@ -50,7 +50,7 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 # Ahab
 You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) who do not share any names and do not have any copies in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
 
-^(Source: Rules Insert)
+^(Source: Rule Insert)
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 *Set: Deadpool & Friends*  
@@ -1755,7 +1755,7 @@ Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In 
 
 For her **Future** power, you get the resources after you have mulliganed (or decided not to mulligan).
 
-^(Source: Rules Insert)
+^(Source: Rule Insert)
 
 ---
 
@@ -2480,6 +2480,13 @@ A: No, because stunned character lose their powers including the Ranged symbol.
 
 ^(Source: UDE FAQ)
 
+# Mutant Control Act
+*Set: Futures Past*
+
+This Plot Twist 
+
+^(Source: Rule Insert)
+
 # Mysterio
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC)
 *Set: Sinister Syndicate*  
@@ -2697,7 +2704,7 @@ With his **Enemy Power Analysis**, if the attacker has more than one of the list
 
 **Note:** "Keyword text" means Keyword Powers in the text box of a card - or in other words, all Keyword Powers except for (Flight) and (Range).
 
-^(Source: Rules Insert)
+^(Source: Rule Insert)
 
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
 *Set: The Utopia Battles*  
@@ -4285,7 +4292,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5Njg2NDkwNywxOTQ2MDc4NjUxLDIwNT
+eyJoaXN0b3J5IjpbMTMxNzIxNTM2NiwxOTQ2MDc4NjUxLDIwNT
 Q0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUx
 NzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC
 0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0
