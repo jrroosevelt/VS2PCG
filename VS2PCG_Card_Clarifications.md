@@ -1756,7 +1756,7 @@ So, with Singularity, if you activated her power: both **Pocket Dimension** and 
 
 If you resolve **Pocket Dimension** first, then Kate cannot gain the XP from **Past**, because she is not in play when it resolves.
 
-^(Source: FB Post - Chad Daniel and others)
+^([Source: FB Post - Chad Daniel and others](https://www.facebook.com/groups/860168987351982/permalink/3123728254329366/))
 
 ---
 
@@ -1768,7 +1768,7 @@ However the keyword **Invisibility** states:
 > At the end of your turn, if this character is ready, you may hide it.
 
 It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** would both trigger at the same time. Even if **Invisibility** resolves first and hides Kate Pryde, the level up power **Past** has already triggered and will continue to resolve.
-
+^([Source: FB Post - Chad Daniel and others](https://www.facebook.com/groups/860168987351982/permalink/3123728254329366/))
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)*Set: Defenders*
@@ -4216,7 +4216,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzY4NzYzNCwtMTg5MDgxODQ1OSwxMj
+eyJoaXN0b3J5IjpbMTYzMjk5NTE3MCwtMTg5MDgxODQ1OSwxMj
 M5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcy
 ODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLD
 EzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4MywxOTE1
