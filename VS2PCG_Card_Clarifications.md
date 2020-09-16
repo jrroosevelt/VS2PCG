@@ -1762,7 +1762,11 @@ If you resolve **Pocket Dimension** first, then Kate cannot gain the XP from **P
 
 Q: What if I use **Invisibility** to **Hide** Kate Pryde. Does she still get XP from **Past**?
 
-A: 
+A: In order for **Past** (her level up power) to trigger, Kate Pryde must be face-up and in play.
+
+However, with the keyword, **Invisibility**. It states,
+At the end of your turn, if this character is ready, you may hide it.
+It is an End of Turn trigger like Past, so Past and Invisibility would both trigger at the same time. Even if Invisibility resolves first and hides Kate Pryde, the level up power Past has already triggered and will continue to resolve.
 
 
 # The Kingpin
@@ -4211,11 +4215,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA2MDcwNDIsLTE4OTA4MTg0NTksMT
-IzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3
-Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMy
-wxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMsMTkx
-NTQxMDQ3Nyw5NzgxNTY4ODUsMTQ0MzEzNDA2LC03NjAxODY0ND
-IsMjg3NTMwOTEzLC04ODAzOTIxNjgsLTE3MTQ4MTg2MTAsNzM4
-NTY2NDc1XX0=
+eyJoaXN0b3J5IjpbNzg5NTU4NDcxLC0xODkwODE4NDU5LDEyMz
+k2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4
+NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMT
+M4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLDE5MTU0
+MTA0NzcsOTc4MTU2ODg1LDE0NDMxMzQwNiwtNzYwMTg2NDQyLD
+I4NzUzMDkxMywtODgwMzkyMTY4LC0xNzE0ODE4NjEwLDczODU2
+NjQ3NV19
 -->
