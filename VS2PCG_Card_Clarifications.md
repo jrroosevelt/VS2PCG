@@ -1783,7 +1783,8 @@ It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** wou
 ^([Source: FB Post - Chad Daniel and others](https://www.facebook.com/groups/860168987351982/permalink/3123728254329366/))
 
 # The Kingpin
-## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)*Set: Defenders*
+## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
+*Set: Defenders*
 
 Q: When I discard a Location card to use a Super Power does that give Kingpin an XP?
 
@@ -4293,11 +4294,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc1OTc1OTQsMTk0NjA3ODY1MSwyMD
-U0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1
-MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NS
-wtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2
-NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwxMTg3MDM2Mz
-E0LC0xNTAxMTc3MDgzLDE5MTU0MTA0NzcsOTc4MTU2ODg1LDE0
-NDMxMzQwNl19
+eyJoaXN0b3J5IjpbLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMT
+k0NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3
+MDg4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4Nj
+MsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMw
+NDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4Nz
+YzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLDE5MTU0MTA0Nzcs
+OTc4MTU2ODg1XX0=
 -->
