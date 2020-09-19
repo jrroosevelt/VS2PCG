@@ -525,6 +525,12 @@ When this character KOs a defending character in melee combat and survives, put 
 # Violent  
 While attacking a supporting character, this character strikes with double its ATK.  
   
+# Vitality Counter
+A vitality counter is essentially the opposite of a wound counter. It gives a character +1 Health and remains on the character while the character is stunned. However, if a character has both a wound counter and vitality counter, they cancel out – remove one of each until the character only has one type.
+
+**Example:** A character has 2 vitality counters. It gets stunned and gains a wound. You’ll now remove one vitality counter and one wound counter. It now has 1 vitality counter left.
+
+^(Source: Upper Deck Blog)
 
 # Wealthy  
  At the start of your Build Phase, gain a recruit point.  
@@ -549,9 +555,9 @@ While attacking a supporting character, this character strikes with double its A
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjE1NzI1LDEyMzg0NTEyMzUsLTIxND
-cwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5NjM1LDM0NDUwODE5
-OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MDc4NzA5MSwxNjg2MD
-YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
-LDMxMDM5NzkwLDE1OTQ4NDE4OTddfQ==
+eyJoaXN0b3J5IjpbLTE5ODU4OTYzMCw0OTgyMTU3MjUsMTIzOD
+Q1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMTE5OTk2
+MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMDM2NjY4LDcwNz
+g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
+LDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
 -->
