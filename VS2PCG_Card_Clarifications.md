@@ -65,7 +65,7 @@ Q: Does his power imply that fatal wounds at the end of the turn is the ONLY way
 
 A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Trask) can KO him normally.
 
-^(Source: FB Post - Danny Mandel)
+^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/))
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -4302,11 +4302,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODg2MjY1LC0xMTEzMTI0NTI0LC0xMj
-A3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwtNzc2NzI2
-MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgxODQ1OS
-wxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1
-OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMT
-MzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4Mywx
-OTE1NDEwNDc3XX0=
+eyJoaXN0b3J5IjpbMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMT
+IwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3Njcy
+NjM0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NT
+ksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcx
+NTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMD
+EzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMs
+MTkxNTQxMDQ3N119
 -->
