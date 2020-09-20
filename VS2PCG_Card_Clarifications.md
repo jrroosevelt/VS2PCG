@@ -63,7 +63,9 @@ Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the 
 
 Q: Does his power imply that fatal wounds at the end of the turn is the ONLY way to KO him? For example, if a character power or card effect would KO him directly (such as Simon Trask's Human Sentinel One), is he still KO'd?
 
-A: 
+A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Trask) can KO him normally.
+
+^(Source: FB Post - Danny Mandel)
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -4300,11 +4302,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MDQ0MDAsLTExMTMxMjQ1MjQsLTEyMD
-c1OTc1OTQsMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYz
-NDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LD
-EyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5
-NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMz
-MsMTM4MTA4NzYzMSwxMTg3MDM2MzE0LC0xNTAxMTc3MDgzLDE5
-MTU0MTA0NzddfQ==
+eyJoaXN0b3J5IjpbMTg3ODg2MjY1LC0xMTEzMTI0NTI0LC0xMj
+A3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwtNzc2NzI2
+MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgxODQ1OS
+wxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1
+OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMT
+MzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwtMTUwMTE3NzA4Mywx
+OTE1NDEwNDc3XX0=
 -->
