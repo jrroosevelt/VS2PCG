@@ -2536,7 +2536,7 @@ Plot twists without team affiliations can be played  regardless of the team affi
 ^(Source: Rule insert)
 
 # Mystique
-## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC)
+## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - )
 *Set: Legacy*  
 
 **Identity Theft**  
@@ -4314,11 +4314,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMT
-EzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQy
-MTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MC
-wtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLTIx
-OTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MT
-k2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwt
-MTUwMTE3NzA4M119
+eyJoaXN0b3J5IjpbNTE0MjE5MDMxLDEzMDY0NDgxNTAsMTc2Mj
+M2NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4
+NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLD
+E2MzI5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAw
+MzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OT
+EwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDEx
+ODcwMzYzMTRdfQ==
 -->
