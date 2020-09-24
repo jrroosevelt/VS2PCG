@@ -309,7 +309,7 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 # Blindspot
 *Set: Freedom Force*
 
-If *Memory Thief* sets a character's base health to 1, and that character has a wound, it will get KO'd.
+If **Memory Thief** sets a character's base health to 1, and that character has a wound, it will get KO'd.
 
 ^(Source: Rule insert)
 
@@ -3145,7 +3145,7 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 ^(Source: Rule insert)
 
 ## Rogue (SC - Brotherhood)
-*Set: Permanent Power Absorption*
+*Set: Freedom Force*
 
 **Permanent Power Absorption** works like this: Rogue gains an ATK, DEF, and Health increase equal to the KO'd character's printed ATK, DEF, and Health respectively. She also gains that character's printed keyword and super powers. These gains last until Rogue leaves play.
 
@@ -4374,11 +4374,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjM5NTc0OSwtMTA5MDI2NDM0LC0xNz
-ExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0
-ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NT
-k0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC02
-OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgxODQ1OSwxMjM5Nj
-Y0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcyODUy
-LC0zMDQ3Mjc5MTBdfQ==
+eyJoaXN0b3J5IjpbMTAzODc5Nzk3MiwxMTgyMzk1NzQ5LC0xMD
+kwMjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2
+NDEyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1Mj
+QsLTEyMDc1OTc1OTQsMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03
+NzY3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwOD
+E4NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1
+LDE3MTU5NzI4NTJdfQ==
 -->
