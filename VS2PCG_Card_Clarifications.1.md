@@ -759,6 +759,13 @@ While this card is face down in your Resource Row, you can play it as if it was 
 
 ^(Source: Rule insert)
 
+# Destiny
+*Set: Freedom Force*
+
+If a player would draw two or more at a time (including during their Draw Phase), **Precognition** will let you look at the top card of their deck before and after each individual draw. In other words, you’ll get to see each card they draw.
+
+^(Source: Rule insert)
+
 # Devil Dinosaur
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-113.jpg) Team Affiliations
 *Set: Monsters Unleashed!*  
@@ -2536,7 +2543,7 @@ Plot twists without team affiliations can be played  regardless of the team affi
 ^(Source: Rule insert)
 
 # Mystique
-## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC)
+## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - Femme Fatale)
 *Set: Legacy*  
 
 **Identity Theft**  
@@ -2589,6 +2596,24 @@ For example, if Spider Ham attacks Mystique while Madame Web is in his side, giv
 A: Mystique matches power including all modifiers, so she’d gain 7 attack. It would say “printed attack” if it worked the other way.
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
+
+## Mystique (MC - Freedom Force)
+*Set: Freedom Force*
+**Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
+
+^(Source: Rule Insert)
+
+---
+
+With **The Perfect Metamorph**, you may choose a face-down character. If the chosen character would get stunned by  **The Perfect Metamorph**  but it’s already stunned, nothing else happens. (Neither it nor Mystique get stunned.) If the chosen character is no longer in play when Mystique would be stunned, Mystique gets stunned normally.
+
+Keep in mind, the effect from  **The Perfect Metamorph**  lasts until Mystique gets stunned. If it allows her to avoid getting stunned, the effect remains active. In other words, a single use of the power could prevent several stuns to Mystique.
+
+Even if  **The Perfect Metamorph**  is active, Mystique can use it again to change her name and affiliations, and to have a different enemy character become her new potential stun replacement.
+
+Note: If Mystique takes the name of a unique character with the same name as a supporting character on your side, that supporting character will get KO’d.
+
+^(Source: Rule Insert)
 
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
 *Set: The Marvel Battles**
@@ -4314,11 +4339,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjQ0ODE1MCw3Mzg1NjY0NzUsMTE0Nj
-cwNDU5MCwtMTQyNjc5NTc5LDY2Nzc1NDY1NSwxNDY4MTEwMjM5
-LDQwMjczMjEyLDE2NDkwNzU4MzIsLTE5NzY4NDM5ODQsMTQ1Mj
-M1NDEwNiwxMTU5NDQ1MTA2LC0xMDU2ODMwNzYyLC0xMDkxNjAz
-ODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNj
-csLTEwNzg0MzEyOTksMTg1NjM4NzkwMiwtNTUxNDUzMzg5LC0y
-MTUzNTE4M119
+eyJoaXN0b3J5IjpbLTE3MTE0MDAzNjIsMTMwNjQ0ODE1MCw3Mz
+g1NjY0NzUsMTE0NjcwNDU5MCwtMTQyNjc5NTc5LDY2Nzc1NDY1
+NSwxNDY4MTEwMjM5LDQwMjczMjEyLDE2NDkwNzU4MzIsLTE5Nz
+Y4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LC0xMDU2ODMw
+NzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
+ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4NzkwMiwt
+NTUxNDUzMzg5XX0=
 -->
