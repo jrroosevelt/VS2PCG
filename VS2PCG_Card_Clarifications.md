@@ -367,6 +367,12 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 
 ^(Source: Rule insert)
 
+# Brotherhood
+*Set: Freedom Force*
+When you play Brotherhood there must be two exhausted face-up characters that share a team affiliation on your side. Or else the effect does nothing.
+
+^
+
 # [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
 *Set: The MCU Battles*  
 
@@ -3145,7 +3151,7 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 
 However, once Rogue absorbs the stats and powers from a character, she loses **Permanent Power Absorption**.
 
-^(Source: Rule Insert
+^(Source: Rule Insert)
 
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC - A-Force)
 *Set: A-Force*  
@@ -4368,11 +4374,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNDY3MTc5LC0xMDkwMjY0MzQsLTE3MT
-E0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4
-MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OT
-QsMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5
-MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2Nj
-Q4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIs
-LTMwNDcyNzkxMF19
+eyJoaXN0b3J5IjpbLTkxODY5Mzg4OCwtMTA5MDI2NDM0LC0xNz
+ExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0
+ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NT
+k0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC02
+OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgxODQ1OSwxMjM5Nj
+Y0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcyODUy
+LC0zMDQ3Mjc5MTBdfQ==
 -->
