@@ -2592,12 +2592,13 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 
 ## Mystique (MC - Freedom Force)
 *Set: Freedom Force*
+**Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she ahas that affiliation and is on your side.
 
-With **The Perfect Metamorph**, you may choose a face-down character. If the chosen character would get stunned by  **The Perfect Metamorph**  but it’s already stunned, nothing else happens. (Neither it nor Mystique get stunned.) However, if the chosen character is no longer in play when Mystique would be stunned, Mystique gets stunned normally.
+With **The Perfect Metamorph**, you may choose a face-down character. If the chosen character would get stunned by  **The Perfect Metamorph**  but it’s already stunned, nothing else happens. (Neither it nor Mystique get stunned.) If the chosen character is no longer in play when Mystique would be stunned, Mystique gets stunned normally.
 
 Keep in mind, the effect from  **The Perfect Metamorph**  lasts until Mystique gets stunned. If it allows her to avoid getting stunned, the effect remains active. In other words, a single use of the power could prevent several stuns to Mystique.
 
-Finally, even if  **The Perfect Metamorph**  is active, Mystique can use it again to change her name and affiliations, and to have a different enemy character become her new potential stun replacement.
+Even if  **The Perfect Metamorph**  is active, Mystique can use it again to change her name and affiliations, and to have a different enemy character become her new potential stun replacement.
 
 Note: If Mystique takes the name of a unique character with the same name as a supporting character on your side, that supporting character will get KO’d.
 
@@ -4325,11 +4326,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4OTc0NTU4LC00MDI4NjQxMjgsMTMwNj
-Q0ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3
-NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC
-02OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgxODQ1OSwxMjM5
-NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcyOD
-UyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLDEz
-ODEwODc2MzFdfQ==
+eyJoaXN0b3J5IjpbMTQ5MjQxMDQyNCwtNDAyODY0MTI4LDEzMD
+Y0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5
+NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0My
+wtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NTksMTIz
+OTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mj
+g1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMywx
+MzgxMDg3NjMxXX0=
 -->
