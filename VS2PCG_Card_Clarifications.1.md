@@ -2609,7 +2609,7 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
-## Mystique (MC - Freedom Force)
+## Mystique (MC - Brotherhood)
 *Set: Freedom Force*
 **Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
 
@@ -3138,7 +3138,12 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 
 ^(Source: Rule insert)
 
-## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC)
+## Rogue (SC - Brotherhood)
+*Set: Permanent Power Absorption*
+
+**Permanent Power 
+
+## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC - A-Force)
 *Set: A-Force*  
 
 **Absorb Powers**  
@@ -4359,7 +4364,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTc4MTc2MCwxMzA2NDQ4MTUwLDczOD
+eyJoaXN0b3J5IjpbLTEwOTAyNjQzNCwxMzA2NDQ4MTUwLDczOD
 U2NjQ3NSwxMTQ2NzA0NTkwLC0xNDI2Nzk1NzksNjY3NzU0NjU1
 LDE0NjgxMTAyMzksNDAyNzMyMTIsMTY0OTA3NTgzMiwtMTk3Nj
 g0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3
