@@ -301,6 +301,11 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 
 ^(Source: Rule insert)
 
+# Blindspot
+*Set: Freedom Force*
+
+If *Memory Thief* sets a character's base health to 1, and that character has a wound, it will get KO'd.
+
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
 *Set: Crossover*  
@@ -4339,11 +4344,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLT
-QwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMx
-MjQ1MjQsLTEyMDc1OTc1OTQsMTk0NjA3ODY1MSwyMDU0NDIxNT
-ExLC03NzY3MjYzNDMsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0x
-ODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5OD
-QxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4
-LDE0ODE0MDAxMzNdfQ==
+eyJoaXN0b3J5IjpbNDYyNjMyNjI2LC0xNzExNDAwMzYyLC0xNj
+E1NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1
+NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NT
+EsMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYz
+Mjk5NTE3MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMj
+QxOTUsLTIxOTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAs
+MTc1NjQ2MTk2OF19
 -->
