@@ -371,7 +371,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 *Set: Freedom Force*
 When you play Brotherhood there must be two exhausted face-up characters that share a team affiliation on your side. Or else the effect does nothing.
 
-^
+^(Source: Rule Insert)
 
 # [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
 *Set: The MCU Battles*  
@@ -4374,7 +4374,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODY5Mzg4OCwxMzA2NDQ4MTUwLDczOD
+eyJoaXN0b3J5IjpbMTE4MjM5NTc0OSwxMzA2NDQ4MTUwLDczOD
 U2NjQ3NSwxMTQ2NzA0NTkwLC0xNDI2Nzk1NzksNjY3NzU0NjU1
 LDE0NjgxMTAyMzksNDAyNzMyMTIsMTY0OTA3NTgzMiwtMTk3Nj
 g0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3
