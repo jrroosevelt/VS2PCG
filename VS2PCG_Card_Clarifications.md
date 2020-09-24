@@ -3141,7 +3141,11 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 ## Rogue (SC - Brotherhood)
 *Set: Permanent Power Absorption*
 
-**Permanent Power 
+**Permanent Power Absorption** works like this: Rogue gains an ATK, DEF, and Health increase equal to the KO'd character's printed ATK, DEF, and Health respectively. She also gains that character's printed keyword and super powers. These gains last until Rogue leaves play.
+
+However, once Rogue absorbs the stats and powers from a character, she loses **Permanent Power Absorption**.
+
+^(Source: Rule Insert
 
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC - A-Force)
 *Set: A-Force*  
@@ -4364,11 +4368,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAyNjQzNCwtMTY2NzgyODI5OCwtMT
-cxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MTI4LDEzMDY0
-NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5Nz
-U5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0Mywt
-NjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NTksMTIzOT
-Y2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1
-MiwtMzA0NzI3OTEwXX0=
+eyJoaXN0b3J5IjpbNjgyNDY3MTc5LC0xMDkwMjY0MzQsLTE3MT
+E0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4
+MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OT
+QsMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5
+MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2Nj
+Q4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIs
+LTMwNDcyNzkxMF19
 -->
