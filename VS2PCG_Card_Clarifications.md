@@ -759,6 +759,10 @@ While this card is face down in your Resource Row, you can play it as if it was 
 
 ^(Source: Rule insert)
 
+# Destiny
+* Set: Freedom Force *
+* 
+
 # Devil Dinosaur
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-113.jpg) Team Affiliations
 *Set: Monsters Unleashed!*  
@@ -4328,11 +4332,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMz
-A2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1
-OTc1OTQsMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzND
-MsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEy
-Mzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5Nz
-I4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMs
-MTM4MTA4NzYzMV19
+eyJoaXN0b3J5IjpbLTMxNTcxMDQwNCwtMTYxNTc2OTUzNiwtND
+AyODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEy
+NDUyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MT
+EsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4
+OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4ND
+EyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5Njgs
+MTQ4MTQwMDEzM119
 -->
