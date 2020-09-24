@@ -13,7 +13,9 @@ The following card-specific information is a culmination of clarifications, rule
 
 For additional information, see also:
 
-* [Rule changes, bans, errata, and clarifications](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
+* [Rule changes, bans, errata, and clarifications](/r/VS2PCG/wiki/rulings)
+
+* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossaryhttps://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
 
 * [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
@@ -47,7 +49,25 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 
 ^(Source: Rule insert)
 
+# Ahab
+You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) who do not share any names and do not have any copies in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
+
+^(Source: Rule Insert)
+
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
+*Set: Deadpool & Friends*  
+
+Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
+
+^(Source: Rule insert)
+
+---
+
+Q: Does his power imply that fatal wounds at the end of the turn is the ONLY way to KO him? For example, if a character power or card effect would KO him directly (such as Simon Trask's Human Sentinel One), is he still KO'd?
+
+A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Trask) can KO him normally.
+
+^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)[Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 *Set: Deadpool & Friends*  
 
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
@@ -75,6 +95,7 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 >If a character that is equipped with the Alien Symbiote gains an equipment card, put the Alien Symbiote in the KO pile.
 
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
+
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 *Set: The Utopia Battles*  
@@ -105,6 +126,18 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 
 ^(Source: Rule insert)
 
+# [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
+*Set: The Frightful*
+
+**Lord of the Negative Zone** allows you to include up to two Negative Zone Locations in your deck. (If Mister Fantastic is in your deck your Invention pile will also include its usual two Negative Zones.)
+
+**The Living Death That Walks** grants 1 XP for each of the listed actions. So if Annihilus attacks, strikes, and stuns a defending character, but somehow doesn't wound or KO it, he will gain 3 XP.
+
+When Annihilus levels up, you'll shuffle his Level 1 card into your deck. While it's in your hand you may reveal it for his **Continuous Rebirth** power. (You can also discard it to Power Up Annihilus. Put the discarded card into your Level Up zone, which is where his Level 2 card started the game.
+
+^(Source: Rule Insert)
+
+
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
 *Set: The Buffy Battles*
 
@@ -130,6 +163,12 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw or Legacy), you do not have to pay the additional cost of wounding Silver Surfer.  
 ^Source: [^FB ^Community ^Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
 
+# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
+*Set: The Utopia Battles*  
+
+**Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
+
+^(Source: Rule insert)
 
 # [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
 *Set: Crossover* 
@@ -419,6 +458,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 *Set: Cosmic Avengers*  
 
 His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
+
 * "Do you have any Plot Twists in your hand?"  
 * "Do you have any Fin Fang Fooms in your hand?"  
 * "Do you have a 7 cost card in your hand?"
@@ -555,6 +595,7 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 ---
 
 **Protector of Hell's Kitchen**
+
 Q: If I attack Daredevil with Mary Walker (Typhoid Mary) and I put a -1/-1 counter on Daredevil and one on the only character he's protecting which happens to have 1 defense (like Black Widow), KO'ing her, does Daredevil gets an XP?
 
 A: The turn player decides the order per page 9 of the rule book under "Timing." Daredevil's level up power has an intervening "if" clause, which means the condition must be true when it triggers AND when it resolves. So if the turn player decides to resolve Mary Walker's power before Daredevil's power, Daredevil will not get an XP because he won't be protecting anyone once his level up power resolves. On the other hand, if the turn player decides to resolve Daredevil's power before Mary's then Daredevil will gain an XP.
@@ -566,6 +607,20 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ^(Source: Rule insert)
 
+# [Dark Beast](http://vs.tcgbrowser.com/images/cards/big/TUB-042.jpg)
+*Set: Utopia Battles*
+
+Q: Dark Beast SC2. "Pay 2 less to play evil equipment." Outside of Darkhold, how does one define "evil" equipment?
+
+A: [Good or Evil](/r/VS2PCG/wiki/good_or_evil) affiliations are typically based on the [Team Affiliation](/r/VS2PCG/wiki/glossary#wiki_team_affiliation) of the card. 
+
+For example: Power Loader would be Good because it has The Company team affiliation, but Omega Machine would be Evil because it is H.A.M.M.E.R. affiliated.
+
+However, for this specific question it should be noted that Darkhold is neutral. It does require you to have a Marvel character, but Marvel isn't a Team Affiliation and doesn't make the card Good or Evil. So Darkhold - even though it can only be equipped to an Evil character -  is not Evil itself (and would *not* benefit from Dark Beast's power).
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/606578749281927181)
+
+
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
 *Set: Crossover*  
 
@@ -575,7 +630,7 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 * **+1/+1 and -1/-1 counters:** Remove all of those counters from the game. Remove the phrases “+1/+1 counter” and “-1/-1 counter” from all card text. For the rest of the game, ignore any effects that would cause these counters to enter the game in any way 
  
 * **Equipment**: Remove all Equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and Equipment that are already removed from the game. This also includes any cards that were once Equipment cards but don’t currently count as Equipment (such as a face-down resource or an Equipment that has become a character via Arnim Zola’s   
-**ESP Box**). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
+**ESP Box** ). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
 
 * **Keyword text:** Removing this concept doesn’t affect **Flight** and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
  
@@ -1056,6 +1111,11 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 
 ^(Source: Rule insert)
 
+# [Fallen One](http://vs.tcgbrowser.com/images/cards/big/FRI-011.jpg)
+*Set: The Frightful*
+
+When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. However, if Fallen One's strike already had enough ATK to stun them, **Fallen Herald** won't do anything. (In other words, **Fallen Herald** won't cause Galactus or Thanos to become stunned twice in one combat.)
+
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
 *Set: The Herald*  
 
@@ -1152,6 +1212,15 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 *Set: The Fantastic Battles*  
 
 This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores (Flight), (Range), and team restrictions for an attack.
+
+^(Source: Rule Insert)
+
+# [Galactus](http://vs.tcgbrowser.com/images/cards/big/FRI-018.jpg) (SC)
+*Set: The Frightful*
+
+**The Monster of All Worlds** removes locations from everywhere. To resolve it, each player reveals their hand, deck, resources (including face-down ones), KO pile, and any out-of-game piles. All locations with that name are removed from the game. Then each player shuffles their deck.
+
+^(Source: Rule Insert)
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
@@ -1355,7 +1424,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 *Set: Cosmic Avengers*  
 
-Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
+Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PlLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
 
@@ -1368,6 +1437,14 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 
 
 ^(Source: Rule insert)
+
+---
+
+Q: Do cards from the **Custom Quiver** go to the KO pile once played?
+
+A: Yes.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/622921783787388930)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -1481,6 +1558,14 @@ A: Yes, but it won't do anything.
 
 ^(Source: UDE FAQ)
 
+---
+
+Q: Can Iceman’s freeze ability target a stunned /character?
+
+A: Yes. The character would recover its next turn, but it wouldn't ready.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
+
 # Impersonating Powers
 *Set: Utopia Battles*   
 
@@ -1541,6 +1626,13 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 Each of the six Infinity Gems has an "Owned by..." power which lets you play it for free on the appropriate character. For example, The Mind Gem can be played for free on The Grandmaster. You may notice that some of these powers refer to characters that aren't yet part of the game. Weird, right?
 
 ^(Source: Rule insert)
+
+# Inhibitor Collar
+*Set: Futures Past*
+
+A player can equip the Collar to a face-up character or a stunned character. If that character already has Equipment equipped, KO it. When an equipped face-up character is stunned, the Collar remains on (and face up). If a character equipped with the Collar hides, KO the Collar (they must have figured out how to take it off)!
+
+^(Source: Rule Insert)
 
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
 *Set: The Herald*  
@@ -1658,6 +1750,58 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 ^(Source: Rule insert)
 
+# Kang
+## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-006.jpg) (MC)
+*Set: The Frightful*
+
+**Immeasurable Identities** makes all Kang Supporting Characters you own into Main Characters. This effect lasts the whole game, even if your starting Kang Main Character gets KO'd. And remember - as long as you have any Main Characters on your side, you don't lose the game.
+
+^(Source: Rule Insert)
+
+## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-009.jpg) (SC)
+*Set: The Frightful*
+
+If any number of Kangs are in your deck, **The Tomorrow War** lets you pick a single **Future Date** before players draw their opening hands during setup. A **Future Date** is represented by a whole number from 1-10. It counts as being that "Date" while you have exactly that many resources.
+
+So if you pick 7 as your **Future Date**, Kang can only appear while you have exactly seven resources. (On the bright side, he's free.) Note: If you forget to pick a **Future Date** at the beginning of the game, the game acts as though you chose 10 as the Date. 
+
+**Time Will Tell** sets Kang's base ATK/DEF to be equal to the **Future Date** you selected. It doesn't matter how many resources you currently have. **Time Will Tell** "locks in" when you select the **Future Date** before the game starts.
+
+^(Source: Rule Insert)
+
+# Kate (and Kitty) Pryde (MC)
+*Set: Futures Past*
+Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
+
+For her **Future** power, you get the resources after you have mulliganed (or decided not to mulligan).
+
+^(Source: Rule Insert)
+
+---
+
+Q: What if I use Singularity  to remove Kate Pryde from the battlefield. Does she still get XP from **Past**?
+
+A: If multiple triggers occur at the same time, the turn player decides the order in which they resolve.
+Powers only affect characters in play, and Level up powers are not an exception.
+
+So, with Singularity, if you activated her power: both **Pocket Dimension** and **Past** activate at end of turn, and the active player decides in which order to resolve them.
+
+If you resolve **Pocket Dimension** first, then Kate cannot gain the XP from **Past**, because she is not in play when it resolves.
+
+^([Source: FB Post - Chad Daniel and others](https://www.facebook.com/groups/860168987351982/permalink/3123728254329366/))
+
+---
+
+Q: What if I use **Invisibility** to **Hide** Kate Pryde. Does she still get XP from **Past**?
+
+A: In order for **Past** (her level up power) to trigger, Kate Pryde must be face-up and in play.
+
+However the keyword **Invisibility** states:
+> At the end of your turn, if this character is ready, you may hide it.
+
+It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** would both trigger at the same time. Even if **Invisibility** resolves first and hides Kate Pryde, the level up power **Past** has already triggered and will continue to resolve.
+^([Source: FB Post - Chad Daniel and others](https://www.facebook.com/groups/860168987351982/permalink/3123728254329366/))
+
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
 *Set: Defenders*
@@ -1755,6 +1899,15 @@ See [Fin Fang Foom](#wiki_fin_fang_foom).
 
 ^(Source: Rule insert)
 
+# Leviathon Twin Drake
+*Set: Crossover Vol. 1*
+
+Q: The first line of **Leviathon Overseer** says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work? 
+
+A: All characters with **Comet Fall** gain an additional instance of **Comet Fall**. So when one such character appears, it now puts two -1/-1 counters on each opposing character.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/625832553487663127)
+
 # [Life on the Hellmouth](http://vs.tcgbrowser.com/images/cards/big/TBB-057.jpg) 
 *Set: The Buffy Battles*  
 
@@ -1810,6 +1963,53 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 
 ^(Source: Rule insert)
 
+# [Lockjaw](http://vs.tcgbrowser.com/images/cards/big/MMU-056.jpg)
+*Set: Monsters Unleashed*
+
+Q: How does Lockjaw’s **Along for the Ride** work? Do the characters that come into play still get their Appear abilities?
+
+A: Yes. Any time a character appears they get the Appear trigger - even when put into play by a game effect and not a recruit.
+
+Editor's note: On the flip side, the characters brought **Along for the Ride** will not trigger any Recruit abilities because they are not being Recruited. For example, [Ardina's](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_ardina) **Clone of the Silver Surfer** ability will not trigger. 
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/613412785925390355) 
+
+# Logan 
+## Logan (MC)
+*Set: Futures Past*
+
+Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Timeline**) to every Level 3 Wolverine on your side. As of this Issue, there is only one Level 3 Wolverine (from the 2017 Vs. System 2PCG: Legacy issue). 
+
+**Note:** Logan is from an alternate future timeline, so although Wolverine Levels Up into him, you can have a Wolverine Supporting Character on your side with the Logan Main Character.
+
+^(Source: Rule Insert)
+
+## Logan (SC)
+*Set: Futures Past*
+
+Here's how his **Canadian Resistance Colonel** works:
+
+ - You can recruit characters from the three mutant teams face down (without revealing them), and if you do, they appear hidden (face down and ready) on your side, instead of face up.
+ - While you still must pay normally for cards recruited this way (including any additional costs), you do not have to announce the recruit cost of the hidden cards you are recruiting.
+ - For example, if you have 7 recruit points and you recruit a 3-cost and 4-cost character face down, you don't have to announce how much you paid for each one or how much you paid total. (However, you can't spend more recruit points than you have.)
+    * You must also follow any other rules about recruiting, including any restrictions for when a character can appear, including uniqueness rules.
+ - Hidden cards recruited this way mostly act like other hidden cards:
+    * They aren't stunned, can't have Equipment or +1/+1 or -1/-1 counters, can't be attacked, and lose their powers.
+    * They keep their names and team affiliations.
+    * During your Recovery Phase, you must turn hidden cards on your side face up when you recover your stunned characters.
+ - There are exceptions to cards recruited this way when compared to normal hidden cards.
+	 * Only the cards' owner can look at them.
+	 * They can make attacks while hidden on the turn appear:
+		 * Cards with printed (flight) and (range) can make attacks while hidden as if they still had those powers.
+		 * Remember, these cards keep their team affiliations, so they can make team attacks as normal, even with face-up characters.
+		 * They don't exhaust when they attack.
+		 * Right before they strike, turn them face up and exhaust them.
+
+**Note:** Opponents will need to verify after cards recruited this way are turned face up that they were played within the rules, especially in regard to their costs.
+ 
+^(Source: Rule Insert)
+
+
 # Loki
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
@@ -1847,6 +2047,7 @@ Q: Does Loyal Soldiers care about the affiliation of stunned characters on your 
 A: Yes, characters keep their affiliations even when they are stunned.
 
 ^(Source: Tim Saunders, FB Post - Chad Daniel)
+
 
 # [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 
@@ -1939,6 +2140,15 @@ In this set Magneto gets a whole new main character card, and this time  it goes
 
 ^(Source: Rule insert)
 
+# [The Maker](http://vs.tcgbrowser.com/images/cards/big/FRI-015.jpg)
+*Set: The Frightful*
+
+If the Maker is in your deck, you get to have the usual Invention pile, plus you can add up to five Equipment to it. They must be different cards (same name but different game text is fine) and can’t already have the Keyword  **Invention**. (You can also include copies of those Equipment in your deck if you like, and the copies in your Invention pile don’t count against them. For example, you can have a  **One of a Kind** Equipment in your deck and the same one in your Invention pile.)
+
+**Note**: While the Maker (and only the Maker) can Invent those Equipment, you can still only play them if you meet their play requirements. For example, if the Maker invents a (Hydra) Cosmic Cube, you get to put it into your hand. But you still can’t play it unless you have a character with the Hydra team affiliation on your side.
+
+^(Source: Rule insert)
+
 # Mandarin
 ## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
 *Set: The MCU Battles*  
@@ -2010,6 +2220,24 @@ Masacre es el Deadpool de México, por eso el texto de su juego está escrito en
 When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you mach choose to play a random card from your Tactics pile. If you do, follow the instructions under its Tactic. Then put the card into your KO pile. When Mastermind leaves play, you'll leave your Tactics pile where it is. A player can only have one Tactics pile at a time. Later, if Mastermind appears on your side again, and you can (and want to) add more Tactics from your hand or deck, add them to your existing Tactics pile. Note: One of Mastermind's Tactics sets an attacker's ATK to 0 this combat. That character can still gain ATK later in the combat.
 
 ^(Source: Rule insert)
+
+# Match
+*Set: The Utopia Battles*
+
+Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
+
+A: When he strikes a Defender, his strike *is* the -1/-1 counters. These aren't applied, however, until the combat is resolved. So, let's say that his opponent is 4/4 and is in position to strike back. Both Match and the Defender would strike simultaneously. The Defender hits with 4/4, Match hits with his counters (which haven't yet resolved). Match would be stunned by the strike back, and then the Defender would be reduced to 0/0 with the counters and would also be stunned.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/709929676856098886) 
+
+
+---
+
+Q: Match's ability says, "If Match would strike a defender, put -1/-1 counters equal to his ATK on that defender instead." Does that mean this ability only applies when Match is attacking? (Not when he is striking back as a defender.)
+
+A: Correct.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/732730395120107581)
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
 *Set: Webheads*  
@@ -2140,6 +2368,35 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 [This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
 
+---
+
+Mimic’s  **Absorption History**  does not allow you to copy any “setup” powers from the Level 1 Main Character in his Absorption History pile.
+
+From the Absorption History rules:
+
+>During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super powers only when the game begins.
+
+When the game begins, it is past the point when you would have needed to resolve any setup powers.
+
+-   For example, Scarlet Spider’s  **Spider-Clone**  power takes effect during Setup. But since Mimic gains Scarlet Spider’s power once the game begins, it’s too late for it to affect anything.
+-   Similarly, Mimic gaining the  **Sinister Six**  keyword from one of those characters won’t do anything.
+
+There is one weird case we’re going to mention here since it includes cards from the latest story arc (First Family).
+
+If Mimic has Doctor Doom (Level 1 or Level 2) or Mister Fantastic (Level 2) in his Absorption History, that will not grant Mimic an Invention pile. However, if you already have an Invention pile (because you have a supporting character  **Inventor**  in your deck) while Mimic is in an **Inventor** he will be able to access your Invention pile.
+
+The Mimic Main Character is found in the Vs. System 2PCG: H.A.M.M.E.R. expansion.
+
+^(Source: [UDE Official Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
+
+---
+
+Q: When using whichever lvl character from the **Absorption History** pile, which team affiliation does one use: Mimic's (H.A.M.M.E.R.) or the absorption power character's team?  
+
+A: Mimic gains their powers, not team affiliations. Mimic is H.A.M.M.E.R. - it doesn't matter what his absorb guy is for any reason. That card isn't even technically in play.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/621777031813660676)
+
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
 *Set: New Mutants*   
 
@@ -2179,6 +2436,15 @@ Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Location
 If he is beneath a Location and it gets turned face down (including by being used for a super power) or leaves play, put him into your back row. If he is beneath a face-down resource and it leaves play, put him into your back row.
 
 ^(Source: Rule insert)
+
+# Moloid
+*Set: The Fantastic Battles*
+
+Q: Which side does Moloid check to determine the ATK boost?
+
+A: Though it's not totally clear, "that" refers to the opponent against whom you were attacking. So if you had 3 face down resources and your opponent had 5, Moloid would get +5 ATK when it attacked.
+
+^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3136234033078788/))
 
 # [Moon Girl](http://vs.tcgbrowser.com/images/cards/big/MMU-054.jpg)
 *Set: Monsters Unleashed!*  
@@ -2235,6 +2501,13 @@ Q: Does Ms. Marvel's **Energy Absorption** count stunned characters?
 A: No, because stunned character lose their powers including the Ranged symbol.
 
 ^(Source: UDE FAQ)
+
+# Mutant Control Act
+*Set: Futures Past*
+
+This Plot Twist will stop "recruit" and "appears" powers.
+
+^(Source: Rule Insert)
 
 # Mysterio
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC)
@@ -2306,6 +2579,16 @@ Since this does not use "While" we know it is locked in at resolution. As long a
 In the example given by the OP, the +3 ATK gained by her Super Power would continue to apply after she is level 2.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
+
+---
+
+Q: With **Masquerade**, Does Mystique gain that character’s base ATK, or their current attack including counters/modifiers/etc?
+
+For example, if Spider Ham attacks Mystique while Madame Web is in his side, giving him 8/4, and Mystique uses masquerade, does she gain attack up to 6 (since this is spider ham’s base ATK) or does she gain attack up to 8 (since he has +2/+2 from madame web)? So would she gain 5 XP or  7 XP?
+
+A: Mystique matches power including all modifiers, so she’d gain 7 attack. It would say “printed attack” if it worked the other way.
+
+^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
 *Set: The Marvel Battles**
@@ -2436,6 +2719,15 @@ A: No. When you activate his power, take the top card of your deck and place it 
 
 ^(Source: Rule insert)
 
+# Nimrod (MC)
+*Set: Futures Past*
+
+With his **Enemy Power Analysis**, if the attacker has more than one of the listed items, Nimrod will get the respective powers from all of them, not just one.
+
+**Note:** "Keyword text" means Keyword Powers in the text box of a card - or in other words, all Keyword Powers except for (Flight) and (Range).
+
+^(Source: Rule Insert)
+
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
 *Set: The Utopia Battles*  
 
@@ -2561,6 +2853,15 @@ Q: Pain and Suffering has to played be during combat but does it have to target 
 A: Pain and Suffering can only affect a character in the combat.
 
 ^(Source: Danny Mandel)
+
+# [Paladin](http://vs.tcgbrowser.com/images/cards/big/HAM-013.jpg)
+*Set: H.A.M.M.E.R*
+
+Q: Does this guy have to be face-up after the combat for his ability to work?
+
+A: No. As long as he stuns the defender, the power is applied, even if Paladin is stunned as a result of the combat.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/595302528631963648)
 
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
@@ -2693,6 +2994,19 @@ A: Once Purple man's power has been activated and resolved, it is independent of
 Pyro’s **Fire Manipulation** power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
 
 ^(Source: Rule insert)
+
+# Rachel Summers (MC)
+*Set: Futures Past*
+
+**Powerful Heritage** and **Daughter of the Phoenix** refer  to the "card title" for Phoenix and Dark Phoenix. This means the name at the very top of the card must be Phoenix or Dark Phoenix. **AKA**s don't count.
+
+Here are the cards as of this Issue for her **Daughter of the Phoenix**.
+
+Currently, Rachel gets the existing **Teke Shield**, **Life Incarnate**, and **What Was, What Is, What Will Be** at Level 2.
+
+**Note**: Future releases that include Phoenix or Dark Phoenix card titles will make Rachel even more powerful!
+
+^(Source: Rule Inserts)
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 *Set: Black Order*  
@@ -2857,6 +3171,16 @@ Royce’s supporting character has this Super Power. It allows him to move a wou
 The Runner is so fast he can actually attack during your Build Phase. This means you can recruit characters and equipment after the Runner attacks. (You could even recruit a new copy of Runner and attack with it!) Note: The Runner attacking during the Build Phase does count as a regular Combat so **Combat** Super Powers and Plot Twists, and power ups can be used during a Build Phase combat. However, during the combat you can't use any **Build** Super Powers and Plot Twists.
 
 ^(Source: Rule insert)
+
+# [Sabretooth](http://vs.tcgbrowser.com/images/cards/big/BOM-006.jpg) (MC)
+*Set: Brotherhood of Mutants*
+
+Q: On Sabretooth's level up it says at the end of "each turn". Because it doesn't say "your turn" does this mean he gains XP at the end of my opponent's turn as well. Or does it mean after both I and my opponent have had a turn?
+
+A: Yes he gains an XP for every turn he is face up; both yours and your opponent's.
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/594442510458290189)
+
 
 # [Sacred Ground](http://vs.tcgbrowser.com/images/cards/big/TUB-029.jpg) 
 *Set: The Utopia Battles*  
@@ -3602,6 +3926,13 @@ An infinite loop was discovered when [Taskmaster](https://i.imgur.com/85KjJHT.jp
 
 ^(Source: Official clarification)
 
+# [Terrax](http://vs.tcgbrowser.com/images/cards/big/FRI-016.jpg)
+*Set: The Frightful*
+
+If **Cosmic Geokinesis** moves all +1/+1 counters onto a  character that has any -1/-1 counters, first doulbe the +1/+1 counters, then remove the required amount due to the -1/-1 counters.
+
+^(Source: Rule insert)
+
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
 *Set: Crossover vol. 2*  
 
@@ -3904,6 +4235,22 @@ Here are the four Plot Twists he has at his disposal:
 
 ^(Source: Rule insert)
 
+---
+
+**Wizard Armor**  reads:
+
+>While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surprise, or Best Offense is A Good Defense plot twist.
+
+When you use **Wizard Armor,** ignore everything about the plot twist you’re holding and play it entirely as an Open Fire, Find Cover, etc.
+
+If the plot twist has a play restriction you can’t meet (for example a team affiliation symbol you don’t have on your side) it doesn’t matter.
+
+Similarly, if a Plot Twist has a play benefit (like Death Trap) you don’t get to make use of it.
+
+The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles set.
+
+^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
+
 # [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
 *Set: The Marvel Battles*
 
@@ -3967,11 +4314,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0Mj
-Y3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwx
-NjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OT
-Q0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTky
-NTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMj
-k5LDE4NTYzODc5MDIsLTU1MTQ1MzM4OSwtMjE1MzUxODMsMTI2
-OTczNDA3MF19
+eyJoaXN0b3J5IjpbMTMwNjQ0ODE1MCw3Mzg1NjY0NzUsMTE0Nj
+cwNDU5MCwtMTQyNjc5NTc5LDY2Nzc1NDY1NSwxNDY4MTEwMjM5
+LDQwMjczMjEyLDE2NDkwNzU4MzIsLTE5NzY4NDM5ODQsMTQ1Mj
+M1NDEwNiwxMTU5NDQ1MTA2LC0xMDU2ODMwNzYyLC0xMDkxNjAz
+ODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNj
+csLTEwNzg0MzEyOTksMTg1NjM4NzkwMiwtNTUxNDUzMzg5LC0y
+MTUzNTE4M119
 -->
