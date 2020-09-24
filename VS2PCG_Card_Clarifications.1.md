@@ -3029,7 +3029,10 @@ A: Once Purple man's power has been activated and resolved, it is independent of
 ## Pyro (MC)
 *Set: Freedom Force*
 
-His Level 2 **Trailblazer** ability does allow him to search for characters he gave **Burn Notice** to 
+His Level 2 **Trailblazer** ability does allow him to search for characters he gave **Burn Notice** to with his Level 1 **Pyro to the People**.
+
+^(Source: Rule Insert)
+
 ## [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg) (SC)
 *Set: Brotherhood of Mutants*  
 
@@ -4356,11 +4359,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMjk3OTU1LDEzMDY0NDgxNTAsNzM4NT
-Y2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3OSw2Njc3NTQ2NTUs
-MTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MDc1ODMyLC0xOTc2OD
-QzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwtMTA1NjgzMDc2
-MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC
-0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4NTYzODc5MDIsLTU1
-MTQ1MzM4OV19
+eyJoaXN0b3J5IjpbLTE1NzgwODU3OTAsMTMwNjQ0ODE1MCw3Mz
+g1NjY0NzUsMTE0NjcwNDU5MCwtMTQyNjc5NTc5LDY2Nzc1NDY1
+NSwxNDY4MTEwMjM5LDQwMjczMjEyLDE2NDkwNzU4MzIsLTE5Nz
+Y4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LC0xMDU2ODMw
+NzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
+ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4NzkwMiwt
+NTUxNDUzMzg5XX0=
 -->
