@@ -1,5 +1,5 @@
 
-[BACK TO INDEX](/r/VS2PCG/wiki/index)
+[BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
   
 # Card clarifications and FAQs
 
@@ -15,7 +15,9 @@ For additional information, see also:
 
 * [Rule changes, bans, errata, and clarifications](/r/VS2PCG/wiki/rulings)
 
-* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary )
+* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossaryhttps://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
+
+* [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
 
 
 
@@ -65,7 +67,12 @@ Q: Does his power imply that fatal wounds at the end of the turn is the ONLY way
 
 A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Trask) can KO him normally.
 
-^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/))
+^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)[Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
+*Set: Deadpool & Friends*  
+
+Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
+
+^(Source: Rule insert)
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -90,7 +97,12 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
 
+# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
+*Set: The Utopia Battles*  
 
+**Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
+
+^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
 *Set: Resistance*  
@@ -149,7 +161,7 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 
 ---
 If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw or Legacy), you do not have to pay the additional cost of wounding Silver Surfer.  
-^Source: [^FB Community Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
+^Source: [^FB ^Community ^Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 *Set: The Utopia Battles*  
@@ -546,7 +558,7 @@ With **All Bark, No Flight** each power lost grants 1 XP. So if a character lose
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/BAN-001.jpg) (SC - MNB-061)
 *Set: The Marvel Battles*
 
-[This card has been banned](/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
+[This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
 *Set: The Utopia Battles*  
@@ -1120,7 +1132,7 @@ A: No, the power specifically says it can not be turned off.
 
 Chad Daniel - FB Post
 
-Editor's note: One exception to this is [Dark Phoenix (SC)](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off **Creature**.
+Editor's note: One exception to this is [Dark Phoenix (SC)](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off **Creature**.
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
 *Set: Monsters Unleashed!*  
@@ -1228,7 +1240,7 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 
 ---
 
-[This card has received errata.](/r/VS2PCG/wiki/rulings#wiki_gambit_mc)
+[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_gambit_mc)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/mnb-041.jpg) (SC)
 *Set: The Marvel Battles*
@@ -1412,16 +1424,16 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 # [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
 *Set: Cosmic Avengers*  
 
-Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat Plot Twists he doesn't have to be in the combat himself (he can shoot really far). 
+Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PlLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
 
-* **[Sniper]/r/VS2PCG/wiki/glossary#wiki_sniper)**   
-* **[Stealth](/r/VS2PCG/wiki/glossary#wiki_stealth)**  
-* **[Lethal](/r/VS2PCG/wiki/glossary#wiki_lethal)**  
-* **[Violent](/r/VS2PCG/wiki/glossary#wiki_violent)**  
-* **[Shrink](/r/VS2PCG/wiki/glossary#wiki_shrink)**  
-* **[Freeze](/r/VS2PCG/wiki/glossary#wiki_freeze)** 
+* **[Sniper](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_sniper)**   
+* **[Stealth](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_stealth)**  
+* **[Lethal](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_lethal)**  
+* **[Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)**  
+* **[Shrink](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_shrink)**  
+* **[Freeze](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_freeze)** 
 
 
 ^(Source: Rule insert)
@@ -1519,7 +1531,7 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 ---
 
-[This card has received errata](/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
+[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 *Set: Spidey-Foes*  
@@ -1605,7 +1617,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 
 ---
 
-[This card has received errata](/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
+[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
 *Set: Black Order*  
@@ -1729,7 +1741,7 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 # [Jungle Hunter](http://vs.tcgbrowser.com/images/cards/big/PRD-006.jpg) (MC)
 *Set: The Predator Battles*
 
-[This card has a misprint.](/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
+[This card has a misprint.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
 *Set: MCU Villains*  
@@ -2354,7 +2366,7 @@ When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorp
 
 ---
 
-[This card has received errata.](/r/VS2PCG/wiki/rulings#wiki_mimic)
+[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
 
 ---
 
@@ -2475,11 +2487,11 @@ When Mr. Black and the defender strike each other:
 
 ---
 
-[This card has a misprint (or errata?).](/r/VS2PCG/wiki/rulings#wiki_mr._black_mc)
+[This card has a misprint (or errata?).](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mr._black_mc)
 
 ---
 
-[See also Devil Slayer](/r/VS2PCG/wiki/rules-insert#wiki_devil_slayer) for a similar ability question.
+[See also Devil Slayer](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_devil_slayer) for a similar ability question.
 
 # [Ms. Marvel](http://vs.tcgbrowser.com/images/cards/big/mnb-017.jpg)
 *Set: The Marvel Battles*
@@ -2513,7 +2525,7 @@ When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignor
 
 ---
 
-[This card has a misprint](/r/VS2PCG/wiki/rulings#wiki_mysterio_mc).
+[This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mysterio_mc).
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-008.jpg) (SC)
 *Set: Sinister Syndicate*  
@@ -2784,7 +2796,7 @@ These are four different One of a Kind Equipment that have the same name. Unlike
 
 ^(Source: Rule insert)
 
-See also: [Machine](/r/VS2PCG/wiki/glossary#wiki_machine)
+See also: [Machine](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_machine)
 
 # [Omega Red](http://vs.tcgbrowser.com/images/cards/big/CV1-019.jpg)
 *Set: Crossover*  
@@ -2911,7 +2923,7 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 # [Private Hudson](http://vs.tcgbrowser.com/images/cards/big/ALN-019.jpg)
 *Set: The Alien Battles*
 
-[This card has a misprint](/r/VS2PCG/wiki/rulings#wiki_private_hudson).
+[This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_private_hudson).
 
 # Professor X
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-033.jpg) (MC - The Marvel Battles)
@@ -3278,7 +3290,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 # [Shadowcat](http://vs.tcgbrowser.com/images/cards/big/LEG-014.jpg)
 *Set: Legacy*
 
-[This card has received errata.](/r/VS2PCG/wiki/rulings#wiki_shadowcat_sc) 
+[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_shadowcat_sc) 
 
 # [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
 *Set: Brotherhood of Mutants*  
@@ -3399,7 +3411,7 @@ A: No, each SC would give you the opportunity to use the Reaction power, but onl
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/BAN-004.jpg) (SC - AFF-015)
 *Set A-Force*
 
-The original [Singularity SC was banned](/r/VS2PCG/wiki/rulings#wiki_singularity_sc_.28a-force_set.29).
+The original [Singularity SC was banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_singularity_sc_.28a-force_set.29).
 
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/aff-015.jpg) (SC - AFF-015*)
 *Set: A-Force*
@@ -3626,7 +3638,7 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 # [The Space Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-022.jpg)
 *Set: Black Order*
 
-[This card has received errata](/r/VS2PCG/wiki/rulings#wiki_the_space_gem_.28black_order_set.29).
+[This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_the_space_gem_.28black_order_set.29).
 
 # [Specialized Web Cartridges](http://vs.tcgbrowser.com/images/cards/big/WEB-024.jpg)
 *Set: Webheads*  
@@ -3933,7 +3945,7 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BAN-002.jpg) (MC - MNB-085)
 *Set: The Marvel Battles*
 
-[This card has been banned](/r/VS2PCG/wiki/rulings#wiki_thanos_mc_.28marvel_battles.29).
+[This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_thanos_mc_.28marvel_battles.29).
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-085.jpg) (MC - MNB-085)
 *Set: Legacy*
@@ -4302,11 +4314,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMT
-IwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3Njcy
-NjM0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NT
-ksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcx
-NTk3Mjg1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMD
-EzMywxMzgxMDg3NjMxLDExODcwMzYzMTQsLTE1MDExNzcwODMs
-MTkxNTQxMDQ3N119
+eyJoaXN0b3J5IjpbMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMT
+EzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQy
+MTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MC
+wtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUsLTIx
+OTg0MTI2NSwxNzE1OTcyODUyLC0zMDQ3Mjc5MTAsMTc1NjQ2MT
+k2OCwxNDgxNDAwMTMzLDEzODEwODc2MzEsMTE4NzAzNjMxNCwt
+MTUwMTE3NzA4M119
 -->
