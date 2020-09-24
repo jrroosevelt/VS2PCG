@@ -3131,7 +3131,7 @@ Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two ca
 ^(Source: Rule insert)
 
 # Rogue
-## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC)
+## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC - Resistance)
 *Set: Resistance*  
 
 Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
@@ -4359,11 +4359,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgwODU3OTAsMTMwNjQ0ODE1MCw3Mz
-g1NjY0NzUsMTE0NjcwNDU5MCwtMTQyNjc5NTc5LDY2Nzc1NDY1
-NSwxNDY4MTEwMjM5LDQwMjczMjEyLDE2NDkwNzU4MzIsLTE5Nz
-Y4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2LC0xMDU2ODMw
-NzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLTIxMzg3MDQ3Mj
-ksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1NjM4NzkwMiwt
-NTUxNDUzMzg5XX0=
+eyJoaXN0b3J5IjpbMTg0MTc4MTc2MCwxMzA2NDQ4MTUwLDczOD
+U2NjQ3NSwxMTQ2NzA0NTkwLC0xNDI2Nzk1NzksNjY3NzU0NjU1
+LDE0NjgxMTAyMzksNDAyNzMyMTIsMTY0OTA3NTgzMiwtMTk3Nj
+g0Mzk4NCwxNDUyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3
+NjIsLTEwOTE2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOS
+wtMTg0NjgyNDA2NywtMTA3ODQzMTI5OSwxODU2Mzg3OTAyLC01
+NTE0NTMzODldfQ==
 -->
