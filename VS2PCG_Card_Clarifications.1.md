@@ -179,6 +179,11 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 
 ^(Source: Rule insert)
 
+# Astra
+*Set: Freedom Force*
+
+To create a **Clone** put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character but nothing else. It appears face up and ready and does not appear with any counters or status effects (like **Burn**). Uniquen
+
 # Avalanche
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/BOM-009.jpg) (Brotherhood)
 *Set: Brotherhood of Mutants*  
@@ -305,6 +310,8 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 *Set: Freedom Force*
 
 If *Memory Thief* sets a character's base health to 1, and that character has a wound, it will get KO'd.
+
+^(Source: Rule insert)
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
@@ -4344,7 +4351,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNjMyNjI2LDEzMDY0NDgxNTAsNzM4NT
+eyJoaXN0b3J5IjpbOTk0OTExNjEzLDEzMDY0NDgxNTAsNzM4NT
 Y2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3OSw2Njc3NTQ2NTUs
 MTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MDc1ODMyLC0xOTc2OD
 QzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwtMTA1NjgzMDc2
