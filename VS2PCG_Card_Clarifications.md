@@ -2591,6 +2591,15 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
 ## Mystique (MC - Freedom Force)
+*Set: Freedom Force*
+
+With **The Perfect Metamorph**, you may choose a face-down character. If the chosen character would get stunned by  **The Perfect Metamorph**  but it’s already stunned, nothing else happens. (Neither it nor Mystique get stunned.) However, if the chosen character is no longer in play when Mystique would be stunned, Mystique gets stunned normally.
+
+Keep in mind, the effect from  **The Perfect Metamorph**  lasts until Mystique gets stunned. If it allows her to avoid getting stunned, the effect remains active. In other words, a single use of the power could prevent several stuns to Mystique.
+
+Finally, even if  **The Perfect Metamorph**  is active, Mystique can use it again to change her name and affiliations, and to have a different enemy character become her new potential stun replacement.
+
+Note: If Mystique takes the name of a unique character with the same name as a supporting character on your side, that supporting character will get KO’d.
 
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
 *Set: The Marvel Battles**
@@ -4316,11 +4325,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3Nj
-IzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0NjA3
-ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4My
-wxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEw
-MDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNz
-kxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwx
-MTg3MDM2MzE0XX0=
+eyJoaXN0b3J5IjpbODM4OTc0NTU4LC00MDI4NjQxMjgsMTMwNj
+Q0ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3
+NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC
+02OTAwNzA4ODMsMTYzMjk5NTE3MCwtMTg5MDgxODQ1OSwxMjM5
+NjY0ODYzLDIxMDAzMjQxOTUsLTIxOTg0MTI2NSwxNzE1OTcyOD
+UyLC0zMDQ3Mjc5MTAsMTc1NjQ2MTk2OCwxNDgxNDAwMTMzLDEz
+ODEwODc2MzFdfQ==
 -->
