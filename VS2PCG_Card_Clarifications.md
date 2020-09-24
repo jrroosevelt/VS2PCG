@@ -2609,7 +2609,7 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
-## Mystique (MC - Freedom Force)
+## Mystique (MC - Brotherhood)
 *Set: Freedom Force*
 **Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
 
@@ -3131,14 +3131,19 @@ Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two ca
 ^(Source: Rule insert)
 
 # Rogue
-## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC - Resistance)
+## [Rogue](http://vs.tcgbrowser.com/images/cards/big/RES-005.jpg) (MC)
 *Set: Resistance*  
 
 Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her **Force Transfer** and **Life Transfer** will each give her 2 XP when they are used.
 
 ^(Source: Rule insert)
 
-## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC)
+## Rogue (SC - Brotherhood)
+*Set: Permanent Power Absorption*
+
+**Permanent Power 
+
+## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC - A-Force)
 *Set: A-Force*  
 
 **Absorb Powers**  
@@ -4359,11 +4364,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTc4MTc2MCwtMTcxMTQwMDM2MiwtMT
-YxNTc2OTUzNiwtNDAyODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2
-NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4Nj
-UxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2
-MzI5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAwMz
-I0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OTEw
-LDE3NTY0NjE5NjhdfQ==
+eyJoaXN0b3J5IjpbLTE2Njc4MjgyOTgsLTE3MTE0MDAzNjIsLT
+E2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3NjIz
+NjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0NjA3OD
+Y1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4Mywx
+NjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEwMD
+MyNDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNzkx
+MCwxNzU2NDYxOTY4XX0=
 -->
