@@ -2592,7 +2592,9 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 
 ## Mystique (MC - Freedom Force)
 *Set: Freedom Force*
-**Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she ahas that affiliation and is on your side.
+**Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
+
+---
 
 With **The Perfect Metamorph**, you may choose a face-down character. If the chosen character would get stunned by  **The Perfect Metamorph**  but it’s already stunned, nothing else happens. (Neither it nor Mystique get stunned.) If the chosen character is no longer in play when Mystique would be stunned, Mystique gets stunned normally.
 
@@ -4326,11 +4328,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjQxMDQyNCwtNDAyODY0MTI4LDEzMD
-Y0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5
-NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0My
-wtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NTksMTIz
-OTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mj
-g1MiwtMzA0NzI3OTEwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMywx
-MzgxMDg3NjMxXX0=
+eyJoaXN0b3J5IjpbLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMz
+A2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1
+OTc1OTQsMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzND
+MsLTY5MDA3MDg4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEy
+Mzk2NjQ4NjMsMjEwMDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5Nz
+I4NTIsLTMwNDcyNzkxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMs
+MTM4MTA4NzYzMV19
 -->
