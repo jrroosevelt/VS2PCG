@@ -2536,7 +2536,7 @@ Plot twists without team affiliations can be played  regardless of the team affi
 ^(Source: Rule insert)
 
 # Mystique
-## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - )
+## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - Femme Fatale)
 *Set: Legacy*  
 
 **Identity Theft**  
@@ -2589,6 +2589,8 @@ For example, if Spider Ham attacks Mystique while Madame Web is in his side, giv
 A: Mystique matches power including all modifiers, so she’d gain 7 attack. It would say “printed attack” if it worked the other way.
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
+
+## Mystique (MC - Freedom Force)
 
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
 *Set: The Marvel Battles**
@@ -4314,11 +4316,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MjE5MDMxLDEzMDY0NDgxNTAsMTc2Mj
-M2NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4
-NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLD
-E2MzI5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2MywyMTAw
-MzI0MTk1LC0yMTk4NDEyNjUsMTcxNTk3Mjg1MiwtMzA0NzI3OT
-EwLDE3NTY0NjE5NjgsMTQ4MTQwMDEzMywxMzgxMDg3NjMxLDEx
-ODcwMzYzMTRdfQ==
+eyJoaXN0b3J5IjpbLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3Nj
+IzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0NjA3
+ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4My
+wxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMsMjEw
+MDMyNDE5NSwtMjE5ODQxMjY1LDE3MTU5NzI4NTIsLTMwNDcyNz
+kxMCwxNzU2NDYxOTY4LDE0ODE0MDAxMzMsMTM4MTA4NzYzMSwx
+MTg3MDM2MzE0XX0=
 -->
