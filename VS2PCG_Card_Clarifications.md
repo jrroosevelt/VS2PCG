@@ -182,7 +182,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 # Astra
 *Set: Freedom Force*
 
-To create a **Clone** put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character but nothing else. It appears face up and ready and does not appear with any counters or status effects (like **Burn**). Uniquen
+To create a **Clone** put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character but nothing else. It appears face up and ready and does not appear with any counters or status effects (like **Burn**). Uniqueness does apply to the token.
 
 # Avalanche
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/BOM-009.jpg) (Brotherhood)
@@ -3025,7 +3025,12 @@ A: Once Purple man's power has been activated and resolved, it is independent of
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-# [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg)
+# Pyro
+## Pyro (MC)
+*Set: Freedom Force*
+
+His Level 2 **Trailblazer** ability does allow him to search for characters he gave **Burn Notice** to 
+## [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg) (SC)
 *Set: Brotherhood of Mutants*  
 
 Pyro’s **Fire Manipulation** power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
@@ -4351,7 +4356,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0OTExNjEzLC0xNzExNDAwMzYyLC0xNj
+eyJoaXN0b3J5IjpbMzIxMjk3OTU1LC0xNzExNDAwMzYyLC0xNj
 E1NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1
 NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NT
 EsMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYz
