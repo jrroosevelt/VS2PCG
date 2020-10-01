@@ -2379,16 +2379,6 @@ See [Nova Corps](#wiki_nova_corps)
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
 *Set: H.A.M.M.E.R.*  
 
-Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
-
-During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
-
-When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
-
-**Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
-
-
-^(Source: Rule insert)
 
 ---
 
@@ -4375,11 +4365,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NzM5OTA2LDExODIzOTU3NDksMTMwNj
-Q0ODE1MCw3Mzg1NjY0NzUsMTE0NjcwNDU5MCwtMTQyNjc5NTc5
-LDY2Nzc1NDY1NSwxNDY4MTEwMjM5LDQwMjczMjEyLDE2NDkwNz
-U4MzIsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2
-LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLT
-IxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1
-NjM4NzkwMl19
+eyJoaXN0b3J5IjpbLTkxODQ4NDQ5OCwxMTgyMzk1NzQ5LDEzMD
+Y0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3
+OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MD
+c1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEw
+NiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC
+0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4
+NTYzODc5MDJdfQ==
 -->
