@@ -2406,7 +2406,6 @@ At the time of this writing (September 2020), your choices at each level are:
 
 - Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
 - Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
-
 Level 3: Jean Grey, Professor X
 
 **Note:** While Mimic  _can_  copy Professor X’s Level 3  **Graduation**  super power, he won’t actually be able to  **Graduate**  any X-Men. (This is because the Graduation super power requires a Graduation pile, and you only get to bring a Graduation pile if Professor X is your main character, not if Professor X’s power is being copied. Look for an upcoming rules update that clarifies how out-of-game piles work.)
@@ -2415,7 +2414,7 @@ During setup when you reveal in his Absorption History pile.
 
 From the Absorption History rules:
 
->During setup when you reveal Mimic as your Main Character, you’ll also rMimic as evel  Level er in your Absorption History. Mimic gains its Keyword and Super powers only when the game begins.
+>During setup when you reveal cter, you’ll also rMimic as evel  Level er in your Absorption History. Mimic gains its Keyword and Super powers only when the game begins.
 
 When the game begins, it is past the point when you would have needed to resolve any setup powers.
 
@@ -2424,9 +2423,9 @@ When the game begins, it is past the point when you would have needed to resolve
 
 There is one weird case we’re going to mention here since it includes cards from the latest story arc (First Family).
 
-If Mimic has your Main Character, you’ll also rDoctor Doom (Leveal the1 or Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
+If Mimic has your Main Character, you’ll also rDoctor Doom (Leveal the1 orMimic as your Main Chara the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
 
-When Mimic becomes Level 2, you’ll reveal the Level 2 character in your2) or Mister Fantastic (Level 2) in his Absorption History. Mimic, that will nowt gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
+When Mimic becomes Level 2, you’ll reveal  Level 2 character in your2) or Mister Fantastic (Level 2) in his Absorption History. Mimic, that will nowt gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
 
 When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
@@ -2437,7 +2436,7 @@ The Mimic Main Character is found cain technically be turned off by certain effe
 
 he Vs. System 2PCG: H.A.M.M.E.R. expansion.
 
-^(Source: [UDE Official Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
+^(^Source: [^UDE Official Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))^Blog
 
 ---
 
@@ -4399,11 +4398,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDY4ODUyNywxMTgyMzk1NzQ5LDEzMD
-Y0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3
-OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MD
-c1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEw
-NiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC
-0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4
-NTYzODc5MDJdfQ==
+eyJoaXN0b3J5IjpbLTMwMzQxOTg1LDExODIzOTU3NDksMTMwNj
+Q0ODE1MCw3Mzg1NjY0NzUsMTE0NjcwNDU5MCwtMTQyNjc5NTc5
+LDY2Nzc1NDY1NSwxNDY4MTEwMjM5LDQwMjczMjEyLDE2NDkwNz
+U4MzIsLTE5NzY4NDM5ODQsMTQ1MjM1NDEwNiwxMTU5NDQ1MTA2
+LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LDEzNzc5OTI1MTUsLT
+IxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEwNzg0MzEyOTksMTg1
+NjM4NzkwMl19
 -->
