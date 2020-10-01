@@ -2379,13 +2379,10 @@ See [Nova Corps](#wiki_nova_corps)
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
 *Set: H.A.M.M.E.R.*  
 
+[This card has received significant errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
 
 ---
-
-[This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
-
----
-Previously the Absorption History pile included any three main cCharacters with different names. Going forward, his Absorption History pile may only include the original five X-Men plus Professor X. This change reduces the number of main characters Mimic can copy, which avoids overpowered interactions. It also brings Mimic more in line with his classic flavor. This change is effective October 1st, 2020.
+Previously the Absorption History pile included any three main characters with different names. Going forward, his Absorption History pile may only include the original five X-Men plus Professor X. This change reduces the number of main characters Mimic can copy, which avoids overpowered interactions. It also brings Mimic more in line with his classic flavor. This change is effective October 1st, 2020.
 
 Below are the updated rules. (This replaces the rules entry in the H.A.M.M.E.R. Issue rules insert.) The changes are underlined.
 
@@ -2398,7 +2395,7 @@ Mimic’s Absorption History, from his **Checkered Past** Keyword,  represents t
 -   Jean Grey
 -   Professor X
 
-Note: There is no main haracter with the card title Beast. Yet.
+Note: There is no main character with the card title Beast. Yet.
 
 “Card title” refers to the name at the top of the card. It does not include additional names granted via  **AKA**.
 
@@ -2406,37 +2403,19 @@ At the time of this writing (September 2020), your choices at each level are:
 
 - Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
 - Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
-Level 3: Jean Grey, Professor X
+- Level 3: Jean Grey, Professor X
 
 **Note:** While Mimic  _can_  copy Professor X’s Level 3  **Graduation**  super power, he won’t actually be able to  **Graduate**  any X-Men. (This is because the Graduation super power requires a Graduation pile, and you only get to bring a Graduation pile if Professor X is your main character, not if Professor X’s power is being copied. Look for an upcoming rules update that clarifies how out-of-game piles work.)
 
-During setup when you reveal in his Absorption History pile.
+During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
 
-From the Absorption History rules:
-
->During setup when you reveal cter, you’ll also rMimic as evel  Level er in your Absorption History. Mimic gains its Keyword and Super powers only when the game begins.
-
-When the game begins, it is past the point when you would have needed to resolve any setup powers.
-
--   For example, Scarlet Spider’s  **Spider-Clone**  power takes effect during Setup. But since Mimic gains Scarlet Spider’s power once the game begins, it’s too late for it to affect anything.
--   Similarly, Mimic gaining the  **Sinister Six**  keyword from one of those characters won’t do anything.
-
-There is one weird case we’re going to mention here since it includes cards from the latest story arc (First Family).
-
-If Mimic has your Main Character, you’ll also rDoctor Doom (Leveal the1 orMimic as your Main Chara the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
-
-When Mimic becomes Level 2, you’ll reveal  Level 2 character in your2) or Mister Fantastic (Level 2) in his Absorption History. Mimic, that will nowt gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
+When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
 
 When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
-**Note:**  While  **Checkered Past** is a Keyword arant Mimic an Invention pile. However, if you already have an Invention pile (because you have a supporting character  **Inventor**  in your deck) while Mimic is in an **Inventor** he will be able to access your Invention pile.
+**Note:**  While  **Checkered Past** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
-The Mimic Main Character is found cain technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
-
-
-he Vs. System 2PCG: H.A.M.M.E.R. expansion.
-
-^(^Source: [^UDE Official Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))^Blog
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-character/)
 
 ---
 
@@ -4398,11 +4377,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzQxOTg1LDE0MDQ2ODg1MjcsNzg5Nz
-M5OTA2LDExODIzOTU3NDksLTEwOTAyNjQzNCwtMTcxMTQwMDM2
-MiwtMTYxNTc2OTUzNiwtNDAyODY0MTI4LDEzMDY0NDgxNTAsMT
-c2MjM2NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5NzU5NCwxOTQ2
-MDc4NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwOD
-gzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NTksMTIzOTY2NDg2Mywy
-MTAwMzI0MTk1XX0=
+eyJoaXN0b3J5IjpbMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OT
+czOTkwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAz
+NjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLD
+E3NjIzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0
+NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MD
+g4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMs
+MjEwMDMyNDE5NV19
 -->
