@@ -2379,16 +2379,6 @@ See [Nova Corps](#wiki_nova_corps)
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
 *Set: H.A.M.M.E.R.*  
 
-Mimic’s **Absorption History** represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe and they must have three different names (they can’t share a name through AKA). For example, you could have Cyclops Level 1, Dutch Level 2, and Spider-Man Level 3.
-
-During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins. When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 1 character he was previously copying.
-
-When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
-
-**Note:** While **Absorption History** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
-
-
-^(Source: Rule insert)
 
 ---
 
@@ -4375,11 +4365,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOT
-AyNjQzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0
-MTI4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNC
-wtMTIwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3
-NjcyNjM0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MT
-g0NTksMTIzOTY2NDg2MywyMTAwMzI0MTk1LC0yMTk4NDEyNjUs
-MTcxNTk3Mjg1Ml19
+eyJoaXN0b3J5IjpbLTkxODQ4NDQ5OCw3ODk3Mzk5MDYsMTE4Mj
+M5NTc0OSwtMTA5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5
+NTM2LC00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC
+0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1
+NDQyMTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NT
+E3MCwtMTg5MDgxODQ1OSwxMjM5NjY0ODYzLDIxMDAzMjQxOTUs
+LTIxOTg0MTI2NV19
 -->
