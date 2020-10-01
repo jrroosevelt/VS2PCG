@@ -2403,19 +2403,19 @@ At the time of this writing (September 2020), your choices at each level are:
 
 - Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
 - Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
-- Level 3: Jean Grey, Professor X
+Level 3: Jean Grey, Professor X
 
 **Note:** While Mimic  _can_  copy Professor X’s Level 3  **Graduation**  super power, he won’t actually be able to  **Graduate**  any X-Men. (This is because the Graduation super power requires a Graduation pile, and you only get to bring a Graduation pile if Professor X is your main character, not if Professor X’s power is being copied. Look for an upcoming rules update that clarifies how out-of-game piles work.)
 
-During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
+During setup when you reveal Mimic as your Main Character, you’ll also reveal Mimic as your Main Chara thethe Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
 
-When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
+When Mimic becomes Level 2, you’ll reveal  Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
 
 When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
 **Note:**  While  **Checkered Past** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
-^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-character/)
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-claificatio^Blog
 
 ---
 
@@ -4377,11 +4377,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OT
-czOTkwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAz
-NjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLD
-E3NjIzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0
-NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MD
-g4MywxNjMyOTk1MTcwLC0xODkwODE4NDU5LDEyMzk2NjQ4NjMs
-MjEwMDMyNDE5NV19
+eyJoaXN0b3J5IjpbMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0MD
+Q2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAyNjQz
+NCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MTI4LD
+EzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMTIw
+NzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNj
+M0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NTks
+MTIzOTY2NDg2M119
 -->
