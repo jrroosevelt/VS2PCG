@@ -69,6 +69,11 @@ This was a clarification of a ruling made by Chad at Origins.  For a short time 
 
 In the [June 2020 Rules update](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/), a small change to Mimic was made to clarify that he would not gain "setup" benefits from main characters such as Devil Dino, Scarlet Spider or a Sinister Six MC if they were chosen in his Absorption History.  Effects that resolve at the start of the game such as Arnim Zola's ESP Box are unaffected.
 
+* *Mimic's Absorption History has received a limited list of characters from which it can copy.*
+
+In an [official October 2020 blog post](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-character/), Mimic was nerfed so that he would only be able to use Absorption History with a Main Character with one of the following [Card Titles](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_card_title): Angel, Beast, Cyclops, Iceman, Jean Grey, Professor X.
+
+
 ## Misprints
 
 ### **Private Hudson**
@@ -192,6 +197,6 @@ If I've missed any other major rulings, let a moderator know and we can get it a
 
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTg0NjY0OSwtNjExODQ2NjQ5LDE4MD
-gxMDc4NzVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDM3MDI0MDIsLTYxMTg0NjY0OSwtNj
+ExODQ2NjQ5LDE4MDgxMDc4NzVdfQ==
 -->
