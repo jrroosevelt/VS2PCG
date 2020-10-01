@@ -2385,12 +2385,37 @@ See [Nova Corps](#wiki_nova_corps)
 [This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
 
 ---
+Previously the Absorption History pile included any three main cCharacters with different names. Going forward, his Absorption History pile may only include the original five X-Men plus Professor X. This change reduces the number of main characters Mimic can copy, which avoids overpowered interactions. It also brings Mimic more in line with his classic flavor. This change is effective October 1st, 2020.
 
-Mimic’s  **Absorption History**  does not allow you to copy any “setup” powers from the Level 1 Main Character in his Absorption History pile.
+Below are the updated rules. (This replaces the rules entry in the H.A.M.M.E.R. Issue rules insert.) The changes are underlined.
+
+Mimic’s Absorption History, from his **Checkered Past** Keyword,  represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe,  they must be Marvel and they must have three different card titles from the following list:
+
+-   Angel
+-   Beast
+-   Cyclops
+-   Iceman
+-   Jean Grey
+-   Professor X
+
+Note: There is no main haracter with the card title Beast. Yet.
+
+“Card title” refers to the name at the top of the card. It does not include additional names granted via  **AKA**.
+
+At the time of this writing (September 2020), your choices at each level are:
+
+- Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+- Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+
+Level 3: Jean Grey, Professor X
+
+**Note:** While Mimic  _can_  copy Professor X’s Level 3  **Graduation**  super power, he won’t actually be able to  **Graduate**  any X-Men. (This is because the Graduation super power requires a Graduation pile, and you only get to bring a Graduation pile if Professor X is your main character, not if Professor X’s power is being copied. Look for an upcoming rules update that clarifies how out-of-game piles work.)
+
+During setup when you reveal in his Absorption History pile.
 
 From the Absorption History rules:
 
->During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super powers only when the game begins.
+>During setup when you reveal Mimic as your Main Character, you’ll also rMimic as evel  Level er in your Absorption History. Mimic gains its Keyword and Super powers only when the game begins.
 
 When the game begins, it is past the point when you would have needed to resolve any setup powers.
 
@@ -2399,9 +2424,18 @@ When the game begins, it is past the point when you would have needed to resolve
 
 There is one weird case we’re going to mention here since it includes cards from the latest story arc (First Family).
 
-If Mimic has Doctor Doom (Level 1 or Level 2) or Mister Fantastic (Level 2) in his Absorption History, that will not grant Mimic an Invention pile. However, if you already have an Invention pile (because you have a supporting character  **Inventor**  in your deck) while Mimic is in an **Inventor** he will be able to access your Invention pile.
+If Mimic has your Main Character, you’ll also rDoctor Doom (Leveal the1 or Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
 
-The Mimic Main Character is found in the Vs. System 2PCG: H.A.M.M.E.R. expansion.
+When Mimic becomes Level 2, you’ll reveal the Level 2 character in your2) or Mister Fantastic (Level 2) in his Absorption History. Mimic, that will nowt gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
+
+When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
+
+**Note:**  While  **Checkered Past** is a Keyword arant Mimic an Invention pile. However, if you already have an Invention pile (because you have a supporting character  **Inventor**  in your deck) while Mimic is in an **Inventor** he will be able to access your Invention pile.
+
+The Mimic Main Character is found cain technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
+
+
+he Vs. System 2PCG: H.A.M.M.E.R. expansion.
 
 ^(Source: [UDE Official Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
 
@@ -4365,7 +4399,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODQ4NDQ5OCwxMTgyMzk1NzQ5LDEzMD
+eyJoaXN0b3J5IjpbMTQwNDY4ODUyNywxMTgyMzk1NzQ5LDEzMD
 Y0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3
 OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MD
 c1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEw
