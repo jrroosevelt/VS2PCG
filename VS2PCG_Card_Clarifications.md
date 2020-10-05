@@ -2382,9 +2382,14 @@ See [Nova Corps](#wiki_nova_corps)
 [This card has received significant errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
 
 ---
+
 Previously the Absorption History pile included any three main characters with different names. Going forward, his Absorption History pile may only include the original five X-Men plus Professor X. This change reduces the number of main characters Mimic can copy, which avoids overpowered interactions. It also brings Mimic more in line with his classic flavor. This change is effective October 1st, 2020.
 
 Below are the updated rules. (This replaces the rules entry in the H.A.M.M.E.R. Issue rules insert.) The changes are underlined.
+
+---
+
+**Mimic**
 
 Mimic’s Absorption History, from his **Checkered Past** Keyword,  represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe,  they must be Marvel and they must have three different card titles from the following list:
 
@@ -2401,21 +2406,23 @@ Note: There is no main character with the card title Beast. Yet.
 
 At the time of this writing (September 2020), your choices at each level are:
 
-- Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
-- Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+
+Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+
 Level 3: Jean Grey, Professor X
 
 **Note:** While Mimic  _can_  copy Professor X’s Level 3  **Graduation**  super power, he won’t actually be able to  **Graduate**  any X-Men. (This is because the Graduation super power requires a Graduation pile, and you only get to bring a Graduation pile if Professor X is your main character, not if Professor X’s power is being copied. Look for an upcoming rules update that clarifies how out-of-game piles work.)
 
-During setup when you reveal Mimic as your Main Character, you’ll also reveal Mimic as your Main Chara thethe Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
+During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
 
-When Mimic becomes Level 2, you’ll reveal  Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
+When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
 
 When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
 **Note:**  While  **Checkered Past** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
-^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-claificatio^Blog
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-character/)
 
 ---
 
@@ -4377,11 +4384,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0MD
-Q2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAyNjQz
-NCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MTI4LD
-EzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMTIw
-NzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNj
-M0MywtNjkwMDcwODgzLDE2MzI5OTUxNzAsLTE4OTA4MTg0NTks
-MTIzOTY2NDg2M119
+eyJoaXN0b3J5IjpbMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNj
+gwMTM2MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0
+OSwtMTA5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC
+00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMTEz
+MTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMT
+UxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MCwt
+MTg5MDgxODQ1OV19
 -->
