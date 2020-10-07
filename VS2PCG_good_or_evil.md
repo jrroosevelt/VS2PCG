@@ -36,6 +36,9 @@ Here are the current Good or Evil categorizations:
 * Underworld
 * Xenomorphs
 
+### Neither Good nor Evil
+* Omega
+
 ## Photographic universe
 ### Good teams
 * Bureau
@@ -49,7 +52,7 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDk0NzMxNSwtMTkwNDI3NTIzOSwtMT
-kwNDI3NTIzOSw3MjIyNzE3NjMsLTE5Njc2OTUxMCwxMzE5NzE3
-NjA4XX0=
+eyJoaXN0b3J5IjpbLTEyMTI4NTE5NiwxMTgwOTQ3MzE1LC0xOT
+A0Mjc1MjM5LC0xOTA0Mjc1MjM5LDcyMjI3MTc2MywtMTk2NzY5
+NTEwLDEzMTk3MTc2MDhdfQ==
 -->
