@@ -5,7 +5,7 @@ A card's Good or Evil categorization is typically based on its [Team Affiliation
 Here are the current Good or Evil categorizations:
 
 ## Illustrated universe
-### Good teams:
+### Good teams
 * A-Force
 * Avengers
 * Champions
@@ -37,7 +37,7 @@ Here are the current Good or Evil categorizations:
 * Xenomorphs
 
 ### Neither Good nor Evil
-* Omega
+* Omega Level Mutants
 
 ## Photographic universe
 ### Good teams
@@ -52,7 +52,7 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI4NTE5NiwxMTgwOTQ3MzE1LC0xOT
-A0Mjc1MjM5LC0xOTA0Mjc1MjM5LDcyMjI3MTc2MywtMTk2NzY5
-NTEwLDEzMTk3MTc2MDhdfQ==
+eyJoaXN0b3J5IjpbLTEyOTQxNTY0MjgsMTE4MDk0NzMxNSwtMT
+kwNDI3NTIzOSwtMTkwNDI3NTIzOSw3MjIyNzE3NjMsLTE5Njc2
+OTUxMCwxMzE5NzE3NjA4XX0=
 -->
