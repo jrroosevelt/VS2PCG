@@ -29,7 +29,7 @@ Q: Can I put cards back on the top or bottom in any order?
 
 A: Yes, you can pick the order.
 
-^Source: ^Discord ^
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/764197960464465991)
   
 
 # AKA [name]  
@@ -563,10 +563,10 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjkwMTY5NSwtMTk4NTg5NjMwLDQ5OD
-IxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1
-MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0Nj
-MwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcs
-LTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0OD
-QxODk3XX0=
+eyJoaXN0b3J5IjpbLTExMTc1MTU3MjksLTE5ODU4OTYzMCw0OT
+gyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5
+NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsND
+YzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3
+LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5ND
+g0MTg5N119
 -->
