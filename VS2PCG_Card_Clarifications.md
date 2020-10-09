@@ -261,7 +261,9 @@ Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power,
 
 Q: If I use Black Bolt's **Sonic Whisper** and Black Bolt is Lethal (by playing "A Killer Voice" for example), will the opponent be KO'd?
 
-A: If you are attacking, yes. Lethal only activates when attacking and when you cause a wound. Because **Sonic Whisper** is a combat ability, and stunning causes a wound, 
+A: If you are attacking, yes. Lethal only activates when attacking and when you cause a wound. Because **Sonic Whisper** is a combat ability, and stunning causes a wound, the opponent will be KO'd (barring any other effects that prevent the wound, etc.).
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/763758624358268940)
 
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
@@ -4390,11 +4392,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MTEzNzMsMjE0MTc5NDkxNiwxMjIwNT
-Q3MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYs
-MTE4MjM5NTc0OSwtMTA5MDI2NDM0LC0xNzExNDAwMzYyLC0xNj
-E1NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1
-NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NT
-EsMjA1NDQyMTUxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYz
-Mjk5NTE3MF19
+eyJoaXN0b3J5IjpbMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMj
+A1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkw
+NiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIsLT
+E2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3NjIz
+NjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0NjA3OD
+Y1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4Mywx
+NjMyOTk1MTcwXX0=
 -->
