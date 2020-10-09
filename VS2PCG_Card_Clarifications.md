@@ -257,6 +257,10 @@ Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power,
 
 ^(Source: Rule insert)
 
+---
+
+Q: If I use 
+
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
 *Set: A-Force*
@@ -4384,11 +4388,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNj
-gwMTM2MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0
-OSwtMTA5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC
-00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMTEz
-MTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMT
-UxMSwtNzc2NzI2MzQzLC02OTAwNzA4ODMsMTYzMjk5NTE3MCwt
-MTg5MDgxODQ1OV19
+eyJoaXN0b3J5IjpbODY4NTYxMjAzLDIxNDE3OTQ5MTYsMTIyMD
+U0NzMyOSwyMDY4MDEzNjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2
+LDExODIzOTU3NDksLTEwOTAyNjQzNCwtMTcxMTQwMDM2MiwtMT
+YxNTc2OTUzNiwtNDAyODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2
+NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4Nj
+UxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2
+MzI5OTUxNzBdfQ==
 -->
