@@ -259,7 +259,9 @@ Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power,
 
 ---
 
-Q: If I use 
+Q: If I use Black Bolt's **Sonic Whisper** and Black Bolt is Lethal (by playing "A Killer Voice" for example), will the opponent be KO'd?
+
+A: Yes. Because 
 
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
@@ -4388,11 +4390,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NTYxMjAzLDIxNDE3OTQ5MTYsMTIyMD
-U0NzMyOSwyMDY4MDEzNjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2
-LDExODIzOTU3NDksLTEwOTAyNjQzNCwtMTcxMTQwMDM2MiwtMT
-YxNTc2OTUzNiwtNDAyODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2
-NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4Nj
-UxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0MywtNjkwMDcwODgzLDE2
-MzI5OTUxNzBdfQ==
+eyJoaXN0b3J5IjpbMTU2Mjk2MTE2MiwyMTQxNzk0OTE2LDEyMj
+A1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkw
+NiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIsLT
+E2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3NjIz
+NjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0NjA3OD
+Y1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4Mywx
+NjMyOTk1MTcwXX0=
 -->
