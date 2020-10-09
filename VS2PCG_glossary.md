@@ -21,7 +21,15 @@ Here is the list of the most common recurring keywords, powers or terms that are
   
 
 # Agent  
-   When this character appears, look at cards from the top of your deck equal to the number of Agents on your side.  Put any of them on the bottom of your deck.  
+When this character appears, look at cards from the top of your deck equal to the number of Agents on your side.  Put any of them on the bottom of your deck.  
+
+---
+
+Q: Can I put cards back on the top or bottom in any order?
+
+A: Yes, you can pick the order.
+
+^Source: ^Discord ^
   
 
 # AKA [name]  
@@ -555,9 +563,10 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU4OTYzMCw0OTgyMTU3MjUsMTIzOD
-Q1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMTE5OTk2
-MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMDM2NjY4LDcwNz
-g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
-LDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbLTUyMjkwMTY5NSwtMTk4NTg5NjMwLDQ5OD
+IxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1
+MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0Nj
+MwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcs
+LTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0OD
+QxODk3XX0=
 -->
