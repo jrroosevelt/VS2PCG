@@ -1666,7 +1666,7 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 
 ^(Source: Rule insert)
 
-# Inhibitor Collar
+# [Inhibitor Collar](http://vs.tcgbrowser.com/images/cards/big/FUT-026.jpg)
 *Set: Futures Past*
 
 A player can equip the Collar to a face-up character or a stunned character. If that character already has Equipment equipped, KO it. When an equipped face-up character is stunned, the Collar remains on (and face up). If a character equipped with the Collar hides, KO the Collar (they must have figured out how to take it off)!
@@ -1808,7 +1808,7 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 
 ^(Source: Rule Insert)
 
-# Kate (and Kitty) Pryde (MC)
+# [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and Kitty) Pryde (MC)
 *Set: Futures Past*
 Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
 
@@ -4404,11 +4404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc2Njk4MTgsLTE2MzgzOTMwMjQsMT
-AxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUyMzE5MzksMjE0MTc5
-NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUyNy
-w3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMTA5MDI2NDM0LC0xNzEx
-NDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0OD
-E1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0
-LDE5NDYwNzg2NTFdfQ==
+eyJoaXN0b3J5IjpbLTg3OTIwNzg1NSwtMTQwNzY2OTgxOCwtMT
+YzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIz
+MTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNy
+wxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkw
+MjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2ND
+EyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQs
+LTEyMDc1OTc1OTRdfQ==
 -->
