@@ -784,7 +784,7 @@ While this card is face down in your Resource Row, you can play it as if it was 
 
 ^(Source: Rule insert)
 
-# Destiny
+# [Destiny](http://vs.tcgbrowser.com/images/cards/big/FRE-007.jpg)
 *Set: Freedom Force*
 
 If a player would draw two or more at a time (including during their Draw Phase), **Precognition** will let you look at the top card of their deck before and after each individual draw. In other words, you’ll get to see each card they draw.
@@ -4404,11 +4404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMT
-k3MjczMDcwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3
-MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMT
-E4MjM5NTc0OSwtMTA5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1
-NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1ND
-EwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEs
-MjA1NDQyMTUxMV19
+eyJoaXN0b3J5IjpbLTE0MDc2Njk4MTgsLTE2MzgzOTMwMjQsMT
+AxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUyMzE5MzksMjE0MTc5
+NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUyNy
+w3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMTA5MDI2NDM0LC0xNzEx
+NDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0OD
+E1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0
+LDE5NDYwNzg2NTFdfQ==
 -->
