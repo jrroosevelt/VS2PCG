@@ -221,8 +221,11 @@ Q: What about a power like \* Nova's \*  **Stellar Flare** or Green Goblin's **P
 
 A: Yes. Typically you cannot *attack* a Hidden character. However, because you can target a hidden character with Super Powers (unless the power specifies Face-Up characters), you can strike them. Compare the ATK of the character striking to the DEF of the hidden character. If it equals or exceeds, the character moves from Hidden to Stunned and gains a wound.
 
+**Note:** If the character is Stunned, you could still technically target them. However, you cannot stun a stunned character, so the strike would really do nothing in that instance.
+
 This is one reason why card orientation is key in distinguishing Hidden (normal) from Stunned (exhausted) characters.
-  
+
+^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3360302180671971/?comment_id=3360391823996340)  
 
 #  [Hologram](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-friendly-neighborhood-card-preview-you-dont-want-any-part-of-this-or-do-you/)  
 Each Hologram has an associated power symbol. If an enemy character with that type of Super Power appears, it automatically stuns the Hologram.  
@@ -574,7 +577,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ5MDE5NDQsLTE5ODU4OTYzMCw0OT
+eyJoaXN0b3J5IjpbLTEyNjY1ODExOTUsLTE5ODU4OTYzMCw0OT
 gyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5
 NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsND
 YzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3
