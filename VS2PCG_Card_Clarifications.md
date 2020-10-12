@@ -1808,7 +1808,7 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 
 ^(Source: Rule Insert)
 
-# [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and Kitty) Pryde (MC)
+# [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and [Kitty) Pryde](http://vs.tcgbrowser.com/images/cards/big/FUT-002.jpg) (MC)
 *Set: Futures Past*
 Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
 
@@ -1938,7 +1938,7 @@ See [Fin Fang Foom](#wiki_fin_fang_foom).
 
 ^(Source: Rule insert)
 
-# Leviathon Twin Drake
+# [Leviathon Twin Drake](http://vs.tcgbrowser.com/images/cards/big/CV1-012.jpg)
 *Set: Crossover Vol. 1*
 
 Q: The first line of **Leviathon Overseer** says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work? 
@@ -4404,11 +4404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTIwNzg1NSwtMTQwNzY2OTgxOCwtMT
-YzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIz
-MTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNy
-wxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkw
-MjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2ND
-EyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQs
-LTEyMDc1OTc1OTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjkyNzA2MzksLTE0MDc2Njk4MTgsLT
+E2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUy
+MzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2MD
+csMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMTA5
+MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4Nj
+QxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NTI0
+LC0xMjA3NTk3NTk0XX0=
 -->
