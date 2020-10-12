@@ -3916,7 +3916,7 @@ A: Yes.
 
 ^(Source: Rule insert)
 
-# Strength Above All Else
+# [Strength Above All Else](http://vs.tcgbrowser.com/images/cards/big/SVH-027.jpg)
 *Set: S.H.I.E.L.D. vs. Hydra*
 
 Q: 
@@ -3928,7 +3928,7 @@ Q:
   
 Does Strength Above All Else still prevent the damage? Did it just grant protection when it resolves, or does it check for ATK again at strike?
 
-A: if you are the highest ATK character during combat resoluition you can't be struck
+A: if you are the highest ATK character during combat resolution you can't be struck
 
 ^(Source: Chad Daniel - UDE Approved)
 
@@ -4404,7 +4404,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ5MzM0OCwtMTQwNzY2OTgxOCwtMT
+eyJoaXN0b3J5IjpbMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMT
 YzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIz
 MTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNy
 wxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkw
