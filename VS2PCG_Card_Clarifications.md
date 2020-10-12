@@ -47,7 +47,7 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 
 ^(Source: Rule insert)
 
-# Ahab
+# [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
 You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) who do not share any names and do not have any copies in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
 
 ^(Source: Rule Insert)
@@ -177,7 +177,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 
 ^(Source: Rule insert)
 
-# Astra
+# [Astra](http://vs.tcgbrowser.com/images/cards/big/FRE-011.jpg)
 *Set: Freedom Force*
 
 To create a **Clone** put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character but nothing else. It appears face up and ready and does not appear with any counters or status effects (like **Burn**). Uniqueness does apply to the token.
@@ -4404,7 +4404,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTE3MDExNiwxMTk3MjczMDcwLDE3Mz
+eyJoaXN0b3J5IjpbMTc1MjI2NDY3OSwxMTk3MjczMDcwLDE3Mz
 UyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2
 MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMT
 A5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4
