@@ -211,6 +211,13 @@ Hidden characters still lose powers, Equipment and +1/+1 or -1/-1 counters.
 Hidden characters will turn face up in the Recovery phase.  
   
 Hidden characters can't be attacked without special effects allowing attacks on a face-down character.  If attacked or struck, a hidden character can still be stunned and wounded normally.  
+
+---
+Q: Can Hidden characters be targeted by Super Powers? 
+
+A: Unless the ability specifically says face-up character, yes, the Super Power can target a Hidden character.
+
+Q: What about a power like /* Nova's \* 
   
 
 #  [Hologram](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-friendly-neighborhood-card-preview-you-dont-want-any-part-of-this-or-do-you/)  
@@ -563,7 +570,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc1MTU3MjksLTE5ODU4OTYzMCw0OT
+eyJoaXN0b3J5IjpbLTE2NDg1MzQyODYsLTE5ODU4OTYzMCw0OT
 gyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5
 NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsND
 YzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3
