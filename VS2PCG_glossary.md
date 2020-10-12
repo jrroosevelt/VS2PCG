@@ -213,6 +213,7 @@ Hidden characters will turn face up in the Recovery phase.
 Hidden characters can't be attacked without special effects allowing attacks on a face-down character.  If attacked or struck, a hidden character can still be stunned and wounded normally.  
 
 ---
+
 Q: Can Hidden characters be targeted by Super Powers? 
 
 A: Unless the ability specifies "Face-Up character", yes, Super Powers can target a Hidden character.
@@ -223,7 +224,7 @@ A: The short answer is "yes." To explain further...
 
 Typically you cannot *attack* a face-down character (with some exceptions like Devil Slayer and Mr. Black). However, because you can target a Hidden character with Super Powers (unless the power specifies Face-Up characters), you can strike them. Compare the ATK of the character striking to the DEF of the hidden character. If it equals or exceeds, the character moves from Hidden to Stunned and gains a wound.
 
-**Note:** If the character is Stunned, you could still technically target them with a super power. However, you cannot stun a stunned character, so the strike would really do nothing in that instance.
+**Note:** If the character is Stunned, you could still technically target them with a super power. However, you cannot stun a stunned character, so the strike would really do nothing to the target character in that instance.
 
 This is one reason why card orientation is key in distinguishing Hidden (normal) from Stunned (exhausted) characters.
 
@@ -579,10 +580,10 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzU5OTY4MywtMTk4NTg5NjMwLDQ5OD
-IxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1
-MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0Nj
-MwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcs
-LTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0OD
-QxODk3XX0=
+eyJoaXN0b3J5IjpbOTYwMzE2NDg3LC0xOTg1ODk2MzAsNDk4Mj
+E1NzI1LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUy
+NywxMjExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2Mz
+AzNjY2OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2Nywt
+MTQ4NTE3NDg0MiwxODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4ND
+E4OTddfQ==
 -->
