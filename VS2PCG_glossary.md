@@ -215,11 +215,13 @@ Hidden characters can't be attacked without special effects allowing attacks on 
 ---
 Q: Can Hidden characters be targeted by Super Powers? 
 
-A: Unless the ability specifically says face-up character, yes, the Super Power can target a Hidden character.
+A: Unless the ability specifies "Face-Up character", yes, Super Powers can target a Hidden character.
 
 Q: What about a power like \* Nova's \*  **Stellar Flare** or Green Goblin's **Pumpkin Bomb**? Can I stun and wound a Hidden character with a power like that?
 
-A: Yes. Typically you cannot *attack* a Hidden character (with some exceptions like Devil Slayer and Mr. Black). However, because you can target a hidden character with Super Powers (unless the power specifies Face-Up characters), you can strike them. Compare the ATK of the character striking to the DEF of the hidden character. If it equals or exceeds, the character moves from Hidden to Stunned and gains a wound.
+A: The short answer is "yes." 
+
+Typically you cannot *attack* a Hidden character (with some exceptions like Devil Slayer and Mr. Black). However, because you can target a hidden character with Super Powers (unless the power specifies Face-Up characters), you can strike them. Compare the ATK of the character striking to the DEF of the hidden character. If it equals or exceeds, the character moves from Hidden to Stunned and gains a wound.
 
 **Note:** If the character is Stunned, you could still technically target them. However, you cannot stun a stunned character, so the strike would really do nothing in that instance.
 
@@ -577,7 +579,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MDQ2NTE2LC0xOTg1ODk2MzAsNDk4Mj
+eyJoaXN0b3J5IjpbODU1NTQxNDMwLC0xOTg1ODk2MzAsNDk4Mj
 E1NzI1LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUy
 NywxMjExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2Mz
 AzNjY2OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2Nywt
