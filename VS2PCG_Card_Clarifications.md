@@ -3062,7 +3062,7 @@ A: Once Purple man's power has been activated and resolved, it is independent of
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # Pyro
-## Pyro (MC)
+## [Pyro (MC)](http://vs.tcgbrowser.com/images/cards/big/FRE-005.jpg)
 *Set: Freedom Force*
 
 His Level 2 **Trailblazer** ability does allow him to search for characters he gave **Burn Notice** to with his Level 1 **Pyro to the People**.
@@ -3076,7 +3076,7 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 ^(Source: Rule insert)
 
-# Rachel Summers (MC)
+# [Rachel Summers (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-006.jpg)
 *Set: Futures Past*
 
 **Powerful Heritage** and **Daughter of the Phoenix** refer  to the "card title" for Phoenix and Dark Phoenix. This means the name at the very top of the card must be Phoenix or Dark Phoenix. **AKA**s don't count.
@@ -3174,7 +3174,7 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 
 ^(Source: Rule insert)
 
-## Rogue (SC - Brotherhood)
+## [Rogue (SC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-013.jpg)
 *Set: Freedom Force*
 
 **Permanent Power Absorption** works like this: Rogue gains an ATK, DEF, and Health increase equal to the KO'd character's printed ATK, DEF, and Health respectively. She also gains that character's printed keyword and super powers. These gains last until Rogue leaves play.
@@ -4404,7 +4404,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTUwNzk4MiwtMTQwNzY2OTgxOCwtMT
+eyJoaXN0b3J5IjpbLTIxMzQ5MzM0OCwtMTQwNzY2OTgxOCwtMT
 YzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIz
 MTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNy
 wxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkw
