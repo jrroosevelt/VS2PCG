@@ -2014,7 +2014,7 @@ Editor's note: On the flip side, the characters brought **Along for the Ride** w
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/613412785925390355) 
 
 # Logan 
-## Logan (MC)
+## [Logan (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-004.jpg)
 *Set: Futures Past*
 
 Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Timeline**) to every Level 3 Wolverine on your side. As of this Issue, there is only one Level 3 Wolverine (from the 2017 Vs. System 2PCG: Legacy issue). 
@@ -2023,7 +2023,7 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 
 ^(Source: Rule Insert)
 
-## Logan (SC)
+## [Logan (SC)](http://vs.tcgbrowser.com/images/cards/big/FUT-013.jpg)
 *Set: Futures Past*
 
 Here's how his **Canadian Resistance Colonel** works:
@@ -2260,7 +2260,7 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 ^(Source: Rule insert)
 
-# Match
+# [Match](http://vs.tcgbrowser.com/images/cards/big/TUB-013.jpg)
 *Set: The Utopia Battles*
 
 Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
@@ -4404,7 +4404,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkyNzA2MzksLTE0MDc2Njk4MTgsLT
+eyJoaXN0b3J5IjpbLTExNDU5ODk3MjgsLTE0MDc2Njk4MTgsLT
 E2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUy
 MzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2MD
 csMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMTA5
