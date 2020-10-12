@@ -217,7 +217,7 @@ Q: Can Hidden characters be targeted by Super Powers?
 
 A: Unless the ability specifically says face-up character, yes, the Super Power can target a Hidden character.
 
-Q: What about a power like /* Nova's \* 
+Q: What about a power like \* Nova's \*  **Stellar Flare*
   
 
 #  [Hologram](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-friendly-neighborhood-card-preview-you-dont-want-any-part-of-this-or-do-you/)  
@@ -570,10 +570,10 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1MzQyODYsLTE5ODU4OTYzMCw0OT
-gyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5
-NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsND
-YzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3
-LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5ND
-g0MTg5N119
+eyJoaXN0b3J5IjpbNTQwMTY5MjkyLC0xOTg1ODk2MzAsNDk4Mj
+E1NzI1LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUy
+NywxMjExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2Mz
+AzNjY2OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2Nywt
+MTQ4NTE3NDg0MiwxODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4ND
+E4OTddfQ==
 -->
