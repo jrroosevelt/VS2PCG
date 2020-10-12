@@ -2798,6 +2798,9 @@ Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) charac
 
 ^(Source: Rule insert)
 
+# \* Nova \* 
+Set: The Herald
+
 # [Nova Corps](http://vs.tcgbrowser.com/images/cards/big/GAL-018.jpg)
 *Set: Galactic Guardians*  
 
@@ -4392,11 +4395,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMj
-A1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkw
-NiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIsLT
-E2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3NjIz
-NjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OTc1OTQsMTk0NjA3OD
-Y1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMsLTY5MDA3MDg4Mywx
-NjMyOTk1MTcwXX0=
+eyJoaXN0b3J5IjpbLTIxNDYxODIwODcsMTczNTIzMTkzOSwyMT
+QxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4
+NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLT
+E3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2
+NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQsLTEyMDc1OT
+c1OTQsMTk0NjA3ODY1MSwyMDU0NDIxNTExLC03NzY3MjYzNDMs
+LTY5MDA3MDg4M119
 -->
