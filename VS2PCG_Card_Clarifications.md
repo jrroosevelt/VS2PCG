@@ -1417,7 +1417,7 @@ A: Yes.
 
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
-## Green Goblin (SC - Sinister Six)
+## [Green Goblin (SC - Sinister Six)](http://vs.tcgbrowser.com/images/cards/big/SYN-016.jpg)
 *Set: Sinister Syndicate*
 
 Q: Can **Pumpkin Bomb** target Hidden characters?
@@ -4406,11 +4406,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM4NDgyNDAsMTE5NzI3MzA3MCwxNz
-M1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEz
-NjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLT
-EwOTAyNjQzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAy
-ODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyND
-UyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEs
-LTc3NjcyNjM0M119
+eyJoaXN0b3J5IjpbMTM3MDA4MjM3NSwxMTk3MjczMDcwLDE3Mz
+UyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2
+MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMT
+A5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4
+NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NT
+I0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwt
+Nzc2NzI2MzQzXX0=
 -->
