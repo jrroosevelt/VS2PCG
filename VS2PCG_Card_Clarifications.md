@@ -373,7 +373,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 
 ^(Source: Rule insert)
 
-# Brotherhood
+# [Brotherhood](http://vs.tcgbrowser.com/images/cards/big/FRE-019.jpg)
 *Set: Freedom Force*
 
 When you play Brotherhood there must be two exhausted face-up characters that share a team affiliation on your side. Or else the effect does nothing.
@@ -4404,11 +4404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3Mz
-UyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2
-MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMT
-A5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4
-NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NT
-I0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwt
-Nzc2NzI2MzQzXX0=
+eyJoaXN0b3J5IjpbLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMT
+k3MjczMDcwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3
+MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMT
+E4MjM5NTc0OSwtMTA5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1
+NzY5NTM2LC00MDI4NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1ND
+EwLC0xMTEzMTI0NTI0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEs
+MjA1NDQyMTUxMV19
 -->
