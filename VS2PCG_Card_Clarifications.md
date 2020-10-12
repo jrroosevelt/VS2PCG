@@ -1417,6 +1417,13 @@ A: Yes.
 
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
+## Green Goblin (SC - Sinister Six)
+*Set: Sinister Syndicate*
+
+Q: Can **Pumpkin Bomb** target Hidden characters?
+
+A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide).
+
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
 *Set: The Marvel Battles*
@@ -4399,11 +4406,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIxND
-E3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0MDQ2ODg1
-MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAyNjQzNCwtMT
-cxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MTI4LDEzMDY0
-NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwtMTIwNzU5Nz
-U5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEsLTc3NjcyNjM0Mywt
-NjkwMDcwODgzXX0=
+eyJoaXN0b3J5IjpbLTE4NTM4NDgyNDAsMTE5NzI3MzA3MCwxNz
+M1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEz
+NjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLT
+EwOTAyNjQzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAy
+ODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyND
+UyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEs
+LTc3NjcyNjM0M119
 -->
