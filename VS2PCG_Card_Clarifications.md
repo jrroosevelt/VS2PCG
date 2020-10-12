@@ -2808,7 +2808,7 @@ Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) charac
 # [\* Nova \*](http://vs.tcgbrowser.com/images/cards/big/HER-016.jpg) 
 *Set: The Herald*
 
-Q: Can **Steallar Flare!** target Hidden characters?
+Q: Can **Stellar Flare!** target Hidden characters?
 
 A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide).
 
@@ -4406,11 +4406,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDA4MjM3NSwxMTk3MjczMDcwLDE3Mz
-UyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2
-MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMT
-A5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4
-NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NT
-I0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwt
-Nzc2NzI2MzQzXX0=
+eyJoaXN0b3J5IjpbLTIwMTI3ODQ5MzQsMTE5NzI3MzA3MCwxNz
+M1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEz
+NjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLT
+EwOTAyNjQzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAy
+ODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyND
+UyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEs
+LTc3NjcyNjM0M119
 -->
