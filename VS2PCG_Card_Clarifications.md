@@ -312,7 +312,7 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 
 ^(Source: Rule insert)
 
-# Blindspot
+# [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
 *Set: Freedom Force*
 
 If **Memory Thief** sets a character's base health to 1, and that character has a wound, it will get KO'd.
@@ -4404,7 +4404,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjI2NDY3OSwxMTk3MjczMDcwLDE3Mz
+eyJoaXN0b3J5IjpbMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3Mz
 UyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2
 MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMT
 A5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4
