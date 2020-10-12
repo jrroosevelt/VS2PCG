@@ -9,15 +9,13 @@ The following card-specific information is a culmination of clarifications, rule
 * An official rule change, clarification, or errata
 * A community source, such as Facebook or Discord. (Some of these have been officially approved by UDE and, if so, are noted in the source citation). 
 
-**Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rulesheet and do not fundamentally change the intent of the original text.
+**Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rule-sheet and do not fundamentally change the intent of the original text.
 
 For additional information, see also:
 
 * [Rule changes, bans, errata, and clarifications](/r/VS2PCG/wiki/rulings)
 
-* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossaryhttps://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
-
-* [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
+* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary#wiki_hide )
 
 
 
@@ -4406,11 +4404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI3ODQ5MzQsMTE5NzI3MzA3MCwxNz
-M1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEz
-NjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLT
-EwOTAyNjQzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAy
-ODY0MTI4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyND
-UyNCwtMTIwNzU5NzU5NCwxOTQ2MDc4NjUxLDIwNTQ0MjE1MTEs
-LTc3NjcyNjM0M119
+eyJoaXN0b3J5IjpbMTU1NTE3MDExNiwxMTk3MjczMDcwLDE3Mz
+UyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2
+MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMT
+A5MDI2NDM0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4
+NjQxMjgsMTMwNjQ0ODE1MCwxNzYyMzY1NDEwLC0xMTEzMTI0NT
+I0LC0xMjA3NTk3NTk0LDE5NDYwNzg2NTEsMjA1NDQyMTUxMSwt
+Nzc2NzI2MzQzXX0=
 -->
