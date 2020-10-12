@@ -2638,7 +2638,7 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
-## Mystique (MC - Brotherhood)
+## [Mystique (MC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-003.jpg)
 *Set: Freedom Force*
 **Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
 
@@ -4404,11 +4404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Nzg1NDI0MCwtMTQwNzY2OTgxOCwtMT
-YzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIz
-MTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNy
-wxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkw
-MjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2ND
-EyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQs
-LTEyMDc1OTc1OTRdfQ==
+eyJoaXN0b3J5IjpbNTcwNzQ5NzEyLC0xNDA3NjY5ODE4LC0xNj
+M4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMx
+OTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LD
+E0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAy
+NjQzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MT
+I4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwt
+MTIwNzU5NzU5NF19
 -->
