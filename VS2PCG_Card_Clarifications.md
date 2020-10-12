@@ -2785,7 +2785,7 @@ A: No. When you activate his power, take the top card of your deck and place it 
 
 ^(Source: Rule insert)
 
-# Nimrod (MC)
+# [Nimrod (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-007.jpg)
 *Set: Futures Past*
 
 With his **Enemy Power Analysis**, if the attacker has more than one of the listed items, Nimrod will get the respective powers from all of them, not just one.
@@ -4404,11 +4404,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNzQ5NzEyLC0xNDA3NjY5ODE4LC0xNj
-M4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMx
-OTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LD
-E0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAy
-NjQzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MT
-I4LDEzMDY0NDgxNTAsMTc2MjM2NTQxMCwtMTExMzEyNDUyNCwt
-MTIwNzU5NzU5NF19
+eyJoaXN0b3J5IjpbMTk4MTUwNzk4MiwtMTQwNzY2OTgxOCwtMT
+YzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIz
+MTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNy
+wxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkw
+MjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2ND
+EyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQs
+LTEyMDc1OTc1OTRdfQ==
 -->
