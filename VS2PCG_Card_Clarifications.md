@@ -558,6 +558,15 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
 
+# [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
+*Set: The X-Files Battles*
+
+**Prepare for Colonization** gives **Swarm** to all characters you own, which means you no longer have to worry about your characters being KO'd due to uniqueness.
+
+**Watch and Learn** gives the Colonists 1 XP the first time an Academy appears in a resource row on any side. Th esame is true for the other three Locations mentioned.
+
+^(Source: Rule Insert)
+
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
 *Set: Deadpool & Friends*
 
@@ -4422,11 +4431,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMT
-c3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5
-OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OT
-E2LDEyMjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4
-OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MD
-AzNjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUw
-LDE3NjIzNjU0MTBdfQ==
+eyJoaXN0b3J5IjpbLTUxNjE1MDk3MiwtMTM2MzM0MDY0MSwtMT
+I2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4
+MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOT
+M5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0
+MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAyNj
+QzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MTI4
+LDEzMDY0NDgxNTBdfQ==
 -->
