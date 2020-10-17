@@ -1236,6 +1236,15 @@ Attacking a machine is a special type of attack declaration that can only be don
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
+# [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
+*Set: The X-Files Battles*
+
+**Spooky** and **I Want to Believe** look for Alien Super Powers. This includes any Super Power that costs at least one Alien symbol to use. With **Spooky,** if you choose an Evil enemy character with an Alien Super Power, you can either daze it, stun it, or KO it (although you only get to pick one of the three options). The same is true for **I Want to Believe**: if an Evil enemy character with an Alien Super Power appears, you can choose for Mulder to gain 1, 2, or 3 XP. (It's not cumulative.) We would choose 3, but your mileage may vary.
+
+**Searching for Samantha** will draw a card each time you search your deck for something. First resolve the search effect, then draw a card.
+
+^(Source: Rule Insert)
+
 # [Franklin Richards](http://vs.tcgbrowser.com/images/cards/big/FAN-021.jpg)
 *Set: The Fantastic Battles*  
 
@@ -4438,11 +4447,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NjA4OTA0LC0xMzYzMzQwNjQxLC0xMj
-Y1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2Njk4MTgsLTE2Mzgz
-OTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUyMzE5Mz
-ksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2MDcsMTQw
-NDY4ODUyNyw3ODk3Mzk5MDYsMTE4MjM5NTc0OSwtMTA5MDI2ND
-M0LC0xNzExNDAwMzYyLC0xNjE1NzY5NTM2LC00MDI4NjQxMjgs
-MTMwNjQ0ODE1MF19
+eyJoaXN0b3J5IjpbLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNj
+MzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2
+OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNz
+AsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2
+ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1Nz
+Q5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYs
+LTQwMjg2NDEyOF19
 -->
