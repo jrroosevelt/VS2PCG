@@ -310,6 +310,15 @@ A: Even the Odds creates a modifier that overrides or suppresses any other modif
 
 ^(Source: FB Post - Community)
 
+# [Black Oil](http://vs.tcgbrowser.com/images/cards/big/XFB-036.jpg)
+*Set: The X-Files Battles*
+
+You can only equip this to an enemy Supporting Character. Then during your Draw Phase, you can pay an Energy to bring that chracter to your side until it leaves play.
+
+**Note:** Any player who is an enemy of the chracter that has **Black Oil** equipped can use its **Give It Time** power. For example, in a 3-player game, Player A might put **Black Oil** on Player B's character. But Player C could use **Give it Time** to steal that character.
+
+^(Source: Rule Insert)
+
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
 *Set: Cosmic Avengers*  
@@ -4471,11 +4480,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTA0MDM2OSwtMTc5MTk5OTg1OCwtNz
-g3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYx
-NzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMD
-I0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIx
-NDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0MDQ2OD
-g1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAyNjQzNCwt
-MTcxMTQwMDM2Ml19
+eyJoaXN0b3J5IjpbLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLT
+c4NzY3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2
+MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5Mz
+AyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwy
+MTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywxNDA0Nj
+g4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQs
+LTE3MTE0MDAzNjJdfQ==
 -->
