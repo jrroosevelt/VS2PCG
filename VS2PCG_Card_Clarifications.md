@@ -75,10 +75,17 @@ Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
 
-Set: H.A.M.M.E.R.  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 ^(Source: Rule insert)
+
+
+# [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
+*Set: The X-Files Battles*
+
+**Fight or Die** can choose any random Main Character, even ones not in the combat. WE suggest rolling a die to determine which character gets stunned. If Kryceck gets stunned this way, he will get removed from combat. If a stunned Main Character is chosen, nothing happens. If a hidden Main Character is chosen, stun it.
+
+^(Source: Rule Insert)
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
 *Set: The Fantastic Battles*  
@@ -4404,11 +4411,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMT
-YzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIz
-MTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNy
-wxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkw
-MjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2ND
-EyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAsLTExMTMxMjQ1MjQs
-LTEyMDc1OTc1OTRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMT
+QwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcy
+NzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMj
+ksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgy
+Mzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Nj
+k1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAs
+LTExMTMxMjQ1MjRdfQ==
 -->
