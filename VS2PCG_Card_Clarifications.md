@@ -1304,7 +1304,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 
 ^(Source: Rule insert)
 
-# [Frohike](http://vs.tcgbrowser.com/images/cards/big/XFB-007.jpg), [Langly](http://vs.tcgbrowser.com/images/cards/big/XFB-008.jpg), and Byers
+# [Frohike](http://vs.tcgbrowser.com/images/cards/big/XFB-007.jpg), [Langly](http://vs.tcgbrowser.com/images/cards/big/XFB-008.jpg), and [Byers](http://vs.tcgbrowser.com/images/cards/big/XFB-009.jpg)
 *Set: The X-Files Battles*
 
 **The Lone Gunmen** lets these characters power up each other. When one of them powers up another one, it will trigger each of their other Keyword Powers. For example, if you discard Byers to power up Frohike (or if you discard Frohike to power up Byers), it will trigger Byers' **Science** power and Frohike's **Photography** power. You can resolve those powers in either order.
@@ -4491,7 +4491,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTg0ODc1MiwtMTkyMjQ5MTIwMCwtMT
+eyJoaXN0b3J5IjpbLTY3MjcyNDg3NSwtMTkyMjQ5MTIwMCwtMT
 c5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0
 MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5OD
 E4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwx
