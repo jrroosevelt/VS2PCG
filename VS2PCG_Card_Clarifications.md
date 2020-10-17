@@ -3140,6 +3140,13 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 
 ^(Source: Rule insert)
 
+# Primordial Ice Worms
+*Set: The X-Files Battles*
+
+**Icebreaker** can be used on a character on any side. It has no set duration. It will give a character **Angry** and **Violent** until that character leaves play.
+
+^(Source: Rule Insert)
+
 # [Private Hudson](http://vs.tcgbrowser.com/images/cards/big/ALN-019.jpg)
 *Set: The Alien Battles*
 
@@ -4562,11 +4569,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzE5NDg0MywtNzg2NTU1MjE1LDE1Mz
-IwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4NzY3
-MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNz
-EsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwx
-MDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNz
-k0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3
-LDc4OTczOTkwNl19
+eyJoaXN0b3J5IjpbLTIwOTE0Njc2MjYsLTc4NjU1NTIxNSwxNT
+MyMDU5OTgzLC0xOTIyNDkxMjAwLC0xNzkxOTk5ODU4LC03ODc2
+NzA3MzAsNTI1NjA4OTA0LC0xMzYzMzQwNjQxLC0xMjY1NjE3Mz
+cxLDE3NzI4NjI2NjUsLTE0MDc2Njk4MTgsLTE2MzgzOTMwMjQs
+MTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUyMzE5MzksMjE0MT
+c5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUy
+Nyw3ODk3Mzk5MDZdfQ==
 -->
