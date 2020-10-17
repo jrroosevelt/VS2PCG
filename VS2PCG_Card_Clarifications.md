@@ -85,10 +85,18 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule insert)
 
 
-# [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
+# Alex Krycek
+## [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
 *Set: The X-Files Battles*
 
 **Fight or Die** can choose any random Main Character, even ones not in the combat. WE suggest rolling a die to determine which character gets stunned. If Kryceck gets stunned this way, he will get removed from combat. If a stunned Main Character is chosen, nothing happens. If a hidden Main Character is chosen, stun it.
+
+^(Source: Rule Insert)
+
+## Alex Krycek (SC)
+*Set: The X-Files Battles*
+
+**We All Have a Life in Our Hands** says to choose a unique character. This counts any character that doesn't have **Swarm**. To secretly choose a character we suggest jotting its name down on a piece of paper. **Note:** If the character you chose gets KO'd but then later another character with the same name is in play, the new character does NOT count for **We All Have a Life in Our Hands**.
 
 ^(Source: Rule Insert)
 
@@ -4463,7 +4471,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzM5OTE1MSwtMTc5MTk5OTg1OCwtNz
+eyJoaXN0b3J5IjpbMTk1MTg3NTYxMywtMTc5MTk5OTg1OCwtNz
 g3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYx
 NzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMD
 I0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIx
