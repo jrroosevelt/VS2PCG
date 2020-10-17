@@ -1817,6 +1817,13 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 
 ^(Source: Rule insert)
 
+# [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
+*Set: The X-Files Battles*
+
+**Between Two Masters** counts both Main and Supporting Characters, and if you have both Fox Mulder and Cigarette Smoking Man on your side, you'll get both effects.
+
+^(Source: Rule Insert)
+
 # [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
 *Set: Legacy*  
 
@@ -4505,7 +4512,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjIyNzk1MiwtMTkyMjQ5MTIwMCwtMT
+eyJoaXN0b3J5IjpbMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMT
 c5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0
 MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5OD
 E4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwx
