@@ -3182,6 +3182,8 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 
 **Note:** You must choose which option you want when you use **Pusher**, not during the enemy player's Formation Step.
 
+When **Kitsunegari** moves an enemy character to your side, you may immediately have it use one of its **Main** Super Powers without paying its power symbols. Then whether it used one of its powers or not, it goes back to the same row and position it was in. If it used one of its powers, then it won't be able to use that power again this turn. (Unless that power can normally be used multiple times on a turn.)
+
 ^(Source: Rule Insert)
 
 # Rocket
@@ -4456,7 +4458,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk2NTQyMDMsLTc4NzY3MDczMCw1Mj
+eyJoaXN0b3J5IjpbLTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1Mj
 U2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2
 MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwOD
 AxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEy
