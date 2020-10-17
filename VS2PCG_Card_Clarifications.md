@@ -537,6 +537,17 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 ^(Source: Rule insert)
 
+# [Cigarette Smoking Man (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-024.jpg)
+*Set: The X-Files Battles*
+
+**Come Work For Me** will count when a character turns face up either because it was hidden or because it was stunned and recovered. If CSM is turned face up at the same time as other characters on your side, he will 'see' them and gain XP for them.
+
+**Every Problem Has a Solution** counts Keyword, Super, and Level Up text powers with the word "can" or "can't" in their definition, even if the definition isn't printed on the card. (For example, the keyword **Dodge** doesn't always have its definition on a card but it means "This character can't be ranged attacked.") "Text powers" means this power doesn't affect Flight or Range. It also counts text powers that are granted to a card from another source, like a Plot Twist or an Equipment, but that aren't printed on the card itself.
+
+**Note:** If a power says "This power can't be turned off.", **Every Problem Has a Solution** will try to take it away (because it says "can't") but it won't be able to do so.
+
+^(Source: Rule Insert)
+
 # [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
 *Set: The Utopia Battles*
 
@@ -4411,11 +4422,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMT
-QwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcy
-NzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMj
-ksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgy
-Mzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Nj
-k1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUwLDE3NjIzNjU0MTAs
-LTExMTMxMjQ1MjRdfQ==
+eyJoaXN0b3J5IjpbLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMT
+c3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5
+OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OT
+E2LDEyMjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4
+OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MD
+AzNjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEyOCwxMzA2NDQ4MTUw
+LDE3NjIzNjU0MTBdfQ==
 -->
