@@ -1061,6 +1061,13 @@ A: Yes.
 
 ^(Source - FB Post - Chad Daniel - UDE Approved)
 
+# Eugene Victor Tooms (MC)
+*Set: The X-Files Battles*
+
+**Squeeze** requires Tooms to be physically between two cards in the same row. They could be Supporting Characters and/or Machines, and it doesn't matter if they're face up or face down.
+
+^(Source: Rule Insert)
+
 # [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg)
 *Set: The Marvel Battles*
 
@@ -4431,11 +4438,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjE1MDk3MiwtMTM2MzM0MDY0MSwtMT
-I2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4
-MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOT
-M5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0
-MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAyNj
-QzNCwtMTcxMTQwMDM2MiwtMTYxNTc2OTUzNiwtNDAyODY0MTI4
-LDEzMDY0NDgxNTBdfQ==
+eyJoaXN0b3J5IjpbLTExMTQ5NTkyNDQsLTEzNjMzNDA2NDEsLT
+EyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYz
+ODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMT
+kzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywx
+NDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5LC0xMDkwMj
+Y0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYsLTQwMjg2NDEy
+OCwxMzA2NDQ4MTUwXX0=
 -->
