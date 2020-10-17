@@ -1265,6 +1265,13 @@ Attacking a machine is a special type of attack declaration that can only be don
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
+# Flukeman
+*Set: The X-Files Battles*
+
+If the Flukeman is on your side and he **Infects** a character, this means at the end of each of your turns, put a -1/-1 counter on that character. The character will remain **Infected** until it leaves play. (Flukeman leaving play will NOT end the Infection). A character can be **Infected** more than once, and will receive a -1/-1 counter for each instance of the infection.
+
+^(Source: Rule Insert)
+
 # [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
 *Set: The X-Files Battles*
 
@@ -4498,11 +4505,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDQ5Nzk3MiwtMTkyMjQ5MTIwMCwtMT
-c5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0
-MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5OD
-E4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwx
-NzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MD
-EzNjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDks
-LTEwOTAyNjQzNF19
+eyJoaXN0b3J5IjpbLTEwNTAxNTg4MzcsLTE5MjI0OTEyMDAsLT
+E3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNjMz
+NDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2OT
+gxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAs
+MTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2OD
+AxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1NzQ5
+LC0xMDkwMjY0MzRdfQ==
 -->
