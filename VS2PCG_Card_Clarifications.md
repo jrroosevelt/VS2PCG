@@ -924,6 +924,13 @@ A: Either is fine. Yes, it can attack that turn.
 
 ^(Source: UDE FAQ)
 
+# [D.P.O.](http://vs.tcgbrowser.com/images/cards/big/XFB-052.jpg)
+*Set: The X-Files Battles*
+
+**Summon Lightning** works like this. Count the number of times a character on your side named D.P.O. has KO'd an enemy character this game. It could be by striking an enemy or by previous uses of **Summon Lightning**. Once you have that number, choose a Supporting Character with that cost or less and KO it.
+
+^(Source: Rule Insert)
+
 # [Dramatic Entrance](http://vs.tcgbrowser.com/images/cards/big/aff-050.jpg)
 *Set: A-Force* 
 
@@ -4491,7 +4498,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjcyNDg3NSwtMTkyMjQ5MTIwMCwtMT
+eyJoaXN0b3J5IjpbMTUyMDQ5Nzk3MiwtMTkyMjQ5MTIwMCwtMT
 c5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0
 MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5OD
 E4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwx
