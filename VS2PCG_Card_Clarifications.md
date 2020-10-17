@@ -3175,6 +3175,15 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 
 ^(Source: Rule insert)
 
+# [Robert Patrick Modell (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-048.jpg)
+*Set: The X-Files Battles*
+
+**Pusher** affects the next enemy player's Formation Step. You can either force that player to put their Range characters into their front row or their characters without Range into their back row.
+
+**Note:** You must choose which option you want when you use **Pusher**, not during the enemy player's Formation Step.
+
+^(Source: Rule Insert)
+
 # Rocket
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mnb-053.jpg) (MC)
 **Set: The Marvel Battles**
@@ -4447,11 +4456,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNj
-MzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2
-OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNz
-AsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2
-ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkwNiwxMTgyMzk1Nz
-Q5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIsLTE2MTU3Njk1MzYs
-LTQwMjg2NDEyOF19
+eyJoaXN0b3J5IjpbLTE1Mjk2NTQyMDMsLTc4NzY3MDczMCw1Mj
+U2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2
+MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwOD
+AxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEy
+MjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOT
+kwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIs
+LTE2MTU3Njk1MzZdfQ==
 -->
