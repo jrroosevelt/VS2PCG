@@ -1824,6 +1824,25 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 
 ^(Source: Rule Insert)
 
+# [Jenn](http://vs.tcgbrowser.com/images/cards/big/XFB-057.jpg)
+*Set: The X-Files Battles*
+
+If Jenn is in your deck, you start the game with a **Wish** pile. When you make your deck, choose three different cards and put two copies of each of them into your **Wish** pile. There are a few rules (besides no wishing for more wishes):
+
+- You can't choose Tokens.
+- You can't choose Main Characters or Locations.
+- You can't choose cards that start the game in piles (like Agendas) or cards that require a pile of their own.
+- You **can** choose cards that couldn't start in your deck, like Illustrated Universe cards and other teams' Loyalty cards.
+- You **can** choose copies of cards that are already in your deck, even if your deck already has the maximum number of those cards. 
+
+During setup put your **Wish** pile out of play face down. Your Wish pile is private. (Your opponents can't look at it but you can look at it any time.)
+
+When you make a Wish, remove both copies of any card in your Wish pile from the game, and choose an enemy player. **While those cards are removed this way, you may play one and that player may play one.**
+
+If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes into its owner's (your) KO pile.
+
+^(Source: Rule Insert)
+
 # [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
 *Set: Legacy*  
 
@@ -4512,11 +4531,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMT
-c5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0
-MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5OD
-E4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwx
-NzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MD
-EzNjA3LDE0MDQ2ODg1MjcsNzg5NzM5OTA2LDExODIzOTU3NDks
-LTEwOTAyNjQzNF19
+eyJoaXN0b3J5IjpbNzY1ODU2Njg5LDE1MzIwNTk5ODMsLTE5Mj
+I0OTEyMDAsLTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5
+MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NS
+wtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDEx
+OTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1ND
+czMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkwNiwx
+MTgyMzk1NzQ5XX0=
 -->
