@@ -2628,6 +2628,13 @@ A: Yes.
 
 *Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
 
+# [Monica Reyes](http://vs.tcgbrowser.com/images/cards/big/XFB-011.jpg)
+*Set: The X-Files Battles*
+
+**Practical and Pragmatic** gives a bonus to Reyes based on what team affiliation your Main Character has. If you have more than one Main Character, or your Main Character has more than one team affiliation, it's possible for Reyes to get multiple bonuses.
+
+^(Source: Rule Insert)
+
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
 *Set: A-Force*  
 
@@ -4531,11 +4538,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1ODU2Njg5LDE1MzIwNTk5ODMsLTE5Mj
-I0OTEyMDAsLTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5
-MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NS
-wtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDEx
-OTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1ND
-czMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOTkwNiwx
-MTgyMzk1NzQ5XX0=
+eyJoaXN0b3J5IjpbMTI5MzcwODA0MywxNTMyMDU5OTgzLC0xOT
+IyNDkxMjAwLC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4
+OTA0LC0xMzYzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2Nj
+UsLTE0MDc2Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwx
+MTk3MjczMDcwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNT
+Q3MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYs
+MTE4MjM5NTc0OV19
 -->
