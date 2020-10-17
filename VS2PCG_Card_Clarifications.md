@@ -3066,6 +3066,23 @@ A: No. As long as he stuns the defender, the power is applied, even if Paladin i
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/595302528631963648)
 
+# [Parallel Dimension](http://vs.tcgbrowser.com/images/cards/big/XFB-064.jpg)
+*Set: The X-Files Battles*
+
+A **Duplicate** of your Main Character works like this. It has all the same printed characteristics as your Main Character - name, team, current Level, ATK/DEF, and posers - plus it has **Swarm** and it can't gain XP, Level Up or Level Down, transform, or otherwise become a different card. When it's KO'd, it will go back to being the Parallel Dimension Plot Twist in your KO Pile.
+
+Note: If you have more than one Main Character when you play this, choose one to make a **Duplicate** of.
+
+^(Source: Rule Insert)
+
+---
+
+Scenario: I make a **Duplicate** of Level 2 **The First Evil** and then play **Appear As The Dead** to play a character from a KO pile. Can I just keep doing this as I would with the actual **The First Evil**?
+
+A: No. You **can** do this the first time. However, as soon as **Parallel Dimension** leaves play, it ceases to be a character and turns back into a plot twist. At that point, it "forgets" that it was a character and is never able to reenter play. 
+
+^Source: ^Chad ^Daniel
+
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
 *Set: Crossover*  
@@ -4545,11 +4562,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOT
-IyNDkxMjAwLC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4
-OTA0LC0xMzYzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2Nj
-UsLTE0MDc2Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwx
-MTk3MjczMDcwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNT
-Q3MzI5LDIwNjgwMTM2MDcsMTQwNDY4ODUyNyw3ODk3Mzk5MDYs
-MTE4MjM5NTc0OV19
+eyJoaXN0b3J5IjpbMTQ5NzE5NDg0MywtNzg2NTU1MjE1LDE1Mz
+IwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4NzY3
+MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNz
+EsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwx
+MDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNz
+k0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3
+LDc4OTczOTkwNl19
 -->
