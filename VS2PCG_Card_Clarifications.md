@@ -4576,12 +4576,20 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 
 ^(Source: Rule insert)
+
+# [The X-Files](http://vs.tcgbrowser.com/images/cards/big/XFB-021.jpg)
+*Set: The X-Files Battles*
+
+This Location is the only way to generate an Earth power symbol for a Bureau character. There are currently no basic Earth Locations in the Photographic Universe.
+
+^(Source: Rule Insert)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzI0MDYwMCwtNzg2NTU1MjE1LDE1Mz
-IwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4NzY3
-MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNz
-EsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwx
-MDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNz
-k0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3
-LDc4OTczOTkwNl19
+eyJoaXN0b3J5IjpbNDYwNTk4NDE4LC03ODY1NTUyMTUsMTUzMj
+A1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MTk5OTg1OCwtNzg3Njcw
+NzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYxNzM3MS
+wxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMDI0LDEw
+MTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIxNDE3OT
+Q5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0MDQ2ODg1Mjcs
+Nzg5NzM5OTA2XX0=
 -->
