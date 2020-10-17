@@ -17,7 +17,12 @@ For additional information, see also:
 
 * [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary#wiki_hide )
 
+# [Abduction](http://vs.tcgbrowser.com/images/cards/big/XFB-037.jpg)
+*Set: The X-Files Battles*
 
+The abducted character will re-enter the game with wound counters on it equal to its printed health minus one. So if it has 3 printed health, it will re-enter the game with two wounds. **Note:** This won't trigger any powers that look for "when a character gets wounded**.
+
+^(Source: Rule Insert)
 
 # [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
 *Set: MCU Battles*
@@ -4458,11 +4463,11 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1Mj
-U2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2
-MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwOD
-AxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEy
-MjA1NDczMjksMjA2ODAxMzYwNywxNDA0Njg4NTI3LDc4OTczOT
-kwNiwxMTgyMzk1NzQ5LC0xMDkwMjY0MzQsLTE3MTE0MDAzNjIs
-LTE2MTU3Njk1MzZdfQ==
+eyJoaXN0b3J5IjpbMTc1MzM5OTE1MSwtMTc5MTk5OTg1OCwtNz
+g3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYx
+NzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMD
+I0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIx
+NDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0MDQ2OD
+g1MjcsNzg5NzM5OTA2LDExODIzOTU3NDksLTEwOTAyNjQzNCwt
+MTcxMTQwMDM2Ml19
 -->
