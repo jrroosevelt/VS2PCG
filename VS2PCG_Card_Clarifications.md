@@ -2194,6 +2194,13 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 
 ^(Source: UDE Blog Preview post)
 
+# [The Lone Gunmen Newsletter](http://vs.tcgbrowser.com/images/cards/big/XFB-019.jpg)
+*Set: The X-Files Battles*
+
+Note that this Plot Twist will only cancel either one Super Power or one Plot Twist, not one of each.
+
+^(Source: Rule Insert)
+
 # [Loyal Soldiers](http://vs.tcgbrowser.com/images/cards/big/def-053.jpg)
 *Set: Defenders*
 
@@ -4538,7 +4545,7 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzcwODA0MywxNTMyMDU5OTgzLC0xOT
+eyJoaXN0b3J5IjpbLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOT
 IyNDkxMjAwLC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4
 OTA0LC0xMzYzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2Nj
 UsLTE0MDc2Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwx
