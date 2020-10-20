@@ -2072,7 +2072,8 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 	- **Pyrokinetic** (Once on your turn, put three -1/-1 counters on each enemy character.
 - Option 5: #5 The Legion: 11/11
 	- **Bend Reality to My Will** You pay 1 less to play cards, and enemy players pay 1 more.
-	- **The Real Me** (At the end of your turn, randomly choose "The Legion" or "David Haller
+	- **The Real Me** (At the end of your turn, randomly choose "The Legion" or "David Haller". Whichever you choose takes over at your next Build Phase instead of a random Personality taking over.)
+- 
 
 ^(Source: Rule insert)
 
@@ -4614,11 +4615,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAyMTI4MzgsMTIyMDU0NzMyOSwxMT
-gyMzk1NzQ5LDEzMDY0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1
-OTAsLTE0MjY3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MD
-I3MzIxMiwxNjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQx
-MDYsMTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OS
-wxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0x
-MDc4NDMxMjk5XX0=
+eyJoaXN0b3J5IjpbMzk0OTI2MTQsMTIyMDU0NzMyOSwxMTgyMz
+k1NzQ5LDEzMDY0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1OTAs
+LTE0MjY3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3Mz
+IxMiwxNjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYs
+MTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMz
+c3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4
+NDMxMjk5XX0=
 -->
