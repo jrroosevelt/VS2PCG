@@ -2047,6 +2047,15 @@ Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negati
 
 ^(Source: Rule insert)
 
+# Legion
+*Set: The Omegas*  
+
+When a **Personality** takes over Legion, the following occurs:
+
+- 
+
+^(Source: Rule insert)
+
 # [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
 *Set: Monsters Unleashed!*  
 
@@ -4585,11 +4594,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNTk4NDE4LDEyMjA1NDczMjksMTE4Mj
-M5NTc0OSwxMzA2NDQ4MTUwLDczODU2NjQ3NSwxMTQ2NzA0NTkw
-LC0xNDI2Nzk1NzksNjY3NzU0NjU1LDE0NjgxMTAyMzksNDAyNz
-MyMTIsMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2
-LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMT
-M3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3
-ODQzMTI5OV19
+eyJoaXN0b3J5IjpbMTAzNTc5MTM4OCwxMjIwNTQ3MzI5LDExOD
+IzOTU3NDksMTMwNjQ0ODE1MCw3Mzg1NjY0NzUsMTE0NjcwNDU5
+MCwtMTQyNjc5NTc5LDY2Nzc1NDY1NSwxNDY4MTEwMjM5LDQwMj
+czMjEyLDE2NDkwNzU4MzIsLTE5NzY4NDM5ODQsMTQ1MjM1NDEw
+NiwxMTU5NDQ1MTA2LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LD
+EzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEw
+Nzg0MzEyOTldfQ==
 -->
