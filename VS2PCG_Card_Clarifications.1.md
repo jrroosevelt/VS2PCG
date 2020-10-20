@@ -9,17 +9,20 @@ The following card-specific information is a culmination of clarifications, rule
 * An official rule change, clarification, or errata
 * A community source, such as Facebook or Discord. (Some of these have been officially approved by UDE and, if so, are noted in the source citation). 
 
-**Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rulesheet and do not fundamentally change the intent of the original text.
+**Note**: There have been some minor editorial liberties taken (not all are exact quotations from the main source). These changes are mainly cosmetic or made to help understand context outside of the rule-sheet and do not fundamentally change the intent of the original text.
 
 For additional information, see also:
 
 * [Rule changes, bans, errata, and clarifications](/r/VS2PCG/wiki/rulings)
 
-* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossaryhttps://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/rulings__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsqIFO6I0A$ )
+* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary#wiki_hide )
 
-* [Glossary of Terms, keywords and effects](https://urldefense.com/v3/__https://www.reddit.com/r/VS2PCG/wiki/glossary__;!!EbQPtYtffN8evQ!rEiskfqdzor4Fz1uF3VSkXbyzo-pfJvzQeJeFrOYYxup6oXbYLw2haeORsofLbyHWw$ )
+# [Abduction](http://vs.tcgbrowser.com/images/cards/big/XFB-037.jpg)
+*Set: The X-Files Battles*
 
+The abducted character will re-enter the game with wound counters on it equal to its printed health minus one. So if it has 3 printed health, it will re-enter the game with two wounds. **Note:** This won't trigger any powers that look for "when a character gets wounded**.
 
+^(Source: Rule Insert)
 
 # [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
 *Set: MCU Battles*
@@ -49,7 +52,7 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 
 ^(Source: Rule insert)
 
-# Ahab
+# [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
 You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) who do not share any names and do not have any copies in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
 
 ^(Source: Rule Insert)
@@ -77,10 +80,25 @@ Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
 
-Set: H.A.M.M.E.R.  
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
 
 ^(Source: Rule insert)
+
+
+# Alex Krycek
+## [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
+*Set: The X-Files Battles*
+
+**Fight or Die** can choose any random Main Character, even ones not in the combat. WE suggest rolling a die to determine which character gets stunned. If Kryceck gets stunned this way, he will get removed from combat. If a stunned Main Character is chosen, nothing happens. If a hidden Main Character is chosen, stun it.
+
+^(Source: Rule Insert)
+
+## [Alex Krycek (SC)](http://vs.tcgbrowser.com/images/cards/big/XFB-033.jpg)
+*Set: The X-Files Battles*
+
+**We All Have a Life in Our Hands** says to choose a unique character. This counts any character that doesn't have **Swarm**. To secretly choose a character we suggest jotting its name down on a piece of paper. **Note:** If the character you chose gets KO'd but then later another character with the same name is in play, the new character does NOT count for **We All Have a Life in Our Hands**.
+
+^(Source: Rule Insert)
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
 *Set: The Fantastic Battles*  
@@ -179,7 +197,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 
 ^(Source: Rule insert)
 
-# Astra
+# [Astra](http://vs.tcgbrowser.com/images/cards/big/FRE-011.jpg)
 *Set: Freedom Force*
 
 To create a **Clone** put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character but nothing else. It appears face up and ready and does not appear with any counters or status effects (like **Burn**). Uniqueness does apply to the token.
@@ -257,6 +275,14 @@ Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power,
 
 ^(Source: Rule insert)
 
+---
+
+Q: If I use Black Bolt's **Sonic Whisper** and Black Bolt is Lethal (by playing "A Killer Voice" for example), will the opponent be KO'd?
+
+A: If you are attacking, yes. Lethal only activates when attacking and when you cause a wound. Because **Sonic Whisper** is a combat ability, and stunning causes a wound, the opponent will be KO'd (barring any other effects that prevent the wound, etc.).
+
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/763758624358268940)
+
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
 *Set: A-Force*
@@ -284,6 +310,15 @@ A: Even the Odds creates a modifier that overrides or suppresses any other modif
 
 ^(Source: FB Post - Community)
 
+# [Black Oil](http://vs.tcgbrowser.com/images/cards/big/XFB-036.jpg)
+*Set: The X-Files Battles*
+
+You can only equip this to an enemy Supporting Character. Then during your Draw Phase, you can pay an Energy to bring that chracter to your side until it leaves play.
+
+**Note:** Any player who is an enemy of the chracter that has **Black Oil** equipped can use its **Give It Time** power. For example, in a 3-player game, Player A might put **Black Oil** on Player B's character. But Player C could use **Give it Time** to steal that character.
+
+^(Source: Rule Insert)
+
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
 *Set: Cosmic Avengers*  
@@ -306,7 +341,7 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 
 ^(Source: Rule insert)
 
-# Blindspot
+# [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
 *Set: Freedom Force*
 
 If **Memory Thief** sets a character's base health to 1, and that character has a wound, it will get KO'd.
@@ -367,7 +402,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 
 ^(Source: Rule insert)
 
-# Brotherhood
+# [Brotherhood](http://vs.tcgbrowser.com/images/cards/big/FRE-019.jpg)
 *Set: Freedom Force*
 
 When you play Brotherhood there must be two exhausted face-up characters that share a team affiliation on your side. Or else the effect does nothing.
@@ -524,6 +559,17 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 ^(Source: Rule insert)
 
+# [Cigarette Smoking Man (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-024.jpg)
+*Set: The X-Files Battles*
+
+**Come Work For Me** will count when a character turns face up either because it was hidden or because it was stunned and recovered. If CSM is turned face up at the same time as other characters on your side, he will 'see' them and gain XP for them.
+
+**Every Problem Has a Solution** counts Keyword, Super, and Level Up text powers with the word "can" or "can't" in their definition, even if the definition isn't printed on the card. (For example, the keyword **Dodge** doesn't always have its definition on a card but it means "This character can't be ranged attacked.") "Text powers" means this power doesn't affect Flight or Range. It also counts text powers that are granted to a card from another source, like a Plot Twist or an Equipment, but that aren't printed on the card itself.
+
+**Note:** If a power says "This power can't be turned off.", **Every Problem Has a Solution** will try to take it away (because it says "can't") but it won't be able to do so.
+
+^(Source: Rule Insert)
+
 # [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
 *Set: The Utopia Battles*
 
@@ -533,6 +579,15 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
+
+# [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
+*Set: The X-Files Battles*
+
+**Prepare for Colonization** gives **Swarm** to all characters you own, which means you no longer have to worry about your characters being KO'd due to uniqueness.
+
+**Watch and Learn** gives the Colonists 1 XP the first time an Academy appears in a resource row on any side. Th esame is true for the other three Locations mentioned.
+
+^(Source: Rule Insert)
 
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
 *Set: Deadpool & Friends*
@@ -778,7 +833,7 @@ While this card is face down in your Resource Row, you can play it as if it was 
 
 ^(Source: Rule insert)
 
-# Destiny
+# [Destiny](http://vs.tcgbrowser.com/images/cards/big/FRE-007.jpg)
 *Set: Freedom Force*
 
 If a player would draw two or more at a time (including during their Draw Phase), **Precognition** will let you look at the top card of their deck before and after each individual draw. In other words, you’ll get to see each card they draw.
@@ -868,6 +923,13 @@ Q: When I use Necromancy can I put the character into my Front or Back Row? Can 
 A: Either is fine. Yes, it can attack that turn.
 
 ^(Source: UDE FAQ)
+
+# [D.P.O.](http://vs.tcgbrowser.com/images/cards/big/XFB-052.jpg)
+*Set: The X-Files Battles*
+
+**Summon Lightning** works like this. Count the number of times a character on your side named D.P.O. has KO'd an enemy character this game. It could be by striking an enemy or by previous uses of **Summon Lightning**. Once you have that number, choose a Supporting Character with that cost or less and KO it.
+
+^(Source: Rule Insert)
 
 # [Dramatic Entrance](http://vs.tcgbrowser.com/images/cards/big/aff-050.jpg)
 *Set: A-Force* 
@@ -1027,6 +1089,13 @@ Q: Can Enchantress level up if with **Champion of Amora** if my opponent has no 
 A: Yes.
 
 ^(Source - FB Post - Chad Daniel - UDE Approved)
+
+# [Eugene Victor Tooms (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-046.jpg)
+*Set: The X-Files Battles*
+
+**Squeeze** requires Tooms to be physically between two cards in the same row. They could be Supporting Characters and/or Machines, and it doesn't matter if they're face up or face down.
+
+^(Source: Rule Insert)
 
 # [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg)
 *Set: The Marvel Battles*
@@ -1196,6 +1265,22 @@ Attacking a machine is a special type of attack declaration that can only be don
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
+# [Flukeman](http://vs.tcgbrowser.com/images/cards/big/XFB-054.jpg)
+*Set: The X-Files Battles*
+
+If the Flukeman is on your side and he **Infects** a character, this means at the end of each of your turns, put a -1/-1 counter on that character. The character will remain **Infected** until it leaves play. (Flukeman leaving play will NOT end the Infection). A character can be **Infected** more than once, and will receive a -1/-1 counter for each instance of the infection.
+
+^(Source: Rule Insert)
+
+# [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
+*Set: The X-Files Battles*
+
+**Spooky** and **I Want to Believe** look for Alien Super Powers. This includes any Super Power that costs at least one Alien symbol to use. With **Spooky,** if you choose an Evil enemy character with an Alien Super Power, you can either daze it, stun it, or KO it (although you only get to pick one of the three options). The same is true for **I Want to Believe**: if an Evil enemy character with an Alien Super Power appears, you can choose for Mulder to gain 1, 2, or 3 XP. (It's not cumulative.) We would choose 3, but your mileage may vary.
+
+**Searching for Samantha** will draw a card each time you search your deck for something. First resolve the search effect, then draw a card.
+
+^(Source: Rule Insert)
+
 # [Franklin Richards](http://vs.tcgbrowser.com/images/cards/big/FAN-021.jpg)
 *Set: The Fantastic Battles*  
 
@@ -1232,6 +1317,17 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 
 
 ^(Source: Rule insert)
+
+# [Frohike](http://vs.tcgbrowser.com/images/cards/big/XFB-007.jpg), [Langly](http://vs.tcgbrowser.com/images/cards/big/XFB-008.jpg), and [Byers](http://vs.tcgbrowser.com/images/cards/big/XFB-009.jpg)
+*Set: The X-Files Battles*
+
+**The Lone Gunmen** lets these characters power up each other. When one of them powers up another one, it will trigger each of their other Keyword Powers. For example, if you discard Byers to power up Frohike (or if you discard Frohike to power up Byers), it will trigger Byers' **Science** power and Frohike's **Photography** power. You can resolve those powers in either order.
+
+**Note:** Powering up one of these characters the normal way wont' cause their powers to trigger.
+
+^(Source: Rule Insert)
+
+
         
 
 # [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
@@ -1408,6 +1504,13 @@ Q: Green Goblin gets xp for stunning an enemy if he is stunned back, right?
 A: Yes.
 
 ^(Source: FB Post - Tim Saunders - UDE Approved)
+
+## [Green Goblin (SC - Sinister Six)](http://vs.tcgbrowser.com/images/cards/big/SYN-016.jpg)
+*Set: Sinister Syndicate*
+
+Q: Can **Pumpkin Bomb** target Hidden characters?
+
+A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide).
 
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
@@ -1653,7 +1756,7 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 
 ^(Source: Rule insert)
 
-# Inhibitor Collar
+# [Inhibitor Collar](http://vs.tcgbrowser.com/images/cards/big/FUT-026.jpg)
 *Set: Futures Past*
 
 A player can equip the Collar to a face-up character or a stunned character. If that character already has Equipment equipped, KO it. When an equipped face-up character is stunned, the Collar remains on (and face up). If a character equipped with the Collar hides, KO the Collar (they must have figured out how to take it off)!
@@ -1713,6 +1816,32 @@ Isabelle’s supporting character has this keyword. Enemy players can turn down 
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
 
 ^(Source: Rule insert)
+
+# [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
+*Set: The X-Files Battles*
+
+**Between Two Masters** counts both Main and Supporting Characters, and if you have both Fox Mulder and Cigarette Smoking Man on your side, you'll get both effects.
+
+^(Source: Rule Insert)
+
+# [Jenn](http://vs.tcgbrowser.com/images/cards/big/XFB-057.jpg)
+*Set: The X-Files Battles*
+
+If Jenn is in your deck, you start the game with a **Wish** pile. When you make your deck, choose three different cards and put two copies of each of them into your **Wish** pile. There are a few rules (besides no wishing for more wishes):
+
+- You can't choose Tokens.
+- You can't choose Main Characters or Locations.
+- You can't choose cards that start the game in piles (like Agendas) or cards that require a pile of their own.
+- You **can** choose cards that couldn't start in your deck, like Illustrated Universe cards and other teams' Loyalty cards.
+- You **can** choose copies of cards that are already in your deck, even if your deck already has the maximum number of those cards. 
+
+During setup put your **Wish** pile out of play face down. Your Wish pile is private. (Your opponents can't look at it but you can look at it any time.)
+
+When you make a Wish, remove both copies of any card in your Wish pile from the game, and choose an enemy player. **While those cards are removed this way, you may play one and that player may play one.**
+
+If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes into its owner's (your) KO pile.
+
+^(Source: Rule Insert)
 
 # [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
 *Set: Legacy*  
@@ -1795,7 +1924,7 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 
 ^(Source: Rule Insert)
 
-# Kate (and Kitty) Pryde (MC)
+# [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and [Kitty) Pryde](http://vs.tcgbrowser.com/images/cards/big/FUT-002.jpg) (MC)
 *Set: Futures Past*
 Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
 
@@ -1925,7 +2054,7 @@ See [Fin Fang Foom](#wiki_fin_fang_foom).
 
 ^(Source: Rule insert)
 
-# Leviathon Twin Drake
+# [Leviathon Twin Drake](http://vs.tcgbrowser.com/images/cards/big/CV1-012.jpg)
 *Set: Crossover Vol. 1*
 
 Q: The first line of **Leviathon Overseer** says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work? 
@@ -2001,7 +2130,7 @@ Editor's note: On the flip side, the characters brought **Along for the Ride** w
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/613412785925390355) 
 
 # Logan 
-## Logan (MC)
+## [Logan (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-004.jpg)
 *Set: Futures Past*
 
 Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Timeline**) to every Level 3 Wolverine on your side. As of this Issue, there is only one Level 3 Wolverine (from the 2017 Vs. System 2PCG: Legacy issue). 
@@ -2010,7 +2139,7 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 
 ^(Source: Rule Insert)
 
-## Logan (SC)
+## [Logan (SC)](http://vs.tcgbrowser.com/images/cards/big/FUT-013.jpg)
 *Set: Futures Past*
 
 Here's how his **Canadian Resistance Colonel** works:
@@ -2064,6 +2193,13 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 3) No, you can not have both versions in play at the same time, they are the same character for game purposes and the Uniqueness rule.
 
 ^(Source: UDE Blog Preview post)
+
+# [The Lone Gunmen Newsletter](http://vs.tcgbrowser.com/images/cards/big/XFB-019.jpg)
+*Set: The X-Files Battles*
+
+Note that this Plot Twist will only cancel either one Super Power or one Plot Twist, not one of each.
+
+^(Source: Rule Insert)
 
 # [Loyal Soldiers](http://vs.tcgbrowser.com/images/cards/big/def-053.jpg)
 *Set: Defenders*
@@ -2247,7 +2383,7 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 ^(Source: Rule insert)
 
-# Match
+# [Match](http://vs.tcgbrowser.com/images/cards/big/TUB-013.jpg)
 *Set: The Utopia Battles*
 
 Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
@@ -2382,9 +2518,14 @@ See [Nova Corps](#wiki_nova_corps)
 [This card has received significant errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
 
 ---
+
 Previously the Absorption History pile included any three main characters with different names. Going forward, his Absorption History pile may only include the original five X-Men plus Professor X. This change reduces the number of main characters Mimic can copy, which avoids overpowered interactions. It also brings Mimic more in line with his classic flavor. This change is effective October 1st, 2020.
 
 Below are the updated rules. (This replaces the rules entry in the H.A.M.M.E.R. Issue rules insert.) The changes are underlined.
+
+---
+
+**Mimic**
 
 Mimic’s Absorption History, from his **Checkered Past** Keyword,  represents three characters that he’s copied powers from. In game terms it’s a pile that includes exactly three Main Character cards, one Level 1, one Level 2, and one Level 3. They can only be from the Illustrated Universe,  they must be Marvel and they must have three different card titles from the following list:
 
@@ -2401,21 +2542,23 @@ Note: There is no main character with the card title Beast. Yet.
 
 At the time of this writing (September 2020), your choices at each level are:
 
-- Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
-- Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+Level 1: Angel, Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+
+Level 2: Cyclops (2 options), Iceman, Jean Grey, Professor X (2 options)
+
 Level 3: Jean Grey, Professor X
 
 **Note:** While Mimic  _can_  copy Professor X’s Level 3  **Graduation**  super power, he won’t actually be able to  **Graduate**  any X-Men. (This is because the Graduation super power requires a Graduation pile, and you only get to bring a Graduation pile if Professor X is your main character, not if Professor X’s power is being copied. Look for an upcoming rules update that clarifies how out-of-game piles work.)
 
-During setup when you reveal Mimic as your Main Character, you’ll also reveal Mimic as your Main Chara thethe Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
+During setup when you reveal Mimic as your Main Character, you’ll also reveal the Level 1 character in your Absorption History. Mimic gains its Keyword and Super Powers only when the game begins.
 
-When Mimic becomes Level 2, you’ll reveal  Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
+When Mimic becomes Level 2, you’ll reveal the Level 2 character in your Absorption History. Mimic now gains its Keyword and Super Power and loses the powers of the Level 1 character he was previously copying.
 
 When Mimic becomes Level 3, you’ll reveal the Level 3 character in your Absorption History. Mimic now gains its Keyword and Super Powers and loses the powers of the Level 2 character he was previously copying.
 
 **Note:**  While  **Checkered Past** is a Keyword and can technically be turned off by certain effects, turning it off doesn’t affect Mimic’s ability to use the pile (it’s locked in from the beginning of the game).
 
-^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-claificatio^Blog
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-rules-update-mimic-main-character/)
 
 ---
 
@@ -2492,6 +2635,13 @@ A: Yes.
 
 *Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
 
+# [Monica Reyes](http://vs.tcgbrowser.com/images/cards/big/XFB-011.jpg)
+*Set: The X-Files Battles*
+
+**Practical and Pragmatic** gives a bonus to Reyes based on what team affiliation your Main Character has. If you have more than one Main Character, or your Main Character has more than one team affiliation, it's possible for Reyes to get multiple bonuses.
+
+^(Source: Rule Insert)
+
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
 *Set: A-Force*  
 
@@ -2530,7 +2680,7 @@ A: No, because stunned character lose their powers including the Ranged symbol.
 
 ^(Source: UDE FAQ)
 
-# Mutant Control Act
+# [Mutant Control Act](http://vs.tcgbrowser.com/images/cards/big/FUT-027.jpg)
 *Set: Futures Past*
 
 This Plot Twist will stop "recruit" and "appears" powers.
@@ -2618,7 +2768,7 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
-## Mystique (MC - Brotherhood)
+## [Mystique (MC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-003.jpg)
 *Set: Freedom Force*
 **Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
 
@@ -2765,7 +2915,7 @@ A: No. When you activate his power, take the top card of your deck and place it 
 
 ^(Source: Rule insert)
 
-# Nimrod (MC)
+# [Nimrod (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-007.jpg)
 *Set: Futures Past*
 
 With his **Enemy Power Analysis**, if the attacker has more than one of the listed items, Nimrod will get the respective powers from all of them, not just one.
@@ -2782,6 +2932,13 @@ Norman’s Level 2 Keyword Powers also affect himself.
 Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) characters the (H.A.M.M.E.R.) team affiliation.
 
 ^(Source: Rule insert)
+
+# [\* Nova \*](http://vs.tcgbrowser.com/images/cards/big/HER-016.jpg) 
+*Set: The Herald*
+
+Q: Can **Stellar Flare!** target Hidden characters?
+
+A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide).
 
 # [Nova Corps](http://vs.tcgbrowser.com/images/cards/big/GAL-018.jpg)
 *Set: Galactic Guardians*  
@@ -2909,6 +3066,23 @@ A: No. As long as he stuns the defender, the power is applied, even if Paladin i
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/595302528631963648)
 
+# [Parallel Dimension](http://vs.tcgbrowser.com/images/cards/big/XFB-064.jpg)
+*Set: The X-Files Battles*
+
+A **Duplicate** of your Main Character works like this. It has all the same printed characteristics as your Main Character - name, team, current Level, ATK/DEF, and posers - plus it has **Swarm** and it can't gain XP, Level Up or Level Down, transform, or otherwise become a different card. When it's KO'd, it will go back to being the Parallel Dimension Plot Twist in your KO Pile.
+
+Note: If you have more than one Main Character when you play this, choose one to make a **Duplicate** of.
+
+^(Source: Rule Insert)
+
+---
+
+Scenario: I make a **Duplicate** of Level 2 **The First Evil** and then play **Appear As The Dead** to play a character from a KO pile. Can I just keep doing this as I would with the actual **The First Evil**?
+
+A: No. You **can** do this the first time. However, as soon as **Parallel Dimension** leaves play, it ceases to be a character and turns back into a plot twist. At that point, it "forgets" that it was a character and is never able to reenter play. 
+
+^Source: ^Chad ^Daniel
+
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
 *Set: Crossover*  
@@ -2965,6 +3139,13 @@ Some characters are known by more than one moniker - like Power Man, who says **
 Power Man loves a good party, especially if he wasn’t invited. His **Crash the Party** power counts each enemy power, even if there are multiple instances of the same power. But remember face-down characters lose their powers so he won’t count their powers.
 
 ^(Source: Rule insert)
+
+# [Primordial Ice Worms](http://vs.tcgbrowser.com/images/cards/big/XFB-050.jpg)
+*Set: The X-Files Battles*
+
+**Icebreaker** can be used on a character on any side. It has no set duration. It will give a character **Angry** and **Violent** until that character leaves play.
+
+^(Source: Rule Insert)
 
 # [Private Hudson](http://vs.tcgbrowser.com/images/cards/big/ALN-019.jpg)
 *Set: The Alien Battles*
@@ -3035,7 +3216,7 @@ A: Once Purple man's power has been activated and resolved, it is independent of
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # Pyro
-## Pyro (MC)
+## [Pyro (MC)](http://vs.tcgbrowser.com/images/cards/big/FRE-005.jpg)
 *Set: Freedom Force*
 
 His Level 2 **Trailblazer** ability does allow him to search for characters he gave **Burn Notice** to with his Level 1 **Pyro to the People**.
@@ -3049,7 +3230,7 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 ^(Source: Rule insert)
 
-# Rachel Summers (MC)
+# [Rachel Summers (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-006.jpg)
 *Set: Futures Past*
 
 **Powerful Heritage** and **Daughter of the Phoenix** refer  to the "card title" for Phoenix and Dark Phoenix. This means the name at the very top of the card must be Phoenix or Dark Phoenix. **AKA**s don't count.
@@ -3105,6 +3286,17 @@ Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"R
 
 ^(Source: Rule insert)
 
+# [Robert Patrick Modell (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-048.jpg)
+*Set: The X-Files Battles*
+
+**Pusher** affects the next enemy player's Formation Step. You can either force that player to put their Range characters into their front row or their characters without Range into their back row.
+
+**Note:** You must choose which option you want when you use **Pusher**, not during the enemy player's Formation Step.
+
+When **Kitsunegari** moves an enemy character to your side, you may immediately have it use one of its **Main** Super Powers without paying its power symbols. Then whether it used one of its powers or not, it goes back to the same row and position it was in. If it used one of its powers, then it won't be able to use that power again this turn. (Unless that power can normally be used multiple times on a turn.)
+
+^(Source: Rule Insert)
+
 # Rocket
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mnb-053.jpg) (MC)
 **Set: The Marvel Battles**
@@ -3147,7 +3339,7 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 
 ^(Source: Rule insert)
 
-## Rogue (SC - Brotherhood)
+## [Rogue (SC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-013.jpg)
 *Set: Freedom Force*
 
 **Permanent Power Absorption** works like this: Rogue gains an ATK, DEF, and Health increase equal to the KO'd character's printed ATK, DEF, and Health respectively. She also gains that character's printed keyword and super powers. These gains last until Rogue leaves play.
@@ -3889,7 +4081,7 @@ A: Yes.
 
 ^(Source: Rule insert)
 
-# Strength Above All Else
+# [Strength Above All Else](http://vs.tcgbrowser.com/images/cards/big/SVH-027.jpg)
 *Set: S.H.I.E.L.D. vs. Hydra*
 
 Q: 
@@ -3901,7 +4093,7 @@ Q:
   
 Does Strength Above All Else still prevent the damage? Did it just grant protection when it resolves, or does it check for ATK again at strike?
 
-A: if you are the highest ATK character during combat resoluition you can't be struck
+A: if you are the highest ATK character during combat resolution you can't be struck
 
 ^(Source: Chad Daniel - UDE Approved)
 
@@ -3957,6 +4149,14 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 **That’s Entertainment** moves each face-up character to their front row and has them perform a Musical Number. There is no official definition of what counts as a Musical Number. We recommend rocking the cards back and forth and having them sing a song. (Although if The Gentlemen are in play, no singing is allowed.)
 
 ^(Source: Rule insert)
+
+# [The Syndicate](http://vs.tcgbrowser.com/images/cards/big/XFB-042.jpg)
+*Set: The X-Files Battles*
+
+This Location is the only way to generate an Alien power symbol for a Syndicate character. There are currently no basic Alien Locations in the Photographic Universe.
+
+^(Source: Rule Insert)
+
 
 # [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
 *Set: Legacy*
@@ -4376,12 +4576,20 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 
 ^(Source: Rule insert)
+
+# [The X-Files](http://vs.tcgbrowser.com/images/cards/big/XFB-021.jpg)
+*Set: The X-Files Battles*
+
+This Location is the only way to generate an Earth power symbol for a Bureau character. There are currently no basic Earth Locations in the Photographic Universe.
+
+^(Source: Rule Insert)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDU0NzMyOSwxMTgyMzk1NzQ5LDEzMD
-Y0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3
-OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MD
-c1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEw
-NiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC
-0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4NDMxMjk5LDE4
-NTYzODc5MDJdfQ==
+eyJoaXN0b3J5IjpbNDYwNTk4NDE4LDEyMjA1NDczMjksMTE4Mj
+M5NTc0OSwxMzA2NDQ4MTUwLDczODU2NjQ3NSwxMTQ2NzA0NTkw
+LC0xNDI2Nzk1NzksNjY3NzU0NjU1LDE0NjgxMTAyMzksNDAyNz
+MyMTIsMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwxNDUyMzU0MTA2
+LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOTE2MDM4OTksMT
+M3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0NjgyNDA2NywtMTA3
+ODQzMTI5OV19
 -->
