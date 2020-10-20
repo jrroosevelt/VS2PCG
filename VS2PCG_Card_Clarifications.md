@@ -2063,7 +2063,12 @@ When you recruit Legion and at the start of each of your Build Phases, randomly 
 
 Personality Number | Name | Stats (ATK/DEF) | Power(s)
 
-- Option 1: #1 David Haller 0
+- Option 1: #1 David Haller 0/1
+- Option 2: #2 Jemail Kerami: 10/10
+	- **Telepathic** (Enemy players can't draw cards.)
+- Option 3: #3 Jack Wayne: 3/18
+	- **Telekinetic** (Enemy players can't play resources.)
+- Option 4: 
 
 ^(Source: Rule insert)
 
@@ -4605,11 +4610,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc3MTcyNDgsNDYwNTk4NDE4LC03OD
-Y1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MTk5
-OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MS
-wtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0x
-NjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1Mj
-MxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3
-LDE0MDQ2ODg1MjddfQ==
+eyJoaXN0b3J5IjpbMzUwOTkxODY0LDQ2MDU5ODQxOCwtNzg2NT
+U1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4
+NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLT
+EyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYz
+ODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMT
+kzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywx
+NDA0Njg4NTI3XX0=
 -->
