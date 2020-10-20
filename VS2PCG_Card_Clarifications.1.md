@@ -2059,7 +2059,11 @@ When a **Personality** takes over Legion, the following occurs:
 
 **Note:** Powers that say "Once on your turn" can't be used during combat.
 
-When you recruit Legion and at the start of each of your Build Phases, randomly choose an option from t
+When you recruit Legion and at the start of each of your Build Phases, randomly choose an option from the following list of twenty options (you can choose the same **Personality** on consecutive turns.
+
+Personality Number | Name | Stats (ATK/DEF) | Power(s)
+
+- Option 1: #1 David Haller 0
 
 ^(Source: Rule insert)
 
@@ -4601,11 +4605,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjUyNDYxMiwxMjIwNTQ3MzI5LDExOD
-IzOTU3NDksMTMwNjQ0ODE1MCw3Mzg1NjY0NzUsMTE0NjcwNDU5
-MCwtMTQyNjc5NTc5LDY2Nzc1NDY1NSwxNDY4MTEwMjM5LDQwMj
-czMjEyLDE2NDkwNzU4MzIsLTE5NzY4NDM5ODQsMTQ1MjM1NDEw
-NiwxMTU5NDQ1MTA2LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LD
-EzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEw
-Nzg0MzEyOTldfQ==
+eyJoaXN0b3J5IjpbLTE4Mjc3MTcyNDgsMTIyMDU0NzMyOSwxMT
+gyMzk1NzQ5LDEzMDY0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1
+OTAsLTE0MjY3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MD
+I3MzIxMiwxNjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQx
+MDYsMTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OS
+wxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0x
+MDc4NDMxMjk5XX0=
 -->
