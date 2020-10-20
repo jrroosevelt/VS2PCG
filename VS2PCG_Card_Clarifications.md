@@ -2068,7 +2068,11 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 	- **Telepathic** (Enemy players can't draw cards.)
 - Option 3: #3 Jack Wayne: 3/18
 	- **Telekinetic** (Enemy players can't play resources.)
-- Option 4: 
+- Option 4: #4 Cyndi: 7/7
+	- **Pyrokinetic** (Once on your turn, put three -1/-1 counters on each enemy character.
+- Option 5: #5 The Legion: 11/11
+	- **Bend Reality to My Will** You pay 1 less to play cards, and enemy players pay 1 more.
+	- **The Real Me** (At the end of your turn, randomly choose "The Legion" or "David Haller
 
 ^(Source: Rule insert)
 
@@ -4610,11 +4614,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwOTkxODY0LDQ2MDU5ODQxOCwtNzg2NT
-U1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4
-NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLT
-EyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYz
-ODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMT
-kzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2ODAxMzYwNywx
-NDA0Njg4NTI3XX0=
+eyJoaXN0b3J5IjpbLTE3NTAyMTI4MzgsNDYwNTk4NDE4LC03OD
+Y1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MTk5
+OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MS
+wtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0x
+NjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1Mj
+MxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3
+LDE0MDQ2ODg1MjddfQ==
 -->
