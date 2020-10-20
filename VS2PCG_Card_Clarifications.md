@@ -2052,7 +2052,14 @@ Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negati
 
 When a **Personality** takes over Legion, the following occurs:
 
--  He loses the name, stats and power(s) of all previous **Personal
+-  He loses the name, stats and power(s) of all previous **Personalities**.
+- He gains **AKA** for the listed name of the new **Personality**. 
+- His base stats change to the listed ATK/DEF.
+- He gains the listed power(s).
+
+**Note:** Powers that say "Once on your turn" can't be used during combat.
+
+When you recruit Legion and at the start of each of your Build Phases, randomly choose an option from t
 
 ^(Source: Rule insert)
 
@@ -4594,11 +4601,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE3MzUwNDMsNDYwNTk4NDE4LC03OD
-Y1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MTk5
-OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MS
-wtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0x
-NjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1Mj
-MxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3
-LDE0MDQ2ODg1MjddfQ==
+eyJoaXN0b3J5IjpbLTc1NjUyNDYxMiw0NjA1OTg0MTgsLTc4Nj
+U1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAwLC0xNzkxOTk5
+ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMzYzMzQwNjQxLC
+0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2Njk4MTgsLTE2
+MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUyMz
+E5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIwNjgwMTM2MDcs
+MTQwNDY4ODUyN119
 -->
