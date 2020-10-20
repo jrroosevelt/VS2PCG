@@ -2052,7 +2052,7 @@ Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negati
 
 When a **Personality** takes over Legion, the following occurs:
 
-- 
+-  He loses the name, stats and power(s) of all previous **Personal
 
 ^(Source: Rule insert)
 
@@ -4594,11 +4594,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTc5MTM4OCwxMjIwNTQ3MzI5LDExOD
-IzOTU3NDksMTMwNjQ0ODE1MCw3Mzg1NjY0NzUsMTE0NjcwNDU5
-MCwtMTQyNjc5NTc5LDY2Nzc1NDY1NSwxNDY4MTEwMjM5LDQwMj
-czMjEyLDE2NDkwNzU4MzIsLTE5NzY4NDM5ODQsMTQ1MjM1NDEw
-NiwxMTU5NDQ1MTA2LC0xMDU2ODMwNzYyLC0xMDkxNjAzODk5LD
-EzNzc5OTI1MTUsLTIxMzg3MDQ3MjksLTE4NDY4MjQwNjcsLTEw
-Nzg0MzEyOTldfQ==
+eyJoaXN0b3J5IjpbLTExMTE3MzUwNDMsMTIyMDU0NzMyOSwxMT
+gyMzk1NzQ5LDEzMDY0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1
+OTAsLTE0MjY3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MD
+I3MzIxMiwxNjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQx
+MDYsMTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OS
+wxMzc3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0x
+MDc4NDMxMjk5XX0=
 -->
