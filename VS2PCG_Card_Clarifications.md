@@ -1631,59 +1631,7 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 ## Hope Summers (Omega)
 *Set: The Omegas*  
 
-When a **Personality** takes over Legion, the following occurs:
-
--  He loses the name, stats and power(s) of all previous **Personalities**.
-- He gains **AKA** for the listed name of the new **Personality**. 
-- His base stats change to the listed ATK/DEF.
-- He gains the listed power(s).
-
-**Note:** Powers that say "Once on your turn" can't be used during combat.
-
-When you recruit Legion and at the start of each of your Build Phases, randomly choose an option from the following list of twenty options (you can choose the same **Personality** on consecutive turns.
-
-Personality Number | Name | Stats (ATK/DEF) | Power(s)
-
-- Option 1: #1 David Haller 0/1
-- Option 2: #2 Jemail Kerami: 10/10
-	- **Telepathic** (Enemy players can't draw cards.)
-- Option 3: #3 Jack Wayne: 3/18
-	- **Telekinetic** (Enemy players can't play resources.)
-- Option 4: #4 Cyndi: 7/7
-	- **Pyrokinetic** (Once on your turn, put three -1/-1 counters on each enemy character.
-- Option 5: #5 The Legion: 11/11
-	- **Bend Reality to My Will** You pay 1 less to play cards, and enemy players pay 1 more.
-	- **The Real Me** (At the end of your turn, randomly choose "The Legion" or "David Haller". Whichever you choose takes over at your next Build Phase instead of a random Personality taking over.)
-- Option 6: #67 Sally: 19/2
-	- **Size Manipulation** (Sally can't be struck.)
-- Option 7: #115 Lucas: 12/8
-	- **Sound Check** (When Lucas attacks a character, stun it.)
-- Option 8: #181 Unknown: 30/30
-	- **Grab**(While this character is in the front row, enemy characters can't fly over it.
-- Option 9: #186 Johnny Gomorrah: 8/8
-	- **Pass the Salt** (Once on your turn, remove an enemy equipment or supporting character from the game.) 
-- Option 10: #227 Time-Sink: 5/5
-	- **Time Manipulation** (At the end of your turn, take another turn.)
-- Option 11: #302 Unknown: 13/13
-	- **Supersonic Punches** (In melee combat, this character strikes an additional two times and before other characters.)
-- Option 12: #666 Styx: 6/6
-	- **Death Touch** (At the start of each enemy Main Phase, choose an enemy character on that side. It strikes another character of your choice in its row.)
-- Option 13: #762 Pirate: 15/15
-	- **Booty and Plunder** (When an enemy player draws cards, you draw that many cards.)
-- Option 14: #898 Centaur: 10/10
-	- **Kick** (When an enemy character enters melee combat with the Centaur, put two -1/-1 counters on it.)
-- Option 15: #1012 Delphic: 0/25
-	- **Seer** (You can look through your deck at any time. Don't shuffle it afterwards.)
-- Option 16: #??? The Cowboy: 25/15
-	- Range
-- Option 17: #??? Kirbax the Kraklar: 20/20
-	- Flight
-- Option 18: #??? The Fiend: 16/16
-	- **Dominant Personality** (When the Fiend takes over, choose two of the above Personalities randomly. They can't take over a character named Legion on your side this game.)
-- Option 19:
-	- Your choice of one of the above Personalities.
-- Option 20:
-	- Choose twice more randomly, ignoring this result, until you have two different Personalities. They take over together (add their names, stats, and powers). 
+You start the game with a private out-of-the-game Echo pile. It must consist of exactly 1 Brotherhood, 1 Mutant Resistance, and 1 X-men Supporting Character who do not share any names. When you recruit her, you must choose one different power from each of them for Hope to gain. You don't need to choose the three powers until she is recruited, and you don't have to choose the same three powers each 
 
 ^(Source: Rule insert)
 
@@ -4639,7 +4587,7 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTMyNzQ2MiwzOTQ5MjYxNCw0NjA1OT
+eyJoaXN0b3J5IjpbMTg3MDc2NDk2NiwzOTQ5MjYxNCw0NjA1OT
 g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
 LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
 YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
