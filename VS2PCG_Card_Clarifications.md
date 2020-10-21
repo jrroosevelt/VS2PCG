@@ -2097,7 +2097,9 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 	- Range
 - Option 17: #??? Kirbax the Kraklar: 20/20
 	- Flight
-- Option 18: #???  
+- Option 18: #??? The Fiend: 16/16
+	- **Dominant Personality** (When the Fiend takes over, choose two of the above Personalities randomly. They can't take over a character named Legion on your side this game.)
+- Option 19: 
 
 ^(Source: Rule insert)
 
@@ -4615,14 +4617,9 @@ Here’s how it works:
 
 **Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
 
-^(Source: Rule insert)
-
-# [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
-*Set: New Mutants*  
-
-X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main
+^(So
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjUzNTY0MywzOTQ5MjYxNCw0NjA1OT
+eyJoaXN0b3J5IjpbMTQ2OTA5MDYzNywzOTQ5MjYxNCw0NjA1OT
 g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
 LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
 YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
