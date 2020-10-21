@@ -2079,7 +2079,11 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 	- **Sound Check** (When Lucas attacks a character, stun it.)
 - Option 8: #181 Unknown: 30/30
 	- **Grab**(While this character is in the front row, enemy characters can't fly over it.
-- Option 9: #186
+- Option 9: #186 Johnny Gomorrah: 8/8
+	- **Pass the Salt** (Once on your turn, remove an enemy equipment or supporting character from the game.) 
+- Option 10: #227 Time-Sink: 5/5
+	- **Time Manipulation** (At the end of your turn, take another turn.)
+- Option 11: #302 Unknown: 13/13
 
 ^(Source: Rule insert)
 
@@ -4613,19 +4617,13 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 
 ^(Source: Rule insert)
 
-# [The X-Files](http://vs.tcgbrowser.com/images/cards/big/XFB-021.jpg)
-*Set: The X-Files Battles*
-
-This Location is the only way to generate an Earth power symbol for a Bureau character. There are currently no basic Earth Locations in the Photographic Universe.
-
-^(Source: Rule Insert)
-
+# [The X-Files](http://vs.tcgbrowser.com/images/cards/big
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDg5MjQyNCwzOTQ5MjYxNCw0NjA1OT
-g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
-LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
-YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
-Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
-cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
-NjgwMTM2MDddfQ==
+eyJoaXN0b3J5IjpbLTIwNDExNjQ3NzAsMzk0OTI2MTQsNDYwNT
+k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
+MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
+M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
+NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
+A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
+MDY4MDEzNjA3XX0=
 -->
