@@ -2076,7 +2076,10 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 - Option 6: #67 Sally: 19/2
 	- **Size Manipulation** (Sally can't be struck.)
 - Option 7: #115 Lucas: 12/8
-	- **Sound Check** (When Lucas attacks a character, stun it
+	- **Sound Check** (When Lucas attacks a character, stun it.)
+- Option 8: #181 Unknown: 30/30
+	- **Grab**(While this character is in the front row, enemy characters can't fly over it.
+- Option 9: #186
 
 ^(Source: Rule insert)
 
@@ -4618,11 +4621,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MzY5ODkzLDM5NDkyNjE0LDQ2MDU5OD
-QxOCwtNzg2NTU1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAs
-LTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNj
-MzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2
-OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNz
-AsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2
-ODAxMzYwN119
+eyJoaXN0b3J5IjpbMjExNDg5MjQyNCwzOTQ5MjYxNCw0NjA1OT
+g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
+LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
+YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
+Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
+cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
+NjgwMTM2MDddfQ==
 -->
