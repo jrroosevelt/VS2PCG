@@ -2356,7 +2356,8 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 ^(Source: Rule insert)
 
-# [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
+# Magneto
+## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
 *Set: The Marvel Battles*
 
 Q: If I go first, will his **Mutant Master** power trigger on the very first turn of the game?
@@ -2364,6 +2365,13 @@ Q: If I go first, will his **Mutant Master** power trigger on the very first tur
 A: Yes
 
 ^(Source: UDE FAQ)
+
+## Magneto (SC-Omega)
+*Set: The Omegas*  
+
+He doesn't make Equipment played as other card types free (like Impossible Man or Arnim Zola's **ESP Box**).
+
+^(Source: Rule insert)
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
 *Set: Galactic Guardians*  
@@ -4599,11 +4607,11 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjcwNjAxNCwzOTQ5MjYxNCw0NjA1OT
-g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
-LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
-YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
-Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
-cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
-NjgwMTM2MDddfQ==
+eyJoaXN0b3J5IjpbLTExMjIwNzMxNzIsMzk0OTI2MTQsNDYwNT
+k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
+MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
+M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
+NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
+A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
+MDY4MDEzNjA3XX0=
 -->
