@@ -3301,7 +3301,9 @@ A: You choose where to move it back to.
 # Proteus
 *Set: The Omegas*  
 
-Proteus is technically a Supporting Character but he doesn't want to actually be in play. He prefers to have a physical host. If he would be recruited, you'll remove him from the game instead and choose a face-up character on your side to be his Host. If you don't have a face-up character, Proteus 
+Proteus is technically a Supporting Character but he doesn't want to actually be in play. He prefers to have a physical host. If he would be recruited, you'll remove him from the game instead and choose a face-up character on your side to be his Host. If you don't have a face-up character, Proteus will still be removed from the game. When his Host gets stunned or leaves play Proteus will no longer have a Host, but he does remain removed from the game.
+
+If Proteus would appear any other way except by being recruited, he will be stunned and KO'd because he has zero DEF.
 
 ^(Source: Rule insert)
 
@@ -4627,7 +4629,7 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDE2OTUzMywzOTQ5MjYxNCw0NjA1OT
+eyJoaXN0b3J5IjpbLTU4MzUzMDI2NiwzOTQ5MjYxNCw0NjA1OT
 g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
 LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
 YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
