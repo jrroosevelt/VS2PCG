@@ -2075,7 +2075,8 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 	- **The Real Me** (At the end of your turn, randomly choose "The Legion" or "David Haller". Whichever you choose takes over at your next Build Phase instead of a random Personality taking over.)
 - Option 6: #67 Sally: 19/2
 	- **Size Manipulation** (Sally can't be struck.)
-- 
+- Option 7: #115 Lucas: 12/8
+	- **Sound Check** (When Lucas attacks a character, stun it
 
 ^(Source: Rule insert)
 
@@ -4617,11 +4618,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE4NTUyNTksMzk0OTI2MTQsNDYwNT
-k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
-MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
-M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
-NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
-A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
-MDY4MDEzNjA3XX0=
+eyJoaXN0b3J5IjpbNzI3MzY5ODkzLDM5NDkyNjE0LDQ2MDU5OD
+QxOCwtNzg2NTU1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAs
+LTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNj
+MzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2
+OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNz
+AsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2
+ODAxMzYwN119
 -->
