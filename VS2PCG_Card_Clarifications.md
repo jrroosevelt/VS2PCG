@@ -2084,6 +2084,9 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 - Option 10: #227 Time-Sink: 5/5
 	- **Time Manipulation** (At the end of your turn, take another turn.)
 - Option 11: #302 Unknown: 13/13
+	- **Supersonic Punches** (In melee combat, this character strikes an additional two times and before other characters.)
+- Option 12: #666 Styx: 6/6
+	- **Death Touch** (At the start of each enemy Main Phase, choose an enemy character on that side. It strikes another character of your choice in its row.
 
 ^(Source: Rule insert)
 
@@ -4613,17 +4616,13 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 # [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
 *Set: The Buffy Battles*  
 
-When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
-
-^(Source: Rule insert)
-
-# [The X-Files](http://vs.tcgbrowser.com/images/cards/big
+When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like nam
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDExNjQ3NzAsMzk0OTI2MTQsNDYwNT
-k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
-MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
-M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
-NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
-A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
-MDY4MDEzNjA3XX0=
+eyJoaXN0b3J5IjpbNTI2NjA4NzE0LDM5NDkyNjE0LDQ2MDU5OD
+QxOCwtNzg2NTU1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAs
+LTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNj
+MzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2
+OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNz
+AsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2
+ODAxMzYwN119
 -->
