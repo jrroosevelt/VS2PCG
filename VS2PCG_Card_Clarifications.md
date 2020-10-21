@@ -2723,6 +2723,14 @@ A: Yes.
 
 *Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
 
+# Monarch
+*Set: The Omegas*  
+
+**Pull On Quantum Strings** means you can have Equipment, characters, and Plot Twists (non-locations) face up in your resource row and during your Resource Step you can play a non-location face up as a aresource. Characters on your side can use these non-locations to pay for their Super Power, regardless of their required power symbols. 
+
+Example: You have Monarch and the X-men Cyclops Supporting Character on  your side. C
+^(Source: Rule insert)
+
 # [Monica Reyes](http://vs.tcgbrowser.com/images/cards/big/XFB-011.jpg)
 *Set: The X-Files Battles*
 
@@ -4607,11 +4615,11 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIwNzMxNzIsMzk0OTI2MTQsNDYwNT
-k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
-MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
-M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
-NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
-A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
-MDY4MDEzNjA3XX0=
+eyJoaXN0b3J5IjpbMTc5ODE1NjY1NCwzOTQ5MjYxNCw0NjA1OT
+g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
+LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
+YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
+Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
+cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
+NjgwMTM2MDddfQ==
 -->
