@@ -2086,7 +2086,12 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 - Option 11: #302 Unknown: 13/13
 	- **Supersonic Punches** (In melee combat, this character strikes an additional two times and before other characters.)
 - Option 12: #666 Styx: 6/6
-	- **Death Touch** (At the start of each enemy Main Phase, choose an enemy character on that side. It strikes another character of your choice in its row.
+	- **Death Touch** (At the start of each enemy Main Phase, choose an enemy character on that side. It strikes another character of your choice in its row.)
+- Option 13: #762 Pirate: 15/15
+	- **Booty and Plunder** (When an enemy player draws cards, you draw that many cards.)
+- Option 14: #898 Centaur: 10/10
+	- **Kick** (When an enemy character enters melee combat with the Centaur, put two -1/-1 counters on it.)
+- Option 15: #1012 Delphic: 
 
 ^(Source: Rule insert)
 
@@ -4616,13 +4621,13 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 # [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
 *Set: The Buffy Battles*  
 
-When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like nam
+When Xander hides, turn him face
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NjA4NzE0LDM5NDkyNjE0LDQ2MDU5OD
-QxOCwtNzg2NTU1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAs
-LTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNj
-MzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2
-OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNz
-AsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2
-ODAxMzYwN119
+eyJoaXN0b3J5IjpbMTA4NzgwODczMywzOTQ5MjYxNCw0NjA1OT
+g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
+LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
+YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
+Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
+cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
+NjgwMTM2MDddfQ==
 -->
