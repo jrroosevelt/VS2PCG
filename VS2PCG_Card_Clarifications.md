@@ -3298,6 +3298,13 @@ A: You choose where to move it back to.
 
 ^(Source: UDE FAQ)
 
+# Proteus
+*Set: The Omegas*  
+
+Proteus is technically a Supporting Character but he doesn't want to actually be in play. He prefers to have a physical host. If he would be recruited, you'll remove him from the game instead and choose a face-up character on your side to be his Host. If you don't have a face-up character, Proteus 
+
+^(Source: Rule insert)
+
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
 
@@ -4620,7 +4627,7 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTYxOTI2MSwzOTQ5MjYxNCw0NjA1OT
+eyJoaXN0b3J5IjpbMTY1NDE2OTUzMywzOTQ5MjYxNCw0NjA1OT
 g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
 LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
 YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
