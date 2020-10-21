@@ -1690,7 +1690,7 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 ^(Source: Rule insert)
 
 # Iceman
-## [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg) (X-
+## [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg) (X-men)
 *Set: The Marvel Battles*
 
 Q: Can I freeze a character that has already been frozen that same turn?
@@ -1706,6 +1706,15 @@ Q: Can Iceman’s freeze ability target a stunned /character?
 A: Yes. The character would recover its next turn, but it wouldn't ready.
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
+
+## Iceman (Omega)
+*Set: The Omegas*  
+
+Freezing locations means exhaus them and they can't ready on their next turn (even if it's face down). 
+
+**Note:** Exhausted resources don't produce recruit points.
+
+^(Source: Rule insert)
 
 # Impersonating Powers
 *Set: Utopia Battles*   
@@ -4590,11 +4599,11 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU4MzM2OTcsMzk0OTI2MTQsNDYwNT
-k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
-MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
-M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
-NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
-A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
-MDY4MDEzNjA3XX0=
+eyJoaXN0b3J5IjpbMTA4NjcwNjAxNCwzOTQ5MjYxNCw0NjA1OT
+g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
+LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
+YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
+Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
+cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
+NjgwMTM2MDddfQ==
 -->
