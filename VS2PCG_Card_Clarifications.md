@@ -2073,6 +2073,8 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 - Option 5: #5 The Legion: 11/11
 	- **Bend Reality to My Will** You pay 1 less to play cards, and enemy players pay 1 more.
 	- **The Real Me** (At the end of your turn, randomly choose "The Legion" or "David Haller". Whichever you choose takes over at your next Build Phase instead of a random Personality taking over.)
+- Option 6: #67 Sally: 19/2
+	- **Size Manipulation** (Sally can't be struck.)
 - 
 
 ^(Source: Rule insert)
@@ -4615,11 +4617,11 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0OTI2MTQsNDYwNTk4NDE4LC03ODY1NT
-UyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MTk5OTg1
-OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMT
-I2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4
-MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOT
-M5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwyMDY4MDEzNjA3LDE0
-MDQ2ODg1MjddfQ==
+eyJoaXN0b3J5IjpbLTIwMTE4NTUyNTksMzk0OTI2MTQsNDYwNT
+k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
+MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
+M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
+NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
+A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
+MDY4MDEzNjA3XX0=
 -->
