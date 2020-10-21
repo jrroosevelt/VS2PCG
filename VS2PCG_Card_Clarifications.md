@@ -1631,7 +1631,9 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 ## Hope Summers (Omega)
 *Set: The Omegas*  
 
-You start the game with a private out-of-the-game Echo pile. It must consist of exactly 1 Brotherhood, 1 Mutant Resistance, and 1 X-men Supporting Character who do not share any names. When you recruit her, you must choose one different power from each of them for Hope to gain. You don't need to choose the three powers until she is recruited, and you don't have to choose the same three powers each 
+You start the game with a private out-of-the-game Echo pile. It must consist of exactly 1 Brotherhood, 1 Mutant Resistance, and 1 X-men Supporting Character who do not share any names. When you recruit her, you must choose one different power from each of them for Hope to gain. You don't need to choose the three powers until she is recruited, and you don't have to choose the same three powers each time she is recruited. 
+
+**Note:** Since this is a "when you recruit" power, she will benefit from "appears" powers, like Iceman's **Freeze**.
 
 ^(Source: Rule insert)
 
@@ -1687,7 +1689,8 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 
 ^(Source: Rule insert)
 
-# [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg)
+# Iceman
+## [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg) (X-
 *Set: The Marvel Battles*
 
 Q: Can I freeze a character that has already been frozen that same turn?
@@ -4587,11 +4590,11 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDc2NDk2NiwzOTQ5MjYxNCw0NjA1OT
-g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
-LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
-YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
-Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
-cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
-NjgwMTM2MDddfQ==
+eyJoaXN0b3J5IjpbLTE4MTU4MzM2OTcsMzk0OTI2MTQsNDYwNT
+k4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIw
+MCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMT
+M2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3
+NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3Mz
+A3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIyMDU0NzMyOSwy
+MDY4MDEzNjA3XX0=
 -->
