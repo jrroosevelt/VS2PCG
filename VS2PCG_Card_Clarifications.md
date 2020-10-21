@@ -2726,9 +2726,14 @@ A: Yes.
 # Monarch
 *Set: The Omegas*  
 
-**Pull On Quantum Strings** means you can have Equipment, characters, and Plot Twists (non-locations) face up in your resource row and during your Resource Step you can play a non-location face up as a aresource. Characters on your side can use these non-locations to pay for their Super Power, regardless of their required power symbols. 
+**Pull On Quantum Strings** means you can have Equipment, characters, and Plot Twists (non-locations) face up in your resource row and during your Resource Step you can play a non-location face up as a resource. Characters on your side can use these non-locations to pay for their Super Power, regardless of their required power symbols. 
 
-Example: You have Monarch and the X-men Cyclops Supporting Character on  your side. C
+Example: You have Monarch and the X-men Cyclops Supporting Character on  your side. Cyclops can use any of the non-locations face up in your resource row to pay for his **Battle Tactics** Super Power. He can still use School for Gifted Youngsters and Training Grounds to pay for the Battle Tactics normally.
+
+These non-locations can't be used for any other purpose.
+
+When Monarch leaves your side, or if **Pull On Quantum Strings** gets turned off, turn each face up non-location card in your resource row face down.
+
 ^(Source: Rule insert)
 
 # [Monica Reyes](http://vs.tcgbrowser.com/images/cards/big/XFB-011.jpg)
@@ -4615,7 +4620,7 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODE1NjY1NCwzOTQ5MjYxNCw0NjA1OT
+eyJoaXN0b3J5IjpbLTM4MTYxOTI2MSwzOTQ5MjYxNCw0NjA1OT
 g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
 LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
 YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
