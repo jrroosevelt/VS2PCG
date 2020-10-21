@@ -2091,7 +2091,13 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 	- **Booty and Plunder** (When an enemy player draws cards, you draw that many cards.)
 - Option 14: #898 Centaur: 10/10
 	- **Kick** (When an enemy character enters melee combat with the Centaur, put two -1/-1 counters on it.)
-- Option 15: #1012 Delphic: 
+- Option 15: #1012 Delphic: 0/25
+	- **Seer** (You can look through your deck at any time. Don't shuffle it afterwards.)
+- Option 16: #??? The Cowboy: 25/15
+	- Range
+- Option 17: #??? Kirbax the Kraklar: 20/20
+	- Flight
+- Option 18: #???  
 
 ^(Source: Rule insert)
 
@@ -4614,16 +4620,9 @@ Here’s how it works:
 # [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
 *Set: New Mutants*  
 
-X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
-
-^(Source: Rule insert)
-
-# [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
-*Set: The Buffy Battles*  
-
-When Xander hides, turn him face
+X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzgwODczMywzOTQ5MjYxNCw0NjA1OT
+eyJoaXN0b3J5IjpbLTU4NjUzNTY0MywzOTQ5MjYxNCw0NjA1OT
 g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
 LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
 YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
