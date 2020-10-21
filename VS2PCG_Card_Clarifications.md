@@ -2073,7 +2073,7 @@ Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negati
 
 When a **Personality** takes over Legion, the following occurs:
 
--  He loses the name, stats and power(s) of all previous **Personalities**.
+- He loses the name, stats and power(s) of all previous **Personalities**.
 - He gains **AKA** for the listed name of the new **Personality**. 
 - His base stats change to the listed ATK/DEF.
 - He gains the listed power(s).
@@ -4629,11 +4629,11 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzUzMDI2NiwzOTQ5MjYxNCw0NjA1OT
-g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
-LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
-YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
-Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3MjczMD
-cwLDE3MzUyMzE5MzksMjE0MTc5NDkxNiwxMjIwNTQ3MzI5LDIw
-NjgwMTM2MDddfQ==
+eyJoaXN0b3J5IjpbNjMxNjIwMjU2LDM5NDkyNjE0LDQ2MDU5OD
+QxOCwtNzg2NTU1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAs
+LTE3OTE5OTk4NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNj
+MzNDA2NDEsLTEyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2
+OTgxOCwtMTYzODM5MzAyNCwxMDE5OTkwODAxLDExOTcyNzMwNz
+AsMTczNTIzMTkzOSwyMTQxNzk0OTE2LDEyMjA1NDczMjksMjA2
+ODAxMzYwN119
 -->
