@@ -1618,7 +1618,8 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 ^(Source: Rule insert)
 
-# [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg)
+# Hope Summers
+## [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg) (SC
 *Set: The Marvel Battles*
 
 Q: How does this power work?
@@ -2099,7 +2100,10 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 	- Flight
 - Option 18: #??? The Fiend: 16/16
 	- **Dominant Personality** (When the Fiend takes over, choose two of the above Personalities randomly. They can't take over a character named Legion on your side this game.)
-- Option 19: 
+- Option 19:
+	- Your choice of one of the above Personalities.
+- Option 20:
+	- Choose twice more randomly, ignoring this result, until you have two different Personalities. They take over together (add their names, stats, and powers). 
 
 ^(Source: Rule insert)
 
@@ -4613,13 +4617,9 @@ Here’s how it works:
 * Characters and Equipment you play from Wyatt’s part of the hand work as normal once they are on your side. (Once they’re in play, it doesn’t matter if they came from your main hand or Wyatt’s part of your hand.)  
 * You can play Plot Twists or power-ups from Wyatt’s part of your hand as normal.  
 * You can spend Locations in Wyatt’s part of your resource row or discard them from Wyatt’s hand to generate power symbols normally.  
-* When Wyatt leaves play, remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part of your hand stay in play.)
-
-**Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
-
-^(So
+* When Wyatt leaves play, remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTA5MDYzNywzOTQ5MjYxNCw0NjA1OT
+eyJoaXN0b3J5IjpbMTYwOTQ4MzMzOSwzOTQ5MjYxNCw0NjA1OT
 g0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAw
 LC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMz
 YzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2
