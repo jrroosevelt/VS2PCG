@@ -432,6 +432,8 @@ While this character is attacking an exhausted character, it can't strike back a
 #  Prediction
 Prediction is a power currently on only Mad Thinker. See the [Mad Thinker section](/r/VS2PCG/wiki/rules-insert#wiki_mad_thinker) of the card-specific clarifications page for details.
   
+# Quick Draw
+
 
 # Range  
 This character can make Ranged attacks from the back row and can strike back when defending from a Ranged attack.  
@@ -580,10 +582,10 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5OD
-IxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1
-MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0Nj
-MwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcs
-LTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0OD
-QxODk3XX0=
+eyJoaXN0b3J5IjpbLTM3OTU5OTk1NywxNjQ0ODE1MTIzLC0xOT
+g1ODk2MzAsNDk4MjE1NzI1LDEyMzg0NTEyMzUsLTIxNDcwNzU2
+ODMsMTU4NjA0OTUyNywxMjExOTk5NjM1LDM0NDUwODE5OSwtMT
+k4NDU1MzIxLDQ2MzAzNjY2OCw3MDc4NzA5MSwxNjg2MDYxMTc3
+LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3LDMxMD
+M5NzkwLDE1OTQ4NDE4OTddfQ==
 -->
