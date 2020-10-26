@@ -1618,7 +1618,8 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 ^(Source: Rule insert)
 
-# [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg)
+# Hope Summers
+## [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg) (X-men)
 *Set: The Marvel Battles*
 
 Q: How does this power work?
@@ -1626,6 +1627,16 @@ Q: How does this power work?
 A: While she is in play, she has all the powers of each face-up X-Men supporting character on your side. This includes, but not limited to, appears powers (like Iceman and Emma Frost), Flight, and Range.
 
 ^(Source: UDE FAQ)
+
+## Hope Summers (Omega)
+*Set: The Omegas*  
+
+You start the game with a private out-of-the-game Echo pile. It must consist of exactly 1 Brotherhood, 1 Mutant Resistance, and 1 X-men Supporting Character who do not share any names. When you recruit her, you must choose one different power from each of them for Hope to gain. You don't need to choose the three powers until she is recruited, and you don't have to choose the same three powers each time she is recruited. 
+
+**Note:** Since this is a "when you recruit" power, she will benefit from "appears" powers, like Iceman's **Freeze**.
+
+^(Source: Rule insert)
+
 
 # Hulk
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC - Photo)
@@ -1678,7 +1689,8 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 
 ^(Source: Rule insert)
 
-# [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg)
+# Iceman
+## [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg) (X-men)
 *Set: The Marvel Battles*
 
 Q: Can I freeze a character that has already been frozen that same turn?
@@ -1694,6 +1706,15 @@ Q: Can Iceman’s freeze ability target a stunned /character?
 A: Yes. The character would recover its next turn, but it wouldn't ready.
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
+
+## Iceman (Omega)
+*Set: The Omegas*  
+
+Freezing locations means exhaus them and they can't ready on their next turn (even if it's face down). 
+
+**Note:** Exhausted resources don't produce recruit points.
+
+^(Source: Rule insert)
 
 # Impersonating Powers
 *Set: Utopia Battles*   
@@ -2052,7 +2073,7 @@ Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negati
 
 When a **Personality** takes over Legion, the following occurs:
 
--  He loses the name, stats and power(s) of all previous **Personalities**.
+- He loses the name, stats and power(s) of all previous **Personalities**.
 - He gains **AKA** for the listed name of the new **Personality**. 
 - His base stats change to the listed ATK/DEF.
 - He gains the listed power(s).
@@ -2073,7 +2094,36 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 - Option 5: #5 The Legion: 11/11
 	- **Bend Reality to My Will** You pay 1 less to play cards, and enemy players pay 1 more.
 	- **The Real Me** (At the end of your turn, randomly choose "The Legion" or "David Haller". Whichever you choose takes over at your next Build Phase instead of a random Personality taking over.)
-- 
+- Option 6: #67 Sally: 19/2
+	- **Size Manipulation** (Sally can't be struck.)
+- Option 7: #115 Lucas: 12/8
+	- **Sound Check** (When Lucas attacks a character, stun it.)
+- Option 8: #181 Unknown: 30/30
+	- **Grab**(While this character is in the front row, enemy characters can't fly over it.
+- Option 9: #186 Johnny Gomorrah: 8/8
+	- **Pass the Salt** (Once on your turn, remove an enemy equipment or supporting character from the game.) 
+- Option 10: #227 Time-Sink: 5/5
+	- **Time Manipulation** (At the end of your turn, take another turn.)
+- Option 11: #302 Unknown: 13/13
+	- **Supersonic Punches** (In melee combat, this character strikes an additional two times and before other characters.)
+- Option 12: #666 Styx: 6/6
+	- **Death Touch** (At the start of each enemy Main Phase, choose an enemy character on that side. It strikes another character of your choice in its row.)
+- Option 13: #762 Pirate: 15/15
+	- **Booty and Plunder** (When an enemy player draws cards, you draw that many cards.)
+- Option 14: #898 Centaur: 10/10
+	- **Kick** (When an enemy character enters melee combat with the Centaur, put two -1/-1 counters on it.)
+- Option 15: #1012 Delphic: 0/25
+	- **Seer** (You can look through your deck at any time. Don't shuffle it afterwards.)
+- Option 16: #??? The Cowboy: 25/15
+	- Range
+- Option 17: #??? Kirbax the Kraklar: 20/20
+	- Flight
+- Option 18: #??? The Fiend: 16/16
+	- **Dominant Personality** (When the Fiend takes over, choose two of the above Personalities randomly. They can't take over a character named Legion on your side this game.)
+- Option 19:
+	- Your choice of one of the above Personalities.
+- Option 20:
+	- Choose twice more randomly, ignoring this result, until you have two different Personalities. They take over together (add their names, stats, and powers). 
 
 ^(Source: Rule insert)
 
@@ -2306,7 +2356,8 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 ^(Source: Rule insert)
 
-# [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
+# Magneto
+## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
 *Set: The Marvel Battles*
 
 Q: If I go first, will his **Mutant Master** power trigger on the very first turn of the game?
@@ -2314,6 +2365,13 @@ Q: If I go first, will his **Mutant Master** power trigger on the very first tur
 A: Yes
 
 ^(Source: UDE FAQ)
+
+## Magneto (SC-Omega)
+*Set: The Omegas*  
+
+He doesn't make Equipment played as other card types free (like Impossible Man or Arnim Zola's **ESP Box**).
+
+^(Source: Rule insert)
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
 *Set: Galactic Guardians*  
@@ -2664,6 +2722,19 @@ A: Yes.
 ^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/558239352535384064))
 
 *Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
+
+# Monarch
+*Set: The Omegas*  
+
+**Pull On Quantum Strings** means you can have Equipment, characters, and Plot Twists (non-locations) face up in your resource row and during your Resource Step you can play a non-location face up as a resource. Characters on your side can use these non-locations to pay for their Super Power, regardless of their required power symbols. 
+
+Example: You have Monarch and the X-men Cyclops Supporting Character on  your side. Cyclops can use any of the non-locations face up in your resource row to pay for his **Battle Tactics** Super Power. He can still use School for Gifted Youngsters and Training Grounds to pay for the Battle Tactics normally.
+
+These non-locations can't be used for any other purpose.
+
+When Monarch leaves your side, or if **Pull On Quantum Strings** gets turned off, turn each face up non-location card in your resource row face down.
+
+^(Source: Rule insert)
 
 # [Monica Reyes](http://vs.tcgbrowser.com/images/cards/big/XFB-011.jpg)
 *Set: The X-Files Battles*
@@ -3226,6 +3297,15 @@ Q: After using **Mind Control**, when I have to move a character back at the end
 A: You choose where to move it back to.
 
 ^(Source: UDE FAQ)
+
+# Proteus
+*Set: The Omegas*  
+
+Proteus is technically a Supporting Character but he doesn't want to actually be in play. He prefers to have a physical host. If he would be recruited, you'll remove him from the game instead and choose a face-up character on your side to be his Host. If you don't have a face-up character, Proteus will still be removed from the game. When his Host gets stunned or leaves play Proteus will no longer have a Host, but he does remain removed from the game.
+
+If Proteus would appear any other way except by being recruited, he will be stunned and KO'd because he has zero DEF.
+
+^(Source: Rule insert)
 
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
@@ -4547,79 +4627,13 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 # [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
 *Set: The Marvel Battles*
 
-Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an XP because now it ended up being a solo attack?
-
-A: Yes, because it only checks if it was a solo attack during combat resolution.
-
-^(Source: UDE FAQ)
-
----
-
-Q: If Wolverine is stunned as an enemy character is stunned as the result of striking each other, will Wolverine get an XP?
-
-A: Yes.
-
-^(Source: UDE FAQ)
-
----
-
-Q: Scenario: Wolverine level 2 has 4 wounds and 1 XP. He attacks and trades with a defender. Question: Does wolverine take his 5th wound and get KO'd or can he get the XP and level up first (gaining a 6th health).
-
-A: There is a difference between a stunned Wolverine leveling up while stunned and a stunned Wolverine leveling up before he is KO'ed. While technically the level-up power will trigger, by the time it resolves, Wolverine is already KO'ed.
-
-^(Source: FB Post - Chad Daniel)
-
-# [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
-*Set: The Fantastic Battles*  
-
-**Self-Awareness**  
-Wyatt knows he is in a  **Card Game**, and he wants to play too! So when he appears, and until he leaves play, he gets his own hand and resource row.  **Note:** His hand counts as being part of your hand, and his resource row counts as being part of your resource row.
-
-Here’s how it works:
-
-*   At the end of your Draw Phase, Wyatt draws two cards into his part of your hand. (Keep these cards separate from the main part of your hand.)  
-    *   **This is the only way to add cards to his part of your hand**. If another effect would add cards to your hand, they always go to the main part of your hand, never to Wyatt’s part of your hand.  
-    *  All other effects that affect your hand work as normal.  
-        *   For example, if you are forced to ”discard a random card”, you must randomize all the cards in your hand, including Wyatt’s part of your hand.  
-* At the end of your Resource Step, Wyatt may play a resource from his hand into his part of your resource row. (Keep these resources separate from the main part of your resource row.)
-    *   **This is the only way to add resources to his part of your resource row**. If another effect would add resources to your resource row, they always go to the main part of your resource row, never to Wyatt’s part of your resource row.  
-* At the end of your Recruit Step (after you’ve spent your normal Recruit Points to play cards from the main part of your hand, and any leftover Recruit Points go away), you gain 1 Recruit Point for each resource in Wyatt’s part of the resource row. You can only spend these Recruit Points to play cards from Wyatt’s part of your hand.  
-* Characters and Equipment you play from Wyatt’s part of the hand work as normal once they are on your side. (Once they’re in play, it doesn’t matter if they came from your main hand or Wyatt’s part of your hand.)  
-* You can play Plot Twists or power-ups from Wyatt’s part of your hand as normal.  
-* You can spend Locations in Wyatt’s part of your resource row or discard them from Wyatt’s hand to generate power symbols normally.  
-* When Wyatt leaves play, remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part of your hand stay in play.)
-
-**Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
-
-^(Source: Rule insert)
-
-# [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
-*Set: New Mutants*  
-
-X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
-
-^(Source: Rule insert)
-
-# [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
-*Set: The Buffy Battles*  
-
-When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
-
-^(Source: Rule insert)
-
-# [The X-Files](http://vs.tcgbrowser.com/images/cards/big/XFB-021.jpg)
-*Set: The X-Files Battles*
-
-This Location is the only way to generate an Earth power symbol for a Bureau character. There are currently no basic Earth Locations in the Photographic Universe.
-
-^(Source: Rule Insert)
-
+Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0OTI2MTQsMTIyMDU0NzMyOSwxMTgyMz
-k1NzQ5LDEzMDY0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1OTAs
-LTE0MjY3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3Mz
-IxMiwxNjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYs
-MTE1OTQ0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMz
-c3OTkyNTE1LC0yMTM4NzA0NzI5LC0xODQ2ODI0MDY3LC0xMDc4
-NDMxMjk5XX0=
+eyJoaXN0b3J5IjpbNjMxNjIwMjU2LDM5NDkyNjE0LDEyMjA1ND
+czMjksMTE4MjM5NTc0OSwxMzA2NDQ4MTUwLDczODU2NjQ3NSwx
+MTQ2NzA0NTkwLC0xNDI2Nzk1NzksNjY3NzU0NjU1LDE0NjgxMT
+AyMzksNDAyNzMyMTIsMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwx
+NDUyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOT
+E2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0Njgy
+NDA2N119
 -->
