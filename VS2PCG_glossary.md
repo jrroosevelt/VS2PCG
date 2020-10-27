@@ -48,8 +48,12 @@ If you discard the location from your hand to power this super power you gain th
 
 # Angry  
 This character must be in your first attack each turn if able.  (It can be a team attack.)  
-  
 
+
+# Appears
+When a card enters play it “appears.” Whether you played it from hand or some modifier put it into play. If a card changes sides or is turned face-up, that does not count as “appearing.” When a character, location, or equipment appears, it is a new character, location, or equipment.
+  
+  
 # Ban  
 Name a character and choose a number.  Put all supporting characters with that name on enemy sides into their owner's hands.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that.  
   
@@ -582,10 +586,10 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjU5MDA0LDE2NDQ4MTUxMjMsLTE5OD
-U4OTYzMCw0OTgyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4
-MywxNTg2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOT
-g0NTUzMjEsNDYzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcs
-MjIwMzAxMjY3LC0xNDg1MTc0ODQyLDE4MDA4NDUwOTcsMzEwMz
-k3OTAsMTU5NDg0MTg5N119
+eyJoaXN0b3J5IjpbMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0ND
+gxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1
+LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYzNSwzND
+Q1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEs
+MTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDIsMTgwMD
+g0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3XX0=
 -->
