@@ -2389,7 +2389,7 @@ A: Yes
 
 ^(Source: UDE FAQ)
 
-## Magneto (SC-Omega)
+## [Magneto (SC-Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-011.jpg)
 *Set: The Omegas*  
 
 He doesn't make Equipment played as other card types free (like Impossible Man or Arnim Zola's **ESP Box**).
@@ -2746,7 +2746,7 @@ A: Yes.
 
 *Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
 
-# Monarch
+# [Monarch](http://vs.tcgbrowser.com/images/cards/big/OGA-013.jpg)
 *Set: The Omegas*  
 
 **Pull On Quantum Strings** means you can have Equipment, characters, and Plot Twists (non-locations) face up in your resource row and during your Resource Step you can play a non-location face up as a resource. Characters on your side can use these non-locations to pay for their Super Power, regardless of their required power symbols. 
@@ -3321,7 +3321,7 @@ A: You choose where to move it back to.
 
 ^(Source: UDE FAQ)
 
-# Proteus
+# [Proteus](http://vs.tcgbrowser.com/images/cards/big/OGA-014.jpg)
 *Set: The Omegas*  
 
 Proteus is technically a Supporting Character but he doesn't want to actually be in play. He prefers to have a physical host. If he would be recruited, you'll remove him from the game instead and choose a face-up character on your side to be his Host. If you don't have a face-up character, Proteus will still be removed from the game. When his Host gets stunned or leaves play Proteus will no longer have a Host, but he does remain removed from the game.
@@ -4622,17 +4622,13 @@ Here are the four Plot Twists he has at his disposal:
 **Find Cover**  
 (Any Combat): Choose a defender to get +0/+3 this combat.
 
-**Savage Surprise**  
-(Any Combat): Choose a defender to get +4/+0 this combat.
-
-**Best Offense is a Good Defense**  
-(Any Combat): Choose an attacker to get +0/+5 this combat
+**Sa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE5MzUxMjcsLTc4OTY1NjExMiw5OD
-g5NjgxMDEsMjA3MjUwNTg5Miw2MzE2MjAyNTYsMzk0OTI2MTQs
-NDYwNTk4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMj
-Q5MTIwMCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkw
-NCwtMTM2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC
-0xNDA3NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5
-NzI3MzA3MF19
+eyJoaXN0b3J5IjpbLTI3Nzg0OTYwMCwtNzg5NjU2MTEyLDk4OD
+k2ODEwMSwyMDcyNTA1ODkyLDYzMTYyMDI1NiwzOTQ5MjYxNCw0
+NjA1OTg0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyND
+kxMjAwLC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0
+LC0xMzYzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLT
+E0MDc2Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3
+MjczMDcwXX0=
 -->
