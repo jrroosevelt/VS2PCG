@@ -1843,7 +1843,7 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 
 ^(Source: Rule insert)
 
-# Jean Grey (MC - Omega)
+# [Jean Grey (MC - Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-002.jpg)
 *Set: The Omegas*
 
 Q: Take this scenari: Jean Grey Omega MC Level 2. Owner has Dagger (HAMMER) on the board. Jean attacks, initiating her "Out of Control" power. Can Dagger convert those counters to +1 counters and still give Jean an XP?
@@ -1859,7 +1859,7 @@ Note the second sentence.
 
 This does NOT change the source of the original modifier or event, it just changes how it behaves.
 
-^Source: ^Chad ^Daniel ^FB ^Post
+^Source: [^Chad ^Daniel ^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3396508327051356/)
 
 # [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
 *Set: The X-Files Battles*
@@ -4635,15 +4635,13 @@ Here are the four Plot Twists he has at his disposal:
 
 **Wizard Armor**  reads:
 
->While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surprise, or Best Offense is A Good Defense plot twist.
-
-When you use **Wizard Armor,** ignore everything about the plot twist you’re holding 
+>While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surpri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUzNzQ0MDUsMjA3MjUwNTg5Miw2Mz
-E2MjAyNTYsMzk0OTI2MTQsNDYwNTk4NDE4LC03ODY1NTUyMTUs
-MTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MTk5OTg1OCwtNz
-g3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYx
-NzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMD
-I0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIx
-NDE3OTQ5MTZdfQ==
+eyJoaXN0b3J5IjpbOTg4OTY4MTAxLDIwNzI1MDU4OTIsNjMxNj
+IwMjU2LDM5NDkyNjE0LDQ2MDU5ODQxOCwtNzg2NTU1MjE1LDE1
+MzIwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4Nz
+Y3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTcz
+NzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNC
+wxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQx
+Nzk0OTE2XX0=
 -->
