@@ -1317,6 +1317,7 @@ A: Scarlet Witch isn't targeting your opponent's MC, it is a blanket effect on t
 ---
 
 Q: Does “could attack” imply that Scourge has to be ready in order to use his power?
+
 A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
 
 # [Secret Hideout](http://vs.tcgbrowser.com/images/cards/big/SFO-016.jpg)
@@ -2387,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MjcyNTU3LC0xNDE5ODg3NTQxLDk1Mj
-IxNzQwN119
+eyJoaXN0b3J5IjpbMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NT
+IyMTc0MDddfQ==
 -->
