@@ -1679,6 +1679,7 @@ A: Modifiers do not track characters that leave play unless the rules or card te
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+
 # [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
 *Set: The Fantastic Battles*  
 
@@ -1691,7 +1692,91 @@ Here are the four Plot Twists he has at his disposal:
 **Find Cover**  
 (Any Combat): Choose a defender to get +0/+3 this combat.
 
-**Sa
+**Savage Surprise**  
+(Any Combat): Choose a defender to get +4/+0 this combat.
+
+**Best Offense is a Good Defense**  
+(Any Combat): Choose an attacker to get +0/+5 this combat.
+
+
+^(Source: Rule insert)
+
+---
+
+**Wizard Armor**  reads:
+
+>While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surprise, or Best Offense is A Good Defense plot twist.
+
+When you use **Wizard Armor,** ignore everything about the plot twist you’re holding and play it entirely as an Open Fire, Find Cover, etc.
+
+If the plot twist has a play restriction you can’t meet (for example a team affiliation symbol you don’t have on your side) it doesn’t matter.
+
+Similarly, if a Plot Twist has a play benefit (like Death Trap) you don’t get to make use of it.
+
+The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles set.
+
+^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
+
+# [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
+*Set: The Marvel Battles*
+
+Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an XP because now it ended up being a solo attack?
+
+A: Yes, because it only checks if it was a solo attack during combat resolution.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: If Wolverine is stunned as an enemy character is stunned as the result of striking each other, will Wolverine get an XP?
+
+A: Yes.
+
+^(Source: UDE FAQ)
+
+---
+
+Q: Scenario: Wolverine level 2 has 4 wounds and 1 XP. He attacks and trades with a defender. Question: Does wolverine take his 5th wound and get KO'd or can he get the XP and level up first (gaining a 6th health).
+
+A: There is a difference between a stunned Wolverine leveling up while stunned and a stunned Wolverine leveling up before he is KO'ed. While technically the level-up power will trigger, by the time it resolves, Wolverine is already KO'ed.
+
+^(Source: FB Post - Chad Daniel)
+
+# [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
+*Set: The Fantastic Battles*  
+
+**Self-Awareness**  
+Wyatt knows he is in a  **Card Game**, and he wants to play too! So when he appears, and until he leaves play, he gets his own hand and resource row.  **Note:** His hand counts as being part of your hand, and his resource row counts as being part of your resource row.
+
+Here’s how it works:
+
+*   At the end of your Draw Phase, Wyatt draws two cards into his part of your hand. (Keep these cards separate from the main part of your hand.)  
+    *   **This is the only way to add cards to his part of your hand**. If another effect would add cards to your hand, they always go to the main part of your hand, never to Wyatt’s part of your hand.  
+    *  All other effects that affect your hand work as normal.  
+        *   For example, if you are forced to ”discard a random card”, you must randomize all the cards in your hand, including Wyatt’s part of your hand.  
+* At the end of your Resource Step, Wyatt may play a resource from his hand into his part of your resource row. (Keep these resources separate from the main part of your resource row.)
+    *   **This is the only way to add resources to his part of your resource row**. If another effect would add resources to your resource row, they always go to the main part of your resource row, never to Wyatt’s part of your resource row.  
+* At the end of your Recruit Step (after you’ve spent your normal Recruit Points to play cards from the main part of your hand, and any leftover Recruit Points go away), you gain 1 Recruit Point for each resource in Wyatt’s part of the resource row. You can only spend these Recruit Points to play cards from Wyatt’s part of your hand.  
+* Characters and Equipment you play from Wyatt’s part of the hand work as normal once they are on your side. (Once they’re in play, it doesn’t matter if they came from your main hand or Wyatt’s part of your hand.)  
+* You can play Plot Twists or power-ups from Wyatt’s part of your hand as normal.  
+* You can spend Locations in Wyatt’s part of your resource row or discard them from Wyatt’s hand to generate power symbols normally.  
+* When Wyatt leaves play, remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part of your hand stay in play.)
+
+**Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
+
+^(Source: Rule insert)
+
+# [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
+*Set: New Mutants*  
+
+X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
+
+^(Source: Rule insert)
+
+# [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
+*Set: The Buffy Battles*  
+
+When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ3MDIwMDNdfQ==
+eyJoaXN0b3J5IjpbLTIzMjEwNzY1MV19
 -->
