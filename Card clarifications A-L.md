@@ -259,6 +259,11 @@ Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
 
 ^(Source: Rule insert)
 
+# Beetle
+*Set: Spidey-Foes* 
+
+
+
 # \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
 *Set: Legacy*  
 
@@ -2330,5 +2335,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbMTcyNTUwMzg5NSwtMTA4OTAzODE3MywxNz
+AyNzMxMjgxXX0=
 -->
