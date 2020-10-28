@@ -2091,7 +2091,7 @@ Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negati
 
 ^(Source: Rule insert)
 
-# Legion
+# [Legion](http://vs.tcgbrowser.com/images/cards/big/OGA-010.jpg)
 *Set: The Omegas*  
 
 When a **Personality** takes over Legion, the following occurs:
@@ -4626,20 +4626,13 @@ Here are the four Plot Twists he has at his disposal:
 (Any Combat): Choose a defender to get +4/+0 this combat.
 
 **Best Offense is a Good Defense**  
-(Any Combat): Choose an attacker to get +0/+5 this combat.
-
-
-^(Source: Rule insert)
-
----
-
-**Wizard Armor**  reads:
+(Any Combat): Choose an attacker to get +0/+5 this combat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTY1NjExMiw5ODg5NjgxMDEsMjA3Mj
-UwNTg5Miw2MzE2MjAyNTYsMzk0OTI2MTQsNDYwNTk4NDE4LC03
-ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MT
-k5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0
-MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC
-0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1
-MjMxOTM5XX0=
+eyJoaXN0b3J5IjpbLTE1ODE5MzUxMjcsLTc4OTY1NjExMiw5OD
+g5NjgxMDEsMjA3MjUwNTg5Miw2MzE2MjAyNTYsMzk0OTI2MTQs
+NDYwNTk4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMj
+Q5MTIwMCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkw
+NCwtMTM2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC
+0xNDA3NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5
+NzI3MzA3MF19
 -->
