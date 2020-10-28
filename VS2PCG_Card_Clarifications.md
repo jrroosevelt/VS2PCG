@@ -1849,6 +1849,17 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 Q: Take this scenari: Jean Grey Omega MC Level 2. Owner has Dagger (HAMMER) on the board. Jean attacks, initiating her "Out of Control" power. Can Dagger convert those counters to +1 counters and still give Jean an XP?
 A: Yes.
 
+Replacement powers modify the things it says it replaces. In this case, Dagger changes the -1/-1 to +1/+1.
+
+Straight from the compiled rules:
+
+> Replacement Modifiers Replacement modifiers will change an existing modifier or event in order to produce a different result. This does NOT change the source of the original modifier or event, it just changes how it behaves. If two replacement modifiers are trying to change the same modifier or event, then the controller of the character being affected by the original modifier or event chooses the order. In some cases, once the first replacement modifier applies, the second one is no longer relevant. Replacement modifiers will usually begin with "If" and always contain the word, "instead."
+
+Note the second sentence.
+
+This does NOT change the source of the original modifier or event, it just changes how it behaves.
+
+^Source: ^Chad ^Daniel ^FB ^Post
 
 # [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
 *Set: The X-Files Battles*
@@ -4626,26 +4637,13 @@ Here are the four Plot Twists he has at his disposal:
 
 >While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surprise, or Best Offense is A Good Defense plot twist.
 
-When you use **Wizard Armor,** ignore everything about the plot twist you’re holding and play it entirely as an Open Fire, Find Cover, etc.
-
-If the plot twist has a play restriction you can’t meet (for example a team affiliation symbol you don’t have on your side) it doesn’t matter.
-
-Similarly, if a Plot Twist has a play benefit (like Death Trap) you don’t get to make use of it.
-
-The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles set.
-
-^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
-
-# [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
-*Set: The Marvel Battles*
-
-Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
+When you use **Wizard Armor,** ignore everything about the plot twist you’re holding 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzU5MjkyNywyMDcyNTA1ODkyLDYzMT
-YyMDI1NiwzOTQ5MjYxNCw0NjA1OTg0MTgsLTc4NjU1NTIxNSwx
-NTMyMDU5OTgzLC0xOTIyNDkxMjAwLC0xNzkxOTk5ODU4LC03OD
-c2NzA3MzAsNTI1NjA4OTA0LC0xMzYzMzQwNjQxLC0xMjY1NjE3
-MzcxLDE3NzI4NjI2NjUsLTE0MDc2Njk4MTgsLTE2MzgzOTMwMj
-QsMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUyMzE5MzksMjE0
-MTc5NDkxNl19
+eyJoaXN0b3J5IjpbLTE1MzUzNzQ0MDUsMjA3MjUwNTg5Miw2Mz
+E2MjAyNTYsMzk0OTI2MTQsNDYwNTk4NDE4LC03ODY1NTUyMTUs
+MTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MTk5OTg1OCwtNz
+g3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYx
+NzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMD
+I0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIx
+NDE3OTQ5MTZdfQ==
 -->
