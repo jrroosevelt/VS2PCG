@@ -1633,7 +1633,7 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 
 ^(Source: UDE FAQ)
 
-## Hope Summers (Omega)
+## [Hope Summers (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-006.jpg)
 *Set: The Omegas*  
 
 You start the game with a private out-of-the-game Echo pile. It must consist of exactly 1 Brotherhood, 1 Mutant Resistance, and 1 X-men Supporting Character who do not share any names. When you recruit her, you must choose one different power from each of them for Hope to gain. You don't need to choose the three powers until she is recruited, and you don't have to choose the same three powers each time she is recruited. 
@@ -4635,13 +4635,13 @@ Here are the four Plot Twists he has at his disposal:
 
 **Wizard Armor**  reads:
 
->While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surpri
+>While the Wizard is in combat, you may play any plot t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4OTY4MTAxLDIwNzI1MDU4OTIsNjMxNj
-IwMjU2LDM5NDkyNjE0LDQ2MDU5ODQxOCwtNzg2NTU1MjE1LDE1
-MzIwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4Nz
-Y3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTcz
-NzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNC
-wxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQx
-Nzk0OTE2XX0=
+eyJoaXN0b3J5IjpbMTk0MzcwNTc3MSw5ODg5NjgxMDEsMjA3Mj
+UwNTg5Miw2MzE2MjAyNTYsMzk0OTI2MTQsNDYwNTk4NDE4LC03
+ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MT
+k5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0
+MSwtMTI2NTYxNzM3MSwxNzcyODYyNjY1LC0xNDA3NjY5ODE4LC
+0xNjM4MzkzMDI0LDEwMTk5OTA4MDEsMTE5NzI3MzA3MCwxNzM1
+MjMxOTM5XX0=
 -->
