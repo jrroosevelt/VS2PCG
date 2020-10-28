@@ -263,6 +263,7 @@ Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
 *Set: Spidey-Foes* 
 
 Q: Does “could melee attack” imply that Beetle has to be ready in order to use his power?
+
 A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
 
 
@@ -2337,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMj
-czMTI4MV19
+eyJoaXN0b3J5IjpbMTAyMTE5NzgyNSwtNDY5ODI1NywtMTA4OT
+AzODE3MywxNzAyNzMxMjgxXX0=
 -->
