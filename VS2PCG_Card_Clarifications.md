@@ -1712,7 +1712,7 @@ A: Yes. The character would recover its next turn, but it wouldn't ready.
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
 
-## Iceman (Omega)
+## [Iceman (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-007.jpg)
 *Set: The Omegas*  
 
 Freezing locations means exhaus them and they can't ready on their next turn (even if it's face down). 
@@ -4634,10 +4634,8 @@ Here are the four Plot Twists he has at his disposal:
 ---
 
 **Wizard Armor**  reads:
-
->While the Wizard is in combat, you may play any plot t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzcwNTc3MSw5ODg5NjgxMDEsMjA3Mj
+eyJoaXN0b3J5IjpbLTc4OTY1NjExMiw5ODg5NjgxMDEsMjA3Mj
 UwNTg5Miw2MzE2MjAyNTYsMzk0OTI2MTQsNDYwNTk4NDE4LC03
 ODY1NTUyMTUsMTUzMjA1OTk4MywtMTkyMjQ5MTIwMCwtMTc5MT
 k5OTg1OCwtNzg3NjcwNzMwLDUyNTYwODkwNCwtMTM2MzM0MDY0
