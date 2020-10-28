@@ -351,7 +351,7 @@ If **Memory Thief** sets a character's base health to 1, and that character has 
 ---
 
 Q: Does “could melee attack” imply that Blindspot has to be ready in order to use her power?
-A: Yes. See 
+A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
@@ -4634,11 +4634,11 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjUwNTg5Miw2MzE2MjAyNTYsMzk0OT
-I2MTQsNDYwNTk4NDE4LC03ODY1NTUyMTUsMTUzMjA1OTk4Mywt
-MTkyMjQ5MTIwMCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMwLDUyNT
-YwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNzcyODYy
-NjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5OTA4MD
-EsMTE5NzI3MzA3MCwxNzM1MjMxOTM5LDIxNDE3OTQ5MTYsMTIy
-MDU0NzMyOV19
+eyJoaXN0b3J5IjpbMzE1Mzg4NjUwLDIwNzI1MDU4OTIsNjMxNj
+IwMjU2LDM5NDkyNjE0LDQ2MDU5ODQxOCwtNzg2NTU1MjE1LDE1
+MzIwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4Nz
+Y3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTcz
+NzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNC
+wxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQx
+Nzk0OTE2XX0=
 -->
