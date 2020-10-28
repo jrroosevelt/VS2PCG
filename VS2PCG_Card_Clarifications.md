@@ -1843,6 +1843,13 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 
 ^(Source: Rule insert)
 
+# Jean Grey (MC - Omega)
+*Set: The Omegas*
+
+Q: Take this scenari: Jean Grey Omega MC Level 2. Owner has Dagger (HAMMER) on the board. Jean attacks, initiating her "Out of Control" power. Can Dagger convert those counters to +1 counters and still give Jean an XP?
+A: Yes.
+
+
 # [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
 *Set: The X-Files Battles*
 
@@ -4634,11 +4641,11 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1Mzg4NjUwLDIwNzI1MDU4OTIsNjMxNj
-IwMjU2LDM5NDkyNjE0LDQ2MDU5ODQxOCwtNzg2NTU1MjE1LDE1
-MzIwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4Nz
-Y3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTcz
-NzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNC
-wxMDE5OTkwODAxLDExOTcyNzMwNzAsMTczNTIzMTkzOSwyMTQx
-Nzk0OTE2XX0=
+eyJoaXN0b3J5IjpbMTk4NzU5MjkyNywyMDcyNTA1ODkyLDYzMT
+YyMDI1NiwzOTQ5MjYxNCw0NjA1OTg0MTgsLTc4NjU1NTIxNSwx
+NTMyMDU5OTgzLC0xOTIyNDkxMjAwLC0xNzkxOTk5ODU4LC03OD
+c2NzA3MzAsNTI1NjA4OTA0LC0xMzYzMzQwNjQxLC0xMjY1NjE3
+MzcxLDE3NzI4NjI2NjUsLTE0MDc2Njk4MTgsLTE2MzgzOTMwMj
+QsMTAxOTk5MDgwMSwxMTk3MjczMDcwLDE3MzUyMzE5MzksMjE0
+MTc5NDkxNl19
 -->
