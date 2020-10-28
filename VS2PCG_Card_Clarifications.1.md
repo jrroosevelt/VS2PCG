@@ -348,6 +348,11 @@ If **Memory Thief** sets a character's base health to 1, and that character has 
 
 ^(Source: Rule insert)
 
+---
+
+Q: Does “could melee attack” imply that Blindspot has to be ready in order to use her power?
+A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
+
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
 *Set: Crossover*  
@@ -1628,7 +1633,7 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 
 ^(Source: UDE FAQ)
 
-## Hope Summers (Omega)
+## [Hope Summers (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-006.jpg)
 *Set: The Omegas*  
 
 You start the game with a private out-of-the-game Echo pile. It must consist of exactly 1 Brotherhood, 1 Mutant Resistance, and 1 X-men Supporting Character who do not share any names. When you recruit her, you must choose one different power from each of them for Hope to gain. You don't need to choose the three powers until she is recruited, and you don't have to choose the same three powers each time she is recruited. 
@@ -1707,7 +1712,7 @@ A: Yes. The character would recover its next turn, but it wouldn't ready.
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
 
-## Iceman (Omega)
+## [Iceman (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-007.jpg)
 *Set: The Omegas*  
 
 Freezing locations means exhaus them and they can't ready on their next turn (even if it's face down). 
@@ -1837,6 +1842,24 @@ Isabelle’s supporting character has this keyword. Enemy players can turn down 
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
 
 ^(Source: Rule insert)
+
+# [Jean Grey (MC - Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-002.jpg)
+*Set: The Omegas*
+
+Q: Take this scenari: Jean Grey Omega MC Level 2. Owner has Dagger (HAMMER) on the board. Jean attacks, initiating her "Out of Control" power. Can Dagger convert those counters to +1 counters and still give Jean an XP?
+A: Yes.
+
+Replacement powers modify the things it says it replaces. In this case, Dagger changes the -1/-1 to +1/+1.
+
+Straight from the compiled rules:
+
+> Replacement Modifiers Replacement modifiers will change an existing modifier or event in order to produce a different result. This does NOT change the source of the original modifier or event, it just changes how it behaves. If two replacement modifiers are trying to change the same modifier or event, then the controller of the character being affected by the original modifier or event chooses the order. In some cases, once the first replacement modifier applies, the second one is no longer relevant. Replacement modifiers will usually begin with "If" and always contain the word, "instead."
+
+Note the second sentence.
+
+This does NOT change the source of the original modifier or event, it just changes how it behaves.
+
+^Source: [^Chad ^Daniel ^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3396508327051356/)
 
 # [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
 *Set: The X-Files Battles*
@@ -2068,7 +2091,7 @@ Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negati
 
 ^(Source: Rule insert)
 
-# Legion
+# [Legion](http://vs.tcgbrowser.com/images/cards/big/OGA-010.jpg)
 *Set: The Omegas*  
 
 When a **Personality** takes over Legion, the following occurs:
@@ -2366,7 +2389,7 @@ A: Yes
 
 ^(Source: UDE FAQ)
 
-## Magneto (SC-Omega)
+## [Magneto (SC-Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-011.jpg)
 *Set: The Omegas*  
 
 He doesn't make Equipment played as other card types free (like Impossible Man or Arnim Zola's **ESP Box**).
@@ -2723,7 +2746,7 @@ A: Yes.
 
 *Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
 
-# Monarch
+# [Monarch](http://vs.tcgbrowser.com/images/cards/big/OGA-013.jpg)
 *Set: The Omegas*  
 
 **Pull On Quantum Strings** means you can have Equipment, characters, and Plot Twists (non-locations) face up in your resource row and during your Resource Step you can play a non-location face up as a resource. Characters on your side can use these non-locations to pay for their Super Power, regardless of their required power symbols. 
@@ -3298,7 +3321,7 @@ A: You choose where to move it back to.
 
 ^(Source: UDE FAQ)
 
-# Proteus
+# [Proteus](http://vs.tcgbrowser.com/images/cards/big/OGA-014.jpg)
 *Set: The Omegas*  
 
 Proteus is technically a Supporting Character but he doesn't want to actually be in play. He prefers to have a physical host. If he would be recruited, you'll remove him from the game instead and choose a face-up character on your side to be his Host. If you don't have a face-up character, Proteus will still be removed from the game. When his Host gets stunned or leaves play Proteus will no longer have a Host, but he does remain removed from the game.
@@ -4599,41 +4622,13 @@ Here are the four Plot Twists he has at his disposal:
 **Find Cover**  
 (Any Combat): Choose a defender to get +0/+3 this combat.
 
-**Savage Surprise**  
-(Any Combat): Choose a defender to get +4/+0 this combat.
-
-**Best Offense is a Good Defense**  
-(Any Combat): Choose an attacker to get +0/+5 this combat.
-
-
-^(Source: Rule insert)
-
----
-
-**Wizard Armor**  reads:
-
->While the Wizard is in combat, you may play any plot twist as a copy of an Open Fire, Find Cover, Savage Surprise, or Best Offense is A Good Defense plot twist.
-
-When you use **Wizard Armor,** ignore everything about the plot twist you’re holding and play it entirely as an Open Fire, Find Cover, etc.
-
-If the plot twist has a play restriction you can’t meet (for example a team affiliation symbol you don’t have on your side) it doesn’t matter.
-
-Similarly, if a Plot Twist has a play benefit (like Death Trap) you don’t get to make use of it.
-
-The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles set.
-
-^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
-
-# [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
-*Set: The Marvel Battles*
-
-Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an 
+**Sa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNjIwMjU2LDM5NDkyNjE0LDEyMjA1ND
-czMjksMTE4MjM5NTc0OSwxMzA2NDQ4MTUwLDczODU2NjQ3NSwx
-MTQ2NzA0NTkwLC0xNDI2Nzk1NzksNjY3NzU0NjU1LDE0NjgxMT
-AyMzksNDAyNzMyMTIsMTY0OTA3NTgzMiwtMTk3Njg0Mzk4NCwx
-NDUyMzU0MTA2LDExNTk0NDUxMDYsLTEwNTY4MzA3NjIsLTEwOT
-E2MDM4OTksMTM3Nzk5MjUxNSwtMjEzODcwNDcyOSwtMTg0Njgy
-NDA2N119
+eyJoaXN0b3J5IjpbLTI3Nzg0OTYwMCw2MzE2MjAyNTYsMzk0OT
+I2MTQsMTIyMDU0NzMyOSwxMTgyMzk1NzQ5LDEzMDY0NDgxNTAs
+NzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3OSw2Njc3NT
+Q2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MDc1ODMyLC0x
+OTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwtMTA1Nj
+gzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0
+NzI5XX0=
 -->
