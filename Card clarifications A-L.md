@@ -1846,6 +1846,7 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 *Set: The Omegas*
 
 Q: Take this scenari: Jean Grey Omega MC Level 2. Owner has Dagger (HAMMER) on the board. Jean attacks, initiating her "Out of Control" power. Can Dagger convert those counters to +1 counters and still give Jean an XP?
+
 A: Yes.
 
 Replacement powers modify the things it says it replaces. In this case, Dagger changes the -1/-1 to +1/+1.
@@ -2329,5 +2330,5 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
