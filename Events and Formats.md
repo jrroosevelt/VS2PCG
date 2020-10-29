@@ -49,9 +49,28 @@ This is the name for the open format.  All sets are included and photographic/il
 
 All cards with an affiliation in the deck (including MCs) must share an affiliation.  Non-affiliated characters cannot be included in a Loyal deck but dual affiliated characters are permitted provided one of their affiliations is shared with the rest of the deck.
 
-## Featured Formats (Latest/future 
+## Featured Formats (listed most recent/future to oldest)
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
+
+###Featured Format #10: Battles Royale
+
+Choose your 200-card set and build a deck from the cards inside!
+
+**Season:** Winter 2021
+
+**Active**: January 1st  2021 through March 31st  2021
+
+**Rules:** Select one of the following products and build a deck from  _only_  the cards within. These sets include but are not limited to:
+
+-   The Defenders
+-   A-Force
+-   S.H.I.E.L.D. Vs. Hydra
+-   The MCU Battles
+-   The Utopia Battles
+-   The Fantastic Battles
+
+Note: The  _only_ 200-card set not legal for this format is Vs. System 2PCG: Legacy.  **ALL other 200-card sets are legal.**  Also, in the event a set has a card that has been replaced (i.e. Singularity from A-Force) then the updated version must be used.
 
 ###Cosmic Power
 
@@ -257,5 +276,5 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI1Mzg3NiwxMzIwMDc1MDUyXX0=
+eyJoaXN0b3J5IjpbLTk1MzY5MjI0MCwxMzIwMDc1MDUyXX0=
 -->
