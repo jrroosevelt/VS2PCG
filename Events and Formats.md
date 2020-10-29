@@ -72,6 +72,8 @@ Choose your 200-card set and build a deck from the cards inside!
 
 Note: The  _only_ 200-card set not legal for this format is Vs. System 2PCG: Legacy.  **ALL other 200-card sets are legal.**  Also, in the event a set has a card that has been replaced (i.e. Singularity from A-Force) then the updated version must be used.
 
+[Official format announcement](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-featured-formats-for-fall-2020-and-winter-2021/)
+
 ### The Alpha and the Omega
 
 The mutants and their enemies are back and better than ever!
@@ -119,6 +121,7 @@ Expansion List:
 
 There are neutral cards available in other products. These are legal for this Format.
 
+[Official format announcement](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-featured-formats-for-fall-2020-and-winter-2021/)
 
 
 ### Cosmic Power
@@ -325,6 +328,6 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc5MzA2OTEsLTk1MzY5MjI0MCwxMz
-IwMDc1MDUyXX0=
+eyJoaXN0b3J5IjpbNjU5NjEyNTk1LC05NTM2OTIyNDAsMTMyMD
+A3NTA1Ml19
 -->
