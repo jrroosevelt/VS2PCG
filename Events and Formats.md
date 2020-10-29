@@ -53,6 +53,62 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+###Cosmic Power
+
+***Active:*** July through September 2020
+
+**Rules** Your main character must be from one of the following teams:
+
+* Fantastic
+* Frightful
+* Guardians of the Galaxy
+* Inhumans
+* Leviathons
+* Predators
+* Syndicate
+* Xenomorphs
+
+See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-featured-formats-for-spring-and-summer-2020/) for a full list of which sets contain main characters from the listed teams.
+
+[BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
+
+### Good vs Evil
+
+***Active:*** April 2020 through June 2020
+
+**Rules**:
+
+* Choose a main character that has either Good printed team affiliations at each of its levels or Evil printed team affiliations at each of its levels.  
+
+* If you chose Good, you can’t include any cards with an Evil printed team affiliation in your deck (or as any of your cards that start outside the game)
+
+* If you chose Evil, you can’t include any cards with a Good printed team affiliation in your deck (or as any of your cards that start outside the game).
+
+* Equipment, Locations, Plot Twists, and Supporting Characters without printed team affiliations can be in Good decks or Evil decks.
+
+* All other standard deck building rules apply (such as Photographic and Illustrated Universe rules).
+
+* See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-featured-formats-for-spring-and-summer-2020/) for a the full list of Good & Evil teams in each universe
+
+### Double Exposure
+
+***Active:*** January 2020 through March 2020
+
+[FORMAT ANNOUNCEMENT](https://www.upperdeckblog.com/2019/08/vs-system-2pcg-featured-formats-for-fall-2019-and-winter-2020/?fbclid=IwAR1y6GwvRf_CSZSJUnEdQ81uI1e943PLEBbfaKZuWlFEEjgXK6EmC3x5IjM)
+
+**Rules:**
+
+***You must use a Photographic Universe deck.  During this Format you can use cards from the following expansions:***
+
+* The MCU Battles
+* MCU Heroes
+* MCU Villains
+* The Buffy Battles
+* Power & Reality
+* Space & Time
+* Mind & Soul
+* The X-Files Battles
+
 ### Big Apple Format
 
 ***Active:*** October 2018 through December 2018
@@ -191,45 +247,12 @@ Any official UDE events will use the active featured format detailed below.  Tak
 
 * [Here is a list of legal MCs for this format](http://vs.tcgbrowser.com/#!/deck=4866) *Last updated: 8/13/2019*
 
-### Double Exposure
 
-***Active:*** January 2020 through March 2020
 
-[FORMAT ANNOUNCEMENT](https://www.upperdeckblog.com/2019/08/vs-system-2pcg-featured-formats-for-fall-2019-and-winter-2020/?fbclid=IwAR1y6GwvRf_CSZSJUnEdQ81uI1e943PLEBbfaKZuWlFEEjgXK6EmC3x5IjM)
 
-**Rules:**
-
-***You must use a Photographic Universe deck.  During this Format you can use cards from the following expansions:***
-
-* The MCU Battles
-* MCU Heroes
-* MCU Villains
-* The Buffy Battles
-* Power & Reality
-* Space & Time
-* Mind & Soul
-* The X-Files Battles
-
-### Good vs Evil
-
-***Active:*** April 2020 through June 2020
-
-**Rules**:
-
-* Choose a main character that has either Good printed team affiliations at each of its levels or Evil printed team affiliations at each of its levels.  
-
-* If you chose Good, you can’t include any cards with an Evil printed team affiliation in your deck (or as any of your cards that start outside the game)
-
-* If you chose Evil, you can’t include any cards with a Good printed team affiliation in your deck (or as any of your cards that start outside the game).
-
-* Equipment, Locations, Plot Twists, and Supporting Characters without printed team affiliations can be in Good decks or Evil decks.
-
-* All other standard deck building rules apply (such as Photographic and Illustrated Universe rules).
-
-* See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-featured-formats-for-spring-and-summer-2020/) for a the full list of Good & Evil teams in each universe
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc5MTExMDNdfQ==
+eyJoaXN0b3J5IjpbLTc4OTM3NDcyOF19
 -->
