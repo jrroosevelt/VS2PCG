@@ -320,14 +320,7 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 * [New Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_new_defenders)
 
-
-
-
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5NjEyNTk1LC05NTM2OTIyNDAsMTMyMD
-A3NTA1Ml19
+eyJoaXN0b3J5IjpbLTE0NzQ0Mjc5ODMsLTk1MzY5MjI0MCwxMz
+IwMDc1MDUyXX0=
 -->
