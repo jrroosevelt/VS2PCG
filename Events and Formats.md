@@ -175,25 +175,6 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 * HAMMER expansion
 
 
-### Photographic Universe Format
-
-***Active:*** January 2019 through March 2019
-
-[FORMAT ANNOUCEMENT](http://upperdeckblog.com/2018/09/vs-system-2pcg-organized-play-expands-with-cascade-games/)
-
-**Legal Sets:**
-
-* [MCU Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_battles)
-
-* [MCU Heroes](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_heroes)
-
-* [MCU Villains](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_villains)
-
-* [The Buffy Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_the_buffy_battles_.28photographic.29)
-
-
-
-
 ### Singularity Format
 
 ***Active:*** April 2019 through June 2019
@@ -213,7 +194,21 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 * Clarification: Cards that do not go into your deck are not affected by this limit.  Examples can include Goblin Queen's Gobin Tokens, Facehuggers & Dawn from Buffy Battles.
 
 
+### Photographic Universe Format
 
+***Active:*** January 2019 through March 2019
+
+[FORMAT ANNOUCEMENT](http://upperdeckblog.com/2018/09/vs-system-2pcg-organized-play-expands-with-cascade-games/)
+
+**Legal Sets:**
+
+* [MCU Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_battles)
+
+* [MCU Heroes](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_heroes)
+
+* [MCU Villains](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_villains)
+
+* [The Buffy Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_the_buffy_battles_.28photographic.29)
 
 
 
@@ -262,5 +257,5 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzUxMzA4MF19
+eyJoaXN0b3J5IjpbMTMyMDA3NTA1Ml19
 -->
