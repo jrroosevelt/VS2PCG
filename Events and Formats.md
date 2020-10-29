@@ -109,42 +109,23 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 * Mind & Soul
 * The X-Files Battles
 
-### Big Apple Format
+### Life is Too Short
 
-***Active:*** October 2018 through December 2018
+***Active:*** October 2019 through December 2019
 
-[FORMAT ANNOUCEMENT](http://upperdeckblog.com/2018/09/vs-system-2pcg-organized-play-expands-with-cascade-games/)
+[FORMAT ANNOUNCEMENT](https://www.upperdeckblog.com/2019/08/vs-system-2pcg-featured-formats-for-fall-2019-and-winter-2020/?fbclid=IwAR1y6GwvRf_CSZSJUnEdQ81uI1e943PLEBbfaKZuWlFEEjgXK6EmC3x5IjM)
 
-**Legal Affiliations:**
+**Rules:**
 
-* Defenders
+***Your main character must have exactly 5 printed health at each level. Each supporting character in your deck must have exactly 1 printed health.***
 
-* Underworld
+* You can only have one main character to start the game.
 
-* Champions
+* Any main characters that start outside the game must have exactly 5 printed health.
 
-* Inhumans
+* Any supporting characters that start outside the game must have exactly 1 printed health.
 
-* Spider-Friends
-
-* Sinister Six
-
-
-**Relevant Sets:**
-
-* [The Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_defenders)
-
-* [Legacy](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_legacy)
-
-* [Monsters Unleashed](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_monsters_unleashed)
-
-* [Deadpool and Friends](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_deadpool_.26amp.3B_friends)
-
-* [Spider-Friends](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_spider-friends)
-
-* [Sinister Syndicate](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_sinister_syndicate)
-
-* [New Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_new_defenders)
+* [Here is a list of legal MCs for this format](http://vs.tcgbrowser.com/#!/deck=4866) *Last updated: 8/13/2019*
 
 
 ### Photographic Universe Format
@@ -229,23 +210,46 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 * HAMMER expansion
 
-### Life is Too Short
 
-***Active:*** October 2019 through December 2019
 
-[FORMAT ANNOUNCEMENT](https://www.upperdeckblog.com/2019/08/vs-system-2pcg-featured-formats-for-fall-2019-and-winter-2020/?fbclid=IwAR1y6GwvRf_CSZSJUnEdQ81uI1e943PLEBbfaKZuWlFEEjgXK6EmC3x5IjM)
 
-**Rules:**
+### Big Apple Format
 
-***Your main character must have exactly 5 printed health at each level. Each supporting character in your deck must have exactly 1 printed health.***
+***Active:*** October 2018 through December 2018
 
-* You can only have one main character to start the game.
+[FORMAT ANNOUCEMENT](http://upperdeckblog.com/2018/09/vs-system-2pcg-organized-play-expands-with-cascade-games/)
 
-* Any main characters that start outside the game must have exactly 5 printed health.
+**Legal Affiliations:**
 
-* Any supporting characters that start outside the game must have exactly 1 printed health.
+* Defenders
 
-* [Here is a list of legal MCs for this format](http://vs.tcgbrowser.com/#!/deck=4866) *Last updated: 8/13/2019*
+* Underworld
+
+* Champions
+
+* Inhumans
+
+* Spider-Friends
+
+* Sinister Six
+
+
+**Relevant Sets:**
+
+* [The Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_defenders)
+
+* [Legacy](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_legacy)
+
+* [Monsters Unleashed](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_monsters_unleashed)
+
+* [Deadpool and Friends](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_deadpool_.26amp.3B_friends)
+
+* [Spider-Friends](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_spider-friends)
+
+* [Sinister Syndicate](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_sinister_syndicate)
+
+* [New Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_new_defenders)
+
 
 
 
@@ -254,5 +258,5 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTM3NDcyOF19
+eyJoaXN0b3J5IjpbMTM0Njk1OTg5Nl19
 -->
