@@ -53,7 +53,7 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
-###Featured Format #10: Battles Royale
+###Battles Royale
 
 Choose your 200-card set and build a deck from the cards inside!
 
@@ -71,6 +71,56 @@ Choose your 200-card set and build a deck from the cards inside!
 -   The Fantastic Battles
 
 Note: The  _only_ 200-card set not legal for this format is Vs. System 2PCG: Legacy.  **ALL other 200-card sets are legal.**  Also, in the event a set has a card that has been replaced (i.e. Singularity from A-Force) then the updated version must be used.
+
+###The Alpha and the Omega
+
+The mutants and their enemies are back and better than ever!
+
+**Season**: Fall 2020
+
+**Active**: October 1st 2020 through December 31st 2020
+
+**Rules**: Your main character and each supporting character in your deck (and any main characters and supporting characters in out-of-game piles) must have at least one of the following team affiliations. Each other card in your deck (and out-of-game piles) with a team affiliation must have at least one of the following team affiliations.
+
+ - Brotherhood of Mutants 
+ - H.A.M.M.E.R
+Omega Level Mutants vs-system-2pcg-Omega
+   Resistance vs-system-2pcg-RESISTANCE Sentinels
+   vs-system-2pcg-Sentinels X-Men vs-system-2pcg-xmen In addition
+
+, there are four other cards you can include:
+
+Senator Kelly Supporting Character
+Simon Trask Main Character
+Simon Trask Supporting Character
+The Void Supporting Character
+  
+
+
+
+Your deck can include cards from more than one of the above teams.
+
+You can have any number of neutral equipment, plot twists, or locations (cards without a team affiliation) in your deck. (Note: Cards with the Marvel logo in their upper right are neutral cards.)
+
+Expansion List:
+
+The Marvel Battles
+Legacy
+Deadpool & Friends
+Brotherhood of Mutants
+New Mutants
+Crossover Vol 1
+Galactic Guardians
+The Utopia Battles
+Resistance
+H.A.M.M.E.R.
+Crossover Vol 2
+Futures Past
+Freedom Force
+The Omegas
+There are neutral cards available in other products. These are legal for this Format.
+
+
 
 ###Cosmic Power
 
@@ -276,5 +326,6 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzY5MjI0MCwxMzIwMDc1MDUyXX0=
+eyJoaXN0b3J5IjpbMTczMzQyOTY1NSwtOTUzNjkyMjQwLDEzMj
+AwNzUwNTJdfQ==
 -->
