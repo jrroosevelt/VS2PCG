@@ -33,6 +33,8 @@ Rose City Comic Con|Sep 13-15, 2019|Portland, OR|1K Event|[Children of the Atom]
 [Gen Con - Cancelled](https://www.gencon.com/)|July 31, 2020|Indianapolis, IN|5K Championship|[Cosmic Power](https://www.reddit.com/r/VS2PCG/wiki/events#wiki_cosmic_power)|
 [Emerald City Comics Games Toys](https://www.facebook.com/EmeraldCityComics/)|Sep 12, 2020|Tampa, FL|2.5K Regional|[Cosmic Power](https://www.reddit.com/r/VS2PCG/wiki/events#wiki_cosmic_power)|
 
+---
+
 # Formats
 
 ## Basic Formats
@@ -48,6 +50,8 @@ This is the name for the open format.  All sets are included and photographic/il
 ### Loyalty Format
 
 All cards with an affiliation in the deck (including MCs) must share an affiliation.  Non-affiliated characters cannot be included in a Loyal deck but dual affiliated characters are permitted provided one of their affiliations is shared with the rest of the deck.
+
+---
 
 ## Featured Formats (listed most recent/future to oldest)
 
@@ -89,7 +93,7 @@ The mutants and their enemies are back and better than ever!
  - Omega Level Mutants 
  - Resistance 
  - Sentinels
- -  X-Men vs-system-2pcg-xmen 
+ -  X-Men
 
 In addition, there are four other cards you can include:
 
@@ -321,6 +325,6 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 * [New Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_new_defenders)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ0Mjc5ODMsLTk1MzY5MjI0MCwxMz
-IwMDc1MDUyXX0=
+eyJoaXN0b3J5IjpbNTQyOTQwMTIyLC0xNDc0NDI3OTgzLC05NT
+M2OTIyNDAsMTMyMDA3NTA1Ml19
 -->
