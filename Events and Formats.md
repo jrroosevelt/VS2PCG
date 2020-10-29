@@ -127,42 +127,6 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 * [Here is a list of legal MCs for this format](http://vs.tcgbrowser.com/#!/deck=4866) *Last updated: 8/13/2019*
 
-
-### Photographic Universe Format
-
-***Active:*** January 2019 through March 2019
-
-[FORMAT ANNOUCEMENT](http://upperdeckblog.com/2018/09/vs-system-2pcg-organized-play-expands-with-cascade-games/)
-
-**Legal Sets:**
-
-* [MCU Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_battles)
-
-* [MCU Heroes](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_heroes)
-
-* [MCU Villains](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_villains)
-
-* [The Buffy Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_the_buffy_battles_.28photographic.29)
-
-
-### Singularity Format
-
-***Active:*** April 2019 through June 2019
-
-[FORMAT ANNOUNCEMENT](http://upperdeckblog.com/2019/02/vs-system-2pcg-featured-formats-for-spring-and-summer-2019/)
-
-**Rules:**
-
-***You may only have one copy of each character, equipment, and plot twist card in your deck.***
-
-* This does not apply to Main Characters with more than one copy, like MCU Ultron.
-
-* You can still have up to four of each basic and special location.
-
-* The regular Illustrated and Photographic Universe rules apply (click [HERE](https://www.reddit.com/r/VS2PCG/wiki/how-to-play#wiki_split_universe) for more info)
-
-* Clarification: Cards that do not go into your deck are not affected by this limit.  Examples can include Goblin Queen's Gobin Tokens, Facehuggers & Dawn from Buffy Battles.
-
 ### Children of the Atom Format
 
 ***Active:*** July 2019 through September 2019
@@ -209,6 +173,46 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 * Mutant Resistance expansion
 
 * HAMMER expansion
+
+
+### Photographic Universe Format
+
+***Active:*** January 2019 through March 2019
+
+[FORMAT ANNOUCEMENT](http://upperdeckblog.com/2018/09/vs-system-2pcg-organized-play-expands-with-cascade-games/)
+
+**Legal Sets:**
+
+* [MCU Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_battles)
+
+* [MCU Heroes](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_heroes)
+
+* [MCU Villains](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_mcu_villains)
+
+* [The Buffy Battles](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_the_buffy_battles_.28photographic.29)
+
+
+
+
+### Singularity Format
+
+***Active:*** April 2019 through June 2019
+
+[FORMAT ANNOUNCEMENT](http://upperdeckblog.com/2019/02/vs-system-2pcg-featured-formats-for-spring-and-summer-2019/)
+
+**Rules:**
+
+***You may only have one copy of each character, equipment, and plot twist card in your deck.***
+
+* This does not apply to Main Characters with more than one copy, like MCU Ultron.
+
+* You can still have up to four of each basic and special location.
+
+* The regular Illustrated and Photographic Universe rules apply (click [HERE](https://www.reddit.com/r/VS2PCG/wiki/how-to-play#wiki_split_universe) for more info)
+
+* Clarification: Cards that do not go into your deck are not affected by this limit.  Examples can include Goblin Queen's Gobin Tokens, Facehuggers & Dawn from Buffy Battles.
+
+
 
 
 
@@ -258,5 +262,5 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Njk1OTg5Nl19
+eyJoaXN0b3J5IjpbLTQ5NzUxMzA4MF19
 -->
