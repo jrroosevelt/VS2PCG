@@ -84,19 +84,17 @@ The mutants and their enemies are back and better than ever!
 
  - Brotherhood of Mutants 
  - H.A.M.M.E.R
-Omega Level Mutants vs-system-2pcg-Omega
-   Resistance vs-system-2pcg-RESISTANCE Sentinels
-   vs-system-2pcg-Sentinels X-Men vs-system-2pcg-xmen In addition
+ - Omega Level Mutants 
+ - Resistance 
+ - Sentinels
+ -  X-Men vs-system-2pcg-xmen 
 
-, there are four other cards you can include:
+In addition, there are four other cards you can include:
 
-Senator Kelly Supporting Character
-Simon Trask Main Character
-Simon Trask Supporting Character
-The Void Supporting Character
-  
-
-
+ - Senator Kelly Supporting Character 
+ - Simon Trask Main Character 
+ - Simon Trask Supporting Character 
+ - The Void Supporting Character
 
 Your deck can include cards from more than one of the above teams.
 
@@ -326,6 +324,6 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzQyOTY1NSwtOTUzNjkyMjQwLDEzMj
+eyJoaXN0b3J5IjpbLTY4MTEyNDI4MywtOTUzNjkyMjQwLDEzMj
 AwNzUwNTJdfQ==
 -->
