@@ -53,7 +53,7 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
-###Battles Royale
+### Battles Royale
 
 Choose your 200-card set and build a deck from the cards inside!
 
@@ -72,7 +72,7 @@ Choose your 200-card set and build a deck from the cards inside!
 
 Note: The  _only_ 200-card set not legal for this format is Vs. System 2PCG: Legacy.  **ALL other 200-card sets are legal.**  Also, in the event a set has a card that has been replaced (i.e. Singularity from A-Force) then the updated version must be used.
 
-###The Alpha and the Omega
+### The Alpha and the Omega
 
 The mutants and their enemies are back and better than ever!
 
@@ -102,25 +102,26 @@ You can have any number of neutral equipment, plot twists, or locations (cards w
 
 Expansion List:
 
-The Marvel Battles
-Legacy
-Deadpool & Friends
-Brotherhood of Mutants
-New Mutants
-Crossover Vol 1
-Galactic Guardians
-The Utopia Battles
-Resistance
-H.A.M.M.E.R.
-Crossover Vol 2
-Futures Past
-Freedom Force
-The Omegas
+- The Marvel Battles
+- Legacy
+- Deadpool & Friends
+- Brotherhood of Mutants
+- New Mutants
+- Crossover Vol 1
+- Galactic Guardians
+- The Utopia Battles
+- Resistance
+- H.A.M.M.E.R.
+- Crossover Vol 2
+- Futures Past
+- Freedom Force
+- The Omegas
+
 There are neutral cards available in other products. These are legal for this Format.
 
 
 
-###Cosmic Power
+### Cosmic Power
 
 ***Active:*** July through September 2020
 
@@ -324,6 +325,6 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTEyNDI4MywtOTUzNjkyMjQwLDEzMj
-AwNzUwNTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjc5MzA2OTEsLTk1MzY5MjI0MCwxMz
+IwMDc1MDUyXX0=
 -->
