@@ -1074,7 +1074,7 @@ Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/def-039.jpg) (Underworld)
 *Set: The Defenders*  
 
-Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 ^(Source: Rule insert)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjk3NTUxNywxMjUzMDMyMTkxLC0xND
+eyJoaXN0b3J5IjpbMjA1MTEyMDcyMCwxMjUzMDMyMTkxLC0xND
 E5ODg3NTQxLDk1MjIxNzQwN119
 -->
