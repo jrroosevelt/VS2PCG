@@ -733,7 +733,7 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 # [Nova Corps](http://vs.tcgbrowser.com/images/cards/big/GAL-018.jpg)
 *Set: Galactic Guardians*  
 
-In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
+In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an ![](%%Alien%%) (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
 
 * They are not super powers.  
 * Your main characters must be face up to pay for them. (But it doesn't have to be in the combat to pay for Nova Corps.)  
@@ -1442,7 +1442,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 # [Silver Surfer](http://vs.tcgbrowser.com/images/cards/big/HER-005.jpg) (MC)
 *Set:  The Herald*  
 
-**Take a Stand** allows you to spend any team's special Location that has (Humanity/"Earth"). For example, you could use the (Monsters) Mu Location to generate a (Humanity/"Earth") for the Silver Surfer.
+**Take a Stand** allows you to spend any team's special Location that has ![](%%Humanity%%) (Humanity). For example, you could use the (Monsters) Mu Location to generate a ![](%%Humanity%%) (Humanity) for the Silver Surfer.
 
 **Protect the Earth** will return the highest cost Supporting Character to its owner's hand, whether that character is on your side or on another player's side.
 
@@ -2105,7 +2105,7 @@ Remember, Toad isn’t just Sort of Awesome.
 *Set: The Predator Battles*  
 
 **It Wants Us to Run**   
-Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): (Humanity/"Earth"), (Alien/"Space"), (Energy/"Blue"), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
+Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): ![](%%Humanity%%) (Humanity), ![](%%Alien%%) (Alien), (Energy/"Blue"), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
 
 ^(Source: Rule insert)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NT
-IyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbLTIxOTgyMDgxOCwxMjUzMDMyMTkxLC0xND
+E5ODg3NTQxLDk1MjIxNzQwN119
 -->
