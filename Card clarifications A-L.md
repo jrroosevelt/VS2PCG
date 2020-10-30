@@ -40,7 +40,7 @@ At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam War
 ---
 *Q:   If I don’t use his Emerge power, will he recover normally during my next Recovery Phase?*
 
-A: Yes. But he’s huge! Spend that MIGHT and start bashing with him right away, man!
+A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing with him right away, man!
 
 ^(Source: UDE FAQ - UDE Approved 6/10/2016)
 
@@ -216,7 +216,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 
 * Energy (Blue) ![](%%Energy%%) 
 * Intellect (Yellow) ![](%%Intellect%%)
-* Might (Green)
+* Might (Green) ![](%%Might%%)
 * Skill (Red)  ![](%%Skill%%)
 * Alien (Space) ![](%%Alien%%)
 * Humanity (Earth) ![](%%Humanity%%)
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTY0MDM2MCwtNDY5ODI1NywtMTA4OT
-AzODE3MywxNzAyNzMxMjgxXX0=
+eyJoaXN0b3J5IjpbOTYyMjk4MTExLC00Njk4MjU3LC0xMDg5MD
+M4MTczLDE3MDI3MzEyODFdfQ==
 -->
