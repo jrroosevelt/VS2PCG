@@ -1287,7 +1287,7 @@ If the Flukeman is on your side and he **Infects** a character, this means at th
 # [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
 *Set: The X-Files Battles*
 
-**Spooky** and **I Want to Believe** look for ![](%%Alien%%) (Alien) Super Powers. This includes any Super Power that costs at least one ![](%%Alien%%) (Alien) symbol to use. With **Spooky,** if you choose an Evil enemy character with an ![](%%Alien%%) (Alien) Super Power, you can either daze it, stun it, or KO it (although you only get to pick one of the three options). The same is true for **I Want to Believe**: if an Evil enemy character with an ![](%%Alien%%) (Alien Super Power appears, you can choose for Mulder to gain 1, 2, or 3 XP. (It's not cumulative.) We would choose 3, but your mileage may vary.
+**Spooky** and **I Want to Believe** look for ![](%%Alien%%) (Alien) Super Powers. This includes any Super Power that costs at least one ![](%%Alien%%) (Alien) symbol to use. With **Spooky,** if you choose an Evil enemy character with an ![](%%Alien%%) (Alien) Super Power, you can either daze it, stun it, or KO it (although you only get to pick one of the three options). The same is true for **I Want to Believe**: if an Evil enemy character with an ![](%%Alien%%) (Alien) Super Power appears, you can choose for Mulder to gain 1, 2, or 3 XP. (It's not cumulative.) We would choose 3, but your mileage may vary.
 
 **Searching for Samantha** will draw a card each time you search your deck for something. First resolve the search effect, then draw a card.
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE2MDQyNDQsLTQ2OTgyNTcsLTEwOD
-kwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTgxMDc1MTM4MywtNDY5ODI1NywtMTA4OT
+AzODE3MywxNzAyNzMxMjgxXX0=
 -->
