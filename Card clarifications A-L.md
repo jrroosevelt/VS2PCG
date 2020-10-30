@@ -1447,7 +1447,7 @@ For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you 
 # [Global Information Network](http://vs.tcgbrowser.com/images/cards/big/COS-020.jpg)
 *Set: Cosmic Avengers*  
 
-In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like \* Thor \* and Hyperion (who have keyword powers which requires spending an (Intellect/"Yellow) and (Energy/"Blue")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations:
+In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like \* Thor \* and Hyperion (who have keyword powers which requires spending an (Intellect/"Yellow) and ![](%%Energy%%) (Energy), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations:
 
 * They are not super powers.  
 * Your main characters ust be face up to pay for them.  
@@ -1697,7 +1697,7 @@ Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tact
 # [Hyperion](http://vs.tcgbrowser.com/images/cards/big/COS-014.jpg)
 *Set: Cosmic Avengers*  
 
-Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required (Energy/"Blue"). But it doesn't have to be in the combat.
+Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required ![](%%Energy%%) (Energy). But it doesn't have to be in the combat.
 
 ^(Source: Rule insert)
 
@@ -1839,7 +1839,7 @@ The owner of a character is the player who brought that card to the game, regard
 *Set: The Predator Battles*  
 
 **Sniper Nest**   
-Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an (Energy/"Blue"), including their “wild” Location, to turn off this effect for a turn.
+Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an ![](%%Energy%%) (Energy), including their “wild” Location, to turn off this effect for a turn.
 
 ^(Source: Rule insert)
 
@@ -1907,7 +1907,7 @@ This power refers to (Intellect/Light bulb) super powers. This counts for any su
 ## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
 *Set: Brotherhood of Mutants*  
 
-Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an *Energy* ("Atom"/"Blue") to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
+Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an ![](%%Energy%%) (Energy) to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
 
 ^(Source: Rule insert)
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM3Mjg4NjEsLTQ2OTgyNTcsLTEwOD
-kwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbMTcyOTIzNTM5NSwtNDY5ODI1NywtMTA4OT
+AzODE3MywxNzAyNzMxMjgxXX0=
 -->
