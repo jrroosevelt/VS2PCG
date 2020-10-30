@@ -1747,7 +1747,7 @@ Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keyword
 
 When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's **Updates**). When Spidey installs **Updates**, you may remove any number of **Update** counters from him.
 
-If you remove exactly one **Update** he gains ![](%%Flight%%) and (Range) until he leaves play. If you remove exactly two **Updates**, put two vitality counters on him. If you remove exactly three **Updates**, put twelve +1/+1 counters on him.
+If you remove exactly one **Update** he gains ![](%%Flight%%) and ![](%%Range%%) until he leaves play. If you remove exactly two **Updates**, put two vitality counters on him. If you remove exactly three **Updates**, put twelve +1/+1 counters on him.
 
 You can remove the same number of **Updates** more than once. For example, if you remove the two **Updates** for a second time, Spider-Man will get two more vitality counters.
 
@@ -1840,7 +1840,7 @@ Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
 *Set: Marvel Battles*
 
-Q: Does **Space Cop** affect Level Up powers? How about ![](%%Flight%%)and Range?
+Q: Does **Space Cop** affect Level Up powers? How about ![](%%Flight%%)and ![](%%Range%%)?
 
 A: Yes to all the above.
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNjM5ODU3LDEyNTMwMzIxOTEsLTE0MT
-k4ODc1NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbMTQ4MzQzOTI3MiwxMjUzMDMyMTkxLC0xND
+E5ODg3NTQxLDk1MjIxNzQwN119
 -->
