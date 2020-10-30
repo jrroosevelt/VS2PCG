@@ -137,7 +137,7 @@ Level 1 Angel and Angelus can transform between each other. However, when you bu
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
 *Set: Galactic Guardians*  
 
-**An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have (Flight) or (Range) (or both) to solo attack her. 
+**An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have ![](%%Flight%%) or (Range) (or both) to solo attack her. 
 
 When Angela opens a **Bridge to Heven**, you must put each revealed character onto your side. This may cause some characters to be KO'd due to the uniqueness rules.
 
@@ -576,7 +576,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 **Come Work For Me** will count when a character turns face up either because it was hidden or because it was stunned and recovered. If CSM is turned face up at the same time as other characters on your side, he will 'see' them and gain XP for them.
 
-**Every Problem Has a Solution** counts Keyword, Super, and Level Up text powers with the word "can" or "can't" in their definition, even if the definition isn't printed on the card. (For example, the keyword **Dodge** doesn't always have its definition on a card but it means "This character can't be ranged attacked.") "Text powers" means this power doesn't affect Flight or Range. It also counts text powers that are granted to a card from another source, like a Plot Twist or an Equipment, but that aren't printed on the card itself.
+**Every Problem Has a Solution** counts Keyword, Super, and Level Up text powers with the word "can" or "can't" in their definition, even if the definition isn't printed on the card. (For example, the keyword **Dodge** doesn't always have its definition on a card but it means "This character can't be ranged attacked.") "Text powers" means this power doesn't affect ![](%%Flight%%)or Range. It also counts text powers that are granted to a card from another source, like a Plot Twist or an Equipment, but that aren't printed on the card itself.
 
 **Note:** If a power says "This power can't be turned off.", **Every Problem Has a Solution** will try to take it away (because it says "can't") but it won't be able to do so.
 
@@ -637,7 +637,7 @@ Hydra has four different Cosmic Cubes under their control. However, each one has
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
 *Set: Galactic Guardians*  
 
-With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** (Flight) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
+With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** ![](%%Flight%%) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
 
 ^(Source: Rule insert)
 
@@ -718,7 +718,7 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 * **Equipment**: Remove all Equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and Equipment that are already removed from the game. This also includes any cards that were once Equipment cards but don’t currently count as Equipment (such as a face-down resource or an Equipment that has become a character via Arnim Zola’s   
 **ESP Box** ). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
 
-* **Keyword text:** Removing this concept doesn’t affect **Flight** and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
+* **Keyword text:** Removing this concept doesn’t affect ![](%%Flight%%) and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
  
 * **Levels:** All Main Characters everywhere become Level 1 if possible. Remove all remaining Level 2 and higher Main Characters from the game. Remove all Level Up Powers and XP from the game, and the terms “Level” and “XP” from all card text. Ignore any effects that would cause XP or a Level 2 or higher Main Character to enter the game in any way.  
 
@@ -750,7 +750,7 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
   
 * **Nerf:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks, and KO piles are 0/1 with 1 and nothing can ever, ever change that.  
 
-* **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including (*Flight*) and (*Range*)). 
+* **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including ![](%%Flight%%) and (*Range*)). 
  
 * **Ban:** Name a character and choose a number. Put all supporting characters with that name on enemy sides into their owner’s hands. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that. (Except banning it again. You know the old saying: “If you really, really hate a card, ban it twice.”) Any effects that would increase or decrease what an enemy player pays to recruit a banned card are ignored.  
 
@@ -883,7 +883,7 @@ When Devil-Slayer and the defender strike each other:
 
 Q: I have Devil-Slayer. My opponent has a stunned character in their back row and a face-up character in their front row. Can Devil-Slayer attack the stunned character in the back row? I'm asking because the comp rules state that a stunned character "can't be protected".
 
-A: No. Devil Slayer still has to follow all the other legal attack rules. He doesn't have flight so he can't ignore the front row.
+A: No. Devil Slayer still has to follow all the other legal attack rules. He doesn't have ![](%%Flight%%) so he can't ignore the front row.
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
@@ -1345,7 +1345,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 # [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
 *Set: The Fantastic Battles*  
 
-This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores (Flight), (Range), and team restrictions for an attack.
+This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores ![](%%Flight%%), (Range), and team restrictions for an attack.
 
 ^(Source: Rule Insert)
 
@@ -1636,7 +1636,7 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 Q: How does this power work?
 
-A: While she is in play, she has all the powers of each face-up X-Men supporting character on your side. This includes, but not limited to, appears powers (like Iceman and Emma Frost), Flight, and Range.
+A: While she is in play, she has all the powers of each face-up X-Men supporting character on your side. This includes, but not limited to, appears powers (like Iceman and Emma Frost), ![](%%Flight%%), and Range.
 
 ^(Source: UDE FAQ)
 
@@ -2148,7 +2148,7 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 - Option 16: #??? The Cowboy: 25/15
 	- Range
 - Option 17: #??? Kirbax the Kraklar: 20/20
-	- Flight
+	- ![](%%Flight%%)
 - Option 18: #??? The Fiend: 16/16
 	- **Dominant Personality** (When the Fiend takes over, choose two of the above Personalities randomly. They can't take over a character named Legion on your side this game.)
 - Option 19:
@@ -2266,7 +2266,7 @@ Here's how his **Canadian Resistance Colonel** works:
  - There are exceptions to cards recruited this way when compared to normal hidden cards.
 	 * Only the cards' owner can look at them.
 	 * They can make attacks while hidden on the turn appear:
-		 * Cards with printed (flight) and (range) can make attacks while hidden as if they still had those powers.
+		 * Cards with printed ![](%%Flight%%) and (range) can make attacks while hidden as if they still had those powers.
 		 * Remember, these cards keep their team affiliations, so they can make team attacks as normal, even with face-up characters.
 		 * They don't exhaust when they attack.
 		 * Right before they strike, turn them face up and exhaust them.
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyMjk4MTExLC00Njk4MjU3LC0xMDg5MD
-M4MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwOD
+kwMzgxNzMsMTcwMjczMTI4MV19
 -->
