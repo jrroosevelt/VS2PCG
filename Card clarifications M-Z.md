@@ -2105,7 +2105,7 @@ Remember, Toad isn’t just Sort of Awesome.
 *Set: The Predator Battles*  
 
 **It Wants Us to Run**   
-Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): ![](%%Humanity%%) (Humanity), ![](%%Alien%%) (Alien), ![](%%Energy%%) (Energy), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
+Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): ![](%%Humanity%%) (Humanity), ![](%%Alien%%) (Alien), ![](%%Energy%%) (Energy), ![](%%Intellect%%) (Intellect), (Skill/"Red"), and (Might/"Green").
 
 ^(Source: Rule insert)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NDI0NTYwLDEyNTMwMzIxOTEsLTE0MT
-k4ODc1NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbLTgyNjk3NTUxNywxMjUzMDMyMTkxLC0xND
+E5ODg3NTQxLDk1MjIxNzQwN119
 -->
