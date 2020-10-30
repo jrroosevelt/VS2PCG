@@ -214,7 +214,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 
 **The Big One** KOs basic Locations with different types. The types are:
 
-* Energy (Blue)  
+* Energy (Blue) ![](%%Energy%%) 
 * Intellect (Yellow)  
 * Might (Green)
 * Skill (Red)  
@@ -271,7 +271,7 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 *Set: Legacy*  
 
 **Energy Transference**  
-This power refers to (Energy/"Blue") super powers.This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
+This power refers to ![](%%Energy%%) (Energy) super powers .This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
 
 ^(Source: Rule insert)
 
@@ -320,9 +320,9 @@ A: Even the Odds creates a modifier that overrides or suppresses any other modif
 # [Black Oil](http://vs.tcgbrowser.com/images/cards/big/XFB-036.jpg)
 *Set: The X-Files Battles*
 
-You can only equip this to an enemy Supporting Character. Then during your Draw Phase, you can pay an Energy to bring that chracter to your side until it leaves play.
+You can only equip this to an enemy Supporting Character. Then during your Draw Phase, you can pay an ![](%%Energy%%) (Energy) to bring that character to your side until it leaves play.
 
-**Note:** Any player who is an enemy of the chracter that has **Black Oil** equipped can use its **Give It Time** power. For example, in a 3-player game, Player A might put **Black Oil** on Player B's character. But Player C could use **Give it Time** to steal that character.
+**Note:** Any player who is an enemy of the character that has **Black Oil** equipped can use its **Give It Time** power. For example, in a 3-player game, Player A might put **Black Oil** on Player B's character. But Player C could use **Give it Time** to steal that character.
 
 ^(Source: Rule Insert)
 
@@ -567,7 +567,7 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 # [Chimichanga](http://vs.tcgbrowser.com/images/cards/big/MFM-021.jpg)
 *Set: Deadpool & Friends*  
 
-Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay **(Energy)** and **(Intellect)** and then say Chimichanga twice. That would be madness.
+Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay ![](%%Energy%%) (Energy) and **(Intellect)** and then say Chimichanga twice. That would be madness.
 
 ^(Source: Rule insert)
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDc1MTM4MywtNDY5ODI1NywtMTA4OT
-AzODE3MywxNzAyNzMxMjgxXX0=
+eyJoaXN0b3J5IjpbLTEyODM3Mjg4NjEsLTQ2OTgyNTcsLTEwOD
+kwMzgxNzMsMTcwMjczMTI4MV19
 -->
