@@ -1074,7 +1074,7 @@ Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/def-039.jpg) (Underworld)
 *Set: The Defenders*  
 
-Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Skill%%) (Skill) or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 ^(Source: Rule insert)
 
@@ -1108,7 +1108,7 @@ A: No. You have to have no cards after the effect has finished resolving.
 
 ---
 
-Q: Can I discard a Skill location to activate **One Raccoon’s Garbage** and then randomly get it back with that power?
+Q: Can I discard a ![](%%Skill%%) (Skill) location to activate **One Raccoon’s Garbage** and then randomly get it back with that power?
 
 A: Yes. If you’re lucky enough.
 
@@ -2105,7 +2105,7 @@ Remember, Toad isn’t just Sort of Awesome.
 *Set: The Predator Battles*  
 
 **It Wants Us to Run**   
-Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): ![](%%Humanity%%) (Humanity), ![](%%Alien%%) (Alien), ![](%%Energy%%) (Energy), ![](%%Intellect%%) (Intellect), (Skill/"Red"), and (Might/"Green").
+Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): ![](%%Humanity%%) (Humanity), ![](%%Alien%%) (Alien), ![](%%Energy%%) (Energy), ![](%%Intellect%%) (Intellect), ![](%%Skill%%) (Skill), and ![](%%Might%%) (Might).
 
 ^(Source: Rule insert)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTEyMDcyMCwxMjUzMDMyMTkxLC0xND
+eyJoaXN0b3J5IjpbLTU2Nzc0NzM3NywxMjUzMDMyMTkxLC0xND
 E5ODg3NTQxLDk1MjIxNzQwN119
 -->
