@@ -468,7 +468,7 @@ When Mr. Black and the defender strike each other:
 
 Q: Does Ms. Marvel's **Energy Absorption** count stunned characters?
 
-A: No, because stunned character lose their powers including the Ranged symbol.
+A: No, because stunned character lose their powers including the ![](%%Range%%) symbol.
 
 ^(Source: UDE FAQ)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzQzOTI3MiwxMjUzMDMyMTkxLC0xND
+eyJoaXN0b3J5IjpbMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xND
 E5ODg3NTQxLDk1MjIxNzQwN119
 -->
