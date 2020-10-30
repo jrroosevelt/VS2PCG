@@ -219,7 +219,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 * Might (Green)
 * Skill (Red)  
 * Alien (Space)
-* Humanity (Earth)
+* Humanity (Earth) ![](%%Humanity%%)
 
 
 ^(Source: Rule insert)
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTE5NzgyNSwtNDY5ODI1NywtMTA4OT
+eyJoaXN0b3J5IjpbMTk4NzU0MTI1MiwtNDY5ODI1NywtMTA4OT
 AzODE3MywxNzAyNzMxMjgxXX0=
 -->
