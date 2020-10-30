@@ -710,7 +710,7 @@ A: No. When you activate his power, take the top card of your deck and place it 
 
 With his **Enemy Power Analysis**, if the attacker has more than one of the listed items, Nimrod will get the respective powers from all of them, not just one.
 
-**Note:** "Keyword text" means Keyword Powers in the text box of a card - or in other words, all Keyword Powers except for (Flight) and (Range).
+**Note:** "Keyword text" means Keyword Powers in the text box of a card - or in other words, all Keyword Powers except for ![](%%Flight%%) and (Range).
 
 ^(Source: Rule Insert)
 
@@ -1207,7 +1207,7 @@ A: The most recently played one stays in play.
 
 Q: Can Rogue gain multiple instances of the same power?
 
-A: Rogue can get the same power twice. Sometimes it will be redundant (**Flight**/**Range**/**Fearless**/**Mobile**/**Shrink**) and give no benefit, but sometimes it will give additional benefit (**Berserker**/Appear Triggers/Super Powers). In the case of super powers, each copy of the power is distinct and each can be used once per turn.
+A: Rogue can get the same power twice. Sometimes it will be redundant (![](%%Flight%%)/**Range**/**Fearless**/**Mobile**/**Shrink**) and give no benefit, but sometimes it will give additional benefit (**Berserker**/Appear Triggers/Super Powers). In the case of super powers, each copy of the power is distinct and each can be used once per turn.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNDc4OTI0LDEyNTMwMzIxOTEsLTE0MT
-k4ODc1NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbMjA5MTkzMDg5OSwxMjUzMDMyMTkxLC0xND
+E5ODg3NTQxLDk1MjIxNzQwN119
 -->
