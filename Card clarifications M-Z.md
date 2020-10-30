@@ -274,10 +274,10 @@ A: Yes. It will put a -1/-1 counter on each character in the combat.
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
 *Set: Black Order*  
 
-In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nebula (who has a keyword power which requires spending a (Might/"Green)), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations.
+In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nebula (who has a keyword power which requires spending a ![](%%Might%%) (Might), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations.
 
 * They are not super powers.  
-* Your main characters ust be face up to pay for them.  
+* Your main characters must be face up to pay for them.  
 * Your main characters can use a "Wild" Special Location from their team to pay for them.  
 * These cards are neutral, so just like any other neutral cards, they can be in Loyalty decks.  
 * The Special Locations don't count as location swith a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
@@ -626,7 +626,7 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 
 **A New Order Exists Within the Universe** checks to see if an enemy character shares at least one team affiliation with a main character on its side. If the main character has no team affiliation, then no supporting characters on its side can share a team affiliation with it. 
 
-**Note:** This is not a super power even though it requires Nebula to pay a (Might/"Green").
+**Note:** This is not a super power even though it requires Nebula to pay a ![](%%Might%%) (Might).
 
 ^(Source: Rule insert)
 
@@ -1418,7 +1418,7 @@ See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
 # [Sif](http://vs.tcgbrowser.com/images/cards/big/CV1-015.jpg)
 *Set: Crossover*  
 
-You can only recruit her by also paying a Might *(Fist/Green)*. If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a Might *(Fist/Green)*.
+You can only recruit her by also paying a ![](%%Might%%) (Might). If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a [](%%Might%%) (Might).
 
 ^(Source: Rule insert)
 
@@ -1588,7 +1588,7 @@ A: No, the game ends when you KO your opponent’s Main Character or they KO you
 
 ---
 
-Q: Juggernaut attacks Singularity who is in the front row, pays a Might and stuns her. Do the other characters come back in time for Juggernaut to declare his second attack or no?
+Q: Juggernaut attacks Singularity who is in the front row, pays a ![](%%Might%%) (Might) and stuns her. Do the other characters come back in time for Juggernaut to declare his second attack or no?
 
 A:  The controller of Singularity decides which row the characters come back into play. So they could put them in the front row, or the back row. So if they opt to put them all in the front row, it is no dice. If they put at least one in the back row, the next question then becomes, can Juggernaut attack them? And the answer is YES! You see, Singularity triggers upon her leaving play which is during combat resolution, so that is when her power triggers. Juggernaut on the other hand, triggers after combat resolution is over. Since Singularity triggered first, it will resolve first and your opponent could opt to put a character into his back row. IF he does, then it will be there for Juggernaut to attack when his trigger resolves.
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Nzc0NzM3NywxMjUzMDMyMTkxLC0xND
-E5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbODkzNDc4OTI0LDEyNTMwMzIxOTEsLTE0MT
+k4ODc1NDEsOTUyMjE3NDA3XX0=
 -->
