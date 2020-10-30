@@ -733,7 +733,7 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 # [Nova Corps](http://vs.tcgbrowser.com/images/cards/big/GAL-018.jpg)
 *Set: Galactic Guardians*  
 
-In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an ![](%%Alien%%) (Alien/"Space")), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
+In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an ![](%%Alien%%) (Alien), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
 
 * They are not super powers.  
 * Your main characters must be face up to pay for them. (But it doesn't have to be in the combat to pay for Nova Corps.)  
@@ -1958,7 +1958,7 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 # [The Syndicate](http://vs.tcgbrowser.com/images/cards/big/XFB-042.jpg)
 *Set: The X-Files Battles*
 
-This Location is the only way to generate an Alien power symbol for a Syndicate character. There are currently no basic Alien Locations in the Photographic Universe.
+This Location is the only way to generate an Alien ![](%%Alien%%) power symbol for a Syndicate character. There are currently no basic Alien ![](%%Alien%%) Locations in the Photographic Universe.
 
 ^(Source: Rule Insert)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTgyMDgxOCwxMjUzMDMyMTkxLC0xND
+eyJoaXN0b3J5IjpbLTI4MTA0OTAzMCwxMjUzMDMyMTkxLC0xND
 E5ODg3NTQxLDk1MjIxNzQwN119
 -->
