@@ -576,7 +576,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 **Come Work For Me** will count when a character turns face up either because it was hidden or because it was stunned and recovered. If CSM is turned face up at the same time as other characters on your side, he will 'see' them and gain XP for them.
 
-**Every Problem Has a Solution** counts Keyword, Super, and Level Up text powers with the word "can" or "can't" in their definition, even if the definition isn't printed on the card. (For example, the keyword **Dodge** doesn't always have its definition on a card but it means "This character can't be ranged attacked.") "Text powers" means this power doesn't affect ![](%%Flight%%)or Range. It also counts text powers that are granted to a card from another source, like a Plot Twist or an Equipment, but that aren't printed on the card itself.
+**Every Problem Has a Solution** counts Keyword, Super, and Level Up text powers with the word "can" or "can't" in their definition, even if the definition isn't printed on the card. (For example, the keyword **Dodge** doesn't always have its definition on a card but it means "This character can't be ranged attacked.") "Text powers" means this power doesn't affect ![](%%Flight%%)or ![](%%Range%%). It also counts text powers that are granted to a card from another source, like a Plot Twist or an Equipment, but that aren't printed on the card itself.
 
 **Note:** If a power says "This power can't be turned off.", **Every Problem Has a Solution** will try to take it away (because it says "can't") but it won't be able to do so.
 
@@ -637,7 +637,7 @@ Hydra has four different Cosmic Cubes under their control. However, each one has
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
 *Set: Galactic Guardians*  
 
-With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** ![](%%Flight%%) and (Range) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
+With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** ![](%%Flight%%) and ![](%%Range%%) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
 
 ^(Source: Rule insert)
 
@@ -718,7 +718,7 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 * **Equipment**: Remove all Equipment cards everywhere from the game. This includes all sides, decks, hands, KO piles, and Equipment that are already removed from the game. This also includes any cards that were once Equipment cards but don’t currently count as Equipment (such as a face-down resource or an Equipment that has become a character via Arnim Zola’s   
 **ESP Box** ). Remove the term “Equipment” from all card text. For the rest of the game, ignore any effects that would cause Equipment to enter the game in any way.  
 
-* **Keyword text:** Removing this concept doesn’t affect ![](%%Flight%%) and **Range**. Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
+* **Keyword text:** Removing this concept doesn’t affect ![](%%Flight%%) and ![](%%Range%%). Remove all Keyword text from the game, including powers that “can’t be turned off”. Remove the term “Keyword” from all card text. For the rest of the game, ignore any effects that would cause Keyword text to enter the game in any way.  
  
 * **Levels:** All Main Characters everywhere become Level 1 if possible. Remove all remaining Level 2 and higher Main Characters from the game. Remove all Level Up Powers and XP from the game, and the terms “Level” and “XP” from all card text. Ignore any effects that would cause XP or a Level 2 or higher Main Character to enter the game in any way.  
 
@@ -750,7 +750,7 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
   
 * **Nerf:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks, and KO piles are 0/1 with 1 and nothing can ever, ever change that.  
 
-* **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including ![](%%Flight%%) and (*Range*)). 
+* **Errata:** Name a character. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles lose and can’t gain powers (including ![](%%Flight%%) and ![](%%Range%%)). 
  
 * **Ban:** Name a character and choose a number. Put all supporting characters with that name on enemy sides into their owner’s hands. For the rest of the game, supporting characters with that name on enemy players’ sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that. (Except banning it again. You know the old saying: “If you really, really hate a card, ban it twice.”) Any effects that would increase or decrease what an enemy player pays to recruit a banned card are ignored.  
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwOD
-kwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTExNzg2MTc1NDYsLTIwNTEyNzAxMjIsLT
+Q2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
