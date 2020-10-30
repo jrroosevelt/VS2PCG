@@ -137,7 +137,7 @@ Level 1 Angel and Angelus can transform between each other. However, when you bu
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
 *Set: Galactic Guardians*  
 
-**An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have ![](%%Flight%%) or (Range) (or both) to solo attack her. 
+**An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have ![](%%Flight%%) or ![](%%Range%%) (or both) to solo attack her. 
 
 When Angela opens a **Bridge to Heven**, you must put each revealed character onto your side. This may cause some characters to be KO'd due to the uniqueness rules.
 
@@ -344,7 +344,7 @@ Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
 *Set: MCU Heroes*  
 
-Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with [Range] from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has [Range] it can’t strike him.
+Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with ![](%%Range%%) from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has ![](%%Range%%) it can’t strike him.
 
 ^(Source: Rule insert)
 
@@ -376,7 +376,7 @@ If Blob moves for any reason (including during your Formation Step or because an
 
 Blob’s **Stuck in His Stomach** power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
  
-And his **Bounced Off His Belly** power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had (Range) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
+And his **Bounced Off His Belly** power represents projectiles getting bounced back at any ranged attackers. Note: In the event that Blob somehow had ![](%%Range%%) he would not strike back using his own ATK because Bounced Off His Belly’s strike back would override his normal strike back.
 
 ^(Source: Rule insert)
 
@@ -1345,7 +1345,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 # [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
 *Set: The Fantastic Battles*  
 
-This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores ![](%%Flight%%), (Range), and team restrictions for an attack.
+This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores ![](%%Flight%%), ![](%%Range%%), and team restrictions for an attack.
 
 ^(Source: Rule Insert)
 
@@ -1636,7 +1636,7 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 Q: How does this power work?
 
-A: While she is in play, she has all the powers of each face-up X-Men supporting character on your side. This includes, but not limited to, appears powers (like Iceman and Emma Frost), ![](%%Flight%%), and Range.
+A: While she is in play, she has all the powers of each face-up X-Men supporting character on your side. This includes, but not limited to, appears powers (like Iceman and Emma Frost), ![](%%Flight%%), and ![](%%Range%%).
 
 ^(Source: UDE FAQ)
 
@@ -2146,7 +2146,7 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 - Option 15: #1012 Delphic: 0/25
 	- **Seer** (You can look through your deck at any time. Don't shuffle it afterwards.)
 - Option 16: #??? The Cowboy: 25/15
-	- Range
+	- ![](%%Range%%)
 - Option 17: #??? Kirbax the Kraklar: 20/20
 	- ![](%%Flight%%)
 - Option 18: #??? The Fiend: 16/16
@@ -2266,7 +2266,7 @@ Here's how his **Canadian Resistance Colonel** works:
  - There are exceptions to cards recruited this way when compared to normal hidden cards.
 	 * Only the cards' owner can look at them.
 	 * They can make attacks while hidden on the turn appear:
-		 * Cards with printed ![](%%Flight%%) and (range) can make attacks while hidden as if they still had those powers.
+		 * Cards with printed ![](%%Flight%%) and ![](%%Range%%) can make attacks while hidden as if they still had those powers.
 		 * Remember, these cards keep their team affiliations, so they can make team attacks as normal, even with face-up characters.
 		 * They don't exhaust when they attack.
 		 * Right before they strike, turn them face up and exhaust them.
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg2MTc1NDYsLTIwNTEyNzAxMjIsLT
-Q2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtND
+Y5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX0=
 -->
