@@ -904,7 +904,7 @@ A one-shot modifier does something immediately and then is done. Example: “Put
  
 When Pixie uses **Souldagger**, it will cause an enemy character to lose any continuous modifiers that are applying to it. (It won’t stop any one-shot modifiers because it’s impossible for there to be any one-shot modifiers happening while you use **Souldagger**.) 
 
-**Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an (Energy/"Blue"). This includes when a character uses an (Engergy/"Blue") Super Power, or choosing to spend an (Energy/"Blue") when you play the Plot Twist **Sacred Ground**.
+**Half-Fairy** will give Pixie an XP when any character (including an enemy) pays an ![](%%Energy%%) (Energy). This includes when a character uses an ![](%%Energy%%) (Engergy) Super Power, or choosing to spend an ![](%%Energy%%) (Energy) when you play the Plot Twist **Sacred Ground**.
 
 ^(Source: Rule insert)
 
@@ -2105,7 +2105,7 @@ Remember, Toad isn’t just Sort of Awesome.
 *Set: The Predator Battles*  
 
 **It Wants Us to Run**   
-Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): ![](%%Humanity%%) (Humanity), ![](%%Alien%%) (Alien), (Energy/"Blue"), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
+Tracker has a keyword that says: “Tracker has +1/+1 for each different basic Location type on all sides.” There are six basic Location types, one for each Power Symbol (even though there are more than six different names for these six types): ![](%%Humanity%%) (Humanity), ![](%%Alien%%) (Alien), ![](%%Energy%%) (Energy), (Intellect/"Yellow"), (Skill/"Red"), and (Might/"Green").
 
 ^(Source: Rule insert)
 
@@ -2388,6 +2388,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTA0OTAzMCwxMjUzMDMyMTkxLC0xND
-E5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbMjM5NDI0NTYwLDEyNTMwMzIxOTEsLTE0MT
+k4ODc1NDEsOTUyMjE3NDA3XX0=
 -->
