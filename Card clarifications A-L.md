@@ -217,7 +217,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 * Energy (Blue) ![](%%Energy%%) 
 * Intellect (Yellow) ![](%%Intellect%%)
 * Might (Green)
-* Skill (Red)  
+* Skill (Red)  ![](%%Skill%%)
 * Alien (Space) ![](%%Alien%%)
 * Humanity (Earth) ![](%%Humanity%%)
 
@@ -674,7 +674,7 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 *Set: The Defenders*  
 
 **Radar Sense**  
-Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Skill%%) (Skill) or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 ^(Source: Rule insert)
 
@@ -1204,7 +1204,7 @@ Falcon’s **Air Superiority** power prevents characters with from striking him.
 
 Some characters have a **Bond** with another character. This allows them to be discarded from your hand to generate a Power Symbol for that other character’s Super Powers. You can do this for that character’s Main or Supporting Character. 
 
-Example: You want to use the Falconer Supporting Character’s **Bait and Switch** Super Power, which costs (Skill/"Red"). You may discard a Falcon Drone from your hand to pay for the Super Power. If a character with Bond is used to generate a Power Symbol for a Super Power with Amplify, the Amplify text will apply
+Example: You want to use the Falconer Supporting Character’s **Bait and Switch** Super Power, which costs ![](%%Skill%%) (Skill). You may discard a Falcon Drone from your hand to pay for the Super Power. If a character with Bond is used to generate a Power Symbol for a Super Power with Amplify, the Amplify text will apply
 
 ^(Source: Rule insert)
 
@@ -2063,7 +2063,7 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 *Set: Sinister Syndicate*  
 
 **Spring the Trap**  
-Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a (Skill/"Red"), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
+Kraven has a Reaction super power. These types of super powers work a little differently than normal super powers. Reaction powers trigger when a certain condition is met (in Kraven’s case, it’s “when an enemy supporting character appears”). When that happens you can pay a ![](%%Skill%%) (Skill), and if you do, you put three -1/-1 counters on that character. You can use a Reaction super power at any time, as long as its trigger condition is met. However, like other super powers, you can only use it once per turn.
 
 ^(Source: Rule insert)
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjM4MzI5MywtNDY5ODI1NywtMTA4OT
+eyJoaXN0b3J5IjpbMTE0Mjk3NjE1OSwtNDY5ODI1NywtMTA4OT
 AzODE3MywxNzAyNzMxMjgxXX0=
 -->
