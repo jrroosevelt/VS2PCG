@@ -218,7 +218,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 * Intellect (Yellow)  
 * Might (Green)
 * Skill (Red)  
-* Alien (Space)
+* Alien (Space) ![](%%Alien%%)
 * Humanity (Earth) ![](%%Humanity%%)
 
 
@@ -1179,7 +1179,7 @@ If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg)
  - Remove the Captive card from the game, but keep any wound counters on it.  
  - Put the Captive card next to (or underneath) its Captor to make it clear who its Captor is.  
  - When the Captor leaves play, put its Captive back into play stunned in its owner’s back row.  
- - You may pay an (Alien/"Space") at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
+ - You may pay an ![](%%Alien%%)(Alien) at the start of your Build Phase. If you do, KO the Facehugger and put its captive into its owner’s KO pile. Then you may put an (Xenomorph) character from your hand into your back row. (This represents the new Xenomorph bursting out of the captive’s chest.)  
  - Note: Put the KO’d Facehugger token back into your Facehugger Pile.
 
 
@@ -1287,7 +1287,7 @@ If the Flukeman is on your side and he **Infects** a character, this means at th
 # [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
 *Set: The X-Files Battles*
 
-**Spooky** and **I Want to Believe** look for Alien Super Powers. This includes any Super Power that costs at least one Alien symbol to use. With **Spooky,** if you choose an Evil enemy character with an Alien Super Power, you can either daze it, stun it, or KO it (although you only get to pick one of the three options). The same is true for **I Want to Believe**: if an Evil enemy character with an Alien Super Power appears, you can choose for Mulder to gain 1, 2, or 3 XP. (It's not cumulative.) We would choose 3, but your mileage may vary.
+**Spooky** and **I Want to Believe** look for ![](%%Alien%%) (Alien) Super Powers. This includes any Super Power that costs at least one ![](%%Alien%%) (Alien) symbol to use. With **Spooky,** if you choose an Evil enemy character with an ![](%%Alien%%) (Alien) Super Power, you can either daze it, stun it, or KO it (although you only get to pick one of the three options). The same is true for **I Want to Believe**: if an Evil enemy character with an ![](%%Alien%%) (Alien Super Power appears, you can choose for Mulder to gain 1, 2, or 3 XP. (It's not cumulative.) We would choose 3, but your mileage may vary.
 
 **Searching for Samantha** will draw a card each time you search your deck for something. First resolve the search effect, then draw a card.
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzU0MTI1MiwtNDY5ODI1NywtMTA4OT
-AzODE3MywxNzAyNzMxMjgxXX0=
+eyJoaXN0b3J5IjpbLTExMDE2MDQyNDQsLTQ2OTgyNTcsLTEwOD
+kwMzgxNzMsMTcwMjczMTI4MV19
 -->
