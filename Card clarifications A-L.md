@@ -215,7 +215,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 **The Big One** KOs basic Locations with different types. The types are:
 
 * Energy (Blue) ![](%%Energy%%) 
-* Intellect (Yellow)  
+* Intellect (Yellow) ![](%%Intellect%%)
 * Might (Green)
 * Skill (Red)  
 * Alien (Space) ![](%%Alien%%)
@@ -567,7 +567,7 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 # [Chimichanga](http://vs.tcgbrowser.com/images/cards/big/MFM-021.jpg)
 *Set: Deadpool & Friends*  
 
-Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay ![](%%Energy%%) (Energy) and **(Intellect)** and then say Chimichanga twice. That would be madness.
+Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay ![](%%Energy%%) (Energy) and ![](%%Intellect%%) (Intellect) and then say Chimichanga twice. That would be madness.
 
 ^(Source: Rule insert)
 
@@ -674,7 +674,7 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 *Set: The Defenders*  
 
 **Radar Sense**  
-Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or (Intellect/"Yellow") to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+Daredevil and Rhino have effects that allow an enemy player to spend a (Skill/"Red") or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
 
 ^(Source: Rule insert)
 
@@ -1447,7 +1447,7 @@ For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you 
 # [Global Information Network](http://vs.tcgbrowser.com/images/cards/big/COS-020.jpg)
 *Set: Cosmic Avengers*  
 
-In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like \* Thor \* and Hyperion (who have keyword powers which requires spending an (Intellect/"Yellow) and ![](%%Energy%%) (Energy), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations:
+In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like \* Thor \* and Hyperion (who have keyword powers which requires spending an ![](%%Intellect%%) (Intellect) and ![](%%Energy%%) (Energy), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations:
 
 * They are not super powers.  
 * Your main characters ust be face up to pay for them.  
@@ -1899,7 +1899,7 @@ If the cards are Equipment or Plot Twists both of you may ignore any team affili
 *Set: Legacy*  
 
 **Psionic Protection**  
-This power refers to (Intellect/Light bulb) super powers. This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
+This power refers to ![](%%Intellect%%) (Intellect) super powers. This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
 
 ^(Source: Rule insert)
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTIzNTM5NSwtNDY5ODI1NywtMTA4OT
+eyJoaXN0b3J5IjpbMTk3NjM4MzI5MywtNDY5ODI1NywtMTA4OT
 AzODE3MywxNzAyNzMxMjgxXX0=
 -->
