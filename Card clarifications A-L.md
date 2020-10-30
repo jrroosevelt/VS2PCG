@@ -2095,7 +2095,7 @@ While in play, Lambert has every Good Team Affiliation. This does a variety of t
 # [Legacy](http://vs.tcgbrowser.com/images/cards/big/HER-012.jpg)
 *Set: The Herald*  
 
-Legacy can pay for **Nega-Bands** by spending either a (Might/"Green") or Negative Zone Location. Spending a Negative Zone means turning a Location named Negative Zone face down in your resource row or discarding one from your hand. (It works just like using a regular Location to pay for a super power except you don't actually generate a power symbol.)
+Legacy can pay for **Nega-Bands** by spending either a ![](%%Might%%) (Might) or Negative Zone Location. Spending a Negative Zone means turning a Location named Negative Zone face down in your resource row or discarding one from your hand. (It works just like using a regular Location to pay for a super power except you don't actually generate a power symbol.)
 
 ^(Source: Rule insert)
 
@@ -2338,6 +2338,6 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mjk3NjE1OSwtNDY5ODI1NywtMTA4OT
+eyJoaXN0b3J5IjpbLTM0MTY0MDM2MCwtNDY5ODI1NywtMTA4OT
 AzODE3MywxNzAyNzMxMjgxXX0=
 -->
