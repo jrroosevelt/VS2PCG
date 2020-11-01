@@ -2455,6 +2455,13 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 
 ^(Source: FB Post - Chad Daniel)
 
+# [Wong](http://vs.tcgbrowser.com/images/cards/big/MCU4-014.jpg) (SC)
+*Set: Power & Reality*  
+
+**
+
+^(Source: Rule insert)
+
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 *Set: The Fantastic Battles*  
 
@@ -2507,8 +2514,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzkxMDU5NSwtMTQ2NDIyNTk5NiwxND
-A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
-MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
-k1MjIxNzQwN119
+eyJoaXN0b3J5IjpbLTE2ODMwMjU2NjAsLTE0NjQyMjU5OTYsMT
+QwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1
+NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MS
+w5NTIyMTc0MDddfQ==
 -->
