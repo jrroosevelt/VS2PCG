@@ -431,7 +431,9 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 # [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-001.jpg) / Winter Soldier
 *Set: Power & Reality*  
 
-**The New Fist of Hydra** allows an enemy player to force Winter Soldier to stun a character on your side. When an enemy character pays for **Longing, Rusted, Furnace, Daybreak,** it can use one of it's
+**The New Fist of Hydra** allows an enemy player to force Winter Soldier to stun a character on your side. When an enemy character pays for **Longing, Rusted, Furnace, Daybreak,** it can use one of its own "wild" Location(s). 
+
+**Note:** Any enemy character can pay for and use **Longing, Rusted, Furnace, Daybreak,**but two characters can't work together to 
 
 ^(Source: Rule insert)
 
@@ -2387,8 +2389,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc2ODQyNzgsMTQ5OTQyNjY4NSwtNz
-Y1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3
-MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX
-0=
+eyJoaXN0b3J5IjpbMTYyNTkwNzE0NCwxNDk5NDI2Njg1LC03Nj
+U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
+MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
+==
 -->
