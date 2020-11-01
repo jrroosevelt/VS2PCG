@@ -1493,7 +1493,7 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 # [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg)
 *Set: Space & Time*  
 
-**Who's Having Fun?** put a +1/+1 counter on two different Supporting Characters. If you have one, you'll have to put a +1/+1 on an enemy Supporting Character if possible. With **Contest of Champions** you can choose any two Supporting Cha
+**Who's Having Fun?** put a +1/+1 counter on two different Supporting Characters. If you have one, you'll have to put a +1/+1 on an enemy Supporting Character if possible. With **Contest of Champions** you can choose any two Supporting Characters, even two on the same side.
 
 ^(Source: Rule insert)
 
@@ -2346,7 +2346,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMyOTg5NTIsMTM0NDk0MDkzMCwtMj
-A1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMx
-MjgxXX0=
+eyJoaXN0b3J5IjpbMzcwNzE3Nzk3LDEzNDQ5NDA5MzAsLTIwNT
+EyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4
+MV19
 -->
