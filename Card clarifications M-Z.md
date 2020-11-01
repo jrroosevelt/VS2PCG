@@ -2455,10 +2455,10 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 
 ^(Source: FB Post - Chad Daniel)
 
-# [Wong](http://vs.tcgbrowser.com/images/cards/big/MCU4-014.jpg) (SC)
+# [Wong](http://vs.tcgbrowser.com/images/cards/big/MCU4-014.jpg)
 *Set: Power & Reality*  
 
-**Guardian of These Books** will trigger when you use an ![](%%Intellect%%) (Intellect) Super Power, even if you don't actually spend an ![](%%Intellect%%) (Intellect). For example, Bruce Banner's **I Think I'm Getting The Hang of It!** is an ![](%%Intellect%%) (Intellect) and ![](%%Energy%%) (Energy) Super Power and will trigger **Guardian of These Books** 
+**Guardian of These Books** will trigger when you use an ![](%%Intellect%%) (Intellect) Super Power, even if you don't actually spend an ![](%%Intellect%%) (Intellect). For example, Bruce Banner's **I Think I'm Getting The Hang of It!** is an ![](%%Intellect%%) (Intellect) and ![](%%Energy%%) (Energy) Super Power and will trigger **Guardian of These Books** even if Bruce spends an ![](%%Energy%%) (Energy) to use it (and even if he spends nothing because Iron Man is on your side!). 
 
 ^(Source: Rule insert)
 
@@ -2514,8 +2514,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDkyNjY3MTIsLTE0NjQyMjU5OTYsMT
-QwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1
-NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MS
-w5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbODIwNDA5MTMzLC0xNDY0MjI1OTk2LDE0MD
+U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
+NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
+UyMjE3NDA3XX0=
 -->
