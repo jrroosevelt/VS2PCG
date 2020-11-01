@@ -188,7 +188,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 ^(Source: Rule insert)
 
 # Arnim Zola
-# [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
+## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
 *Set: Crossover* 
  
 **ESP Box** takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
@@ -197,7 +197,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 
 ^(Source: Rule insert)
 
-# [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/MCU4-017.jpg) (SC-MCU Villains
+## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/MCU4-017.jpg) (SC-MCU Villains)
 *Set: Power & Reality*  
 
 1. If you understand how **I Wrote an Algorithm** works, goto 2. If not, goto 3.
@@ -2431,7 +2431,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjEwMzI2NiwxNDk5NDI2Njg1LC03Nj
+eyJoaXN0b3J5IjpbLTQ2ODMxMzEwMSwxNDk5NDI2Njg1LC03Nj
 U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
 MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
 ==
