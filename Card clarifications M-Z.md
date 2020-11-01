@@ -1966,6 +1966,15 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 
 ^(Source: Official clarification)
 
+# [Surtur](http://vs.tcgbrowser.com/images/cards/small/MCU6-019.jpg)
+*Set: Space & Time*  
+
+**Ragnarok** triggers right when Surtur attacks. There's no chance to play a Plot Twist or use a Super Power to increase his ATK at that point. However, other effects that trigger when someone attacks could be ordered to increase Surtur's ATK before Ragnarok resolves.
+
+**Note:** If there are no enemy resources left for Ragnarok to KO, you'll have to KO friendly ones.
+
+^(Source: Rule insert)
+
 # [Sweet](http://vs.tcgbrowser.com/images/cards/big/TBB-047.jpg)
 *Set: The Buffy Battles*  
 
@@ -2445,7 +2454,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4ND
-U5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1
-NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01OD
+M3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5
+MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
 -->
