@@ -1451,12 +1451,10 @@ At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X
 
 See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
 
-# [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
+# [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC)
 *Set: Mind & Soul*  
 
-You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
-
-**I Looked in Your Head and Saw Annihilation** prevents enemy characters from using a Super Power more than one more time for the rest of the game. This includes Main Characters that have Super Powers. Once Scarlet Witch uses that power, it will last the whole game, even after she is KO'd. 
+**Head of the Wakandan Design Group** does not count cards drawn in players' opening hands. It only starts counting on the first turn of the game.
 
 ^(Source: Rule insert)
 
@@ -2258,7 +2256,14 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 
 ^(Source: UDE FAQ)
 
-# [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg)
+# Valkyrie
+## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC )
+*Set: Mind & Soul*  
+
+**Head of the Wakandan Design Group** does not count cards drawn in players' opening hands. It only starts counting on the first turn of the game.
+
+^(Source: Rule insert)
+## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg) (SC)
 *Set: The Defenders*
 
 Q: Do you still have to spend resource points to recruit after activating Valkyrie's **Chooser of the Slain**?
@@ -2482,7 +2487,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE5NjAxMzUsMTQwNTc2OTEzNCwxOD
+eyJoaXN0b3J5IjpbLTExNTE0NTM2MzQsMTQwNTc2OTEzNCwxOD
 AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
 NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
 ==
