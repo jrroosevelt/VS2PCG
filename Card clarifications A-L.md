@@ -1641,7 +1641,9 @@ A: Yes.
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/MCU4-005.jpg)
 *Set: Power & Reality*  
 
-When you spend a power symbol from a Location in your resource row to put Hawkeye in
+When you spend a power symbol from a Location in your resource row to put Hawkeye into a **Nest**, put the Location card partly underneath him and leave it face up as the **Nest**. (If you pay for the power by discarding a Location or you reduce the cost of the power to zero power symbols, nothing happens.)
+
+W
 ^(Source: Rule insert)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
@@ -2395,8 +2397,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI3OTU0NjAsMTQ5OTQyNjY4NSwtNz
-Y1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3
-MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX
-0=
+eyJoaXN0b3J5IjpbNzQwMDQ2OTk5LDE0OTk0MjY2ODUsLTc2NT
+cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
+MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
