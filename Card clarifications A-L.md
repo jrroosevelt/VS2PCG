@@ -520,6 +520,16 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 
 ^(Source: UDE FAQ)
 
+## [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (SC - MCU Heroes)
+*Set: Mind & Soul*  
+
+**Scrapper #142** doesn't care how a card enters a KO pile. It could be a KO'd Equipment or character, a discarded character, or even an effect that puts a card directly from your deck to your KO pile.
+
+If **The Famed Sword of the Valkyrie** is used to remove an enemy Main Character from the game that player will lose the game (unless they have any other Main Characters on their side). 
+
+^(Source: Rule insert)
+
+
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
 *Set: Cosmic Avengers*  
 
@@ -2360,7 +2370,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNTU4MDA1LC0yOTkwNTA5ODQsMTM0ND
-k0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3
-MywxNzAyNzMxMjgxXX0=
+eyJoaXN0b3J5IjpbLTE3Mjg5MDgwNTAsLTI5OTA1MDk4NCwxMz
+Q0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4
+MTczLDE3MDI3MzEyODFdfQ==
 -->
