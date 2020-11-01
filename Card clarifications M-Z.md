@@ -2521,18 +2521,16 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 
-# [You're the Last One](http://vs.tcgbrowser.com/images/cards/big/MCU4-028.jpg) (SC-MCU Villains)
+# [You're the Last One](http://vs.tcgbrowser.com/images/cards/big/MCU4-028.jpg)
 *Set: Power & Reality*  
 
-1. If you understand how **I Wrote an Algorithm** works, goto 2. If not, goto 3.
-2. Cool. We're done here.
-3. Start by reading Part 1 of the Super Power. Then if exactly one face-up enemy character has more ATK than each other face-up enemy character, go to Part 2 of the Super Power and stun that character. Otherwise go to Part 3 and put two -1/-1 counters on each enemy character. If everything now makes sense, goto 2 above. If not, goto 3 above. 
+When this Plot Twist resolves, it cancels the combat. It then acts as though the player whose turn it is just said, "Okay, I'm done with my turn." And then, anything that triggers "At the end of the turn" will trigger, and the rest of the end-of-turn procedure will happen normally.
 
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgwNzUwOTMsLTE0NjQyMjU5OTYsMT
-QwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1
-NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MS
-w5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
+A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
+MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
+k1MjIxNzQwN119
 -->
