@@ -786,7 +786,7 @@ Because this copies everything from any enemy Plot Twist you choose except for t
 
 # [Odin](http://vs.tcgbrowser.com/images/cards/big/MCU6-004.jpg)
 *Set: Space & Time*  
-
+Odin introduces **Level Down Powers** to the game. A Level Down Power works just like a Level Up Power, except instead of gaining XP which advances it to a higher level, it gains XP which regresses it back to a lower level. 
 
 ^(Source: Rule insert)
 
@@ -2394,6 +2394,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1Mz
-AzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbMjA2NTY0MzQ0NSwxODQ1OTU1MDQsMTMyMT
+MwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQw
+N119
 -->
