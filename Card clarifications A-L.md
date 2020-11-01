@@ -520,12 +520,10 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 
 ^(Source: UDE FAQ)
 
-## [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (SC - MCU Heroes)
+# [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-027.jpg) (SC - MCU Heroes)
 *Set: Mind & Soul*  
 
-**Scrapper #142** doesn't care how a card enters a KO pile. It could be a KO'd Equipment or character, a discarded character, or even an effect that puts a card directly from your deck to your KO pile.
-
-If **The Famed Sword of the Valkyrie** is used to remove an enemy Main Character from the game that player will lose the game (unless they have any other Main Characters on their side). 
+**Higher, Further, Faster** lets Captain Marvel ignore (Flight) on enemy front row characters in order to attack a back row character. (Characters with **Grab** will still get in her way though.) 
 
 ^(Source: Rule insert)
 
@@ -2370,7 +2368,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg5MDgwNTAsLTI5OTA1MDk4NCwxMz
-Q0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4
-MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbMTU1NTMwNzY2MSwtMjk5MDUwOTg0LDEzND
+Q5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgx
+NzMsMTcwMjczMTI4MV19
 -->
