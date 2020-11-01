@@ -1983,8 +1983,11 @@ This Location is the only way to generate an Alien ![](%%Alien%%) power symbol f
 # [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
 *Set: Space & Time*  
 
-The Photographic Universe includes all cards with photographic artwork. 
+The Photographic Universe includes all cards with photographic artwork. Currently this includes four teams: MCU Heroes, MCU Villains, Scoobies, Forces of Darkness. But I want to believe there will be more out there soon!
+
 ^(Source: Rule insert)
+
+Editor's note: See 
 
 
 # [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
@@ -2412,7 +2415,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjY4MzcwLC01ODM3NzAxMzEsMTg0NT
-k1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0
-MSw5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbLTE4NTk0ODcyOTcsLTU4Mzc3MDEzMSwxOD
+Q1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3
+NTQxLDk1MjIxNzQwN119
 -->
