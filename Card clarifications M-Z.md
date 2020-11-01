@@ -492,7 +492,7 @@ This Plot Twist will stop "recruit" and "appears" powers.
 
 **You Don't Want Any Part of This** puts a Supporting Character with the **Hologram** keyword from your hand onto an enemy side. Why do this? Because when that **Hologram** get's KO'd, Mysterio will level up.
 
-**I Don't Think You Know What's Real** can turn any Supporting Character in your hand into a **Hologram). 
+**I Don't Think You Know What's Real** can turn any Supporting Character in your hand into a **Hologram**. For example, if Mysterio pays an ![](%%Energy%%)  (Energy) you could put a Thanos Supporting Character from your hand onto your side. Thanos would gain the ![](%%Energy%%)  (Energy) **Hologram** keyword and appear with two wounds (because he has 3 Heal
 
 ^(Source: Rule insert)
 
@@ -2538,8 +2538,8 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0Nj
-QyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAx
-MzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMT
-QxOTg4NzU0MSw5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbMjA3MjE0NywyODIwNjUyODksLTY5MzQ4MD
+kyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUs
+LTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMD
+MyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
 -->
