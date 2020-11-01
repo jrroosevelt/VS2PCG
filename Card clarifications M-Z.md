@@ -1090,14 +1090,13 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 ^(Source: Rule insert)
 
 # Red Skull
-## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/MCU4-008.jpg) (MC-MCU Villains)
+## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/MCU4-011.jpg) (MC-MCU Villains)
 *Set: Power & Reality*  
 
-**A Full Bird Colonel ...** and **... Turned Spy** each give Supporting Characters on your side and you own **Soldier** or **Agent** respectively. This means when a Supporting Character appears on your side, it will trigger its **Soldier/Agent** power and count each other Supporting Character on your side.
-
-**Note:** A character can have multiple instances of **Soldier** or **Agent**. For example, if you give **Soldier** to a character that already has **Soldier**, when it appears, both instances of **Soldier** will trigger separately.
+When you resolve **You Must Lose What You Love**, if there
 
 ^(Source: Rule insert)
+
 ## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/mnb-091.jpg) (SC-Super Villains)
 *Set: The Marvel Battles*
 
@@ -2508,8 +2507,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzczMTYyOTMsLTE0NjQyMjU5OTYsMT
-QwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1
-NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MS
-w5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbMTkwOTYzNzE0OCwtMTQ2NDIyNTk5NiwxND
+A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
+MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
+k1MjIxNzQwN119
 -->
