@@ -116,7 +116,7 @@ The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in
 # [Alter Ego](http://vs.tcgbrowser.com/images/cards/big/MCU7-019.jpg)
 *Set: Friendly Neighborhood*  
 
-"Make up a new name" means you must rename a character card with something that is not already the name of a character in the Vs System 2PCG. Some examples of made-up names are "Night Monkey", "Dr. Bay", and "The Fudge".
+"Make up a new name" means you must rename a character card with something that is not already the name of a character in the Vs System 2PCG. Some examples of made-up names are "Night Monkey", "Dr. Baby", and "The Fudge".
 
 Removing a character's current names (which also makes the character lose all its **AKA**s) and replacing it lets you get around the uniqueness rules. For example, if you change Spider-Man's name to Night Monkey, you can now play or have another copy of that Spider-Man cad in play at the same time since they have different names. (On the other hand, you can no longer discard a Spider-Man character to power up Night Monkey.)
 
@@ -2461,8 +2461,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDg3NjI2NCw2OTIyMzEwMzUsLTE1Nz
-MzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgy
-MTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcwMTIyLC
-00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMz
+MxNDU3LC0yNjcyNDI2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1
+LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtND
+Y5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX0=
 -->
