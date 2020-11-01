@@ -1490,12 +1490,10 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 
 ^(Source: Rule insert)
 
-# Grandmaster
-*Set: Crossover*  
+# [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg)
+*Set: Space & Time*  
 
-The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
-
-Goblin’s **Bag of Tricks** allows you to discard Locations to make him more powerful in combat. If this causes Goblin to strike “before each other character,” this means he strikes first even if any of the characters have, for example, a power like Ferocious. And if two Goblins are in combat with that ability, they’ll strike each other at the same time. If you discard an Oscorp Location, it’s like a wild: you can treat it as though it’s any of the other four Locations that you didn’t already discard this combat.
+**Who's Having Fun?** put a +1/+1 counter on two different Supporting Characters. If you have one, you'll have to put a +1/+1 on an enemy Supporting Character if possible. With **Contest of Champions** you can choose any two Supporting Cha
 
 ^(Source: Rule insert)
 
@@ -2348,7 +2346,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDcxMzYwLDEzNDQ5NDA5MzAsLTIwNT
-EyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4
-MV19
+eyJoaXN0b3J5IjpbLTE3MzMyOTg5NTIsMTM0NDk0MDkzMCwtMj
+A1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMx
+MjgxXX0=
 -->
