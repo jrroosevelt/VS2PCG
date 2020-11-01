@@ -1995,7 +1995,9 @@ Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good
 
 In the films, these characters (Talos and Yondu) are sometimes "Good" and sometimes "Evil". In the game, you get to choose.
 
+**Note:** They don't have any team affiliations until you recruit them. If they appear on your side some other way, they won't have a team. 
 
+Talos's **Pragmatist** power affects all characters on your side, regardless of whether you choose MCU Heroes or MCU Villains. For example, if he has MCU Heroes all characters on your side (including Talos himself) have **Fearless**.
 
 ^(Source: Rule insert)
 
@@ -2434,7 +2436,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzc4NTY5OCwtNTgzNzcwMTMxLDE4ND
+eyJoaXN0b3J5IjpbLTg5MjYxNTY5MywtNTgzNzcwMTMxLDE4ND
 U5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1
 NDEsOTUyMjE3NDA3XX0=
 -->
