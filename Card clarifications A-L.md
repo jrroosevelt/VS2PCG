@@ -202,7 +202,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 
 1. If you understand how **I Wrote an Algorithm** works, goto 2. If not, goto 3.
 2. Cool. We're done here.
-3. 
+3. Start by reading Part 1 of the Super Power. Then if exactly one face-up enemy character has more ATK than each other face-up enemy character, go to Part 2 of the Super Power and stun that character. Otherwise go to Part 3 and put two -1/-1 counters on each enemy character. If everything now makes sense, goto 2 above. If not, goto 3 above. 
 
 ^(Source: Rule insert)
 
@@ -2431,7 +2431,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MzU1MjgzLDE0OTk0MjY2ODUsLTc2NT
-cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
-MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTg2MjEwMzI2NiwxNDk5NDI2Njg1LC03Nj
+U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
+MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
+==
 -->
