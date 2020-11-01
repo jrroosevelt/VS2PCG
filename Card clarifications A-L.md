@@ -252,6 +252,13 @@ A: No, Hypnotize creates a modifier with an expiration that temporarily makes a 
 
 ^(Source: FB Post - Kirk - confirmed by Chad)
 
+## [Baron von Strucker](http://vs.tcgbrowser.com/images/cards/big/MCU4-011.jpg) (SC-MCU Villains)
+*Set: Power & Reality*  
+
+When you resolve **You Must Lose What You Love**, if there was a tie for highest cost Supporting Character, you choose which one gets discarded.
+
+^(Source: Rule insert)
+
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
 *Set: The New Defenders*  
 
@@ -2404,7 +2411,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTM0MDI1LDE0OTk0MjY2ODUsLTc2NT
+eyJoaXN0b3J5IjpbMjIzODI4NzQwLDE0OTk0MjY2ODUsLTc2NT
 cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
 MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
