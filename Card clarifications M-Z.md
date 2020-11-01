@@ -2257,12 +2257,15 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 ^(Source: UDE FAQ)
 
 # Valkyrie
-## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC )
+## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC - MCU Heroes)
 *Set: Mind & Soul*  
 
-**Head of the Wakandan Design Group** does not count cards drawn in players' opening hands. It only starts counting on the first turn of the game.
+**Scrapper #142** doesn't care how a card enters a KO pile. It could be a KO'd Equipment or character, a discarded character, or even an effect that puts a card directly from your deck to your KO pile.
+
+If **The Famed Sword of the Valkyrie**
 
 ^(Source: Rule insert)
+
 ## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg) (SC)
 *Set: The Defenders*
 
@@ -2487,7 +2490,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE0NTM2MzQsMTQwNTc2OTEzNCwxOD
+eyJoaXN0b3J5IjpbLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
 AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
 NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
 ==
