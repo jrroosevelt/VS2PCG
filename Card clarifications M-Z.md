@@ -1802,7 +1802,7 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 ^(Source: Rule insert)
 
 # Spider-Man
-## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider Friends)
+## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider-Friends)
 *Set: Spider-Friends*  
 
 **I Can and Will Fight You**
@@ -1812,10 +1812,10 @@ When a character with the Alien Symbiote is turned face down but isn’t KO’d,
 
 ^(Source: Rule insert)
 
-# [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/MCU7-003.jpg) (MC-MCU Heroes)
+## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/MCU7-003.jpg) (MC-MCU Heroes)
 *Set: Friendly Neighborhood*  
 
-**Homecoming** will give Spider-Man an XP each time he **Climbs** a Location he hasn't climbed yet. This refers to individual Location cards. So if he climbs a Training Ground on one turn to 
+**Homecoming** will give Spider-Man an XP each time he **Climbs** a Location he hasn't climbed yet. This refers to individual Location cards. So if he climbs a Training Ground on one turn to get an XP, he can climb a different Training Ground on another turn to gain a second XP.
 
 ^(Source: Rule insert)
 
@@ -2546,8 +2546,8 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE4ODcyMDEsMjgyMDY1Mjg5LC02OT
-M0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2
-NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMT
-I1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbLTk5NDgyNTUxOSwyODIwNjUyODksLTY5Mz
+Q4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1
+NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMj
+UzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
 -->
