@@ -487,7 +487,7 @@ This Plot Twist will stop "recruit" and "appears" powers.
 ^(Source: Rule Insert)
 
 # Mysterio
-# [Mysterio ](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains
+## [Mysterio ](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains)
 *Set: Friendly Neighborhood*  
 
 **You Don't Want Any Part of This** puts a Supporting Character with the **Hologram** keyword from your hand onto an enemy side. Why do this? Because when that **Hologram** get's KO'd, Mysterio will level up.
@@ -2546,8 +2546,8 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDgyNTUxOSwyODIwNjUyODksLTY5Mz
-Q4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1
-NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMj
-UzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzND
+gwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0
+NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0LDEyNT
+MwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3NDA3XX0=
 -->
