@@ -1503,6 +1503,13 @@ A: Thanos will gain XP from a Token being KO'd and Tokens will exist for a brief
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+# [Goose ](http://vs.tcgbrowser.com/images/cards/big/MCU5-028.jpg)
+*Set: Mind & Soul*  
+
+When you  
+
+^(Source: Rule insert)
+
 
 # \* [Gorgon](http://vs.tcgbrowser.com/images/cards/small/SVH-013.jpg) \*
 *Set: S.H.I.E.L.D. vs. Hydra*  
@@ -2368,7 +2375,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTcxODIxNSwtMjk5MDUwOTg0LDEzND
-Q5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgx
-NzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTIwMDcxMDQwMzYsLTc2NTcxODIxNSwtMj
+k5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgy
+NTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
