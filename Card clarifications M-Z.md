@@ -1990,14 +1990,14 @@ The Photographic Universe includes all cards with photographic artwork. Currentl
 
 Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil)" wiki topic for the most up-to-date list of teams in each universe. 
 
-## [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
+## [Talos (SC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-013.jpg)
 *Set: Space & Time*  
 
-The Photographic Universe includes all cards with photographic artwork. Currently this includes four teams: MCU Heroes, MCU Villains, Scoobies, Forces of Darkness. But I want to believe there will be more out there soon!
+In the films, these characters (Talos and Yondu) are sometimes "Good" and sometimes "Evil". In the game, you get to choose.
+
+
 
 ^(Source: Rule insert)
-
-Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil)" wiki topic for the most up-to-date list of teams in each universe. 
 
 # [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
 *Set: Legacy*
@@ -2434,7 +2434,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNTE4NTkwLC01ODM3NzAxMzEsMTg0NT
-k1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0
-MSw5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbLTI0Nzc4NTY5OCwtNTgzNzcwMTMxLDE4ND
+U5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1
+NDEsOTUyMjE3NDA3XX0=
 -->
