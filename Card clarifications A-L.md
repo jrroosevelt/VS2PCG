@@ -428,14 +428,10 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 ^(Source: Rule insert)
 
-# [Bucky Barnes] / Winter Soldier
+# [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-001.jpg) / Winter Soldier
 *Set: Power & Reality*  
 
-When you recruit Goose, you'll pay 1 or more recruit points. When Goose appears, she will swallow up an enemy character or Equipment with that cost. When Goose leaves play, that card will go back to its owner's hand.
-
-If an effect needs to know Goose's cost, treat it as 0 (regardless of how many recruit points you paid). 
-
-**Note:** If Goose appears without getting recruited, her **Internal Pocket Dimension** can only remove a Supporting Character or Equipment with 0 cost. 
+**The New Fist of Hydra** allows an enemy player to force Winter Soldier to stun a character on your side. When an enemy character pays for **Longing, Rusted, Furnace, Daybreak,** it can use one of it's
 
 ^(Source: Rule insert)
 
@@ -2391,7 +2387,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM0MjY2MzksMTQ5OTQyNjY4NSwtNz
+eyJoaXN0b3J5IjpbLTEwMzc2ODQyNzgsMTQ5OTQyNjY4NSwtNz
 Y1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3
 MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX
 0=
