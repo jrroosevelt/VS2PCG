@@ -694,7 +694,7 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 
 **A Full Bird Colonel ...** and **... Turned Spy** each give Supporting Characters on your side and you own **Soldier** or **Agent** respectively. This means when a Supporting Character appears on your side, it will trigger its **Soldier/Agent** power and count each other Supporting Character on your side.
 
-
+**Note:** A character can have multiple instances of **Soldier** or **Agent**. For example, if you give **Soldier** to a character that already has **Soldier**, when it appears, both instances of **Soldier** will trigger separately.
 
 ^(Source: Rule insert)
 
@@ -2499,8 +2499,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ0NTY5NjUsLTE0NjQyMjU5OTYsMT
-QwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1
-NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MS
-w5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbNjA3MDIyNDczLC0xNDY0MjI1OTk2LDE0MD
+U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
+NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
+UyMjE3NDA3XX0=
 -->
