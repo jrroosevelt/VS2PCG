@@ -197,10 +197,12 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 
 ^(Source: Rule insert)
 
-# [Ar](http://vs.tcgbrowser.com/images/cards/big/MCU4-016.jpg)
+# [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/MCU4-017.jpg) (SC-MCU Villains
 *Set: Power & Reality*  
 
-When M'Baku gives a character **Pounce** and **Dodge**, it will keep those powers until that character leaves play. 
+1. If you understand how **I Wrote an Algorithm** works, goto 2. If not, goto 3.
+2. Cool. We're done here.
+3. 
 
 ^(Source: Rule insert)
 
@@ -2429,8 +2431,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDcxMzI0OCwxNDk5NDI2Njg1LC03Nj
-U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
-MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
-==
+eyJoaXN0b3J5IjpbODA0MzU1MjgzLDE0OTk0MjY2ODUsLTc2NT
+cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
+MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
