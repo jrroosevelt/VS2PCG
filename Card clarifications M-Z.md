@@ -199,7 +199,7 @@ The Gift of Death will instantly KO its assigned character. The other four grant
 # [M'Baku](http://vs.tcgbrowser.com/images/cards/big/MCU4-016.jpg)
 *Set: Power & Reality*  
 
-When M'Baku gives a c 
+When M'Baku gives a character **Pounce** and **Dodge**, it will keep those powers until that character leaves play. 
 
 ^(Source: Rule insert)
 
@@ -2521,8 +2521,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MDE3NzE0LC0xNDY0MjI1OTk2LDE0MD
-U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
-NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
-UyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbLTMzNzQ3MzA4NSwtMTQ2NDIyNTk5NiwxND
+A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
+MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
+k1MjIxNzQwN119
 -->
