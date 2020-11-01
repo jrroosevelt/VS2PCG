@@ -113,10 +113,10 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
-# [Alter Ego](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg) (MC-MCU Heroes)
+# [Alter Ego](http://vs.tcgbrowser.com/images/cards/big/MCU7-019.jpg)
 *Set: Friendly Neighborhood*  
 
-The effects from **That is Dimitri** can stack. For example, if Maria Hill and Nick Fury are on your side, Dimitri will have +2/+2, **Stealth**, and **Genius**.
+"Make up a new name" means you must rename a character card with something that is not already the name of a character in the Vs System 2PCG. Some examples of made-up names are "Night Monkey", "Dr. Bay", and "The Fudge".
 
 ^(Source: Rule insert)
 
@@ -947,7 +947,7 @@ A: No. Devil Slayer still has to follow all the other legal attack rules. He doe
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
-# [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg) (MC-MCU Heroes)
+# [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg)
 *Set: Friendly Neighborhood*  
 
 The effects from **That is Dimitri** can stack. For example, if Maria Hill and Nick Fury are on your side, Dimitri will have +2/+2, **Stealth**, and **Genius**.
@@ -2449,7 +2449,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjA4NTUwMiwtMTU3MzMzMTQ1NywtMj
+eyJoaXN0b3J5IjpbMjEyNzUxMzA1MywtMTU3MzMzMTQ1NywtMj
 Y3MjQyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUw
 OTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLT
 EwODkwMzgxNzMsMTcwMjczMTI4MV19
