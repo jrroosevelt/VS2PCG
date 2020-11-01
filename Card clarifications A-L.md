@@ -1643,7 +1643,9 @@ A: Yes.
 
 When you spend a power symbol from a Location in your resource row to put Hawkeye into a **Nest**, put the Location card partly underneath him and leave it face up as the **Nest**. (If you pay for the power by discarding a Location or you reduce the cost of the power to zero power symbols, nothing happens.)
 
-W
+While Hawkeye's **Nest** is one of the Locations named on his card, he has the associated text. 
+
+While a Location is a **Nest**, it still counts as a Location as as being a face-up resoruce in your resource row, however it can't be used to generate a power symbol anymore. If the 
 ^(Source: Rule insert)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
@@ -2397,7 +2399,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwMDQ2OTk5LDE0OTk0MjY2ODUsLTc2NT
-cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
-MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbMTI5NTY0OTQ1NywxNDk5NDI2Njg1LC03Nj
+U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
+MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
+==
 -->
