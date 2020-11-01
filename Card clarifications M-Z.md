@@ -487,7 +487,8 @@ This Plot Twist will stop "recruit" and "appears" powers.
 ^(Source: Rule Insert)
 
 # Mysterio
-## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC)
+
+## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC-Illustrated)
 *Set: Sinister Syndicate*  
 
 **Hallucinogenic Gas**  
@@ -2529,8 +2530,8 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
-A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
-MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
-k1MjIxNzQwN119
+eyJoaXN0b3J5IjpbNDM4ODI1MzIyLC02OTM0ODA5MjIsLTE0Nj
+QyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAx
+MzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMT
+QxOTg4NzU0MSw5NTIyMTc0MDddfQ==
 -->
