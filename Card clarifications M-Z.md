@@ -1093,7 +1093,7 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 ## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/MCU4-011.jpg) (MC-MCU Villains)
 *Set: Power & Reality*  
 
-When you resolve **You Must Lose What You Love**, if there
+When you resolve **You Must Lose What You Love**, if there was a tie for highest cost Supporting Character, you choose which one gets discarded.
 
 ^(Source: Rule insert)
 
@@ -2507,7 +2507,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTYzNzE0OCwtMTQ2NDIyNTk5NiwxND
+eyJoaXN0b3J5IjpbMTA1NzkxMDU5NSwtMTQ2NDIyNTk5NiwxND
 A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
 MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
 k1MjIxNzQwN119
