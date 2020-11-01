@@ -620,11 +620,18 @@ A: Yes
 
 ---
 
->If multiple characters "appear" at once, Copycat is unable to copy any of them.
+> If multiple characters "appear" at once, Copycat is unable to copy any of them.
 
 With the reveal of Copycat, the question arose on her interaction with [Singularity](https://i.imgur.com/3vlwcdR.jpg).  Specifically, if multiple characters (other than Copycat) appear at once, which SC's powers, if any, does Copycat inherit?  The ruling is that if multiple triggers occur simultaneously for Copycat, she will not gain any powers.  The reasoning is that she only gains powers "until another supporting character appears on your side."  This means that when multiple characters appear at once, the duration of her effect has already expired by the time it resolves.  From head judge: "if a modifier’s duration would cause it to expire before it is created, then the modifier is never created."  Ultimately, Copycat needs only a single character to appear in order to resolve as intended.
 
 ^(Source: Official clarification)
+
+# [Corvus Glaive](http://vs.tcgbrowser.com/images/cards/big/MCU6-015.jpg)
+*Set: Space & Time*  
+
+**Glaive Mastery** prevents an enemy character from gaining +1/+1 counters or an increaese 
+
+^(Source: Rule insert)
 
 # Cosmic Cubes
 *Set: S.H.I.E.L.D. vs. Hydra*  
@@ -2346,7 +2353,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNzE3Nzk3LDEzNDQ5NDA5MzAsLTIwNT
-EyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4
-MV19
+eyJoaXN0b3J5IjpbMTgxNzQ4NDYyNSwxMzQ0OTQwOTMwLC0yMD
+UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
+ODFdfQ==
 -->
