@@ -681,7 +681,7 @@ The New Mutants are a part of the (X-Men) team. However, there are certain effec
 ^(Source: Rule insert)
 
 # Nick Fury
-## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC)
+## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC-Illustrated)
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 **Infinity Formula**  
@@ -2490,7 +2490,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTU3MzA2LC0xNDY0MjI1OTk2LDE0MD
+eyJoaXN0b3J5IjpbODgwMDcxODU2LC0xNDY0MjI1OTk2LDE0MD
 U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
 NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
 UyMjE3NDA3XX0=
