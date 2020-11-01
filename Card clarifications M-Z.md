@@ -1313,7 +1313,9 @@ Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character t
 # [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) and [Quicksilver](http://vs.tcgbrowser.com/images/cards/big/MCU5-010.jpg) (MC - MCU Villains)
 *Set: Mind & Soul*  
 
-You start the game with both Main Characters and are only out of the game once both are KO'd.  
+You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
+
+**I Looked in Your Head and Saw Annihilation** prevents enemy characters from using a Super Power more than one more time for the rest of the game. This includes Main Characters that have Super Powers. Once Scarlet Witch uses that power, it will last the whole game, even after she is KO'd. 
 
 ^(Source: Rule insert)
 
@@ -2461,7 +2463,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MzQ3Mzg4LDE0MDU3NjkxMzQsMTgwMD
-ExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0
-LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbMjA2MjcwMDM4NiwxNDA1NzY5MTM0LDE4MD
+AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
+NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
 -->
