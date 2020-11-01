@@ -187,12 +187,20 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 ^(Source: Rule insert)
 
-# [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC)
+# Arnim Zola
+# [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
 *Set: Crossover* 
  
 **ESP Box** takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
 
 When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Character will have ATK/DEF equal to its cost, 1 (Health), Swarm, and it will count as its own “Equipped Character,” just like with ESP Box. When that body gets KO’d, it can use this power again to jump into another robot body, and so on. Note: if you want to use a Wild Special Location to pay for this power, it must match the team affiliation of the Main Character using this power.
+
+^(Source: Rule insert)
+
+# [Ar](http://vs.tcgbrowser.com/images/cards/big/MCU4-016.jpg)
+*Set: Power & Reality*  
+
+When M'Baku gives a character **Pounce** and **Dodge**, it will keep those powers until that character leaves play. 
 
 ^(Source: Rule insert)
 
@@ -2421,7 +2429,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2Nzk0NDU0LDE0OTk0MjY2ODUsLTc2NT
-cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
-MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbMTg1NDcxMzI0OCwxNDk5NDI2Njg1LC03Nj
+U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
+MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
+==
 -->
