@@ -1980,6 +1980,12 @@ This Location is the only way to generate an Alien ![](%%Alien%%) power symbol f
 
 ^(Source: Rule Insert)
 
+# [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
+*Set: Space & Time*  
+
+The Photographic Universe includes all cards with photographic artwork. 
+^(Source: Rule insert)
+
 
 # [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
 *Set: Legacy*
@@ -2406,7 +2412,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzAwNjA5MCwtNTgzNzcwMTMxLDE4ND
-U5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1
-NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbLTMzNjY4MzcwLC01ODM3NzAxMzEsMTg0NT
+k1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0
+MSw5NTIyMTc0MDddfQ==
 -->
