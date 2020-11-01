@@ -196,6 +196,13 @@ The Gift of Death will instantly KO its assigned character. The other four grant
 
 ^(Source: Rule insert)
 
+# [M'Baku](http://vs.tcgbrowser.com/images/cards/big/MCU4-016.jpg)
+*Set: Power & Reality*  
+
+When M'Baku gives a c 
+
+^(Source: Rule insert)
+
 # [Medusa](http://vs.tcgbrowser.com/images/cards/big/aff-014.jpg)
 *Set: A-Force*
 
@@ -2514,7 +2521,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNDA5MTMzLC0xNDY0MjI1OTk2LDE0MD
+eyJoaXN0b3J5IjpbNDA4MDE3NzE0LC0xNDY0MjI1OTk2LDE0MD
 U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
 NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
 UyMjE3NDA3XX0=
