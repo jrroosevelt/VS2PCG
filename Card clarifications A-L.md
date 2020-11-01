@@ -441,7 +441,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (SC)
 *Set: Power & Reality*  
 
-**I Think I'm Getting The Hang of It!** counts each time it was used this game by this card while it's in play. If it leaves play and comes back or later you have another copy of this card on your side, **I Think I'm Getting The Hang of It!** will start over
+**I Think I'm Getting The Hang of It!** counts each time it was used this game by this card while it's in play. If it leaves play and comes back or later you have another copy of this card on your side, **I Think I'm Getting The Hang of It!** will start over.
 
 ^(Source: Rule insert)
 
@@ -2421,8 +2421,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0MzE3ODgsMTQ5OTQyNjY4NSwtNz
-Y1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3
-MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX
-0=
+eyJoaXN0b3J5IjpbMjE2Nzk0NDU0LDE0OTk0MjY2ODUsLTc2NT
+cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
+MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
