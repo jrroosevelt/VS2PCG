@@ -786,6 +786,7 @@ Because this copies everything from any enemy Plot Twist you choose except for t
 
 # [Odin](http://vs.tcgbrowser.com/images/cards/big/MCU6-004.jpg)
 *Set: Space & Time*  
+
 Odin introduces **Level Down Powers** to the game. A Level Down Power works just like a Level Up Power, except instead of gaining XP which advances it to a higher level, it gains XP which regresses it back to a lower level. When a character gains Level Down XP, put an XP counter on its Main character card that is one level lower than its current level. If a character has both a Level Up and a Level Down Power, it's possible for it to gain and have both kinds of XP. However, once it levels up or levels down, all of both types of XP will be removed.
 
 Here's an example of how Odin works:
@@ -843,11 +844,8 @@ A: He would still be stunned since he will have wounds equal to his health (0 is
 
 # [Outrider (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-006.jpg)
 *Set: Space & Time*  
-Odin introduces **Level Down Powers** to the game. A Level Down Power works just like a Level Up Power, except instead of gaining XP which advances it to a higher level, it gains XP which regresses it back to a lower level. When a character gains Level Down XP, put an XP counter on its Main character card that is one level lower than its current level. If a character has both a Level Up and a Level Down Power, it's possible for it to gain and have both kinds of XP. However, once it levels up or levels down, all of both types of XP will be removed.
 
-Here's an example of how Odin works:
-
-Odin actually starts off as his most powerful self at Level 1. but after a few turns of gaining power through **The Odinforce** (or other means) he'll level up and then take a nap. While he's asleep he can gain both Level Down XP and Level Up XP. If he gets two Level Down XP, he'll wake up and level down back to Level 1, and both kinds of his XP will be removed. But if he gets two Level Up XP instead, he'll level up to Level 3 and realize his time has come.
+**We Have Blood to Spare** gives you six Main Character to start the game, and you're only out of the game once they're all KO'd.
 
 ^(Source: Rule insert)
 
@@ -2408,7 +2406,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjM1NTUwNSwtNTgzNzcwMTMxLDE4ND
+eyJoaXN0b3J5IjpbMTYwNzAwNjA5MCwtNTgzNzcwMTMxLDE4ND
 U5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1
 NDEsOTUyMjE3NDA3XX0=
 -->
