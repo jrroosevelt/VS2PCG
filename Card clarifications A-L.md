@@ -430,12 +430,15 @@ When you play Brotherhood there must be two exhausted face-up characters that sh
 
 ^(Source: Rule Insert)
 
-# [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
+# Bruce Banner
+## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
 *Set: The MCU Battles*  
 
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
 
 ^(Source: Rule insert)
+
+
 
 # [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-003.jpg) / [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/MCU4-002.jpg)
 *Set: Power & Reality*  
@@ -2413,8 +2416,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzYwMDg2MiwxNDk5NDI2Njg1LC03Nj
-U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
-MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
-==
+eyJoaXN0b3J5IjpbODU0ODgxNzQ5LDE0OTk0MjY2ODUsLTc2NT
+cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
+MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
