@@ -257,7 +257,7 @@ A: No, Hypnotize creates a modifier with an expiration that temporarily makes a 
 
 To resolve the **Age of Miracles**, first choose a Supporting Character with 1 printed Health other than Baron von Strucker. Then randomly select one of the six new Keyword Powers. that character gains the new power until it leaves play. (To randomly select a power, we recommend rolling a 6-sided die where 1 is **Dark** and 6 is **Wise**.)
 
-**Note:** If you use **Age of Miracles
+**Note:** If you use **Age of Miracles** more than once on the same character, it's possible for them to get the same power twice. This is great with **Dark** and **Sly**, but not great with the other powers.
 
 ^(Source: Rule insert)
 
@@ -2413,7 +2413,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0OTc4MjMyLDE0OTk0MjY2ODUsLTc2NT
-cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
-MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTg1MzYwMDg2MiwxNDk5NDI2Njg1LC03Nj
+U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
+MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
+==
 -->
