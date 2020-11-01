@@ -1987,7 +1987,7 @@ The Photographic Universe includes all cards with photographic artwork. Currentl
 
 ^(Source: Rule insert)
 
-Editor's note: See 
+Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil)" wiki topic for the most up-to-date list of teams in each universe. 
 
 
 # [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
@@ -2036,6 +2036,14 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 ^(Source: Rule insert)
 
 # Thanos
+# [Thanos (MC - MCU Villains)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
+*Set: Space & Time*  
+
+The Photographic Universe includes all cards with photographic artwork. Currently this includes four teams: MCU Heroes, MCU Villains, Scoobies, Forces of Darkness. But I want to believe there will be more out there soon!
+
+^(Source: Rule insert)
+
+Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil)" wiki topic for the most up-to-date list of teams in each universe. 
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BAN-002.jpg) (MC - MNB-085)
 *Set: The Marvel Battles*
@@ -2067,7 +2075,7 @@ A: No, "Your" refers to the MC you control. At the time **Infinity Gauntlet** re
 
 ^(Source: Chad Daniel - UDE Approved)
 
-# [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
+## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
 *Set: Black Order*  
 
 At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
@@ -2080,7 +2088,7 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 
 ^(Source: Rule insert)
 
-# [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-100.jpg) (SC)
+## [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-100.jpg) (SC)
 *Set: The Marvel Battles*
 
 Q: Can he put a wound on my opponent’s main character?
@@ -2415,7 +2423,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk0ODcyOTcsLTU4Mzc3MDEzMSwxOD
+eyJoaXN0b3J5IjpbLTE0OTA2MjQ2OTgsLTU4Mzc3MDEzMSwxOD
 Q1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3
 NTQxLDk1MjIxNzQwN119
 -->
