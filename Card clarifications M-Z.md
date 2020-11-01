@@ -692,7 +692,9 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 ## [Nic Fury](http://vs.tcgbrowser.com/images/cards/big/MCU4-008.jpg) (MC-MCU)
 *Set: Power & Reality*  
 
-**A Full Bird Colnel...** and ***...Turned Spy
+**A Full Bird Colonel ...** and **... Turned Spy** each give Supporting Characters on your side and you own **Soldier** or **Agent** respectively. This means when a Supporting Character appears on your side, it will trigger its **Soldier/Agent** power and count each other Supporting Character on your side.
+
+
 
 ^(Source: Rule insert)
 
@@ -2497,7 +2499,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjczMjcyODEsLTE0NjQyMjU5OTYsMT
+eyJoaXN0b3J5IjpbLTIxMDQ0NTY5NjUsLTE0NjQyMjU5OTYsMT
 QwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1
 NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MS
 w5NTIyMTc0MDddfQ==
