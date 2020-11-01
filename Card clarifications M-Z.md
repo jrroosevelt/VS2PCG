@@ -689,6 +689,13 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 
 ^(Source: Rule insert)
 
+## [Nic Fury](http://vs.tcgbrowser.com/images/cards/big/MCU4-008.jpg) (MC-MCU)
+*Set: Power & Reality*  
+
+**A Full Bird Colnel...** and ***...Turned Spy
+
+^(Source: Rule insert)
+
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/mnb-014.jpg) (SC-Avengers)
 *Set: The Marvel Battles*
 
@@ -2490,8 +2497,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMDcxODU2LC0xNDY0MjI1OTk2LDE0MD
-U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
-NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
-UyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbLTEwNjczMjcyODEsLTE0NjQyMjU5OTYsMT
+QwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1
+NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MS
+w5NTIyMTc0MDddfQ==
 -->
