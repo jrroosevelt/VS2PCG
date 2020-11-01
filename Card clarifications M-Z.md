@@ -784,6 +784,12 @@ Because this copies everything from any enemy Plot Twist you choose except for t
 
 ^(Source: Rule insert)
 
+# [Odin](http://vs.tcgbrowser.com/images/cards/big/MCU6-004.jpg)
+*Set: Space & Time*  
+
+
+^(Source: Rule insert)
+
 # [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
 These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
 
@@ -2388,6 +2394,6 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xND
-E5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1Mz
+AzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
 -->
