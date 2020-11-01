@@ -2430,8 +2430,10 @@ Q: Cable attacks Luke and both use their powers (**Ultimate Soldier** and **Impe
 A: Cable's power triggers at the end of combat, so Luke Cages' power has already expired by the time Cable's power has resolved. So yes, Luke gets a wound.
 
 ^(Source: FB Post - Chad Daniel)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODMxMzEwMSwxNDk5NDI2Njg1LC03Nj
+eyJoaXN0b3J5IjpbLTI2NzI0MjY3MywxNDk5NDI2Njg1LC03Nj
 U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
 MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
 ==
