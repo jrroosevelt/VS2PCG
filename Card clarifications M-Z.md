@@ -1980,7 +1980,8 @@ This Location is the only way to generate an Alien ![](%%Alien%%) power symbol f
 
 ^(Source: Rule Insert)
 
-# [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
+# Talos
+## [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
 *Set: Space & Time*  
 
 The Photographic Universe includes all cards with photographic artwork. Currently this includes four teams: MCU Heroes, MCU Villains, Scoobies, Forces of Darkness. But I want to believe there will be more out there soon!
@@ -1989,6 +1990,14 @@ The Photographic Universe includes all cards with photographic artwork. Currentl
 
 Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil)" wiki topic for the most up-to-date list of teams in each universe. 
 
+## [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
+*Set: Space & Time*  
+
+The Photographic Universe includes all cards with photographic artwork. Currently this includes four teams: MCU Heroes, MCU Villains, Scoobies, Forces of Darkness. But I want to believe there will be more out there soon!
+
+^(Source: Rule insert)
+
+Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil)" wiki topic for the most up-to-date list of teams in each universe. 
 
 # [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
 *Set: Legacy*
@@ -2041,7 +2050,9 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 
 This issue adds a new Level 2 and Level 3 Thanos to the MCU. Now when your Level 1 Thanos levels up with **Fine. I'll Do It Myself.** you can choose which Level 2 version he becomes. If you choose the new version, he can now level up a second time to his level 3.
 
-At Level 3, when it's time to **Bring Balance to the Universe**, you must reveal the six Marvel Locations (they have the Marvel logo at the bottom) and snap. Then count all of the characters on all sides and KO half of them. (If there's an odd nu
+At Level 3, when it's time to **Bring Balance to the Universe**, you must reveal the six Marvel Locations (they have the Marvel logo at the bottom) and snap. Then count all of the characters on all sides and KO half of them. (If there's an odd number, KO one more than half.)
+
+You choose which characters to KO. If you want to win the game, we recommend KOing each enemy Main Character, but it's up to you.
 
 ^(Source: Rule insert)
 
@@ -2423,7 +2434,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY4NTIwNDcsLTU4Mzc3MDEzMSwxOD
-Q1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3
-NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbMjIwNTE4NTkwLC01ODM3NzAxMzEsMTg0NT
+k1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0
+MSw5NTIyMTc0MDddfQ==
 -->
