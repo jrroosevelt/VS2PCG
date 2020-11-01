@@ -523,7 +523,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 # [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-027.jpg) (SC - MCU Heroes)
 *Set: Mind & Soul*  
 
-**Higher, Further, Faster** lets Captain Marvel ignore (Flight) on enemy front row characters in order to attack a back row character. (Characters with **Grab** will still get in her way though.) 
+**Higher, Further, Faster** lets Captain Marvel ignore ![](%%Flight%%) (Flight) on enemy front row characters in order to attack a back row character. (Characters with **Grab** will still get in her way though.) 
 
 ^(Source: Rule insert)
 
@@ -2368,7 +2368,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTMwNzY2MSwtMjk5MDUwOTg0LDEzND
+eyJoaXN0b3J5IjpbLTc2NTcxODIxNSwtMjk5MDUwOTg0LDEzND
 Q5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgx
 NzMsMTcwMjczMTI4MV19
 -->
