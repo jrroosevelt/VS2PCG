@@ -1812,12 +1812,10 @@ When a character with the Alien Symbiote is turned face down but isn’t KO’d,
 
 ^(Source: Rule insert)
 
-# [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains
+# [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/MCU7-003.jpg) (MC-MCU Heroes)
 *Set: Friendly Neighborhood*  
 
-**You Don't Want Any Part of This** puts a Supporting Character with the **Hologram** keyword from your hand onto an enemy side. Why do this? Because when that **Hologram** get's KO'd, Mysterio will level up.
-
-**I Don't Think You Know What's Real** can turn any Supporting Character in your hand into a **Hologram**. For example, if Mysterio pays an ![](%%Energy%%)  (Energy) you could put a Thanos Supporting Character from your hand onto your side. Thanos would gain the ![](%%Energy%%)  (Energy) **Hologram** keyword and appear with two wounds (because he has 3 Health). 
+**Homecoming** will give Spider-Man an XP each time he **Climbs** a Location he hasn't climbed yet. This refers to individual Location cards. So if he climbs a Training Ground on one turn to 
 
 ^(Source: Rule insert)
 
@@ -2548,8 +2546,8 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTg1MzQ1NSwyODIwNjUyODksLTY5Mz
-Q4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1
-NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMj
-UzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbLTExOTE4ODcyMDEsMjgyMDY1Mjg5LC02OT
+M0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2
+NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMT
+I1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
 -->
