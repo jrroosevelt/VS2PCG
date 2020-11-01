@@ -487,6 +487,12 @@ This Plot Twist will stop "recruit" and "appears" powers.
 ^(Source: Rule Insert)
 
 # Mysterio
+# [Mysterio ](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains
+*Set: Friendly Neighborhood*  
+
+**You Don't Want Any 
+
+^(Source: Rule insert)
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC-Illustrated)
 *Set: Sinister Syndicate*  
@@ -2530,7 +2536,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4ODI1MzIyLC02OTM0ODA5MjIsLTE0Nj
+eyJoaXN0b3J5IjpbNzE3NjY5MjYzLC02OTM0ODA5MjIsLTE0Nj
 QyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAx
 MzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMT
 QxOTg4NzU0MSw5NTIyMTc0MDddfQ==
