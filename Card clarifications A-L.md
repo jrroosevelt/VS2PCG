@@ -113,6 +113,13 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
+# [Alter Ego](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg) (MC-MCU Heroes)
+*Set: Friendly Neighborhood*  
+
+The effects from **That is Dimitri** can stack. For example, if Maria Hill and Nick Fury are on your side, Dimitri will have +2/+2, **Stealth**, and **Genius**.
+
+^(Source: Rule insert)
+
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
 *Set: The Utopia Battles*  
@@ -134,6 +141,7 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
 
 ^(Source: Rule insert)
+
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
 *Set: Galactic Guardians*  
 
@@ -2441,8 +2449,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc0MzE5NTMsLTE1NzMzMzE0NTcsLT
-I2NzI0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1
-MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3LC
-0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbMTUzNjA4NTUwMiwtMTU3MzMzMTQ1NywtMj
+Y3MjQyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUw
+OTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLT
+EwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
