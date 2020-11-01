@@ -2262,7 +2262,7 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 
 **Scrapper #142** doesn't care how a card enters a KO pile. It could be a KO'd Equipment or character, a discarded character, or even an effect that puts a card directly from your deck to your KO pile.
 
-If **The Famed Sword of the Valkyrie**
+If **The Famed Sword of the Valkyrie** is used to remove an enemy Main Character from the game that playe
 
 ^(Source: Rule insert)
 
@@ -2490,8 +2490,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
-AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
-NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
-==
+eyJoaXN0b3J5IjpbMTM3MTE0NDY0NCwtMTQ2NDIyNTk5NiwxND
+A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
+MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
+k1MjIxNzQwN119
 -->
