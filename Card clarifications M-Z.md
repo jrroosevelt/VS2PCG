@@ -2435,8 +2435,17 @@ When Xander hides, turn him face down but in the ready orientation. Remove all +
 This Location is the only way to generate an Earth power symbol for a Bureau character. There are currently no basic Earth Locations in the Photographic Universe.
 
 ^(Source: Rule Insert)
+
+# [Yondu](http://vs.tcgbrowser.com/images/cards/big/MCU6-011.jpg)
+*Set: Space & Time*  
+
+In the films, these characters (Talos and Yondu) are sometimes "Good" and sometimes "Evil". In the game, you get to choose.
+
+**Note:** They don't have any team affiliations until you recruit them. If they appear on your side some other way, they won't have a team. 
+
+^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjYxNTY5MywtNTgzNzcwMTMxLDE4ND
+eyJoaXN0b3J5IjpbMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4ND
 U5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1
 NDEsOTUyMjE3NDA3XX0=
 -->
