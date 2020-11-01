@@ -1645,7 +1645,7 @@ When you spend a power symbol from a Location in your resource row to put Hawkey
 
 While Hawkeye's **Nest** is one of the Locations named on his card, he has the associated text. 
 
-While a Location is a **Nest**, it still counts as a Location as as being a face-up resoruce in your resource row, however it can't be used to generate a power symbol anymore. If the 
+While a Location is a **Nest**, it still counts as a Location as as being a face-up resource in your resource row, however it can't be used to generate a power symbol anymore. If the Location gets KO'd or leaves your side, the **Nest** effect ends. If the Location gets turned face down by an effect, put it back into your resource row and the 
 ^(Source: Rule insert)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
@@ -2399,7 +2399,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTY0OTQ1NywxNDk5NDI2Njg1LC03Nj
+eyJoaXN0b3J5IjpbLTI1ODI1NDE5NywxNDk5NDI2Njg1LC03Nj
 U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
 MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
 ==
