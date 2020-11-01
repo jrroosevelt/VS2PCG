@@ -1310,10 +1310,10 @@ Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character t
 
 ^(Source: Rule insert)
 # Scarlet Witch
-# [Scarlet Witch]( and Quicksilver (MC - MCU)]
+# [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) and [Quicksilver](http://vs.tcgbrowser.com/images/cards/big/MCU5-010.jpg) (MC - MCU Villains)
 *Set: Mind & Soul*  
 
-**Invisible** means that enemy players can ignore Ghost for the purposes of attacking back row characters on Ghost's side and she can ignore enemy front row characters for the same purpose. 
+You start the game with both Main Characters and are only out of the game once both are KO'd.  
 
 ^(Source: Rule insert)
 
@@ -2461,8 +2461,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQzMzQzMzIsMTQwNTc2OTEzNCwxOD
-AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
-NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
-==
+eyJoaXN0b3J5IjpbODA5MzQ3Mzg4LDE0MDU3NjkxMzQsMTgwMD
+ExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0
+LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3NDA3XX0=
 -->
