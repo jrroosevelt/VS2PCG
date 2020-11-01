@@ -492,7 +492,7 @@ This Plot Twist will stop "recruit" and "appears" powers.
 
 **You Don't Want Any Part of This** puts a Supporting Character with the **Hologram** keyword from your hand onto an enemy side. Why do this? Because when that **Hologram** get's KO'd, Mysterio will level up.
 
-**I Don't Think You Know What's Real** can turn any Supporting Character in your hand into a **Hologram**. For example, if Mysterio pays an ![](%%Energy%%)  (Energy) you could put a Thanos Supporting Character from your hand onto your side. Thanos would gain the ![](%%Energy%%)  (Energy) **Hologram** keyword and appear with two wounds (because he has 3 Heal
+**I Don't Think You Know What's Real** can turn any Supporting Character in your hand into a **Hologram**. For example, if Mysterio pays an ![](%%Energy%%)  (Energy) you could put a Thanos Supporting Character from your hand onto your side. Thanos would gain the ![](%%Energy%%)  (Energy) **Hologram** keyword and appear with two wounds (because he has 3 Health). 
 
 ^(Source: Rule insert)
 
@@ -1802,7 +1802,7 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 ^(Source: Rule insert)
 
 # Spider-Man
-## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC)
+## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider Friends)
 *Set: Spider-Friends*  
 
 **I Can and Will Fight You**
@@ -1811,6 +1811,16 @@ This issue introduces the powerful Alien Symbiote version of Spider-Man. But as 
 When a character with the Alien Symbiote is turned face down but isn’t KO’d, just keep the equipment token face up and ready, just like when it’s equipped to a face-up character (it doesn’t exhaust or turn face down). And remember, the symbiote is a jealous entity – it can’t be destroyed or removed from its host (at least until the host leaves play).
 
 ^(Source: Rule insert)
+
+# [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains
+*Set: Friendly Neighborhood*  
+
+**You Don't Want Any Part of This** puts a Supporting Character with the **Hologram** keyword from your hand onto an enemy side. Why do this? Because when that **Hologram** get's KO'd, Mysterio will level up.
+
+**I Don't Think You Know What's Real** can turn any Supporting Character in your hand into a **Hologram**. For example, if Mysterio pays an ![](%%Energy%%)  (Energy) you could put a Thanos Supporting Character from your hand onto your side. Thanos would gain the ![](%%Energy%%)  (Energy) **Hologram** keyword and appear with two wounds (because he has 3 Health). 
+
+^(Source: Rule insert)
+
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-019.jpg) (SC - Spider-Friends)
 *Set: Spider-Friends*  
@@ -2538,8 +2548,8 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjE0NywyODIwNjUyODksLTY5MzQ4MD
-kyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUs
-LTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMD
-MyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbLTMzMTg1MzQ1NSwyODIwNjUyODksLTY5Mz
+Q4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1
+NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMj
+UzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
 -->
