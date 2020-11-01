@@ -1416,10 +1416,10 @@ A: Yes.
 
 ^(Source: Rule insert)
 
-# [Ghost (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-015.jpg)
-*Set: Space & Time*  
+# [Ghost (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU5-009.jpg)
+*Set: Mind & Soul*  
 
-**Glaive Mastery** prevents an enemy character from gaining +1/+1 counters or an increase in ATK or DEF. For example, if an effect would give an enemy combatant +2/+0 and **Lethal**, and Corvus uses **Glaive Mastery**, that character would only gain **Lethal**. If an effect adds ATK but subtracts DEF (or adds DEF but subtracts ATK), Glaive Master will prevent the gain but not the loss. 
+**Invisible** means that enemy players can ignore Ghost for the purposes of attacking back row characters on Ghost's side and she can ignore enemy front row characters for the same purpose. 
 
 ^(Source: Rule insert)
 
@@ -2360,7 +2360,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjEwNjQ1OTUsLTI5OTA1MDk4NCwxMz
-Q0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4
-MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbMjIyNTU4MDA1LC0yOTkwNTA5ODQsMTM0ND
+k0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3
+MywxNzAyNzMxMjgxXX0=
 -->
