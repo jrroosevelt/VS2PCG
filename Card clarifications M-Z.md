@@ -1309,8 +1309,15 @@ Once he’s Level 2, if he would be wounded, there’s a chance it was just a cl
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
 
 ^(Source: Rule insert)
+# Scarlet Witch
+# [Scarlet Witch]( and Quicksilver (MC - MCU)]
+*Set: Mind & Soul*  
 
-# [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
+**Invisible** means that enemy players can ignore Ghost for the purposes of attacking back row characters on Ghost's side and she can ignore enemy front row characters for the same purpose. 
+
+^(Source: Rule insert)
+
+## [Scarlet Witch (SC)](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
 *Set: The Defenders*  
 
 Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up. They can still gain XP up to their Level Up number, but not beyond. And once Scarlet Witch gets stunned or leaves play, if they have enough XP, they’ll immediately Level Up.
@@ -2454,7 +2461,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01OD
-M3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5
-MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbLTE3NzQzMzQzMzIsMTQwNTc2OTEzNCwxOD
+AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
+NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
+==
 -->
