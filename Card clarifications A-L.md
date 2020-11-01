@@ -1506,7 +1506,11 @@ A: Thanos will gain XP from a Token being KO'd and Tokens will exist for a brief
 # [Goose ](http://vs.tcgbrowser.com/images/cards/big/MCU5-028.jpg)
 *Set: Mind & Soul*  
 
-When you  
+When you recruit Goose, you'll pay 1 or more recruit points. When Goose appears, she will swallow up an enemy character or Equipment with that cost. When Goose leaves play, that card will go back to its owner's hand.
+
+If an effect needs to know Goose's cost, treat it as 0 (regardless of how many recruit points you paid). 
+
+**Note:** If Goose appears without getting recruited, her **Internal Pocket Dimension** can only remove a Supporting Character or Equipment with 0 cost. 
 
 ^(Source: Rule insert)
 
@@ -2375,7 +2379,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcxMDQwMzYsLTc2NTcxODIxNSwtMj
-k5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgy
-NTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbMTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOT
+kwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1
+NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX0=
 -->
