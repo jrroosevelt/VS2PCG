@@ -790,7 +790,7 @@ Odin introduces **Level Down Powers** to the game. A Level Down Power works just
 
 Here's an example of how Odin works:
 
-Odin 
+Odin actually starts off as his most powerful self at Level 1. but after a few turns of gaining power through **The Odinforce** (or other means) he'll level up and then take a nap. While he's asleep he can gain both Level Down XP and Level Up XP. If he gets two Level Down XP, he'll wake up and level down back to Level 1, and both kinds of his XP will be removed. But if he gets two Level Up XP instead, he'll level up to Level 3 and realize his time has come.
 
 ^(Source: Rule insert)
 
@@ -2398,7 +2398,7 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMT
-MwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQw
-N119
+eyJoaXN0b3J5IjpbMTQwMTY3MTY0NSwtNTgzNzcwMTMxLDE4ND
+U5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1
+NDEsOTUyMjE3NDA3XX0=
 -->
