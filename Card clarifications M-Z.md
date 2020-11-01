@@ -1052,7 +1052,7 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
 
-**Increased metabolism and Improved Thermal Homeostatis** lets you have multiple Quicksilver characters in play at once. (This represents that he's moving so fast it seems like there are more than one of him.) When your Main Character Quicksilver gets KO'd 
+**Increased metabolism and Improved Thermal Homeostasis** lets you have multiple Quicksilver characters in play at once. (This represents that he's moving so fast it seems like there are more than one of him.) When your Main Character Quicksilver gets KO'd, the Supporting Character versions remain  in play.
 
 ^(Source: Rule insert)
 
@@ -1319,7 +1319,7 @@ Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character t
 
 ^(Source: Rule insert)
 # Scarlet Witch
-# [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
+## [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
 *Set: Mind & Soul*  
 
 You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
@@ -1450,6 +1450,16 @@ At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X
 ^(Source: Rule insert)
 
 See also: [Cloak](#wiki_cloak) and [Dagger](#wiki_dagger)
+
+# [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
+*Set: Mind & Soul*  
+
+You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
+
+**I Looked in Your Head and Saw Annihilation** prevents enemy characters from using a Super Power more than one more time for the rest of the game. This includes Main Characters that have Super Powers. Once Scarlet Witch uses that power, it will last the whole game, even after she is KO'd. 
+
+^(Source: Rule insert)
+
 
 # [Sif](http://vs.tcgbrowser.com/images/cards/big/CV1-015.jpg)
 *Set: Crossover*  
@@ -2472,7 +2482,8 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMwNzA1NiwxNDA1NzY5MTM0LDE4MD
-AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
-NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbLTEwMzE5NjAxMzUsMTQwNTc2OTEzNCwxOD
+AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
+NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
+==
 -->
