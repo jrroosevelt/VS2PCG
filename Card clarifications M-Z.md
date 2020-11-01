@@ -1047,6 +1047,15 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 ^(Source: Rule insert)
 
+# [Quicksilver](http://vs.tcgbrowser.com/images/cards/big/MCU5-010.jpg) (MC - MCU Villains)
+*Set: Mind & Soul*  
+
+You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
+
+**Increased metabolism and Improved Thermal Homeostatis** lets you have multiple Quicksilver characters in play at once. (This represents that he's moving so fast it seems like there are more than one of him.) When your Main Character Quicksilver gets KO'd 
+
+^(Source: Rule insert)
+
 # [Rachel Summers (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-006.jpg)
 *Set: Futures Past*
 
@@ -1310,7 +1319,7 @@ Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character t
 
 ^(Source: Rule insert)
 # Scarlet Witch
-# [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) and [Quicksilver](http://vs.tcgbrowser.com/images/cards/big/MCU5-010.jpg) (MC - MCU Villains)
+# [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
 *Set: Mind & Soul*  
 
 You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
@@ -2463,7 +2472,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjcwMDM4NiwxNDA1NzY5MTM0LDE4MD
+eyJoaXN0b3J5IjpbLTE2OTMwNzA1NiwxNDA1NzY5MTM0LDE4MD
 AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
 NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
 -->
