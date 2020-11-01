@@ -939,6 +939,14 @@ A: No. Devil Slayer still has to follow all the other legal attack rules. He doe
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
+# [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-003.jpg) (MC-MCU Heroes)
+*Set: Friendly Neighborhood*  
+
+**Homecoming** will give Spider-Man an XP each time he **Climbs** a Location he hasn't climbed yet. This refers to individual Location cards. So if he climbs a Training Ground on one turn to get an XP, he can climb a different Training Ground on another turn to gain a second XP.
+
+^(Source: Rule insert)
+
+
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
 *Set: The Fantastic Battles*  
 
@@ -2433,8 +2441,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzI0MjY3MywxNDk5NDI2Njg1LC03Nj
-U3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcw
-MTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ
-==
+eyJoaXN0b3J5IjpbLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxND
+k5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQw
+OTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLD
+E3MDI3MzEyODFdfQ==
 -->
