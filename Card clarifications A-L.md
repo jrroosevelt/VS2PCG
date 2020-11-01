@@ -1613,7 +1613,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 
 
 # Hawkeye
-# [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC)
+## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC - Illustrated)
 *Set: Cosmic Avengers*  
 
 Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PlLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
@@ -1637,6 +1637,12 @@ Q: Do cards from the **Custom Quiver** go to the KO pile once played?
 A: Yes.
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/622921783787388930)
+
+## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/MCU4-005.jpg)
+*Set: Power & Reality*  
+
+When you spend a power symbol from a Location in your resource row to put Hawkeye in
+^(Source: Rule insert)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -2389,7 +2395,8 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNzgzMDY3LDE0OTk0MjY2ODUsLTc2NT
-cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
-MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTE4MTI3OTU0NjAsMTQ5OTQyNjY4NSwtNz
+Y1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3
+MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX
+0=
 -->
