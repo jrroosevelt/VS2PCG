@@ -4164,18 +4164,18 @@ At one point Starhawk was actually two beings merged together who took turns occ
 *Set: The MCU Battles*  
 
 **Dance Off, Bro**  
-Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
+Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
 ^(Source: Rule insert)
 
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
+## [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
 *Set: The MCU Battles*  
 
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 ^(Source: Rule insert)
 
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
+## [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
 *Set: Marvel Battles*
 
 Q: Does **Space Cop** affect Level Up powers? How about Flight and Range?
@@ -4184,7 +4184,7 @@ A: Yes to all the above.
 
 ^(Source: UDE FAQ)
 
-# \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
+# \* [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
 *Set: Galactic Guardians*  
 
 Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed. So she has *s around her name, meaning she shares the "mantle" with Star-Lord, himself. The sharing of the mantle means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of the uniqueness rules and they can't power each other up.
@@ -4602,11 +4602,11 @@ Q: Can Winter Solider team attack to Level Up?
 
 A: Yes, Winter Soldier gets credit for stunning a character in a team attack
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTU0MjA2LDEzMDgzNzUyNDMsLTI3Nz
-g0OTYwMCwtNzg5NjU2MTEyLDk4ODk2ODEwMSwyMDcyNTA1ODky
-LDYzMTYyMDI1NiwzOTQ5MjYxNCw0NjA1OTg0MTgsLTc4NjU1NT
-IxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAwLC0xNzkxOTk5ODU4
-LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMzYzMzQwNjQxLC0xMj
-Y1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2Njk4MTgsLTE2Mzgz
-OTMwMjRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDAzNzc4NjAsMTMwODM3NTI0MywtMj
+c3ODQ5NjAwLC03ODk2NTYxMTIsOTg4OTY4MTAxLDIwNzI1MDU4
+OTIsNjMxNjIwMjU2LDM5NDkyNjE0LDQ2MDU5ODQxOCwtNzg2NT
+U1MjE1LDE1MzIwNTk5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4
+NTgsLTc4NzY3MDczMCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLT
+EyNjU2MTczNzEsMTc3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYz
+ODM5MzAyNF19
 -->
