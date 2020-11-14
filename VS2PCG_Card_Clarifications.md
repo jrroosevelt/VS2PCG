@@ -3338,7 +3338,7 @@ Which of these is correct?
 
 A: Reality Warping is a Keyword that grants a Super Power. If Dark Phoenix calls Keywords the entire Keyword is removed including the Super Power ability. If Dark Phoenix calls Super Powers only the Super Power ability of Reality Warping is removed.
 
-^S
+^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/776964470462873630)
 
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
@@ -4600,19 +4600,13 @@ A commonly asked interaction on the Winter Soldier MC is whether or not you can 
 
 Q: Can Winter Solider team attack to Level Up?
 
-A: Yes, Winter Soldier gets credit for stunning a character in a team attack.
-
-^(Source: FB Post - Chad Daniel - UDE Approved)
-
----
-
-Q: Does Winter Soldier gain an XP if he is stunned wh
+A: Yes, Winter Soldier gets credit for stunning a character in a team attack
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzQ2NjI4LC0yNzc4NDk2MDAsLTc4OT
-Y1NjExMiw5ODg5NjgxMDEsMjA3MjUwNTg5Miw2MzE2MjAyNTYs
-Mzk0OTI2MTQsNDYwNTk4NDE4LC03ODY1NTUyMTUsMTUzMjA1OT
-k4MywtMTkyMjQ5MTIwMCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMw
-LDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNz
-cyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5
-OTA4MDFdfQ==
+eyJoaXN0b3J5IjpbMTMwODM3NTI0MywtMjc3ODQ5NjAwLC03OD
+k2NTYxMTIsOTg4OTY4MTAxLDIwNzI1MDU4OTIsNjMxNjIwMjU2
+LDM5NDkyNjE0LDQ2MDU5ODQxOCwtNzg2NTU1MjE1LDE1MzIwNT
+k5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4NzY3MDcz
+MCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMT
+c3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5
+OTkwODAxXX0=
 -->
