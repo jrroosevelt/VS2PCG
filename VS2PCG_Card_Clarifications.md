@@ -4159,7 +4159,7 @@ At one point Starhawk was actually two beings merged together who took turns occ
 
 ^(Source: Rule insert)
 
-# Star Lord
+# Star-Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
 *Set: The MCU Battles*  
 
@@ -4602,11 +4602,11 @@ Q: Can Winter Solider team attack to Level Up?
 
 A: Yes, Winter Soldier gets credit for stunning a character in a team attack
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODM3NTI0MywtMjc3ODQ5NjAwLC03OD
-k2NTYxMTIsOTg4OTY4MTAxLDIwNzI1MDU4OTIsNjMxNjIwMjU2
-LDM5NDkyNjE0LDQ2MDU5ODQxOCwtNzg2NTU1MjE1LDE1MzIwNT
-k5ODMsLTE5MjI0OTEyMDAsLTE3OTE5OTk4NTgsLTc4NzY3MDcz
-MCw1MjU2MDg5MDQsLTEzNjMzNDA2NDEsLTEyNjU2MTczNzEsMT
-c3Mjg2MjY2NSwtMTQwNzY2OTgxOCwtMTYzODM5MzAyNCwxMDE5
-OTkwODAxXX0=
+eyJoaXN0b3J5IjpbMTM0NTU0MjA2LDEzMDgzNzUyNDMsLTI3Nz
+g0OTYwMCwtNzg5NjU2MTEyLDk4ODk2ODEwMSwyMDcyNTA1ODky
+LDYzMTYyMDI1NiwzOTQ5MjYxNCw0NjA1OTg0MTgsLTc4NjU1NT
+IxNSwxNTMyMDU5OTgzLC0xOTIyNDkxMjAwLC0xNzkxOTk5ODU4
+LC03ODc2NzA3MzAsNTI1NjA4OTA0LC0xMzYzMzQwNjQxLC0xMj
+Y1NjE3MzcxLDE3NzI4NjI2NjUsLTE0MDc2Njk4MTgsLTE2Mzgz
+OTMwMjRdfQ==
 -->
