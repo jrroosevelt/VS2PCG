@@ -3330,6 +3330,16 @@ If Proteus would appear any other way except by being recruited, he will be stun
 
 ^(Source: Rule insert)
 
+---
+
+Q: What happens if a player has already played Proteus and then a Dark Phoenix is recruited calling Keywords? It was initially explained to me that the entire effect from Proteus was granted by his Reality Warping keyword, and would therefore be removed if DPh called Keywords. However, someone just objected to that, saying that the heal portion of Reality Warping is a Super Power and would therefore stick around after a DPh Keyword call. 
+
+Which of these is correct?
+
+A: Reality Warping is a Keyword that grants a Super Power. If Dark Phoenix calls Keywords the entire Keyword is removed including the Super Power ability. If Dark Phoenix calls Super Powers only the Super Power ability of Reality Warping is removed.
+
+^S
+
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
 
@@ -4596,39 +4606,13 @@ A: Yes, Winter Soldier gets credit for stunning a character in a team attack.
 
 ---
 
-Q: Does Winter Soldier gain an XP if he is stunned while stunning a defender?
-
-A: Yes.
-
-^(Source: FB Post - Chad Daniel - UDE Approved)
-
----
-
-Q: Does a frozen character thaw out if they get sent to a **Pocket Dimension** by Singularity? Can this circumvent MC Winter Soldier's drawback?
-
-A: Modifiers do not track characters that leave play unless the rules or card text specifically says they do.
-
-^(Source: FB Post - Chad Daniel - UDE Approved)
-
-# [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
-*Set: The Fantastic Battles*  
-
-**Wizard Armor**  
-Here are the four Plot Twists he has at his disposal:
-
-**Open Fire**  
-(Any Combat): Choose an attacker to get +2/+0 this combat.
-
-**Find Cover**  
-(Any Combat): Choose a defender to get +0/+3 this combat.
-
-**Sa
+Q: Does Winter Soldier gain an XP if he is stunned wh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzg0OTYwMCwtNzg5NjU2MTEyLDk4OD
-k2ODEwMSwyMDcyNTA1ODkyLDYzMTYyMDI1NiwzOTQ5MjYxNCw0
-NjA1OTg0MTgsLTc4NjU1NTIxNSwxNTMyMDU5OTgzLC0xOTIyND
-kxMjAwLC0xNzkxOTk5ODU4LC03ODc2NzA3MzAsNTI1NjA4OTA0
-LC0xMzYzMzQwNjQxLC0xMjY1NjE3MzcxLDE3NzI4NjI2NjUsLT
-E0MDc2Njk4MTgsLTE2MzgzOTMwMjQsMTAxOTk5MDgwMSwxMTk3
-MjczMDcwXX0=
+eyJoaXN0b3J5IjpbMjA2MzQ2NjI4LC0yNzc4NDk2MDAsLTc4OT
+Y1NjExMiw5ODg5NjgxMDEsMjA3MjUwNTg5Miw2MzE2MjAyNTYs
+Mzk0OTI2MTQsNDYwNTk4NDE4LC03ODY1NTUyMTUsMTUzMjA1OT
+k4MywtMTkyMjQ5MTIwMCwtMTc5MTk5OTg1OCwtNzg3NjcwNzMw
+LDUyNTYwODkwNCwtMTM2MzM0MDY0MSwtMTI2NTYxNzM3MSwxNz
+cyODYyNjY1LC0xNDA3NjY5ODE4LC0xNjM4MzkzMDI0LDEwMTk5
+OTA4MDFdfQ==
 -->
