@@ -1094,6 +1094,14 @@ A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 coun
 
 ^(Source: UDE FAQ)
 
+# [Dust](http://vs.tcgbrowser.com/images/cards/medium/CV2-011.jpg)
+*Set: Crossover Vol. 2*
+Q: Can I include Dust in 
+
+A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 counters which can stun someone.
+
+^(Source: UDE FAQ)
+
 # [E.D.I.T.H](http://vs.tcgbrowser.com/images/cards/big/MCU7-022.jpg)
 *Set: Friendly Neighborhood*  
 
@@ -2461,8 +2469,9 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMz
-MxNDU3LC0yNjcyNDI2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1
-LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtND
-Y5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX0=
+eyJoaXN0b3J5IjpbLTIxNjIxODk1NSwzMTk2MzkzNiw2OTIyMz
+EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
+LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMD
+UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
+ODFdfQ==
 -->
