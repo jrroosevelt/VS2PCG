@@ -1096,9 +1096,9 @@ A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 coun
 
 # [Dust](http://vs.tcgbrowser.com/images/cards/medium/CV2-011.jpg)
 *Set: Crossover Vol. 2*
-Q: Can I include Dust in 
+Q: Can I include Dust in Ahab's Hound pile if my MC is not a Mutant Resistance MC? 
 
-A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 counters which can stun someone.
+A: No. The "Starting Main Character Required" restriction on the card is a deck building requirement which applies to the side piles as well. Even if Dust starts in a side pile, 
 
 ^(Source: UDE FAQ)
 
@@ -2469,7 +2469,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjIxODk1NSwzMTk2MzkzNiw2OTIyMz
+eyJoaXN0b3J5IjpbLTQzMDE4NTc1NCwzMTk2MzkzNiw2OTIyMz
 EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
 LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMD
 UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
