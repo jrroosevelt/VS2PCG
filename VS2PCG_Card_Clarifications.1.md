@@ -3330,6 +3330,16 @@ If Proteus would appear any other way except by being recruited, he will be stun
 
 ^(Source: Rule insert)
 
+---
+
+Q: What happens if a player has already played Proteus and then a Dark Phoenix is recruited calling Keywords? It was initially explained to me that the entire effect from Proteus was granted by his Reality Warping keyword, and would therefore be removed if DPh called Keywords. However, someone just objected to that, saying that the heal portion of Reality Warping is a Super Power and would therefore stick around after a DPh Keyword call. 
+
+Which of these is correct?
+
+A: Reality Warping is a Keyword that grants a Super Power. If Dark Phoenix calls Keywords the entire Keyword is removed including the Super Power ability. If Dark Phoenix calls Super Powers only the Super Power ability of Reality Warping is removed.
+
+^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/776964470462873630)
+
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
 
@@ -4149,23 +4159,23 @@ At one point Starhawk was actually two beings merged together who took turns occ
 
 ^(Source: Rule insert)
 
-# Star Lord
+# Star-Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
 *Set: The MCU Battles*  
 
 **Dance Off, Bro**  
-Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
+Star-Lord’s Level Up power lets you start a Dance Off. Starting with you, each player may exhaust one of their ready characters or they’re out of the Dance Off. Repeat this process until only one player is left. They’re the winner.
 
 ^(Source: Rule insert)
 
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
+## [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
 *Set: The MCU Battles*  
 
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
 
 ^(Source: Rule insert)
 
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
+## [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
 *Set: Marvel Battles*
 
 Q: Does **Space Cop** affect Level Up powers? How about Flight and Range?
@@ -4174,7 +4184,7 @@ A: Yes to all the above.
 
 ^(Source: UDE FAQ)
 
-# \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
+# \* [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
 *Set: Galactic Guardians*  
 
 Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed. So she has *s around her name, meaning she shares the "mantle" with Star-Lord, himself. The sharing of the mantle means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of the uniqueness rules and they can't power each other up.
@@ -4590,45 +4600,13 @@ A commonly asked interaction on the Winter Soldier MC is whether or not you can 
 
 Q: Can Winter Solider team attack to Level Up?
 
-A: Yes, Winter Soldier gets credit for stunning a character in a team attack.
-
-^(Source: FB Post - Chad Daniel - UDE Approved)
-
----
-
-Q: Does Winter Soldier gain an XP if he is stunned while stunning a defender?
-
-A: Yes.
-
-^(Source: FB Post - Chad Daniel - UDE Approved)
-
----
-
-Q: Does a frozen character thaw out if they get sent to a **Pocket Dimension** by Singularity? Can this circumvent MC Winter Soldier's drawback?
-
-A: Modifiers do not track characters that leave play unless the rules or card text specifically says they do.
-
-^(Source: FB Post - Chad Daniel - UDE Approved)
-
-# [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
-*Set: The Fantastic Battles*  
-
-**Wizard Armor**  
-Here are the four Plot Twists he has at his disposal:
-
-**Open Fire**  
-(Any Combat): Choose an attacker to get +2/+0 this combat.
-
-**Find Cover**  
-(Any Combat): Choose a defender to get +0/+3 this combat.
-
-**Sa
+A: Yes, Winter Soldier gets credit for stunning a character in a team attack
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzg0OTYwMCw2MzE2MjAyNTYsMzk0OT
-I2MTQsMTIyMDU0NzMyOSwxMTgyMzk1NzQ5LDEzMDY0NDgxNTAs
-NzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0MjY3OTU3OSw2Njc3NT
-Q2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwxNjQ5MDc1ODMyLC0x
-OTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OTQ0NTEwNiwtMTA1Nj
-gzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTkyNTE1LC0yMTM4NzA0
-NzI5XX0=
+eyJoaXN0b3J5IjpbLTE1MDAzNzc4NjAsLTI3Nzg0OTYwMCw2Mz
+E2MjAyNTYsMzk0OTI2MTQsMTIyMDU0NzMyOSwxMTgyMzk1NzQ5
+LDEzMDY0NDgxNTAsNzM4NTY2NDc1LDExNDY3MDQ1OTAsLTE0Mj
+Y3OTU3OSw2Njc3NTQ2NTUsMTQ2ODExMDIzOSw0MDI3MzIxMiwx
+NjQ5MDc1ODMyLC0xOTc2ODQzOTg0LDE0NTIzNTQxMDYsMTE1OT
+Q0NTEwNiwtMTA1NjgzMDc2MiwtMTA5MTYwMzg5OSwxMzc3OTky
+NTE1XX0=
 -->
