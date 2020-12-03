@@ -458,28 +458,48 @@ The chosen characters can team attack with each other and can't be struck back w
 # Shrink  
 When this character gets attacked for the first time each turn, you may cancel the combat.  
 
+
 # Side Decks (aka Side Stacks or Side Piles)
 Certain cards allow or require you to create an additional deck outside of your 60-card + Main Character deck. Technically these are referred to as "Side Decks" but may be casually referred to as "Side Stacks" or "Side Piles." The term "Side Stacks" has gained in popularity as a side reference to the VS 2PCG community member and content creator [C_Stacks](https://www.youtube.com/channel/UCf1_6QRrgfjP8Ts3dxJ6bBg) for whom the continued addition of additional Side Decks has been particularly irritating. :)
 
 Side Stacks may include, but are not limited to, the following stacks (and cards that result in those stacks):
+
 - Absorption History Stack (Mimic MC) 
+
 - Agenda Stack (Syndicate) 
+
 - Battleworld Stack (Battleworld game type and The Grandmaster Main Character)
+
 - Behind the Camera Stack (Mandarin MCU)
+
 - Clone Stack (Scarlet Spider)
+
 - Echo Stack (Hope Summers)
+
 - Facehugger Stack (Ovomorph)
+
 - Gift Stack (Mattie Franklin)
+
 - Graduation Stack (Professor X MC)
+
 - Hound Stack (Ahab)
+
 - Hostage Stack (Secret Hideout)
+
 - Invention Stack (Doctor Doom, Mister Fantastic, The Maker)
+
 - Lizard Stack (Dr. Curt Connors)
+
 - Spellbook (Willow)
+
 - Spider Web (Scarlet Spider)
+
 - Tactics Stack (Mastermind)
+
 - Ultron Facility (Ultron MCU MC)
+
 - Wish Stack (Jenn)
+  
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
   
@@ -608,11 +628,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MT
-Y1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1
-LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMj
-ExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2
-OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NT
-E3NDg0MiwxODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTdd
-fQ==
+eyJoaXN0b3J5IjpbNDUwMTUzODMyLC04MDI1NDUwNDgsMTY3Nz
+M4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5NjMw
+LDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1OD
+YwNDk1MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMy
+MSw0NjMwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMD
+EyNjcsLTE0ODUxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MF19
+
 -->
