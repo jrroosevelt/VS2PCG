@@ -493,7 +493,7 @@ Side Stacks may include, but are not limited to, the following stacks (and cards
 
 - Spellbook Stack (Willow)
 
-- Spider Web Stack(Scarlet Spider)
+- Spider Web Stack (Scarlet Spider)
 
 - Tactics Stack (Mastermind)
 
@@ -629,7 +629,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTA5NjY5MCw0NTAxNTM4MzIsLTgwMj
+eyJoaXN0b3J5IjpbLTMwOTcyOTQwNiw0NTAxNTM4MzIsLTgwMj
 U0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAwNCwxNjQ0ODE1MTIz
 LC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMzg0NTEyMzUsLTIxND
 cwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5NjM1LDM0NDUwODE5
