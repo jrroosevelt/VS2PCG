@@ -466,15 +466,18 @@ Side Stacks may include, but are not limited to, the following stacks (and cards
 - Agenda Stack (Syndicate) 
 - Battleworld Stack (Battleworld game type and The Grandmaster Main Character)
 - Behind the Camera Stack (Mandarin MCU)
+- Clone Stack (Scarlet Spider)
 - Echo Stack (Hope Summers)
 - Facehugger Stack (Ovomorph)
 - Gift Stack (Mattie Franklin)
 - Graduation Stack (Professor X MC)
 - Hound Stack (Ahab)
+- Hostage Stack (Secret Hideout)
 - Invention Stack (Doctor Doom, Mister Fantastic, The Maker)
 - Lizard Stack (Dr. Curt Connors)
 - Spider Web (Scarlet Spider)
 - Tactics Stack (Mastermind)
+- Ultron Facility (Ultron MCU)
 - Wish Stack (Jenn)
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
@@ -604,11 +607,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjc0MzY0MCwxNjc3MzgxODUyLDE2MT
-Y1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1
-LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMj
-ExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2
-OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NT
-E3NDg0MiwxODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTdd
-fQ==
+eyJoaXN0b3J5IjpbNTM5MDgzNjMzLDE2NzczODE4NTIsMTYxNj
+U5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUs
+MTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMT
+E5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMDM2NjY4
+LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MT
+c0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+
 -->
