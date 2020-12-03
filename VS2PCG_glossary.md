@@ -462,19 +462,18 @@ When this character gets attacked for the first time each turn, you may cancel t
 Certain cards allow or require you to create an additional deck outside of your 60-card + Main Character deck. Technically these are referred to as "Side Decks" but may be casually referred to as "Side Stacks" or "Side Piles." The term "Side Stacks" has gained in popularity as a side reference to the VS 2PCG community member and content creator [C_Stacks](https://www.youtube.com/channel/UCf1_6QRrgfjP8Ts3dxJ6bBg) for whom the continued addition of additional Side Decks has been particularly irritating. :)
 
 Side Stacks may include (but are not limited to):
+- Absorption History (Mimi 
 - Agenda Stack (Syndicate) 
 - Battleworld Stack (Battleworld game type and The Grandmaster Main Character)
+- Behind the Camera Stack (Mandarin MCU)
+- Echo Stack (Hope Summers)
 - Facehugger Stack (Ovomorph)
+- Gift Stack (Mattie Franklin)
 - Hound Stack (Ahab)
 - Invention Stack (Doctor Doom, Mister Fantastic, The Maker)
 - Lizard Stack (Dr. Curt Connors)
-- Echo Stack (Hope Summers)
-- Wish Stack (Jenn) 
-- Behind the Camera Stack (Mandarin MCU)
 - Tactics Stack (Mastermind)
-
-
-  
+- Wish Stack (Jenn)
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
   
@@ -603,11 +602,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTg1NDAxNCwxNjc3MzgxODUyLDE2MT
-Y1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1
-LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMj
-ExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2
-OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NT
-E3NDg0MiwxODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTdd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NDc0NDkwMzksMTY3NzM4MTg1MiwxNj
+E2NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcy
+NSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMT
+IxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2
+NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0OD
+UxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3
+XX0=
 -->
