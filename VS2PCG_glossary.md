@@ -459,7 +459,9 @@ The chosen characters can team attack with each other and can't be struck back w
 When this character gets attacked for the first time each turn, you may cancel the combat.  
 
 # Side Decks (aka Side Stacks or Side Piles)
-Certain cards allow or require you to create an additional deck outside of your 60-card + Main Character deck. Technically these are referred to as "Side Decks" but may be casually referred to as "Side Stacks" or "Side Piles." The term "Side Stacks" has gained in popularity as a subtle reference to the
+Certain cards allow or require you to create an additional deck outside of your 60-card + Main Character deck. Technically these are referred to as "Side Decks" but may be casually referred to as "Side Stacks" or "Side Piles." The term "Side Stacks" has gained in popularity as a subtle reference to the VS 2PCG community member and content creator C_Stacks for whom the continued addition of additional Side Decks has been particularly irritating.
+
+
   
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
@@ -589,7 +591,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg1MTEyNTQsMTY3NzM4MTg1MiwxNj
+eyJoaXN0b3J5IjpbLTEzOTgzMzA3MTMsMTY3NzM4MTg1MiwxNj
 E2NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcy
 NSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMT
 IxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2
