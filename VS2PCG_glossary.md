@@ -465,7 +465,8 @@ Side Stacks may include (but are not limited to):
 - Hound Stack (Ahab)
 - Invention Stack (Doctor Doom, Mister Fantastic, The Maker)
 - Facehugger Stack (Ovomorph)
-- 
+- Lizard Stack (Dr. Curt Connors)
+- Battleworld Stack (Battleworld game type and 
 
 
   
@@ -597,11 +598,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEyMjI2MTUsMTY3NzM4MTg1MiwxNj
-E2NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcy
-NSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMT
-IxMTk5OTYzNSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2
-NjgsNzA3ODcwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0OD
-UxNzQ4NDIsMTgwMDg0NTA5NywzMTAzOTc5MCwxNTk0ODQxODk3
-XX0=
+eyJoaXN0b3J5IjpbNTkxODkxMjA4LDE2NzczODE4NTIsMTYxNj
+U5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUs
+MTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMT
+E5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMDM2NjY4
+LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MT
+c0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+
 -->
