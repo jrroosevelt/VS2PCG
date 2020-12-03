@@ -467,7 +467,9 @@ Side Stacks may include (but are not limited to):
 - Facehugger Stack (Ovomorph)
 - Lizard Stack (Dr. Curt Connors)
 - Battleworld Stack (Battleworld game type and The Grandmaster Main Character)
-- Agenda Stack ( 
+- Agenda Stack (Syndicate)
+- Echo Stack (Hope Summers)
+- Wish Stack (Jenn) 
 
 
   
@@ -599,11 +601,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzQyMzk2OCwxNjc3MzgxODUyLDE2MT
-Y1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1
-LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMj
-ExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2
-OCw3MDc4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NT
-E3NDg0MiwxODAwODQ1MDk3LDMxMDM5NzkwLDE1OTQ4NDE4OTdd
-fQ==
+eyJoaXN0b3J5IjpbODI0MTYwNjI0LDE2NzczODE4NTIsMTYxNj
+U5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUs
+MTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMT
+E5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMDM2NjY4
+LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MT
+c0ODQyLDE4MDA4NDUwOTcsMzEwMzk3OTAsMTU5NDg0MTg5N119
+
 -->
