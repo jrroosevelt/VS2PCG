@@ -168,9 +168,9 @@ Classification of a card's affiliation on the scale of [Good or Evil](https://ww
 
 Q: If I get Fearless multiple times, does it stack? For example, if my character has 4 ATK and I have Fearless twice, do I have 8 or 16 ATK?
 
-A: Fearless (and Violent) do *not* stack. This effect doesn't alter the ATK value itself. It doubles the value with which the character strikes. So, in the above example, the first instance of Fearless sets the strike value (not the ATK value) to 4 x 2 = 8. The second instance of Fearless does the same thing (4 x 2 = 8). 
+A: Fearless (and [Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)) do *not* stack. This effect doesn't alter the ATK value itself. It doubles the value with which the character strikes. So, in the above example, the first instance of Fearless sets the strike value (not the ATK value) to 4 x 2 = 8. The second instance of Fearless does the same thing (4 x 2 = 8). 
 
-If the 
+If the power instead said, "While attacking a main character, double this character's ATK." that would result in the power stacking. (But, of course, that's not what it says.)
   
 
 # Ferocious  
@@ -637,11 +637,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NjcyNzg3LC0zMDk3Mjk0MDYsNDUwMT
-UzODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQs
-MTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4ND
-UxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYz
-NSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3OD
-cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDJd
-fQ==
+eyJoaXN0b3J5IjpbLTE2Mjg4NDQ0NDIsLTMwOTcyOTQwNiw0NT
+AxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAw
+NCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMz
+g0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5
+NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MD
+c4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0
+Ml19
 -->
