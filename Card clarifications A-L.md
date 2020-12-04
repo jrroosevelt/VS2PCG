@@ -1232,7 +1232,7 @@ A: No, Even the odds does not remove -1/-1 counters, as it says, it only removes
 
 ---
 
-Q: Hello, a question about the Perfect Organism and Even The Odds. If I use the ability to strike with double of the attack, (**This Thing is Huge! It's...It's Big!** / **Fearless**) and my opponent plays Even The Odds, what happen?
+Q: Hello, a question about the Perfect Organism and Even The Odds. If I use the ability to strike with double of the attack, (**This Thing is Huge! It's...It's Big!** / **[Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless)**) and my opponent plays Even The Odds, what happen?
 
 A: This **Thing is Huge! It's... It's Big!** does not actually modify the ATK. It is modifying how hard it strikes during combat resolution. Normally when you strike, you strike an equal amount to your ATK. This power (and the Daredevil one) changes the rules of the game so that you are striking with double that amount, or triple with Amplify.
 
@@ -2469,9 +2469,9 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
-EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
-LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMD
-UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
-ODFdfQ==
+eyJoaXN0b3J5IjpbNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5Nj
+M5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMs
+MTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0ND
+k0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3
+MywxNzAyNzMxMjgxXX0=
 -->
