@@ -177,7 +177,7 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 # [Archangel](http://vs.tcgbrowser.com/images/cards/big/RES-002.jpg)
 *Set: Resistance*  
 
-**Violent** means that he strikes Supporting Characters with double his ATK.
+**[Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)** means that he strikes Supporting Characters with double his ATK.
 
 ^(Source: Rule insert)
 
@@ -2469,9 +2469,9 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5Nj
-M5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMs
-MTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0ND
-k0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3
-MywxNzAyNzMxMjgxXX0=
+eyJoaXN0b3J5IjpbMjA5MDU5ODk4OCw2MDQ0NDY0MDIsMTY0NT
+U1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcs
+LTI2NzI0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OT
+A1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3
+LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ==
 -->
