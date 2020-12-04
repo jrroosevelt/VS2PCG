@@ -171,6 +171,8 @@ Q: If I get Fearless multiple times, does it stack? For example, if my character
 A: Fearless (and [Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)) do *not* stack. This effect doesn't alter the ATK value itself. It doubles the value with which the character strikes. So, in the above example, the first instance of Fearless sets the strike value (not the ATK value) to 4 x 2 = 8. The second instance of Fearless does the same thing (4 x 2 = 8). 
 
 If the power instead said, "While attacking a main character, double this character's ATK." that would result in the power stacking. (But, of course, that's not what it says.)
+
+^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/784476593988304907)
   
 
 # Ferocious  
@@ -643,7 +645,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDY3OTEyOCwtMzA5NzI5NDA2LDQ1MD
+eyJoaXN0b3J5IjpbLTQ0NjIxODcwOCwtMzA5NzI5NDA2LDQ1MD
 E1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0
 LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUsMTIzOD
 Q1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMTE5OTk2
