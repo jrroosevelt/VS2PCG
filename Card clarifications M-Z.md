@@ -976,7 +976,7 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 # [Primordial Ice Worms](http://vs.tcgbrowser.com/images/cards/big/XFB-050.jpg)
 *Set: The X-Files Battles*
 
-**Icebreaker** can be used on a character on any side. It has no set duration. It will give a character **Angry** and **Violent** until that character leaves play.
+**Icebreaker** can be used on a character on any side. It has no set duration. It will give a character **Angry** and **[Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)** until that character leaves play.
 
 ^(Source: Rule Insert)
 
@@ -2546,8 +2546,9 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzND
-gwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0
-NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0LDEyNT
-MwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbLTE1MTgyMTYyOTEsNzk1NjQyMDIzLDI4Mj
+A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
+MzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMz
+IxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3
+NDA3XX0=
 -->
