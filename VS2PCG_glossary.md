@@ -163,6 +163,12 @@ Classification of a card's affiliation on the scale of [Good or Evil](https://ww
 
 # Fearless  
  While attacking a main character, this character strikes with double its ATK.  
+ 
+ ---
+
+Q: If I get Fearless multiple times, does it stack? For example, if my character has 4 ATK and I have Fearless twice, do I have 8 or 16 ATK?
+
+A: Fearless (and Violent) do *not* stack. This effect doesn't alter the ATK value - it al
   
 
 # Ferocious  
@@ -629,11 +635,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTcyOTQwNiw0NTAxNTM4MzIsLTgwMj
-U0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAwNCwxNjQ0ODE1MTIz
-LC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMzg0NTEyMzUsLTIxND
-cwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5NjM1LDM0NDUwODE5
-OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MDc4NzA5MSwxNjg2MD
-YxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0MiwxODAwODQ1MDk3
-XX0=
+eyJoaXN0b3J5IjpbODUyODAzNzAwLC0zMDk3Mjk0MDYsNDUwMT
+UzODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQs
+MTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4ND
+UxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYz
+NSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3OD
+cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDJd
+fQ==
 -->
