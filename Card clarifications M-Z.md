@@ -1267,7 +1267,7 @@ A: The most recently played one stays in play.
 
 Q: Can Rogue gain multiple instances of the same power?
 
-A: Rogue can get the same power twice. Sometimes it will be redundant (![](%%Flight%%)/**Range**/**Fearless**/**Mobile**/**Shrink**) and give no benefit, but sometimes it will give additional benefit (**Berserker**/Appear Triggers/Super Powers). In the case of super powers, each copy of the power is distinct and each can be used once per turn.
+A: Rogue can get the same power twice. Sometimes it will be redundant (![](%%Flight%%)/**Range**/**[Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless)**/**Mobile**/**Shrink**) and give no benefit, but sometimes it will give additional benefit (**Berserker**/Appear Triggers/Super Powers). In the case of super powers, each copy of the power is distinct and each can be used once per turn.
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
@@ -2073,7 +2073,7 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 
 **Note:** They don't have any team affiliations until you recruit them. If they appear on your side some other way, they won't have a team. 
 
-Talos's **Pragmatist** power affects all characters on your side, regardless of whether you choose MCU Heroes or MCU Villains. For example, if he has MCU Heroes all characters on your side (including Talos himself) have **Fearless**.
+Talos's **Pragmatist** power affects all characters on your side, regardless of whether you choose MCU Heroes or MCU Villains. For example, if he has MCU Heroes all characters on your side (including Talos himself) have **[Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless)**.
 
 ^(Source: Rule insert)
 
@@ -2236,7 +2236,7 @@ Tracker has a keyword that says: “Tracker has +1/+1 for each different basic L
 # [Trance](http://vs.tcgbrowser.com/images/cards/big/RES-009.jpg) 
 *Set: Resistance*  
 
-When she has an **Astral Form Overload**, she gains **Stealth** and **Fearless**. **Stealth** means she can melee attack back row characters, even while they’re protected. **Fearless** means that she strikes Main Characters with double her ATK.
+When she has an **Astral Form Overload**, she gains **Stealth** and **[Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless)**. **Stealth** means she can melee attack back row characters, even while they’re protected. **[Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless)** means that she strikes Main Characters with double her ATK.
 
 ^(Source: Rule insert)
 
@@ -2546,9 +2546,9 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgyMTYyOTEsNzk1NjQyMDIzLDI4Mj
-A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
-MzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMz
-IxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3
-NDA3XX0=
+eyJoaXN0b3J5IjpbNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNj
+UyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0
+LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMT
+MwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQw
+N119
 -->
