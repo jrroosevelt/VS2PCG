@@ -611,7 +611,7 @@ While attacking a supporting character, this character strikes with double its A
 
 Q: If I get Violent multiple times, does it stack? For example, if my character has 4 ATK and I have Violent twice, do I have 8 or 16 ATK?
 
-A: See similar question for Fearless.
+A: See similar question for [Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless).
   
 # Vitality Counter
 A vitality counter is essentially the opposite of a wound counter. It gives a character +1 Health and remains on the character while the character is stunned. However, if a character has both a wound counter and vitality counter, they cancel out – remove one of each until the character only has one type.
@@ -643,7 +643,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzU2OTQwNCwtMzA5NzI5NDA2LDQ1MD
+eyJoaXN0b3J5IjpbLTY4NDY3OTEyOCwtMzA5NzI5NDA2LDQ1MD
 E1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0
 LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUsMTIzOD
 Q1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMTE5OTk2
