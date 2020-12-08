@@ -327,9 +327,27 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 ## Community Formats
 The following is a list of formats that haven't been officially released by Upper Deck Entertainment, but have been created for use in community events (such as Build Phase League or Quarantine Cup tournaments).
 
+### The Benchwarmers
+This format was created for use in the Midwinter 2021 virtual tournament:
+
+The year is 2020, a pandemic ravages the world. Millions die. Heroes everywhere take up the call, but they fare no better. While no heroes have yet died the disease has ripped through the ranks of the world's most powerful and adored. Then, THE CALL. Midwinter 2021. But with all our heroes devastated by a microscopic foe who will take up the banner? Who will answer the call????
+
+**Rules:** In this format all cards in your deck (and out of game piles) will be restricted to the teams listed.
+Xenomorph
+Company
+Super Villains
+Shield
+Prey
+Monsters
+Leviathon 
+Inhumans
+Hydra
+Champions
+Neutral cards 
+Note: In every set that has a card which has been replaced then the updated version must be used.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODY5NzMyMyw1NDI5NDAxMjIsLTE0Nz
+eyJoaXN0b3J5IjpbLTIwMTk5MDI3NSw1NDI5NDAxMjIsLTE0Nz
 Q0Mjc5ODMsLTk1MzY5MjI0MCwxMzIwMDc1MDUyXX0=
 -->
