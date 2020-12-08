@@ -333,21 +333,26 @@ This format was created for use in the Midwinter 2021 virtual tournament:
 The year is 2020, a pandemic ravages the world. Millions die. Heroes everywhere take up the call, but they fare no better. While no heroes have yet died the disease has ripped through the ranks of the world's most powerful and adored. Then, THE CALL. Midwinter 2021. But with all our heroes devastated by a microscopic foe who will take up the banner? Who will answer the call????
 
 **Rules:** In this format all cards in your deck (and out of game piles) will be restricted to the teams listed.
-Xenomorph
-Company
-Super Villains
-Shield
-Prey
-Monsters
-Leviathon 
-Inhumans
-Hydra
+
+- Company
+- Inhumans
+- Leviathon 
+- Monsters
+- Prey
+- S.H.I.E.L.D.
+- Super Villains
+
+
+
+
+
 Champions
+Xenomorph
 Neutral cards 
 Note: In every set that has a card which has been replaced then the updated version must be used.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk5MDI3NSw1NDI5NDAxMjIsLTE0Nz
-Q0Mjc5ODMsLTk1MzY5MjI0MCwxMzIwMDc1MDUyXX0=
+eyJoaXN0b3J5IjpbODg3NDgxNTQ0LDU0Mjk0MDEyMiwtMTQ3ND
+QyNzk4MywtOTUzNjkyMjQwLDEzMjAwNzUwNTJdfQ==
 -->
