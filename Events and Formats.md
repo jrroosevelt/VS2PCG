@@ -324,7 +324,12 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 * [New Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_new_defenders)
 
+## Community Formats
+The following is a list of formats that haven't been officially released by Upper Deck Entertainment, but have been created for use in community events (such as Build Phase League or Quarantine Cup tournaments).
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyOTQwMTIyLC0xNDc0NDI3OTgzLC05NT
-M2OTIyNDAsMTMyMDA3NTA1Ml19
+eyJoaXN0b3J5IjpbMTI4ODY5NzMyMyw1NDI5NDAxMjIsLTE0Nz
+Q0Mjc5ODMsLTk1MzY5MjI0MCwxMzIwMDc1MDUyXX0=
 -->
