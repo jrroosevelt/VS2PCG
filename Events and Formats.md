@@ -347,10 +347,10 @@ The year is 2020, a pandemic ravages the world. Millions die. Heroes everywhere 
 
 Neutral cards  (cards without a team affiliation) are also allowed.
 
-**Note**: In every set that has a card which has been replaced then the updated version must be used.
+**Note**: If a card has a replacement version, the replacement must be used.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYxMTEyMzQsNTQyOTQwMTIyLC0xND
+eyJoaXN0b3J5IjpbLTIwNjg2NzI0MzgsNTQyOTQwMTIyLC0xND
 c0NDI3OTgzLC05NTM2OTIyNDAsMTMyMDA3NTA1Ml19
 -->
