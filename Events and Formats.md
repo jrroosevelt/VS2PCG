@@ -334,25 +334,23 @@ The year is 2020, a pandemic ravages the world. Millions die. Heroes everywhere 
 
 **Rules:** In this format all cards in your deck (and out of game piles) will be restricted to the teams listed.
 
+- Champions
 - Company
+- Hydra
 - Inhumans
 - Leviathon 
 - Monsters
 - Prey
 - S.H.I.E.L.D.
 - Super Villains
+- Xenomorph
 
+Neutral cards  (cards without a team affiliation) are also allowed.
 
-
-
-
-Champions
-Xenomorph
-Neutral cards 
-Note: In every set that has a card which has been replaced then the updated version must be used.
+**Note**: In every set that has a card which has been replaced then the updated version must be used.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NDgxNTQ0LDU0Mjk0MDEyMiwtMTQ3ND
-QyNzk4MywtOTUzNjkyMjQwLDEzMjAwNzUwNTJdfQ==
+eyJoaXN0b3J5IjpbLTEyOTYxMTEyMzQsNTQyOTQwMTIyLC0xND
+c0NDI3OTgzLC05NTM2OTIyNDAsMTMyMDA3NTA1Ml19
 -->
