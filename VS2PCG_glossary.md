@@ -398,7 +398,7 @@ Once per turn during your Main Phase but not during combat, you may move this ch
  While this character is defending against a melee team attack, he strikes back against each attacker.  
   
 # Name (verb)
-Many cards tell you to "Name a [thing]"
+Many cards tell you to "Name a [thing]". Unlike **choose**, **name** allows you to announce/desi
 
 # Nerf  
 Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides and in enemy hands, decks and KO piles are 0/1 with 1 Health and nothing can ever, ever change that.  
@@ -647,11 +647,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMTAwODE3LC0zMDk3Mjk0MDYsNDUwMT
-UzODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQs
-MTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4ND
-UxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYz
-NSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3OD
-cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDJd
-fQ==
+eyJoaXN0b3J5IjpbNTM5Njg5MTYsLTMwOTcyOTQwNiw0NTAxNT
+M4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAwNCwx
+NjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMzg0NT
+EyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5NjM1
+LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MDc4Nz
+A5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0Ml19
+
 -->
