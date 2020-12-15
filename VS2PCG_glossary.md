@@ -88,10 +88,9 @@ To summarize, Wyatt will draw cards into his own "hand" and place resources into
  The name of a card on the name line (ignoring AKAs).  
 
 # Choose  
-
 Many cards tell you to "Choose a [thing]". For example, choose a Super Power, or choose a Supporting Character. Unlike when you **name** something, you can only **choose** an item that is in play (aka in the Play Zone) unless otherwise indicated.
 
-For example, Captain Swain says, "When Swain appears." In this case, you can name a keyword or super power even if there is no card currently in play with that power.
+For example, Captain Swain says, "When Swain appears, choose a super power on a supporting character." In this case, because no specific Zone is indicated, you can choose a super power only on a supporting character currently in play.
 
 
 # Climb  
@@ -655,11 +654,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMzMjg1MzAsLTMwOTcyOTQwNiw0NT
-AxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAw
-NCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMz
-g0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5
-NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MD
-c4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0
-Ml19
+eyJoaXN0b3J5IjpbMTE5OTc5NzAxNiwtMzA5NzI5NDA2LDQ1MD
+E1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0
+LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUsMTIzOD
+Q1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMTE5OTk2
+MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMDM2NjY4LDcwNz
+g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
+XX0=
 -->
