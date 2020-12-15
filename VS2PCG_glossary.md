@@ -398,9 +398,9 @@ Once per turn during your Main Phase but not during combat, you may move this ch
  While this character is defending against a melee team attack, he strikes back against each attacker.  
   
 # Name (verb)
-Many cards tell you to "Name a [thing]". For example, name a Super Power, or name a Supporting Character. Unlike **choose**, **name** allows you to announce/designate something whether it is or isn't currently in play.
+Many cards tell you to "Name a [thing]". For example, name a Super Power, or name a Supporting Character. Unlike **choose**, **name** allows you to announce/designate something whether it is or isn't currently in play (unless otherwise indicated).
 
-For example, The Nullifier says, "Name a keywo
+For example, The Nullifier says, "When The Nullifier appears, name a keyword or super power." In this case, you can name a keyword or super power 
 
 # Nerf  
 Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides and in enemy hands, decks and KO piles are 0/1 with 1 Health and nothing can ever, ever change that.  
@@ -649,11 +649,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzg2MzE4NSwtMzA5NzI5NDA2LDQ1MD
-E1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0
-LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUsMTIzOD
-Q1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMTE5OTk2
-MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsNDYzMDM2NjY4LDcwNz
-g3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3LC0xNDg1MTc0ODQy
-XX0=
+eyJoaXN0b3J5IjpbLTE0OTU0NDE1LC0zMDk3Mjk0MDYsNDUwMT
+UzODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQs
+MTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4ND
+UxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYz
+NSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3OD
+cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDJd
+fQ==
 -->
