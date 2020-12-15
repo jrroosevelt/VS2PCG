@@ -589,6 +589,12 @@ His **Cosmic Awareness** allows him to ask an opponent one concrete question abo
 
 ^(Source: Rule insert)
 
+# Captain Swain
+
+*Set: Monsters Unleashed*
+
+^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/1407375245964684)
+
 # [Carnage](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
 *Set: The Defenders*  
 
@@ -2469,9 +2475,9 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDU5ODk4OCw2MDQ0NDY0MDIsMTY0NT
-U1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcs
-LTI2NzI0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OT
-A1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3
-LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbLTMzNjEzMjc1LDYwNDQ0NjQwMiwxNjQ1NT
+UwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3MzMzMTQ1Nywt
+MjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MD
+UwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcs
+LTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
