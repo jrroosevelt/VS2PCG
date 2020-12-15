@@ -86,7 +86,13 @@ To summarize, Wyatt will draw cards into his own "hand" and place resources into
 
 # Card Title  
  The name of a card on the name line (ignoring AKAs).  
-  
+
+# Choose  
+
+Many cards tell you to "Choose a [thing]". For example, choose a Super Power, or choose a Supporting Character. Unlike when you **name** something, you can  **choose** allows you to announce/designate something whether it is or isn't currently in play (unless otherwise indicated).
+
+For example, The Nullifier says, "When The Nullifier appears, name a keyword or super power." In this case, you can name a keyword or super power even if there is no card currently in play with that power.
+
 
 # Climb  
 At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on this character.  
@@ -400,7 +406,7 @@ Once per turn during your Main Phase but not during combat, you may move this ch
 # Name (verb)
 Many cards tell you to "Name a [thing]". For example, name a Super Power, or name a Supporting Character. Unlike **choose**, **name** allows you to announce/designate something whether it is or isn't currently in play (unless otherwise indicated).
 
-For example, The Nullifier says, "When The Nullifier appears, name a keyword or super power." In this case, you can name a keyword or super power 
+For example, The Nullifier says, "When The Nullifier appears, name a keyword or super power." In this case, you can name a keyword or super power even if there is no card currently in play with that power.
 
 # Nerf  
 Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides and in enemy hands, decks and KO piles are 0/1 with 1 Health and nothing can ever, ever change that.  
@@ -649,11 +655,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU0NDE1LC0zMDk3Mjk0MDYsNDUwMT
-UzODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQs
-MTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4ND
-UxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYz
-NSwzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3OD
-cwOTEsMTY4NjA2MTE3NywyMjAzMDEyNjcsLTE0ODUxNzQ4NDJd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNTc2NzExNTgsLTMwOTcyOTQwNiw0NT
+AxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAw
+NCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMz
+g0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5
+NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MD
+c4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0
+Ml19
 -->
