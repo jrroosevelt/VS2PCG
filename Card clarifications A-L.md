@@ -1654,7 +1654,15 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 
 Q:  When **Magnetokinesis** moves an equipment from a character to another, do any limitations still apply? 
 
-A: Even though the card just says to "move" the equipment, it still counts as being equipped to the new character. Therefore, any restrictions would still apply. 
+A: Even though the card just says to "move" the equipment, it still counts as being equipped to the new character. Therefore, any restrictions on the equipment (such as team affiliation when equipping) would still apply. 
+
+---
+
+Q: If you move Helmet of Immunity from one character on your side to another with Grid, would you choose a second power symbol and now it blocks both symbols from being used by enemy characters?
+
+A: It does not leave play when it is unequipped. It is equipped to the new character and that will trigger the power which will allow you to choose. HOWEVER, the second part of the power refers to "THAT type" it is singular, it can only refer to the most recent choice. It can't refer to all prior choices made.
+
+^Source: ^FB 
 
 
 # Groot
@@ -2488,7 +2496,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTYxNjk0OCwxNDM0NzI3OTgyLDYwND
+eyJoaXN0b3J5IjpbMTM0MDM1Njc4OSwxNDM0NzI3OTgyLDYwND
 Q0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwt
 MTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NT
 cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
