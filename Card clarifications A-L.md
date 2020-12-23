@@ -1654,7 +1654,7 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 
 Q:  When **Magnetokinesis** moves an equipment from a character to another, do any limitations still apply? 
 
-A: Even though the card just says to "move" the equipment, it still counts as being equipped to the new character. Therefore, any restrictions on the equipment (such as team affiliation when equipping) would still apply. 
+A: Even though the card just says to "move" the equipment, it still counts as being equipped to the new character. Therefore, any restrictions on the equipment (such Ebony Blade) would still apply. 
 
 ---
 
@@ -2496,9 +2496,10 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwND
-Q0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwt
-MTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NT
-cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
-MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbLTE0MDYwMzAxNzQsMTQ0MTEyNjY5MiwxND
+M0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2
+LDY5MjIzMTAzNSwtMTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OT
+k0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5
+MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMT
+cwMjczMTI4MV19
 -->
