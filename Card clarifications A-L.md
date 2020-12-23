@@ -1654,7 +1654,7 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 
 Q:  When **Magnetokinesis** moves an equipment from a character to another, do any limitations still apply? 
 
-A: Even though the card just says to "move" the equipment, it still counts as being equipped to the new character. Therefore, any restrictions on the equipment (such Ebony Blade can only be equipped to Black Panther or Black Knight) would still apply. 
+A: Even though the card just says to "move" the equipment, it still counts as being equipped to the new character. Therefore, any equipping restrictions on the equipment (such Ebony Blade can only be equipped to Black Panther or Black Knight) would still apply. 
 
 ---
 
@@ -2496,7 +2496,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTEyMzE5MSwxNDQxMTI2NjkyLDE0Mz
+eyJoaXN0b3J5IjpbLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0Mz
 Q3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYs
 NjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMsMTQ5OT
 QyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkz
