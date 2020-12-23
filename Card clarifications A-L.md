@@ -1662,7 +1662,7 @@ Q: If you move Helmet of Immunity from one character on your side to another wit
 
 A: It does not leave play when it is unequipped. It is equipped to the new character and that will trigger the power which will allow you to choose. HOWEVER, the second part of the power refers to "THAT type" it is singular, it can only refer to the most recent choice. It can't refer to all prior choices made.
 
-[^Source: ^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3250456501656540
+[^Source: ^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3250456501656540)
 
 
 # Groot
@@ -2496,7 +2496,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzkyNjM3NSwxNDM0NzI3OTgyLDYwND
+eyJoaXN0b3J5IjpbMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwND
 Q0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwt
 MTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NT
 cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
