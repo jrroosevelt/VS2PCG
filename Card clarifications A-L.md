@@ -1652,7 +1652,9 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 # [Grid](http://vs.tcgbrowser.com/images/cards/big/MMU-053.jpg)
 *Set: Monsters Unleashed*
 
-Q; 
+Q:  When **Magnetokinesis** moves an equipment from a character to another, do any limitations still apply? 
+
+A: Even though the card just says to "move" the equipment, it still counts as being equipped to the new character. Therefore, any restrictions would still apply. 
 
 
 # Groot
@@ -2486,7 +2488,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ1MDAyOCwxNDM0NzI3OTgyLDYwND
+eyJoaXN0b3J5IjpbMTk0OTYxNjk0OCwxNDM0NzI3OTgyLDYwND
 Q0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwt
 MTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NT
 cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
