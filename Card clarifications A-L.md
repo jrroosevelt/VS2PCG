@@ -1648,6 +1648,13 @@ Q: Can **Pumpkin Bomb** target Hidden characters?
 
 A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide).
 
+
+# [Grid](http://vs.tcgbrowser.com/images/cards/big/MMU-053.jpg)
+*Set: Monsters Unleashed*
+
+Q; 
+
+
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
 *Set: The Marvel Battles*
@@ -2479,9 +2486,9 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NT
-U1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcs
-LTI2NzI0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OT
-A1MDk4NCwxMzQ0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3
-LC0xMDg5MDM4MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQ1MDAyOCwxNDM0NzI3OTgyLDYwND
+Q0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwt
+MTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NT
+cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
+MjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
 -->
