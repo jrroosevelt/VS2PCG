@@ -73,6 +73,8 @@ When this character attacks, put a +1/+1 counter on it
 # Burn  
    Stun this character at the end of each of your turns.  
   
+# Camouflage
+  When in the back row, this character cannot be attacked.
 
 # Capture  
 Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
@@ -658,11 +660,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEzMzgwMTYsLTMwOTcyOTQwNiw0NT
-AxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAw
-NCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMz
-g0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5
-NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MD
-c4NzA5MSwxNjg2MDYxMTc3LDIyMDMwMTI2NywtMTQ4NTE3NDg0
-Ml19
+eyJoaXN0b3J5IjpbLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwtMz
+A5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4
+NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OT
+gyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5
+NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsND
+YzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3
+XX0=
 -->
