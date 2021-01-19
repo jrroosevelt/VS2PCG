@@ -65,11 +65,9 @@ When this character attacks, put a +1/+1 counter on it
 # Biosentinel  
  The Biosentinel keyword does nothing by itself and is instead referenced by other powers.  
   
-
 # Bulletproof  
   Characters with Range can't strike this character. *(Even in melee combat.)*  
   
-
 # Burn  
    Stun this character at the end of each of your turns.  
   
@@ -79,7 +77,6 @@ When this character attacks, put a +1/+1 counter on it
 # Capture  
 Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
   
-
 #  Card Game
  This is a power currently available on [Wyatt Wingfoot](/r/VS2PCG/wiki/rules-insert#wiki_wyatt_wingfoot).
  
@@ -660,11 +657,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwtMz
-A5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4
-NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OT
-gyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5
-NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0NTUzMjEsND
-YzMDM2NjY4LDcwNzg3MDkxLDE2ODYwNjExNzcsMjIwMzAxMjY3
-XX0=
+eyJoaXN0b3J5IjpbMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0xND
+AxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1NDUw
+NDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywtMT
+k4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1
+NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLT
+E5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3
+N119
 -->
