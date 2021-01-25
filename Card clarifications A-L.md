@@ -1722,6 +1722,10 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 
 ^(Source: FB Post)
 
+## Guillotine
+*Set: Crossover Vol. 3*
+
+**La Fleur du Mal** lets you force your opponent to "pass" while in combat instead of playing a plot twist, using a super power, or powering up. For example, if Guillotine attacks a character, you could pass and then force your opponent to pass, which will cauase the combat to resolve. Or you c
 
 # Hawkeye
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC - Illustrated)
@@ -2517,10 +2521,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMD
-k4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAy
-LDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMz
-MxNDU3LC0yNjcyNDI2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1
-LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtND
-Y5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX0=
+eyJoaXN0b3J5IjpbMTY3OTIyOTA5MSwxMTgwMzIwODkwLC05Mj
+Q4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4
+Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
+EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
+LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMD
+UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
+ODFdfQ==
 -->
