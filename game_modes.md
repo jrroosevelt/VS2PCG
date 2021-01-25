@@ -181,19 +181,42 @@ characters on your side can use the locations where you have a marker as if they
 
 **Player B wins:** *No one will stand in your way of winning, and getting back home.* Same as above.
 
-### Part 3: Now I
-**Player A Wins and Has Played a Copy of the Site and the Item this game:** *What do you do with your new unlimited cosmic power?*
+### Part 3: Now I'm Ready To Leave
+**Player A Wins:** *You won this whole thing. For whatever that's worth.*
 
-**Any Other Outcome:** *You've helped the universe dodge a gigantic, probably purple, bullet.*
-
-
+**Player B Wins:** *You get to go home. If home is still there.*
 
 ## Story Mode: Time Traveler
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
+**Take part against your will in an epic game on an artificial world.**
+
+### Setup
+Create a **Patchwork Planet.**
+
+To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
+
+Shuffle the nine locations and deal them out into a face-up 3x3 grid to the side of the game. Each player puts a marker (try Wound and XP counters) on their "wild" location.
+
+characters on your side can use the locations where you have a marker as if they were in your resource row. When a location is used this way, turn it face down. (Turn it face up at the start of the next Part.)
+
+### Part 1: Where Are We?
+**Player A wins:** *You'll play their little game. And win.* Add a marker to a location adjacent to your marked location on the **Patchwork Planet**.
+
+**Player B wins:** *What kind of twisted place is this? Well you're not gonna back down* Same as above.
+
+### Part 2: This Place Seems Familiar
+**Player A wins:** *You're starting to get the hang of this. And you sort of like it.* Add two markers, one at a time, to any unmarked locations adjacent to one of your marked locations.
+
+**Player B wins:** *No one will stand in your way of winning, and getting back home.* Same as above.
+
+### Part 3: Now I'm Ready To Leave
+**Player A Wins:** *You won this whole thing. For whatever that's worth.*
+
+**Player B Wins:** *You get to go home. If home is still there.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA5MTEzMjYsNjA5OTk5MzAsMTE3Nj
-Y3Mzk1NCwtMTA3MjIwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2
-OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV
-19
+eyJoaXN0b3J5IjpbLTg0NTI5NjM0Myw2MDk5OTkzMCwxMTc2Nj
+czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
+MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
+0=
 -->
