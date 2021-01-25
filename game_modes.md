@@ -187,21 +187,14 @@ characters on your side can use the locations where you have a marker as if they
 **Player B Wins:** *You get to go home. If home is still there.*
 
 ## Story Mode: Time Traveler
-**Travel to the past to try to change your pres**
+**Travel to the past to try to change your present.**
 
-### Setup
-Create a **Patchwork Planet.**
+Player A's main character is a time traveler.
 
-To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
+### Part 1: Arrival
+**Player A wins:** *Your advanced technology and knowledge help you win easily. Now you can show your true self.* Your main character starts Part 2 at Level 2.
 
-Shuffle the nine locations and deal them out into a face-up 3x3 grid to the side of the game. Each player puts a marker (try Wound and XP counters) on their "wild" location.
-
-characters on your side can use the locations where you have a marker as if they were in your resource row. When a location is used this way, turn it face down. (Turn it face up at the start of the next Part.)
-
-### Part 1: Where Are We?
-**Player A wins:** *You'll play their little game. And win.* Add a marker to a location adjacent to your marked location on the **Patchwork Planet**.
-
-**Player B wins:** *What kind of twisted place is this? Well you're not gonna back down* Same as above.
+**Player B wins:** *Now you have some experience with this time travel stuff.* Yo.
 
 ### Part 2: This Place Seems Familiar
 **Player A wins:** *You're starting to get the hang of this. And you sort of like it.* Add two markers, one at a time, to any unmarked locations adjacent to one of your marked locations.
@@ -215,8 +208,8 @@ characters on your side can use the locations where you have a marker as if they
 
 **Player B Wins:** *You get to go home. If home is still there.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUxOTgzMDAsNjA5OTk5MzAsMTE3Nj
-Y3Mzk1NCwtMTA3MjIwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2
-OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV
-19
+eyJoaXN0b3J5IjpbLTQwMDQ2NDI1Nyw2MDk5OTkzMCwxMTc2Nj
+czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
+MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
+0=
 -->
