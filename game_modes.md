@@ -139,6 +139,25 @@ Player A's main character is a killer.
 
 **Player B Wins:** *Do you strike the killing blow?*
 
+## Story Mode: Epic Quest
+**Search the universe for the key to your happiness**
+
+Player A's main character is on a quest for... something.
+
+### Part 1: Searching
+**Player A wins:** *You finally know where it is.* Name a location in your deck as the Site.
+
+**Player B wins:** *You obscure the path.* Same as above, but you choose the character.
+
+### Part 2: Cold Dish
+**Player A wins:** *Salt in the wounds.* Player B's main character starts Part 3 with a wound.
+
+**Player B wins:** *Violence doesn't solve anything?* Your main character has **Violent** in Part 3.
+
+### Part 3: Final Showdown
+**Player A wins:** *This weakling deserves it!*
+
+**Player B Wins:** *Do you strike the killing blow?*
 
 ## Story Mode: Galactic Game
 To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
@@ -151,7 +170,8 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5OTk5MzAsMTE3NjY3Mzk1NCwtMTA3Mj
-IwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2OTIzMSwtMTgyMjAz
-OTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV19
+eyJoaXN0b3J5IjpbNzMyNDU0ODEwLDYwOTk5OTMwLDExNzY2Nz
+M5NTQsLTEwNzIyMDI0MjEsLTEwMzg2NjE4NTMsLTExNjc0Njky
+MzEsLTE4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ
+==
 -->
