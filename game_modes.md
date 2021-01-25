@@ -128,7 +128,7 @@ Player A's main character is a killer.
 ### Part 2: Cold Dish
 **Player A wins:** *Salt in the wounds.* Player B's main character starts Part 3 with a wound.
 
-**Player B wins:** *Violence doesn't solve anything?* Player B's main character starts Part 3 with a wound.
+**Player B wins:** *Violence doesn't solve anything?* Your main character has **Violent** in Part 3.
 
 ### Part 3: Execute the Plan
 **Player A wins:** *You have eliminated a true fiend!*
@@ -147,7 +147,7 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIyMDI0MjEsLTEwMzg2NjE4NTMsLT
-ExNjc0NjkyMzEsLTE4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5
-NTYzMTFdfQ==
+eyJoaXN0b3J5IjpbMTE3NjY3Mzk1NCwtMTA3MjIwMjQyMSwtMT
+AzODY2MTg1MywtMTE2NzQ2OTIzMSwtMTgyMjAzOTg1MywxNzk1
+Njk3ODkzLDU4Mjk1NjMxMV19
 -->
