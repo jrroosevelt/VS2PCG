@@ -93,10 +93,11 @@ Play a series of multiple Stories in a “Storyline”! Play them in a random or
 **Player B wins:** *You've repelled an attempt to turn your closest advisors. But the danger persists.* Player A secretly names a supporting character in their deck to be a **Deadly Assassin** for Part 3.
 
 ### Part 3: Execute the Plan
-**Player A wins:** *You have el
+**Player A wins:** *You have eliminated a true fiend!*
 
-**Player B wins:** *You detect some lurking enemies, and raise the alert level.* Secretly name a supporting character in your deck to be a **Bodyguard** for the rest of the story.
+**Player B Wins:** *You have defended your leader!*
 
+### Assassination Plot clarifications
 This story card grants secret powers that work like this:
 
 ### Bodyguard
@@ -127,6 +128,6 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEwNTQ1NjgsLTE4MjIwMzk4NTMsMT
+eyJoaXN0b3J5IjpbLTE5MDgxOTgxMDQsLTE4MjIwMzk4NTMsMT
 c5NTY5Nzg5Myw1ODI5NTYzMTFdfQ==
 -->
