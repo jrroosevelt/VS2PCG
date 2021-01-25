@@ -1725,7 +1725,9 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 ## Guillotine
 *Set: Crossover Vol. 3*
 
-**La Fleur du Mal** lets you force your opponent to "pass" while in combat instead of playing a plot twist, using a super power, or powering up. For example, if Guillotine attacks a character, you could pass and then force your opponent to pass, which will cauase the combat to resolve. Or you c
+**La Fleur du Mal** lets you force your opponent to "pass" while in combat instead of playing a plot twist, using a super power, or powering up. For example, if Guillotine attacks a character, you could pass and then force your opponent to pass, which will cause the combat to resolve. Or you could take an action, cause your opponent to pass, then take another action before they get to act.
+
+^(Source: Rule Insert)
 
 # Hawkeye
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC - Illustrated)
@@ -2017,6 +2019,14 @@ The owner of a character is the player who brought that card to the game, regard
 ^(Source: Rule insert)
 
 # [Isabelle](http://vs.tcgbrowser.com/images/cards/big/PRD-047.jpg)
+*Set: The Predator Battles*  
+
+**Sniper Nest**   
+Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an ![](%%Energy%%) (Energy), including their “wild” Location, to turn off this effect for a turn.
+
+^(Source: Rule insert)
+
+# Iso-Sphere
 *Set: The Predator Battles*  
 
 **Sniper Nest**   
@@ -2521,7 +2531,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTIyOTA5MSwxMTgwMzIwODkwLC05Mj
+eyJoaXN0b3J5IjpbLTEwMzUxNTA1MCwxMTgwMzIwODkwLC05Mj
 Q4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4
 Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
 EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
