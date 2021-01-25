@@ -147,12 +147,12 @@ Player A's main character is on a quest for... something.
 ### Part 1: Searching
 **Player A wins:** *You finally know where it is.* Name a location in your deck as the Site.
 
-**Player B wins:** *You obscure the path.* Same as above, but you choose the character.
+**Player B wins:** *You obscure the path.* Same as above, but you name the Site.
 
-### Part 2: Cold Dish
-**Player A wins:** *Salt in the wounds.* Player B's main character starts Part 3 with a wound.
+### Part 2: Discovering
+**Player A wins:** *You reveal to the universe what you're seeking.* Name a **One of a Kind** equipment not in your deck as the Item and shuffle it into your deck for Part 3. *(Ignore play restrictions for the Item in Part 3.)*
 
-**Player B wins:** *Violence doesn't solve anything?* Your main character has **Violent** in Part 3.
+**Player B wins:** *You plant some intel about another option* Your main character has **Violent** in Part 3.
 
 ### Part 3: Final Showdown
 **Player A wins:** *This weakling deserves it!*
@@ -170,8 +170,8 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyNDU0ODEwLDYwOTk5OTMwLDExNzY2Nz
-M5NTQsLTEwNzIyMDI0MjEsLTEwMzg2NjE4NTMsLTExNjc0Njky
-MzEsLTE4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ
-==
+eyJoaXN0b3J5IjpbMTQzOTk1MDQwOSw2MDk5OTkzMCwxMTc2Nj
+czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
+MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
+0=
 -->
