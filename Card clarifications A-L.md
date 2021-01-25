@@ -2031,7 +2031,11 @@ Isabelle’s supporting character has this keyword. Enemy players can turn down 
 
 A **Battle of Wills** requires characters to bid how many power symbols they'll pay to take control of the Iso-Sphere. It works like this:
 
-The equipped character starts the bidding. (They can bid 0.) Then the next player either chooses a face-up character on their side to bid a higher number or passes. If they pass, they're out of the **Battle of Wills**. Then the next player goes, and so on until all but one player passes. Then that pl
+The equipped character starts the bidding. (They can bid 0.) Then the next player either chooses a face-up character on their side to bid a higher number or passes. If they pass, they're out of the **Battle of Wills**. Then the next player goes, and so on until all but one player passes. Then that player's character pays the winning number of power symbols from their resource row (no discarding from hand) and the Iso-Sphere is moved to that character (if it's not already there). 
+
+**Note:** A character can't bid a number they can't pay. once you choose a character as a bidder, you can't choose a different character to be your bidder in the same **Battle of Wills**.
+
+^(Source: Rule Insert)
 
 ^(Source: Rule insert)
 
@@ -2532,11 +2536,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM1MzgxODAsMTE4MDMyMDg5MCwtOT
-I0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5
-ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMj
-MxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMsMTQ5OTQyNjY4
-NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMj
-A1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMx
-MjgxXX0=
+eyJoaXN0b3J5IjpbMTI0ODA0Mjk1NSwxMTgwMzIwODkwLC05Mj
+Q4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4
+Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
+EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
+LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMD
+UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
+ODFdfQ==
 -->
