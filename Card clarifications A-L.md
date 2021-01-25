@@ -662,7 +662,9 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 # The Collector
 *Set: Crossover Vol. 3*
 
-**Upgrade the Collection** removes a card from the game. His **Collection** can only have one equipment, one plot twist, and one supporting character at a time. But once one is played from his **Collection
+**Upgrade the Collection** removes a card from the game. His **Collection** can only have one equipment, one plot twist, and one supporting character at a time. But once one is played from his **Collection**, he is free to add another card of that type to his Collection. **Note:** When he plays a card from his **Collection**, it can't be played as a resource.
+
+^(Source: Rule Insert)
 
 # [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
 *Set: The X-Files Battles*
@@ -2501,7 +2503,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzI2Mjk3MSwtNTAwOTg4ODExLDE0ND
+eyJoaXN0b3J5IjpbLTQ5OTQwNjU1MSwtNTAwOTg4ODExLDE0ND
 ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
 MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
 I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
