@@ -4,7 +4,7 @@
 In addition to the traditional game, there are some additional game modes (not to be confused with [formats](https://www.reddit.com/r/VS2PCG/wiki/events)). Many of the game modes below were introduced in the January 2021 "Crossover Volume 3" issue.
 
 # Battleworld
-Number of players: 2
+**Number of players:** 2
 
 Battleworld is a patchwork planet created by various cosmic entities over the years with various lands, or Domains, on it. There are 12 Battleworld Domains in this Issue.
 
@@ -15,7 +15,7 @@ Battleworld is a patchwork planet created by various cosmic entities over the ye
 **Mix Battleworld with:** Story Mode, Terrain
 
 # Boss Battle
-Number of players: 3
+**Number of players:** 3
 
 Previously, in the Monsters Unleashed set, we introduced the 2 vs. 1 “Leviathon Invasion” mode. We have expanded this way to play with five Boss Battles: the Leviathon Mother (updated), as well as Death, Fin Fang Foom, Thanos, and Ultron.
 
@@ -39,7 +39,22 @@ All other rules from Boss Battle remain the same, except you will need to random
 **Mix Boss vs. Boss with:** Battleworld, Story Mode, Terrain
 
 # Terrain
+**Number of players**: 2-4
 
+Terrain is an important part of almost every combat. We thought we would make some!
+
+**Setup**: Shuffle a set of 10 Terrain and place them face down in a pile. (As of this Issue, there is only one Terrain set: “City”.) After players reveal their main characters during setup, but before they draw their hands, each player draws a Terrain card and looks at it. Then the first player places their Terrain, with the rest of the players following in turn order. (Each Terrain will tell you which row it can be placed in. We suggest you turn it sideways in its row.) Then each player draws their hand and mulligans as normal.
+
+**Rules**: Terrain either affects each character in a row or one or two characters in a row.
+
+-   If a Terrain affects an entire row, its modifiers apply to each character in that row this game.
+    -   A character can be affected by more than one Terrain of this type.
+-   If a Terrain affects a specific amount of characters, during each player’s Formation Steps they can move the proper number of characters into or out of that Terrain. While a character is in that Terrain, its modifiers apply to those characters.
+    -   Characters in this type of Terrain should be physically touching the Terrain card.
+    -   You can leave this type of Terrain empty or partially full: you aren’t required to put characters in it.
+    -   A character can’t be in more than one Terrain of this type. (But it could be affected by a Terrain that affects an entire row and in one that affects only one character.)
+
+**Mix Terrain with:** Battleworld, Story Mode, Terrain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg2MjYxOF19
+eyJoaXN0b3J5IjpbODUyNTA4NTFdfQ==
 -->
