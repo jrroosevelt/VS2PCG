@@ -152,12 +152,12 @@ Player A's main character is on a quest for... something.
 ### Part 2: Discovering
 **Player A wins:** *You reveal to the universe what you're seeking.* Name a **One of a Kind** equipment not in your deck as the Item and shuffle it into your deck for Part 3. *(Ignore play restrictions for the Item in Part 3.)*
 
-**Player B wins:** *You plant some intel about another option* Your main character has **Violent** in Part 3.
+**Player B wins:** *You plant some intel about another option.* Same as above, but you name the Item.
 
-### Part 3: Final Showdown
-**Player A wins:** *This weakling deserves it!*
+### Part 3: Contesting
+**Player A Wins and Has Played a Copy of the Site and the Item this game:** *What do you do with your new unlimited cosmic power?*
 
-**Player B Wins:** *Do you strike the killing blow?*
+**Any Other Outcome:** *You've helped the universe dodge a gigantic, probably p*
 
 ## Story Mode: Galactic Game
 To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
@@ -170,7 +170,7 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTk1MDQwOSw2MDk5OTkzMCwxMTc2Nj
+eyJoaXN0b3J5IjpbLTYzMjcyMTM1Nyw2MDk5OTkzMCwxMTc2Nj
 czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
 MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
 0=
