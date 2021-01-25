@@ -1617,7 +1617,9 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 ## The Grandmaster - Illustrated MC
 *Set: Crossover Vol. 3*
 
-If the Grandmaster is your main character, you'll need to bring and shuffle your own Battleworld pile before the game. This
+If the Grandmaster is your main character, you'll need to bring and shuffle your own Battleworld pile before the game. This pile is private and contains your choice of 12 different Battleworld Domains. (Note that you will need a shuffled pile of the 10 Terrain - City cards as well.) When he uses **The Contest of Champions**, the game will enter the top Battleworld Domain of your pile (just as if you were playing with the Battleworld game mode).
+
+When any defending main character gets wounded, the game will leave that Domain (put the card into a discard pile next to the 
 
 ## [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg) - MCU SC
 *Set: Space & Time*  
@@ -2509,10 +2511,10 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTcyNTk2MCwtNTAwOTg4ODExLDE0ND
-ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
-MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
-I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
-NCwxMzQ0OTQwOTMwLC0yMDUxMjcwMTIyLC00Njk4MjU3LC0xMD
-g5MDM4MTczLDE3MDI3MzEyODFdfQ==
+eyJoaXN0b3J5IjpbLTExOTgwOTc3OTMsLTUwMDk4ODgxMSwxND
+QxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0
+MjIsMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNj
+cyNDI2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5
+ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1NywtMT
+A4OTAzODE3MywxNzAyNzMxMjgxXX0=
 -->
