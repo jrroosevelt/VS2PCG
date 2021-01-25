@@ -93,7 +93,9 @@ The first time **Bodyguard** uses its power Player B must announce that it (and 
 While on Player A's side, if this character wounds a defending main character, KO that main character.
 
 ### Infiltrator
-Once per turn, during Player A's Main Phase
+Once per turn, during Player A's Main Phase but not during combat, Player A may have this character make a melee attack (from Player B's side) against a main character *in its row*.
+
+Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it first.) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYwOTg0MjMsNTgyOTU2MzExXX0=
+eyJoaXN0b3J5IjpbMjAxNzQxNDcxMSw1ODI5NTYzMTFdfQ==
 -->
