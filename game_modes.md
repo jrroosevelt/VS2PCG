@@ -87,7 +87,13 @@ This story card grants secret powers that work like this:
 ### Bodyguard
 When a character attacks Player B's main character, Player B may remove that main character from combat and replace it with this character. If they do, switch their positions. 
 
-The first time **Bodyguard** uses its power
+The first time **Bodyguard** uses its power Player B must announce that it (and all copies of it they own) has **Bodyguard** while on Player B's side.
+
+### Deadly Assassin
+While on Player A's side, if this character wounds a defending main character, KO that main character.
+
+### Infiltrator
+Once per turn, during Player A's Main Phase
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDgzODU4NCw1ODI5NTYzMTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NTYwOTg0MjMsNTgyOTU2MzExXX0=
 -->
