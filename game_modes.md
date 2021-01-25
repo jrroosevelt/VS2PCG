@@ -187,9 +187,7 @@ characters on your side can use the locations where you have a marker as if they
 **Player B Wins:** *You get to go home. If home is still there.*
 
 ## Story Mode: Time Traveler
-When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
-
-**Take part against your will in an epic game on an artificial world.**
+**Travel to the past to try to change your pres**
 
 ### Setup
 Create a **Patchwork Planet.**
@@ -210,13 +208,15 @@ characters on your side can use the locations where you have a marker as if they
 
 **Player B wins:** *No one will stand in your way of winning, and getting back home.* Same as above.
 
+**Note:** When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
+
 ### Part 3: Now I'm Ready To Leave
 **Player A Wins:** *You won this whole thing. For whatever that's worth.*
 
 **Player B Wins:** *You get to go home. If home is still there.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTI5NjM0Myw2MDk5OTkzMCwxMTc2Nj
-czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
-MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
-0=
+eyJoaXN0b3J5IjpbLTExNDUxOTgzMDAsNjA5OTk5MzAsMTE3Nj
+Y3Mzk1NCwtMTA3MjIwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2
+OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV
+19
 -->
