@@ -199,16 +199,16 @@ Player A's main character is a time traveler.
 ### Part 2: Beyond Your Comprehension
 **Player A wins:** *Hard to believe this is the same planet. Time to unleash everything you got.* You start Part 3 with ten resources and resources can't appear on your side. During your Resource Step, you must KO a resource instead.
 
-**Player B wins:** *You barely survive. What's next?* Same as above, except Player A.
+**Player B wins:** *You barely survive. What's next?* Same as above, except Player A starts with seven resources.
 
-**Note:** When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
+**Note for both scenarios heading into Part 3:** When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
-### Part 3: Now I'm Ready To Leave
-**Player A Wins:** *You won this whole thing. For whatever that's worth.*
+### Part 3: Forever changed
+**Player A Wins:** *You have changed the past, but do you even remember doing it?* Play this story again.
 
-**Player B Wins:** *You get to go home. If home is still there.*
+**Player B Wins:** *You have halted this temporal incursion for now, but what's to stop it from happening again?* Play this story again.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIxNTQ1NjIsNjA5OTk5MzAsMTE3Nj
+eyJoaXN0b3J5IjpbLTExODUxODU2MjMsNjA5OTk5MzAsMTE3Nj
 Y3Mzk1NCwtMTA3MjIwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2
 OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV
 19
