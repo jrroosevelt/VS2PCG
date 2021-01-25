@@ -119,8 +119,7 @@ If it wounds the defending main character, KO that main character. If it fails t
 ### Part 1: A Hole in Your Heart
 **Player A wins:** *Did you go too far?* Choose a supporting character in Player B's KO pile. That character is dead for the rest of the story. *(Remove each copy of it from Player B's deck before part 2.)*
 
-
-**Player B wins:** *You detect some lurking enemies, and raise the alert level.* Secretly name a supporting character in your deck to be a **Bodyguard** for the rest of the story.
+**Player B wins:** *You can't save everyone.* Same as above.
 
 ### Part 2: Get Into Position
 **Player A wins:** *Your plan is to attack from all angles.* Secretly name a character in your deck to be a **Deadly Assassin** and a supporting character in Player B's deck to be an **Infiltrator** for Part 3.
@@ -144,7 +143,7 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTc1NzQ3NCwtMTAzODY2MTg1MywtMT
+eyJoaXN0b3J5IjpbLTgzNTY1ODA4OCwtMTAzODY2MTg1MywtMT
 E2NzQ2OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1
 NjMxMV19
 -->
