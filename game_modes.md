@@ -8,7 +8,7 @@ Number of players: 2
 
 Battleworld is a patchwork planet created by various cosmic entities over the years with various lands, or Domains, on it. There are 12 Battleworld Domains in the Crossover Vol. 3 issue.
 
-**Setup:**
+**Setup:** Shuffle 12 different random Battleworld 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ4Njg0MDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MzU1NDQ2NzFdfQ==
 -->
