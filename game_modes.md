@@ -172,16 +172,16 @@ Shuffle the nine locations and deal them out into a face-up 3x3 grid to the side
 characters on your side can use the locations where you have a marker as if they were in your resource row. When a location is used this way, turn it face down. (Turn it face up at the start of the next Part.)
 
 ### Part 1: Where Are We?
-**Player A wins:** *You'll play their little game. And win.* Add a marker to a location adjcent to your marked location on the **Patchwork Planet**.
+**Player A wins:** *You'll play their little game. And win.* Add a marker to a location adjacent to your marked location on the **Patchwork Planet**.
 
-**Player B wins:** *What kind of twisted place is this? W* Same as above, but you name the Site.
+**Player B wins:** *What kind of twisted place is this? Well you're not gonna back down* Same as above.
 
-### Part 2: Discovering
-**Player A wins:** *You reveal to the universe what you're seeking.* Name a **One of a Kind** equipment not in your deck as the Item and shuffle it into your deck for Part 3. *(Ignore play restrictions for the Item in Part 3.)*
+### Part 2: This Place Seems Familiar
+**Player A wins:** *You're starting to get the hang of this. And you sort of like it.* Add two markers, one at a time, to any unmarked locations adjacent to one of your marked locations.
 
-**Player B wins:** *You plant some intel about another option.* Same as above, but you name the Item.
+**Player B wins:** *No one will stand in your way of winning, and getting back home.* Same as above.
 
-### Part 3: Contesting
+### Part 3: Now I
 **Player A Wins and Has Played a Copy of the Site and the Item this game:** *What do you do with your new unlimited cosmic power?*
 
 **Any Other Outcome:** *You've helped the universe dodge a gigantic, probably purple, bullet.*
@@ -192,8 +192,8 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNTQ0NDQ5LDYwOTk5OTMwLDExNzY2Nz
-M5NTQsLTEwNzIyMDI0MjEsLTEwMzg2NjE4NTMsLTExNjc0Njky
-MzEsLTE4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ
-==
+eyJoaXN0b3J5IjpbLTE3NjA5MTEzMjYsNjA5OTk5MzAsMTE3Nj
+Y3Mzk1NCwtMTA3MjIwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2
+OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV
+19
 -->
