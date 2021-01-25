@@ -117,6 +117,7 @@ If it wounds the defending main character, KO that main character. If it fails t
 
 ## Story Mode: Death of a Loved One
 
+
 ## Story Mode: Galactic Game
 To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
 
@@ -128,6 +129,6 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc0NjkyMzEsLTE4MjIwMzk4NTMsMT
-c5NTY5Nzg5Myw1ODI5NTYzMTFdfQ==
+eyJoaXN0b3J5IjpbLTEwMzg2NjE4NTMsLTExNjc0NjkyMzEsLT
+E4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ==
 -->
