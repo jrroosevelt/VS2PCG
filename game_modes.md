@@ -1,7 +1,7 @@
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 # Game modes
 
-In addition to the traditional game, there are some additional game modes (not to be confused with formats). Many of the game modes below were introduced in the January 2021 "Crossover Volume 3" issue.
+In addition to the traditional game, there are some additional game modes (not to be confused with [formats](https://www.reddit.com/r/VS2PCG/wiki/events)). Many of the game modes below were introduced in the January 2021 "Crossover Volume 3" issue.
 
 # Battleworld
 Number of players: 2
@@ -36,7 +36,10 @@ For a truly gargantuan fight, two players can each choose a Boss and throw down 
 
 All other rules from Boss Battle remain the same, except you will need to randomize the first player, who *will* skip drawing cards during their first Draw Phase.
 
-**Mix Boss 
+**Mix Boss vs. Boss with:** Battleworld, Story Mode, Terrain
+
+# Terrain
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTI3MTY5OV19
+eyJoaXN0b3J5IjpbLTE1MDg2MjYxOF19
 -->
