@@ -194,12 +194,12 @@ Player A's main character is a time traveler.
 ### Part 1: Arrival
 **Player A wins:** *Your advanced technology and knowledge help you win easily. Now you can show your true self.* Your main character starts Part 2 at Level 2.
 
-**Player B wins:** *Now you have some experience with this time travel stuff.* Yo.
+**Player B wins:** *Now you have some experience with this time travel stuff.* Your main character starts Part 2 with 1 XP.
 
-### Part 2: This Place Seems Familiar
-**Player A wins:** *You're starting to get the hang of this. And you sort of like it.* Add two markers, one at a time, to any unmarked locations adjacent to one of your marked locations.
+### Part 2: Beyond Your Comprehension
+**Player A wins:** *Hard to believe this is the same planet. Time to unleash everything you got.* You start Part 3 with ten resources and resources can't appear on your side. During your Resource Step, you must KO a resource instead.
 
-**Player B wins:** *No one will stand in your way of winning, and getting back home.* Same as above.
+**Player B wins:** *You barely survive. What's next?* Same as above, except Player A.
 
 **Note:** When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
@@ -208,8 +208,8 @@ Player A's main character is a time traveler.
 
 **Player B Wins:** *You get to go home. If home is still there.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDQ2NDI1Nyw2MDk5OTkzMCwxMTc2Nj
-czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
-MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
-0=
+eyJoaXN0b3J5IjpbLTE0OTIxNTQ1NjIsNjA5OTk5MzAsMTE3Nj
+Y3Mzk1NCwtMTA3MjIwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2
+OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV
+19
 -->
