@@ -1617,7 +1617,7 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 ## The Grandmaster - Illustrated MC
 *Set: Crossover Vol. 3*
 
-If the Grandmaster is your main character, you'll need to bring and shuffle your own Battleworld pile before the game. This pile is private and contains your choice of 12 different Battleworld Domains. (Note that you will need a shuffled pile of the 10 Terrain - City cards as well.) When he uses **The Contest of Champions**, the game will enter the top xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Domain of your pile (just as if you were playing with the Battleworld game mode).
+If the Grandmaster is your main character, you'll need to bring and shuffle your own Battleworld pile before the game. This pile is private and contains your choice of 12 different Battleworld Domains. (Note that you will need a shuffled pile of the 10 Terrain - City cards as well.) When he uses **The Contest of Champions**, the game will enter the top Domain of your pile (just as if you were playing with the Battleworld game mode).
 
 When any defending main character gets wounded, the game will leave that Domain (put the card into a discard pile next to the Battleworld pile). It will NOT automatically enter a new one.
 
@@ -2517,10 +2517,10 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDEyODEzMDYsLTkyNDgzNjkyLC01MD
-A5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQw
-MiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3Mz
-MzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIx
-NSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAxMjIsLT
-Q2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4MV19
+eyJoaXN0b3J5IjpbMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMD
+k4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAy
+LDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMz
+MxNDU3LC0yNjcyNDI2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1
+LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtND
+Y5ODI1NywtMTA4OTAzODE3MywxNzAyNzMxMjgxXX0=
 -->
