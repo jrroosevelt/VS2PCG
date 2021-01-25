@@ -100,7 +100,13 @@ Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it 
 If it wounds the defending main character, KO that main character. If it fails to wound the defending main character, KO the **Infiltrator**, the first time each of those characters attacks Player B's main character this game, Player A must announce that it (and all copies of it owned by the relevant player) has that power. This announcement happens before any effects (such as **Bodyguard**) trigger from starting the attack.
 
 ### Galactic Game
-To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific 
+To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
+
+Shuffle the nine locations and deal them out into a face-up 3x3 grid to the side of the game. Each player puts a marker (try Wound and XP counters) on their "wild" location.
+
+characters on your side can use the locations where you have a marker as if they were in your resource row. When a location is used this way, turn it face down. (Turn it face up at the start of the next Part.)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1MzUwMjM4LDU4Mjk1NjMxMV19
+eyJoaXN0b3J5IjpbODMzNzk1OTcwLDU4Mjk1NjMxMV19
 -->
