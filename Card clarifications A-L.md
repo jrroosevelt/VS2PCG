@@ -2027,10 +2027,11 @@ Isabelle’s supporting character has this keyword. Enemy players can turn down 
 ^(Source: Rule insert)
 
 # Iso-Sphere
-*Set: The Predator Battles*  
+*Set: Crossover Vol. 3*  
 
-**Sniper Nest**   
-Isabelle’s supporting character has this keyword. Enemy players can turn down any Location with an ![](%%Energy%%) (Energy), including their “wild” Location, to turn off this effect for a turn.
+A **Battle of Wills** requires characters to bid how many power symbols they'll pay to take control of the Iso-Sphere. It works like this:
+
+The equipped character starts the bidding. (They can bid 0.) Then the next player either chooses a face-up character on their side to bid a higher number or passes. If they pass, they're out of the **Battle of Wills**. Then the next player goes, and so on until all but one player passes. Then that pl
 
 ^(Source: Rule insert)
 
@@ -2531,11 +2532,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUxNTA1MCwxMTgwMzIwODkwLC05Mj
-Q4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4
-Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
-EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
-LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMD
-UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzM1MzgxODAsMTE4MDMyMDg5MCwtOT
+I0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5
+ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMj
+MxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMsMTQ5OTQyNjY4
+NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkzMCwtMj
+A1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3MywxNzAyNzMx
+MjgxXX0=
 -->
