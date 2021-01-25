@@ -100,15 +100,15 @@ Play a series of multiple Stories in a “Storyline”! Play them in a random or
 ### Assassination Plot clarifications
 This story card grants secret powers that work like this:
 
-### Bodyguard
+#### Bodyguard
 When a character attacks Player B's main character, Player B may remove that main character from combat and replace it with this character. If they do, switch their positions. 
 
 The first time **Bodyguard** uses its power Player B must announce that it (and all copies of it they own) has **Bodyguard** while on Player B's side.
 
-### Deadly Assassin
+#### Deadly Assassin
 While on Player A's side, if this character wounds a defending main character, KO that main character.
 
-### Infiltrator
+#### Infiltrator
 Once per turn, during Player A's Main Phase but not during combat, Player A may have this character make a melee attack (from Player B's side) against a main character *in its row*.
 
 Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it first.) During the attack, it counts as being on PLayer A's side for the purposes of plot twists, super powers, and power ups.
@@ -128,6 +128,6 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgxOTgxMDQsLTE4MjIwMzk4NTMsMT
+eyJoaXN0b3J5IjpbLTExNjc0NjkyMzEsLTE4MjIwMzk4NTMsMT
 c5NTY5Nzg5Myw1ODI5NTYzMTFdfQ==
 -->
