@@ -54,7 +54,12 @@ Terrain is an important part of almost every combat. We thought we would make so
     -   You can leave this type of Terrain empty or partially full: you aren’t required to put characters in it.
     -   A character can’t be in more than one Terrain of this type. (But it could be affected by a Terrain that affects an entire row and in one that affects only one character.)
 
-**Mix Terrain with:** Battleworld, Story Mode, Terrain
+**Mix Terrain with:** Battleworld, Story Mode, Boss battle
+
+## Terrain Option: Multi-draw
+For more strategic gameplay, players can draw two Terrain cards (or more) during setup and choose the one they prefer.
+
+# Story Mode
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNTA4NTFdfQ==
+eyJoaXN0b3J5IjpbLTk3MTM3MDk1OF19
 -->
