@@ -1613,7 +1613,13 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 
 ^(Source: Rule insert)
 
-# [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg)
+# The Grandmaster
+## The Grandmaster - Illustrated MC
+*Set: Crossover Vol. 3*
+
+If the Grandmaster is your main character, you'll need to bring and shuffle your own Battleworld pile before the game. This
+
+## [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg) - MCU SC
 *Set: Space & Time*  
 
 **Who's Having Fun?** put a +1/+1 counter on two different Supporting Characters. If you have one, you'll have to put a +1/+1 on an enemy Supporting Character if possible. With **Contest of Champions** you can choose any two Supporting Characters, even two on the same side.
@@ -2503,7 +2509,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTQwNjU1MSwtNTAwOTg4ODExLDE0ND
+eyJoaXN0b3J5IjpbMTM4OTcyNTk2MCwtNTAwOTg4ODExLDE0ND
 ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
 MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
 I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
