@@ -116,6 +116,7 @@ Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it 
 If it wounds the defending main character, KO that main character. If it fails to wound the defending main character, KO the **Infiltrator**, the first time each of those characters attacks Player B's main character this game, Player A must announce that it (and all copies of it owned by the relevant player) has that power. This announcement happens before any effects (such as **Bodyguard**) trigger from starting the attack.
 
 ## Story Mode: Death of a Loved One
+*
 ### Part 1: A Hole in Your Heart
 **Player A wins:** *Did you go too far?* Choose a supporting character in Player B's KO pile. That character is dead for the rest of the story. *(Remove each copy of it from Player B's deck before part 2.)*
 
@@ -143,7 +144,7 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTY1ODA4OCwtMTAzODY2MTg1MywtMT
-E2NzQ2OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1
-NjMxMV19
+eyJoaXN0b3J5IjpbLTExMzIzMTY1MTgsLTEwMzg2NjE4NTMsLT
+ExNjc0NjkyMzEsLTE4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5
+NTYzMTFdfQ==
 -->
