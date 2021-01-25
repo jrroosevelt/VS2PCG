@@ -31,6 +31,9 @@ Previously, in the Monsters Unleashed set, we introduced the 2 vs. 1 “Leviatho
 
 ** Mix Boss Battles with:** Terrain
 
+## Ultron Boss clarification
+The Ultron player has a Perfection pile for the game, which is exactly one copy of the Perfection Battleworld Domain. When Ultron has the game enter Perfection, the game will leave any other Domain it was in. When a defending main character gets wounded, the game will leave Perfection (it goes back to its Perfection pile). But if Ultron plays The Vault or Sokovia again, he can have the game enter Perfection again.
+
 ## Boss Battles Option: Boss vs. Boss
 For a truly gargantuan fight, two players can each choose a Boss and throw down in a **Boss vs. Boss** Battle!
 
@@ -208,8 +211,8 @@ Player A's main character is a time traveler.
 
 **Player B Wins:** *You have halted this temporal incursion for now, but what's to stop it from happening again?* Play this story again.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUxODU2MjMsNjA5OTk5MzAsMTE3Nj
-Y3Mzk1NCwtMTA3MjIwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2
-OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV
-19
+eyJoaXN0b3J5IjpbLTU2Mjk1Mjc2OCw2MDk5OTkzMCwxMTc2Nj
+czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
+MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
+0=
 -->
