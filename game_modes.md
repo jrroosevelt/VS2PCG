@@ -97,7 +97,10 @@ Once per turn, during Player A's Main Phase but not during combat, Player A may 
 
 Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it first.) During the attack, it counts as being on PLayer A's side for the purposes of plot twists, super powers, and power ups.
 
-If it wounds the defending main character, KO that main character. If it fails to wound the defending main character, KO the **Infiltrator**, the first time each of those characters attacks Player B's main character this game, Player A must announce that it (and all copies of it owned by the relevant player) has that power. This announcement happens before any effects (such as **Bodyguard
+If it wounds the defending main character, KO that main character. If it fails to wound the defending main character, KO the **Infiltrator**, the first time each of those characters attacks Player B's main character this game, Player A must announce that it (and all copies of it owned by the relevant player) has that power. This announcement happens before any effects (such as **Bodyguard**) trigger from starting the attack.
+
+### Galactic Game
+To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MzY2MzE1LDU4Mjk1NjMxMV19
+eyJoaXN0b3J5IjpbOTQ1MzUwMjM4LDU4Mjk1NjMxMV19
 -->
