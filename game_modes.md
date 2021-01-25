@@ -29,7 +29,14 @@ Previously, in the Monsters Unleashed set, we introduced the 2 vs. 1 “Leviatho
 -   The Boss player only wins by KOing the other two players’ Main Characters.
 -   The other two players only win by KOing the Boss.
 
-** Mix Boss Battles with: Terrain
+** Mix Boss Battles with:** Terrain
+
+## Boss Battles Option: Boss vs. Boss
+For a truly gargantuan fight, two players can each choose a Boss and throw down in a **Boss vs. Boss** Battle!
+
+All other rules from Boss Battle remain the same, except you will need to randomize the first player, who *will* skip drawing cards during their first Draw Phase.
+
+**Mix Boss 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTQyMjc2N119
+eyJoaXN0b3J5IjpbLTYzOTI3MTY5OV19
 -->
