@@ -107,8 +107,8 @@ Shuffle the nine locations and deal them out into a face-up 3x3 grid to the side
 characters on your side can use the locations where you have a marker as if they were in your resource row. When a location is used this way, turn it face down. (Turn it face up at the start of the next Part.)
 
 ## Story Mode: Time Traveler
-When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck 
+When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkzODIwMDMsNTgyOTU2MzExXX0=
+eyJoaXN0b3J5IjpbMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ==
 -->
