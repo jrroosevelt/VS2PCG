@@ -2037,8 +2037,6 @@ The equipped character starts the bidding. (They can bid 0.) Then the next playe
 
 ^(Source: Rule Insert)
 
-^(Source: Rule insert)
-
 # [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg)
 *Set: Galactic Guardians*  
 
@@ -2536,11 +2534,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODA0Mjk1NSwxMTgwMzIwODkwLC05Mj
-Q4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4
-Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
-EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
-LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMwLC0yMD
-UxMjcwMTIyLC00Njk4MjU3LC0xMDg5MDM4MTczLDE3MDI3MzEy
-ODFdfQ==
+eyJoaXN0b3J5IjpbNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyND
+gzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgy
+LDYwNDQ0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMT
+AzNSwtMTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUs
+LTc2NTcxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNT
+EyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4
+MV19
 -->
