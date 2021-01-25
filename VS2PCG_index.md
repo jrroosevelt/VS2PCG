@@ -79,7 +79,7 @@ Official changes to card wording.  The wording in this document is used in tourn
 Online play is generally done using Skype or some other video chat application[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  Digital recreation of the VS System 2PCG cards is discouraged by Upper Deck as they are only licensed to use Marvel images and do not own them[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  In the interest of keeping the game going, we do not condone digital recreation of the cards[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  Feel free to contact a mod (like u/LogicBalm) privately for more details or just to play a game or two[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  Don't forget about the [Collective](https://www.facebook.com/groups/860168987351982/) and the [Discord](https://discordapp.com/invite/MsSCTdq).  Between those two communities and this sub, finding someone to play over Skype is rarely difficult, just requires some coordination.
 
 ## **Rules Variants and Game Modes**
-Alternate game modes (many introduced in Crossover Vol. 3)
+[Alternate game modes (many introduced in Crossover Vol. 3)](/r/VS2PCG/wiki/game_modes)
 
 [Official rules variants from Super Awesome Games](https://www.reddit.com/r/VS2PCG/comments/6n3v94/official_vs_2pcg_casual_scenarios/)
 
@@ -121,6 +121,6 @@ Email qa@upperdeck.com if you buy a box that you discover is missing any cards. 
 
 * In the Friendly Neighborhood set, released in March 2020, the L1 Main Character [Mysterio card was misprinted](https://www.upperdeckblog.com/2020/03/vs-system-2pcg-friendly-neighborhood-card-preview-mysterious/?fbclid=IwAR0Fuo-OuTRNMy2Urd5l-wLPZtrnAg4Nsx70IBAonWCNN72WcPEgBMUvWlA).  Reach out to qa@upperdeck.com for a corrected copy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYyMDMxOTQsMTAwNTY5MDA3NSwtMT
-Y2MjA5MDc4MV19
+eyJoaXN0b3J5IjpbMjAzMDM2MjI5OSwxMDA1NjkwMDc1LC0xNj
+YyMDkwNzgxXX0=
 -->
