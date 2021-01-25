@@ -60,6 +60,25 @@ Terrain is an important part of almost every combat. We thought we would make so
 For more strategic gameplay, players can draw two Terrain cards (or more) during setup and choose the one they prefer.
 
 # Story Mode
+**Number of players:** 2
+
+In Story Mode, players will play through a series of three games (called Parts) with the same decks, gaining an advantage for each game they win. And Part 3 is winner-take-all!
+
+**Setup**: Choose a Story Mode card, either randomly or by consulting the “Story Complexity” list below, then choose a player to be Player A for the Story.
+
+**Story Complexity**  (from least to most complex):
+
+Death of a Loved One, Epic Quest, Time Traveler, Galactic Game, Assassination Plot
+
+In some Stories, Player A has an advantage, and in some Player B has an advantage. You’ll discover the best one for your matchup of player skill and deck strength.
+
+We suggest you first try Story Mode with decks you have already built, but you might want to build decks especially for particular Stories after you’ve tried them a few times.
+
+**Rules**: Player A always goes first in Part 1, then the winner of each Part goes first in the next Part. After each Part is over, simply follow the directions on the Story Mode card for whichever player wins.
+
+That’s all there is to it! There are 5 unique Stories that come in the Issue, and we already have ideas for more!
+
+**Option:** Play a series of multiple Stories in a “Storyline”! Play them in a random order or choose an order that tells the best story for you! The winner of Part 3 of each Story becomes Player A for the next Story.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTM3MDk1OF19
+eyJoaXN0b3J5IjpbMzU3NDY3OTI2XX0=
 -->
