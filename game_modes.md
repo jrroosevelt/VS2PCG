@@ -157,21 +157,36 @@ Player A's main character is on a quest for... something.
 ### Part 3: Contesting
 **Player A Wins and Has Played a Copy of the Site and the Item this game:** *What do you do with your new unlimited cosmic power?*
 
-**Any Other Outcome:** *You've helped the universe dodge a gigantic, probably p*
+**Any Other Outcome:** *You've helped the universe dodge a gigantic, probably purple, bullet.*
 
 ## Story Mode: Galactic Game
-To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
+**Take part against your will in an epic game on an artificial world.**
 
-Shuffle the nine locations and deal them out into a face-up 3x3 grid to the side of the game. Each player puts a marker (try Wound and XP counters) on their "wild" location.
+Player A's main character is on a quest for... something.
 
-characters on your side can use the locations where you have a marker as if they were in your resource row. When a location is used this way, turn it face down. (Turn it face up at the start of the next Part.)
+### Part 1: Searching
+**Player A wins:** *You finally know where it is.* Name a location in your deck as the Site.
+
+**Player B wins:** *You obscure the path.* Same as above, but you name the Site.
+
+### Part 2: Discovering
+**Player A wins:** *You reveal to the universe what you're seeking.* Name a **One of a Kind** equipment not in your deck as the Item and shuffle it into your deck for Part 3. *(Ignore play restrictions for the Item in Part 3.)*
+
+**Player B wins:** *You plant some intel about another option.* Same as above, but you name the Item.
+
+### Part 3: Contesting
+**Player A Wins and Has Played a Copy of the Site and the Item this game:** *What do you do with your new unlimited cosmic power?*
+
+**Any Other Outcome:** *You've helped the universe dodge a gigantic, probably purple, bullet.*
+
+
 
 ## Story Mode: Time Traveler
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjcyMTM1Nyw2MDk5OTkzMCwxMTc2Nj
-czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
-MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
-0=
+eyJoaXN0b3J5IjpbMzU1NTU1MDM4LDYwOTk5OTMwLDExNzY2Nz
+M5NTQsLTEwNzIyMDI0MjEsLTEwMzg2NjE4NTMsLTExNjc0Njky
+MzEsLTE4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ
+==
 -->
