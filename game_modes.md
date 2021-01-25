@@ -162,12 +162,19 @@ Player A's main character is on a quest for... something.
 ## Story Mode: Galactic Game
 **Take part against your will in an epic game on an artificial world.**
 
-Player A's main character is on a quest for... something.
+### Setup
+Create a **Patchwork Planet.**
 
-### Part 1: Searching
-**Player A wins:** *You finally know where it is.* Name a location in your deck as the Site.
+To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
 
-**Player B wins:** *You obscure the path.* Same as above, but you name the Site.
+Shuffle the nine locations and deal them out into a face-up 3x3 grid to the side of the game. Each player puts a marker (try Wound and XP counters) on their "wild" location.
+
+characters on your side can use the locations where you have a marker as if they were in your resource row. When a location is used this way, turn it face down. (Turn it face up at the start of the next Part.)
+
+### Part 1: Where Are We?
+**Player A wins:** *You'll play their little game. And win.* Add a marker to a location adjcent to your marked location on the **Patchwork Planet**.
+
+**Player B wins:** *What kind of twisted place is this? W* Same as above, but you name the Site.
 
 ### Part 2: Discovering
 **Player A wins:** *You reveal to the universe what you're seeking.* Name a **One of a Kind** equipment not in your deck as the Item and shuffle it into your deck for Part 3. *(Ignore play restrictions for the Item in Part 3.)*
@@ -185,7 +192,7 @@ Player A's main character is on a quest for... something.
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NTU1MDM4LDYwOTk5OTMwLDExNzY2Nz
+eyJoaXN0b3J5IjpbNjkxNTQ0NDQ5LDYwOTk5OTMwLDExNzY2Nz
 M5NTQsLTEwNzIyMDI0MjEsLTEwMzg2NjE4NTMsLTExNjc0Njky
 MzEsLTE4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ
 ==
