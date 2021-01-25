@@ -204,14 +204,14 @@ Player A's main character is a time traveler.
 
 **Player B wins:** *You barely survive. What's next?* Same as above, except Player A starts with seven resources.
 
-**Note for both scenarios heading into Part 3:** When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
+**Note for both scenarios heading into Part 3:** When you set up the game for Part 3, after both players are done taking a mulligan (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 ### Part 3: Forever changed
 **Player A Wins:** *You have changed the past, but do you even remember doing it?* Play this story again.
 
 **Player B Wins:** *You have halted this temporal incursion for now, but what's to stop it from happening again?* Play this story again.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Mjk1Mjc2OCw2MDk5OTkzMCwxMTc2Nj
+eyJoaXN0b3J5IjpbLTU1NjA0MTI3OSw2MDk5OTkzMCwxMTc2Nj
 czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
 MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
 0=
