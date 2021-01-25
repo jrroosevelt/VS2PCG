@@ -82,6 +82,9 @@ We suggest you first try Story Mode with decks you have already built, but you m
 Play a series of multiple Stories in a “Storyline”! Play them in a random order or choose an order that tells the best story for you! The winner of Part 3 of each Story becomes Player A for the next Story.
 
 ## Story Mode: Assassination Plot
+* **Part 1: Create the Plan** 
+
+
 This story card grants secret powers that work like this:
 
 ### Bodyguard
@@ -99,6 +102,8 @@ Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it 
 
 If it wounds the defending main character, KO that main character. If it fails to wound the defending main character, KO the **Infiltrator**, the first time each of those characters attacks Player B's main character this game, Player A must announce that it (and all copies of it owned by the relevant player) has that power. This announcement happens before any effects (such as **Bodyguard**) trigger from starting the attack.
 
+## Story Mode: Death of a Loved One
+
 ## Story Mode: Galactic Game
 To build a **Patchwork Planet**, take nine locations - one of each of the six Basic types, one "wild" Special Location for each main character, and one random Special Location that doesn't produce power symbols (like Wakanda). (If a main character doesn't have a "wile" they choose a specific Basic Location.)
 
@@ -110,5 +115,6 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ==
+eyJoaXN0b3J5IjpbLTc4NTgyOTQ5MSwxNzk1Njk3ODkzLDU4Mj
+k1NjMxMV19
 -->
