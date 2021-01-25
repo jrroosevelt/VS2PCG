@@ -76,9 +76,8 @@ We suggest you first try Story Mode with decks you have already built, but you m
 
 **Rules**: Player A always goes first in Part 1, then the winner of each Part goes first in the next Part. After each Part is over, simply follow the directions on the Story Mode card for whichever player wins.
 
-That’s all there is to it! There are 5 unique Stories that come in the Issue, and we already have ideas for more!
-
-**Option:** Play a series of multiple Stories in a “Storyline”! Play them in a random order or choose an order that tells the best story for you! The winner of Part 3 of each Story becomes Player A for the next Story.
+## Story Mode Option: Storyline
+Play a series of multiple Stories in a “Storyline”! Play them in a random order or choose an order that tells the best story for you! The winner of Part 3 of each Story becomes Player A for the next Story.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NDY3OTI2XX0=
+eyJoaXN0b3J5IjpbNTgyOTU2MzExXX0=
 -->
