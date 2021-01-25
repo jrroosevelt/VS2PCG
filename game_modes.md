@@ -95,7 +95,9 @@ While on Player A's side, if this character wounds a defending main character, K
 ### Infiltrator
 Once per turn, during Player A's Main Phase but not during combat, Player A may have this character make a melee attack (from Player B's side) against a main character *in its row*.
 
-Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it first.) 
+Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it first.) During the attack, it counts as being on PLayer A's side for the purposes of plot twists, super powers, and power ups.
+
+If it wounds the defending main character, KO that main character. If it fails to wound the defending main character, KO the **Infiltrator**, the first time each of those characters attacks Player B's main character this game, Player A must announce that it (and all copies of it owned by the relevant player) has that power. This announcement happens before any effects (such as **Bodyguard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzQxNDcxMSw1ODI5NTYzMTFdfQ==
+eyJoaXN0b3J5IjpbMjg5MzY2MzE1LDU4Mjk1NjMxMV19
 -->
