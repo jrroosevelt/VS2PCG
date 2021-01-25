@@ -130,10 +130,10 @@ Player A's main character is a killer.
 
 **Player B wins:** *Violence doesn't solve anything?* Your main character has **Violent** in Part 3.
 
-### Part 3: Execute the Plan
-**Player A wins:** *You have eliminated a true fiend!*
+### Part 3: Final Showdown
+**Player A wins:** *This weakling deserves it!*
 
-**Player B Wins:** *You have defended your leader!*
+**Player B Wins:** *Do you strike the killing blow?*
 
 
 ## Story Mode: Galactic Game
@@ -147,7 +147,7 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjY3Mzk1NCwtMTA3MjIwMjQyMSwtMT
-AzODY2MTg1MywtMTE2NzQ2OTIzMSwtMTgyMjAzOTg1MywxNzk1
-Njk3ODkzLDU4Mjk1NjMxMV19
+eyJoaXN0b3J5IjpbLTcxODc1NjE0NywxMTc2NjczOTU0LC0xMD
+cyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5MjMxLC0xODIy
+MDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX0=
 -->
