@@ -116,6 +116,21 @@ Exhaust the **Infiltrator** to start the attack. (If it was exhausted, ready it 
 If it wounds the defending main character, KO that main character. If it fails to wound the defending main character, KO the **Infiltrator**, the first time each of those characters attacks Player B's main character this game, Player A must announce that it (and all copies of it owned by the relevant player) has that power. This announcement happens before any effects (such as **Bodyguard**) trigger from starting the attack.
 
 ## Story Mode: Death of a Loved One
+### Part 1: A Hole in Your Heart
+**Player A wins:** *Did you go too far?* Choose a supporting character in Player B's KO pile. That character is dead for the rest of the story. *(Remove each copy of it from Player B's deck before part 2.)*
+
+
+**Player B wins:** *You detect some lurking enemies, and raise the alert level.* Secretly name a supporting character in your deck to be a **Bodyguard** for the rest of the story.
+
+### Part 2: Get Into Position
+**Player A wins:** *Your plan is to attack from all angles.* Secretly name a character in your deck to be a **Deadly Assassin** and a supporting character in Player B's deck to be an **Infiltrator** for Part 3.
+
+**Player B wins:** *You've repelled an attempt to turn your closest advisors. But the danger persists.* Player A secretly names a supporting character in their deck to be a **Deadly Assassin** for Part 3.
+
+### Part 3: Execute the Plan
+**Player A wins:** *You have eliminated a true fiend!*
+
+**Player B Wins:** *You have defended your leader!*
 
 
 ## Story Mode: Galactic Game
@@ -129,6 +144,7 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg2NjE4NTMsLTExNjc0NjkyMzEsLT
-E4MjIwMzk4NTMsMTc5NTY5Nzg5Myw1ODI5NTYzMTFdfQ==
+eyJoaXN0b3J5IjpbMTM1MTc1NzQ3NCwtMTAzODY2MTg1MywtMT
+E2NzQ2OTIzMSwtMTgyMjAzOTg1MywxNzk1Njk3ODkzLDU4Mjk1
+NjMxMV19
 -->
