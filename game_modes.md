@@ -82,6 +82,10 @@ We suggest you first try Story Mode with decks you have already built, but you m
 Play a series of multiple Stories in a “Storyline”! Play them in a random order or choose an order that tells the best story for you! The winner of Part 3 of each Story becomes Player A for the next Story.
 
 ## Story Mode: Assassination Plot
+**Sneak into the enemy headquarters and kill their leader.**
+
+Player A's main character is trying to kill Player B's main character.
+
 ### Part 1: Create the Plan
 **Player A wins:** *You're able to scope out the layout of the enemy HQ.* For part 2 you start with two extra cards.
 
@@ -147,7 +151,7 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODc1NjE0NywxMTc2NjczOTU0LC0xMD
-cyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5MjMxLC0xODIy
-MDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX0=
+eyJoaXN0b3J5IjpbNjA5OTk5MzAsMTE3NjY3Mzk1NCwtMTA3Mj
+IwMjQyMSwtMTAzODY2MTg1MywtMTE2NzQ2OTIzMSwtMTgyMjAz
+OTg1MywxNzk1Njk3ODkzLDU4Mjk1NjMxMV19
 -->
