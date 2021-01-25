@@ -82,7 +82,10 @@ We suggest you first try Story Mode with decks you have already built, but you m
 Play a series of multiple Stories in a “Storyline”! Play them in a random order or choose an order that tells the best story for you! The winner of Part 3 of each Story becomes Player A for the next Story.
 
 ## Story Mode: Assassination Plot
-* **Part 1: Create the Plan** 
+### Part 1: Create the Plan
+**Player A wins:** you're able to scope out the layout of the enemy HQ. For part 2 you start with two extra cards.
+
+**Player B wins:** You detect some lurking enemies, and raise the alert level. Secretly name a supporting character in your deck to be a **Bodyguard** for the rest of the story.
 
 
 This story card grants secret powers that work like this:
@@ -115,6 +118,6 @@ characters on your side can use the locations where you have a marker as if they
 When you set up the game for Part 3, after both players are done mulliganing (if necessary), Player A puts the top ten or seven cards from their deck into their resource row. If any of these are locations, turn them face up.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTgyOTQ5MSwxNzk1Njk3ODkzLDU4Mj
-k1NjMxMV19
+eyJoaXN0b3J5IjpbLTE3Njc1OTkxODAsMTc5NTY5Nzg5Myw1OD
+I5NTYzMTFdfQ==
 -->
