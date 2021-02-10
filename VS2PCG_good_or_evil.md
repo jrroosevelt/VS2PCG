@@ -17,6 +17,7 @@ Here are the current Good or Evil categorizations:
 * Inhumans
 * Monsters Unleashed
 * Prey
+* Red Team
 * Resistance
 * S.H.I.E.L.D.
 * Spider-Friends
@@ -35,6 +36,7 @@ Here are the current Good or Evil categorizations:
 * Super Villains
 * Underworld
 * Xenomorphs
+* Yellow Team
 
 ### Neither Good nor Evil
 * Omega Level Mutants
@@ -52,7 +54,7 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQxNTY0MjgsMTE4MDk0NzMxNSwtMT
-kwNDI3NTIzOSwtMTkwNDI3NTIzOSw3MjIyNzE3NjMsLTE5Njc2
-OTUxMCwxMzE5NzE3NjA4XX0=
+eyJoaXN0b3J5IjpbMTAxNjY0NzY3NSwtMTI5NDE1NjQyOCwxMT
+gwOTQ3MzE1LC0xOTA0Mjc1MjM5LC0xOTA0Mjc1MjM5LDcyMjI3
+MTc2MywtMTk2NzY5NTEwLDEzMTk3MTc2MDhdfQ==
 -->
