@@ -72,10 +72,6 @@ A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Tras
 ^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)[Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 *Set: Deadpool & Friends*  
 
-Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
-
-^(Source: Rule insert)
-
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
 
@@ -2534,11 +2530,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyND
-gzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgy
-LDYwNDQ0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMT
-AzNSwtMTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUs
-LTc2NTcxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNT
-EyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgxNzMsMTcwMjczMTI4
-MV19
+eyJoaXN0b3J5IjpbMTExNjEyOTA3Niw3NjU1NzU3OTIsMTE4MD
+MyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2Njky
+LDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5Nj
+M5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMs
+MTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0ND
+k0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3
+M119
 -->
