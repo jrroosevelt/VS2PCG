@@ -167,7 +167,7 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
 
-A: When he strikes a Defender, his strike *is* the -1/-1 counters. These aren't applied, however, until the combat is resolved. So, let's say that his opponent is 4/4 and is in position to strike back. Both Match and the Defender would strike simultaneously. The Defender hits with 4/4, Match hits with his counters (which haven't yet resolved). Match would be stunned by the strike back, and then the Defender would be reduced to 0/0 with the counters and would also be stunned.
+A: When he strikes a Defender, his strike *is* the -1/-1 counters. These are applied during combat resolution. So, let's say that his opponent is 4/4 and is in position to strike back. Both Match and the Defender would strike simultaneously. The Defender hits with 4/4, Match hits with his counters (which haven't yet resolved). Match would be stunned by the strike back, and then the Defender would be reduced to 0/0 with the counters and would also be stunned.
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/709929676856098886) 
 
@@ -2546,9 +2546,9 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNj
-UyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0
-LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMT
-MwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQw
-N119
+eyJoaXN0b3J5IjpbLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NT
+Y0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5
+NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxOD
+Q1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3
+NTQxLDk1MjIxNzQwN119
 -->
