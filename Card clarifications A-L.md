@@ -69,8 +69,8 @@ Q: Does his power imply that fatal wounds at the end of the turn is the ONLY way
 
 A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Trask) can KO him normally.
 
-^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)[Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
-*Set: Deadpool & Friends*  
+^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)
+
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -2530,11 +2530,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjEyOTA3Niw3NjU1NzU3OTIsMTE4MD
-MyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2Njky
-LDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5Nj
-M5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMs
-MTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0ND
-k0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1NywtMTA4OTAzODE3
-M119
+eyJoaXN0b3J5IjpbLTE4NTI5NDk3MzYsNzY1NTc1NzkyLDExOD
+AzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5
+MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIyLDMxOT
+YzOTM2LDY5MjIzMTAzNSwtMTU3MzMzMTQ1NywtMjY3MjQyNjcz
+LDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUwOTg0LDEzND
+Q5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgx
+NzNdfQ==
 -->
