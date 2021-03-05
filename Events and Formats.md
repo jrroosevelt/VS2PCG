@@ -36,9 +36,9 @@ Rose City Comic Con|Sep 13-15, 2019|Portland, OR|1K Event|[Children of the Atom]
 ---
 
 # Formats
-Oopsie. The Formats page was moved to reduce c
+[Oopsie. The Formats page was moved to reduce clutter...](https://www.reddit.com/r/VS2PCG/wiki/formats) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ0NjkxNDAsLTIwNjg2NzI0MzgsNT
+eyJoaXN0b3J5IjpbLTEzMDQ2ODkzMjksLTIwNjg2NzI0MzgsNT
 QyOTQwMTIyLC0xNDc0NDI3OTgzLC05NTM2OTIyNDAsMTMyMDA3
 NTA1Ml19
 -->
