@@ -309,24 +309,21 @@ The following cards are not allowed to be played in the current community multiv
 - Maximus
 
 ##### Plot Twists
+- Parallel Dimension
 
-Twists:
+#### Equipment:
+- The Darkhold
 
-Parallel Dimension
+### Watch list
+These cards are still allowed currently, but we've got our eyes on these emmer effers.
 
-Equipment:
+- Black Widow (Illus)
+- Out of Time
+- Rogue MC
 
-The Darkhold
 
-Thoughts/additions/opinions?
 
-*On the watch list*
 
-Rogue MC
-
-Out of Time
-
-Black widow (champions sc)
 
 The Machine (invention)
 
@@ -354,5 +351,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDU3MDAyNSwtMjAyOTMwNTY5Ml19
+eyJoaXN0b3J5IjpbNzgzODUyNTIzLC0yMDI5MzA1NjkyXX0=
 -->
