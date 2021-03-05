@@ -1,13 +1,10 @@
-# Formats
+# Official Formats
 
 ## Basic Formats
 
 ### Multiverse Format (aka Standard Format)
 
 This is the name for the default format of the game.  It includes all sets but still follows the [Split Universe rule](https://www.reddit.com/r/VS2PCG/wiki/how-to-play#wiki_split_universe), disallowing Photographic Universe cards and Illustrated Universe cards to be in the same deck.
-
-### Community Multiverse
-The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. Check it out below...
 
 ### Secret Wars Format
 
@@ -317,6 +314,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjkzMDU2OTIsLTIwMjkzMDU2OTJdfQ
+eyJoaXN0b3J5IjpbLTExMDg5MDg1MTUsLTIwMjkzMDU2OTJdfQ
 ==
 -->
