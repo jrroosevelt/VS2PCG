@@ -1,12 +1,12 @@
 
 
-# **VS 2PCG WIKI**
+# VS 2PCG WIKI
 
-## **Notice**
+## Notice
 
 [***VS 2PCG Collective***](https://www.facebook.com/groups/860168987351982/)  Is the primary residence of the VS 2PCG community.  99.9% of all VS 2PCG news and information comes out of or flows through the Collective.  Membership and activity there dwarfs this subreddit but I try to keep all information here as up to date as possible so a Facebook account is never a  prerequisite for playing this amazing game.  There is also a [VS Discussion Discord Server](https://discordapp.com/invite/MsSCTdq) out there.  Check the [Communities](https://www.reddit.com/r/VS2PCG/wiki/community) page for more VS groups to find players near you.
 
-## **Introduction**
+## Introduction
 
 VS System 2PCG is a redesign of the original VS System.  For a history lesson on the original game, click [here.](https://www.reddit.com/r/VS2PCG/wiki/history)
 
@@ -16,15 +16,14 @@ In 2PCG, each player starts with a main character in play such as Spider-Man or 
 
 The cards in VS 2PCG are split into two separate "universes".  Cards with illustrated comic book artwork are part of the Illustrated Universe.  Cards where screencaps and photographs are used in place of artwork are part of the "Photographic Universe."  When building decks, they much contain collections of exactly 60 cards from a single one of the universes with no crossover, but an illustrated deck and a photographic deck can still play against each other normally.
 
-### Featured Formats
-
+### [Featured Formats](https://www.reddit.com/r/VS2PCG/wiki/edit/formats)
 In addition to the Split Universe model, the designers institute Featured Formats to modify the legal sets for a three month period.  The designers have said they never intend to rotate out an old set entirely.  Only to try different formats to shift the meta on a regular basis.
 
-## **[Communities](https://www.reddit.com/r/VS2PCG/wiki/community)**
+## [Communities](https://www.reddit.com/r/VS2PCG/wiki/community)
 
 See the [Community](https://www.reddit.com/r/VS2PCG/wiki/community) page for a complete breakdown on all the websites, YouTube channels, groups, podcasts and general communities that are out there for VS System 2PCG.
 
-## [**Events**](https://www.reddit.com/r/VS2PCG/wiki/events)
+## [Events](https://www.reddit.com/r/VS2PCG/wiki/events)
 
 Check out the [*wiki page on the Events and Featured Formats*](https://www.reddit.com/r/VS2PCG/wiki/events) for more details on upcoming events and currently legal sets.
 
@@ -41,7 +40,7 @@ Current classification for which teams are the good guys or bad guys.
 [Glossary and FAQ of Terms, keywords and effects](/r/VS2PCG/wiki/glossary)  
 Glossary of common game terms including keywords and effects that show up on multiple cards. Includes some FAQs for these terms and effects.
 
-## **Lists and Databases**
+## Lists and Databases
 
 [DailyMetaGame TCG Browser](http://vs.tcgbrowser.com/#!/cards) Deck and card database with build, save, share, search & export support.
 
@@ -49,7 +48,7 @@ Glossary of common game terms including keywords and effects that show up on mul
 
 [List of Promotional Materials](https://www.reddit.com/r/VS2PCG/wiki/promos)
 
-## [**Learning the Game**](https://www.reddit.com/r/VS2PCG/wiki/how-to-play)
+## [Learning the Game](https://www.reddit.com/r/VS2PCG/wiki/how-to-play)
 
 [Full Learn to Play & Demonstration decks Wiki Page](https://www.reddit.com/r/VS2PCG/wiki/how-to-play)
 
@@ -69,17 +68,17 @@ Official changes to card wording.  The wording in this document is used in tourn
 
 [Live Document Card & Ruling FAQ](https://docs.google.com/spreadsheets/d/1gLys7fnWZkKv1MHIYMdfY8H8wvHDVcmqH-TI5prjjKU/edit#gid=2117603458)
 
-## **Tournament Resources**
+## Tournament Resources
 
 [Upper Deck Organized Play](http://www.upperdeck.com/op/)
 
 [Official Card Wording (Updated 6/20/2017)](https://docs.google.com/spreadsheets/d/1_PleEi0K_Kk13JeaFUe65-R-oW0Esko3k2hObRAh21U/edit#gid=0)
 
-## **Online Play**
+## Online Play
 
 Online play is generally done using Skype or some other video chat application[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  Digital recreation of the VS System 2PCG cards is discouraged by Upper Deck as they are only licensed to use Marvel images and do not own them[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  In the interest of keeping the game going, we do not condone digital recreation of the cards[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  Feel free to contact a mod (like u/LogicBalm) privately for more details or just to play a game or two[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")[.](https://steamcommunity.com/sharedfiles/filedetails/?id=918650085 "Online Play")  Don't forget about the [Collective](https://www.facebook.com/groups/860168987351982/) and the [Discord](https://discordapp.com/invite/MsSCTdq).  Between those two communities and this sub, finding someone to play over Skype is rarely difficult, just requires some coordination.
 
-## **Rules Variants and Game Modes**
+## Rules Variants and Game Modes
 [Alternate game modes (many introduced in Crossover Vol. 3)](/r/VS2PCG/wiki/game_modes)
 
 [Official rules variants from Super Awesome Games](https://www.reddit.com/r/VS2PCG/comments/6n3v94/official_vs_2pcg_casual_scenarios/)
@@ -98,7 +97,7 @@ Online play is generally done using Skype or some other video chat application[.
 
 [Custom fan-made X-Statix set](https://boardgamegeek.com/filepage/155326/x-statix-mini-expansion-101) <--> [*Imgur album*](https://imgur.com/a/CJ0k0)
 
-## **Playmats & Component upgrades**
+## Playmats & Component upgrades
 
 [Custom Dice Counters](https://goo.gl/X6BPDn)    DailyMetagame's dice counters & status tokens
 
@@ -108,7 +107,7 @@ Online play is generally done using Skype or some other video chat application[.
 
 [BoardGameGeek resources](https://boardgamegeek.com/boardgame/178892/vs-system-2pcg-marvel-battles/files)
 
-## **Upper Deck Quality Assurance**
+## Upper Deck Quality Assurance
 
 Email qa@upperdeck.com if you buy a box that you discover is missing any cards.  Include exactly which product you purchased, what you're missing and shipping information.
 
@@ -122,6 +121,6 @@ Email qa@upperdeck.com if you buy a box that you discover is missing any cards. 
 
 * In the Friendly Neighborhood set, released in March 2020, the L1 Main Character [Mysterio card was misprinted](https://www.upperdeckblog.com/2020/03/vs-system-2pcg-friendly-neighborhood-card-preview-mysterious/?fbclid=IwAR0Fuo-OuTRNMy2Urd5l-wLPZtrnAg4Nsx70IBAonWCNN72WcPEgBMUvWlA).  Reach out to qa@upperdeck.com for a corrected copy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTkyNDMwMSwyMDMwMzYyMjk5LDEwMD
+eyJoaXN0b3J5IjpbMTM4NDUzNjEzMSwyMDMwMzYyMjk5LDEwMD
 U2OTAwNzUsLTE2NjIwOTA3ODFdfQ==
 -->
