@@ -308,7 +308,7 @@ The following cards are not allowed to be played in the current community multiv
 - Langly
 - Maximus
 
-##### Plot Twists
+#### Plot Twists
 - Parallel Dimension
 
 #### Equipment:
@@ -345,6 +345,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkyMjUxMjYsLTIwMjkzMDU2OTJdfQ
+eyJoaXN0b3J5IjpbLTE2MjM3ODc3MDEsLTIwMjkzMDU2OTJdfQ
 ==
 -->
