@@ -287,10 +287,57 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 * [New Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_new_defenders)
 
-## Community Formats
+# Community Formats
 The following is a list of formats that haven't been officially released by Upper Deck Entertainment, but have been created for use in community events (such as Build Phase League or Quarantine Cup tournaments).
 
-### The Benchwarmers
+## Community Multiverse
+The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. 
+
+###Banned cards:
+The following cards are not allowed to b
+MCs:
+
+Outriders
+
+Mystique (Legacy set versions only)
+
+Dark Phoenix
+
+Valkyrie (MCU)
+
+Kate Pryde
+
+Adam warlock
+
+SCs:
+
+Langly
+
+Dark Phoenix
+
+Maximus
+
+Twists:
+
+Parallel Dimension
+
+Equipment:
+
+The Darkhold
+
+Thoughts/additions/opinions?
+
+*On the watch list*
+
+Rogue MC
+
+Out of Time
+
+Black widow (champions sc)
+
+The Machine (invention)
+
+## The Benchwarmers
 This format was created for use in the Midwinter 2021 virtual tournament:
 
 The year is 2020, a pandemic ravages the world. Millions die. Heroes everywhere take up the call, but they fare no better. While no heroes have yet died the disease has ripped through the ranks of the world's most powerful and adored. Then, THE CALL. Midwinter 2021. But with all our heroes devastated by a microscopic foe who will take up the banner? Who will answer the call????
@@ -314,6 +361,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg5MDg1MTUsLTIwMjkzMDU2OTJdfQ
-==
+eyJoaXN0b3J5IjpbMzg5OTY2Mzc1LC0yMDI5MzA1NjkyXX0=
 -->
