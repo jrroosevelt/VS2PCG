@@ -1,4 +1,5 @@
 
+
 # **VS 2PCG WIKI**
 
 ## **Notice**
@@ -15,7 +16,7 @@ In 2PCG, each player starts with a main character in play such as Spider-Man or 
 
 The cards in VS 2PCG are split into two separate "universes".  Cards with illustrated comic book artwork are part of the Illustrated Universe.  Cards where screencaps and photographs are used in place of artwork are part of the "Photographic Universe."  When building decks, they much contain collections of exactly 60 cards from a single one of the universes with no crossover, but an illustrated deck and a photographic deck can still play against each other normally.
 
-### **Featured Formats**
+### Featured Formats
 
 In addition to the Split Universe model, the designers institute Featured Formats to modify the legal sets for a three month period.  The designers have said they never intend to rotate out an old set entirely.  Only to try different formats to shift the meta on a regular basis.
 
@@ -121,6 +122,6 @@ Email qa@upperdeck.com if you buy a box that you discover is missing any cards. 
 
 * In the Friendly Neighborhood set, released in March 2020, the L1 Main Character [Mysterio card was misprinted](https://www.upperdeckblog.com/2020/03/vs-system-2pcg-friendly-neighborhood-card-preview-mysterious/?fbclid=IwAR0Fuo-OuTRNMy2Urd5l-wLPZtrnAg4Nsx70IBAonWCNN72WcPEgBMUvWlA).  Reach out to qa@upperdeck.com for a corrected copy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDM2MjI5OSwxMDA1NjkwMDc1LC0xNj
-YyMDkwNzgxXX0=
+eyJoaXN0b3J5IjpbMTY1MTkyNDMwMSwyMDMwMzYyMjk5LDEwMD
+U2OTAwNzUsLTE2NjIwOTA3ODFdfQ==
 -->
