@@ -293,17 +293,14 @@ The following is a list of formats that haven't been officially released by Uppe
 ## Community Multiverse
 The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. 
 
-###Banned cards:
+### Banned cards:
 The following cards are not allowed to be played in the current community multiverse:
 
-####Main Characters:
+#### Main Characters:
+- Dark Phoenix
+- Mystique (Legacy set versions only)
 - Outriders
-
-Mystique (Legacy set versions only)
-
-Dark Phoenix
-
-Valkyrie (MCU)
+- -Valkyrie (MCU)
 
 Kate Pryde
 
@@ -361,5 +358,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzI3MjM5NCwtMjAyOTMwNTY5Ml19
+eyJoaXN0b3J5IjpbLTU4NDMxNTEyNiwtMjAyOTMwNTY5Ml19
 -->
