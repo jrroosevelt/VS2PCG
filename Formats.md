@@ -294,10 +294,10 @@ The following is a list of formats that haven't been officially released by Uppe
 The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. 
 
 ###Banned cards:
-The following cards are not allowed to b
-MCs:
+The following cards are not allowed to be played in the current community multiverse:
 
-Outriders
+####Main Characters:
+- Outriders
 
 Mystique (Legacy set versions only)
 
@@ -361,5 +361,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5OTY2Mzc1LC0yMDI5MzA1NjkyXX0=
+eyJoaXN0b3J5IjpbLTkzNzI3MjM5NCwtMjAyOTMwNTY5Ml19
 -->
