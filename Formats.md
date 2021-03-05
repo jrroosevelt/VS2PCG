@@ -317,15 +317,11 @@ The following cards are not allowed to be played in the current community multiv
 ### Watch list
 These cards are still allowed currently, but we've got our eyes on these emmer effers.
 
-- Black Widow (Illus)
+- Black Widow (Illustrated - Champions Supporting Character)
+- The Machine (invention)
 - Out of Time
-- Rogue MC
+- Rogue (Main Character)
 
-
-
-
-
-The Machine (invention)
 
 ## The Benchwarmers
 This format was created for use in the Midwinter 2021 virtual tournament:
@@ -348,8 +344,7 @@ The year is 2020, a pandemic ravages the world. Millions die. Heroes everywhere 
 Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzODUyNTIzLC0yMDI5MzA1NjkyXX0=
+eyJoaXN0b3J5IjpbLTIxMDkyMjUxMjYsLTIwMjkzMDU2OTJdfQ
+==
 -->
