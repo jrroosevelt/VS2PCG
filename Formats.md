@@ -297,22 +297,18 @@ The community has come up with a multiverse variant that attempts to fix some of
 The following cards are not allowed to be played in the current community multiverse:
 
 #### Main Characters:
+- Adam warlock
 - Dark Phoenix
+- Kate Pryde
 - Mystique (Legacy set versions only)
 - Outriders
-- -Valkyrie (MCU)
+- Valkyrie (Photographic)
 
-Kate Pryde
+#### Supporting characters
+- Langly
+- Maximus
 
-Adam warlock
-
-SCs:
-
-Langly
-
-Dark Phoenix
-
-Maximus
+##### Plot Twists
 
 Twists:
 
@@ -358,5 +354,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDMxNTEyNiwtMjAyOTMwNTY5Ml19
+eyJoaXN0b3J5IjpbLTQ2MDU3MDAyNSwtMjAyOTMwNTY5Ml19
 -->
