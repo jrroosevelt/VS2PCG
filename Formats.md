@@ -305,7 +305,7 @@ The following cards are not allowed to be played in the current community multiv
 - Kate Pryde
 - Mystique (Legacy set versions only)
 - Outriders
-- 
+
 #### Supporting characters
 - Black Widow (Illustrated Champions)
 - Dark Phoenix
@@ -341,5 +341,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTM2Nzk0NiwtMjAyOTMwNTY5Ml19
+eyJoaXN0b3J5IjpbLTEwNzU5NzIxMTksLTIwMjkzMDU2OTJdfQ
+==
 -->
