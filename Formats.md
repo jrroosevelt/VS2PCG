@@ -292,7 +292,9 @@ The following is a list of formats that haven't been officially released by Uppe
 
 ## Modern Format (community-sourced multiverse)
 The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. 
+
 *Effective April-June 2021*
+
 For detailed explanation, see this post: [https://www.reddit.com/r/VS2PCG/comments/lzt3dr/modern_multiverse_community_sourced_multiverse/](https://www.reddit.com/r/VS2PCG/comments/lzt3dr/modern_multiverse_community_sourced_multiverse/)
 
 ### Banned cards:
@@ -305,7 +307,8 @@ The following cards are not allowed to be played in the current community multiv
 - Outriders
 - 
 #### Supporting characters
-- Dark Phoeni
+- Black Widow (Illustrated Champions)
+- Dark Phoenix
 - Langly
 - Maximus
 
@@ -314,14 +317,6 @@ The following cards are not allowed to be played in the current community multiv
 
 #### Equipment:
 - The Darkhold
-
-### Watch list
-These cards are still allowed currently, but we've got our eyes on these emmer effers.
-
-- Black Widow (Illustrated - Champions Supporting Character)
-- The Machine (invention)
-- Out of Time
-- Rogue (Main Character)
 
 
 ## The Benchwarmers
@@ -346,5 +341,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4OTA2MjMyLC0yMDI5MzA1NjkyXX0=
+eyJoaXN0b3J5IjpbLTQxOTM2Nzk0NiwtMjAyOTMwNTY5Ml19
 -->
