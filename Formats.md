@@ -290,8 +290,9 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 # Community Formats
 The following is a list of formats that haven't been officially released by Upper Deck Entertainment, but have been created for use in community events (such as Build Phase League or Quarantine Cup tournaments).
 
-## Community Multiverse
+## Modern Format (community-sourced multiverse)
 The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. 
+*Effective April-June 2021*
 
 ### Banned cards:
 The following cards are not allowed to be played in the current community multiverse:
@@ -345,6 +346,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM3ODc3MDEsLTIwMjkzMDU2OTJdfQ
-==
+eyJoaXN0b3J5IjpbMTc5MjUzNzA2MSwtMjAyOTMwNTY5Ml19
 -->
