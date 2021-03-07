@@ -297,10 +297,10 @@ The community has come up with a multiverse variant that attempts to fix some of
 
 For detailed explanation, see this post: [https://www.reddit.com/r/VS2PCG/comments/lzt3dr/modern_multiverse_community_sourced_multiverse/](https://www.reddit.com/r/VS2PCG/comments/lzt3dr/modern_multiverse_community_sourced_multiverse/)
 
-### Banned cards:
+### Banned cards
 The following cards are not allowed to be played in the current community multiverse:
 
-#### Main Characters:
+#### Main Characters
 - Dark Phoenix
 - Kate Pryde
 - Mystique (Legacy set versions only)
@@ -315,7 +315,7 @@ The following cards are not allowed to be played in the current community multiv
 #### Plot Twists
 - Parallel Dimension
 
-#### Equipment:
+#### Equipment
 - The Darkhold
 
 
@@ -341,6 +341,5 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU5NzIxMTksLTIwMjkzMDU2OTJdfQ
-==
+eyJoaXN0b3J5IjpbLTM2MDgwNjA2NSwtMjAyOTMwNTY5Ml19
 -->
