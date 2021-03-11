@@ -1044,7 +1044,11 @@ Scenario: An enemy character is Proteus' host. I recruit Dark Phoenix and remove
 
 Q: Does the +10/+10 remain on the character because Proteus' **Reality Warping** has been already activated and now Proteus is no longer in the game?
 
-A: Reality Warping is a Keyword that grants a Super Power. If Dark Phoenix calls Keywords the entire Keyword is removed including the Super Power ability. If Dark Ph
+A: Reality Warping is a Keyword that grants a Super Power. If Dark Phoenix calls Keywords the entire Keyword is removed including the Super Power ability. If Dark Phoenix calls Super Powers only the Super Power ability of Reality Warping is removed. (Mark from Upper Deck)
+
+Said another way, since a keyword granted all these powers and boosts, if keyword text is removed as a concept then it is like the keyword never existed in the first place.
+
+^Source: ^Facebook ^Post
 
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
@@ -2553,10 +2557,9 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEzODQ1MDQsNDQ5OTk2MjQ1LC0yMD
-M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
-LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
-AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
-NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
-==
+eyJoaXN0b3J5IjpbNjg0MzcwNjQyLDQ0OTk5NjI0NSwtMjAzNT
+M4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwt
+NjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMD
+ExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0
+LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3NDA3XX0=
 -->
