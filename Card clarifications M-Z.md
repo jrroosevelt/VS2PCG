@@ -1040,8 +1040,11 @@ If Proteus would appear any other way except by being recruited, he will be stun
 ^(Source: Rule insert)
 
 ---
-Scenario: An enemy character is Proteus' host. I recruit Dar
-Q: If an enemy character is Proteus's host and I recruit DP, and i remove the keywords, the host will still has +10/+10 and ranged and the super power correct? Because Proteus is not in game, he was removed, and the +10/+10 and ranged are not in a keyword in the host. Correct? Because Proteus "reality warping" has been already activated when Proteus was recruited and then is not in play anymore.
+Scenario: An enemy character is Proteus' host. I recruit Dark Phoenix and remove Keywords from the game.
+
+Q: Does the +10/+10 remain on the character because Proteus' "reality warping" has been already activated when Proteus was recruited and then is not in play anymore?
+
+A: 
 
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
@@ -2550,10 +2553,9 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTMwNzQ2OTQsNDQ5OTk2MjQ1LC0yMD
-M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
-LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
-AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
-NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ
-==
+eyJoaXN0b3J5IjpbMzAyNDg4MDI2LDQ0OTk5NjI0NSwtMjAzNT
+M4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwt
+NjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMD
+ExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0
+LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3NDA3XX0=
 -->
