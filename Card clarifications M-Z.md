@@ -1039,6 +1039,10 @@ If Proteus would appear any other way except by being recruited, he will be stun
 
 ^(Source: Rule insert)
 
+---
+
+Q: If 
+
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
 
@@ -2546,9 +2550,9 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NT
-Y0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5
-NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxOD
-Q1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3
-NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1Mj
+M0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIs
+LTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01OD
+M3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5
+MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
 -->
