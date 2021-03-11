@@ -1048,7 +1048,7 @@ A: Reality Warping is a Keyword that grants a Super Power. If Dark Phoenix calls
 
 Said another way, since a keyword granted all these powers and boosts, if keyword text is removed as a concept then it is like the keyword never existed in the first place.
 
-^Source: ^Facebook ^Post
+^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/3752986618070190/)
 
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 *Set: The Defenders*
@@ -1058,6 +1058,13 @@ Q: If I'm ranged team attacking with Punisher and Star-Lord, can I activate **Pe
 A: Yes. This also works with Namor team attacking alongside a Leader against a back row character.
 
 ^(Source: Chad Daniel)
+
+# Punisher 2099
+*Set: Crossover Vol. 3*
+
+Q: If I power up Punisher 2099 with multiple copies in a single attack, does each power-up add another wound?
+
+A: Yes. Each copy of Punisher 2099 that is 
 
 # [Purple Man](http://vs.tcgbrowser.com/images/cards/big/def-045.jpg)
 *Set: Defenders*
@@ -2557,9 +2564,9 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MzcwNjQyLDQ0OTk5NjI0NSwtMjAzNT
-M4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwt
-NjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMD
-ExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0
-LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbMTE3NDEyMTI5MSw0NDk5OTYyNDUsLTIwMz
+UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
+LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
+AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
+NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
 -->
