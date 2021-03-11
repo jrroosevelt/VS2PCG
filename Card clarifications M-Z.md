@@ -1064,7 +1064,9 @@ A: Yes. This also works with Namor team attacking alongside a Leader against a b
 
 Q: If I power up Punisher 2099 with multiple copies in a single attack, does each power-up add another wound?
 
-A: Yes. Each copy of Punisher 2099 that is 
+A: Yes. Each copy of Punisher 2099 that is used to power up grants an additional wound. So if you powered him up with two copies, it would grant two additional wounds; three total - one for the attack and two for the two copies discarded to power up.
+
+Sou
 
 # [Purple Man](http://vs.tcgbrowser.com/images/cards/big/def-045.jpg)
 *Set: Defenders*
@@ -2564,7 +2566,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDEyMTI5MSw0NDk5OTYyNDUsLTIwMz
+eyJoaXN0b3J5IjpbLTMxMTIxNzk4NSw0NDk5OTYyNDUsLTIwMz
 UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
 LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
 AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
