@@ -1066,7 +1066,7 @@ Q: If I power up Punisher 2099 with multiple copies in a single attack, does eac
 
 A: Yes. Each copy of Punisher 2099 that is used to power up grants an additional wound. So if you powered him up with two copies, it would grant two additional wounds; three total - one for the attack and two for the two copies discarded to power up.
 
-Sou
+^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/819649987121512518)
 
 # [Purple Man](http://vs.tcgbrowser.com/images/cards/big/def-045.jpg)
 *Set: Defenders*
@@ -2566,7 +2566,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 ^(Source: Rule insert)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTIxNzk4NSw0NDk5OTYyNDUsLTIwMz
+eyJoaXN0b3J5IjpbMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
 UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
 LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
 AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
