@@ -761,9 +761,9 @@ A: Yes.
 *Set: The Defenders*  
 
 **Radar Sense**  
-Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Skill%%) (Skill) or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
+Daredevil, Rhino, and Juggernaut have effects that allow an enemy *character* to spend a power symbol to do something. These cards have errata to explain that it is a character (not the player) paying for these abilities. So, in theory they could use a "wild" location to pay for it (if they have an appropriate face-up character for that wild's affiliation).
 
-^(Source: Rule insert)
+^Source: ^[Errata](https://www.reddit.com/r/vs2pcg/wiki/rulings#wiki_players_paying_for_powers)
 
 ---
 
@@ -2540,11 +2540,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3Nj
-U1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgx
-MSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2ND
-U1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3
-LC0yNjcyNDI2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOT
-kwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1
-N119
+eyJoaXN0b3J5IjpbMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NT
+I5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjky
+LC01MDA5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwND
+Q0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwt
+MTU3MzMzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NT
+cxODIxNSwtMjk5MDUwOTg0LDEzNDQ5NDA5MzAsLTIwNTEyNzAx
+MjJdfQ==
 -->
