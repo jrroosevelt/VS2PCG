@@ -740,12 +740,22 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
 
-# [Daken](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
+# Daken
+## [Daken (SC)](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
 *Set: Brotherhood of Mutants*  
 
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
 
 ^(Source: Rule insert)
+
+## [Daken](http://vs.tcgbrowser.com/images/cards/big/HAM-003.jpg) (MC)
+*Set: H.A.M.M.E.R.*
+
+Q: If Daken is stunned as an enemy character is stunned as the result of striking each other, will Daken get an XP?
+
+A: Yes.
+
+^(Source: UDE FAQ- Entry for "Wolverine")
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
 *Set: The Defenders*  
@@ -2530,11 +2540,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI5NDk3MzYsNzY1NTc1NzkyLDExOD
-AzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5
-MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIyLDMxOT
-YzOTM2LDY5MjIzMTAzNSwtMTU3MzMzMTQ1NywtMjY3MjQyNjcz
-LDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUwOTg0LDEzND
-Q5NDA5MzAsLTIwNTEyNzAxMjIsLTQ2OTgyNTcsLTEwODkwMzgx
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3Nj
+U1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgx
+MSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2ND
+U1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3
+LC0yNjcyNDI2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOT
+kwNTA5ODQsMTM0NDk0MDkzMCwtMjA1MTI3MDEyMiwtNDY5ODI1
+N119
 -->
