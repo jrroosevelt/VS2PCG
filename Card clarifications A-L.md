@@ -452,7 +452,10 @@ When you play Brotherhood there must be two exhausted face-up characters that sh
 
 Q: Scenario: I have two face-up exhausted characters on the same affiliation, but one is Frozen. Can I still play Brotherhood to ready one of the two characters?
 
+A: You can choose a character or characters who are frozen during your turn. They will not ready.
+If you choose one frozen and one exhausted character, only the exhausted character will ready not the one that is frozen.
 
+^Source: 
 
 # Bruce Banner
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
@@ -2546,11 +2549,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MjE4MDM4LDMyMDk3OTA5NiwtNzI2Nz
-g2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkw
-LC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzND
-cyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2
-OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5ND
-I2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMw
-XX0=
+eyJoaXN0b3J5IjpbMTQ5NTg1NTAwNSwzMjA5NzkwOTYsLTcyNj
+c4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5
+MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0Mz
+Q3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYs
+NjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzMsMTQ5OT
+QyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODQsMTM0NDk0MDkz
+MF19
 -->
