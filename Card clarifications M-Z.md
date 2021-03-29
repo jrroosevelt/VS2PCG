@@ -2555,6 +2555,8 @@ The **Wrecking Crew** character can attack an enemy player’s resource row/hand
 
 While a member of the Wrecking Crew is attacking a hand, deck, or resource row, he counts as being an attacker, but there is no defending character. (The opponent still counts as the “defending player” though.) Players can play Plot Twists, use Super Powers, or Power Up as normal. For example, the defending player could play a Plot Twist to reduce the attacker’s ATK or cancel the combat.
 
+These special attacks can be team attacks as long as each character in the attack is allowed to attack that special part of the game. For example, Piledriver and the Wrecker could team attack an enemy hand. In this case, their effects will resolve in the order the attacking player chooses. So you could have the Piledriver make the opponent discard and then draw cards, and then after that the Wrecker would do the same (or vice versa).
+
 ^(Source: Rule insert)  
 
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
@@ -2616,7 +2618,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MjA4MzEyLDE2MDU0MzQxODYsNDQ5OT
+eyJoaXN0b3J5IjpbNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OT
 k2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMs
 MjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNT
 c2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0
