@@ -2293,8 +2293,8 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 
 ^(Source: Rule insert)
 
-## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (Photographic MC)
-*Set: The MCU Battles*  
+## Ultron(Illustrated MC)
+*Set: Masters of Evil*  
 
 
 # [Uncanny Defenses](http://vs.tcgbrowser.com/images/cards/big/mnb-051.jpg)
@@ -2570,10 +2570,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODQxNzU0NiwxNjA1NDM0MTg2LDQ0OT
-k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
-LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
-U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
-NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
-UyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbNjIyMjEyMTg2LDE2MDU0MzQxODYsNDQ5OT
+k2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMs
+MjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNT
+c2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0
+LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NT
+IyMTc0MDddfQ==
 -->
