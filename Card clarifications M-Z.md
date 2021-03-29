@@ -2279,7 +2279,7 @@ A: When you play it switch the character’s current stats. Any new stat changes
 ^(Source: Rule insert)
 
 # Ultron
-# [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC)
+## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (Photographic MC)
 *Set: The MCU Battles*  
 
 **Ultron Facility**  
@@ -2292,6 +2292,10 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 **Note:** The Level 3 Ultron’s **Your Extinction** power KOs all enemy cards (in a very dramatic way).
 
 ^(Source: Rule insert)
+
+## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (Photographic MC)
+*Set: The MCU Battles*  
+
 
 # [Uncanny Defenses](http://vs.tcgbrowser.com/images/cards/big/mnb-051.jpg)
 *Set: The Marvel Battles*
@@ -2566,7 +2570,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzA2NzMyMSwxNjA1NDM0MTg2LDQ0OT
+eyJoaXN0b3J5IjpbLTgyODQxNzU0NiwxNjA1NDM0MTg2LDQ0OT
 k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
 LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
 U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
