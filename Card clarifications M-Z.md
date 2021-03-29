@@ -2293,9 +2293,10 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 
 ^(Source: Rule insert)
 
-## Ultron(Illustrated MC)
+## Ultron (Illustrated MC)
 *Set: Masters of Evil*  
 
+**Hypno-Beam** lets you steal an enemy player’s Supporting Character for a turn. It can be ready or exhausted. If it’s exhausted you’ll ready it. At the end of your turn, you’ll move it back to that enemy player’s side.  You don’t have to put it back in the same row where it was before.
 
 # [Uncanny Defenses](http://vs.tcgbrowser.com/images/cards/big/mnb-051.jpg)
 *Set: The Marvel Battles*
@@ -2570,10 +2571,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMjEyMTg2LDE2MDU0MzQxODYsNDQ5OT
-k2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMs
-MjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNT
-c2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0
-LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NT
-IyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbLTE1MjA4OTM3NjcsMTYwNTQzNDE4Niw0ND
+k5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAy
+MywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
+A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
+MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
+k1MjIxNzQwN119
 -->
