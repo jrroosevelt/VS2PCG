@@ -2547,7 +2547,13 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 # The Wrecking Crew
 *Set: Masters of Evil*
 
-When you put cards on the top and/or bottom of your deck, you choose the order.
+Three **Wrecking Crew** members can each attack a different part of the game, and the Wrecker can attack any one of the three each time he attacks. (They can also make normal attacks.) Here's how it works:
+
+These are all melee attacks so in order to make them, the **Wrecking Crew** member must be ready and in his front row, and he will exhaust to start the combat.
+
+The Wrecking Crew character can attack an enemy player’s resource row/hand/deck even if that player has any face-up characters on their sides. In other words, characters can’t “protect” a resource row, hand, or deck from the Wrecking Crew.
+
+While a member of the Wrecking Crew is attacking a hand, deck, or resource row, he counts as being an attacker, but there is no defending character. (The opponent still counts as the “defending player” though.) Players can play Plot Twists, use Super Powers, or Power Up as normal. For example, the defending player could play a Plot Twist to reduce the attacker’s ATK or cancel the combat.
 
 ^(Source: Rule insert)  
 
@@ -2610,10 +2616,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDE1MjY4MCwxNjA1NDM0MTg2LDQ0OT
-k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
-LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
-U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
-NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
-UyMjE3NDA3XX0=
+eyJoaXN0b3J5IjpbLTE1OTk1Mzk0NjQsMTYwNTQzNDE4Niw0ND
+k5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAy
+MywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
+A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
+MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
+k1MjIxNzQwN119
 -->
