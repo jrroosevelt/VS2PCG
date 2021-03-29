@@ -2544,6 +2544,13 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 
 ^(Source: Rule insert)
 
+# The Wrecking Crew
+*Set: Masters of Evil*
+
+When you put cards on the top and/or bottom of your deck, you choose the order.
+
+^(Source: Rule insert)  
+
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 *Set: The Fantastic Battles*  
 
@@ -2603,7 +2610,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODAwMDczOCwxNjA1NDM0MTg2LDQ0OT
+eyJoaXN0b3J5IjpbMTI3NDE1MjY4MCwxNjA1NDM0MTg2LDQ0OT
 k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
 LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
 U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
