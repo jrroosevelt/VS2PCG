@@ -1,3 +1,4 @@
+
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
   
 # Card clarifications and FAQs
@@ -70,7 +71,6 @@ Q: Does his power imply that fatal wounds at the end of the turn is the ONLY way
 A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Trask) can KO him normally.
 
 ^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)
-
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
 *Set: H.A.M.M.E.R.*  
@@ -2546,14 +2546,12 @@ Q: Cable attacks Luke and both use their powers (**Ultimate Soldier** and **Impe
 A: Cable's power triggers at the end of combat, so Luke Cages' power has already expired by the time Cable's power has resolved. So yes, Luke gets a wound.
 
 ^(Source: FB Post - Chad Daniel)
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nz
-g2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkw
-LC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzND
-cyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2
-OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5ND
-I2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4NCwxMzQ0OTQwOTMw
+eyJoaXN0b3J5IjpbLTI5NDkyNjE0NCw5NjY3MTcyMTIsMzIwOT
+c5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1Nzky
+LDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MT
+EyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIy
+LDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3MzMzMTQ1NywtMjY3Mj
+QyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUwOTg0
 XX0=
 -->
