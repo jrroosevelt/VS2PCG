@@ -941,6 +941,11 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 
 ^(Source: Rule insert)
 
+# Piledriver
+*Set: Masters of Evil*
+
+See [The Wrecking Crew](#wiki_the_wrecking_crew)
+
 # Pixie
 
 ## [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
@@ -2239,6 +2244,11 @@ Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
 ^(Source: Rule insert)
 
+# T
+*Set: Masters of Evil*
+
+See [The Wrecking Crew](#wiki_the_wrecking_crew)
+
 # Tiger Shark
 *Set: Masters of Evil*
 
@@ -2618,10 +2628,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OT
-k2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMs
-MjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNT
-c2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0
-LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NT
-IyMTc0MDddfQ==
+eyJoaXN0b3J5IjpbMjEyNDUzMjY0NSw1MTgwNDYwODMsMTYwNT
+QzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEz
+LDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2ND
+IyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEz
+MSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xND
+E5ODg3NTQxLDk1MjIxNzQwN119
 -->
