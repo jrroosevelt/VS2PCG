@@ -2244,7 +2244,7 @@ Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
 ^(Source: Rule insert)
 
-# T
+# Thunderball
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
@@ -2554,6 +2554,11 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 
 ^(Source: Rule insert)
 
+# The Wrecker
+*Set: Masters of Evil*
+
+See [The Wrecking Crew](#wiki_the_wrecking_crew)
+
 # The Wrecking Crew
 *Set: Masters of Evil*
 
@@ -2628,7 +2633,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDUzMjY0NSw1MTgwNDYwODMsMTYwNT
+eyJoaXN0b3J5IjpbLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNT
 QzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEz
 LDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2ND
 IyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEz
