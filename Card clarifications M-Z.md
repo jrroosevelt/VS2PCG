@@ -1112,7 +1112,15 @@ Currently, Rachel gets the existing **Teke Shield**, **Life Incarnate**, and **W
 
 **Note**: Future releases that include Phoenix or Dark Phoenix card titles will make Rachel even more powerful!
 
-^(Source: Rule Inserts)
+^(Source: Rule Insert)
+
+# Radioactive Man
+*Set: Masters of Evil*
+
+**Hard Radiation** affects the row in front of Radioactive Man. If he’s in your back row, it will affect _your_ front row. But if he’s in your front row, it will affect every _other player’s_ front row. (Note: It will never affect an opponent’s back row, even if they have no characters in their front row.)
+
+^(Source: Rule Insert)
+
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 *Set: Black Order*  
@@ -2581,7 +2589,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTYzMDMzMSwxNjA1NDM0MTg2LDQ0OT
+eyJoaXN0b3J5IjpbLTQ5ODIxMTAyMiwxNjA1NDM0MTg2LDQ0OT
 k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
 LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
 U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
