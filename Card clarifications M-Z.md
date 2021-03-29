@@ -2303,7 +2303,7 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 ## Ultron (SC - Illustrated)
 *Set: Masters of Evil*  
 
-**Hypno-Beam** lets you steal an enemy player’s Supporting Character for a turn. It can be ready or exhausted. If it’s exhausted you’ll ready it. At the end of your turn, you’ll move it back to that enemy player’s side.  You don’t have to put it back in the same row where it was before.
+If this Ultron Supporting Character is on your side, and somehow two **Swarm** characters appear at the same time, they will each "see" each other , and you will draw two cards from **The Living Automaton**.
 
 ^(Source: Rule insert)
 
@@ -2581,10 +2581,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY5NDgzNzMsMTYwNTQzNDE4Niw0ND
-k5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAy
-MywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
-A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
-MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
-k1MjIxNzQwN119
+eyJoaXN0b3J5IjpbLTQ3OTYzMDMzMSwxNjA1NDM0MTg2LDQ0OT
+k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
+LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
+U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
+NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
+UyMjE3NDA3XX0=
 -->
