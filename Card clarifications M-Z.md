@@ -2551,7 +2551,7 @@ Three **Wrecking Crew** members can each attack a different part of the game, an
 
 These are all melee attacks so in order to make them, the **Wrecking Crew** member must be ready and in his front row, and he will exhaust to start the combat.
 
-The Wrecking Crew character can attack an enemy player’s resource row/hand/deck even if that player has any face-up characters on their sides. In other words, characters can’t “protect” a resource row, hand, or deck from the Wrecking Crew.
+The **Wrecking Crew** character can attack an enemy player’s resource row/hand/deck even if that player has any face-up characters on their sides. In other words, characters can’t “protect” a resource row, hand, or deck from the **Wrecking Crew**.
 
 While a member of the Wrecking Crew is attacking a hand, deck, or resource row, he counts as being an attacker, but there is no defending character. (The opponent still counts as the “defending player” though.) Players can play Plot Twists, use Super Powers, or Power Up as normal. For example, the defending player could play a Plot Twist to reduce the attacker’s ATK or cancel the combat.
 
@@ -2616,10 +2616,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk1Mzk0NjQsMTYwNTQzNDE4Niw0ND
-k5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAy
-MywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
-A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
-MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLD
-k1MjIxNzQwN119
+eyJoaXN0b3J5IjpbOTg3MjA4MzEyLDE2MDU0MzQxODYsNDQ5OT
+k2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMs
+MjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNT
+c2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0
+LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4NzU0MSw5NT
+IyMTc0MDddfQ==
 -->
