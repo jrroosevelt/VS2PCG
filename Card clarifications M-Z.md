@@ -163,6 +163,13 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 ^(Source: Rule insert)
 
+# Masters of Evil
+*Set: Masters of Evil*
+
+When you put cards on the top and/or bottom of your deck, you choose the order.
+
+^(Source: Rule insert)  
+
 # [Match](http://vs.tcgbrowser.com/images/cards/big/TUB-013.jpg)
 *Set: The Utopia Battles*
 
@@ -2232,8 +2239,15 @@ Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
 ^(Source: Rule insert)
 
+# Tiger Shark
+*Set: Masters of Evil*
+
+Here’s an example of how Tiger Shark’s **Adamantium Teeth** works: If Tiger Shark strikes a 5/5 character and doesn’t stun it, **Adamantium Teeth** will put two -1/-1 counters on it, making it a 3/3 at the end of combat. (Note: Tiger Shark’s strike will either stun a character in combat or put two -1/-1 counters on it, but not both.)
+
+^(Source: Rule insert)  
+
 # [Titan](http://vs.tcgbrowser.com/images/cards/big/BLK-024.jpg)
-Set: Black Order
+*Set: Black Order*
 See [Might Makes Right](#wiki_might_makes_right)
 
 # [Titania](http://vs.tcgbrowser.com/images/cards/big/aff-037.jpg)
@@ -2589,7 +2603,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODIxMTAyMiwxNjA1NDM0MTg2LDQ0OT
+eyJoaXN0b3J5IjpbLTg4ODAwMDczOCwxNjA1NDM0MTg2LDQ0OT
 k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
 LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
 U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
