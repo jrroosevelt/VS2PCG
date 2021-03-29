@@ -1,3 +1,4 @@
+
 # [M41A Pulse Rifle](http://vs.tcgbrowser.com/images/cards/big/ALN-023.jpg)
 *Set: The Alien Battles*
 
@@ -170,7 +171,6 @@ Q: If Match strikes a Defender does he *only* put -1 counters on someone, or doe
 A: When he strikes a Defender, his strike *is* the -1/-1 counters. These are applied during combat resolution. So, let's say that his opponent is 4/4 and is in position to strike back. Both Match and the Defender would strike simultaneously. The Defender hits with 4/4, Match hits with his counters (which haven't yet resolved). Match would be stunned by the strike back, and then the Defender would be reduced to 0/0 with the counters and would also be stunned.
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/709929676856098886) 
-
 
 ---
 
@@ -2278,6 +2278,7 @@ A: When you play it switch the character’s current stats. Any new stat changes
 
 ^(Source: Rule insert)
 
+# Ultron
 # [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC)
 *Set: The MCU Battles*  
 
@@ -2564,11 +2565,11 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 When this Plot Twist resolves, it cancels the combat. It then acts as though the player whose turn it is just said, "Okay, I'm done with my turn." And then, anything that triggers "At the end of the turn" will trigger, and the rest of the end-of-turn procedure will happen normally.
 
 ^(Source: Rule insert)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
-UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
-LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
-AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
-NCwxMjUzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbMTUyMzA2NzMyMSwxNjA1NDM0MTg2LDQ0OT
+k5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIz
+LDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MD
+U3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUw
+NCwxMzIxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOT
+UyMjE3NDA3XX0=
 -->
