@@ -2279,7 +2279,7 @@ A: When you play it switch the character’s current stats. Any new stat changes
 ^(Source: Rule insert)
 
 # Ultron
-## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (Photographic MC)
+## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC - Photo)
 *Set: The MCU Battles*  
 
 **Ultron Facility**  
@@ -2293,10 +2293,20 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 
 ^(Source: Rule insert)
 
-## Ultron (Illustrated MC)
+## Ultron (MC - Illustrated)
 *Set: Masters of Evil*  
 
 **Hypno-Beam** lets you steal an enemy player’s Supporting Character for a turn. It can be ready or exhausted. If it’s exhausted you’ll ready it. At the end of your turn, you’ll move it back to that enemy player’s side.  You don’t have to put it back in the same row where it was before.
+
+^(Source: Rule insert)
+
+## Ultron (SC - Illustrated)
+*Set: Masters of Evil*  
+
+**Hypno-Beam** lets you steal an enemy player’s Supporting Character for a turn. It can be ready or exhausted. If it’s exhausted you’ll ready it. At the end of your turn, you’ll move it back to that enemy player’s side.  You don’t have to put it back in the same row where it was before.
+
+^(Source: Rule insert)
+
 
 # [Uncanny Defenses](http://vs.tcgbrowser.com/images/cards/big/mnb-051.jpg)
 *Set: The Marvel Battles*
@@ -2571,7 +2581,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA4OTM3NjcsMTYwNTQzNDE4Niw0ND
+eyJoaXN0b3J5IjpbLTEzOTY5NDgzNzMsMTYwNTQzNDE4Niw0ND
 k5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAy
 MywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
 A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
