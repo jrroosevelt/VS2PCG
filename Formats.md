@@ -37,6 +37,37 @@ The Civil War Story Arc highlights two good teams at each other’s throats. Thi
 
 -   Each supporting character in your deck (and supporting characters in out-of-game piles) must have at least one Good team affiliation and no Evil team affiliations. Each other card in your deck (and out-of-game piles) with a team affiliation can also only have Good team affiliations.
 
+### Deep Six
+
+We’re taking our players back in time to look at the original six teams in the game and see what depth has been added in five years!
+
+**Season:** Spring 2021
+
+**Dates**: April 1st  2021 through June 30st  2021
+
+**Rules:**
+
+-   Your cards with a team affiliation can only be from one of the original six teams:
+    -   Avengers
+    -   Defenders
+    -   Guardians of the Galaxy
+    -   Supervillains 
+    -   Underworld
+    -   X-Men 
+-   You can only use cards from the following products:
+    -   The Marvel Battles
+    -   The Defenders
+    -   Deadpool & Friends
+    -   New Mutants
+    -   New Defenders
+    -   Cosmic Avengers
+    -   Galactic Guardians
+    -   Black Order
+    -   Mystic Arts  _(Out 3/31/21)_
+    -   Into the Darkness  _(Out 4/14/21)_
+
+In addition, you can have any number of neutral (cards without a team affiliation) equipment, plot twists, and locations in your deck, as long as they are from the listed products.
+
 ### Battles Royale
 
 Choose your 200-card set and build a deck from the cards inside!
@@ -358,6 +389,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Nzg0NDgzMSwtMzYwODA2MDY1LC0yMD
-I5MzA1NjkyXX0=
+eyJoaXN0b3J5IjpbNDUxMDA5NTIxLC0zNjA4MDYwNjUsLTIwMj
+kzMDU2OTJdfQ==
 -->
