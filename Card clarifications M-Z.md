@@ -2157,6 +2157,10 @@ An infinite loop was discovered when [Taskmaster](https://i.imgur.com/85KjJHT.jp
 
 ^(Source: Official clarification)
 
+---
+
+Q: Scenario: I have Taskmaster on my side and my opponent plays H.A.M.M.E.R. 
+
 # [Terrax](http://vs.tcgbrowser.com/images/cards/big/FRI-016.jpg)
 *Set: The Frightful*
 
@@ -2642,10 +2646,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MT
-gwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYx
-ODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5Mz
-Q4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1
-NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMj
-UzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMz
+IzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0
+NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4Mj
+A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
+MzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMz
+IxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3
+NDA3XX0=
 -->
