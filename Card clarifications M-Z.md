@@ -2421,10 +2421,10 @@ A: The ways you mentioned do not "remove -1/-1" they add +1/+1 counters to a cha
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-# Viper
+# [Viper](http://vs.tcgbrowser.com/images/cards/big/aff-044.jpg)
 *Set: A-Force* 
 
-Q: If I have Viper on my side and play Mister M, choosing **Succumb to Poison** does Viper effectively quadruple the number of -1/-1 counters at the end of the turn? Or do the doubling effects happen simultaneously and effectively do nothing additional?
+Q: If I have Viper on my side and play [Mister M](http://vs.tcgbrowser.com/images/cards/big/OGA-012.jpg), choosing **Succumb to Poison** for his **Power Augmentation** ability, does Viper effectively quadruple the number of -1/-1 counters at the end of the turn? Or do the doubling effects happen simultaneously and effectively do nothing additional?
 
 A: You get double twice (effectively quadruple).
 
@@ -2661,7 +2661,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODc0NTM5MywtMjk3NDE2OTEyLC0xMD
+eyJoaXN0b3J5IjpbMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMD
 c0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQx
 ODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OT
 U2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5
