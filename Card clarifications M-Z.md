@@ -737,7 +737,7 @@ Q: If I have Nightmare on the board and stun an opposing character in combat, ar
 
 A: No. The act of stunning does not remove -1/-1 counters from opposing characters if Nightmare is on the board.
 
-^Source: ^Discord ^Post
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/826961224230371388)
 
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
 *Set: Galactic Guardians*  
@@ -2642,7 +2642,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNjYxOTkyLC0zMjM1Mzg4NTEsNTE4MD
+eyJoaXN0b3J5IjpbNDQ5MDI5MTI5LC0zMjM1Mzg4NTEsNTE4MD
 Q2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4
 LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5LC02OTM0OD
 A5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1
