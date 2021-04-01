@@ -2163,7 +2163,9 @@ Q: Scenario: I have Taskmaster on my side and my opponent plays H.A.M.M.E.R. Clo
 
 A: Yes. Powers are active before the character appears (see official rules). Taskmaster is therefore able to copy this power and when Cloak appears he gets hit with Taskmaster's copy of **Darkforce Channeling**. 
 
-^Source: ^Discord ^Post
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/827213315972530227)
+
+^(Also referenced indirectly in a number of Facebook posts.)
 
 # [Terrax](http://vs.tcgbrowser.com/images/cards/big/FRI-016.jpg)
 *Set: The Frightful*
@@ -2650,11 +2652,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3OTE2MTk5LC0yOTc0MTY5MTIsLTEwNz
-QzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4
-Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NT
-Y0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5
-NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxOD
-Q1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xNDE5ODg3
-NTQxXX0=
+eyJoaXN0b3J5IjpbLTI2Njk2MzY0MywtMjk3NDE2OTEyLC0xMD
+c0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQx
+ODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OT
+U2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5
+OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMT
+g0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4
+NzU0MV19
 -->
