@@ -30,6 +30,7 @@ Here are the current Good or Evil categorizations:
 * H.A.M.M.E.R.
 * Hydra
 * Leviathons
+* Masters of Evil
 * Predators
 * Sentinels 
 * Sinister Syndicate
@@ -54,7 +55,8 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjY0NzY3NSwtMTI5NDE1NjQyOCwxMT
-gwOTQ3MzE1LC0xOTA0Mjc1MjM5LC0xOTA0Mjc1MjM5LDcyMjI3
-MTc2MywtMTk2NzY5NTEwLDEzMTk3MTc2MDhdfQ==
+eyJoaXN0b3J5IjpbMTE1MDc1NzI1NSwxMDE2NjQ3Njc1LC0xMj
+k0MTU2NDI4LDExODA5NDczMTUsLTE5MDQyNzUyMzksLTE5MDQy
+NzUyMzksNzIyMjcxNzYzLC0xOTY3Njk1MTAsMTMxOTcxNzYwOF
+19
 -->
