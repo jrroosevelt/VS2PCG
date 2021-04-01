@@ -2424,7 +2424,11 @@ A: The ways you mentioned do not "remove -1/-1" they add +1/+1 counters to a cha
 # Viper
 *Set: A-Force* 
 
-Q: If I have Viper on my side and play Mister M, choosing **Succumb to Poison** does Viper effectively quadruple the number of -1 co
+Q: If I have Viper on my side and play Mister M, choosing **Succumb to Poison** does Viper effectively quadruple the number of -1/-1 counters at the end of the turn? Or do the doubling effects happen simultaneously and effectively do nothing additional?
+
+A: You get double twice (effectively quadruple).
+
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/826988069550030849)
 
 # [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
 *Set: The Predator Battles*  
@@ -2657,7 +2661,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjg2NTAwMiwtMjk3NDE2OTEyLC0xMD
+eyJoaXN0b3J5IjpbMTMwODc0NTM5MywtMjk3NDE2OTEyLC0xMD
 c0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQx
 ODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OT
 U2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5
