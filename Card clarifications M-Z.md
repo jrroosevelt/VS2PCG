@@ -733,7 +733,11 @@ A: No. When you activate his power, take the top card of your deck and place it 
 # Nightmare
 *Set: Legacy*
 
-Q: If I have Nightmare on the board and stun an opponent 
+Q: If I have Nightmare on the board and stun an opposing character in combat, are the -1/-1 counters removed from that character at the time the stun occurs?
+
+A: No. The act of stunning does not remove -1/-1 counters from opposing characters if Nightmare is on the board.
+
+^Source: ^Discord ^Post
 
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
 *Set: Galactic Guardians*  
@@ -2638,10 +2642,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkxMjU1OTUsLTMyMzUzODg1MSw1MT
-gwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYx
-ODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5Mz
-Q4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1
-NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMj
-UzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbNjIwNjYxOTkyLC0zMjM1Mzg4NTEsNTE4MD
+Q2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4
+LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5LC02OTM0OD
+A5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1
+LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5NTQsMTI1Mz
+AzMjE5MSwtMTQxOTg4NzU0MSw5NTIyMTc0MDddfQ==
 -->
