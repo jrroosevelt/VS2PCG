@@ -20,7 +20,7 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
-**Featured Format #12: It’s All Good**
+### It’s All Good
 
 The Civil War Story Arc highlights two good teams at each other’s throats. This format will explore what that kind of in-fighting looks like if we expand the available combatants.
 
@@ -30,7 +30,7 @@ The Civil War Story Arc highlights two good teams at each other’s throats. Thi
 
 **Rules:**
 
--   Your main character must be either Anti-Registration  [![upper-deck-marvel-vs-system-2pcg-team-logo-antireg](https://secureservercdn.net/45.40.148.117/zmn.43c.myftpupload.com/wp-content/uploads/2021/03/AntiReg-300x300.png)](https://secureservercdn.net/45.40.148.117/zmn.43c.myftpupload.com/wp-content/uploads/2021/03/AntiReg.png)  or Pro-Registration  **[![upper-deck-marvel-vs-system-2pcg-team-logo-proreg](https://secureservercdn.net/45.40.148.117/zmn.43c.myftpupload.com/wp-content/uploads/2021/03/ProReg-300x300.png)](https://secureservercdn.net/45.40.148.117/zmn.43c.myftpupload.com/wp-content/uploads/2021/03/ProReg.png)**.
+-   Your main character must be either Anti-Registration or Pro-Registration 
     -   The Civil War Battles (Q2 release)
     -   Secret Avengers (Anti-Registration Expansion – Q2 release)
     -   Thunderbolts (Pro-Registration Expansion – Q2 release)
@@ -358,6 +358,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NTQ5MTQwLC0zNjA4MDYwNjUsLTIwMj
-kzMDU2OTJdfQ==
+eyJoaXN0b3J5IjpbMTI5Nzg0NDgzMSwtMzYwODA2MDY1LC0yMD
+I5MzA1NjkyXX0=
 -->
