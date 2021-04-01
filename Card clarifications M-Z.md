@@ -730,6 +730,11 @@ A: No. When you activate his power, take the top card of your deck and place it 
 
 ^(Source: Chad Daniel)
 
+# Nightmare
+*Set: Legacy*
+
+Q: If I have Nightmare on the board and stun an opponent 
+
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
 *Set: Galactic Guardians*  
 
@@ -2633,10 +2638,10 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNT
-QzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEz
-LDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2ND
-IyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEz
-MSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMyMTkxLC0xND
-E5ODg3NTQxLDk1MjIxNzQwN119
+eyJoaXN0b3J5IjpbLTExNzkxMjU1OTUsLTMyMzUzODg1MSw1MT
+gwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYx
+ODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5Mz
+Q4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1
+NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMj
+UzMDMyMTkxLC0xNDE5ODg3NTQxLDk1MjIxNzQwN119
 -->
