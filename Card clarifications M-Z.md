@@ -2159,7 +2159,9 @@ An infinite loop was discovered when [Taskmaster](https://i.imgur.com/85KjJHT.jp
 
 ---
 
-Q: Scenario: I have Taskmaster on my side and my opponent plays H.A.M.M.E.R. 
+Q: Scenario: I have Taskmaster on my side and my opponent plays H.A.M.M.E.R. Cloak. Is Cloak hit with -1/-1 counters from Taskmaster copying **Darkforce Channeling**?
+
+A: Yes. 
 
 # [Terrax](http://vs.tcgbrowser.com/images/cards/big/FRI-016.jpg)
 *Set: The Frightful*
@@ -2646,11 +2648,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMz
-IzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0
-NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4Mj
-A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
-MzQsMTgwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMz
-IxMzA3OTU0LDEyNTMwMzIxOTEsLTE0MTk4ODc1NDEsOTUyMjE3
-NDA3XX0=
+eyJoaXN0b3J5IjpbLTcwNDQyMjUwNCwtMjk3NDE2OTEyLC0xMD
+c0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQx
+ODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OT
+U2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5
+OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMT
+g0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4
+NzU0MV19
 -->
