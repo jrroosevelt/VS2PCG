@@ -552,7 +552,7 @@ A: No, it can be any supporting character. This was a misprint in the rule book.
 
 Other than the above requirements, **Spells** work just like any other Plot Twists.
 
-
+**Note:** If a **Spell** is playable in combat, the **Spellcaster**who casts it does *not* have to be in combat.
 
 ^(Source: Rule Insert)
 
@@ -662,7 +662,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDEyMDEwOSwxMjMzOTM2NjAyLC02ND
+eyJoaXN0b3J5IjpbMTczNjU3MTc3MywxMjMzOTM2NjAyLC02ND
 gxNjMwMjgsLTE0MDEzMzgwMTYsLTMwOTcyOTQwNiw0NTAxNTM4
 MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAwNCwxNj
 Q0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMzg0NTEy
