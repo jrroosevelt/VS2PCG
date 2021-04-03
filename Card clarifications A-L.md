@@ -1104,8 +1104,9 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 # Dr. Strange/Doctor Strange
 ## Doctor Strange (MC- Avengers)
+Doctor Strange and Dr. Strange count as being the same name.
 
-## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC)
+## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
 *Set: Defenders*
 
 Q: If I activate L2 Dr. Strange's **Mass Transmutation** power can I target a character with +1/+1 counters as well as a character with -1/-1 counters and switch them to their opposite counter types?
@@ -2560,11 +2561,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MTI5ODUyLDk2NjcxNzIxMiwzMjA5Nz
-kwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIs
-MTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMT
-I2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIs
-MzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyND
-I2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODRd
-fQ==
+eyJoaXN0b3J5IjpbLTEyMzcwODU2MjksOTY2NzE3MjEyLDMyMD
+k3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5
+MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0ND
+ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
+MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
+I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
+NF19
 -->
