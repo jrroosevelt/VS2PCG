@@ -1102,7 +1102,9 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 ^(Source: Rule insert)
 
-# Dr. Strange
+# Dr. Strange/Doctor Strange
+## Doctor Strange (MC- Avengers)
+
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC)
 *Set: Defenders*
 
@@ -2005,14 +2007,14 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 ^(Source: Rule insert)
 
 # Iron Fist
-## Iron Fist
+## Iron Fist (MC)
 *Set: Mystic Arts*
 
 When Iron Fist Challenges a character, it remains challenged by him until it leaves play. If Iron Fist stuns a character he's challenging and it stays in play, he is still challenging it (until it leaves play).
 
 ^(Rule Insert)
 
-## [Iron Fist](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
+## [Iron Fist (SC)](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
 *Set: Defenders*
 
 Q: If my opponent attacks my character and uses **Iron Fist Punch** and I play Shock to the System reducing Iron Fist's attack to 0, he does not strike to stun, correct?
@@ -2558,11 +2560,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzcxNTIyMzIsOTY2NzE3MjEyLDMyMD
-k3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5
-MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0ND
-ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
-MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
-I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
-NF19
+eyJoaXN0b3J5IjpbNjE0MTI5ODUyLDk2NjcxNzIxMiwzMjA5Nz
+kwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIs
+MTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMT
+I2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIs
+MzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyND
+I2NzMsMTQ5OTQyNjY4NSwtNzY1NzE4MjE1LC0yOTkwNTA5ODRd
+fQ==
 -->
