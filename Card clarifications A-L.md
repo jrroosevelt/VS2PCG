@@ -1104,6 +1104,8 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 # Dr. Strange/Doctor Strange
 ## Doctor Strange (MC- Avengers)
+*Set: Mystic Arts*
+
 Doctor Strange and Dr. Strange count as being the same name.
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
@@ -1407,6 +1409,13 @@ If two or more players are playing as The First Evil, they will need to randomly
 *Set: The X-Files Battles*
 
 If the Flukeman is on your side and he **Infects** a character, this means at the end of each of your turns, put a -1/-1 counter on that character. The character will remain **Infected** until it leaves play. (Flukeman leaving play will NOT end the Infection). A character can be **Infected** more than once, and will receive a -1/-1 counter for each instance of the infection.
+
+^(Source: Rule Insert)
+
+# Forge
+*Set: Mystic Arts*
+
+Note that Forge's card number starts with "NEW" instead of "DAR". 
 
 ^(Source: Rule Insert)
 
@@ -2561,11 +2570,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcwODU2MjksOTY2NzE3MjEyLDMyMD
-k3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5
-MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0ND
-ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
-MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
-I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
-NF19
+eyJoaXN0b3J5IjpbMTg1NDU3OTQ4OCw5NjY3MTcyMTIsMzIwOT
+c5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1Nzky
+LDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MT
+EyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIy
+LDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3MzMzMTQ1NywtMjY3Mj
+QyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUwOTg0
+XX0=
 -->
