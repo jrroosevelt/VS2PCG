@@ -1415,7 +1415,7 @@ If the Flukeman is on your side and he **Infects** a character, this means at th
 # Forge
 *Set: Mystic Arts*
 
-Note that Forge's card number starts with "NEW" instead of "DAR". 
+Note that Forge's card number starts with "NEW" instead of "DAR". This is so that he works with cards that refer to "New Mutants" from the New Mutants Issue, like the Professor X main character.
 
 ^(Source: Rule Insert)
 
@@ -2570,11 +2570,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDU3OTQ4OCw5NjY3MTcyMTIsMzIwOT
-c5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1Nzky
-LDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MT
-EyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIy
-LDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3MzMzMTQ1NywtMjY3Mj
-QyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIxNSwtMjk5MDUwOTg0
-XX0=
+eyJoaXN0b3J5IjpbLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMD
+k3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5
+MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0ND
+ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
+MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
+I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
+NF19
 -->
