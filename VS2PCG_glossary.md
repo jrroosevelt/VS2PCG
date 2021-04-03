@@ -548,7 +548,13 @@ A: No, it can be any supporting character. This was a misprint in the rule book.
 ^Source: [^FB ^Post](https://m.facebook.com/groups/860168987351982?view=permalink&id=1514692965232911)
   
 # Spells and Spellcasters
-**Spells** are Plot Twists that require a specific type of **Spellcaster** character on your side to pay a specific power symbol. For example, Growth is a 
+**Spells** are Plot Twists that require a specific type of **Spellcaster** character on your side to pay a specific power symbol. For example, Growth is a ![](%%Might%%) (Might) **Spell**. To play it, a ![](%%Might%%) (Might) **Spellcaster** on your side such as Magik must pay a ![](%%Might%%) (Might). 
+
+Other than the above requirements, **Spells** work just like any other Plot Twists.
+
+
+
+^(Source: Rule Insert)
 
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
@@ -656,11 +662,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg0MjYzMTQsMTIzMzkzNjYwMiwtNj
-Q4MTYzMDI4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUz
-ODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMT
-Y0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUx
-MjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYzNS
-wzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3ODcw
-OTFdfQ==
+eyJoaXN0b3J5IjpbMTMwMDEyMDEwOSwxMjMzOTM2NjAyLC02ND
+gxNjMwMjgsLTE0MDEzMzgwMTYsLTMwOTcyOTQwNiw0NTAxNTM4
+MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OTAwNCwxNj
+Q0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEyMzg0NTEy
+MzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNywxMjExOTk5NjM1LD
+M0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAzNjY2OCw3MDc4NzA5
+MV19
 -->
