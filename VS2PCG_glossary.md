@@ -476,11 +476,8 @@ The chosen characters can team attack with each other and can't be struck back w
 # Safeguard  
  Characters without Safeguard in the same row as this character cannot be attacked.  
   
-
 # Shrink  
 When this character gets attacked for the first time each turn, you may cancel the combat.  
-
-
 
 # Side Decks (aka Side Stacks or Side Piles)
 Certain cards allow or require you to create an additional deck outside of your 60-card + Main Character deck. Technically these are referred to as "Side Decks" but may be casually referred to as "Side Stacks" or "Side Piles." The term "Side Stacks" has gained in popularity as a side reference to the VS 2PCG community member and content creator [C_Stacks](https://www.youtube.com/channel/UCf1_6QRrgfjP8Ts3dxJ6bBg) for whom the continued addition of additional Side Decks has been particularly irritating. :)
@@ -550,6 +547,8 @@ A: No, it can be any supporting character. This was a misprint in the rule book.
 
 ^Source: [^FB ^Post](https://m.facebook.com/groups/860168987351982?view=permalink&id=1514692965232911)
   
+# Spells and Spellcasters
+**Spells** are Plot Twists that require a specific type of **Spellcaster** character on your side to pay a specific power symbol. For example, Growth is a 
 
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
@@ -657,11 +656,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0xND
-AxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1NDUw
-NDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywtMT
-k4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1
-NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYzNSwzNDQ1MDgxOTksLT
-E5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3ODcwOTEsMTY4NjA2MTE3
-N119
+eyJoaXN0b3J5IjpbLTE1Mzg0MjYzMTQsMTIzMzkzNjYwMiwtNj
+Q4MTYzMDI4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUz
+ODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMT
+Y0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUx
+MjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYzNS
+wzNDQ1MDgxOTksLTE5ODQ1NTMyMSw0NjMwMzY2NjgsNzA3ODcw
+OTFdfQ==
 -->
