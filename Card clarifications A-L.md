@@ -2008,11 +2008,10 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 ## Iron Fist
 *Set: Mystic Arts*
 
-Q: If my opponent attacks my character and uses **Iron Fist Punch** and I play Shock to the System reducing Iron Fist's attack to 0, he does not strike to stun, correct?
+When Iron Fist Challenges a character, it remains challenged by him until it leaves play. If Iron Fist stuns a character he's challenging and it stays in play, he is s
 
-A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does not stun the character with his Iron Fist Punch.
+^(Rule Insert)
 
-^(Source: FB Post - Chad Daniel - UDE Approved)
 ## [Iron Fist](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
 *Set: Defenders*
 
@@ -2559,7 +2558,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTU4MzIyMCw5NjY3MTcyMTIsMzIwOT
+eyJoaXN0b3J5IjpbLTc3NTU2NzEyNiw5NjY3MTcyMTIsMzIwOT
 c5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1Nzky
 LDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MT
 EyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIy
