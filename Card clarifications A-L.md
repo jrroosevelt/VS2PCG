@@ -1110,7 +1110,9 @@ Doctor Strange and Dr. Strange count as being the same name.
 
 ---
 
-Q: **Doctor Turned Sorceror** says I can pick 
+Q: **Doctor Turned Sorceror** says I can choose which type of **Spellcaster** he is at the start of the game. When is that, exactly? Do I get to draw first?
+
+A: The short answer is, yes, you can draw (and mulligan) before choosing. For a more detailed definition, see [Start of Game in the glossary](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_start_of_game).
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
 *Set: Defenders*
@@ -2574,11 +2576,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
-Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
-MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MD
-A5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQw
-MiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3Mz
-MzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIx
-NV19
+eyJoaXN0b3J5IjpbLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMD
+Y3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEz
+LC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05Mj
+Q4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4
+Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
+EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
+XX0=
 -->
