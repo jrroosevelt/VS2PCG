@@ -573,7 +573,7 @@ Some cards or abilities refer to "At the start of the game..." Some of those car
 
 Setting up the game ends after both players have drawn their opening hands (including mulligans, if applicable).
 
-^(Source: FB Post)
+^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3819579818077536/?comment_id=3831057940263057)
 
 # Stealth  
  This character can melee attack back row characters even while they are protected.  
@@ -668,11 +668,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI4MDg0MTAsMTczNjU3MTc3MywxMj
-MzOTM2NjAyLC02NDgxNjMwMjgsLTE0MDEzMzgwMTYsLTMwOTcy
-OTQwNiw0NTAxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLD
-E2MTY1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1
-NzI1LDEyMzg0NTEyMzUsLTIxNDcwNzU2ODMsMTU4NjA0OTUyNy
-wxMjExOTk5NjM1LDM0NDUwODE5OSwtMTk4NDU1MzIxLDQ2MzAz
-NjY2OF19
+eyJoaXN0b3J5IjpbMTI1OTMxODE3NywtMTg5MjgwODQxMCwxNz
+M2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwtMTQwMTMz
+ODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LD
+E2NzczODE4NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4
+OTYzMCw0OTgyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4My
+wxNTg2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0
+NTUzMjFdfQ==
 -->
