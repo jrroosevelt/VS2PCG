@@ -1108,6 +1108,8 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 Doctor Strange and Dr. Strange count as being the same name.
 
+^(Source: Rule Insert)
+
 ---
 
 Q: **Doctor Turned Sorceror** says I can choose which type of **Spellcaster** he is at the start of the game. When is that, exactly? Do I get to draw first?
@@ -2576,11 +2578,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMD
-Y3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEz
-LC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05Mj
-Q4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4
-Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMz
-EwMzUsLTE1NzMzMzE0NTcsLTI2NzI0MjY3MywxNDk5NDI2Njg1
-XX0=
+eyJoaXN0b3J5IjpbNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0Nz
+MxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYs
+LTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MD
+MyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2Njky
+LDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5Nj
+M5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3LC0yNjcyNDI2NzNd
+fQ==
 -->
