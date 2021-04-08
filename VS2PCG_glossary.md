@@ -569,7 +569,7 @@ During your Build Phase, if this character is in your hand, you may put it onto 
 These characters **do** count toward your total of 60 cards in your deck. You don’t have to include any Spider-Verse main characters in your deck, but you can include up to four.  As a reminder, if you have multiple main characters, they must all be KO'd for you to lose the game.  
   
 # Start of Game
-Some cards or abilities refer to 
+Some cards or abilities refer to "At the start of the game..." Some of those cards include qualifiers like "...before players draw their opening hands." However, if the card doesn't 
 
 # Stealth  
  This character can melee attack back row characters even while they are protected.  
@@ -664,7 +664,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcxODI2NTIsMTczNjU3MTc3MywxMj
+eyJoaXN0b3J5IjpbLTE0MDk4ODk3NzYsMTczNjU3MTc3MywxMj
 MzOTM2NjAyLC02NDgxNjMwMjgsLTE0MDEzMzgwMTYsLTMwOTcy
 OTQwNiw0NTAxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLD
 E2MTY1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1
