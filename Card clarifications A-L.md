@@ -1108,6 +1108,10 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 Doctor Strange and Dr. Strange count as being the same name.
 
+---
+
+Q: **Doctor Turned Sorceror** says I can pick 
+
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
 *Set: Defenders*
 
@@ -2570,11 +2574,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMD
-k3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5
-MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0ND
-ExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQy
-MiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTcsLTI2Nz
-I0MjY3MywxNDk5NDI2Njg1LC03NjU3MTgyMTUsLTI5OTA1MDk4
-NF19
+eyJoaXN0b3J5IjpbMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
+Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
+MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MD
+A5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQw
+MiwxNjQ1NTUwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3Mz
+MzMTQ1NywtMjY3MjQyNjczLDE0OTk0MjY2ODUsLTc2NTcxODIx
+NV19
 -->
