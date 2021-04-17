@@ -726,6 +726,9 @@ Hydra has four different Cosmic Cubes under their control. However, each one has
 
 Q: If I play a red Cosmic Cube and call "Sentinel," for example, would it remove both Alpha Combat Units and Executive Types? Or what if I called "Captain America"? Would it remove Nomad or Supreme Leader? 
 
+A: The Cosmic Cubes mention that you can choose a card and then "... remove any number of cards with that name... " (from where depends on the specific Cube). So, the "name" in this case would include:
+- 
+
 # Cosmo
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
 *Set: Galactic Guardians*  
@@ -2582,7 +2585,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTg3MTYyLDc1MzgxOTIxMiwtNjQ0OT
+eyJoaXN0b3J5IjpbNDE4ODM2MDQ4LDc1MzgxOTIxMiwtNjQ0OT
 A2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIs
 MzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NT
 c1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEs
