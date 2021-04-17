@@ -378,7 +378,11 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 # Blade (MC)
 *Set: Into the Darkness*
 
-When Blade makes a melee attack
+When Blade makes a melee attack, **Vampire Hunter** gives Blade 1, 2, or 3 XP. **Note:** If the defender has **Vampire** in its name Blade will gain 3 XP whether the defender is Good or Evil.
+
+If Blade gets turned face down while he has a Stake counter, the Stake counter will be removed (just like +1/+1 and -1/-1 counters). 
+
+Once Blade is Level 2, **Synthetic Blood Seri 
 
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
 *Set: Freedom Force*
@@ -2597,11 +2601,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NDIzOTkxLDc1MzgxOTIxMiwtNjQ0OT
-A2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIs
-MzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NT
-c1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEs
-MTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NT
-UwNDIyLDMxOTYzOTM2LDY5MjIzMTAzNSwtMTU3MzMzMTQ1N119
-
+eyJoaXN0b3J5IjpbMTk5MTQ2NDE2NSw3NTM4MTkyMTIsLTY0ND
+kwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEy
+LDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NT
+U3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODEx
+LDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NT
+U1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTdd
+fQ==
 -->
