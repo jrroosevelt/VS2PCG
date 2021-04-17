@@ -732,7 +732,7 @@ A: The Cosmic Cubes mention that you can choose a card and then "... remove any 
 - Cards with **AKA** that matches the name of the card you chose.
 - **BUT NOT** cards with a mantle that sounds like the name of the card you chose.
 
-
+Sounds confusing? It kind of is. [Check out this infographic](https://drive.google.com/file/d/11W764QPzEByqs-LJoICGQuArPRwur_A_/view?usp=sharing) for a visual example of how this does or doesn't apply.
 
 # Cosmo
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
@@ -2590,7 +2590,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc2MjUwNTksNzUzODE5MjEyLC02ND
+eyJoaXN0b3J5IjpbLTEwMjcxNDIwMTIsNzUzODE5MjEyLC02ND
 Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
 MiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3Nj
 U1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgx
