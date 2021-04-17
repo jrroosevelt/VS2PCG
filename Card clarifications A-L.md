@@ -382,7 +382,7 @@ When Blade makes a melee attack, **Vampire Hunter** gives Blade 1, 2, or 3 XP. *
 
 If Blade gets turned face down while he has a Stake counter, the Stake counter will be removed (just like +1/+1 and -1/-1 counters). 
 
-Once Blade is Level 2, **Synthetic Blood Seri 
+Once Blade is Level 2, **Synthetic Blood Serum** will start wounding him at the end of every one of your turns except for turns where you used the Super Power to heal Blade. 
 
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
 *Set: Freedom Force*
@@ -2601,11 +2601,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTQ2NDE2NSw3NTM4MTkyMTIsLTY0ND
-kwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEy
-LDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NT
-U3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODEx
-LDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NT
-U1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzUsLTE1NzMzMzE0NTdd
-fQ==
+eyJoaXN0b3J5IjpbLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
+Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
+MiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3Nj
+U1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgx
+MSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2ND
+U1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3
+XX0=
 -->
