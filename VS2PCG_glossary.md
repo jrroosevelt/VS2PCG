@@ -81,7 +81,9 @@ Remove the captured character from the game but keep track of any wound counters
  This is a power currently available on [Wyatt Wingfoot](/r/VS2PCG/wiki/rules-insert#wiki_wyatt_wingfoot).
  
 To summarize, Wyatt will draw cards into his own "hand" and place resources into his own "resource row" that can be used to recruit during his own recruit step to bring cards onto your side.  When Wyatt leaves play or changes sides, his hand and resource row are removed from the game.  
-  
+
+# Card Name
+Name means not only the name printed on the name line, but also any **AKAs** the character has in their text box. ‘Card title’ is defined as only the name on the name line (see below).  
 
 # Card Title  
  The name of a card on the name line (ignoring AKAs).  
@@ -668,11 +670,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTMxODE3NywtMTg5MjgwODQxMCwxNz
-M2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwtMTQwMTMz
-ODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LD
-E2NzczODE4NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4
-OTYzMCw0OTgyMTU3MjUsMTIzODQ1MTIzNSwtMjE0NzA3NTY4My
-wxNTg2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0NTA4MTk5LC0xOTg0
-NTUzMjFdfQ==
+eyJoaXN0b3J5IjpbMTU0OTA4MDc5OSwxMjU5MzE4MTc3LC0xOD
+kyODA4NDEwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYz
+MDI4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC
+04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgx
+NTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC
+0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIxMTk5OTYzNSwzNDQ1
+MDgxOTldfQ==
 -->
