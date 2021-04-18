@@ -458,7 +458,7 @@ The Darkhold is an equipment found in the 2017 S.H.I.E.L.D. vs. Hydra Issue.
 # Morbius (MC)
 *Set: Into the Darkness*
 
-**The Hunger** lets Morbius melee attack characters in his own front row. In order to do so, Morbius must be ready and in the front row, and then he will e
+**The Hunger** lets Morbius melee attack characters in his own front row. In order to do so, Morbius must be ready and in the front row, and then he will exhaust to start the combat. It works just like a normal combat, except the attacker and defender are both on the same side and don't count as being enemies to each other. During the combat, each player can play Plot Twists (perhaps to cancel the combat) then each character will strike each other. If Morbius KO's the defender and survives, his **Vampire** power will give him a vitality counter.
 
 ^(Source: Rule Insert)
 
@@ -2675,11 +2675,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzcyNTAxOCwxNTM4MDIxMzIyLC0yOT
-c0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYw
-ODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNT
-UyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDky
-MiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLT
-U4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMy
-MTkxXX0=
+eyJoaXN0b3J5IjpbNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5Nz
+QxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4
+MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NT
+IzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIy
+LC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNT
+gzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIx
+OTFdfQ==
 -->
