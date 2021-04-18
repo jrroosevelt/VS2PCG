@@ -858,6 +858,11 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 
 ^(Source: Rule insert)
 
+# Deacon Frost (MC)
+*Set: Into the Darkness*
+
+
+
 # Deadpool
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
 *Set: Deadpool & Friends*
@@ -2601,11 +2606,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
-Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
-MiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3Nj
-U1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgx
-MSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2ND
-U1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1LC0xNTczMzMxNDU3
-XX0=
+eyJoaXN0b3J5IjpbMTY2MTI4NTg4NywtMTEwOTMwNDYyOSw3NT
+M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
+OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
+UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
+MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MD
+Q0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzVd
+fQ==
 -->
