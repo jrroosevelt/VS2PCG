@@ -2508,7 +2508,6 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 
 **Old at the Dawn of Humanity** triggers at the start of your Main Phase each turn. Each time it resolves you must follow the instructions of the next effect on the list, starting with **Woman** and ending with **Spirit**. 
 
-
 ^(Source: Rule Insert)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
@@ -2627,11 +2626,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc3Nzg0NjEsLTExMDkzMDQ2MjksNz
-UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
-MDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMT
-g1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2
-OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNj
-A0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1
-XX0=
+eyJoaXN0b3J5IjpbMzI0NDA0NjUsLTExMDkzMDQ2MjksNzUzOD
+E5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0
+LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mj
+k0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIs
+LTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0ND
+Q2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1XX0=
+
 -->
