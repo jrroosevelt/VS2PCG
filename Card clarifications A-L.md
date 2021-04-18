@@ -302,6 +302,13 @@ This power refers to ![](%%Energy%%) (Energy) super powers .This counts for any 
 
 ^(Source: Rule insert)
 
+# Blackbird
+*Set: Into the Darkness*
+
+The Blackbird introduces a new kind of equipment to the game - Vehicles! When you play a Vehicle, equip it to one character like normal. But whenever you rea
+
+^(Source: Rule Insert)
+
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
 *Set: Monsters Unleashed!*  
 
@@ -2626,11 +2633,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NDA0NjUsLTExMDkzMDQ2MjksNzUzOD
-E5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0
-LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mj
-k0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIs
-LTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0ND
-Q2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1XX0=
-
+eyJoaXN0b3J5IjpbLTY4OTY3NjQxNCwtMTEwOTMwNDYyOSw3NT
+M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
+OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
+UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
+MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MD
+Q0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzVd
+fQ==
 -->
