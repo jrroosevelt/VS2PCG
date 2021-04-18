@@ -1885,6 +1885,13 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 ^(Source: Rule insert)
 
+# The Hood
+*Set: Into the Darkness*  
+
+**Dormammu's "Gifts"** allows the Hood to cast spells from your deck. o do so, at a time when he can cast a Spell, announce that he's casting a Spell from your deck, search your deck for a Spell he can cast and set it aside, then sh
+
+^(Source: Rule insert)
+
 # Hope Summers
 ## [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg) (X-men)
 *Set: The Marvel Battles*
@@ -2612,7 +2619,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjI0ODUxMywtMTEwOTMwNDYyOSw3NT
+eyJoaXN0b3J5IjpbMTUxNzUxMzQyMiwtMTEwOTMwNDYyOSw3NT
 M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
 OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
 UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
