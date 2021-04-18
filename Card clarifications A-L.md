@@ -861,7 +861,9 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 # Deacon Frost (MC)
 *Set: Into the Darkness*
 
-If **Evil Scientist** moves a Supporting 
+If **Evil Scientist** moves a Supporting Character to your side, that side change is permanent. When the character gets KO'd, it will go to its owner's KO pile.
+
+At Level 2, while Deacon is melee attacking a Supporting Character, there are two likely results (unless the defender manages not to get stunned): If the defender gets KO'd, deacon Frost's **Vampire** will gan a vitality counter. And if the defender get
 
 # Deadpool
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
@@ -2606,7 +2608,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDU3MzMxNiwtMTEwOTMwNDYyOSw3NT
+eyJoaXN0b3J5IjpbMTYyNTIyNDk3MCwtMTEwOTMwNDYyOSw3NT
 M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
 OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
 UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
