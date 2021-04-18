@@ -309,7 +309,11 @@ The Blackbird introduces a new kind of equipment to the game - Vehicles! When yo
 
 - All passengers must legally be able to have the Vehicle equipped.
 - If any already had an equipment, KO that equipment (because a character can only have one equipment at a time). 
-- I
+	- If an equipment gets equipped to a passenger, it stops being equipped to the Vehicle, but the Vehicle is not KO'd as long as it has any other passengers.
+- When you rearrange your Formation, you CAN remove passengers from the Vehicle. (They stop having it equipped to them.)
+- When you're done rearranging, there must be at least one passenger.
+- Put the Vehicle card close to each of its passengers and announce who is "on board."
+
 
 ^(Source: Rule Insert)
 
@@ -2637,11 +2641,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Nzk5MDQyOSwtNTYzNzY4NTY4LC0xMT
-A5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0
-NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03Mj
-Y3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4
-OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5MiwxND
-M0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2
-XX0=
+eyJoaXN0b3J5IjpbLTc3MjUzNzc3LC01NjM3Njg1NjgsLTExMD
+kzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2
+LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNj
+c4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5
+MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0Mz
+Q3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzZd
+fQ==
 -->
