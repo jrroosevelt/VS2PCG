@@ -384,6 +384,8 @@ If Blade gets turned face down while he has a Stake counter, the Stake counter w
 
 Once Blade is Level 2, **Synthetic Blood Serum** will start wounding him at the end of every one of your turns except for turns where you used the Super Power to heal Blade. 
 
+^(Source: Rule Insert)
+
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
 *Set: Freedom Force*
 
@@ -863,7 +865,9 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 
 If **Evil Scientist** moves a Supporting Character to your side, that side change is permanent. When the character gets KO'd, it will go to its owner's KO pile.
 
-At Level 2, while Deacon is melee attacking a Supporting Character, there are two likely results (unless the defender manages not to get stunned): If the defender gets KO'd, deacon Frost's **Vampire** will gan a vitality counter. And if the defender get
+At Level 2, while Deacon is melee attacking a Supporting Character, there are two likely results (unless the defender manages not to get stunned): If the defender gets KO'd, deacon Frost's **Vampire** will gan a vitality counter. And if the defender gets wounded but not KO'd, then his **Doppelgänger Powers** will give you a copy of that character.
+
+^ (Source: Rule Insert)
 
 # Deadpool
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
@@ -2608,7 +2612,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTIyNDk3MCwtMTEwOTMwNDYyOSw3NT
+eyJoaXN0b3J5IjpbMTU4NjI0ODUxMywtMTEwOTMwNDYyOSw3NT
 M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
 OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
 UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
