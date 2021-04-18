@@ -316,7 +316,9 @@ The Blackbird introduces a new kind of equipment to the game - Vehicles! When yo
 
 **While a Vehicle has only one passenger, it works just like any other equipment.** If its passenger gets turned face down or leaves play, the Vehicle will get KO'd. If an effect moves the passenger to a different row, the Vehicle will move with them.
 
-**While a Vehicle has more than one passenger, it works a little differently.** If a passenger gets turned face down or leaves play, it becomes unequipped from the Vehicle, but the Vehicle rea
+**While a Vehicle has more than one passenger, it works a little differently.** If a passenger gets turned face down or leaves play, it becomes unequipped from the Vehicle, but the Vehicle remains equipped to the other passenger(s). If all passengers do get turned face down or leave play at the same time, they all become unequipped from the Vehicle and the Vehicle gets KO'd. 
+
+If an effect moves all passengers to a different row, the Vehicle goes with them. If an effect causes one or more passengers to be in one row and the others to be in a different row, the controller of the Vehicle chooses which group of passengers stays equipped to the Ve
 
 ^(Source: Rule Insert)
 
@@ -2644,11 +2646,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk5NjAxNTEsLTU2Mzc2ODU2OCwtMT
-EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
-NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNz
-I2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIw
-ODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMT
-QzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2Mzkz
-Nl19
+eyJoaXN0b3J5IjpbOTUwMTQ5ODA5LC01NjM3Njg1NjgsLTExMD
+kzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2
+LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNj
+c4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5
+MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0Mz
+Q3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzZd
+fQ==
 -->
