@@ -2506,6 +2506,7 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 # \* Lilith \*
 *Set: Into the Darkness*
 
+**Old at the Dawn of Humanity** triggers at the start of your Main Phase each turn. Each time it resolves you must follow the instructions of the next effec
 
 
 ^(Source: Rule Insert)
@@ -2626,7 +2627,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjYyOTEyNywtMTEwOTMwNDYyOSw3NT
+eyJoaXN0b3J5IjpbLTMyMTE3NDE4NCwtMTEwOTMwNDYyOSw3NT
 M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
 OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
 UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
