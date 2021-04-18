@@ -2503,14 +2503,12 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 
 ^(Source: FB Post - Chad Daniel)
 
-# \*Lilith\*
-*Set: Legacy*
+# \* Lilith \*
+*Set: Into the Darkness*
 
-Q: If Lilith KO's Mantis or Dormammu Are they removed from game, or do their own powers happen instead? (Mantis to the row, Dormammu shuffled into the deck.)
 
-A: When multiple triggers happen at the same time, the active player chooses which happens first. If it's the Lilith player's turn they may choose to remove the KO'd character from the game first (and gain a Health). As soon as these characters change zones, any other modifiers are lost. If it's the Mantis or Immortal player's turn, they can choose their triggers to happen first and the Lilith modifier is lost and they are not removed from the game (also Lilith does not gain a Health).
 
-^(Source: FB Post - Kirk & Chad)
+^(Source: Rule Insert)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 *Set: Galactic Guardians*  
@@ -2628,11 +2626,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIwNTYyMTcsLTExMDkzMDQ2MjksNz
-UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
-MDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMT
-g1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2
-OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNj
-A0NDQ2NDAyLDE2NDU1NTA0MjIsMzE5NjM5MzYsNjkyMjMxMDM1
-XX0=
+eyJoaXN0b3J5IjpbLTQzMjYyOTEyNywtMTEwOTMwNDYyOSw3NT
+M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
+OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
+UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
+MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MD
+Q0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzVd
+fQ==
 -->
