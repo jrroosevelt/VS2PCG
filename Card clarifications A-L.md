@@ -305,7 +305,11 @@ This power refers to ![](%%Energy%%) (Energy) super powers .This counts for any 
 # Blackbird
 *Set: Into the Darkness*
 
-The Blackbird introduces a new kind of equipment to the game - Vehicles! When you play a Vehicle, equip it to one character like normal. But whenever you rearrange your Formation (including on the turn you played the Vehicle), you may have characters on your side get on or off the Vehicle: 
+The Blackbird introduces a new kind of equipment to the game - Vehicles! When you play a Vehicle, equip it to one character like normal. But whenever you rearrange your Formation (including on the turn you played the Vehicle), you may have characters on your side get on or off the Vehicle. Choose any number up to the Vehicle's Passenger Limit (found next to "Vehicle" on its type line), put them next to each other in the same row, and equip the Vehicle to all of them. Here are more details:
+
+- All passengers must legally be able to have the Vehicle equipped.
+- If any already had an equipment, KO that equipment (because a character can only have one equipment at a time). 
+- I
 
 ^(Source: Rule Insert)
 
@@ -2633,11 +2637,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
-M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
-OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
-UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
-MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MD
-Q0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNiw2OTIyMzEwMzVd
-fQ==
+eyJoaXN0b3J5IjpbLTk3Nzk5MDQyOSwtNTYzNzY4NTY4LC0xMT
+A5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0
+NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03Mj
+Y3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4
+OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5MiwxND
+M0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUwNDIyLDMxOTYzOTM2
+XX0=
 -->
