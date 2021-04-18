@@ -320,7 +320,8 @@ The Blackbird introduces a new kind of equipment to the game - Vehicles! When yo
 
 If an effect moves all passengers to a different row, the Vehicle goes with them. If an effect causes one or more passengers to be in one row and the others to be in a different row, the controller of the Vehicle chooses which group of passengers stays equipped to the Vehicle.
 
-The X-Jet has up to four effects depending on how many passengers it has. For example, while there are exactly three face-up passengers, they will each have ![](%%Flight%%) (Flight) , +1/+1 and **Dodge**. If one passenger becomes unequipped, then the other two will now have ![](%%Flight%%) (Flight) and +1/
+The X-Jet has up to four effects depending on how many passengers it has. For example, while there are exactly three face-up passengers, they will each have ![](%%Flight%%) (Flight) , +1/+1 and **Dodge**. If one passenger becomes unequipped, then the other two will now have ![](%%Flight%%) (Flight) and +1/+1.
+
 ^(Source: Rule Insert)
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
@@ -2647,11 +2648,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyNzAxMDgsLTU2Mzc2ODU2OCwtMTEwOT
-MwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYs
-LTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nz
-g2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkw
-LC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMTQzND
-cyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2MzkzNl19
-
+eyJoaXN0b3J5IjpbLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
+EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
+NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNz
+I2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIw
+ODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMT
+QzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2Mzkz
+Nl19
 -->
