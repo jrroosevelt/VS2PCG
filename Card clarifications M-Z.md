@@ -451,9 +451,16 @@ When Monarch leaves your side, or if **Pull On Quantum Strings** gets turned off
 # The Montesi Formula
 *Set: Into the Darkness*
 
+The Darkhold is an equipment found in the 2017 S.H.I.E.L.D. vs. Hydra Issue.
 
+^(Source: Rule Insert)
 
-^(Source: FB Post - Kirk & Chad)
+# Morbius (MC)
+*Set: Into the Darkness*
+
+**The Hunger** lets Morbius melee attack characters in his own front row. In order to do so, Morbius must be ready and in the front row, and then he will e
+
+^(Source: Rule Insert)
 
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
 *Set: A-Force*  
@@ -2668,11 +2675,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MzI4Njk1LDE1MzgwMjEzMjIsLTI5Nz
-QxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4
-MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NT
-IzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIy
-LC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNT
-gzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIx
-OTFdfQ==
+eyJoaXN0b3J5IjpbMTU0NzcyNTAxOCwxNTM4MDIxMzIyLC0yOT
+c0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYw
+ODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNT
+UyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDky
+MiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLT
+U4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1NCwxMjUzMDMy
+MTkxXX0=
 -->
