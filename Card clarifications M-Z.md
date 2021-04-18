@@ -448,6 +448,13 @@ When Monarch leaves your side, or if **Pull On Quantum Strings** gets turned off
 
 ^(Source: Rule Insert)
 
+# The Montesi Formula
+*Set: Into the Darkness*
+
+
+
+^(Source: FB Post - Kirk & Chad)
+
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
 *Set: A-Force*  
 
@@ -2661,11 +2668,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMD
-c0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQx
-ODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OT
-U2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5
-OTYsMTQwNTc2OTEzNCwxODAwMTE2NTQ1LC01ODM3NzAxMzEsMT
-g0NTk1NTA0LDEzMjEzMDc5NTQsMTI1MzAzMjE5MSwtMTQxOTg4
-NzU0MV19
+eyJoaXN0b3J5IjpbNzE2MzI4Njk1LDE1MzgwMjEzMjIsLTI5Nz
+QxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4
+MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NT
+IzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIy
+LC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNT
+gzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIx
+OTFdfQ==
 -->
