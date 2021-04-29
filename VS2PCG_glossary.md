@@ -564,9 +564,9 @@ Other than the above requirements, **Spells** work just like any other Plot Twis
 
 Q: Can **Spellcaster** be turned off via cards or abilities like Nullifier? If so, would that turn off both ![](%%Might%%) (Might) **Spellcaster** and ![](%%Intellect%%) (Intellect) **Spellcaster** (for instance) or are each of those separate?
 
-A: Actually, **Spellcaster** is a separate power *type*, on the same level as Keyword Power, Super Power, or Level-Up power. So it cannot be negated by abilities that turn off any of those specific power types. The introductory blog post referenced this as a "new type of power".
+A: Actually, **Spellcaster** is a separate power *type*, on the same level as Keyword Power, Super Power, or Level-Up power. So it cannot be negated by abilities that turn off any of those specific power types. The [introductory blog post](https://www.upperdeckblog.com/2021/03/vs-system-2pcg-mystic-arts-card-preview-i-put-a-spell-on-you/) referenced this as a "new type of power".
 
-^Source: ^
+^Source: [^Discord ^Post](https://discord.com/channels/690968387542843412/690968387542843416/837395511417634898)
 
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
@@ -680,11 +680,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ4OTQ1MDIsLTE3NDk3MDM0NjIsMT
-I1OTMxODE3NywtMTg5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5
-MzY2MDIsLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwtMzA5NzI5ND
-A2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYx
-NjU5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3Mj
-UsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEy
-MTE5OTk2MzVdfQ==
+eyJoaXN0b3J5IjpbLTc0MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMj
+U5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1NzE3NzMsMTIzMzkz
+NjYwMiwtNjQ4MTYzMDI4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MD
+YsNDUwMTUzODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2
+NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNS
+wxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIx
+MTk5OTYzNV19
 -->
