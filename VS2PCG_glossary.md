@@ -560,6 +560,10 @@ Other than the above requirements, **Spells** work just like any other Plot Twis
 
 ^(Source: Rule Insert)
 
+---
+
+Q: Can **Spellcaster** be turned off via cards or abilities like 
+
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
   
@@ -672,11 +676,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMT
-g5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2
-MzAyOCwtMTQwMTMzODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMi
-wtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0LDE2NDQ4
-MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3MjUsMTIzODQ1MTIzNS
-wtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEyMTE5OTk2MzUsMzQ0
-NTA4MTk5XX0=
+eyJoaXN0b3J5IjpbLTE4ODMyOTU0OTMsLTE3NDk3MDM0NjIsMT
+I1OTMxODE3NywtMTg5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5
+MzY2MDIsLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwtMzA5NzI5ND
+A2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYx
+NjU5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0OTgyMTU3Mj
+UsMTIzODQ1MTIzNSwtMjE0NzA3NTY4MywxNTg2MDQ5NTI3LDEy
+MTE5OTk2MzVdfQ==
 -->
