@@ -562,7 +562,9 @@ Other than the above requirements, **Spells** work just like any other Plot Twis
 
 ---
 
-Q: Can **Spellcaster** be turned off via cards or abilities like 
+Q: Can **Spellcaster** be turned off via cards or abilities like Nullifier? If so, would that turn off both ![](%%Might%%) (Might) **Spellcaster** and ![](%%Intellect%%) (Intellect) **Spellcaster** (for instance) or are each of those separate?
+
+A: Actually, **Spellcaster** is a separate power *type*, on the same level as Keyword Power, Super Power, or Level-Up
 
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
@@ -676,7 +678,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMyOTU0OTMsLTE3NDk3MDM0NjIsMT
+eyJoaXN0b3J5IjpbLTE5MDcxMDQ0MDAsLTE3NDk3MDM0NjIsMT
 I1OTMxODE3NywtMTg5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5
 MzY2MDIsLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwtMzA5NzI5ND
 A2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LDE2NzczODE4NTIsMTYx
