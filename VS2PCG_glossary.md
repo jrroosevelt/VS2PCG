@@ -78,7 +78,7 @@ When this character attacks, put a +1/+1 counter on it
 Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
   
 #  Card Game
- This is a power currently available on [Wyatt Wingfoot](/r/VS2PCG/wiki/rules-insert#wiki_wyatt_wingfoot).
+This is a power currently available on [Wyatt Wingfoot](/r/VS2PCG/wiki/rules-insert#wiki_wyatt_wingfoot).
  
 To summarize, Wyatt will draw cards into his own "hand" and place resources into his own "resource row" that can be used to recruit during his own recruit step to bring cards onto your side.  When Wyatt leaves play or changes sides, his hand and resource row are removed from the game.  
 
@@ -680,11 +680,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMj
-U5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1NzE3NzMsMTIzMzkz
-NjYwMiwtNjQ4MTYzMDI4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MD
-YsNDUwMTUzODMyLC04MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2
-NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNS
-wxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1ODYwNDk1MjcsMTIx
-MTk5OTYzNV19
+eyJoaXN0b3J5IjpbLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwtMT
+c0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1
+NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0xNDAxMzM4MD
+E2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1NDUwNDgsMTY3
+NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5Nj
+MwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1
+ODYwNDk1MjddfQ==
 -->
