@@ -147,14 +147,6 @@ If a character references itself in its text box, those references will also use
 ^(Source: Rule insert)
 
 
-# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg)
-^CardNumber:TUB-018
- 
-*Set: The Utopia Battles*  
-
-**Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
-
-^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
 ^CardNumber:RES-001
@@ -218,6 +210,8 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 # [Ardina](http://vs.tcgbrowser.com/images/cards/big/HER-008.jpg)
+^CardNumber:HER-008
+
 *Set: The Herald*  
 
 **Clone of the Silver Surfer** refers to the "card title" Silver Surfer. This means the name at the very top of the card must be Silver Surfer. **AKA**s don't count.
@@ -228,7 +222,10 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 If Ardina appears via some mechanism other than being recruited (such as being brought along by Lockjaw or Legacy), you do not have to pay the additional cost of wounding Silver Surfer.  
 ^Source: [^FB ^Community ^Discussion](https://www.facebook.com/groups/860168987351982/?post_id=3057050447663814)
 
-# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
+
+# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg)
+^CardNumber:TUB-018
+ 
 *Set: The Utopia Battles*  
 
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
@@ -237,6 +234,8 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 # Arnim Zola
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
+^CardNumber:TUB-018
+
 *Set: Crossover* 
  
 **ESP Box** takes effect once the game starts and lasts the whole game (even while Arnim Zola is stunned, after he levels up, and even after he is KO’d). You can play any Equipment as a Supporting Character, regardless of whether you have a character with a matching team affiliation. When you play one as a Supporting Character, it’s no longer an Equipment. If it has a power that references “Equipped Character,” it is its own equipped character. When the card leaves play it will go back to being an Equipment. You may still play an Equipment normally and equip it to one of your characters (including on an Equipment that you played as a Supporting Character). 
@@ -2688,11 +2687,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDQxNzEwNiwzNTI4MjUyMTksLTEzOT
-kxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTky
-MTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOT
-Y2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5
-NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNT
-AwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0
-MDJdfQ==
+eyJoaXN0b3J5IjpbMjI3NzQ2OTk2LDM1MjgyNTIxOSwtMTM5OT
+E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
+MiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
+Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
+MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MD
+A5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQw
+Ml19
 -->
