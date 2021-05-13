@@ -36,6 +36,8 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 ^(Source: Rule insert)
 
 # [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
+^CardNumber:MCU1-033
+
 *Set: Galactic Guardians* 
  
 At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam Warlock gets KO'd by getting stunned, **Prepare for Rebirth** will cause him to gain an XP and become [Level 2](http://vs.tcgbrowser.com/images/cards/big/GAL-002.jpg) while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
@@ -2652,11 +2654,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01Nj
-M3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0
-OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMj
-A5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3
-OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxND
-QxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3NDM5NDY1MjEsMzUyODI1MjE5LC0xMz
+k5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5
+MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LD
+k2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0
+OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLT
+UwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2
+NDAyXX0=
 -->
