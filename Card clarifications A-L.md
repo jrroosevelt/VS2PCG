@@ -175,6 +175,8 @@ Level 1 Angel and Angelus can transform between each other. However, when you bu
 ^(Source: Rule insert)
 
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
+^CardNumber:GAL-015
+
 *Set: Galactic Guardians*  
 
 **An Angel From the Heavens** makes it difficult for Angela to be solo attacked. An attacker must have ![](%%Flight%%) or ![](%%Range%%) (or both) to solo attack her. 
@@ -184,6 +186,8 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 ^(Source: Rule insert)
 
 # [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
+^CardNumber:FRI-001
+
 *Set: The Frightful*
 
 **Lord of the Negative Zone** allows you to include up to two Negative Zone Locations in your deck. (If Mister Fantastic is in your deck your Invention pile will also include its usual two Negative Zones.)
@@ -196,6 +200,8 @@ When Annihilus levels up, you'll shuffle his Level 1 card into your deck. While 
 
 
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
+^CardNumber:TBB-018
+
 *Set: The Buffy Battles*
 
 Her **Newly Human and Strangely Literal** power ignores all stat increases including +1/+1 counters. It doesn’t remove the counters – they just have no effect this turn.
@@ -203,6 +209,8 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 # [Archangel](http://vs.tcgbrowser.com/images/cards/big/RES-002.jpg)
+^CardNumber:RES-002
+
 *Set: Resistance*  
 
 **[Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)** means that he strikes Supporting Characters with double his ATK.
@@ -2680,11 +2688,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NDY1MzMsMzUyODI1MjE5LC0xMzk5MT
-Y4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEy
-LC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2Nj
-cxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTcz
-Niw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMD
-k4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAy
-XX0=
+eyJoaXN0b3J5IjpbLTQzNDQxNzEwNiwzNTI4MjUyMTksLTEzOT
+kxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTky
+MTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOT
+Y2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5
+NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5MiwtNT
+AwOTg4ODExLDE0NDExMjY2OTIsMTQzNDcyNzk4Miw2MDQ0NDY0
+MDJdfQ==
 -->
