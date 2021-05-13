@@ -321,7 +321,9 @@ A: No, Hypnotize creates a modifier with an expiration that temporarily makes a 
 
 ^(Source: FB Post - Kirk - confirmed by Chad)
 
-## [Baron von Strucker](http://vs.tcgbrowser.com/images/cards/big/MCU4-013.jpg) (SC-MCU Villains)
+# [Baron von Strucker](http://vs.tcgbrowser.com/images/cards/big/MCU4-013.jpg) (SC-MCU Villains)
+^CardNumber:MCU4-013
+
 *Set: Power & Reality*  
 
 To resolve the **Age of Miracles**, first choose a Supporting Character with 1 printed Health other than Baron von Strucker. Then randomly select one of the six new Keyword Powers. that character gains the new power until it leaves play. (To randomly select a power, we recommend rolling a 6-sided die where 1 is **Dark** and 6 is **Wise**.)
@@ -331,6 +333,8 @@ To resolve the **Age of Miracles**, first choose a Supporting Character with 1 p
 ^(Source: Rule insert)
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
+^CardNumber:DFX-010
+
 *Set: The New Defenders*  
 
 Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
@@ -338,6 +342,8 @@ Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
 ^(Source: Rule insert)
 
 # [Beetle](http://vs.tcgbrowser.com/images/cards/big/SFO-004.jpg)
+^CardNumber:SFO-004
+
 *Set: Spidey-Foes* 
 
 Q: Does “could melee attack” imply that Beetle has to be ready in order to use his power?
@@ -2699,11 +2705,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
-gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
-NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
-EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
-MTMsLTE4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLT
-kyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3
-OTgyXX0=
+eyJoaXN0b3J5IjpbMTQ0MTk0NjM1NiwtMTczNzY0OTc1OSw2OT
+k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
+NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
+c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
+OTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMT
+E4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2
+NjkyXX0=
 -->
