@@ -404,6 +404,8 @@ A: If you are attacking, yes. Lethal only activates when attacking and when you 
 
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
+^CardNumber:AFF-027
+
 *Set: A-Force*
 
 Q: If Satana is in play and Black Cat attacks a defender and uses **Cross their Path** to Daze that character, is it KO'd by Lethal?
@@ -413,6 +415,7 @@ A: Daze counts as stunning, but Lethal was changed to work when a wounding a def
 ^(Source: FB Post - Chad Daniel)
 
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
+^CardNumber:SPF-012
 *Set: Spider-Friends*  
 
 **Personal Loyalty**  
@@ -421,6 +424,8 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 ^(Source: Rule insert)
 
 # [Blackheart](http://vs.tcgbrowser.com/images/cards/big/def-048.jpg)
+^CardNumber:DEF-048
+
 *Set: Defenders*
 
 Q: [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg) targeting Blackheart. He resets to a 4/4 for the rest of the combat, yes? His power does not turn on until the next combat he becomes involved in?
@@ -2711,11 +2716,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTE1MDgwMywtMTczNzY0OTc1OSw2OT
-k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
-NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
-c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
-OTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMT
-E4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2
-NjkyXX0=
+eyJoaXN0b3J5IjpbMzc1NDg4MDQwLC0xNzM3NjQ5NzU5LDY5OT
+YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
+OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
+Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
+NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMT
+gwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2
+OTJdfQ==
 -->
