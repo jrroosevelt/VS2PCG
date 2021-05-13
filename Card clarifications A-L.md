@@ -299,6 +299,8 @@ If there are no other face-up characters in play, Awesome Android's ATK/DEF beco
 ^(Source: Rule insert)
 
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
+^CardNumber:DEF-046
+
 *Set: Legacy*  
 
 Baron Mordo can revert a main character back to level 1 until your next turn. When the effect wears off, the character goes back to whatever level and card it was before.  
@@ -2697,7 +2699,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQyOTAwNDgsNjk5NjM5MjE5LDM1Mj
+eyJoaXN0b3J5IjpbLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
 gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
 NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
 EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
