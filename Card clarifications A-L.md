@@ -147,7 +147,9 @@ If a character references itself in its text box, those references will also use
 ^(Source: Rule insert)
 
 
-# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg) 
+# [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg)
+^CardNumber:TUB-018
+ 
 *Set: The Utopia Battles*  
 
 **Psionic Exoskeleton** is a combat power, but its effect lasts for the rest of the turn.
@@ -155,6 +157,8 @@ If a character references itself in its text box, those references will also use
 ^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
+^CardNumber:RES-001
+
 *Set: Resistance*  
 
 When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
@@ -162,6 +166,8 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 ^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
+^CardNumber:TBB-011
+
 *Set: The Buffy Battles*  
 
 Level 1 Angel and Angelus can transform between each other. However, when you build a deck you must choose either Angel or Angelus to be your starting Main Character. (You must lock in your decision at the time you build your deck, not after you see what Main Character your opponent is using.) When Angel transforms into Angelus or vice versa, he keeps his orientation (ready/exhausted, face up/face down), all of his counters (including XP), and any effects on him.
@@ -2674,11 +2680,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM0MzUzNzIsMzUyODI1MjE5LC0xMz
-k5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5
-MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LD
-k2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0
-OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLT
-UwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2
-NDAyXX0=
+eyJoaXN0b3J5IjpbNzk1NDY1MzMsMzUyODI1MjE5LC0xMzk5MT
+Y4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEy
+LC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2Nj
+cxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTcz
+Niw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMD
+k4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAy
+XX0=
 -->
