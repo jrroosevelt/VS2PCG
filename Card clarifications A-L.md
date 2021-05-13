@@ -361,7 +361,9 @@ This power refers to ![](%%Energy%%) (Energy) super powers .This counts for any 
 
 ^(Source: Rule insert)
 
-# Blackbird
+# [Blackbird](http://vs.tcgbrowser.com/images/cards/big/DAR-017.jpg)
+^CardNumber:DAR-017
+
 *Set: Into the Darkness*
 
 The Blackbird introduces a new kind of equipment to the game - Vehicles! When you play a Vehicle, equip it to one character like normal. But whenever you rearrange your Formation (including on the turn you played the Vehicle), you may have characters on your side get on or off the Vehicle. Choose any number up to the Vehicle's Passenger Limit (found next to "Vehicle" on its type line), put them next to each other in the same row, and equip the Vehicle to all of them. Here are more details:
@@ -384,6 +386,8 @@ The X-Jet has up to four effects depending on how many passengers it has. For ex
 ^(Source: Rule Insert)
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
+^CardNumber:MMU-037
+
 *Set: Monsters Unleashed!*  
 
 Black Bolt’s Super Powers use the Amplify ability. When you use a Super Power, if you discard a Location (instead of turning it face-down in your resource row), you get the Amplify text. Previous Amplify Super Powers grant an effect to begin with but a larger effect if you Amplify it. Black Bolt’s powers only grant an effect if you Amplify them.
@@ -2707,7 +2711,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDc2NzgyMiwtMTczNzY0OTc1OSw2OT
+eyJoaXN0b3J5IjpbMTg5MTE1MDgwMywtMTczNzY0OTc1OSw2OT
 k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
 NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
 c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
