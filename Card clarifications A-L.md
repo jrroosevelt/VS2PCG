@@ -264,6 +264,8 @@ To create a **Clone** put a token copy of the chosen character onto your side. T
 
 # Avalanche
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/BOM-009.jpg) (Brotherhood)
+^CardNumber:BOM-009
+
 *Set: Brotherhood of Mutants*  
 
 Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses it. However, if you play a new copy of Avalanche later, the super power on that copy will start over.
@@ -271,6 +273,8 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 ^(Source: Rule insert)
 
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/TUB-022.jpg) (Resistance)
+^CardNumber:TUB-022
+
 *Set: The Utopia Battles*  
 
 **The Big One** KOs basic Locations with different types. The types are:
@@ -2691,11 +2695,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OT
-E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
-MiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
-Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
-MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MD
-A5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQw
-Ml19
+eyJoaXN0b3J5IjpbMTQ4Nzk1NTE3NSw2OTk2MzkyMTksMzUyOD
+I1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2
+MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMT
+A2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4Njcx
+MywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOT
+I0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5
+ODJdfQ==
 -->
