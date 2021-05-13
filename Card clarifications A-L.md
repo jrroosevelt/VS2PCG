@@ -487,6 +487,7 @@ Once Blade is Level 2, **Synthetic Blood Serum** will start wounding him at the 
 ^(Source: Rule Insert)
 
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
+^CardNumber:FRE-009
 
 *Set: Freedom Force*
 
@@ -501,6 +502,8 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
+^CardNumber:CV1-003
+
 *Set: Crossover*  
 
 If Blob strikes a character and his **Boing!** power causes that character to strike itself, you add Blob’s ATK to that character’s own ATK to see if it’s enough to stun it. 
@@ -511,6 +514,8 @@ If Blob moves for any reason (including during your Formation Step or because an
 ^(Source: Rule insert)
 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/BOM-015.jpg) (SC)
+^CardNumber:BOM-015
+
 *Set: Brotherhood of Mutants*  
 
 Blob’s **Stuck in His Stomach** power represents a melee attacker getting temporarily trapped by Blob’s flab. This effect will take place even if Blob gets KO’d in the attack. (Just imagine him unconscious lying on top of the attacker.)
@@ -520,12 +525,16 @@ And his **Bounced Off His Belly** power represents projectiles getting bounced b
 ^(Source: Rule insert)
 
 # [Book of the Vishanti](http://vs.tcgbrowser.com/images/cards/big/SVH-058.jpg)
+^CardNumber:SVH-058
+
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ^(Source: Rule insert)
 
 
 # [Boomerang](http://vs.tcgbrowser.com/images/cards/big/SFO-008.jpg)
+^CardNumber:SFO-008
+
 *Set: Spidey-Foes*  
 
 **Specialized Boomerangs**  
@@ -534,6 +543,8 @@ Boomerang can "throw" a different Boomerang each turn at one front row and one b
 ^(Source: Rule insert)
 
 # [Break the Fourth Wall](http://vs.tcgbrowser.com/images/cards/big/MFM-019.jpg)
+^CardNumber:MFM-019
+
 *Set: Deadpool & Friends*  
 
 This plot twist really lets you get in the game. When you put a “Me” token onto your side, you get to choose a team affiliation and your age will determine your ATK and DEF. You’ll have Leader because you’re still in charge of your team, but don’t worry – if you get KO’d you don’t lose the game because you’re also still a player. We figure you have more questions about all this, so let’s dive in. 
@@ -554,6 +565,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 ^(Source: Rule insert)
 
 # [Brotherhood](http://vs.tcgbrowser.com/images/cards/big/FRE-019.jpg)
+
 *Set: Freedom Force*
 
 When you play Brotherhood there must be two exhausted face-up characters that share a team affiliation on your side. Or else the effect does nothing.
@@ -2727,11 +2739,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTczMjAyOSwtMTczNzY0OTc1OSw2OT
-k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
-NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
-c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
-OTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMT
-E4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2
-NjkyXX0=
+eyJoaXN0b3J5IjpbLTE1NzM3Nzc0MDIsLTE3Mzc2NDk3NTksNj
+k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
+NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMT
+k3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5
+MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1NzkyLD
+ExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEy
+NjY5Ml19
 -->
