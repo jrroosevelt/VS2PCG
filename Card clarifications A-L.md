@@ -290,6 +290,8 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 ^(Source: Rule insert)
 
 # [Awesome Android](http://vs.tcgbrowser.com/images/cards/big/FAN-042.jpg)
+^CardNumber:FAN-042
+
 *Set: The Fantastic Battles*  
 
 If there are no other face-up characters in play, Awesome Android's ATK/DEF become 0/0 (and he gets stunned).
@@ -2695,11 +2697,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzk1NTE3NSw2OTk2MzkyMTksMzUyOD
-I1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2
-MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMT
-A2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4Njcx
-MywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOT
-I0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzQyOTAwNDgsNjk5NjM5MjE5LDM1Mj
+gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
+NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
+EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
+MTMsLTE4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLT
+kyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3
+OTgyXX0=
 -->
