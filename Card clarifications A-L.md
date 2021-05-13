@@ -234,7 +234,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 # Arnim Zola
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
-^CardNumber:TUB-018
+^CardNumber:CV1-001
 
 *Set: Crossover* 
  
@@ -245,6 +245,8 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 ^(Source: Rule insert)
 
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/MCU4-017.jpg) (SC-MCU Villains)
+^CardNumber:MCU4-017
+
 *Set: Power & Reality*  
 
 1. If you understand how **I Wrote an Algorithm** works, goto 2. If not, goto 3.
@@ -254,6 +256,8 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 ^(Source: Rule insert)
 
 # [Astra](http://vs.tcgbrowser.com/images/cards/big/FRE-011.jpg)
+^CardNumber:FRE-011
+
 *Set: Freedom Force*
 
 To create a **Clone** put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character but nothing else. It appears face up and ready and does not appear with any counters or status effects (like **Burn**). Uniqueness does apply to the token.
@@ -2687,7 +2691,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NzQ2OTk2LDM1MjgyNTIxOSwtMTM5OT
+eyJoaXN0b3J5IjpbNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OT
 E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
 MiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
 Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
