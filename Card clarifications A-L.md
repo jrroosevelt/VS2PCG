@@ -13,11 +13,13 @@ The following card-specific information is a culmination of clarifications, rule
 
 For additional information, see also:
 
-* [Rule changes, bans, errata, and clarifications](/r/VS2PCG/wiki/rulings)
+* [Rule changes, bans, errata, and clarifications](https://www.reddit.com/r/vs2pcg/wiki/rulings)
 
-* [Glossary of Terms, keywords and effects](/r/VS2PCG/wiki/glossary#wiki_hide )
+* [Glossary of Terms, keywords and effects](http://www.reddit.com/r/vs2pcg/wiki/glossary)
 
 # [Abduction](http://vs.tcgbrowser.com/images/cards/big/XFB-037.jpg)
+{CardNumber:XFB-037}
+
 *Set: The X-Files Battles*
 
 The abducted character will re-enter the game with wound counters on it equal to its printed health minus one. So if it has 3 printed health, it will re-enter the game with two wounds. **Note:** This won't trigger any powers that look for "when a character gets wounded**.
@@ -2648,11 +2650,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
-EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
-NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNz
-I2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIw
-ODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2OTIsMT
-QzNDcyNzk4Miw2MDQ0NDY0MDIsMTY0NTU1MDQyMiwzMTk2Mzkz
-Nl19
+eyJoaXN0b3J5IjpbNTk4MjE0Njg1LC0xMzk5MTY4Mzg0LC01Nj
+M3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0
+OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMj
+A5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3
+OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxND
+QxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0
+MjJdfQ==
 -->
