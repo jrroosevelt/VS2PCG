@@ -435,6 +435,8 @@ A: Even the Odds creates a modifier that overrides or suppresses any other modif
 ^(Source: FB Post - Community)
 
 # [Black Oil](http://vs.tcgbrowser.com/images/cards/big/XFB-036.jpg)
+^CardNumber:XFB-036
+
 *Set: The X-Files Battles*
 
 You can only equip this to an enemy Supporting Character. Then during your Draw Phase, you can pay an ![](%%Energy%%) (Energy) to bring that character to your side until it leaves play.
@@ -445,6 +447,8 @@ You can only equip this to an enemy Supporting Character. Then during your Draw 
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
+^CardNumber:COS-001
+
 *Set: Cosmic Avengers*  
 
 For Black Panther's **Passing Down the Knowledge**, whenever more than one card is put into your KO pile at the same time, he still only gains 1 XP.
@@ -452,6 +456,8 @@ For Black Panther's **Passing Down the Knowledge**, whenever more than one card 
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
+^CardNumber:MCU2-003
+
 *Set: MCU Heroes*  
 
 Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from being struck for the entire turn including the combat he’s currently in.
@@ -459,13 +465,17 @@ Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
+^CardNumber:MCU2-014
+
 *Set: MCU Heroes*  
 
 Black Panther Black Panther’s **Bulletproof** power prevents enemy characters with ![](%%Range%%) from striking him. It doesn’t matter if Black Panther is attacking or defending, or if it’s a melee attack or ranged attack. As long as a character has ![](%%Range%%) it can’t strike him.
 
 ^(Source: Rule insert)
 
-# Blade (MC)
+# [Blade (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-001.jpg)
+^CardNumber:DAR-001
+
 *Set: Into the Darkness*
 
 When Blade makes a melee attack, **Vampire Hunter** gives Blade 1, 2, or 3 XP. **Note:** If the defender has **Vampire** in its name Blade will gain 3 XP whether the defender is Good or Evil.
@@ -477,6 +487,7 @@ Once Blade is Level 2, **Synthetic Blood Serum** will start wounding him at the 
 ^(Source: Rule Insert)
 
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
+
 *Set: Freedom Force*
 
 If **Memory Thief** sets a character's base health to 1, and that character has a wound, it will get KO'd.
@@ -2716,11 +2727,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1NDg4MDQwLC0xNzM3NjQ5NzU5LDY5OT
-YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
-OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
-Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
-NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMT
-gwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2
-OTJdfQ==
+eyJoaXN0b3J5IjpbMTk2MTczMjAyOSwtMTczNzY0OTc1OSw2OT
+k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
+NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
+c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
+OTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMT
+E4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxNDQxMTI2
+NjkyXX0=
 -->
