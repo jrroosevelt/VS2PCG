@@ -36,7 +36,7 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 ^(Source: Rule insert)
 
 # [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
-^CardNumber:MCU1-033
+^CardNumber:GAL-001
 
 *Set: Galactic Guardians* 
  
@@ -52,6 +52,8 @@ A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing wit
 ^(Source: UDE FAQ - UDE Approved 6/10/2016)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
+^CardNumber:FAN-013
+
 *Set: The Fantastic Battles*  
 
 If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
@@ -59,6 +61,10 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 ^(Source: Rule insert)
 
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
+^CardNumber:MCU1-033
+
+*Set: Futures Past*
+
 You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) who do not share any names and do not have any copies in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
 
 ^(Source: Rule Insert)
@@ -2654,11 +2660,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM5NDY1MjEsMzUyODI1MjE5LC0xMz
-k5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5
-MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LD
-k2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0
-OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLT
-UwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2
-NDAyXX0=
+eyJoaXN0b3J5IjpbNTI2ODA4MjAxLDM1MjgyNTIxOSwtMTM5OT
+E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
+MiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
+Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
+MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MD
+A5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQw
+Ml19
 -->
