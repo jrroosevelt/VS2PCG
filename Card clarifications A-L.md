@@ -107,7 +107,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule Insert)
 
 ## [Alex Krycek (SC)](http://vs.tcgbrowser.com/images/cards/big/XFB-033.jpg)
-^CardNumber:MCU1-033
+^CardNumber:XFB-033
 
 *Set: The X-Files Battles*
 
@@ -116,6 +116,8 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule Insert)
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
+^CardNumber:FAN-009
+
 *Set: The Fantastic Battles*  
 
 Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on your side, who has 10/6 ATK/DEF. While Alicia is also on your side, his ATK/DEF become  10/10.
@@ -123,6 +125,8 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 ^(Source: Rule insert)
 
 # [Alien Symbiote](http://vs.tcgbrowser.com/images/cards/big/SPF-021.jpg)
+^CardNumber:SPF-021
+
 *Set: Spider Friends*
 
 >If a character that is equipped with the Alien Symbiote gains an equipment card, put the Alien Symbiote in the KO pile.
@@ -130,6 +134,8 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
 # [Alter Ego](http://vs.tcgbrowser.com/images/cards/big/MCU7-019.jpg)
+^CardNumber:MCU7-019
+
 *Set: Friendly Neighborhood*  
 
 "Make up a new name" means you must rename a character card with something that is not already the name of a character in the Vs System 2PCG. Some examples of made-up names are "Night Monkey", "Dr. Baby", and "The Fudge".
@@ -2668,7 +2674,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc2NDE3MzYsMzUyODI1MjE5LC0xMz
+eyJoaXN0b3J5IjpbLTE2OTM0MzUzNzIsMzUyODI1MjE5LC0xMz
 k5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5
 MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LD
 k2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0
