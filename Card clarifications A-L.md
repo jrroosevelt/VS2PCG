@@ -61,7 +61,7 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 ^(Source: Rule insert)
 
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
-^CardNumber:MCU1-033
+^CardNumber:Fut-023
 
 *Set: Futures Past*
 
@@ -70,6 +70,8 @@ You start the game with a private out-of-game Hound pile. The pile must contain 
 ^(Source: Rule Insert)
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
+^CardNumber:MFM-012
+
 *Set: Deadpool & Friends*  
 
 Ajax's **Pain Tolerance** power says he can only be KO'd by fatal wounds at the end of a turn. A character has fatal wounds if it has at least as many wounds as its health. So Ajax can have any amount of wounds but won't actually get KO'd until the end of a turn.
@@ -85,6 +87,8 @@ A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Tras
 ^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
+^CardNumber:HAM-019
+
 *Set: H.A.M.M.E.R.*  
 
 When the character in “prison” turns face up, the player who used Alcatraz decides which row on its original side it goes back to.
@@ -94,6 +98,8 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 
 # Alex Krycek
 ## [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
+^CardNumber:XFB-022
+
 *Set: The X-Files Battles*
 
 **Fight or Die** can choose any random Main Character, even ones not in the combat. WE suggest rolling a die to determine which character gets stunned. If Kryceck gets stunned this way, he will get removed from combat. If a stunned Main Character is chosen, nothing happens. If a hidden Main Character is chosen, stun it.
@@ -101,6 +107,8 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule Insert)
 
 ## [Alex Krycek (SC)](http://vs.tcgbrowser.com/images/cards/big/XFB-033.jpg)
+^CardNumber:MCU1-033
+
 *Set: The X-Files Battles*
 
 **We All Have a Life in Our Hands** says to choose a unique character. This counts any character that doesn't have **Swarm**. To secretly choose a character we suggest jotting its name down on a piece of paper. **Note:** If the character you chose gets KO'd but then later another character with the same name is in play, the new character does NOT count for **We All Have a Life in Our Hands**.
@@ -2660,11 +2668,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2ODA4MjAxLDM1MjgyNTIxOSwtMTM5OT
-E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
-MiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
-Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
-MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MD
-A5ODg4MTEsMTQ0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQw
-Ml19
+eyJoaXN0b3J5IjpbLTE2Mjc2NDE3MzYsMzUyODI1MjE5LC0xMz
+k5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5
+MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LD
+k2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0
+OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLT
+UwMDk4ODgxMSwxNDQxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2
+NDAyXX0=
 -->
