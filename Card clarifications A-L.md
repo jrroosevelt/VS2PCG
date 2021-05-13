@@ -27,7 +27,7 @@ The abducted character will re-enter the game with wound counters on it equal to
 ^(Source: Rule Insert)
 
 # [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
-^CardNumber:XFB-037
+^CardNumber:MCU1-033
 
 *Set: MCU Battles*
   
@@ -2652,11 +2652,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg3MjkzNywtMTM5OTE2ODM4NCwtNT
-YzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2
-NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMz
-IwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1
-NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMT
-Q0MTEyNjY5MiwxNDM0NzI3OTgyLDYwNDQ0NjQwMiwxNjQ1NTUw
-NDIyXX0=
+eyJoaXN0b3J5IjpbMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01Nj
+M3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0
+OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMj
+A5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3
+OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgxMSwxND
+QxMTI2NjkyLDE0MzQ3Mjc5ODIsNjA0NDQ2NDAyLDE2NDU1NTA0
+MjJdfQ==
 -->
