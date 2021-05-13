@@ -565,6 +565,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 ^(Source: Rule insert)
 
 # [Brotherhood](http://vs.tcgbrowser.com/images/cards/big/FRE-019.jpg)
+^CardNumber:FRE-019
 
 *Set: Freedom Force*
 
@@ -2739,11 +2740,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM3Nzc0MDIsLTE3Mzc2NDk3NTksNj
-k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
-NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMT
-k3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5
-MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1NzkyLD
-ExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4MTEsMTQ0MTEy
-NjY5Ml19
+eyJoaXN0b3J5IjpbNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
+YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
+OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
+Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
+NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMT
+gwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2
+OTJdfQ==
 -->
