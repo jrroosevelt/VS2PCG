@@ -352,6 +352,8 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 
 # \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
+^CardNumber:LEG-015
+
 *Set: Legacy*  
 
 **Energy Transference**  
@@ -2705,7 +2707,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTk0NjM1NiwtMTczNzY0OTc1OSw2OT
+eyJoaXN0b3J5IjpbLTc3MDc2NzgyMiwtMTczNzY0OTc1OSw2OT
 k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
 NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
 c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
