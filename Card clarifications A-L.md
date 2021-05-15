@@ -584,6 +584,8 @@ If you choose one frozen and one exhausted character, only the exhausted charact
 
 # Bruce Banner
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
+^CardNumber:MCU1-003, MCU1-004
+
 *Set: The MCU Battles*  
 
 Bruce doesn’t level up. Instead, when he attacks he transforms right into the Hulk Level 2 main character. Note: Hulk doesn’t have a Level 1 version. The only way to become him is to start as Bruce.
@@ -591,6 +593,8 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (SC)
+^CardNumber:MCU1-00
+
 *Set: Power & Reality*  
 
 **I Think I'm Getting The Hang of It!** counts each time it was used this game by this card while it's in play. If it leaves play and comes back or later you have another copy of this card on your side, **I Think I'm Getting The Hang of It!** will start over.
@@ -2740,11 +2744,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
-YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
-OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
-Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
-NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5MiwxMT
-gwMzIwODkwLC05MjQ4MzY5MiwtNTAwOTg4ODExLDE0NDExMjY2
-OTJdfQ==
+eyJoaXN0b3J5IjpbNDc2ODk5NTIzLDQ2MDUxMzQzNSwtMTczNz
+Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
+LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
+Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
+MiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3Nj
+U1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgx
+MV19
 -->
