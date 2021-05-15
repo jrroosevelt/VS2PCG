@@ -592,8 +592,8 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 ^(Source: Rule insert)
 
-## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (SC)
-^CardNumber:MCU1-00
+## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu4-018.jpg) (SC)
+^CardNumber:MCU4-018
 
 *Set: Power & Reality*  
 
@@ -602,6 +602,8 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 # [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-003.jpg) / [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/MCU4-002.jpg)
+^CardNumber:MCU4-002, MCU4-003
+
 *Set: Power & Reality*  
 
 **The New Fist of Hydra** allows an enemy player to force Winter Soldier to stun a character on your side. When an enemy character pays for **Longing, Rusted, Furnace, Daybreak,** it can use one of its own "wild" Location(s). 
@@ -612,6 +614,8 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 
 # [Buffy](http://vs.tcgbrowser.com/images/cards/big/TBB-003.jpg) (MC) 
+^CardNumber:TBB-003, TBB-004
+
 *Set: The Buffy Battles*  
 
 Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character. If she does and it’s the last enemy Main Character in play, you win immediately! But if something goes wrong or there are other enemy Main Characters left, Buffy will get KO’d at the end of the turn.
@@ -2744,11 +2748,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2ODk5NTIzLDQ2MDUxMzQzNSwtMTczNz
-Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
-LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
-Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
-MiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3Nj
-U1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2OTIsLTUwMDk4ODgx
-MV19
+eyJoaXN0b3J5IjpbMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
+c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
+NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNj
+Q0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcy
+MTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNz
+Y1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4
+MTFdfQ==
 -->
