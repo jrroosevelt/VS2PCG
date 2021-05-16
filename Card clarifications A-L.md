@@ -640,7 +640,9 @@ A: When you pay a cost, you have to pay the entire cost, and you can not play an
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
-# [Bullseye](http://vs.tcgbrowser.com/images/cards/big/def-027.jpg) (MC)
+# [Bullseye](http://vs.tcgbrowser.com/images/cards/big/HAM-001.jpg) (MC)
+^CardNumber:HAM-001, HAM-002
+
 *Set: H.A.M.M.E.R.*  
 
 When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to the defender’s DEF. But if the Defender gains or loses DEF later in the combat, that won’t affect Bullseye’s ATK.
@@ -649,8 +651,11 @@ When Bullseye uses **Perfect Aim** it will give him ATK until it’s equal to th
 With **Everything’s a Weapon**, you’ll put the top card of your deck into your KO pile before you choose which enemy character to apply the effect to.
 
 ^(Source: Rule insert)
+
 # Cable
 ## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
+^CardNumber:NEW-001, NEW-002
+
 *Set: New Mutants*  
 
 Cable’s **Advanced Cybernetics** power gives all your equipment everywhere the (X-Men) team affiliation for a turn. This makes it so you can play any equipment even if you don’t have a character that matches the equipment’s printed team affiliation.
@@ -673,6 +678,8 @@ A: Yes. Only wounds, levels, and equipment on MCs remain as-is.
 
 
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
+^CardNumber:MNB-045
+
 *Set: The Marvel Battles*
 
 Q: How does his **Ultimate Soldier** power work?
@@ -698,6 +705,8 @@ A: His power will still trigger and stun the defender even though Cable himself 
 ^(Source: UDE FAQ)
 
 # [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
+^CardNumber:MNB-001, MNB-002
+
 *Set: The Marvel Battles*
 
 Q: Does his **Avengers Assemble** power work even if he’s not one of the team attackers?
@@ -715,6 +724,8 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 ^(Source: UDE FAQ)
 
 # [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-027.jpg) (SC - MCU Heroes)
+^CardNumber:MOE-015
+
 *Set: Mind & Soul*  
 
 **Higher, Further, Faster** lets Captain Marvel ignore ![](%%Flight%%) (Flight) on enemy front row characters in order to attack a back row character. (Characters with **Grab** will still get in her way though.) 
@@ -2752,11 +2763,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTc3Njc0MywyMDE5ODMyMjQwLDQ2MD
-UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
-LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
-UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
-MDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMT
-g1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjExODE4MTcsMjAxOTgzMjI0MCw0Nj
+A1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIx
+OSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LD
+c1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcx
+MDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLT
+E4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgz
+NjkyXX0=
 -->
