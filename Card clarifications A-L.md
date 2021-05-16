@@ -842,7 +842,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
-^CardNumber:X
+^CardNumber:XFB-026, XFB-027
 
 *Set: The X-Files Battles*
 
@@ -853,6 +853,8 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
+^CardNumber:MFM-013
+
 *Set: Deadpool & Friends*
 
 Q: If I remove Copycat to Singularity's **Pocket Dimension** with two other characters, when all 3 return does Copycat get all the powers of the other two supporting characters she returned with?
@@ -878,6 +880,8 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 ^(Source: Official clarification)
 
 # [Corvus Glaive](http://vs.tcgbrowser.com/images/cards/big/MCU6-015.jpg)
+^CardNumber:MCU6-015
+
 *Set: Space & Time*  
 
 **Glaive Mastery** prevents an enemy character from gaining +1/+1 counters or an increase in ATK or DEF. For example, if an effect would give an enemy combatant +2/+0 and **Lethal**, and Corvus uses **Glaive Mastery**, that character would only gain **Lethal**. If an effect adds ATK but subtracts DEF (or adds DEF but subtracts ATK), Glaive Master will prevent the gain but not the loss. 
@@ -2784,7 +2788,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTkzNzkyOSwyMDE5ODMyMjQwLDQ2MD
+eyJoaXN0b3J5IjpbMTM4Mzg0NjQ5MSwyMDE5ODMyMjQwLDQ2MD
 UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
 LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
 UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
