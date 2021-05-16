@@ -832,8 +832,8 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
 
-# The Collector
-^CardNumber:MOE-015
+# [The Collector](http://vs.tcgbrowser.com/images/cards/medium/CV3-002.jpg)
+^CardNumber:CV3-001, CV3-002
 
 *Set: Crossover Vol. 3*
 
@@ -842,6 +842,8 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
+^CardNumber:X
+
 *Set: The X-Files Battles*
 
 **Prepare for Colonization** gives **Swarm** to all characters you own, which means you no longer have to worry about your characters being KO'd due to uniqueness.
@@ -2782,7 +2784,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTA3NDA5OCwyMDE5ODMyMjQwLDQ2MD
+eyJoaXN0b3J5IjpbMTY2MTkzNzkyOSwyMDE5ODMyMjQwLDQ2MD
 UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
 LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
 UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
