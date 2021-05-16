@@ -386,7 +386,7 @@ The X-Jet has up to four effects depending on how many passengers it has. For ex
 ^(Source: Rule Insert)
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
-^CardNumber:MMU-037
+^CardNumber:MMU-036, MMU-037
 
 *Set: Monsters Unleashed!*  
 
@@ -404,7 +404,7 @@ A: If you are attacking, yes. Lethal only activates when attacking and when you 
 
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
-^CardNumber:AFF-027
+^CardNumber:AFF-027, AFF-028
 
 *Set: A-Force*
 
@@ -447,7 +447,7 @@ You can only equip this to an enemy Supporting Character. Then during your Draw 
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
-^CardNumber:COS-001
+^CardNumber:COS-001, COS-002
 
 *Set: Cosmic Avengers*  
 
@@ -456,7 +456,7 @@ For Black Panther's **Passing Down the Knowledge**, whenever more than one card 
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
-^CardNumber:MCU2-003
+^CardNumber:MCU2-003, MCU2-004
 
 *Set: MCU Heroes*  
 
@@ -2748,11 +2748,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0MjIxOTQ4LDIwMTk4MzIyNDAsNDYwNT
-EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
-LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
-M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
-OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
-UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
-Ml19
+eyJoaXN0b3J5IjpbLTIyMjM1MzYwNSwyMDE5ODMyMjQwLDQ2MD
+UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
+LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
+UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
+MDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMT
+g1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2
+OTJdfQ==
 -->
