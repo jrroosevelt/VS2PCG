@@ -724,7 +724,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 ^(Source: UDE FAQ)
 
 # [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-027.jpg) (SC - MCU Heroes)
-^CardNumber:MOE-015
+^CardNumber:MCU5-027
 
 *Set: Mind & Soul*  
 
@@ -734,6 +734,8 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 
 
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
+^CardNumber:COS-012
+
 *Set: Cosmic Avengers*  
 
 His **Cosmic Awareness** allows him to ask an opponent one concrete question about their hand. The answer has to be truthful. In a casual setting, use the honor system, or a bystander to help out. In a more formal setting, you can ask a judge. Good examples of questions to ask are: 
@@ -746,6 +748,7 @@ His **Cosmic Awareness** allows him to ask an opponent one concrete question abo
 ^(Source: Rule insert)
 
 # [Captain Swain](http://vs.tcgbrowser.com/images/cards/big/MMU-047.jpg)
+^CardNumber:MMU-047
 
 *Set: Monsters Unleashed*
 
@@ -756,6 +759,8 @@ A: No. By default powers/abilities can only target cards in the Play Zone unless
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/1407375245964684)
 
 # [Carnage](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
+^CardNumber:DEF-035
+
 *Set: The Defenders*  
 
 **Maximum Carnage**  
@@ -765,6 +770,8 @@ Carnage’s power triggers when he stuns or gets stunned. So it’s possible for
 
 # Chameleon
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SFO-001.jpg) (MC)
+^CardNumber:SFO-001
+
 *Set: Spidey-Foes*  
 
 If Chameleon appears in the middle of the game, then **Blessing in Disguise** will copy any "appears" powers on face-up **Sinister Syndicate** Supporting Characters on your side.
@@ -772,6 +779,8 @@ If Chameleon appears in the middle of the game, then **Blessing in Disguise** wi
 ^(Source: Rule insert)
 
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SYN-007.jpg) (SC)
+^CardNumber:SYN-007
+
 *Set: Sinister Syndicate*  
 
 **Master of Disguise**  
@@ -780,6 +789,8 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 ^(Source: Rule insert)
 
 # [The Champion](http://vs.tcgbrowser.com/images/cards/big/CV2-019.jpg)
+^CardNumber:CV2-
+
 *Set: Crossover Vol. 2*  
 
 **Primordial Power**  
@@ -2763,11 +2774,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjExODE4MTcsMjAxOTgzMjI0MCw0Nj
-A1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIx
-OSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LD
-c1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcx
-MDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLT
-E4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgz
-NjkyXX0=
+eyJoaXN0b3J5IjpbLTU5NTE2OTkzLDIwMTk4MzIyNDAsNDYwNT
+EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
+LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
+M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
+OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
+UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
+Ml19
 -->
