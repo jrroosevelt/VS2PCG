@@ -36,7 +36,7 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 ^(Source: Rule insert)
 
 # [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
-^CardNumber:GAL-001
+^CardNumber:GAL-001, GAL-002
 
 *Set: Galactic Guardians* 
  
@@ -98,7 +98,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 
 # Alex Krycek
 ## [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
-^CardNumber:XFB-022
+^CardNumber:XFB-022, XFB-023
 
 *Set: The X-Files Battles*
 
@@ -149,7 +149,7 @@ If a character references itself in its text box, those references will also use
 
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
-^CardNumber:RES-001
+^CardNumber:RES-001, RES-002
 
 *Set: Resistance*  
 
@@ -2748,11 +2748,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
-c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
-NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNj
-Q0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcy
-MTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNz
-Y1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgzNjkyLC01MDA5ODg4
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NzkyODc1NTAsMjAxOTgzMjI0MCw0Nj
+A1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIx
+OSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LD
+c1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcx
+MDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLT
+E4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgz
+NjkyXX0=
 -->
