@@ -1234,9 +1234,17 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 
 Q: Does “an exact replica” trigger once for each Doombot in play. I.e. I have MC Doom and two Doombots on my side. Doom is stunned and would be wounded. An exact replica triggers on one of my two Doombots and the MC Doom is the random card chosen. Before he would be wounded, does the second Doombots keyword trigger and I pick another card at random to have the chance to potentially prevent the wound a second time?
 
-A: 
+A: First thing to know is it, is NOT a trigger. A trigger will ALWAYS start with the words, "When, Whenever, At". This is a replacement power. In short, you can try once per Doombot.
 
-^Source: [^Facebook ^Post](%5E%28Source:%20Rule%20insert%29)
+If there are multiple Doombots, that means there are multiple modifiers trying to replace the same event. If there are multiple replacement modifiers trying to apply to the same event, you choose one to apply.
+
+If after you processed the replacement modifier, the event no longer happens, then the rest of the replacement modifiers do nothing. If the event still would happen, then you apply another replacement modifier. You keep doing this until the event no longer happens, or you have ran out of replacement modifiers.
+
+In the case of Doombot, the event in question is Doctor Doom being wounded. As long as he is still being wounded, you may continue to try to apply replacement modifiers.
+
+Sorry for the short answer last night, I was tired and about to go to bed when I saw the question.
+
+^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/2945524228816437/?comment_id=2947706685264858)
 
 # Dormammu
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
@@ -2804,11 +2812,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM0NjcxNTEsMTI0MzM2MjAwNCwyMD
-E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
-MTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLT
-ExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMx
-NjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLT
-cyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMy
-MDg5MF19
+eyJoaXN0b3J5IjpbNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5OD
+MyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTks
+MzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMD
+kzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2
+LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNj
+c4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5
+MF19
 -->
