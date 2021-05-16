@@ -922,13 +922,15 @@ With **All Bark, No Flight** each power lost grants 1 XP. So if a character lose
 ^(Source: Rule insert)
 
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/BAN-001.jpg) (SC - MNB-061)
-^CardNumber:SVH-023
+^CardNumber:MNB-061
 
 *Set: The Marvel Battles*
 
 [This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
+^CardNumber:TUB-001, TUB-002 
+
 *Set: The Utopia Battles*  
 
 You will draw two cards with **They’ll Follow Him** if you have one Supporting Character that is both (Brotherhood) and (X-Men). Similarly, a multi-affiliation character can satisfy more than one of the requirements of **The Squad I’ve Put Together** and **Trust the Plan**. 
@@ -2794,7 +2796,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDQ4NTU0MiwyMDE5ODMyMjQwLDQ2MD
+eyJoaXN0b3J5IjpbMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MD
 UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
 LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
 UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
