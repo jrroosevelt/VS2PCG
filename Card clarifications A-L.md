@@ -623,6 +623,8 @@ Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character.
 ^(Source: Rule insert)
 
 # [Build a Better World](http://vs.tcgbrowser.com/images/cards/big/aff-025.jpg)
+^CardNumber:AFF-025
+
 *Set: A-Force*
 
 Q: If I need to play two of the same color locations for an ability, can I play a plot twist in between to turn a location face up? Or do I need to use two different locations to pay the cost?
@@ -631,7 +633,9 @@ A: When you pay a cost, you have to pay the entire cost, and you can not play an
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-# Bulldozer
+# [Bulldozer](http://vs.tcgbrowser.com/images/cards/big/MOE-015.jpg)
+^CardNumber:MOE-015
+
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
@@ -2748,7 +2752,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzU4Mzc0NSwyMDE5ODMyMjQwLDQ2MD
+eyJoaXN0b3J5IjpbMTkyNTc3Njc0MywyMDE5ODMyMjQwLDQ2MD
 UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
 LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
 UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
