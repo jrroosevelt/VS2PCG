@@ -789,7 +789,7 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 ^(Source: Rule insert)
 
 # [The Champion](http://vs.tcgbrowser.com/images/cards/big/CV2-019.jpg)
-^CardNumber:CV2-
+^CardNumber:CV2-019
 
 *Set: Crossover Vol. 2*  
 
@@ -799,6 +799,8 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 ^(Source: Rule insert)
 
 # [Chimichanga](http://vs.tcgbrowser.com/images/cards/big/MFM-021.jpg)
+^CardNumber:MFM-021
+
 *Set: Deadpool & Friends*  
 
 Deadpool’s favorite deep-fried burrito has two different costs to use its super power. You must choose which cost to pay – you can’t combine them. For example, you couldn’t pay ![](%%Energy%%) (Energy) and ![](%%Intellect%%) (Intellect) and then say Chimichanga twice. That would be madness.
@@ -806,6 +808,8 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 ^(Source: Rule insert)
 
 # [Cigarette Smoking Man (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-024.jpg)
+^CardNumber:XFB-024, XFB-025
+
 *Set: The X-Files Battles*
 
 **Come Work For Me** will count when a character turns face up either because it was hidden or because it was stunned and recovered. If CSM is turned face up at the same time as other characters on your side, he will 'see' them and gain XP for them.
@@ -817,6 +821,8 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 ^(Source: Rule Insert)
 
 # [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
+^CardNumber:TUB-044
+
 *Set: The Utopia Battles*
 
 **Darkforce Channeling** affects all characters, including ones that appear on your side
@@ -827,6 +833,8 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule insert)
 
 # The Collector
+^CardNumber:MOE-015
+
 *Set: Crossover Vol. 3*
 
 **Upgrade the Collection** removes a card from the game. His **Collection** can only have one equipment, one plot twist, and one supporting character at a time. But once one is played from his **Collection**, he is free to add another card of that type to his Collection. **Note:** When he plays a card from his **Collection**, it can't be played as a resource.
@@ -2774,11 +2782,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTE2OTkzLDIwMTk4MzIyNDAsNDYwNT
-EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
-LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
-M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
-OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
-UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
-Ml19
+eyJoaXN0b3J5IjpbMTkwMTA3NDA5OCwyMDE5ODMyMjQwLDQ2MD
+UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
+LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
+UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
+MDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMT
+g1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2
+OTJdfQ==
 -->
