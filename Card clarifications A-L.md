@@ -158,7 +158,7 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 ^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
-^CardNumber:TBB-011
+^CardNumber:TBB-001, TBB-028
 
 *Set: The Buffy Battles*  
 
@@ -178,7 +178,7 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 ^(Source: Rule insert)
 
 # [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
-^CardNumber:FRI-001
+^CardNumber:FRI-001, FRI-002
 
 *Set: The Frightful*
 
@@ -234,7 +234,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 # Arnim Zola
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
-^CardNumber:CV1-001
+^CardNumber:CV1-001, CV1-002
 
 *Set: Crossover* 
  
@@ -299,7 +299,7 @@ If there are no other face-up characters in play, Awesome Android's ATK/DEF beco
 ^(Source: Rule insert)
 
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
-^CardNumber:DEF-046
+^CardNumber:DEF-046, DEF-047
 
 *Set: Legacy*  
 
@@ -2748,11 +2748,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkyODc1NTAsMjAxOTgzMjI0MCw0Nj
-A1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIx
-OSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LD
-c1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcx
-MDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLT
-E4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgz
-NjkyXX0=
+eyJoaXN0b3J5IjpbNjM0MjIxOTQ4LDIwMTk4MzIyNDAsNDYwNT
+EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
+LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
+M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
+OTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xOD
+UyOTQ5NzM2LDc2NTU3NTc5MiwxMTgwMzIwODkwLC05MjQ4MzY5
+Ml19
 -->
