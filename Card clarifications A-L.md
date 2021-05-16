@@ -502,7 +502,7 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
-^CardNumber:CV1-003
+^CardNumber:CV1-003, CV1-004
 
 *Set: Crossover*  
 
@@ -602,7 +602,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 # [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-003.jpg) / [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/MCU4-002.jpg)
-^CardNumber:MCU4-002, MCU4-003
+^CardNumber:MCU4-001, MCU4-002, MCU4-003
 
 *Set: Power & Reality*  
 
@@ -2748,11 +2748,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc0MzM5NTcsMjAxOTgzMjI0MCw0Nj
-A1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIx
-OSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LD
-c1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcx
-MDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLT
-E4NTI5NDk3MzYsNzY1NTc1NzkyLDExODAzMjA4OTAsLTkyNDgz
-NjkyXX0=
+eyJoaXN0b3J5IjpbLTg5MzU4Mzc0NSwyMDE5ODMyMjQwLDQ2MD
+UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
+LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
+UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
+MDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMT
+g1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2
+OTJdfQ==
 -->
