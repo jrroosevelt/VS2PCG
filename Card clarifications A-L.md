@@ -889,6 +889,8 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 ^(Source: Rule insert)
 
 # Cosmic Cubes
+^CardNumber:SVH-023, SVH-024, SVH-025, SVH-026
+
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 Hydra has four different Cosmic Cubes under their control. However, each one has a different Super Power using a different Power Symbol.
@@ -911,6 +913,8 @@ Sounds confusing? It kind of is. [Check out this infographic](https://drive.goog
 
 # Cosmo
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
+^CardNumber:GAL-004, GAL-005
+
 *Set: Galactic Guardians*  
 
 With **All Bark, No Flight** each power lost grants 1 XP. So if a character loses three powers, Cosmo gains 3 XP. **Note:** ![](%%Flight%%) and ![](%%Range%%) are both keyword powers. A character must lose a power and remain face up in order for Cosmo to gain an XP. Losing powers because a character turned face down doesn't count. 
@@ -918,6 +922,8 @@ With **All Bark, No Flight** each power lost grants 1 XP. So if a character lose
 ^(Source: Rule insert)
 
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/BAN-001.jpg) (SC - MNB-061)
+^CardNumber:SVH-023
+
 *Set: The Marvel Battles*
 
 [This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
@@ -2788,7 +2794,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzg0NjQ5MSwyMDE5ODMyMjQwLDQ2MD
+eyJoaXN0b3J5IjpbMjA4NDQ4NTU0MiwyMDE5ODMyMjQwLDQ2MD
 UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
 LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
 UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
