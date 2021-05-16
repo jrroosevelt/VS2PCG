@@ -1229,6 +1229,13 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 
 ^(Source: Rule insert)
 
+# [Doombot](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg)
+*Set: The Utopia Battles*   
+
+**Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
+
+^(Source: Rule insert)
+Does “an exact replica” trigger once for each Doombot in play. I.e. I have MC Doom and two Doombots on my side. Doom is stunned and would be wounded. An exact replica triggers on one of my two Doombots and the MC Doom is the random card chosen. Before he would be wounded, does the second Doombots keyword trigger and I pick another card at random to have the chance to potentially prevent the wound a second time?
 
 # Dormammu
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
@@ -2796,11 +2803,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MD
-UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
-LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
-UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
-MDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4NjcxMywtMT
-g1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5MCwtOTI0ODM2
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTExNTIzMDY2MDYsMTI0MzM2MjAwNCwyMD
+E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
+MTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLT
+ExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMx
+NjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLT
+cyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMy
+MDg5MF19
 -->
