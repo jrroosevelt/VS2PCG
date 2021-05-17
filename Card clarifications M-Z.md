@@ -1415,7 +1415,7 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 ^(Source: Rule insert)
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
-^CardNumber: FUT-005, FUT-006
+^CardNumber: HER-010
 
 *Set:  The Herald*  
 
@@ -2890,7 +2890,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODEyNzkxMiwtNzYwODI3MjQ1LDE5MT
+eyJoaXN0b3J5IjpbMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LDE5MT
 EzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4
 NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNT
 M4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUz
