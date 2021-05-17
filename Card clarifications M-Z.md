@@ -89,11 +89,11 @@ He doesn't make Equipment played as other card types free (like Impossible Man o
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
-Q: On Hydra Magneto, does "all enemy equipment" mean "all equipment on enemy sides" or "all equipment owned by an enemy"? For example, I'm wondering if it would KO inhibitor collars that an opponent attached to my characters that are on my side?
+Q: On Hydra Magneto, does "all enemy equipment" mean "all equipment on enemy sides" or "all equipment owned by an enemy"? For example, I'm wondering if it would KO Inhibitor Collars that an opponent attached to my characters that are on my side?
 
-A: Magneto does KO equipment owned by the enemy (such as Inhibitor Collars played by the opponent
+A: Magneto does KO equipment owned by the enemy (such as Inhibitor Collars played by the enemy).
 
-^(Source: Rule insert)
+^Source: Rule insert)
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
 ^CardNumber: GAL-016
@@ -2750,11 +2750,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE2ODk3MzgsLTE3NDUzMDY3ODAsND
-YwOTMwNTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5
-MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMT
-YwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQx
-OTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMT
-Q2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3
-MDEzMV19
+eyJoaXN0b3J5IjpbLTEzNjE1MjEwOCwtMTc0NTMwNjc4MCw0Nj
+A5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkx
+MiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNj
+A1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5
+MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xND
+Y0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcw
+MTMxXX0=
 -->
