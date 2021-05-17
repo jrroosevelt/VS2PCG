@@ -1839,7 +1839,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
         
 
 # [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
-^CardNumber:FAN-0234
+^CardNumber:FAN-023
 
 *Set: The Fantastic Battles*  
 
@@ -1856,6 +1856,8 @@ This Plot Twist can allow you to add an attacker to your attack. The attacker mu
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
+^CardNumber:RES-003, RES-004
+
 *Set: Resistance*  
 
 **'Dis Card**  
@@ -1864,6 +1866,8 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 ^(Source: Rule insert)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-012.jpg) (SC)
+^CardNumber:RES-012
+
 *Set: Resistance*  
 
 **Molecular Acceleration** is a Keyword Power, not a Super Power.
@@ -1875,6 +1879,8 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 [This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_gambit_mc)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/mnb-041.jpg) (SC)
+^CardNumber:MNB-041
+
 *Set: The Marvel Battles*
 
 Q: Can I use **Kinetic Card Throw** to discard a card even if there’s no enemy supporting character to stun? (For example, can I use Gambit to put Deadpool into my KO Pile even if there’s no enemies with cost 3 or less in play?)
@@ -1884,6 +1890,8 @@ A: No. There must be a face-up enemy supporting character in play.
 ^(Source: UDE FAQ)
 
 # [Gamora](http://vs.tcgbrowser.com/images/cards/big/mnb-057.jpg) (MC)
+^CardNumber:MNB-057, MNB
+
 *Set: The Marvel Battles*
 
 Q: Does her **Deadliest Woman in the Universe** power work if a Main Character attacked her (and she stunned it)?
@@ -2947,11 +2955,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjE5NzM5LDE5ODAxMDI2NzksLTEwNz
-Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
-LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
-YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
-OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
-Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
-Nl19
+eyJoaXN0b3J5IjpbLTEwOTM3NjIwMzAsMTk4MDEwMjY3OSwtMT
+A3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIw
+MDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNj
+k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
+NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMT
+k3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5
+MDk2XX0=
 -->
