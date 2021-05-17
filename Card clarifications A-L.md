@@ -2051,6 +2051,8 @@ If more than one player has the Grandmaster as their main character, they will e
 ^(Source: Rule Insert)
 
 ## [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg) - MCU SC
+^CardNumber:MCU6-001, MCU6-002
+
 *Set: Space & Time*  
 
 **Who's Having Fun?** put a +1/+1 counter on two different Supporting Characters. If you have one, you'll have to put a +1/+1 on an enemy Supporting Character if possible. With **Contest of Champions** you can choose any two Supporting Characters, even two on the same side.
@@ -2060,6 +2062,8 @@ If more than one player has the Grandmaster as their main character, they will e
 
 # Green Goblin
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC - Sinister Six)
+^CardNumber: CV1-005
+
 *Set: Crossover*  
 
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a Sinister Six deck, you choose any six Sinister Six characters to go with that deck.
@@ -2069,6 +2073,8 @@ Goblin’s **Bag of Tricks** allows you to discard Locations to make him more po
 ^(Source: Rule insert)
 
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/mnb-079.jpg) (MC - Super Villains)
+^CardNumber: MNB-079, MNB-080, 
+
 *Set: The Marvel Battles* 
 
 Q: How does his **Sadistic Choice** power work?
@@ -2977,11 +2983,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NDc0OTcyLDY4NDA4MDg3NSwxOTgwMT
-AyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUs
-MTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNz
-Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
-LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
-Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
-Ml19
+eyJoaXN0b3J5IjpbMTQ3MDQ1MzQ5OCw2ODQwODA4NzUsMTk4MD
+EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
+LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
+c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
+NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNj
+Q0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcy
+MTJdfQ==
 -->
