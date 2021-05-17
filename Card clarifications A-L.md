@@ -2806,6 +2806,8 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 ^(Source: Rule insert)
 
 # [Lady Deathstrike](http://vs.tcgbrowser.com/images/cards/big/aff-046.jpg)
+^CardNumber: AFF-046
+
 *Set: A-Force*
 
 Q: When does Death Strike determine if Lady Deathstrike has survived the Combat if I bring her into combat with an MC with Dramatic Entrance? If she isn't stunned by the Attacking MC and activated Death Strike will the MC get 2 wounds even though Dramatic Entrance will KO her at the end of combat?
@@ -2823,6 +2825,8 @@ A: Impervious Skin would not apply because it only prevents wounds from getting 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
+^CardNumber: PRD-049
+
 *Set: The Predator Battles*  
 
 **No Autographs**   
@@ -2831,6 +2835,8 @@ While in play, Lambert has every Good Team Affiliation. This does a variety of t
 ^(Source: Rule insert)
 
 # [Legacy](http://vs.tcgbrowser.com/images/cards/big/HER-012.jpg)
+^CardNumber: HER-012
+
 *Set: The Herald*  
 
 Legacy can pay for **Nega-Bands** by spending either a ![](%%Might%%) (Might) or Negative Zone Location. Spending a Negative Zone means turning a Location named Negative Zone face down in your resource row or discarding one from your hand. (It works just like using a regular Location to pay for a super power except you don't actually generate a power symbol.)
@@ -2838,6 +2844,8 @@ Legacy can pay for **Nega-Bands** by spending either a ![](%%Might%%) (Might) or
 ^(Source: Rule insert)
 
 # [Legion](http://vs.tcgbrowser.com/images/cards/big/OGA-010.jpg)
+^CardNumber: OGA-010
+
 *Set: The Omegas*  
 
 When a **Personality** takes over Legion, the following occurs:
@@ -2897,6 +2905,8 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 ^(Source: Rule insert)
 
 # [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
+^CardNumber: MMU-081
+
 *Set: Monsters Unleashed!*  
 
 See [Fin Fang Foom](#wiki_fin_fang_foom).
@@ -2904,6 +2914,8 @@ See [Fin Fang Foom](#wiki_fin_fang_foom).
 ^(Source: Rule insert)
 
 # [Leviathon Twin Drake](http://vs.tcgbrowser.com/images/cards/big/CV1-012.jpg)
+^CardNumber: CV1-012
+
 *Set: Crossover Vol. 1*
 
 Q: The first line of **Leviathon Overseer** says "Characters on your side with **Comet Fall** gain **Comet Fall**... How does that work? 
@@ -3083,11 +3095,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI1ODY0NjgsLTE2OTgxNDI2NDAsMj
-I2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3
-MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMD
-E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
-MTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLT
-ExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMx
-NjQ2XX0=
+eyJoaXN0b3J5IjpbMjE4NDIzODgzLC0xNjk4MTQyNjQwLDIyNj
+cwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5
+NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOT
+gzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5
+LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMT
+A5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0
+Nl19
 -->
