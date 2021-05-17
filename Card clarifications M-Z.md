@@ -93,7 +93,7 @@ Q: On Hydra Magneto, does "all enemy equipment" mean "all equipment on enemy sid
 
 A: Magneto does KO equipment owned by the enemy (such as Inhibitor Collars played by the enemy).
 
-^Source: Rule insert)
+[^Source: ^Ben ^C.](https://discord.com/channels/488058478015807499/490215795503398912/843952644485414963)
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
 ^CardNumber: GAL-016
@@ -2750,7 +2750,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE1MjEwOCwtMTc0NTMwNjc4MCw0Nj
+eyJoaXN0b3J5IjpbLTM2MTQ1MDEzOSwtMTc0NTMwNjc4MCw0Nj
 A5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkx
 MiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNj
 A1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5
