@@ -1316,6 +1316,8 @@ His Level 2 **Trailblazer** ability does allow him to search for characters he g
 ^(Source: Rule Insert)
 
 ## [Pyro](http://vs.tcgbrowser.com/images/cards/big/BOM-008.jpg) (SC)
+^CardNumber: BOM-008
+
 *Set: Brotherhood of Mutants*  
 
 Pyro’s **Fire Manipulation** power lets him create a supporting character creature that has the stats of a random character from your deck. The new character uses a physical supporting character card but erases its name, team affiliation, and game text and powers and replaces them with the name Fire Man, the (Brotherhood) team symbol, and the Creature keyword. (Which means it can’t have equipment.) When it’s KO’d or otherwise leaves play the card will go back to counting as the character printed on it.
@@ -1323,6 +1325,8 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 ^(Source: Rule insert)
 
 # [Quicksilver](http://vs.tcgbrowser.com/images/cards/big/MCU5-010.jpg) (MC - MCU Villains)
+^CardNumber: MCU5-010, MCU5-011
+
 *Set: Mind & Soul*  
 
 You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
@@ -1332,6 +1336,8 @@ You start the game with both Main Characters (Scarlet Witch and Quicksilver) and
 ^(Source: Rule insert)
 
 # [Rachel Summers (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-006.jpg)
+^CardNumber: FUT-005, FUT-006
+
 *Set: Futures Past*
 
 **Powerful Heritage** and **Daughter of the Phoenix** refer  to the "card title" for Phoenix and Dark Phoenix. This means the name at the very top of the card must be Phoenix or Dark Phoenix. **AKA**s don't count.
@@ -2870,11 +2876,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDgyNzI0NSwxOTExMzY0NTc5LDE2Nj
-kzNDA0OTUsMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2
-NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUzODAyMTMyMiwtMj
-k3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2
-MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LD
-U1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTQwNTE2MTk0MSwtNzYwODI3MjQ1LDE5MT
+EzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4
+NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNT
+M4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUz
+ODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLT
+IwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUy
+ODldfQ==
 -->
