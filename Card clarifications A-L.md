@@ -1565,6 +1565,8 @@ A: Yes.
 ^(Source: Rule Insert)
 
 # [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg)
+^CardNumber:MNB-076
+
 *Set: The Marvel Battles*
 
 Q: How does this card work?
@@ -1606,6 +1608,8 @@ A: This **Thing is Huge! It's... It's Big!** does not actually modify the ATK. I
 ^(Source - FB Post - Chad Daniel)
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
+^CardNumber:MFM-005, MFM-006
+
 *Set: Deadpool & Friends* 
   
 Made from Deadpool’s discarded body parts that fused back together into a new person, Evil Deadpool gains XP whenever you discard a character. This includes powering up as well as any effect that causes you to “discard” a card (whether you or your opponent controls the effect).
@@ -1619,6 +1623,8 @@ Evil Deadpool’s Level 2 super power puts Good characters into play but turns t
 ^(Source: Rule insert)
 
 # [Facehugger](http://vs.tcgbrowser.com/images/cards/big/ALN-052.jpg)
+^CardNumber:ALN-052
+
 *Set: The Alien Battles*  
 
 **Facehuggers and Capturing Characters**   
@@ -1641,6 +1647,8 @@ If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg)
 ^(Source: Rule insert)
 
 # [Faith](http://vs.tcgbrowser.com/images/cards/big/TBB-055.jpg) 
+^CardNumber:TBB-055
+
 *Set: The Buffy Battles*  
 
 Faith can steal any kind of counter from an enemy defender.
@@ -1648,6 +1656,8 @@ Faith can steal any kind of counter from an enemy defender.
 ^(Source: Rule insert)
 
 # [Falcon](http://vs.tcgbrowser.com/images/cards/big/mcu1-016.jpg)
+^CardNumber:MCU1-016
+
 *Set: The MCU Battles*  
 
 Falcon’s **Air Superiority** power prevents characters with from striking him. It doesn’t matter if that character is attacking or defending, or if it’s a melee or ranged attack. As long as it has it can’t strike him.
@@ -2911,7 +2921,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDI3MDU1OCwxOTgwMTAyNjc5LC0xMD
+eyJoaXN0b3J5IjpbLTUyNDM1MDY0MSwxOTgwMTAyNjc5LC0xMD
 c0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAw
 NCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OT
 k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
