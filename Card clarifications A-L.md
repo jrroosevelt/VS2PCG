@@ -1665,6 +1665,8 @@ Falcon’s **Air Superiority** power prevents characters with from striking him.
 ^(Source: Rule insert)
 
 # [Falcon Drone](http://vs.tcgbrowser.com/images/cards/big/PRD-009.jpg)
+^CardNumber:PRD-009
+
 *Set: The Predator Battles*   
 
 Some characters have a **Bond** with another character. This allows them to be discarded from your hand to generate a Power Symbol for that other character’s Super Powers. You can do this for that character’s Main or Supporting Character. 
@@ -1674,6 +1676,8 @@ Example: You want to use the Falconer Supporting Character’s **Bait and Switch
 ^(Source: Rule insert)
 
 # [Falconer](http://vs.tcgbrowser.com/images/cards/big/PRD-001.jpg) (MC) 
+^CardNumber:PRD-001, PRD-002
+
 *Set: The Predator Battles*  
 
 **Active Falcon Drone**  
@@ -1684,11 +1688,15 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 ^(Source: Rule insert)
 
 # [Fallen One](http://vs.tcgbrowser.com/images/cards/big/FRI-011.jpg)
+^CardNumber:FRI-011
+
 *Set: The Frightful*
 
 When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. However, if Fallen One's strike already had enough ATK to stun them, **Fallen Herald** won't do anything. (In other words, **Fallen Herald** won't cause Galactus or Thanos to become stunned twice in one combat.)
 
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
+^CardNumber:HER-019
+
 *Set: The Herald*  
 
 **The Core Four** requires you to have at least one of the listed characters face up on your side. You can then give any character on your side (not just one of the core four) a combination of four total ATK/DEF. For example, you could give a character +0/+4, +1/+3, +2/+2, +3/+1, or +4/+0. **Note:** You can't use negative numbers here such as +5/-1.
@@ -1696,6 +1704,8 @@ When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. Ho
 ^(Source: Rule insert)
 
 # [Ferocious Xenomorph](http://vs.tcgbrowser.com/images/cards/big/ALN-039.jpg)
+^CardNumber:ALN-039
+
 *Set: The Alien Battles*
 
 Q: Does Cosmo shut off **Creature**?
@@ -1707,6 +1717,8 @@ Chad Daniel - FB Post
 Editor's note: One exception to this is [Dark Phoenix (SC)](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off **Creature**.
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
+^CardNumber:MMU-123
+
 *Set: Monsters Unleashed!*  
 
 Fin Fang Foom and Leviathon Hydra are each able to attack multiple enemies at once. When they do, they will strike with their full ATK against each defender, and the defenders will total up their ATK to strike back.
@@ -2921,11 +2933,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDM1MDY0MSwxOTgwMTAyNjc5LC0xMD
-c0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAw
-NCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OT
-k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
-NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
-c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTExNDg3NDk5MzYsMTk4MDEwMjY3OSwtMT
+A3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIw
+MDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNj
+k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
+NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMT
+k3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5
+MDk2XX0=
 -->
