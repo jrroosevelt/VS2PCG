@@ -1,5 +1,7 @@
 
 # [M41A Pulse Rifle](http://vs.tcgbrowser.com/images/cards/big/ALN-023.jpg)
+^CardNumber: ALN-023
+
 *Set: The Alien Battles*
 
 Q: Are equipment powers separate from character powers. Ex. Does Cosmo shut off the equipment on the character?
@@ -35,6 +37,8 @@ A: When equipped the Character gains the abilities, so they are the ones doing t
 ^(Source: FB Post - Kirk Buckendorf)
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
+^CardNumber: MMU-056
+
 *Set: The Fantastic Battles*  
 
 The Mad Thinker's **Computer Mind** is so powerful he can very accurately predict what his enemies are going to do. When you make a **Prediction**, secretly write down the name of two characters; an attacker and a defender. The names don't have to be characters in play at the time Mad Thinker uses the super power. When a character with the attacker's name attacks a character on your side with the defender's name (even in a team attack), cancel the combat. Then make another **Prediction** about the same turn, but this time you'll have a lot more data! You can make a maximum of two **Predictions** from each use of the super power.
@@ -2675,11 +2679,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5Nz
-QxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4
-MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NT
-IzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIy
-LC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNT
-gzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3OTU0LDEyNTMwMzIx
-OTFdfQ==
+eyJoaXN0b3J5IjpbMTkzNzMyNDk2OSw3OTU4MzE3MzksMTUzOD
+AyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4
+NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMD
+M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
+LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
+AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
+NTRdfQ==
 -->
