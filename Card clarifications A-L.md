@@ -2470,7 +2470,7 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 ^(Source: Rule Insert)
 
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
-^CardNumber: BLK-017
+^CardNumber: HER-014
 
 *Set: The Herald*  
 
@@ -2479,7 +2479,9 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 ^(Source: Rule insert)
 
 # Iron Fist
-## Iron Fist (MC)
+## [Iron Fist (MC)](http://vs.tcgbrowser.com/images/cards/big/MYS-003.jpg)
+^CardNumber: MYS-003, MYS-004
+
 *Set: Mystic Arts*
 
 When Iron Fist Challenges a character, it remains challenged by him until it leaves play. If Iron Fist stuns a character he's challenging and it stays in play, he is still challenging it (until it leaves play).
@@ -2487,6 +2489,8 @@ When Iron Fist Challenges a character, it remains challenged by him until it lea
 ^(Rule Insert)
 
 ## [Iron Fist (SC)](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
+^CardNumber: DEF-012
+
 *Set: Defenders*
 
 Q: If my opponent attacks my character and uses **Iron Fist Punch** and I play Shock to the System reducing Iron Fist's attack to 0, he does not strike to stun, correct?
@@ -2496,6 +2500,8 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
+^CardNumber: CV1-014
+
 *Set: Crossover*  
 
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
@@ -3039,11 +3045,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTUwMzkzLDIyNjcwMjIyMiw2ODQwOD
-A4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3
-LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MT
-M0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwt
-MTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1Mz
-gxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5
-NF19
+eyJoaXN0b3J5IjpbMTk5MTMxMzA5MywyMjY3MDIyMjIsNjg0MD
+gwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0
+Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNT
+EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
+LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
+M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
+OTRdfQ==
 -->
