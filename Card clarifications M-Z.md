@@ -1560,7 +1560,7 @@ A: Rogue can get the same power twice. Sometimes it will be redundant (![](%%Fli
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
-^CardNumber: HER-010
+^CardNumber: PRD-052
 
 *Set: The Predator Battles*  
 
@@ -1570,6 +1570,8 @@ Royce’s supporting character has this Super Power. It allows him to move a wou
 ^(Source: Rule insert)
 
 # [The Runner](http://vs.tcgbrowser.com/images/cards/big/CV2-008.jpg)
+^CardNumber: HER-010
+
 *Set: Crossover vol. 2*  
 
 The Runner is so fast he can actually attack during your Build Phase. This means you can recruit characters and equipment after the Runner attacks. (You could even recruit a new copy of Runner and attack with it!) Note: The Runner attacking during the Build Phase does count as a regular Combat so **Combat** Super Powers and Plot Twists, and power ups can be used during a Build Phase combat. However, during the combat you can't use any **Build** Super Powers and Plot Twists.
@@ -2902,7 +2904,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTUwMDc3NSwxMDI1NDkxMTM2LC03Nj
+eyJoaXN0b3J5IjpbLTY0NzEyMzEyMCwxMDI1NDkxMTM2LC03Nj
 A4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0Nzcy
 NjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNz
 k1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMx
