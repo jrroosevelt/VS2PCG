@@ -1141,6 +1141,8 @@ See [The Wrecking Crew](#wiki_the_wrecking_crew)
 # Pixie
 
 ## [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
+^CardNumber: TUB-008, TUB-009
+
 *Set: The Utopia Battles*  
 
 **Souldagger** causes a character to lose each modifier it gained during combat. A modifier is an effect that modifies the game. There are two types of modifiers – 
@@ -1156,6 +1158,8 @@ When Pixie uses **Souldagger**, it will cause an enemy character to lose any con
 ^(Source: Rule insert)
 
 ## [Pixie](http://vs.tcgbrowser.com/images/cards/big/aff-011.jpg) (SC)
+^CardNumber: AFF-011
+
 *Set: A-Force*
 
 Q: If I: 
@@ -1169,6 +1173,8 @@ A: Pixie's effect becomes independent of Pixie once it brings Adam into play. So
 ^(Source: FB Post - Kirk - UDE Approved)
 
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
+^CardNumber: MCU2-013
+
 *Set: The New Defenders*  
 
 Some characters are known by more than one moniker - like Power Man, who says **AKA Luke Cage**. He counts as having both names, which means you can use a Luke Cage supporting character to Power Up Power Man, and vice versa. It also means they both count as the same person for the purposes of the Uniqueness rules.
@@ -2844,7 +2850,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzUyMzA2OSwxNjY5MzQwNDk1LDE5OT
+eyJoaXN0b3J5IjpbMTgyMzYxMjE1MSwxNjY5MzQwNDk1LDE5OT
 Q0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1
 MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMT
 A3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0
