@@ -2073,7 +2073,7 @@ Goblin’s **Bag of Tricks** allows you to discard Locations to make him more po
 ^(Source: Rule insert)
 
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/mnb-079.jpg) (MC - Super Villains)
-^CardNumber: MNB-079, MNB-080, 
+^CardNumber: MNB-079, MNB-080, LEG-028, LEG-029
 
 *Set: The Marvel Battles* 
 
@@ -2092,6 +2092,8 @@ A: Yes.
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
 ## [Green Goblin (SC - Sinister Six)](http://vs.tcgbrowser.com/images/cards/big/SYN-016.jpg)
+^CardNumber: SYN-016
+
 *Set: Sinister Syndicate*
 
 Q: Can **Pumpkin Bomb** target Hidden characters?
@@ -2100,6 +2102,8 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 
 
 # [Grid](http://vs.tcgbrowser.com/images/cards/big/MMU-053.jpg)
+^CardNumber: MMU-053
+
 *Set: Monsters Unleashed*
 
 Q:  When **Magnetokinesis** moves an equipment from a character to another, do any limitations still apply? 
@@ -2117,6 +2121,8 @@ A: It does not leave play when it is unequipped. It is equipped to the new chara
 
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
+^CardNumber: MNB-059, MNB-060
+
 *Set: The Marvel Battles*
 
 Q: Why are so many of his powers called **I am Groot**?
@@ -2983,7 +2989,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDQ1MzQ5OCw2ODQwODA4NzUsMTk4MD
+eyJoaXN0b3J5IjpbLTI3MjU3NTg3Miw2ODQwODA4NzUsMTk4MD
 EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
 LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
 c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
