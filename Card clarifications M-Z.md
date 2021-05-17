@@ -852,7 +852,7 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 ^(Source: Rule insert)
 
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/MCU4-008.jpg) (MC-MCU)
-^CardNumber: MCU4-008, MCU4
+^CardNumber: MCU4-008, MCU4-009
 
 *Set: Power & Reality*  
 
@@ -863,6 +863,8 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 ^(Source: Rule insert)
 
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/mnb-014.jpg) (SC-Avengers)
+^CardNumber: MNB-014
+
 *Set: The Marvel Battles*
 
 Q: Do I have to show my opponent the card I put into my resource row?
@@ -872,6 +874,8 @@ A: No. When you activate his power, take the top card of your deck and place it 
 ^(Source: Chad Daniel)
 
 # [Nightmare](http://vs.tcgbrowser.com/images/cards/big/LEG-053.jpg)
+^CardNumber: LEG-053
+
 *Set: Legacy*
 
 Q: If I have Nightmare on the board and stun an opposing character in combat, are the -1/-1 counters removed from that character at the time the stun occurs?
@@ -881,6 +885,8 @@ A: No. The act of stunning does not remove -1/-1 counters from opposing characte
 ^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/826961224230371388)
 
 # [Nikki](http://vs.tcgbrowser.com/images/cards/big/GAL-011.jpg)
+^CardNumber: GAL-011
+
 *Set: Galactic Guardians*  
 
 **Mercurial Personality** allows you to **Burn** an enemy supporting character. This means "At the end of each of your turns, stun that character." (**Note:** "You" refers to the player who used Nikki's effect.) A Burn effect has no set duration - it will last until the character leaves play.
@@ -888,6 +894,8 @@ A: No. The act of stunning does not remove -1/-1 counters from opposing characte
 ^(Source: Rule insert)
 
 # [Nimrod (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-007.jpg)
+^CardNumber: FUT-007, FUT-008
+
 *Set: Futures Past*
 
 With his **Enemy Power Analysis**, if the attacker has more than one of the listed items, Nimrod will get the respective powers from all of them, not just one.
@@ -896,7 +904,9 @@ With his **Enemy Power Analysis**, if the attacker has more than one of the list
 
 ^(Source: Rule Insert)
 
-# [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC) 
+# [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC)
+^CardNumber: TUB-032
+ 
 *Set: The Utopia Battles*  
 
 Norman’s Level 2 Keyword Powers also affect himself. 
@@ -2802,11 +2812,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDkyMjE3MCwxOTk0NDc3MjYwLC0xND
-I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
-OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
-MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
-NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
-IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
-MTM0XX0=
+eyJoaXN0b3J5IjpbLTEwNTUxMDU3NDQsMTk5NDQ3NzI2MCwtMT
+QyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3
+MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC
+0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2
+MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMj
+gyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2
+OTEzNF19
 -->
