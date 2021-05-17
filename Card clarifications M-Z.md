@@ -508,6 +508,8 @@ A: Yes.
 *Editor's Note:* This would also apply if Moonstone was stunned, dazed, or otherwise face-down.
 
 # [Monarch](http://vs.tcgbrowser.com/images/cards/big/OGA-013.jpg)
+^CardNumber: OGA-013
+
 *Set: The Omegas*  
 
 **Pull On Quantum Strings** means you can have Equipment, characters, and Plot Twists (non-locations) face up in your resource row and during your Resource Step you can play a non-location face up as a resource. Characters on your side can use these non-locations to pay for their Super Power, regardless of their required power symbols. 
@@ -521,6 +523,8 @@ When Monarch leaves your side, or if **Pull On Quantum Strings** gets turned off
 ^(Source: Rule insert)
 
 # [Monica Reyes](http://vs.tcgbrowser.com/images/cards/big/XFB-011.jpg)
+^CardNumber: XFB-011
+
 *Set: The X-Files Battles*
 
 **Practical and Pragmatic** gives a bonus to Reyes based on what team affiliation your Main Character has. If you have more than one Main Character, or your Main Character has more than one team affiliation, it's possible for Reyes to get multiple bonuses.
@@ -2754,11 +2758,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0Nj
-A5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkx
-MiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNj
-A1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5
-MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xND
-Y0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcw
-MTMxXX0=
+eyJoaXN0b3J5IjpbLTIwMjc5MTg1NzIsLTE0Mjk5Mzg0OSwtMT
+c0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEz
+MjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLD
+UxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4
+NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNj
+kzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDEx
+NjU0NV19
 -->
