@@ -1173,7 +1173,7 @@ A: Pixie's effect becomes independent of Pixie once it brings Adam into play. So
 ^(Source: FB Post - Kirk - UDE Approved)
 
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
-^CardNumber: MCU2-013
+^CardNumber: DFX-017
 
 *Set: The New Defenders*  
 
@@ -1184,6 +1184,8 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 ^(Source: Rule insert)
 
 # [Primordial Ice Worms](http://vs.tcgbrowser.com/images/cards/big/XFB-050.jpg)
+^CardNumber: XFB-050
+
 *Set: The X-Files Battles*
 
 **Icebreaker** can be used on a character on any side. It has no set duration. It will give a character **Angry** and **[Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_violent)** until that character leaves play.
@@ -1191,12 +1193,16 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 ^(Source: Rule Insert)
 
 # [Private Hudson](http://vs.tcgbrowser.com/images/cards/big/ALN-019.jpg)
+^CardNumber: ALN-019
+
 *Set: The Alien Battles*
 
 [This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_private_hudson).
 
 # Professor X
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-033.jpg) (MC - The Marvel Battles)
+^CardNumber: MNB-033, MNB-034
+
 
 Q: If Prof X MC uses **Mental Domination** to take control of Sister Grimm MC and suicides her, does she level up?
 
@@ -1221,6 +1227,8 @@ A: Yes.
 ^(Source: UDE FAQ)
 
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC - New Mutants)
+^CardNumber: MCU2-013
+
 *Set: New Mutants*  
 
 In this set the Professor gets a whole new main character, and this time he goes up to Level 3. (Note: This new Professor X can’t level up into the old one from The Marvel Battles set and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.) 
@@ -2850,11 +2858,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzYxMjE1MSwxNjY5MzQwNDk1LDE5OT
-Q0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1
-MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMT
-A3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0
-MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNz
-k1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1
-OTk2XX0=
+eyJoaXN0b3J5IjpbMzUxNDcyOTAzLDE2NjkzNDA0OTUsMTk5ND
+Q3NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUw
+Myw3OTU4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMD
+c0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQx
+ODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OT
+U2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5
+OTZdfQ==
 -->
