@@ -1968,6 +1968,8 @@ For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you 
 ^(Source: Rule insert)
 
 # [Global Information Network](http://vs.tcgbrowser.com/images/cards/big/COS-020.jpg)
+^CardNumber:COS-020
+
 *Set: Cosmic Avengers*  
 
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like \* Thor \* and Hyperion (who have keyword powers which requires spending an ![](%%Intellect%%) (Intellect) and ![](%%Energy%%) (Energy), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations:
@@ -1982,6 +1984,8 @@ In this Arc, we are playing around with how players can use locations besides su
 ^(Source: Rule insert)
 
 # [Glory](http://vs.tcgbrowser.com/images/cards/big/TBB-049.jpg) 
+^CardNumber:TBB-049
+
 *Set: The Buffy Battles*  
 
 **Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory.
@@ -1989,6 +1993,8 @@ In this Arc, we are playing around with how players can use locations besides su
 ^(Source: Rule insert)
 
 # [Goblin Queen](http://vs.tcgbrowser.com/images/cards/big/aff-042.jpg)
+^CardNumber:AFF-042
+
 *Set: A-Force*  
 
 **Token Characters**  
@@ -2965,11 +2971,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNz
-Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
-LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
-YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
-OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
-Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
-Nl19
+eyJoaXN0b3J5IjpbLTE3NDQ1MjM1ODgsNjg0MDgwODc1LDE5OD
+AxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEz
+NSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNz
+M3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgz
+ODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLT
+Y0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3
+MjEyXX0=
 -->
