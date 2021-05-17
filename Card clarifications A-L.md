@@ -1487,6 +1487,8 @@ Electro introduces a new concept: remaining health. Remaining health is a charac
 ^(Source: Rule insert)
 
 # [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
+^CardNumber:LEG-068, LEG-069
+
 *Set: Legacy*  
 
 **Hand Experience**  
@@ -1508,6 +1510,8 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
+^CardNumber:TUB-005, TUB-00
+
 *Set: The Utopia Battles*  
 
 **Keeper of Law** allows a character to strike an additional time in a combat. The character can strike two different characters once each (if they’re being team attacked, for example), or they can strike the same character twice. In the latter case, add the character’s ATK together for each strike and then compare it to the enemy’s DEF. 
@@ -2899,7 +2903,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MjA4NTY3LDE5ODAxMDI2NzksLTEwNz
+eyJoaXN0b3J5IjpbODI3NjI2MDIxLDE5ODAxMDI2NzksLTEwNz
 Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
 LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
 YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
