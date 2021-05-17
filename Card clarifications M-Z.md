@@ -1483,7 +1483,7 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 ^(Source: Rule insert)
 
 ## [Rogue (SC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-013.jpg)
-^CardNumber: HER-010
+^CardNumber: FRE-013, FRE-014
 
 *Set: Freedom Force*
 
@@ -1494,6 +1494,8 @@ However, once Rogue absorbs the stats and powers from a character, she loses **P
 ^(Source: Rule Insert)
 
 ## [Rogue](http://vs.tcgbrowser.com/images/cards/big/aff-021.jpg) (SC - A-Force)
+^CardNumber: AFF-021
+
 *Set: A-Force*  
 
 **Absorb Powers**  
@@ -1558,6 +1560,8 @@ A: Rogue can get the same power twice. Sometimes it will be redundant (![](%%Fli
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Royce](http://vs.tcgbrowser.com/images/cards/big/PRD-052.jpg)
+^CardNumber: HER-010
+
 *Set: The Predator Battles*  
 
 **We’re Going to Kill Them All**  
@@ -2898,11 +2902,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNzAxMzQ5LDEwMjU0OTExMzYsLTc2MD
-gyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2
-MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OT
-U4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0
-NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsND
-Q5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIw
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTQ5NTUwMDc3NSwxMDI1NDkxMTM2LC03Nj
+A4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0Nzcy
+NjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNz
+k1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMx
+NDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LD
+Q0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQy
+MDIzXX0=
 -->
