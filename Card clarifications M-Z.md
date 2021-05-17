@@ -645,7 +645,7 @@ Plot twists without team affiliations can be played  regardless of the team affi
 
 # Mystique
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - Femme Fatale)
-^CardNumber: LEG-067, LEG-068
+^CardNumber: AFF-033,LEG-066, LEG-067
 
 *Set: Legacy*  
 
@@ -701,6 +701,8 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
 ## [Mystique (MC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-003.jpg)
+^CardNumber: FRE-003, FRE-004
+
 *Set: Freedom Force*
 **Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
 
@@ -719,6 +721,8 @@ Note: If Mystique takes the name of a unique character with the same name as a s
 ^(Source: Rule Insert)
 
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/mnb-088.jpg) (SC)
+^CardNumber: MNB-088
+
 *Set: The Marvel Battles**
 
 Q: After I use her **Impersonate** power to copy someone’s ATK and DEF, what happens if that character’s ATK or DEF change?
@@ -736,6 +740,8 @@ A: Apply the +1/+1s after her stats change. For example, let’s say she has two
 ^(Source: UDE FAQ)
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
+^CardNumber: DFX-007
+
 *Set: The New Defenders*  
 
 Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy characters as well. Likewise, his two **Level Up** powers also DO count facedown exhausted enemy characters as well.
@@ -2778,11 +2784,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTQ4NjYwOCwxOTk0NDc3MjYwLC0xND
-I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
-OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
-MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
-NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
-IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
-MTM0XX0=
+eyJoaXN0b3J5IjpbMTA0NDk2NDIwLDE5OTQ0NzcyNjAsLTE0Mj
+k5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5
+LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMz
+IzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0
+NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4Mj
+A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
+MzRdfQ==
 -->
