@@ -1460,11 +1460,15 @@ A: No. The "Starting Main Character Required" restriction on the card is a deck 
 
 
 # [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
+^CardNumber:PRD-044
+
 *Set: The Predator Battles*  
 
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
 
 # [Ego](http://vs.tcgbrowser.com/images/cards/big/mcu3-003.jpg)
+^CardNumber:MCU3-003, MCU3-004
+
 *Set: MCU Villains*  
 
 Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down location in your resource row face up to become a supporting character. Once this happens it will stop being a location.
@@ -1473,6 +1477,8 @@ Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down lo
 
 # Electro
 ## [Electro](http://vs.tcgbrowser.com/images/cards/big/SYN-011.jpg) (SC)
+^CardNumber:DAR-003, DAR-004
+
 *Set: Sinister Syndicate*  
 
 **Electrocution**  
@@ -2893,11 +2899,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNT
-MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
-MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
-gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
-NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
-EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
-MTNdfQ==
+eyJoaXN0b3J5IjpbMzc2MjA4NTY3LDE5ODAxMDI2NzksLTEwNz
+Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
+LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
+YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
+OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
+Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
+Nl19
 -->
