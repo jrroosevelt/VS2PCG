@@ -1775,7 +1775,7 @@ Note that Forge's card number starts with "NEW" instead of "DAR". This is so tha
 ^(Source: Rule Insert)
 
 # [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
-
+^CardNumber:XFB-0003, XFB-004
 
 *Set: The X-Files Battles*
 
@@ -1786,6 +1786,8 @@ Note that Forge's card number starts with "NEW" instead of "DAR". This is so tha
 ^(Source: Rule Insert)
 
 # [Franklin Richards](http://vs.tcgbrowser.com/images/cards/big/FAN-021.jpg)
+^CardNumber:FAN-021
+
 *Set: The Fantastic Battles*  
 
 Franklin is one of the most powerful beings in the multiverse. So powerful he has been able to, from a young age, create a **Pocket Universe**. Here's what happens when he does that:
@@ -1823,6 +1825,8 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 ^(Source: Rule insert)
 
 # [Frohike](http://vs.tcgbrowser.com/images/cards/big/XFB-007.jpg), [Langly](http://vs.tcgbrowser.com/images/cards/big/XFB-008.jpg), and [Byers](http://vs.tcgbrowser.com/images/cards/big/XFB-009.jpg)
+^CardNumber:XFB-007, XFB-008, XFB-009
+
 *Set: The X-Files Battles*
 
 **The Lone Gunmen** lets these characters power up each other. When one of them powers up another one, it will trigger each of their other Keyword Powers. For example, if you discard Byers to power up Frohike (or if you discard Frohike to power up Byers), it will trigger Byers' **Science** power and Frohike's **Photography** power. You can resolve those powers in either order.
@@ -1835,6 +1839,8 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
         
 
 # [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
+^CardNumber:FAN-0234
+
 *Set: The Fantastic Battles*  
 
 This Plot Twist can allow you to add an attacker to your attack. The attacker must be a face-up character on your side not already in the attack. Move the new attacker to the row from which the first attackers were attacking. It doesn't need to be ready to join the attack and doesn't exhaust when it's added to the attack and it ignores ![](%%Flight%%), ![](%%Range%%), and team restrictions for an attack.
@@ -2941,11 +2947,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTg2MDgxNSwxOTgwMTAyNjc5LC0xMD
-c0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAw
-NCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OT
-k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
-NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
-c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
-OTZdfQ==
+eyJoaXN0b3J5IjpbMTMwNjE5NzM5LDE5ODAxMDI2NzksLTEwNz
+Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
+LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
+YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
+OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
+Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
+Nl19
 -->
