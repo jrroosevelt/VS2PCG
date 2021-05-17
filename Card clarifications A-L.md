@@ -1015,7 +1015,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 ^(Source: Rule insert)
 
 # [Dark Beast](http://vs.tcgbrowser.com/images/cards/big/TUB-042.jpg)
-^CardNumber:SVH-055
+^CardNumber:TUB-042
 
 *Set: Utopia Battles*
 
@@ -1031,6 +1031,8 @@ However, for this specific question it should be noted that Darkhold is neutral.
 
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
+^CardNumber:CV1-020
+
 *Set: Crossover*  
 
 **Deconstruct the Universe**  
@@ -1053,13 +1055,17 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 ^(Source: Rule insert)
 
 # [Dawn](http://vs.tcgbrowser.com/images/cards/big/TBB-011.jpg)
+^CardNumber:TBB-011
+
 *Set: The Buffy Battles*  
 
 Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character or a Supporting Character in your deck, you get to have a Key pile which includes four copies of Dawn. You can recruit Dawn while Buffy is on your side. If Dawn gets KO’d, she’ll go to your KO pile as normal.
 
 ^(Source: Rule insert)
 
-# Deacon Frost (MC)
+# [Deacon Frost (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-003.jpg)
+^CardNumber:DAR-003, DAR-004
+
 *Set: Into the Darkness*
 
 If **Evil Scientist** moves a Supporting Character to your side, that side change is permanent. When the character gets KO'd, it will go to its owner's KO pile.
@@ -1070,6 +1076,8 @@ At Level 2, while Deacon is melee attacking a Supporting Character, there are tw
 
 # Deadpool
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
+^CardNumber:DAR-003, DAR-004
+
 *Set: Deadpool & Friends*
 
 > Hiya kids, it’s your old pal, Deadpool. Guess what? I’m the First character in the game to go all the way to Level 4. There’s probably a break-the-fourth-wall joke in there somewhere, but I haven’t found it yet. Anyhoo, the powers that be want me to tell you that even though I’m now on two different main character cards, the (X-Men) and (Underworld) versions of me can’t level up into each other.  
@@ -2841,7 +2849,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjY0NTQxNiwtMTA3NDUzNzA5NCwtNT
+eyJoaXN0b3J5IjpbMTkxNzE4MjAzMiwtMTA3NDUzNzA5NCwtNT
 MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
 MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
 gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
