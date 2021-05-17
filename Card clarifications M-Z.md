@@ -1132,6 +1132,8 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 ^(Source: Rule insert)
 
 # [Piledriver](http://vs.tcgbrowser.com/images/cards/big/MOE-016.jpg)
+^CardNumber: MOE-016
+
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
@@ -2842,11 +2844,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xND
-I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
-OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
-MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
-NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
-IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
-MTM0XX0=
+eyJoaXN0b3J5IjpbMTk4MzUyMzA2OSwxNjY5MzQwNDk1LDE5OT
+Q0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1
+MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMT
+A3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0
+MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNz
+k1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1
+OTk2XX0=
 -->
