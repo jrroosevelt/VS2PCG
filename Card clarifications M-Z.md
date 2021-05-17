@@ -475,9 +475,9 @@ If he is beneath a Location and it gets turned face down (including by being use
 ^(Source: Rule insert)
 
 # [Moloid](http://vs.tcgbrowser.com/images/cards/big/FAN-056.jpg)
-*Set: The Fantastic Battles*
-
 ^CardNumber: FAN-033, FAN-044
+
+*Set: The Fantastic Battles*
 
 Q: Which side does Moloid check to determine the ATK boost?
 
@@ -486,6 +486,8 @@ A: Though it's not totally clear, "that" refers to the opponent against whom you
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3136234033078788/))
 
 # [Moon Girl](http://vs.tcgbrowser.com/images/cards/big/MMU-054.jpg)
+^CardNumber: MMU-045, MMU-046,
+
 *Set: Monsters Unleashed!*  
 
 See [Devil Dinosaur](#wiki_devil_dinosaur).
@@ -2750,11 +2752,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTQ1MDEzOSwtMTc0NTMwNjc4MCw0Nj
-A5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkx
-MiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNj
-A1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5
-MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xND
-Y0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcw
-MTMxXX0=
+eyJoaXN0b3J5IjpbLTEzNDY1NzkwMDcsLTE3NDUzMDY3ODAsND
+YwOTMwNTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5
+MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMT
+YwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQx
+OTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMT
+Q2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3
+MDEzMV19
 -->
