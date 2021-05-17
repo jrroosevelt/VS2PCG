@@ -905,7 +905,7 @@ With his **Enemy Power Analysis**, if the attacker has more than one of the list
 ^(Source: Rule Insert)
 
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC)
-^CardNumber: TUB-032
+^CardNumber: TUB-031, TUB-032
  
 *Set: The Utopia Battles*  
 
@@ -2812,11 +2812,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUxMDU3NDQsMTk5NDQ3NzI2MCwtMT
-QyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3
-MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC
-0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2
-MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMj
-gyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2
-OTEzNF19
+eyJoaXN0b3J5IjpbMTE0OTM3MTYwOCwxOTk0NDc3MjYwLC0xND
+I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
+OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
+MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
+NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
+IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
+MTM0XX0=
 -->
