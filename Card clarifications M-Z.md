@@ -1629,7 +1629,7 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 
 # Scarlet Spider
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-003.jpg) (MC)
-^CardNumber: HER-010
+^CardNumber: SPF-003, SPF-004
 
 *Set: Spider-Friends*  
 
@@ -1648,6 +1648,8 @@ Once he’s Level 2, if he would be wounded, there’s a chance it was just a cl
 ^(Source: Rule insert)
 
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-014.jpg) (SC)
+^CardNumber: SPF-014
+
 *Set: Spider-Friends*  
 
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
@@ -1655,6 +1657,8 @@ Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character t
 ^(Source: Rule insert)
 # Scarlet Witch
 ## [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
+^CardNumber: MCU5-012, MCU5-013
+
 *Set: Mind & Soul*  
 
 You start the game with both Main Characters (Scarlet Witch and Quicksilver) and are only out of the game once both are KO'd. 
@@ -2914,11 +2918,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTQ5MjE5MiwxMDI1NDkxMTM2LC03Nj
-A4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0Nzcy
-NjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNz
-k1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMx
-NDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LD
-Q0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQy
-MDIzXX0=
+eyJoaXN0b3J5IjpbLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNz
+YwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3
+MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLD
+c5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQz
+MTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Ni
+w0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0
+MjAyM119
 -->
