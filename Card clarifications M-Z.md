@@ -916,6 +916,8 @@ Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) charac
 ^(Source: Rule insert)
 
 # [\* Nova \*](http://vs.tcgbrowser.com/images/cards/big/HER-016.jpg) 
+^CardNumber: DAR-020
+
 *Set: The Herald*
 
 Q: Can **Stellar Flare!** target Hidden characters?
@@ -2812,11 +2814,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTM3MTYwOCwxOTk0NDc3MjYwLC0xND
-I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
-OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
-MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
-NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
-IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
-MTM0XX0=
+eyJoaXN0b3J5IjpbNTk0Njk3MjExLDE5OTQ0NzcyNjAsLTE0Mj
+k5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5
+LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMz
+IzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0
+NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4Mj
+A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
+MzRdfQ==
 -->
