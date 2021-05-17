@@ -1262,11 +1262,12 @@ Doctor Doom's **Time Platform**  does something very odd. It shuffles a card int
 ^(Source: Rule insert)
 
 # [Doctor Faustus](http://vs.tcgbrowser.com/images/cards/big/SVH-011.jpg)
+^CardNumber:SVH-011
+
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 **Hypnotic Suggestion**  
 Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Character. This effect is permanent: the character will remain on your side until it gets KO’d or otherwise leaves play. When KO’d, put it into its owner’s KO pile.
-
 
 ^(Source: Rule insert)
 
@@ -2868,7 +2869,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgxMzQwOSwtMTA3NDUzNzA5NCwtNT
+eyJoaXN0b3J5IjpbLTIwNzg2OTM1MCwtMTA3NDUzNzA5NCwtNT
 MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
 MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
 gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
