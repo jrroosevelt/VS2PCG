@@ -2529,6 +2529,8 @@ The owner of a character is the player who brought that card to the game, regard
 ^(Source: Rule insert)
 
 # [Isabelle](http://vs.tcgbrowser.com/images/cards/big/PRD-047.jpg)
+^CardNumber: PRD-047
+
 *Set: The Predator Battles*  
 
 **Sniper Nest**   
@@ -2536,7 +2538,9 @@ Isabelle’s supporting character has this keyword. Enemy players can turn down 
 
 ^(Source: Rule insert)
 
-# Iso-Sphere
+# [Iso-Sphere](http://vs.tcgbrowser.com/images/cards/big/CV3-011.jpg)
+^CardNumber: CV3-011
+
 *Set: Crossover Vol. 3*  
 
 A **Battle of Wills** requires characters to bid how many power symbols they'll pay to take control of the Iso-Sphere. It works like this:
@@ -2548,6 +2552,8 @@ The equipped character starts the bidding. (They can bid 0.) Then the next playe
 ^(Source: Rule Insert)
 
 # [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg)
+^CardNumber: CV3-011
+
 *Set: Galactic Guardians*  
 
 Jack's **Follower** grants **Leader** to a main character he team attacks with. While a Leader is team attacking, you choose who the defender strikes back against.
@@ -3049,11 +3055,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NTgxNjAxLDIyNjcwMjIyMiw2ODQwOD
-A4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3
-LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MT
-M0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwt
-MTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1Mz
-gxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5
-NF19
+eyJoaXN0b3J5IjpbLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4ND
+A4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIz
+NDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MD
+UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
+LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
+UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
+MDk0XX0=
 -->
