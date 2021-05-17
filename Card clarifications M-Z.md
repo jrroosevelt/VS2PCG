@@ -55,7 +55,7 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 ^(Source: Rule insert)
 
 # Magneto
-## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
+## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC - Super Villains)
 ^CardNumber: MNB-083, MNB-084
 
 *Set: The Marvel Battles*
@@ -65,6 +65,15 @@ Q: If I go first, will his **Mutant Master** power trigger on the very first tur
 A: Yes
 
 ^(Source: UDE FAQ)
+
+## [Magneto](http://vs.tcgbrowser.com/images/cards/big/BOM-005.jpg) (MC - Brotherhood)
+^CardNumber: BOM-003, BOM-004, BOM-005
+
+*Set: Brotherhood of Mutants*  
+
+In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
+
+^(Source: Rule insert)
 
 ## [Magneto (SC-Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-011.jpg)
 ^CardNumber: OGA-011
@@ -87,10 +96,9 @@ When Mainframe uses **Primary Operating System** it applies only to characters t
 
 ^(Source: Rule insert)
 
-
-
-
 # [The Maker](http://vs.tcgbrowser.com/images/cards/big/FRI-015.jpg)
+^CardNumber: FRI-015
+
 *Set: The Frightful*
 
 If the Maker is in your deck, you get to have the usual Invention pile, plus you can add up to five Equipment to it. They must be different cards (same name but different game text is fine) and can’t already have the Keyword  **Invention**. (You can also include copies of those Equipment in your deck if you like, and the copies in your Invention pile don’t count against them. For example, you can have a  **One of a Kind** Equipment in your deck and the same one in your Invention pile.)
@@ -101,6 +109,8 @@ If the Maker is in your deck, you get to have the usual Invention pile, plus you
 
 # Mandarin
 ## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
+^CardNumber: MCU1-046
+
 *Set: The MCU Battles*  
 
 Mandarin is really three potential characters in one. If Mandarin is in your deck you’ll need to bring your **Behind the Camera** pile with you which includes two copies of **Trevor Slattery** and one copy of **The Ten Rings**. When Mandarin gets KO’d, you’ll remove him from the game, shuffle your Behind the Camera pile, and randomly put one of the three cards there into your hand. 
@@ -110,6 +120,8 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 ^(Source: Rule insert)
 
 ## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mnb-095.jpg) (Illustrated)
+^CardNumber: MNB-083, MNB-084
+
 *Set: The Marvel Battles*
 
 Q: Can use all his powers in the same turn? 
@@ -2683,11 +2695,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkyMzI0NzksNzk1ODMxNzM5LDE1Mz
-gwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4
-ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMj
-AzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4
-OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMT
-gwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3
-OTU0XX0=
+eyJoaXN0b3J5IjpbOTc3OTU1Mjg4LDc5NTgzMTczOSwxNTM4MD
+IxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1
+MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
+UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
+LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
+AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
+NF19
 -->
