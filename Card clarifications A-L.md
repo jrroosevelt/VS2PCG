@@ -2011,6 +2011,8 @@ A: Thanos will gain XP from a Token being KO'd and Tokens will exist for a brief
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Goose ](http://vs.tcgbrowser.com/images/cards/big/MCU5-028.jpg)
+^CardNumber:MCU5-028
+
 *Set: Mind & Soul*  
 
 When you recruit Goose, you'll pay 1 or more recruit points. When Goose appears, she will swallow up an enemy character or Equipment with that cost. When Goose leaves play, that card will go back to its owner's hand.
@@ -2023,6 +2025,8 @@ If an effect needs to know Goose's cost, treat it as 0 (regardless of how many r
 
 
 # \* [Gorgon](http://vs.tcgbrowser.com/images/cards/small/SVH-013.jpg) \*
+^CardNumber:SVH-013
+
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 **The Spear in the East**  
@@ -2031,7 +2035,9 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 ^(Source: Rule insert)
 
 # The Grandmaster
-## The Grandmaster - Illustrated MC
+## [The Grandmaster - Illustrated MC](http://vs.tcgbrowser.com/images/cards/big/CV3-005.jpg)
+^CardNumber:CV3-005, CV3-006
+
 *Set: Crossover Vol. 3*
 
 If the Grandmaster is your main character, you'll need to bring and shuffle your own Battleworld pile before the game. This pile is private and contains your choice of 12 different Battleworld Domains. (Note that you will need a shuffled pile of the 10 Terrain - City cards as well.) When he uses **The Contest of Champions**, the game will enter the top Domain of your pile (just as if you were playing with the Battleworld game mode).
@@ -2971,11 +2977,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ1MjM1ODgsNjg0MDgwODc1LDE5OD
-AxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEz
-NSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNz
-M3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgz
-ODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLT
-Y0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3
-MjEyXX0=
+eyJoaXN0b3J5IjpbNzM4NDc0OTcyLDY4NDA4MDg3NSwxOTgwMT
+AyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUs
+MTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNz
+Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
+LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
+Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
+Ml19
 -->
