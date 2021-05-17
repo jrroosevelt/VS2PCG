@@ -1111,7 +1111,7 @@ A: No. You **can** do this the first time. However, as soon as **Parallel Dimens
 
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
-^CardNumber: DAR-020
+^CardNumber: CV1-006
 
 *Set: Crossover*  
 
@@ -1122,6 +1122,8 @@ His **Level 7 Clearance** and **I’m A Guy With a Plan** count each instance of
 ^(Source: Rule insert)
 
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/mcu2-013.jpg) (Photo)
+^CardNumber: MCU2-013
+
 *Set: MCU heroes*  
 
 **They Need Someone to Avenge**  
@@ -1129,7 +1131,7 @@ Phil’s They Need Someone to Avenge power is not optional. If he’s in your KO
 
 ^(Source: Rule insert)
 
-# Piledriver
+# [Piledriver](http://vs.tcgbrowser.com/images/cards/big/MOE-016.jpg)
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
@@ -2840,11 +2842,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MjIxNjMsMTk5NDQ3NzI2MCwtMTQyOT
-kzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3Mzks
-MTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMj
-M1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1
-LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMD
-Y1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEz
-NF19
+eyJoaXN0b3J5IjpbMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xND
+I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
+OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
+MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
+NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
+IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
+MTM0XX0=
 -->
