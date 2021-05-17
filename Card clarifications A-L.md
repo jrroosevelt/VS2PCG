@@ -2743,7 +2743,7 @@ It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** wou
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
-^CardNumber: DEF-028, DEF-029, 
+^CardNumber: DEF-028, DEF-029, LEG-046, LEG-047
 
 *Set: Defenders*
 
@@ -2754,6 +2754,8 @@ A: No, "appears" means to come into play from anywhere, so the Location has to b
 ^(Source: FB Post - Kirk)
 
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-047.jpg) (SC)
+^CardNumber: DEF-047
+
 *Set: The Defenders*  
 
 **Underworld Boss**  
@@ -2794,6 +2796,8 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 ^(Source: FB Post - Chad Daniel)
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
+^CardNumber: SYN-002
+
 *Set: Sinister Syndicate*  
 
 **Spring the Trap**  
@@ -3079,7 +3083,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEwNDUzMjcsLTE2OTgxNDI2NDAsMj
+eyJoaXN0b3J5IjpbLTE2NjI1ODY0NjgsLTE2OTgxNDI2NDAsMj
 I2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3
 MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMD
 E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
