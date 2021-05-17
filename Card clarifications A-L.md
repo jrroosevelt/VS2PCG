@@ -1243,7 +1243,7 @@ A: No. Devil Slayer still has to follow all the other legal attack rules. He doe
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
 # [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg)
-^CardNumber:DAR-003, DAR-004
+^CardNumber:MCU7-011
 
 *Set: Friendly Neighborhood*  
 
@@ -1253,6 +1253,8 @@ The effects from **That is Dimitri** can stack. For example, if Maria Hill and N
 
 
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
+^CardNumber:FAN-031, FAN-032
+
 *Set: The Fantastic Battles*  
 
 Doctor Doom's **Time Platform**  does something very odd. It shuffles a card into a deck face up. We suggest you close your eyes when shuffling a deck with a face-up card in it. In a tournament, you can always ask a judge to shuffle the deck if necessary. Once the deck is shuffled, where the card is in the deck is public information, so we also suggest you turn it 90 degrees so it's sticking out of your deck.
@@ -2866,11 +2868,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzEwNTYxODcsLTEwNzQ1MzcwOTQsLT
-UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
-NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
-I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
-NDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLT
-IxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2
-NzEzXX0=
+eyJoaXN0b3J5IjpbLTE4MjgxMzQwOSwtMTA3NDUzNzA5NCwtNT
+MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
+MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
+gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
+NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
+EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
+MTNdfQ==
 -->
