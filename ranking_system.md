@@ -9,7 +9,7 @@ Everyone starts with 1000 points. Every ranked match results in the winner takin
 
 If the winner has more points, the amount will be smaller. If the winner has fewer, points the amount will be bigger. 
 
-This is determined by a formula (see below). The exchange of points will typically be a zero sum, meaning no new points will result in the exchange. Generally, points will only be added if: A.) A new player joins the ranking system or, B.) if a ranked player plays an unranked player. 
+This is determined by a formula (see below). The exchange of points will typically be a zero sum, meaning no new points will result in the exchange. Generally, points will only be added if: A.) A new player joins the ranking system or, B.) if a ranked player plays someone who isn't opted into the ranking system. 
 
 ## The gory details (ranking formula)
 For anybody interested in the formula it is listed here. It's not as complicated as it looks, and is used by several organizations. 
@@ -20,5 +20,5 @@ Rn = R1 + 32(O - (10^(R1/400))/(10^(R1/400) + 10^(R2/400)))
 - R2 is your opponent's ranking 
 - O is outcome of match. (1 for a win 0 for a lose. .5 for a tie.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzEzMTc4NywxMjQzNTYxMzQwXX0=
+eyJoaXN0b3J5IjpbLTU5OTA3NDY5MCwxMjQzNTYxMzQwXX0=
 -->
