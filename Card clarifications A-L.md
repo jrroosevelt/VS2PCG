@@ -1381,6 +1381,8 @@ A: The original defender is still removed from combat, but since Adam enters pla
 ^(Source: FB Post - Chad Daniel)
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
+^CardNumber:WEB-012
+
 *Set: Webheads*  
 
 For every Dr. Curt Connors in your deck, you must also bring that many copies of the Lizard which will start in an out-of-game Lizard pile. When **The Monster Within** transforms Dr. Connors after he is stunned, remove him from the game and replace him with a Lizard from your Lizard Pile. 
@@ -1393,6 +1395,8 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 # Dr. Strange/Doctor Strange
 ## Doctor Strange (MC- Avengers)
+^CardNumber:MYS-001, MYS-002
+
 *Set: Mystic Arts*
 
 Doctor Strange and Dr. Strange count as being the same name.
@@ -1406,6 +1410,8 @@ Q: **Doctor Turned Sorceror** says I can choose which type of **Spellcaster** he
 A: The short answer is, yes, you can draw (and mulligan) before choosing. For a more detailed definition, see [Start of Game in the glossary](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_start_of_game).
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
+^CardNumber:DEF-003, De-004
+
 *Set: Defenders*
 
 Q: If I activate L2 Dr. Strange's **Mass Transmutation** power can I target a character with +1/+1 counters as well as a character with -1/-1 counters and switch them to their opposite counter types?
@@ -2881,11 +2887,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMzM0NzgyLC0xMDc0NTM3MDk0LC01Mz
-A3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQw
-LDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyOD
-I1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2
-MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMT
-A2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4Njcx
-M119
+eyJoaXN0b3J5IjpbLTExMzM2ODA4MTcsLTEwNzQ1MzcwOTQsLT
+UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
+NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
+I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
+NDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLT
+IxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2
+NzEzXX0=
 -->
