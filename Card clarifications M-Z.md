@@ -240,7 +240,7 @@ The Gift of Death will instantly KO its assigned character. The other four grant
 ^(Source: Rule insert)
 
 # [M'Baku](http://vs.tcgbrowser.com/images/cards/big/MCU4-016.jpg)
-^CardNumber: MCU4
+^CardNumber: MCU4-016
 
 *Set: Power & Reality*  
 
@@ -249,6 +249,8 @@ When M'Baku gives a character **Pounce** and **Dodge**, it will keep those power
 ^(Source: Rule insert)
 
 # [Medusa](http://vs.tcgbrowser.com/images/cards/big/aff-014.jpg)
+^CardNumber: AFF-014
+
 *Set: A-Force*
 
 Q: If you use Medusa's **Prehensile Hair** ability can that character be removed with Singularity? I know it says can't be moved but I am not sure if that just refers to front of back row.
@@ -282,6 +284,8 @@ A: If the card uses the word move, push, pull or switch, it can not be done.
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Meggan](http://vs.tcgbrowser.com/images/cards/big/aff-013.jpg)
+^CardNumber: AFF-013
+
 *Set: A-Force* 
 
 Q: Do counters count on face down characters such as Carnage for her ability?
@@ -291,6 +295,8 @@ A: Yes. Meggan's ability doesn't specifically say face up characters. It is a ch
 ^(Source: FB Post - Tim Saunders)
 
 # [Mephisto](http://vs.tcgbrowser.com/images/cards/big/FAN-053.jpg)
+^CardNumber: FAN-053
+
 *Set: The Fantastic Battles*  
 
 At your own risk, you may offer a **Deal with the Devil**. Here's how it works:
@@ -315,6 +321,8 @@ Here are a few exemplar **Deals**:
 ^(Source: Rule insert)
 
 # [Metal and Fire](http://vs.tcgbrowser.com/images/cards/big/mnb-102.jpg)
+^CardNumber: MNB-102
+
 *Set: The Marvel Battles*
 
 Q: If I’m playing with 3 players and the other two players have characters in combat, can I play this?
@@ -324,6 +332,8 @@ A: Yes. It will put a -1/-1 counter on each character in the combat.
 ^(Source: UDE FAQ)
 
 # [Might Makes Right](http://vs.tcgbrowser.com/images/cards/big/BLK-016.jpg)
+^CardNumber: BLK-016
+
 *Set: Black Order*  
 
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nebula (who has a keyword power which requires spending a ![](%%Might%%) (Might), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations.
@@ -337,6 +347,8 @@ In this Arc, we are playing around with how players can use locations besides su
 ^(Source: Rule insert)
 
 # [The Milano](http://vs.tcgbrowser.com/images/cards/big/GAL-019.jpg)
+^CardNumber: GAL-019
+
 *Set: Galactic Guardians*  
 
 See [Nova Corps](#wiki_nova_corps)
@@ -344,6 +356,7 @@ See [Nova Corps](#wiki_nova_corps)
 ^(Source: Rule insert)
 
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
+
 *Set: H.A.M.M.E.R.*  
 
 [This card has received significant errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mimic)
@@ -2713,7 +2726,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NTI5MjYxLDc5NTgzMTczOSwxNTM4MD
+eyJoaXN0b3J5IjpbOTA1MjExODU3LDc5NTgzMTczOSwxNTM4MD
 IxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1
 MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
 UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
