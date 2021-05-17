@@ -2591,6 +2591,8 @@ This does NOT change the source of the original modifier or event, it just chang
 ^(Source: Rule Insert)
 
 # [Jenn](http://vs.tcgbrowser.com/images/cards/big/XFB-057.jpg)
+^CardNumber: XFB-057
+
 *Set: The X-Files Battles*
 
 If Jenn is in your deck, you start the game with a **Wish** pile. When you make your deck, choose three different cards and put two copies of each of them into your **Wish** pile. There are a few rules (besides no wishing for more wishes):
@@ -2610,6 +2612,8 @@ If the cards are Equipment or Plot Twists both of you may ignore any team affili
 ^(Source: Rule Insert)
 
 # [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
+^CardNumber: LEG-043
+
 *Set: Legacy*  
 
 **Psionic Protection**  
@@ -2619,6 +2623,8 @@ This power refers to ![](%%Intellect%%) (Intellect) super powers. This counts fo
 
 # Juggernaut
 ## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
+^CardNumber: BOM-001, BOM-002
+
 *Set: Brotherhood of Mutants*  
 
 Juggernaut is so big and powerful it’s almost impossible to beat him physically. Fortunately (for his enemies) he’s vulnerable to other kinds of attacks. This is represented on his card by his **It’s Gonna Take Something More to Stop Me!** power, which allows enemy players to spend an ![](%%Energy%%) (Energy) to weaken him. Note: This works just like any other super power – except an enemy player can only use it once per turn during their Main Phase. And keep in mind special locations like Avengers Mansion can’t be used by an opponent on Juggernaut’s power.
@@ -3059,7 +3065,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTkwOTQzMywtMTY5ODE0MjY0MCwyMj
+eyJoaXN0b3J5IjpbLTgwNTM5NTQzNiwtMTY5ODE0MjY0MCwyMj
 Y3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1Mzcw
 OTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMT
 k4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIx
