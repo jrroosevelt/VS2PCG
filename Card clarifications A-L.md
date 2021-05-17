@@ -3050,7 +3050,7 @@ Here's how his **Canadian Resistance Colonel** works:
 # Loki
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
-^CardNumber: MNB-081, MNB
+^CardNumber: MNB-081, MNB-082
 
 *Set: The Marvel Battles*
 
@@ -3061,6 +3061,8 @@ A: During combat when you activate that power, you immediately choose and play a
 ^(Source: UDE FAQ)
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC - Photo)
+^CardNumber: MCU1-057
+
 *The MCU Battles*  
 
 Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a character from your hand to increase the stats of a character in combat. Loki himself doesn’t have to be in combat to use this power.
@@ -3068,6 +3070,8 @@ Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a charac
 ^(Source: Rule insert)
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-098.jpg) (SC - Super Villains)
+^CardNumber: MNB-098
+
 *Set: The Marvel Battles*
 
 Q: Can I play 4 copies of the Marvel Villains Loki and 4 copies of the A-Force Loki in the same deck effectively playing 8 copies of Loki? And can I discard either one to the other as a power up? Can I have a copy of each in play at the same time?
@@ -3079,6 +3083,8 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 ^(Source: UDE Blog Preview post)
 
 # [The Lone Gunmen Newsletter](http://vs.tcgbrowser.com/images/cards/big/XFB-019.jpg)
+^CardNumber: XFB-019
+
 *Set: The X-Files Battles*
 
 Note that this Plot Twist will only cancel either one Super Power or one Plot Twist, not one of each.
@@ -3086,6 +3092,8 @@ Note that this Plot Twist will only cancel either one Super Power or one Plot Tw
 ^(Source: Rule Insert)
 
 # [Loyal Soldiers](http://vs.tcgbrowser.com/images/cards/big/def-053.jpg)
+^CardNumber: DEF-053
+
 *Set: Defenders*
 
 Q: Does Loyal Soldiers care about the affiliation of stunned characters on your side?
@@ -3096,6 +3104,9 @@ A: Yes, characters keep their affiliations even when they are stunned.
 
 
 # [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
+^CardNumber: MMU-056
+
+*Set: The Marvel Battles*
 
 Q: When I use his **Impervious Skin** power, what happens if he gets stunned?
 
@@ -3111,11 +3122,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTU1OTA5NCwtODA4MDA2ODI4LC0xNj
-k4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3
-OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyND
-MzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3
-NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNT
-YzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2
-NDldfQ==
+eyJoaXN0b3J5IjpbLTE3OTk1NTc3NzMsLTgwODAwNjgyOCwtMT
+Y5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2
+NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMj
+QzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5
+NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLT
+U2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkw
+NjQ5XX0=
 -->
