@@ -988,7 +988,7 @@ A: Yes.
 ^(Source: UDE FAQ- Entry for "Wolverine")
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
-^CardNumber:DEF-001, DEF-002,  
+^CardNumber:DEF-001, DEF-002,  LEG-040
 
 *Set: The Defenders*  
 
@@ -1003,16 +1003,20 @@ Daredevil, Rhino, and Juggernaut have effects that allow an enemy *character* to
 
 Q: If I attack Daredevil with Mary Walker (Typhoid Mary) and I put a -1/-1 counter on Daredevil and one on the only character he's protecting which happens to have 1 defense (like Black Widow), KO'ing her, does Daredevil gets an XP?
 
-A: The turn player decides the order per page 9 of the rule book under "Timing." Daredevil's level up power has an intervening "if" clause, which means the condition must be true when it triggers AND when it resolves. So if the turn player decides to resolve Mary Walker's power before Daredevil's power, Daredevil will not get an XP because he won't be protecting anyone once his level up power resolves. On the other hand, if the turn player decides to resolve Daredevil's power before Mary's then Daredevil will gain an XP.
+A: The turn player decides the order per the rule book under "Timing." Daredevil's level up power has an intervening "if" clause, which means the condition must be true when it triggers AND when it resolves. So if the turn player decides to resolve Mary Walker's power before Daredevil's power, Daredevil will not get an XP because he won't be protecting anyone once his level up power resolves. On the other hand, if the turn player decides to resolve Daredevil's power before Mary's then Daredevil will gain an XP.
 
 ^(Source: FB Post - Chad Daniel)
 
 # [Darkhold](http://vs.tcgbrowser.com/images/cards/big/SVH-055.jpg)
+^CardNumber:SVH-055
+
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ^(Source: Rule insert)
 
 # [Dark Beast](http://vs.tcgbrowser.com/images/cards/big/TUB-042.jpg)
+^CardNumber:SVH-055
+
 *Set: Utopia Battles*
 
 Q: Dark Beast SC2. "Pay 2 less to play evil equipment." Outside of Darkhold, how does one define "evil" equipment?
@@ -2837,11 +2841,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
-c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
-LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOT
-kxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTky
-MTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOT
-Y2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5
-NzM2XX0=
+eyJoaXN0b3J5IjpbMTMxNjY0NTQxNiwtMTA3NDUzNzA5NCwtNT
+MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
+MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
+gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
+NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
+EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
+MTNdfQ==
 -->
