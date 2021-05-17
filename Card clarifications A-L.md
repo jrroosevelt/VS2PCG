@@ -1750,18 +1750,24 @@ Attacking a machine is a special type of attack declaration that can only be don
 ^(Source: Official Clarification)
 
 # [The First Evil](http://vs.tcgbrowser.com/images/cards/big/TBB-034.jpg) (MC) 
+^CardNumber:TBB-034, TBB-035
+
 *Set: The Buffy Battles*  
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
 # [Flukeman](http://vs.tcgbrowser.com/images/cards/big/XFB-054.jpg)
+^CardNumber:XFB-054
+
 *Set: The X-Files Battles*
 
 If the Flukeman is on your side and he **Infects** a character, this means at the end of each of your turns, put a -1/-1 counter on that character. The character will remain **Infected** until it leaves play. (Flukeman leaving play will NOT end the Infection). A character can be **Infected** more than once, and will receive a -1/-1 counter for each instance of the infection.
 
 ^(Source: Rule Insert)
 
-# Forge
+# [Forge](http://vs.tcgbrowser.com/images/cards/big/NEW-020.jpg)
+^CardNumber:NEW-020
+
 *Set: Mystic Arts*
 
 Note that Forge's card number starts with "NEW" instead of "DAR". This is so that he works with cards that refer to "New Mutants" from the New Mutants Issue, like the Professor X main character.
@@ -1769,6 +1775,8 @@ Note that Forge's card number starts with "NEW" instead of "DAR". This is so tha
 ^(Source: Rule Insert)
 
 # [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
+
+
 *Set: The X-Files Battles*
 
 **Spooky** and **I Want to Believe** look for ![](%%Alien%%) (Alien) Super Powers. This includes any Super Power that costs at least one ![](%%Alien%%) (Alien) symbol to use. With **Spooky,** if you choose an Evil enemy character with an ![](%%Alien%%) (Alien) Super Power, you can either daze it, stun it, or KO it (although you only get to pick one of the three options). The same is true for **I Want to Believe**: if an Evil enemy character with an ![](%%Alien%%) (Alien) Super Power appears, you can choose for Mulder to gain 1, 2, or 3 XP. (It's not cumulative.) We would choose 3, but your mileage may vary.
@@ -2933,11 +2941,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg3NDk5MzYsMTk4MDEwMjY3OSwtMT
-A3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIw
-MDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNj
-k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
-NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMT
-k3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5
-MDk2XX0=
+eyJoaXN0b3J5IjpbMTc1NTg2MDgxNSwxOTgwMTAyNjc5LC0xMD
+c0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAw
+NCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OT
+k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
+NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
+c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
+OTZdfQ==
 -->
