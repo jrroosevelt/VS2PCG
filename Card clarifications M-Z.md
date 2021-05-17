@@ -810,6 +810,8 @@ Although the Negative Zone has a (Fantastic) team affiliation, any main characte
 ^(Source: Rule insert)
 
 # [Net Launcher](http://vs.tcgbrowser.com/images/cards/big/PRD-027.jpg)
+^CardNumber: PRD-027
+
 *Set: The Predator Battles*
 
 Q: Can I Daze a face down character with Net Launcher-equipped Gamora who has **Godslayer Blade** activated and KO the character?
@@ -821,6 +823,8 @@ While you are allowed to chose a face-down character for Net Launcher's super po
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [The Newborn](http://vs.tcgbrowser.com/images/cards/big/ALN-033.jpg)
+^CardNumber: ALN-033
+
 *Set: The Alien Battles*
 
 Q: If I have 1 Fortress in hand, can I discard it to pay for **Rrrraaarrrr!** since my hand will be empty from the discard?
@@ -838,6 +842,8 @@ The New Mutants are a part of the (X-Men) team. However, there are certain effec
 
 # Nick Fury
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC-Illustrated)
+^CardNumber: SVH-033, SVH-034
+
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 **Infinity Formula**  
@@ -846,6 +852,8 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 ^(Source: Rule insert)
 
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/MCU4-008.jpg) (MC-MCU)
+^CardNumber: MCU4-008, MCU4
+
 *Set: Power & Reality*  
 
 **A Full Bird Colonel ...** and **... Turned Spy** each give Supporting Characters on your side and you own **Soldier** or **Agent** respectively. This means when a Supporting Character appears on your side, it will trigger its **Soldier/Agent** power and count each other Supporting Character on your side.
@@ -2794,7 +2802,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODU0NDgwOCwxOTk0NDc3MjYwLC0xND
+eyJoaXN0b3J5IjpbLTQxNDkyMjE3MCwxOTk0NDc3MjYwLC0xND
 I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
 OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
 MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
