@@ -2743,7 +2743,7 @@ It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** wou
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
-^CardNumber: DEF-028, DEF-029
+^CardNumber: DEF-028, DEF-029, 
 
 *Set: Defenders*
 
@@ -3079,11 +3079,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjQ5MTY0NSwtMTY5ODE0MjY0MCwyMj
-Y3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1Mzcw
-OTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMT
-k4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIx
-OSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
-EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
-NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyODEwNDUzMjcsLTE2OTgxNDI2NDAsMj
+I2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3
+MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMD
+E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
+MTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLT
+ExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMx
+NjQ2XX0=
 -->
