@@ -1284,7 +1284,7 @@ A: Yes. This also works with Namor team attacking alongside a Leader against a b
 ^(Source: Chad Daniel)
 
 # [Punisher 2099](http://vs.tcgbrowser.com/images/cards/big/CV3-010.jpg)
-^CardNumber: DEF-018
+^CardNumber: CV3-010
 
 *Set: Crossover Vol. 3*
 
@@ -1295,6 +1295,8 @@ A: Yes. Each copy of Punisher 2099 that is used to power up grants an additional
 ^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/819649987121512518)
 
 # [Purple Man](http://vs.tcgbrowser.com/images/cards/big/def-045.jpg)
+^CardNumber: DEF-045
+
 *Set: Defenders*
 
 Q: How does Cosmo interact with a Purple Man that has already stolen a character in the turn it came into play?
@@ -2866,11 +2868,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI5NDU1NjgsMTY2OTM0MDQ5NSwxOT
-k0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMw
-NTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLT
-EwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQz
-NDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLD
-c5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIy
-NTk5Nl19
+eyJoaXN0b3J5IjpbMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OT
+Q0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1
+MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMT
+A3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0
+MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNz
+k1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1
+OTk2XX0=
 -->
