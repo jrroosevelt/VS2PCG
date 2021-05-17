@@ -988,6 +988,7 @@ A: Yes.
 ^(Source: UDE FAQ- Entry for "Wolverine")
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
+^CardNumber:DEF-001, DEF-002,  
 
 *Set: The Defenders*  
 
@@ -2836,11 +2837,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjM0ODU5MCwtNTMwNzYyMzQ3LDczNz
-Q2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUs
-LTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OT
-E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
-MiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
-Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
+c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
+LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOT
+kxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTky
+MTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOT
+Y2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5
+NzM2XX0=
 -->
