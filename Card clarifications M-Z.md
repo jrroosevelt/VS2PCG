@@ -604,7 +604,7 @@ This Plot Twist will stop "recruit" and "appears" powers.
 
 # Mysterio
 ## [Mysterio ](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains)
-^CardNumber: DAR-020
+^CardNumber: MCU7-001, MCU7-002
 
 *Set: Friendly Neighborhood*  
 
@@ -615,6 +615,8 @@ This Plot Twist will stop "recruit" and "appears" powers.
 ^(Source: Rule insert)
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-003.jpg) (MC-Illustrated)
+^CardNumber: SYN-003
+
 *Set: Sinister Syndicate*  
 
 **Hallucinogenic Gas**  
@@ -632,6 +634,8 @@ When you play a plot twist as a copy of a (Sinister Syndicate) plot twist, ignor
 [This card has a misprint](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_mysterio_mc).
 
 ## [Mysterio](http://vs.tcgbrowser.com/images/cards/big/SYN-008.jpg) (SC)
+^CardNumber: SYN-008
+
 *Set: Sinister Syndicate*  
 
 **Holographic Projector**  
@@ -641,6 +645,8 @@ Plot twists without team affiliations can be played  regardless of the team affi
 
 # Mystique
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - Femme Fatale)
+^CardNumber: LEG-067, LEG-068
+
 *Set: Legacy*  
 
 **Identity Theft**  
@@ -2772,7 +2778,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg3NjM3MiwxOTk0NDc3MjYwLC0xND
+eyJoaXN0b3J5IjpbLTQ4NTQ4NjYwOCwxOTk0NDc3MjYwLC0xND
 I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
 OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
 MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
