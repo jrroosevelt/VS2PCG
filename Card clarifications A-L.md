@@ -2341,7 +2341,7 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
-^CardNumber:SFO-00
+^CardNumber:SFO-006
 
 *Set: Spidey-Foes*  
 
@@ -2352,6 +2352,8 @@ Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tact
 ^(Source: Rule insert)
 
 # [Hyperion](http://vs.tcgbrowser.com/images/cards/big/COS-014.jpg)
+^CardNumber: COS-014
+
 *Set: Cosmic Avengers*  
 
 Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enemy main character must be face up in order to pay the required ![](%%Energy%%) (Energy). But it doesn't have to be in the combat.
@@ -2360,6 +2362,8 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 
 # Iceman
 ## [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg) (X-men)
+^CardNumber: MNB-035
+
 *Set: The Marvel Battles*
 
 Q: Can I freeze a character that has already been frozen that same turn?
@@ -2377,6 +2381,8 @@ A: Yes. The character would recover its next turn, but it wouldn't ready.
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
 
 ## [Iceman (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-007.jpg)
+^CardNumber: OGA-007
+
 *Set: The Omegas*  
 
 Freezing locations means exhaus them and they can't ready on their next turn (even if it's face down). 
@@ -3021,11 +3027,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1NjA0ODUsNjg0MDgwODc1LDE5OD
-AxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEz
-NSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNz
-M3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgz
-ODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLT
-Y0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3
-MjEyXX0=
+eyJoaXN0b3J5IjpbMjI2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMT
+AyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUs
+MTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNz
+Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
+LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
+Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
+Ml19
 -->
