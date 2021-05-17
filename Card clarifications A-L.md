@@ -2121,7 +2121,7 @@ A: It does not leave play when it is unequipped. It is equipped to the new chara
 
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
-^CardNumber: MNB-059, MNB-060
+^CardNumber: MNB-059, MNB-060, LEG-021, LEG-022
 
 *Set: The Marvel Battles*
 
@@ -2149,6 +2149,8 @@ A: Yes
 
 
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-070.jpg) (SC)
+^CardNumber: MNB-070
+
 *Set: The Marvel Battles*
 
 Q: If **I Am Groot** is turned off and Groot gets stunned for being a 0/0, what happens when he recovers?
@@ -2157,7 +2159,9 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 
 ^(Source: FB Post)
 
-## Guillotine
+## [Guillotine](http://vs.tcgbrowser.com/images/cards/big/CV3-007.jpg)
+
+
 *Set: Crossover Vol. 3*
 
 **La Fleur du Mal** lets you force your opponent to "pass" while in combat instead of playing a plot twist, using a super power, or powering up. For example, if Guillotine attacks a character, you could pass and then force your opponent to pass, which will cause the combat to resolve. Or you could take an action, cause your opponent to pass, then take another action before they get to act.
@@ -2989,11 +2993,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjU3NTg3Miw2ODQwODA4NzUsMTk4MD
-EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
-LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
-c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
-NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNj
-Q0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcy
-MTJdfQ==
+eyJoaXN0b3J5IjpbMzQzODgxMTE2LDY4NDA4MDg3NSwxOTgwMT
+AyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUs
+MTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNz
+Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
+LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
+Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
+Ml19
 -->
