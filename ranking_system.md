@@ -13,12 +13,13 @@ This is determined by a formula (see below). The exchange of points will typical
 
 ## The gory details (ranking formula)
 For anybody interested in the formula it is listed here. It's not as complicated as it looks, and is used by several organizations. 
-Rn = R1 + 32(O - (10^(R1/400))/(10^(R1/400) + 10^(R2/400))) 
+Rn = R1 + 32(O - (10 \^ (R1/400))/(10 \^ (R1/400) + 10 \^ (R2/400))) 
 
 - Rn is your new ranking 
 - R1 is your current ranking 
 - R2 is your opponent's ranking 
 - O is outcome of match. (1 for a win 0 for a lose. .5 for a tie.)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTA3NDY5MCwxMjQzNTYxMzQwXX0=
+eyJoaXN0b3J5IjpbLTE4MDI1MDY0MjIsLTU5OTA3NDY5MCwxMj
+QzNTYxMzQwXX0=
 -->
