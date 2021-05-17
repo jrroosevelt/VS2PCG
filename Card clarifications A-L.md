@@ -940,12 +940,17 @@ Note: **Trust the Plan** will only put three +1/+1 counters on a character even 
 ^(Source: Rule insert)
 
 # [Dagger](http://vs.tcgbrowser.com/images/cards/big/TUB-041.jpg)
+^CardNumber:TUB-041 
+
 *Set: The Utopia Battles*  
 
 **Shifting Loyalties**
 See [Shifting Loyalties](#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
+
+---
+Q: If my opponent has 
 
 # Daken
 ## [Daken (SC)](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
@@ -2812,11 +2817,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5OD
-MyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTks
-MzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMD
-kzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2
-LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNj
-c4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3OTIsMTE4MDMyMDg5
-MF19
+eyJoaXN0b3J5IjpbLTEzMjMzNDI1MTMsNzM3NDYxMzUsMTI0Mz
+M2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1
+OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01Nj
+M3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0
+OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMj
+A5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3
+OTJdfQ==
 -->
