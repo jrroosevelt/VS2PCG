@@ -444,7 +444,7 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 ^(Source: Rule insert)
 
 # [Mister X](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
-^CardNumber: CV2-014
+^CardNumber: LEG-034
 
 *Set: H.A.M.M.E.R.*  
 
@@ -453,6 +453,8 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 ^(Source: Rule insert)
 
 # [Mole Man](http://vs.tcgbrowser.com/images/cards/big/FAN-033.jpg) (MC)
+^CardNumber: FAN-033, FAN-044
+
 *Set: The Fantastic Battles*  
 
 Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Locations, he must tunnel under those first. If there are none, he can tunnel under a face-down resource. When he **Tunnels**, remove him from the game and place him beneath the card he is tunneling under. At the start of your next turn, put him back onto your side and if the card he was under was a Location, turn it face down. If it was already face down, KO it.
@@ -2735,7 +2737,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzg4NzU3Miw3OTU4MzE3MzksMTUzOD
+eyJoaXN0b3J5IjpbMTQxMjczODM5Niw3OTU4MzE3MzksMTUzOD
 AyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4
 NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMD
 M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
