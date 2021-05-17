@@ -1424,6 +1424,8 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 ^(Source: Rule insert)
 
 # [Robert Patrick Modell (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-048.jpg)
+^CardNumber: XFB-048, XFB-049
+
 *Set: The X-Files Battles*
 
 **Pusher** affects the next enemy player's Formation Step. You can either force that player to put their Range characters into their front row or their characters without Range into their back row.
@@ -1436,6 +1438,8 @@ When **Kitsunegari** moves an enemy character to your side, you may immediately 
 
 # Rocket
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mnb-053.jpg) (MC)
+^CardNumber: MNB-053, MNB-054
+
 **Set: The Marvel Battles**
 
 Q: Will his **Back Against the Wall** power trigger if I have no cards for a moment in the middle of resolving an effect? For example, if I use Emma Frost’s **Mind Games** on myself?
@@ -1462,6 +1466,8 @@ A: No. In order; Rocket is stunned first, then later discards and then draws on 
 
 
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
+^CardNumber: HER-010
+
 *Set: The MCU Battles*  
 
 Rocket’s **I’m Gonna Need a Few Things** power requires you to choose two cards with different names in your KO pile. If you don’t have two cards with two different names, his power will have no effect.
@@ -2890,11 +2896,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LDE5MT
-EzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4
-NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNT
-M4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUz
-ODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLT
-IwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUy
-ODldfQ==
+eyJoaXN0b3J5IjpbMTY5NTQwOTEwNiwxMDI1NDkxMTM2LC03Nj
+A4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0Nzcy
+NjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNz
+k1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMx
+NDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LD
+Q0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQy
+MDIzXX0=
 -->
