@@ -2509,6 +2509,8 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 ^(Source: Rule insert)
 
 # [Ironman](http://vs.tcgbrowser.com/images/cards/big/mnb-005.jpg) (MC)
+^CardNumber: MNB-005, MNB-006
+
 *Set: The Marvel Battles*
 
 Q: For his **Armor Mk 3** power, can Iron Man be the one who powered-up?
@@ -2518,6 +2520,8 @@ A: Yes. It can be Iron Man or another character on your side.
 ^(Source: UDE FAQ)
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
+^CardNumber: MCU1-034, MCU1-035
+
 *Set: The MCU Battles*  
 
 The owner of a character is the player who brought that card to the game, regardless of which side that character is currently on. So Iron Monger’s **Steal Idea** power will trigger when a character that an enemy player “owns” gets recruited, whether that enemy player recruited it themselves or if you used Iron Monger’s **You Had a Great Idea, Tony** power.
@@ -3045,11 +3049,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTMxMzA5MywyMjY3MDIyMjIsNjg0MD
-gwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0
-Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNT
-EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
-LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
-M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
-OTRdfQ==
+eyJoaXN0b3J5IjpbNDk2NTgxNjAxLDIyNjcwMjIyMiw2ODQwOD
+A4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3
+LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MT
+M0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwt
+MTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1Mz
+gxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5
+NF19
 -->
