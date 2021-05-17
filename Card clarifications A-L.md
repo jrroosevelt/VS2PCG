@@ -2399,6 +2399,8 @@ Several characters have powers that impersonate other characters. These powers t
 ^(Source: Rule insert)
 
 # [Impossible Man](http://vs.tcgbrowser.com/images/cards/big/FAN-049.jpg)
+^CardNumber: FAN-049
+
 *Set: The Fantastic Battles*  
 
 **Omnifarious**  
@@ -2407,6 +2409,8 @@ Impossible Man is three cards in one. He can be played as an Equipment, a Plot T
 ^(Source: Rule insert)
 
 # [The In-Betweener](http://vs.tcgbrowser.com/images/cards/big/CV2-009.jpg)
+^CardNumber: CV2-009
+
 *Set: Crossover Vol. 2*  
 
 **Duality Itself** lets you put the In-Betweener onto your side between two turns of the game. You can even do this after an enemy player's first turn but before your first turn.
@@ -2418,6 +2422,8 @@ The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to 
 ^(Source: Rule insert)
 
 # [The Infinity Gauntlet](http://vs.tcgbrowser.com/images/cards/big/BLK-017.jpg)
+^CardNumber: BLK-017
+
 *Set: Black Order*  
 
 While equipped, the Infinity Gauntlet allows you to turn any number of face-down Infinity Gem equipment in your resource row face up to show that you've "set" them into the Gauntlet. If a card with Infinity gets put into a KO pile from anywhere, you may shuffle it into its owner's deck. 
@@ -2445,6 +2451,8 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
+^CardNumber: FAN-049
+
 *Set: Black Order*  
 
 **Owned By**  
@@ -3027,11 +3035,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMT
-AyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUs
-MTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNz
-Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
-LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
-Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
-Ml19
+eyJoaXN0b3J5IjpbMTEzNjgwODcyMSwyMjY3MDIyMjIsNjg0MD
+gwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0
+Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNT
+EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
+LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
+M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
+OTRdfQ==
 -->
