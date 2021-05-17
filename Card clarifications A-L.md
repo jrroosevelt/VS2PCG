@@ -1076,7 +1076,7 @@ At Level 2, while Deacon is melee attacking a Supporting Character, there are tw
 
 # Deadpool
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
-^CardNumber:DAR-003, DAR-004
+^CardNumber:MFM-001, MFM-002, MFM-003, MFM-004
 
 *Set: Deadpool & Friends*
 
@@ -1105,7 +1105,9 @@ Here are some quick tips:
 
 ^(Source: Rule insert)
 
-## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-031.jpg) (MC- - X-Men)
+## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-031.jpg) (MC - X-Men)
+^CardNumber:MNB-031, MNB-032
+
 *Set: The Marvel Battles*
 
 Q: If I use **Merc With a Mouth** to make my Gambit or Dazzler Lethal, will they KO a character by using their Super Powers to stun them?
@@ -1150,6 +1152,8 @@ A: No, the other characters don’t know what a player is.
 ---
 
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-039.jpg) (SC)
+^CardNumber:DAR-003, DAR-004
+
 *Set: The Marvel Battles*
 
 Q: If I have both Silver Sable and Deadpool, can they both enter a team attack with my Main Character?
@@ -2849,7 +2853,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzE4MjAzMiwtMTA3NDUzNzA5NCwtNT
+eyJoaXN0b3J5IjpbMTU3ODU5NTM0MCwtMTA3NDUzNzA5NCwtNT
 MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
 MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
 gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
