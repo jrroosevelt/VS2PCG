@@ -463,8 +463,10 @@ If he is beneath a Location and it gets turned face down (including by being use
 
 ^(Source: Rule insert)
 
-# Moloid
+# [Moloid](http://vs.tcgbrowser.com/images/cards/big/FAN-056.jpg)
 *Set: The Fantastic Battles*
+
+^CardNumber: FAN-033, FAN-044
 
 Q: Which side does Moloid check to determine the ATK boost?
 
@@ -2737,11 +2739,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjczODM5Niw3OTU4MzE3MzksMTUzOD
-AyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4
-NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMD
-M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
-LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
-AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
-NTRdfQ==
+eyJoaXN0b3J5IjpbNDYwOTMwNTAzLDc5NTgzMTczOSwxNTM4MD
+IxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1
+MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
+UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
+LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
+AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
+NF19
 -->
