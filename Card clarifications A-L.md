@@ -1203,6 +1203,8 @@ If a player would draw two or more at a time (including during their Draw Phase)
 
 # Devil Dinosaur
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-113.jpg) Team Affiliations
+^CardNumber:MMU-113
+
 *Set: Monsters Unleashed!*  
 
 Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Girl is on the Inhumans and Devil Dinosaur is on the Monsters Unleashed team. But both of them are also on the Moon Girl/Devil Dinosaur team. This allows them to Team Attack together or with members of their respective teams.(Keep in mind all members of a Team Attack must share at least one team affiliation.)
@@ -1210,11 +1212,15 @@ Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Gir
 ^(Source: Rule insert)
 
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-105.jpg) and Moon Girl (MCs)  
+^CardNumber:MMU-105, MMU-106, MMU-045, MMU-046
+
 The Main Characters, Moon Girl and Devil Dinosaur, go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
 ^(Source: Rule insert)
 
 # [Devil Slayer](http://vs.tcgbrowser.com/images/cards/big/DFX-009.jpg)
+^CardNumber:DFX-009
+
 *Set: The New Defenders*  
 
 His **Shadow Cloak** lets him attack hidden and stunned characters. Treat it as a regular attack (both players can play Plot Twists, Power Up, etc.), but keep in mind the face-down character’s powers are turned off and its team affiliation is not available for things like playing a plot twist.
@@ -1237,6 +1243,8 @@ A: No. Devil Slayer still has to follow all the other legal attack rules. He doe
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
 # [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg)
+^CardNumber:DAR-003, DAR-004
+
 *Set: Friendly Neighborhood*  
 
 The effects from **That is Dimitri** can stack. For example, if Maria Hill and Nick Fury are on your side, Dimitri will have +2/+2, **Stealth**, and **Genius**.
@@ -2858,7 +2866,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAyNzYwODcsLTEwNzQ1MzcwOTQsLT
+eyJoaXN0b3J5IjpbLTEyMzEwNTYxODcsLTEwNzQ1MzcwOTQsLT
 UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
 NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
 I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
