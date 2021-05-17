@@ -2160,7 +2160,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 ^(Source: FB Post)
 
 ## [Guillotine](http://vs.tcgbrowser.com/images/cards/big/CV3-007.jpg)
-
+^CardNumber: CV3-007
 
 *Set: Crossover Vol. 3*
 
@@ -2170,6 +2170,8 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 
 # Hawkeye
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC - Illustrated)
+^CardNumber: COS-006, COS-007
+
 *Set: Cosmic Avengers*  
 
 Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PlLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
@@ -2195,6 +2197,8 @@ A: Yes.
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/622921783787388930)
 
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/MCU4-005.jpg) (MC-MCU)
+^CardNumber: MCU4-005, MCU4-006
+
 *Set: Power & Reality*  
 
 When you spend a power symbol from a Location in your resource row to put Hawkeye into a **Nest**, put the Location card partly underneath him and leave it face up as the **Nest**. (If you pay for the power by discarding a Location or you reduce the cost of the power to zero power symbols, nothing happens.)
@@ -2210,6 +2214,8 @@ If Hawkeye uses **I Want You On That Roof** while he already has a **Nest**, tur
 ^(Source: Rule insert)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
+^CardNumber: HAM-012
+
 *Set: H.A.M.M.E.R.*  
 
 **Executioner**  
@@ -2219,6 +2225,8 @@ If Hawkeye uses **I Want You On That Roof** while he already has a **Nest**, tur
 
 # Helmut Zemo
 ## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg) (SC)
+^CardNumber: DEF-036
+
 *Set: Defenders*
 
 Q: If I use the **Sow Distrust** power and my opponent's MC is stunned, does that mean I can choose any character in their hand?
@@ -2236,6 +2244,8 @@ A: The effect is asking if a character in their hand matches the team affiliatio
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/SVH-001.jpg) (MC)
+^CardNumber: HAM-012
+
 *Set: S.H.I.E.L.D. vs. Hydra*
 
 Q: If I have Zemo L1 and I play Gwenpool, do I get 5 XP or 6 XP for her?
@@ -2993,11 +3003,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODgxMTE2LDY4NDA4MDg3NSwxOTgwMT
-AyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUs
-MTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNz
-Y0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0
-LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02ND
-Q5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIx
-Ml19
+eyJoaXN0b3J5IjpbMTA3MTMzMDE5Myw2ODQwODA4NzUsMTk4MD
+EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
+LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
+c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
+NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNj
+Q0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcy
+MTJdfQ==
 -->
