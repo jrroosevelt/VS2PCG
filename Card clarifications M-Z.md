@@ -1007,6 +1007,8 @@ These are four different One of a Kind Equipment that have the same name. Unlike
 See also: [Machine](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_machine)
 
 # [Omega Red](http://vs.tcgbrowser.com/images/cards/big/CV1-019.jpg)
+^CardNumber: CV1-019
+
 *Set: Crossover*  
 
 **Carbonadium Tentacles**  
@@ -1015,6 +1017,8 @@ The phrase “could melee attack” means Omega Red can legally attack that char
 ^(Source: Rule insert)
 
 # [Onslaught](http://vs.tcgbrowser.com/images/cards/big/LEG-035.jpg)
+^CardNumber: LEG-035
+
 *Set: Legacy*  
 
 **Joint Consciousness**  
@@ -1047,6 +1051,8 @@ A: He would still be stunned since he will have wounds equal to his health (0 is
 ^(Source: FB Post - Chad Daniel)
 
 # [Outrider (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-006.jpg)
+^CardNumber: MCU6-006
+
 *Set: Space & Time*  
 
 **We Have Blood to Spare** gives you six Main Character to start the game, and you're only out of the game once they're all KO'd.
@@ -1054,6 +1060,8 @@ A: He would still be stunned since he will have wounds equal to his health (0 is
 ^(Source: Rule insert)
 
 # [Oz](http://vs.tcgbrowser.com/images/cards/big/TBB-019.jpg)
+^CardNumber: TBB-019
+
 *Set: The Buffy Battles*  
 
 **Lose Control** lets an enemy player force Oz to strike another Supporting Character. If Oz’s ATK is greater than or equal to that character’s DEF, Oz stuns that character.
@@ -1061,6 +1069,8 @@ A: He would still be stunned since he will have wounds equal to his health (0 is
 ^(Source: Rule insert)
 
 # [Pain and Suffering](http://vs.tcgbrowser.com/images/cards/big/def-050.jpg)
+^CardNumber: DEF-050
+
 *Set: Defenders*
 
 Q: Pain and Suffering has to played be during combat but does it have to target a character in the combat? It does not specify with "an attacker" or "a defender" or "a character in this combat" like cards like Even the Odds, Hidden Weapons, etc. do.
@@ -1070,6 +1080,8 @@ A: Pain and Suffering can only affect a character in the combat.
 ^(Source: Danny Mandel)
 
 # [Paladin](http://vs.tcgbrowser.com/images/cards/big/HAM-013.jpg)
+^CardNumber: HAM-013
+
 *Set: H.A.M.M.E.R*
 
 Q: Does this guy have to be face-up after the combat for his ability to work?
@@ -1079,6 +1091,8 @@ A: No. As long as he stuns the defender, the power is applied, even if Paladin i
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/595302528631963648)
 
 # [Parallel Dimension](http://vs.tcgbrowser.com/images/cards/big/XFB-064.jpg)
+^CardNumber: XFB-064
+
 *Set: The X-Files Battles*
 
 A **Duplicate** of your Main Character works like this. It has all the same printed characteristics as your Main Character - name, team, current Level, ATK/DEF, and posers - plus it has **Swarm** and it can't gain XP, Level Up or Level Down, transform, or otherwise become a different card. When it's KO'd, it will go back to being the Parallel Dimension Plot Twist in your KO Pile.
@@ -1097,6 +1111,8 @@ A: No. You **can** do this the first time. However, as soon as **Parallel Dimens
 
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
+^CardNumber: DAR-020
+
 *Set: Crossover*  
 
 Coulson’s **Special Agent** power means when a character with Agent appears on your side, you’ll get to look one card deeper into your deck.
@@ -2824,11 +2840,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NzY4ODYxLDE5OTQ0NzcyNjAsLTE0Mj
-k5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5
-LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMz
-IzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0
-NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4Mj
-A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
-MzRdfQ==
+eyJoaXN0b3J5IjpbMzI1MjIxNjMsMTk5NDQ3NzI2MCwtMTQyOT
+kzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3Mzks
+MTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMj
+M1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1
+LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMD
+Y1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEz
+NF19
 -->
