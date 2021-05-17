@@ -977,6 +977,8 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 ^(Source: Rule insert)
 
 ## [Daken](http://vs.tcgbrowser.com/images/cards/big/HAM-003.jpg) (MC)
+^CardNumber:HAM-003, HAM-004 
+
 *Set: H.A.M.M.E.R.*
 
 Q: If Daken is stunned as an enemy character is stunned as the result of striking each other, will Daken get an XP?
@@ -986,6 +988,7 @@ A: Yes.
 ^(Source: UDE FAQ- Entry for "Wolverine")
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
+
 *Set: The Defenders*  
 
 **Radar Sense**  
@@ -2833,7 +2836,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTg3OTQ2MCwtNTMwNzYyMzQ3LDczNz
+eyJoaXN0b3J5IjpbMjAwMjM0ODU5MCwtNTMwNzYyMzQ3LDczNz
 Q2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUs
 LTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OT
 E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
