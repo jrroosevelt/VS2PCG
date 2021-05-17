@@ -3009,6 +3009,8 @@ Editor's note: On the flip side, the characters brought **Along for the Ride** w
 
 # Logan 
 ## [Logan (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-004.jpg)
+^CardNumber: FUT-003, FUT-004
+
 *Set: Futures Past*
 
 Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Timeline**) to every Level 3 Wolverine on your side. As of this Issue, there is only one Level 3 Wolverine (from the 2017 Vs. System 2PCG: Legacy issue). 
@@ -3018,6 +3020,8 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 ^(Source: Rule Insert)
 
 ## [Logan (SC)](http://vs.tcgbrowser.com/images/cards/big/FUT-013.jpg)
+^CardNumber: FUT-013
+
 *Set: Futures Past*
 
 Here's how his **Canadian Resistance Colonel** works:
@@ -3046,6 +3050,8 @@ Here's how his **Canadian Resistance Colonel** works:
 # Loki
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
+^CardNumber: MNB-081, MNB
+
 *Set: The Marvel Battles*
 
 Q: How does his **God of Mischief** power work?
@@ -3105,11 +3111,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMj
-Y3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1Mzcw
-OTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMT
-k4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIx
-OSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
-EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
-NDZdfQ==
+eyJoaXN0b3J5IjpbLTU5NTU1OTA5NCwtODA4MDA2ODI4LC0xNj
+k4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3
+OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyND
+MzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3
+NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNT
+YzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2
+NDldfQ==
 -->
