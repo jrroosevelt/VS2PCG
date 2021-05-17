@@ -1410,7 +1410,7 @@ Q: **Doctor Turned Sorceror** says I can choose which type of **Spellcaster** he
 A: The short answer is, yes, you can draw (and mulligan) before choosing. For a more detailed definition, see [Start of Game in the glossary](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_start_of_game).
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
-^CardNumber:DEF-003, De-004
+^CardNumber:DEF-003, DEF-004
 
 *Set: Defenders*
 
@@ -1430,6 +1430,8 @@ A: No, it would remove the +1/+1 and then... nothing else happens because they c
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/mnb-019.jpg) (SC)
+^CardNumber:MNB-019
+
 *Set: The Marvel Battles*
 Q: Can his Transmute power stun someone?
 
@@ -1438,6 +1440,8 @@ A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 coun
 ^(Source: UDE FAQ)
 
 # [Dust](http://vs.tcgbrowser.com/images/cards/medium/CV2-011.jpg)
+^CardNumber:CV2-011
+
 *Set: Crossover Vol. 2*
 Q: Can I include Dust in Ahab's Hound pile if my MC is not a Mutant Resistance MC? 
 
@@ -1446,6 +1450,8 @@ A: No. The "Starting Main Character Required" restriction on the card is a deck 
 ^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/783103861811314709)
 
 # [E.D.I.T.H](http://vs.tcgbrowser.com/images/cards/big/MCU7-022.jpg)
+^CardNumber:MCU7-022
+
 *Set: Friendly Neighborhood*  
 
 **Release Kill Vehicle** lets you strike an enemy character. It works like a character on your side with 6 ATK striking the enemy character. 
@@ -2887,11 +2893,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM2ODA4MTcsLTEwNzQ1MzcwOTQsLT
-UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
-NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
-I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
-NDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLT
-IxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2
-NzEzXX0=
+eyJoaXN0b3J5IjpbMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNT
+MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
+MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
+gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
+NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
+EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
+MTNdfQ==
 -->
