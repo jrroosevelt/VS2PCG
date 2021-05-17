@@ -1890,7 +1890,7 @@ A: No. There must be a face-up enemy supporting character in play.
 ^(Source: UDE FAQ)
 
 # [Gamora](http://vs.tcgbrowser.com/images/cards/big/mnb-057.jpg) (MC)
-^CardNumber:MNB-057, MNB
+^CardNumber:MNB-057, MNB-058
 
 *Set: The Marvel Battles*
 
@@ -1909,6 +1909,8 @@ A: Yes.
 ^(Source: UDE FAQ)
 
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
+^CardNumber:TBB-043
+
 *Set: The Buffy Battles*  
 
 **Hush** prevents players from using effects that require you to “say” something or to “name” something. **Hush** also prevents players from talking. You can still communicate in other ways such as using hand signals, or writing things down. You can also make sounds without using your vocal chords. If a player does speak, do your best impersonation of a Gentleman in order to shush them. (There is no in-game penalty for speaking. It’s just not cool.)
@@ -1916,6 +1918,8 @@ A: Yes.
 ^(Source: Rule insert)
 
 # [Ghost (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU5-009.jpg)
+^CardNumber:MCU5-008, MCU5-009
+
 *Set: Mind & Soul*  
 
 **Invisible** means that enemy players can ignore Ghost for the purposes of attacking back row characters on Ghost's side and she can ignore enemy front row characters for the same purpose. 
@@ -1923,6 +1927,8 @@ A: Yes.
 ^(Source: Rule insert)
 
 # [Ghost Rider](http://vs.tcgbrowser.com/images/cards/big/def-006.jpg) (MC)
+^CardNumber:DEF-005, DEF-006
+
 *Set: Defenders*
 
 Q: If I have L2 Ghost Rider out and use his **Hell on Wheels** super power and attack multiple characters, would his defense be chipped away after each attack or would it refresh for each attack?
@@ -1932,6 +1938,7 @@ A: No, defense is never chipped away in this game.
 ^(Source: FB Post - UDE Approved)
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
+
 *Set: Webheads*  
 
 **You Can Borrow This for a While** grants characters with the chosen name the **Dimensional Wristwatch** keyword. You can recruit a character with **Dimensional Wristwatch** directly from your deck: Announce you're recruiting them from your deck, search your deck for the character, shuffle your deck, and then recruit them (pay its cost and put it onto your side). 
@@ -2955,11 +2962,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM3NjIwMzAsMTk4MDEwMjY3OSwtMT
-A3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIw
-MDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNj
-k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
-NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMT
-k3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5
-MDk2XX0=
+eyJoaXN0b3J5IjpbLTI4MTg4MjAwMywxOTgwMTAyNjc5LC0xMD
+c0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAw
+NCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OT
+k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
+NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
+c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
+OTZdfQ==
 -->
