@@ -1938,6 +1938,7 @@ A: No, defense is never chipped away in this game.
 ^(Source: FB Post - UDE Approved)
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
+^CardNumber:WEB-003, WEB-004
 
 *Set: Webheads*  
 
@@ -1958,6 +1959,8 @@ If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players
 ^(Source: Rule insert)
 
 # [Gilgamesh](http://vs.tcgbrowser.com/images/cards/small/COS-015.jpg)
+^CardNumber:XFB-015
+
 *Set: Cosmic Avengers*  
 
 For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you from speaking, he will lose Eternal at the end of the turn.
@@ -2962,11 +2965,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTg4MjAwMywxOTgwMTAyNjc5LC0xMD
-c0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAw
-NCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OT
-k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
-NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
-c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
-OTZdfQ==
+eyJoaXN0b3J5IjpbNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNz
+Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
+LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
+YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
+OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
+Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
+Nl19
 -->
