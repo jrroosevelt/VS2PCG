@@ -56,7 +56,7 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 # Magneto
 ## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
-^CardNumber: MNB-083, MNB-08
+^CardNumber: MNB-083, MNB-084
 
 *Set: The Marvel Battles*
 
@@ -67,6 +67,8 @@ A: Yes
 ^(Source: UDE FAQ)
 
 ## [Magneto (SC-Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-011.jpg)
+^CardNumber: OGA-011
+
 *Set: The Omegas*  
 
 He doesn't make Equipment played as other card types free (like Impossible Man or Arnim Zola's **ESP Box**).
@@ -74,6 +76,8 @@ He doesn't make Equipment played as other card types free (like Impossible Man o
 ^(Source: Rule insert)
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
+^CardNumber: GAL-016
+
 *Set: Galactic Guardians*  
 
 **Stationary** prevents Mainframe from moving even if an enemy player uses a push or pull effect on him or rearranges your formation.
@@ -83,12 +87,8 @@ When Mainframe uses **Primary Operating System** it applies only to characters t
 
 ^(Source: Rule insert)
 
-# [Magneto](http://vs.tcgbrowser.com/images/cards/big/BOM-005.jpg) (MC)
-*Set: Brotherhood of Mutants*  
 
-In this set Magneto gets a whole new main character card, and this time  it goes to Level 3. This card represents Magneto’s desire to bring all mutants together as one. (Note: The version of Magneto can’t level up into the version of him and vice versa. A main character can only level up into a main character from the same set or into one that has the same artwork as it does.)
 
-^(Source: Rule insert)
 
 # [The Maker](http://vs.tcgbrowser.com/images/cards/big/FRI-015.jpg)
 *Set: The Frightful*
@@ -2683,11 +2683,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDQwNDk3MSw3OTU4MzE3MzksMTUzOD
-AyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4
-NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMD
-M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
-LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
-AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
-NTRdfQ==
+eyJoaXN0b3J5IjpbLTExMDkyMzI0NzksNzk1ODMxNzM5LDE1Mz
+gwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4
+ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMj
+AzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4
+OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMT
+gwMDExNjU0NSwtNTgzNzcwMTMxLDE4NDU5NTUwNCwxMzIxMzA3
+OTU0XX0=
 -->
