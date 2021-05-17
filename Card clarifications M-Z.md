@@ -916,7 +916,7 @@ Note: Dark Avengers, Dark X-Men does not give your (Avengers) and (X-Men) charac
 ^(Source: Rule insert)
 
 # [\* Nova \*](http://vs.tcgbrowser.com/images/cards/big/HER-016.jpg) 
-^CardNumber: DAR-020
+^CardNumber: HER-016
 
 *Set: The Herald*
 
@@ -925,6 +925,8 @@ Q: Can **Stellar Flare!** target Hidden characters?
 A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide).
 
 # [Nova Corps](http://vs.tcgbrowser.com/images/cards/big/GAL-018.jpg)
+^CardNumber: GAL-018
+
 *Set: Galactic Guardians*  
 
 In this Arc, we are playing around with how players can use locations besides super powers. In addition to cards like Nikki (who has a keyword power which requires spending an ![](%%Alien%%) (Alien), each Issue will have a Plot Twist and Special Location that allow their main characters to have some pretty powerful effects on the game. A few things about these Plot Twists and Special Locations: 
@@ -938,6 +940,8 @@ In this Arc, we are playing around with how players can use locations besides su
 ^(Source: Rule insert)
 
 # [The Nullifier](http://vs.tcgbrowser.com/images/cards/big/SVH-057.jpg)
+^CardNumber: SVH-057
+
 *Set: S.H.I.E.L.D. vs. Hydra*
 
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
@@ -972,6 +976,8 @@ It also means that the Nullifier can now be Nullified. Cosmo or an opposing Null
 ^(Source: FB Post - Benjamin Brozene)
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
+^CardNumber: FAN-055
+
 *Set: The Fantastic Battles*  
 
 Because this copies everything from any enemy Plot Twist you choose except for that Plot Twist's team affiliations (and it technically keeps its (Fearsome) team affiliation, you must only have a face up (Fearsome) character on your side in order to play this Plot Twist.
@@ -979,6 +985,8 @@ Because this copies everything from any enemy Plot Twist you choose except for t
 ^(Source: Rule insert)
 
 # [Odin](http://vs.tcgbrowser.com/images/cards/big/MCU6-004.jpg)
+^CardNumber: MCU6-004
+
 *Set: Space & Time*  
 
 Odin introduces **Level Down Powers** to the game. A Level Down Power works just like a Level Up Power, except instead of gaining XP which advances it to a higher level, it gains XP which regresses it back to a lower level. When a character gains Level Down XP, put an XP counter on its Main character card that is one level lower than its current level. If a character has both a Level Up and a Level Down Power, it's possible for it to gain and have both kinds of XP. However, once it levels up or levels down, all of both types of XP will be removed.
@@ -990,6 +998,8 @@ Odin actually starts off as his most powerful self at Level 1. but after a few t
 ^(Source: Rule insert)
 
 # [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
+^CardNumber: TUB-054, TUB-055, TUB-056, TUB-057
+
 These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
 
 ^(Source: Rule insert)
@@ -2814,7 +2824,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0Njk3MjExLDE5OTQ0NzcyNjAsLTE0Mj
+eyJoaXN0b3J5IjpbNTk5NzY4ODYxLDE5OTQ0NzcyNjAsLTE0Mj
 k5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5
 LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMz
 IzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0
