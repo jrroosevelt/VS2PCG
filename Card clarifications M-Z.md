@@ -356,6 +356,7 @@ See [Nova Corps](#wiki_nova_corps)
 ^(Source: Rule insert)
 
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
+^CardNumber: HAM-005, HAM-006, HAM-007
 
 *Set: H.A.M.M.E.R.*  
 
@@ -413,6 +414,8 @@ A: Mimic gains their powers, not team affiliations. Mimic is H.A.M.M.E.R. - it d
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/621777031813660676)
 
 # [Mirage](http://vs.tcgbrowser.com/images/cards/big/NEW-010.jpg)
+^CardNumber: NEW-010
+
 *Set: New Mutants*   
 
 Mirage’s **Create Illusion** power lets you put a basic location from your hand into your resource row. Note that the new resource won’t generate any recruit points on the turn it appears. This is because recruit points are only generated at the start of your Recruit Step, which happens before you can recruit characters like Mirage.
@@ -420,6 +423,8 @@ Mirage’s **Create Illusion** power lets you put a basic location from your han
 ^(Source: Rule insert)
 
 # [Miss America](http://vs.tcgbrowser.com/images/cards/big/aff-019.jpg)
+^CardNumber: AFF-019
+
 *Set: A-Force*
 
 Q: If my Miss America is attacked and I use Play Dead on her, can I recover her with **Tough**? And what happens to the Combat?
@@ -429,6 +434,8 @@ A: When Miss America is stunned by play dead, the combat is canceled, you may us
 ^(Source: FB Post)
 
 # [Mister Sinister](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
+^CardNumber: LEG-034
+
 *Set: Legacy*  
 
 **Genetic Manipulation**  
@@ -437,6 +444,8 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 ^(Source: Rule insert)
 
 # [Mister X](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
+^CardNumber: CV2-014
+
 *Set: H.A.M.M.E.R.*  
 
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
@@ -2726,11 +2735,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MjExODU3LDc5NTgzMTczOSwxNTM4MD
-IxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1
-MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
-UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
-LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
-AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
-NF19
+eyJoaXN0b3J5IjpbLTk5Nzg4NzU3Miw3OTU4MzE3MzksMTUzOD
+AyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4
+NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMD
+M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
+LC02OTM0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxOD
+AwMTE2NTQ1LC01ODM3NzAxMzEsMTg0NTk1NTA0LDEzMjEzMDc5
+NTRdfQ==
 -->
