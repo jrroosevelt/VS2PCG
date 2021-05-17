@@ -560,6 +560,8 @@ Morgan le Fay’s super power counts how many times you’ve used a power named 
 ^(Source: Rule insert)
 
 # [Mr. Black](http://vs.tcgbrowser.com/images/cards/big/PRD-008.jpg) (MC)
+^CardNumber: PRD-007, PRD-008
+
 *Set: The Predator Battles*  
 
 **Enhanced Bio-Mask** 
@@ -2764,7 +2766,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjE5MTYyNiwtMTQyOTkzODQ5LC0xNz
+eyJoaXN0b3J5IjpbMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC0xNz
 Q1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUzODAyMTMy
 MiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4NTEsNT
 E4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2
