@@ -1350,7 +1350,9 @@ Currently, Rachel gets the existing **Teke Shield**, **Life Incarnate**, and **W
 
 ^(Source: Rule Insert)
 
-# Radioactive Man
+# [Radioactive Man](http://vs.tcgbrowser.com/images/cards/big/MOE-012.jpg)
+^CardNumber: FUT-005
+
 *Set: Masters of Evil*
 
 **Hard Radiation** affects the row in front of Radioactive Man. If he’s in your back row, it will affect _your_ front row. But if he’s in your front row, it will affect every _other player’s_ front row. (Note: It will never affect an opponent’s back row, even if they have no characters in their front row.)
@@ -1359,6 +1361,8 @@ Currently, Rachel gets the existing **Teke Shield**, **Life Incarnate**, and **W
 
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
+^CardNumber: BLK-020
+
 *Set: Black Order*  
 
 You can use this Gem to turn cards in play face up. If you choose a stunned character this counts as recovering it. If you choose a hidden character, it counts as un-hiding it. If you choose a face-down location, it will turn face up. If you choose any other type of face-down resource (including an Infinity Gem), it will remain face down. (It should be revealed to each player to prove that it's not a location). 
@@ -1371,6 +1375,8 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 
 # Red Skull
 ## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/MCU4-011.jpg) (MC-MCU Villains)
+^CardNumber: FUT-005, FUT-006
+
 *Set: Power & Reality*  
 
 When you resolve **You Must Lose What You Love**, if there was a tie for highest cost Supporting Character, you choose which one gets discarded.
@@ -2876,11 +2882,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTE2MTk0MSwtNzYwODI3MjQ1LDE5MT
-EzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4
-NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNT
-M4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUz
-ODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLT
-IwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUy
-ODldfQ==
+eyJoaXN0b3J5IjpbMTk1MDU5MTc0LC03NjA4MjcyNDUsMTkxMT
+M2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0
+OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1Mz
+gwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4
+ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMj
+AzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4
+OV19
 -->
