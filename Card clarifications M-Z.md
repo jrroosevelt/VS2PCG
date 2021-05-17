@@ -1570,7 +1570,7 @@ Royce’s supporting character has this Super Power. It allows him to move a wou
 ^(Source: Rule insert)
 
 # [The Runner](http://vs.tcgbrowser.com/images/cards/big/CV2-008.jpg)
-^CardNumber: HER-010
+^CardNumber: CV2-008
 
 *Set: Crossover vol. 2*  
 
@@ -1579,6 +1579,8 @@ The Runner is so fast he can actually attack during your Build Phase. This means
 ^(Source: Rule insert)
 
 # [Sabretooth](http://vs.tcgbrowser.com/images/cards/big/BOM-006.jpg) (MC)
+^CardNumber: BOM-006, BOM-007
+
 *Set: Brotherhood of Mutants*
 
 Q: On Sabretooth's level up it says at the end of "each turn". Because it doesn't say "your turn" does this mean he gains XP at the end of my opponent's turn as well. Or does it mean after both I and my opponent have had a turn?
@@ -1589,6 +1591,8 @@ A: Yes he gains an XP for every turn he is face up; both yours and your opponent
 
 
 # [Sacred Ground](http://vs.tcgbrowser.com/images/cards/big/TUB-029.jpg) 
+^CardNumber: TUB-029
+
 *Set: The Utopia Battles*  
 
 This Plot Twist lets a character pay any power symbol. You can generate a power symbol in the usual ways -- by turning a Location that makes a power symbol face down, or by discarding a Location that makes a power symbol.
@@ -1596,6 +1600,8 @@ This Plot Twist lets a character pay any power symbol. You can generate a power 
 ^(Source: Rule insert)
 
 # [Satana](http://vs.tcgbrowser.com/images/cards/big/aff-045.jpg)
+^CardNumber: AFF-045
+
 *Set A-Force*
 
 Q: If I had both Lokis in my deck would Satana remove all my Lokis (both male and female) or just the one that is picked from **Consume Soul**?
@@ -1613,6 +1619,8 @@ A: No.
 ^(Source: FB Post )
 
 # [Sauron](http://vs.tcgbrowser.com/images/cards/big/BOM-016.jpg)
+^CardNumber: BOM-016
+
 *Set: Brotherhood of Mutants*  
 
 Sauron’s **Terrifying Delusions** power tricks a main character into striking a supporting character on their side. When this happens compare the main character’s ATK to the supporting character’s DEF to see if it gets stunned. This doesn’t count as a combat and there will be no strike back.
@@ -1621,6 +1629,8 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 
 # Scarlet Spider
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-003.jpg) (MC)
+^CardNumber: HER-010
+
 *Set: Spider-Friends*  
 
 Before he was the Scarlet Spider, the man who would become Ben Reilly was created from Peter Parker’s DNA to be a perfect clone. So in the game he actually starts off as a different “Spider” hero until his true self is revealed (once he reaches Level 2). Here’s how it works: 
@@ -2904,7 +2914,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzEyMzEyMCwxMDI1NDkxMTM2LC03Nj
+eyJoaXN0b3J5IjpbMTcwMTQ5MjE5MiwxMDI1NDkxMTM2LC03Nj
 A4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0Nzcy
 NjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNz
 k1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMx
