@@ -191,7 +191,9 @@ When Mastermind appears, you'll create a Tactics pile made of any number of othe
 
 ^(Source: Rule insert)
 
-# Masters of Evil
+# [Masters of Evil](http://vs.tcgbrowser.com/images/cards/big/MOE-019.jpg)
+^CardNumber: MOE-019
+
 *Set: Masters of Evil*
 
 When you put cards on the top and/or bottom of your deck, you choose the order.
@@ -199,6 +201,8 @@ When you put cards on the top and/or bottom of your deck, you choose the order.
 ^(Source: Rule insert)  
 
 # [Match](http://vs.tcgbrowser.com/images/cards/big/TUB-013.jpg)
+^CardNumber: TUB-013
+
 *Set: The Utopia Battles*
 
 Q: If Match strikes a Defender does he *only* put -1 counters on someone, or does he do counters *and* strike simultaneously?
@@ -216,6 +220,8 @@ A: Correct.
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/732730395120107581)
 
 # [Mattie Franklin](http://vs.tcgbrowser.com/images/cards/big/WEB-011.jpg)
+^CardNumber: WEB-011
+
 *Set: Webheads*  
 
 If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five Gifts to each of them. If you don't have at least five characters on your side with different names (or you don't have a Main Character on your side), Mattie can't use **The Gathering of Five**.
@@ -225,6 +231,8 @@ The Gift of Death will instantly KO its assigned character. The other four grant
 ^(Source: Rule insert)
 
 # [Maximus](http://vs.tcgbrowser.com/images/cards/big/CV1-018.jpg)
+^CardNumber: CV1-018
+
 *Set: Crossover*   
 
 **Usurp the Throne** lets Maximus KO another player’s Main Character and take over being that player’s Main Character. However, if they don’t currently have a Main Character, Usurp the Throne won’t do anything.
@@ -232,6 +240,8 @@ The Gift of Death will instantly KO its assigned character. The other four grant
 ^(Source: Rule insert)
 
 # [M'Baku](http://vs.tcgbrowser.com/images/cards/big/MCU4-016.jpg)
+^CardNumber: MCU4
+
 *Set: Power & Reality*  
 
 When M'Baku gives a character **Pounce** and **Dodge**, it will keep those powers until that character leaves play. 
@@ -2703,7 +2713,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjM5MzUxLDc5NTgzMTczOSwxNTM4MD
+eyJoaXN0b3J5IjpbMzM0NTI5MjYxLDc5NTgzMTczOSwxNTM4MD
 IxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1
 MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
 UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
