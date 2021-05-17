@@ -531,14 +531,18 @@ When Monarch leaves your side, or if **Pull On Quantum Strings** gets turned off
 
 ^(Source: Rule Insert)
 
-# The Montesi Formula
+# [The Montesi Formula](http://vs.tcgbrowser.com/images/cards/big/DAR-020.jpg)
+^CardNumber: DAR-020
+
 *Set: Into the Darkness*
 
 The Darkhold is an equipment found in the 2017 S.H.I.E.L.D. vs. Hydra Issue.
 
 ^(Source: Rule Insert)
 
-# Morbius (MC)
+# [Morbius (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-005.jpg)
+^CardNumber: DAR-005, DAR-006
+
 *Set: Into the Darkness*
 
 **The Hunger** lets Morbius melee attack characters in his own front row. In order to do so, Morbius must be ready and in the front row, and then he will exhaust to start the combat. It works just like a normal combat, except the attacker and defender are both on the same side and don't count as being enemies to each other. During the combat, each player can play Plot Twists (perhaps to cancel the combat) then each character will strike each other. If Morbius KO's the defender and survives, his **Vampire** power will give him a vitality counter.
@@ -546,6 +550,8 @@ The Darkhold is an equipment found in the 2017 S.H.I.E.L.D. vs. Hydra Issue.
 ^(Source: Rule Insert)
 
 # [Morgan Le Fay](http://vs.tcgbrowser.com/images/cards/big/aff-047.jpg)
+^CardNumber: AFF-047
+
 *Set: A-Force*  
 
 **Growing Magic**  
@@ -2758,11 +2764,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc5MTg1NzIsLTE0Mjk5Mzg0OSwtMT
-c0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEz
-MjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLD
-UxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4
-NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNj
-kzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDEx
-NjU0NV19
+eyJoaXN0b3J5IjpbLTM2NjE5MTYyNiwtMTQyOTkzODQ5LC0xNz
+Q1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUzODAyMTMy
+MiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4NTEsNT
+E4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2
+MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5LC02OT
+M0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2
+NTQ1XX0=
 -->
