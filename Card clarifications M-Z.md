@@ -1307,6 +1307,8 @@ A: Once Purple man's power has been activated and resolved, it is independent of
 
 # Pyro
 ## [Pyro (MC)](http://vs.tcgbrowser.com/images/cards/big/FRE-005.jpg)
+^CardNumber: FRE-005, FRE-006
+
 *Set: Freedom Force*
 
 His Level 2 **Trailblazer** ability does allow him to search for characters he gave **Burn Notice** to with his Level 1 **Pyro to the People**.
@@ -2868,11 +2870,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OT
-Q0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1
-MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMT
-A3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0
-MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNz
-k1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1
-OTk2XX0=
+eyJoaXN0b3J5IjpbLTc2MDgyNzI0NSwxOTExMzY0NTc5LDE2Nj
+kzNDA0OTUsMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2
+NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUzODAyMTMyMiwtMj
+k3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2
+MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LD
+U1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5
+MjJdfQ==
 -->
