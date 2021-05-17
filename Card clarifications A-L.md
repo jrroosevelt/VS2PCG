@@ -950,7 +950,24 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule insert)
 
 ---
-Q: If my opponent has 
+Q: If my opponent has H.A.M.M.E.R. Cloak on his side and I play Dagger, is she KO'd by him before she can convert the -1 counters to +1?
+
+A: She is not KO'd - she would get the +1 counters. Here are the steps when a character is recruited:
+
+1. Announce the name of the character.
+2. 2. The character moves from whatever sone that it is in to the Resolving Zone. At this point it is considered “recruited” 3. If any power would trigger off a character being recruited, resolve that effect, then continue. 4. The character moves from the Resolving Zone to the Play Zone. 5. Any powers are now active. 6. Process any “appears with” text. 7. At this point the character has now appeared.
+
+_[_10:16 PM_]_
+
+So, as of step 5, "Characters on your side can't gain -1/-1 counters" is active.
+
+_[_10:16 PM_]_
+
+Cloak's power doesn't technically trigger until right after step 7.
+
+_[_10:18 PM_]_
+
+I said "I don't believe so" because I'm always reluctant to speak in certainties with rules. But I'm pretty darn certain about this.
 
 # Daken
 ## [Daken (SC)](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
@@ -2817,11 +2834,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjMzNDI1MTMsNzM3NDYxMzUsMTI0Mz
-M2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1
-OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01Nj
-M3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0
-OSwxOTc0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMj
-A5NzkwOTYsLTcyNjc4NjcxMywtMTg1Mjk0OTczNiw3NjU1NzU3
-OTJdfQ==
+eyJoaXN0b3J5IjpbMTM2MzAzODgxLDczNzQ2MTM1LDEyNDMzNj
+IwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTks
+Njk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNz
+Y4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDks
+MTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOT
+c5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3MzYsNzY1NTc1Nzky
+XX0=
 -->
