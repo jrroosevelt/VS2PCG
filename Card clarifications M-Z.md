@@ -1375,7 +1375,7 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 
 # Red Skull
 ## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/MCU4-011.jpg) (MC-MCU Villains)
-^CardNumber: FUT-005, FUT-006
+^CardNumber: MCU4-010, MCU4-011
 
 *Set: Power & Reality*  
 
@@ -1384,6 +1384,8 @@ When you resolve **You Must Lose What You Love**, if there was a tie for highest
 ^(Source: Rule insert)
 
 ## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/mnb-091.jpg) (SC-Super Villains)
+^CardNumber: MNB-091
+
 *Set: The Marvel Battles*
 
 Q: How does **Dust of Death** work?
@@ -1394,6 +1396,8 @@ A: It will stun one character that is melee attacking the Red Skull. If that was
 
 # Rhino
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/CV1-013.jpg) (Sinister Syndicate)
+^CardNumber: CV1-013
+
 *Set: Crossover*  
 
 **Headlong Charge**  
@@ -1402,6 +1406,8 @@ Rhino “Sidestep” means that the defender stays where it is, but avoids Rhino
 ^(Source: Rule insert)
 
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/def-039.jpg) (Underworld)
+^CardNumber: DEF-039
+
 *Set: The Defenders*  
 
 Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Skill%%) (Skill) or ![](%%Intellect%%) (Intellect) to do something. In this case, they can use a Training Ground or Academy to pay for the effect, but not a special Location like Fisk Tower.
@@ -1409,6 +1415,8 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 ^(Source: Rule insert)
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
+^CardNumber: FUT-005, FUT-006
+
 *Set:  The Herald*  
 
 **Receptionist** prevents Roberta from leaving the front row. This means she can't be moved to the back row during your Formation Step, and she ignores any card effects that would move her out of the front row. However, an effect could move her from one player's front row to another player's front row.
@@ -2882,11 +2890,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDU5MTc0LC03NjA4MjcyNDUsMTkxMT
-M2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0
-OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1Mz
-gwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4
-ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMj
-AzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4MjA2NTI4
-OV19
+eyJoaXN0b3J5IjpbLTg4ODEyNzkxMiwtNzYwODI3MjQ1LDE5MT
+EzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4
+NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNT
+M4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUz
+ODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLT
+IwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUy
+ODldfQ==
 -->
