@@ -2244,7 +2244,7 @@ A: The effect is asking if a character in their hand matches the team affiliatio
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/SVH-001.jpg) (MC)
-^CardNumber: HAM-012
+^CardNumber: SVH-001, SVH-002
 
 *Set: S.H.I.E.L.D. vs. Hydra*
 
@@ -2256,13 +2256,17 @@ So 5.
 ^(Source: IM Conversation - Chad Daniel - UDE Approved)
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
+^CardNumber: SFO-009
+
 *Set: Spidey-Foes*  
 
 As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appears" powers on face-up Green Goblin characters on your side (like **Blast**).
 
 ^(Source: Rule insert)
 
-# The Hood
+# [The Hood](http://vs.tcgbrowser.com/images/cards/big/DAR-009.jpg)
+^CardNumber: DAR-009
+
 *Set: Into the Darkness*  
 
 **Dormammu's "Gifts"** allows the Hood to cast spells from your deck. o do so, at a time when he can cast a Spell, announce that he's casting a Spell from your deck, search your deck for a Spell he can cast and set it aside, then shuffle your deck and have him cast the Spell. **Note:** You may only do this if you actually have a Spell in your deck he can cast and that he can pay for.
@@ -2271,6 +2275,8 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 # Hope Summers
 ## [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg) (X-men)
+^CardNumber: MNB-037
+
 *Set: The Marvel Battles*
 
 Q: How does this power work?
@@ -2280,6 +2286,8 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 ^(Source: UDE FAQ)
 
 ## [Hope Summers (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-006.jpg)
+^CardNumber: DAR-009
+
 *Set: The Omegas*  
 
 You start the game with a private out-of-the-game Echo pile. It must consist of exactly 1 Brotherhood, 1 Mutant Resistance, and 1 X-men Supporting Character who do not share any names. When you recruit her, you must choose one different power from each of them for Hope to gain. You don't need to choose the three powers until she is recruited, and you don't have to choose the same three powers each time she is recruited. 
@@ -3003,7 +3011,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTMzMDE5Myw2ODQwODA4NzUsMTk4MD
+eyJoaXN0b3J5IjpbMjAxNjYyMDY5MCw2ODQwODA4NzUsMTk4MD
 EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
 LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
 c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
