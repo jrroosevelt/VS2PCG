@@ -84,7 +84,14 @@ He doesn't make Equipment played as other card types free (like Impossible Man o
 
 ^(Source: Rule insert)
 
-## Magneto (SC-Hydra)
+## [Magneto (SC-Hydra)](http://vs.tcgbrowser.com/images/cards/big/SVH-017.jpg)
+^CardNumber: SVH-017
+
+*Set: S.H.I.E.L.D. vs. Hydra*  
+
+He doesn't make Equipment played as other card types free (like Impossible Man or Arnim Zola's **ESP Box**).
+
+^(Source: Rule insert)
 
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
 ^CardNumber: GAL-016
@@ -2741,11 +2748,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NT
-gzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1
-OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0ND
-k5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAy
-MywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
-A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTg5NDM0Nzc2NiwtMTc0NTMwNjc4MCw0Nj
+A5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkx
+MiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNj
+A1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5
+MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xND
+Y0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcw
+MTMxXX0=
 -->
