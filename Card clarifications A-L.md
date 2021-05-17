@@ -1538,8 +1538,8 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 
 ^(Source: Rule insert)
 
-# [Enchantress](http://vs.tcgbrowser.com/images/cards/big/aff-048.jpg) (MC)
-^CardNumber:DAR-003, DAR-004
+# [Enchantress](http://vs.tcgbrowser.com/images/cards/big/aff-031.jpg) (MC)
+^CardNumber:AFF-031, AFF-032
 
 *Set: A-Force*
 
@@ -1556,6 +1556,8 @@ A: Yes.
 ^(Source - FB Post - Chad Daniel - UDE Approved)
 
 # [Eugene Victor Tooms (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-046.jpg)
+^CardNumber:XFB-046, XFB-047
+
 *Set: The X-Files Battles*
 
 **Squeeze** requires Tooms to be physically between two cards in the same row. They could be Supporting Characters and/or Machines, and it doesn't matter if they're face up or face down.
@@ -2909,11 +2911,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MjI0MTgwLDE5ODAxMDI2NzksLTEwNz
-Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
-LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
-YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
-OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5Nz
-Q3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5
-Nl19
+eyJoaXN0b3J5IjpbLTI1MDI3MDU1OCwxOTgwMTAyNjc5LC0xMD
+c0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAw
+NCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OT
+k2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1
+NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOT
+c0NzMxNjQ2LC0yMTA2NzEwMDk0LDk2NjcxNzIxMiwzMjA5Nzkw
+OTZdfQ==
 -->
