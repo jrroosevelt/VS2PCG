@@ -952,7 +952,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ---
 Q: If my opponent has H.A.M.M.E.R. Cloak on his side and I play Dagger, is she KO'd by him before she can convert the -1 counters to +1?
 
-A: She is not KO'd - she would get the +1 counters. Here are the steps when a character is recruited:
+A: She is not KO'd. She would get the +1 counters. Here are the steps when a character is recruited:
 
 1. Announce the name of the character.
 2. The character moves from whatever zone that it is in to the Resolving Zone. At this point it is considered “recruited”.
@@ -968,6 +968,8 @@ Cloak's power doesn't technically trigger until right after step 7.
 
 # Daken
 ## [Daken (SC)](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
+^CardNumber:BOM-013 
+
 *Set: Brotherhood of Mutants*  
 
 Daken’s **Pheromone Control** power takes away enemy characters’ powers while they’re in melee combat with him. This will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
@@ -2831,11 +2833,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMz
-YyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5
-LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mz
-c2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5
-LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMD
-k3OTA5NiwtNzI2Nzg2NzEzLC0xODUyOTQ5NzM2LDc2NTU3NTc5
-Ml19
+eyJoaXN0b3J5IjpbMTU3MTg3OTQ2MCwtNTMwNzYyMzQ3LDczNz
+Q2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUs
+LTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OT
+E2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIx
+MiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5Nj
+Y3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3MTMsLTE4NTI5NDk3
+MzZdfQ==
 -->
