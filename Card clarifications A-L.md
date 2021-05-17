@@ -1282,6 +1282,8 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 ^(Source: Rule insert)
 
 # [Domino](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg)
+^CardNumber:TUB-020
+
 *Set: The Utopia Battles*   
 
 **Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
@@ -1289,6 +1291,8 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 ^(Source: Rule insert)
 
 # [Doombot](http://vs.tcgbrowser.com/images/cards/big/FAN-045.jpg)
+^CardNumber:FAN-045
+
 *Set: The Fantastic Battles*   
 
 Q: Does “an exact replica” trigger once for each Doombot in play. I.e. I have MC Doom and two Doombots on my side. Doom is stunned and would be wounded. An exact replica triggers on one of my two Doombots and the MC Doom is the random card chosen. Before he would be wounded, does the second Doombots keyword trigger and I pick another card at random to have the chance to potentially prevent the wound a second time?
@@ -1307,6 +1311,8 @@ Sorry for the short answer last night, I was tired and about to go to bed when I
 
 # Dormammu
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
+^CardNumber:MCU3-001, MCU3-002
+
 *Set: MCU Villains*  
 
 Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main Character as many times as you’d like. For example, you could wound them twice. Or six times. Or three hundred times. Just don’t make any bargains with them.
@@ -1314,6 +1320,8 @@ Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main 
 ^(Source: Rule insert)
 
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mnb-099.jpg)
+^CardNumber:MNB-099
+
 *Set: The Marvel Battles*
 
 Q: When I use Necromancy can I put the character into my Front or Back Row? Can it attack that turn?
@@ -1330,6 +1338,8 @@ A: Either is fine. Yes, it can attack that turn.
 ^(Source: Rule Insert)
 
 # [Dramatic Entrance](http://vs.tcgbrowser.com/images/cards/big/aff-050.jpg)
+^CardNumber:AFF-050
+
 *Set: A-Force* 
 
 Q: Do "Appears" powers work when character are brought into play with Dramatic Entrance? I'm not sure because it says, "put into play."
@@ -2871,11 +2881,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcwODYxNTgsLTEwNzQ1MzcwOTQsLT
-UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
-NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
-I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
-NDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLT
-IxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2
-NzEzXX0=
+eyJoaXN0b3J5IjpbMjYwMzM0NzgyLC0xMDc0NTM3MDk0LC01Mz
+A3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQw
+LDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyOD
+I1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2
+MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMT
+A2NzEwMDk0LDk2NjcxNzIxMiwzMjA5NzkwOTYsLTcyNjc4Njcx
+M119
 -->
