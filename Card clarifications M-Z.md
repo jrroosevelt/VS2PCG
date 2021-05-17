@@ -583,6 +583,8 @@ When Mr. Black and the defender strike each other:
 [See also Devil Slayer](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_devil_slayer) for a similar ability question.
 
 # [Ms. Marvel](http://vs.tcgbrowser.com/images/cards/big/mnb-017.jpg)
+^CardNumber: MNB-017
+
 *Set: The Marvel Battles*
 
 Q: Does Ms. Marvel's **Energy Absorption** count stunned characters?
@@ -592,6 +594,8 @@ A: No, because stunned character lose their powers including the ![](%%Range%%) 
 ^(Source: UDE FAQ)
 
 # [Mutant Control Act](http://vs.tcgbrowser.com/images/cards/big/FUT-027.jpg)
+^CardNumber: FUT-027
+
 *Set: Futures Past*
 
 This Plot Twist will stop "recruit" and "appears" powers.
@@ -600,6 +604,8 @@ This Plot Twist will stop "recruit" and "appears" powers.
 
 # Mysterio
 ## [Mysterio ](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains)
+^CardNumber: DAR-020
+
 *Set: Friendly Neighborhood*  
 
 **You Don't Want Any Part of This** puts a Supporting Character with the **Hologram** keyword from your hand onto an enemy side. Why do this? Because when that **Hologram** get's KO'd, Mysterio will level up.
@@ -2766,11 +2772,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC0xNz
-Q1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUzODAyMTMy
-MiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4NTEsNT
-E4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2
-MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5LC02OT
-M0ODA5MjIsLTE0NjQyMjU5OTYsMTQwNTc2OTEzNCwxODAwMTE2
-NTQ1XX0=
+eyJoaXN0b3J5IjpbLTExNDg3NjM3MiwxOTk0NDc3MjYwLC0xND
+I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
+OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
+MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
+NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
+IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
+MTM0XX0=
 -->
