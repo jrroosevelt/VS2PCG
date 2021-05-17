@@ -1152,7 +1152,7 @@ A: No, the other characters don’t know what a player is.
 ---
 
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-039.jpg) (SC)
-^CardNumber:DAR-003, DAR-004
+^CardNumber:MNB-039
 
 *Set: The Marvel Battles*
 
@@ -1163,6 +1163,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: FB Post)
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
+^CardNumber:BLK-001, BLK-002
 *Set: Black Order*  
 
 Death is **Amortal** which means:
@@ -1183,6 +1184,8 @@ Since Death doesn't turn face down, she can be stunned multiple times in a singl
 ^(Source: Rule insert)
 
 # [Death Trap](http://vs.tcgbrowser.com/images/cards/big/PRD-053.jpg) 
+^CardNumber:PRD-053
+
 *Set: The Predator Battles*  
 
 While this card is face down in your Resource Row, you can play it as if it was in your hand. If you do, put it into your KO pile as normal, then replace it with the top card of your deck, face down. If you have no cards in your deck, you can still play it, you just won’t be able to replace it.
@@ -1190,6 +1193,8 @@ While this card is face down in your Resource Row, you can play it as if it was 
 ^(Source: Rule insert)
 
 # [Destiny](http://vs.tcgbrowser.com/images/cards/big/FRE-007.jpg)
+^CardNumber:FRE-007
+
 *Set: Freedom Force*
 
 If a player would draw two or more at a time (including during their Draw Phase), **Precognition** will let you look at the top card of their deck before and after each individual draw. In other words, you’ll get to see each card they draw.
@@ -2853,11 +2858,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODU5NTM0MCwtMTA3NDUzNzA5NCwtNT
-MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
-MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
-gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
-NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMj
-EwNjcxMDA5NCw5NjY3MTcyMTIsMzIwOTc5MDk2LC03MjY3ODY3
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDAyNzYwODcsLTEwNzQ1MzcwOTQsLT
+UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
+NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
+I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
+NDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLT
+IxMDY3MTAwOTQsOTY2NzE3MjEyLDMyMDk3OTA5NiwtNzI2Nzg2
+NzEzXX0=
 -->
