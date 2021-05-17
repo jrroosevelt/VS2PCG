@@ -1510,7 +1510,7 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
-^CardNumber:TUB-005, TUB-00
+^CardNumber:TUB-003, TUB-004, TUB-005
 
 *Set: The Utopia Battles*  
 
@@ -1521,6 +1521,8 @@ Emma’s power can be used any number of times each turn. So if a character ends
 ^(Source: Rule insert)
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/HAM-016.jpg) (SC) (H.A.M.M.E.R.)
+^CardNumber:HAM-016
+
 *Set: H.A.M.M.E.R.*  
 
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/exhausted, face-up/face-down), all of her counters, and any effects on her.
@@ -1528,6 +1530,8 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 ^(Source: Rule insert)
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/RES-014.jpg) (SC) (Resistance)
+^CardNumber:RES-014
+
 *Set: Resistance*    
 
 When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be in play is removed from the game. When she transforms, she keeps her orientation (ready/ exhausted, face-up /face-down), all of her counters, and any effects on her.
@@ -1535,6 +1539,8 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 ^(Source: Rule insert)
 
 # [Enchantress](http://vs.tcgbrowser.com/images/cards/big/aff-048.jpg) (MC)
+^CardNumber:DAR-003, DAR-004
+
 *Set: A-Force*
 
 Q: If I have multiple characters bigger than all my opponents' characters can Enchantress get multiple XP via **Champion of Amora** in a turn?
@@ -2903,7 +2909,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NjI2MDIxLDE5ODAxMDI2NzksLTEwNz
+eyJoaXN0b3J5IjpbNzI3MjI0MTgwLDE5ODAxMDI2NzksLTEwNz
 Q1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0
 LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OT
 YzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2
