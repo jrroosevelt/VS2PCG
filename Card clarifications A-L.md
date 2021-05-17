@@ -2561,9 +2561,11 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 ^(Source: Rule insert)
 
 # [Jean Grey (MC - Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-002.jpg)
+^CardNumber: OGA-001, OGA-002, OGA-003
+
 *Set: The Omegas*
 
-Q: Take this scenari: Jean Grey Omega MC Level 2. Owner has Dagger (HAMMER) on the board. Jean attacks, initiating her "Out of Control" power. Can Dagger convert those counters to +1 counters and still give Jean an XP?
+Q: Take this scenario: Jean Grey Omega MC Level 2. Owner has Dagger (HAMMER) on the board. Jean attacks, initiating her "Out of Control" power. Can Dagger convert those counters to +1 counters and still give Jean an XP?
 
 A: Yes.
 
@@ -2580,6 +2582,8 @@ This does NOT change the source of the original modifier or event, it just chang
 ^Source: [^Chad ^Daniel ^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3396508327051356/)
 
 # [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
+^CardNumber: XFB-043
+
 *Set: The X-Files Battles*
 
 **Between Two Masters** counts both Main and Supporting Characters, and if you have both Fox Mulder and Cigarette Smoking Man on your side, you'll get both effects.
@@ -3055,11 +3059,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4ND
-A4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIz
-NDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MD
-UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
-LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNz
-UzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMxNjQ2LC0yMTA2NzEw
-MDk0XX0=
+eyJoaXN0b3J5IjpbMTg3NTkwOTQzMywtMTY5ODE0MjY0MCwyMj
+Y3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1Mzcw
+OTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMT
+k4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIx
+OSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
+EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
+NDZdfQ==
 -->
