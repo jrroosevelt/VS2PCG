@@ -2925,6 +2925,8 @@ A: All characters with **Comet Fall** gain an additional instance of **Comet Fal
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/625832553487663127)
 
 # [Life on the Hellmouth](http://vs.tcgbrowser.com/images/cards/big/TBB-057.jpg) 
+^CardNumber: TBB-057
+
 *Set: The Buffy Battles*  
 
 This Plot Twist puts two characters on your side in a Relationship. This means they can team attack together (even if they’re not on the same team), and while doing so they can’t be struck back by a defender. Once a character in a Relationship leaves play, the Relationship is over.
@@ -2932,6 +2934,8 @@ This Plot Twist puts two characters on your side in a Relationship. This means t
 ^(Source: Rule insert)
 
 # [Lilith](http://vs.tcgbrowser.com/images/cards/big/LEG-072.jpg)
+^CardNumber: LEG-072
+
 *Set: Legacy*
 
 Q: If Lilith KO's Mantis or Dormammu Are they removed from game, or do their own powers happen instead? (Mantis to the row, Dormammu shuffled into the deck.)
@@ -2972,7 +2976,9 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 
 ^(Source: FB Post - Chad Daniel)
 
-# \* Lilith \*
+# [\* Lilith \*](http://vs.tcgbrowser.com/images/cards/big/DAR-010.jpg)
+^CardNumber: DAR-010
+
 *Set: Into the Darkness*
 
 **Old at the Dawn of Humanity** triggers at the start of your Main Phase each turn. Each time it resolves you must follow the instructions of the next effect on the list, starting with **Woman** and ending with **Spirit**. 
@@ -2980,6 +2986,8 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 ^(Source: Rule Insert)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
+^CardNumber: GAL-017
+
 *Set: Galactic Guardians*  
 
 When the Living Tribunal **Balances the Multiverse**, he's removed from the game before he actually appears. Photographic Universe cards are cards that have photographic artwork on them, from TV shows and movies. The other universe is the Illustrated Universe, whose cards are cards with drawn, or illustrated artwork.
@@ -2987,6 +2995,8 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 ^(Source: Rule insert)
 
 # [Lockjaw](http://vs.tcgbrowser.com/images/cards/big/MMU-056.jpg)
+^CardNumber: MMU-056
+
 *Set: Monsters Unleashed*
 
 Q: How does Lockjaw’s **Along for the Ride** work? Do the characters that come into play still get their Appear abilities?
@@ -3095,11 +3105,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NDIzODgzLC0xNjk4MTQyNjQwLDIyNj
-cwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5
-NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOT
-gzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5
-LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMT
-A5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0
-Nl19
+eyJoaXN0b3J5IjpbLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMj
+Y3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1Mzcw
+OTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMT
+k4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIx
+OSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
+EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
+NDZdfQ==
 -->
