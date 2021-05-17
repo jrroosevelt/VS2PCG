@@ -2451,7 +2451,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
-^CardNumber: FAN-049
+^CardNumber: BLK-018, BLK-019, BLK-020, BLK-021, BLK-022, BLK-023
 
 *Set: Black Order*  
 
@@ -2461,6 +2461,8 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 ^(Source: Rule insert)
 
 # [Inhibitor Collar](http://vs.tcgbrowser.com/images/cards/big/FUT-026.jpg)
+^CardNumber: FUT-026
+
 *Set: Futures Past*
 
 A player can equip the Collar to a face-up character or a stunned character. If that character already has Equipment equipped, KO it. When an equipped face-up character is stunned, the Collar remains on (and face up). If a character equipped with the Collar hides, KO the Collar (they must have figured out how to take it off)!
@@ -2468,6 +2470,8 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 ^(Source: Rule Insert)
 
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
+^CardNumber: BLK-017
+
 *Set: The Herald*  
 
 **Remove Cosmic Energy** has no duration. Once you've named a super power (including one that is not currently in play if you like) enemy Supporting Characters can't use that power for the rest of the game.
@@ -3035,11 +3039,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjgwODcyMSwyMjY3MDIyMjIsNjg0MD
-gwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0
-Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNT
-EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTks
-LTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NT
-M4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAw
-OTRdfQ==
+eyJoaXN0b3J5IjpbMjA3OTUwMzkzLDIyNjcwMjIyMiw2ODQwOD
+A4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3
+LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MT
+M0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwt
+MTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1Mz
+gxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5
+NF19
 -->
