@@ -2694,6 +2694,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ^(Source: Rule Insert)
 
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-009.jpg) (SC)
+^CardNumber: FRI-009
 
 *Set: The Frightful*
 
@@ -2706,6 +2707,8 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 ^(Source: Rule Insert)
 
 # [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and [Kitty) Pryde](http://vs.tcgbrowser.com/images/cards/big/FUT-002.jpg) (MC)
+^CardNumber: FUT-001, FUT-002
+
 *Set: Futures Past*
 Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
 
@@ -2740,6 +2743,8 @@ It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** wou
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
+^CardNumber: DEF-028, DEF-029
+
 *Set: Defenders*
 
 Q: When I discard a Location card to use a Super Power does that give Kingpin an XP?
@@ -3074,11 +3079,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NjcyMDIzLC0xNjk4MTQyNjQwLDIyNj
-cwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5
-NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOT
-gzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5
-LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMT
-A5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0
-Nl19
+eyJoaXN0b3J5IjpbMTM1NjQ5MTY0NSwtMTY5ODE0MjY0MCwyMj
+Y3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1Mzcw
+OTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMT
+k4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIx
+OSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
+EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
+NDZdfQ==
 -->
