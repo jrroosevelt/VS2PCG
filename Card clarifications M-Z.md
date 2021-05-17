@@ -120,7 +120,7 @@ This represents who Mandarin really is – lowly actor or deadly warlord. Leave 
 ^(Source: Rule insert)
 
 ## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mnb-095.jpg) (Illustrated)
-^CardNumber: MNB-083, MNB-084
+^CardNumber: MNB-095
 
 *Set: The Marvel Battles*
 
@@ -131,6 +131,8 @@ A: Yes. They all share the name **Makluan Rings**, but they are different powers
 ^(Source: UDE FAQ)
 
 # [Mantis](http://vs.tcgbrowser.com/images/cards/big/mnb-064.jpg)
+^CardNumber: MNB-064
+
 *Set: The Marvel Battles*
 
 Q: Can I use a **Rebirth** power on the same turn I played a resource normally?
@@ -163,6 +165,8 @@ This set includes four One of a Kind equipment cards – The Nullifier, Book of 
 ^(Source: Rule insert)
 
 # [Mary Walker](http://vs.tcgbrowser.com/images/cards/big/def-061.jpg)
+^CardNumber: DEF-061
+
 *Set: The Defenders*  
 
 Each version of Mary Walker has a different text box and ATK and DEF, but they all count as Mary Walker and can be used to Power-Up each other. Each Mary has the “One of a Kind” keyword which means you can only have one of that Mary in your deck.
@@ -170,6 +174,8 @@ Each version of Mary Walker has a different text box and ATK and DEF, but they a
 ^(Source: Rule insert)
 
 # [Masacre](http://vs.tcgbrowser.com/images/cards/big/MFM-014.jpg)
+^CardNumber: MFM-014
+
 *Set: Deadpool & Friends*  
 
 Masacre es el Deadpool de México, por eso el texto de su juego está escrito en español. No te preocupes. Si no hablas español, traduciremos sus poderes aquí. Él tiene **Mercenario** lo que significa “**Mercenary**,” y **Letal** lo que significa “**Lethal**.”
@@ -177,6 +183,8 @@ Masacre es el Deadpool de México, por eso el texto de su juego está escrito en
 ^(Source: Rule insert)
 
 # [Mastermind](http://vs.tcgbrowser.com/images/cards/big/CV2-014.jpg)
+^CardNumber: CV2-014
+
 *Set: Crossover vol. 2*  
 
 When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you mach choose to play a random card from your Tactics pile. If you do, follow the instructions under its Tactic. Then put the card into your KO pile. When Mastermind leaves play, you'll leave your Tactics pile where it is. A player can only have one Tactics pile at a time. Later, if Mastermind appears on your side again, and you can (and want to) add more Tactics from your hand or deck, add them to your existing Tactics pile. Note: One of Mastermind's Tactics sets an attacker's ATK to 0 this combat. That character can still gain ATK later in the combat.
@@ -2695,7 +2703,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3OTU1Mjg4LDc5NTgzMTczOSwxNTM4MD
+eyJoaXN0b3J5IjpbMTEyMjM5MzUxLDc5NTgzMTczOSwxNTM4MD
 IxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1
 MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
 UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
