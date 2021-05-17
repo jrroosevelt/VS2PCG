@@ -1227,7 +1227,7 @@ A: Yes.
 ^(Source: UDE FAQ)
 
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC - New Mutants)
-^CardNumber: MCU2-013
+^CardNumber: NEW-003, NEW-004, NEW-005
 
 *Set: New Mutants*  
 
@@ -1240,6 +1240,8 @@ This allows you to have any number of main characters in play at once. However, 
 ^(Source: Rule insert)
 
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-048.jpg) (SC)
+^CardNumber: MNB-048
+
 *Set: The Marvel Battles*
 
 Q: After using **Mind Control**, when I have to move a character back at the end of my turn, can I put it in either their Front or Back Row?
@@ -1249,6 +1251,8 @@ A: You choose where to move it back to.
 ^(Source: UDE FAQ)
 
 # [Proteus](http://vs.tcgbrowser.com/images/cards/big/OGA-014.jpg)
+^CardNumber: OGA-014
+
 *Set: The Omegas*  
 
 Proteus is technically a Supporting Character but he doesn't want to actually be in play. He prefers to have a physical host. If he would be recruited, you'll remove him from the game instead and choose a face-up character on your side to be his Host. If you don't have a face-up character, Proteus will still be removed from the game. When his Host gets stunned or leaves play Proteus will no longer have a Host, but he does remain removed from the game.
@@ -1269,6 +1273,8 @@ Said another way, since a keyword granted all these powers and boosts, if keywor
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/3752986618070190/)
 
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
+^CardNumber: DEF-018
+
 *Set: The Defenders*
 
 Q: If I'm ranged team attacking with Punisher and Star-Lord, can I activate **Perfect Position** and choose to have the ranged defender strike back at Punisher? Hereby avoiding the damage?
@@ -1277,7 +1283,9 @@ A: Yes. This also works with Namor team attacking alongside a Leader against a b
 
 ^(Source: Chad Daniel)
 
-# Punisher 2099
+# [Punisher 2099](http://vs.tcgbrowser.com/images/cards/big/CV3-010.jpg)
+^CardNumber: DEF-018
+
 *Set: Crossover Vol. 3*
 
 Q: If I power up Punisher 2099 with multiple copies in a single attack, does each power-up add another wound?
@@ -2858,11 +2866,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNDcyOTAzLDE2NjkzNDA0OTUsMTk5ND
-Q3NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUw
-Myw3OTU4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMD
-c0MzE0NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQx
-ODYsNDQ5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OT
-U2NDIwMjMsMjgyMDY1Mjg5LC02OTM0ODA5MjIsLTE0NjQyMjU5
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNzI5NDU1NjgsMTY2OTM0MDQ5NSwxOT
+k0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMw
+NTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLT
+EwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQz
+NDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLD
+c5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIy
+NTk5Nl19
 -->
