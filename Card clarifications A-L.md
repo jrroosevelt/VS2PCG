@@ -2675,7 +2675,7 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 [This card has a misprint.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
-^CardNumber: MCU
+^CardNumber: MCU3-016
 
 *Set: MCU Villains*  
 
@@ -2685,6 +2685,8 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 # Kang
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-006.jpg) (MC)
+^CardNumber: FRI-006, FRI-007
+
 *Set: The Frightful*
 
 **Immeasurable Identities** makes all Kang Supporting Characters you own into Main Characters. This effect lasts the whole game, even if your starting Kang Main Character gets KO'd. And remember - as long as you have any Main Characters on your side, you don't lose the game.
@@ -2692,6 +2694,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ^(Source: Rule Insert)
 
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-009.jpg) (SC)
+
 *Set: The Frightful*
 
 If any number of Kangs are in your deck, **The Tomorrow War** lets you pick a single **Future Date** before players draw their opening hands during setup. A **Future Date** is represented by a whole number from 1-10. It counts as being that "Date" while you have exactly that many resources.
@@ -3071,11 +3074,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYzMjE5NDgsLTE2OTgxNDI2NDAsMj
-I2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3
-MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMD
-E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
-MTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLT
-ExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMx
-NjQ2XX0=
+eyJoaXN0b3J5IjpbNTU1NjcyMDIzLC0xNjk4MTQyNjQwLDIyNj
+cwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5
+NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOT
+gzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5
+LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMT
+A5MzA0NjI5LDc1MzgxOTIxMiwtNjQ0OTA2NDksMTk3NDczMTY0
+Nl19
 -->
