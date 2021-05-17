@@ -2286,7 +2286,7 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 ^(Source: UDE FAQ)
 
 ## [Hope Summers (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-006.jpg)
-^CardNumber: DAR-009
+^CardNumber: OGA-006
 
 *Set: The Omegas*  
 
@@ -2299,6 +2299,8 @@ You start the game with a private out-of-the-game Echo pile. It must consist of 
 
 # Hulk
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC - Photo)
+^CardNumber: MCU1-004
+
 *Set: The MCU Battles*  
 
 See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
@@ -2306,6 +2308,8 @@ See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
 ^(Source: Rule insert)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-024.jpg) (SC - Photo)
+^CardNumber: MCU1-024
+
 *Set: The MCU Battles*   
 
 Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give him that much ATK and DEF during combat. “Any number” means any whole number. Some popular examples are 7, 15, 211, 45,000, 100,000,000, and 9.
@@ -2313,6 +2317,8 @@ Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give
 ^(Source: Rule insert)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mnb-004.jpg) (MC - Illustrated)
+^CardNumber: MNB-004
+
 *Set: The Marvel Battles*
 
 Q: For his **Banner’s Influence** power, can I just remove some +1/+1 counters?
@@ -2322,6 +2328,8 @@ A: No, you must remove them all.
 ^(Source: UDE FAQ)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/DFX-018.jpg) (SC - Illustrated)
+^CardNumber: DFX-018
+
 *Set: The New Defenders*  
 
 Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and even Evil Lethal wounds) won’t KO him. This also includes, but is not limited to, things like Gamora’s Godslayer Blade and MCU Drax’s Finger on Throat Means Death.
@@ -2333,6 +2341,8 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
+^CardNumber:SFO-00
+
 *Set: Spidey-Foes*  
 
 **Fluid Tactics** lets you convert ATK from a **Combat** Plot Twist into DEF (or vice versa). For example, if you play a Plot Twist that gives him +3 ATK, you could have him gain +3 DEF instead. It has to be all or nothing. You can't play a Plot Twist that gives him +3 ATK and convert it into +2 ATK and +1 DEF.
@@ -3011,11 +3021,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjYyMDY5MCw2ODQwODA4NzUsMTk4MD
-EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
-LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
-c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
-NCwtNTYzNzY4NTY4LC0xMTA5MzA0NjI5LDc1MzgxOTIxMiwtNj
-Q0OTA2NDksMTk3NDczMTY0NiwtMjEwNjcxMDA5NCw5NjY3MTcy
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NjA1NjA0ODUsNjg0MDgwODc1LDE5OD
+AxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEz
+NSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNz
+M3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOTkxNjgz
+ODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTkyMTIsLT
+Y0NDkwNjQ5LDE5NzQ3MzE2NDYsLTIxMDY3MTAwOTQsOTY2NzE3
+MjEyXX0=
 -->
