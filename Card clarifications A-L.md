@@ -2634,6 +2634,8 @@ Juggernaut is so big and powerful it’s almost impossible to beat him physicall
 For info about **Unstoppable**, see Juggernaut SC.
 
 ## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/mnb-096.jpg) (SC)
+^CardNumber: MNB-096
+
 *Set: Brotherhood of Mutants*
 
 Q: How does his **Unstoppable** power work?
@@ -2666,11 +2668,15 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 ^(Source: FB Post - Chad Daniel)
 
 # [Jungle Hunter](http://vs.tcgbrowser.com/images/cards/big/PRD-006.jpg) (MC)
+^CardNumber: PRD-005, PRD-006
+
 *Set: The Predator Battles*
 
 [This card has a misprint.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
+^CardNumber: MCU
+
 *Set: MCU Villains*  
 
 Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2PCG®: an exhausted resource doesn’t produce recruit points. You can still use an exhausted location to pay for a super power.
@@ -3065,11 +3071,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTM5NTQzNiwtMTY5ODE0MjY0MCwyMj
-Y3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1Mzcw
-OTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMT
-k4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIx
-OSwzNTI4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMT
-EwOTMwNDYyOSw3NTM4MTkyMTIsLTY0NDkwNjQ5LDE5NzQ3MzE2
-NDZdfQ==
+eyJoaXN0b3J5IjpbLTE0NDYzMjE5NDgsLTE2OTgxNDI2NDAsMj
+I2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3
+MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMD
+E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
+MTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLT
+ExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0OSwxOTc0NzMx
+NjQ2XX0=
 -->
