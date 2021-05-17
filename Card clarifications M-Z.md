@@ -37,7 +37,7 @@ A: When equipped the Character gains the abilities, so they are the ones doing t
 ^(Source: FB Post - Kirk Buckendorf)
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
-^CardNumber: MMU-056
+^CardNumber: FAN-040
 
 *Set: The Fantastic Battles*  
 
@@ -46,6 +46,8 @@ The Mad Thinker's **Computer Mind** is so powerful he can very accurately predic
 ^(Source: Rule insert)
 
 # [Magik](http://vs.tcgbrowser.com/images/cards/big/NEW-014.jpg) 
+^CardNumber: NEW-014
+
 *Set: New Mutants*  
 
 Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An Equipment token works just like a regular Equipment while it’s in play. But if it ever leaves play, remove it from the game (the same way you would remove a character token).
@@ -54,6 +56,8 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 # Magneto
 ## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC)
+^CardNumber: MNB-083, MNB-08
+
 *Set: The Marvel Battles*
 
 Q: If I go first, will his **Mutant Master** power trigger on the very first turn of the game?
@@ -2679,7 +2683,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzMyNDk2OSw3OTU4MzE3MzksMTUzOD
+eyJoaXN0b3J5IjpbMTg1NDQwNDk3MSw3OTU4MzE3MzksMTUzOD
 AyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4
 NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMD
 M1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIwMjMsMjgyMDY1Mjg5
