@@ -740,7 +740,7 @@ A: Apply the +1/+1s after her stats change. For example, let’s say she has two
 ^(Source: UDE FAQ)
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
-^CardNumber: DFX-007
+^CardNumber: DFX-005, DFX-006, DFX-007
 
 *Set: The New Defenders*  
 
@@ -757,6 +757,8 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 
 # Nebula
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-003.jpg) (MC)
+^CardNumber: BLK-003, BLK-004
+
 *Set: Black Order*  
 
 **Thanos's Greatest Creation** prevents Nebula from having keyword or super powers other than **Passive** (and **Thanos's Greatest Creation**, of course). This includes any granted by an equipment, too. 
@@ -768,6 +770,8 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 ^(Source: Rule insert)
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-012.jpg) (SC - Black Order)
+^CardNumber: BLK-012
+
 *Set: Black Order*  
 
 **A New Order Exists Within the Universe** checks to see if an enemy character shares at least one team affiliation with a main character on its side. If the main character has no team affiliation, then no supporting characters on its side can share a team affiliation with it. 
@@ -777,6 +781,8 @@ When Nebula gains a power via **Tomorrow is Mine to Sculpt**  she will keep it f
 ^(Source: Rule insert)
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/aff-041.jpg) (SC - Femme Fatale)
+^CardNumber: AFF-041
+
 *Set: A-Force*
 
 Q: Opponent has Nebula in play and Level 2 Thanos. Thanos gets stunned does Nebula stay a 6/6? How about if Thanos gets removed by Singularity and Nebula stays behind?
@@ -786,6 +792,8 @@ A: Face down characters still have all their characteristics except their powers
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/mcu1-050.jpg) (SC - Photo)
+^CardNumber: MCU1-050
+
 *Set: The MCU Battles*  
 
 Nebula’s **Rivalry** power requires you name a character. You can name any character, including one that isn’t in play.
@@ -793,6 +801,8 @@ Nebula’s **Rivalry** power requires you name a character. You can name any cha
 ^(Source: Rule insert)
 
 # [Negative Zone](http://vs.tcgbrowser.com/images/cards/big/FAN-029.jpg)
+^CardNumber: FAN-029
+
 *Set: The Fantastic Battles*  
 
 Although the Negative Zone has a (Fantastic) team affiliation, any main character can pay a power symbol to use it.
@@ -2784,11 +2794,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDk2NDIwLDE5OTQ0NzcyNjAsLTE0Mj
-k5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5
-LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMz
-IzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0
-NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQyMDIzLDI4Mj
-A2NTI4OSwtNjkzNDgwOTIyLC0xNDY0MjI1OTk2LDE0MDU3Njkx
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTY5ODU0NDgwOCwxOTk0NDc3MjYwLC0xND
+I5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTcz
+OSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLT
+MyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYy
+NDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyOD
+IwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5
+MTM0XX0=
 -->
