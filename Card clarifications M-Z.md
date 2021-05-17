@@ -84,6 +84,8 @@ He doesn't make Equipment played as other card types free (like Impossible Man o
 
 ^(Source: Rule insert)
 
+## Magneto (SC-Hydra)
+
 # [Mainframe](http://vs.tcgbrowser.com/images/cards/big/GAL-016.jpg)
 ^CardNumber: GAL-016
 
@@ -2739,11 +2741,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwOTMwNTAzLDc5NTgzMTczOSwxNTM4MD
-IxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1
-MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMz
-UzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAyMywyODIwNjUyODks
-LTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MD
-AxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1MDQsMTMyMTMwNzk1
-NF19
+eyJoaXN0b3J5IjpbLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NT
+gzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1
+OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0ND
+k5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0MjAy
+MywyODIwNjUyODksLTY5MzQ4MDkyMiwtMTQ2NDIyNTk5NiwxND
+A1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3MDEzMSwxODQ1OTU1
+MDRdfQ==
 -->
