@@ -486,7 +486,7 @@ A: Though it's not totally clear, "that" refers to the opponent against whom you
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3136234033078788/))
 
 # [Moon Girl](http://vs.tcgbrowser.com/images/cards/big/MMU-054.jpg)
-^CardNumber: MMU-045, MMU-046,
+^CardNumber: MMU-045, MMU-046, MMU-054
 
 *Set: Monsters Unleashed!*  
 
@@ -495,6 +495,8 @@ See [Devil Dinosaur](#wiki_devil_dinosaur).
 ^(Source: Rule insert)
 
 # [Moonstone](http://vs.tcgbrowser.com/images/cards/big/aff-039.jpg)
+^CardNumber: AFF-039
+
 *Set: A-Force*
 
 Q: Hi all, if Moonstone gets KO’d, do the characters in play get ![](%%Flight%%)back?
@@ -2752,11 +2754,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY1NzkwMDcsLTE3NDUzMDY3ODAsND
-YwOTMwNTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5
-MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMT
-YwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQx
-OTEzLDc5NTY0MjAyMywyODIwNjUyODksLTY5MzQ4MDkyMiwtMT
-Q2NDIyNTk5NiwxNDA1NzY5MTM0LDE4MDAxMTY1NDUsLTU4Mzc3
-MDEzMV19
+eyJoaXN0b3J5IjpbLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0Nj
+A5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkx
+MiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNj
+A1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5
+MTMsNzk1NjQyMDIzLDI4MjA2NTI4OSwtNjkzNDgwOTIyLC0xND
+Y0MjI1OTk2LDE0MDU3NjkxMzQsMTgwMDExNjU0NSwtNTgzNzcw
+MTMxXX0=
 -->
