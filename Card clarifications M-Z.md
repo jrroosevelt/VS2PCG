@@ -1466,7 +1466,7 @@ A: No. In order; Rocket is stunned first, then later discards and then draws on 
 
 
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mcu1-014.jpg)
-^CardNumber: HER-010
+^CardNumber: MCU1-014
 
 *Set: The MCU Battles*  
 
@@ -1483,6 +1483,8 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 ^(Source: Rule insert)
 
 ## [Rogue (SC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-013.jpg)
+^CardNumber: HER-010
+
 *Set: Freedom Force*
 
 **Permanent Power Absorption** works like this: Rogue gains an ATK, DEF, and Health increase equal to the KO'd character's printed ATK, DEF, and Health respectively. She also gains that character's printed keyword and super powers. These gains last until Rogue leaves play.
@@ -2896,11 +2898,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTQwOTEwNiwxMDI1NDkxMTM2LC03Nj
-A4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0Nzcy
-NjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNz
-k1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMx
-NDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LD
-Q0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIzNDE5MTMsNzk1NjQy
-MDIzXX0=
+eyJoaXN0b3J5IjpbNDEwNzAxMzQ5LDEwMjU0OTExMzYsLTc2MD
+gyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2
+MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OT
+U4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0
+NTkxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsND
+Q5OTk2MjQ1LC0yMDM1Mzg2MTg4LDU1MjM0MTkxMyw3OTU2NDIw
+MjNdfQ==
 -->
