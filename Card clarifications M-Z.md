@@ -999,7 +999,7 @@ Odin actually starts off as his most powerful self at Level 1. but after a few t
 ^(Source: Rule insert)
 
 # [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
-^CardNumber: ^TUB-054, TUB-055, TUB-056, TUB-057
+^CardNumber: ^TUB-054, ^TUB-055, ^TUB-056, ^TUB-057
 
 These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
 
@@ -1142,7 +1142,7 @@ See [The Wrecking Crew](#wiki_the_wrecking_crew)
 # Pixie
 
 ## [Pixie](http://vs.tcgbrowser.com/images/cards/big/TUB-008.jpg) (MC)
-^CardNumber: ^TUB-008, TUB-009
+^CardNumber: ^TUB-008, ^TUB-009
 
 *Set: The Utopia Battles*  
 
@@ -1202,7 +1202,7 @@ Power Man loves a good party, especially if he wasn’t invited. His **Crash the
 
 # Professor X
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/mnb-033.jpg) (MC - The Marvel Battles)
-^CardNumber: ^MNB-033, MNB-034
+^CardNumber: ^MNB-033, ^MNB-034
 
 
 Q: If Prof X MC uses **Mental Domination** to take control of Sister Grimm MC and suicides her, does she level up?
@@ -1228,7 +1228,7 @@ A: Yes.
 ^(Source: UDE FAQ)
 
 ## [Professor X](http://vs.tcgbrowser.com/images/cards/big/NEW-005.jpg) (MC - New Mutants)
-^CardNumber: ^NEW-003, NEW-004, NEW-005
+^CardNumber: ^NEW-003, ^NEW-004, ^NEW-005
 
 *Set: New Mutants*  
 
@@ -1308,7 +1308,7 @@ A: Once Purple man's power has been activated and resolved, it is independent of
 
 # Pyro
 ## [Pyro (MC)](http://vs.tcgbrowser.com/images/cards/big/FRE-005.jpg)
-^CardNumber: ^FRE-005, FRE-006
+^CardNumber: ^FRE-005, ^FRE-006
 
 *Set: Freedom Force*
 
@@ -1326,7 +1326,7 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 ^(Source: Rule insert)
 
 # [Quicksilver](http://vs.tcgbrowser.com/images/cards/big/MCU5-010.jpg) (MC - MCU Villains)
-^CardNumber: ^MCU5-010, MCU5-011
+^CardNumber: ^MCU5-010, ^MCU5-011
 
 *Set: Mind & Soul*  
 
@@ -1337,7 +1337,7 @@ You start the game with both Main Characters (Scarlet Witch and Quicksilver) and
 ^(Source: Rule insert)
 
 # [Rachel Summers (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-006.jpg)
-^CardNumber: ^FUT-005, FUT-006
+^CardNumber: ^FUT-005, ^FUT-006
 
 *Set: Futures Past*
 
@@ -1380,7 +1380,7 @@ See also: [The Infinity Gems](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#
 
 # Red Skull
 ## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/MCU4-011.jpg) (MC-MCU Villains)
-^CardNumber: ^MCU4-010, MCU4-011
+^CardNumber: ^MCU4-010, ^MCU4-011
 
 *Set: Power & Reality*  
 
@@ -1429,7 +1429,7 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 ^(Source: Rule insert)
 
 # [Robert Patrick Modell (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-048.jpg)
-^CardNumber: ^XFB-048, XFB-049
+^CardNumber: ^XFB-048, ^XFB-049
 
 *Set: The X-Files Battles*
 
@@ -1443,7 +1443,7 @@ When **Kitsunegari** moves an enemy character to your side, you may immediately 
 
 # Rocket
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mnb-053.jpg) (MC)
-^CardNumber: ^MNB-053, MNB-054
+^CardNumber: ^MNB-053, ^MNB-054
 
 **Set: The Marvel Battles**
 
@@ -1488,7 +1488,7 @@ Note that if she Powers Up while Level 1 or 2, Rogue will gain an XP. Also, her 
 ^(Source: Rule insert)
 
 ## [Rogue (SC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-013.jpg)
-^CardNumber: ^FRE-013, FRE-014
+^CardNumber: ^FRE-013, ^FRE-014
 
 *Set: Freedom Force*
 
@@ -1584,7 +1584,7 @@ The Runner is so fast he can actually attack during your Build Phase. This means
 ^(Source: Rule insert)
 
 # [Sabretooth](http://vs.tcgbrowser.com/images/cards/big/BOM-006.jpg) (MC)
-^CardNumber: ^BOM-006, BOM-007
+^CardNumber: ^BOM-006, ^BOM-007
 
 *Set: Brotherhood of Mutants*
 
@@ -1634,7 +1634,7 @@ Sauron’s **Terrifying Delusions** power tricks a main character into striking 
 
 # Scarlet Spider
 ## [Scarlet Spider](http://vs.tcgbrowser.com/images/cards/big/SPF-003.jpg) (MC)
-^CardNumber: ^SPF-003, SPF-004
+^CardNumber: ^SPF-003, ^SPF-004
 
 *Set: Spider-Friends*  
 
@@ -1662,7 +1662,7 @@ Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character t
 ^(Source: Rule insert)
 # Scarlet Witch
 ## [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
-^CardNumber: ^MCU5-012, MCU5-013
+^CardNumber: ^MCU5-012, ^MCU5-013
 
 *Set: Mind & Soul*  
 
@@ -1755,7 +1755,7 @@ Shadow King is technically a supporting character but he doesn’t want to actua
 ^(Source: Rule insert)
 
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
-^CardNumber: ^AFF-003, AFF-004, LEG-057, LEG-058
+^CardNumber: ^AFF-003, ^AFF-004, ^LEG-057, ^LEG-058
 
 *Set: A-Force*  
 
@@ -1803,7 +1803,7 @@ A: It doesn't, those are "Keyword Powers", **Rules Lawyer** only reacts to "Supe
 ^(Source: FB Post)
 
 # [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC)
-^CardNumber: ^MCU5-014, MCU5-015
+^CardNumber: ^MCU5-014, ^MCU5-015
 
 *Set: Mind & Soul*  
 
@@ -1841,7 +1841,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: FB Post)
 
 # [Silver Surfer](http://vs.tcgbrowser.com/images/cards/big/HER-005.jpg) (MC)
-^CardNumber: ^HER-003, HER-004, HER-005
+^CardNumber: ^HER-003, ^HER-004, ^HER-005
 
 *Set:  The Herald*  
 
@@ -1852,7 +1852,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: Rule insert)
 
 # [Simon Trask](http://vs.tcgbrowser.com/images/cards/big/TUB-037.jpg) (MC) 
-^CardNumber: ^TUB-037, TUB-038
+^CardNumber: ^TUB-037, ^TUB-038
 
 *Set: The Utopia Battles*  
 
@@ -3112,7 +3112,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjQwOTA2OCwxNjYyMTkzNjY0LDIwND
+eyJoaXN0b3J5IjpbMTgwNTkxMzQwOCwxNjYyMTkzNjY0LDIwND
 M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
 MTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLT
 IxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYw
