@@ -18,7 +18,7 @@ For additional information, see also:
 * [Glossary of Terms, keywords and effects](http://www.reddit.com/r/vs2pcg/wiki/glossary)
 
 # [Abduction](http://vs.tcgbrowser.com/images/cards/big/XFB-037.jpg)
-^CardNumber:XFB-037
+^CardNumber: XFB-037
 
 *Set: The X-Files Battles*
 
@@ -27,7 +27,7 @@ The abducted character will re-enter the game with wound counters on it equal to
 ^(Source: Rule Insert)
 
 # [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
-^CardNumber:MCU1-033
+^CardNumber: MCU1-033
 
 *Set: MCU Battles*
   
@@ -3128,7 +3128,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTIyOTM0OCw2MjU2NjM2NDksLTgwOD
+eyJoaXN0b3J5IjpbLTM3NjYwNzc3OCw2MjU2NjM2NDksLTgwOD
 AwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1
 LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
 c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
