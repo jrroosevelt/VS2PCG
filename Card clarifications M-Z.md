@@ -1808,6 +1808,8 @@ A: It doesn't, those are "Keyword Powers", **Rules Lawyer** only reacts to "Supe
 
 
 # [Sif](http://vs.tcgbrowser.com/images/cards/big/CV1-015.jpg)
+^CardNumber: CV1-015
+
 *Set: Crossover*  
 
 You can only recruit her by also paying a ![](%%Might%%) (Might). If you don’t have one to pay, you can’t recruit her. Note: If she appears somehow without getting recruited, you don’t have to pay a [](%%Might%%) (Might).
@@ -1815,6 +1817,8 @@ You can only recruit her by also paying a ![](%%Might%%) (Might). If you don’t
 ^(Source: Rule insert)
 
 # [Silver Sable](http://vs.tcgbrowser.com/images/cards/big/aff-040.jpg)
+^CardNumber: AFF-040
+
 *Set: A-Force*
 
 Q: For Silver Sable, what is a recruit point?
@@ -2927,11 +2931,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk4MTk3NzIsLTIxMDU1NjU2MDQsLT
-E1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LDE5MTEz
-NjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4ND
-ksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNTM4
-MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzOD
-g1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIw
-MzUzODYxODhdfQ==
+eyJoaXN0b3J5IjpbMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMT
+U2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2
+NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OS
+wtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1Mzgw
+MjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4OD
+UxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAz
+NTM4NjE4OF19
 -->
