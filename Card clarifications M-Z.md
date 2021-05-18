@@ -2212,6 +2212,8 @@ These characters **do** count toward your total of 60 cards in your deck. If * S
 
 # \*\* Spider-Man \*\* 
 ## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-002.jpg) \*\* (MC)
+^CardNumber: WEB-001, WEB-002
+
 *Set: Webheads*  
 
 This Spider-Man, from the Ultimate Universe, is our first character to share a mantle with two other people! (Miles Morales and the main Marvel Universe's Peter Parker.) In this comics, this Peter died... but then came back to life because the **Oz Formula** that gave him his powers also granted him immortality. For the game, this means when Peter is KO'd, you won't lose the game immediately for not having a main character. You'll have until the end of your next turn to bring him back when a Supporting Character with the **Friends and Family** keyword appears on your side. In this case, put him back onto your side with wounds equal to his (Health) minus 1. (With the **Oz Formula** mechanic, Peter can continue fighting for those he cares about.)
@@ -2219,6 +2221,8 @@ This Spider-Man, from the Ultimate Universe, is our first character to share a m
 ^(Source: Rule insert)
 
 ## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-016.jpg) \*\* (SC)
+^CardNumber: WEB-016
+
 *Set: Webheads*  
 
 **Ultimate Spider-Man** lets Spidey strike multiple times in a combat. If he strikes the same character more than once, add his ATK together for each strike and then compare it to the enemy's DEF. For example, if he has 5 ATK and strikes a character three times compare a total of 15 ATK to that character's DEF. He can also split up his strikes if he's in combat with multiple enemies (such as if he's being team attacked).
@@ -2226,6 +2230,8 @@ This Spider-Man, from the Ultimate Universe, is our first character to share a m
 ^(Source: Rule insert)
 
 # [Spider-Man Noir](http://vs.tcgbrowser.com/images/cards/big/CV2-006.jpg)
+^CardNumber: CV2-006
+
 *Set: Crossover Vol. 2*  
 
 **Black and White** prevents enemy Locations from producing the power symbol of your choice. An enemy player can still turn a Location face down or discard it from their hand to try to produce that symbol, but nothing will happen.
@@ -2233,6 +2239,8 @@ This Spider-Man, from the Ultimate Universe, is our first character to share a m
 ^(Source: Rule insert)
 
 # [Spider-UK](http://vs.tcgbrowser.com/images/cards/big/WEB-005.jpg) (MC)
+^CardNumber: BLK-022
+
 *Set: Webheads*  
 
 A British Spider-Man from another Universe, Spider-UK is a new Main Character with the **Spider-Verse** keyword. **Spider-Verse** means two things:
@@ -2973,11 +2981,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMT
-A1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgy
-NzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MC
-wtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4
-MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NT
-kxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5
-OTk2MjQ1XX0=
+eyJoaXN0b3J5IjpbMTc3Mzg4NzQwLDEzODg5MjU5MTEsMTQxOD
+QzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkx
+MTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LD
+E5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5
+MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMi
+wtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1
+NDM0MTg2XX0=
 -->
