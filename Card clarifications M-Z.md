@@ -1373,6 +1373,10 @@ If you do it to an equipment, that equipment will stay equipped but its powers a
 
 ^(Source: Rule insert)
 
+---
+
+See also: [The Infinity Gems](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_infinity_gems)
+
 # Red Skull
 ## [Red Skull](http://vs.tcgbrowser.com/images/cards/big/MCU4-011.jpg) (MC-MCU Villains)
 ^CardNumber: MCU4-010, MCU4-011
@@ -2949,11 +2953,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQzODQxNzQsMTQxODQzNzcxOSwtMj
-EwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4
-MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNj
-AsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1
-ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxND
-U5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0
-OTk5NjI0NV19
+eyJoaXN0b3J5IjpbOTI4MzQzNDk3LDE0MTg0Mzc3MTksLTIxMD
+U1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3
+MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC
+0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgz
+MTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OT
+EsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5
+OTYyNDVdfQ==
 -->
