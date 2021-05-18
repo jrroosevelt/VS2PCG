@@ -1668,6 +1668,8 @@ You start the game with both Main Characters (Scarlet Witch and Quicksilver) and
 ^(Source: Rule insert)
 
 ## [Scarlet Witch (SC)](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
+^CardNumber: DEF-013
+
 *Set: The Defenders*  
 
 Scarlet Witch’s **Hex** power prevents enemy Main Characters from Leveling Up. They can still gain XP up to their Level Up number, but not beyond. And once Scarlet Witch gets stunned or leaves play, if they have enough XP, they’ll immediately Level Up.
@@ -1683,6 +1685,8 @@ A: Scarlet Witch isn't targeting your opponent's MC, it is a blanket effect on t
 ^(Source: FB Post - Tim Saunders)
 
 # [Scourge](http://vs.tcgbrowser.com/images/cards/big/HAM-014.jpg)
+^CardNumber: HAM-014
+
 *Set: H.A.M.M.E.R.*  
 
 **Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
@@ -1696,6 +1700,8 @@ Q: Does “could attack” imply that Scourge has to be ready in order to use hi
 A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
 
 # [Secret Hideout](http://vs.tcgbrowser.com/images/cards/big/SFO-016.jpg)
+^CardNumber: SFO-016
+
 *Set: Spidey-Foes*  
 
 **Family is a Source of Weakness** lets your (Sinister Syndicate) Main Character take a **Hostage**. If you have any Secret Hideouts in your deck, you must bring a Hostage pile, which includes one ore more *different* (Spider-Friends) Supporting Characters with the **Friends and Family** keyword.
@@ -1713,6 +1719,8 @@ Note: A **Hostage** is never actually in play. It's either in a Hostage pile, be
 ^(Source: Rule insert)
 
 # [Sentry](http://vs.tcgbrowser.com/images/cards/big/TUB-053.jpg)
+^CardNumber: TUB-053
+
 *Set: The Utopia Battles*  
 
 **Reluctant God** prevents Sentry from striking, but he can still attack.
@@ -1720,14 +1728,20 @@ Note: A **Hostage** is never actually in play. It's either in a Hostage pile, be
 ^(Source: Rule insert)
 
 # [Serpent Crown](http://vs.tcgbrowser.com/images/cards/big/SVH-056.jpg)
+^CardNumber: SVH-056
+
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 # [Shadowcat](http://vs.tcgbrowser.com/images/cards/big/LEG-014.jpg)
+^CardNumber: LEG-014
+
 *Set: Legacy*
 
 [This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_shadowcat_sc) 
 
 # [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
+^CardNumber: BOM-017
+
 *Set: Brotherhood of Mutants*  
 
 **Anchor Host**  
@@ -1736,6 +1750,8 @@ Shadow King is technically a supporting character but he doesn’t want to actua
 ^(Source: Rule insert)
 
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
+^CardNumber: SFO-016
+
 *Set: A-Force*  
 
 **Rules Lawyer**  
@@ -2918,11 +2934,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNz
-YwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3
-MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLD
-c5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQz
-MTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Ni
-w0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUyMzQxOTEzLDc5NTY0
-MjAyM119
+eyJoaXN0b3J5IjpbMTczNjYwMzMyNCwtMTU2MDk3MjkyMCwxMD
+I1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQw
+NDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MC
+w0NjA5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQx
+NjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4My
+wxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIz
+NDE5MTNdfQ==
 -->
