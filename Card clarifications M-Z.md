@@ -2395,6 +2395,8 @@ Both of Supergiant's powers trigger when she appears. You can resolve them in wh
 ^(Source: Rule insert)
 
 # [Superior Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-007.jpg) (MC)
+^CardNumber: WEB-007, WEB-008
+
 *Set: Webheads*  
 
 **A Superior Hero** represents Doc Ock's realization that Peter Parker's selflessness makes Peter the superior hero. When another character on your side is attacked, you may transform Superior Spider-Man into the Marvel Battles Level 2 Spider-Man with **Friendly Neighbor**, remove the defender from combat, and replace it with your new Spider-Man Main Character. Note: Spider-Man will keep all counters, Equipment, effects, and orientation (ready/exhausted) that Superior Spider-Man had.
@@ -2402,6 +2404,8 @@ Both of Supergiant's powers trigger when she appears. You can resolve them in wh
 ^(Source: Rule insert)
 
 # [Super Skrull](http://vs.tcgbrowser.com/images/cards/big/FAN-035.jpg) (MC)
+^CardNumber: FAN-035, FAN-036
+
 *Set: The Fantastic Battles*  
 
 Super-Skrull's **First Faker** Level Up power looks at every player's side (not just yours) and it counts Main and Supporting Characters. But if there are, for example, two Human Torches in play, he still only gets 1 XP for Human Torch.  
@@ -2411,6 +2415,8 @@ The powers he gains from his **Cosmic Energy Power Receptors** have no duration,
 ^(Source: Rule insert)
 
 # [Supreme Leader](http://vs.tcgbrowser.com/images/cards/big/SVH-008.jpg)
+^CardNumber: SVH-007, SVH-008
+
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
 **Hydra High Council**   
@@ -2427,6 +2433,8 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 ^(Source: Official clarification)
 
 # [Surtur](http://vs.tcgbrowser.com/images/cards/small/MCU6-019.jpg)
+^CardNumber: MNB-027, MNB-028
+
 *Set: Space & Time*  
 
 **Ragnarok** triggers right when Surtur attacks. There's no chance to play a Plot Twist or use a Super Power to increase his ATK at that point. However, other effects that trigger when someone attacks could be ordered to increase Surtur's ATK before Ragnarok resolves.
@@ -3005,11 +3013,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgyODExNDksMTUyMTUxNTgzLDEzOD
-g5MjU5MTEsMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3
-MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OS
-wxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0
-NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMj
-IsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUx
-ODA0NjA4M119
+eyJoaXN0b3J5IjpbNzE3MDk1MTgzLC0xMjc4MjgxMTQ5LDE1Mj
+E1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2
+MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LD
+E5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5
+OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOS
+wxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMy
+MzUzODg1MV19
 -->
