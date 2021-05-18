@@ -2132,6 +2132,8 @@ See also: [The Infinity Gems](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#
 ^(Source: Rule insert)
 
 # [Spectrum](http://vs.tcgbrowser.com/images/cards/big/aff-018.jpg)
+^CardNumber: AFF-018
+
 *Set: A-Force*
 
 Q: Does Spectrum gain +1/+1 counters from face down labs? Her effect does not specify whether the location should be face up.
@@ -2141,6 +2143,8 @@ A: A face-down card in a resource row is just a resource. The resource row is hi
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Spider-Gwen](http://vs.tcgbrowser.com/images/cards/big/LEG-061.jpg)
+^CardNumber: LEG-061
+
 *Set: Legacy*  
 
 **Dimensional Wristwatch**  
@@ -2150,6 +2154,8 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 
 # Spider-Man
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider-Friends)
+^CardNumber: SPF-001, SPF-002
+
 *Set: Spider-Friends*  
 
 **I Can and Will Fight You**
@@ -2160,6 +2166,8 @@ When a character with the Alien Symbiote is turned face down but isn’t KO’d,
 ^(Source: Rule insert)
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/MCU7-003.jpg) (MC-MCU Heroes)
+^CardNumber: MCU7-003, MCU7-004
+
 *Set: Friendly Neighborhood*  
 
 **Homecoming** will give Spider-Man an XP each time he **Climbs** a Location he hasn't climbed yet. This refers to individual Location cards. So if he climbs a Training Ground on one turn to get an XP, he can climb a different Training Ground on another turn to gain a second XP.
@@ -2168,6 +2176,8 @@ When a character with the Alien Symbiote is turned face down but isn’t KO’d,
 
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-019.jpg) (SC - Spider-Friends)
+^CardNumber: SPF-019
+
 *Set: Spider-Friends*  
 
 Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keywords he gains will last until he leaves play.
@@ -2175,6 +2185,8 @@ Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keyword
 ^(Source: Rule insert)
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-017.jpg) (SC - Webheads)
+^CardNumber: BLK-022
+
 *Set: Webheads*  
 
 When **Tony's Tinkering** lets Spider-Man download an **Update**, put an **Update** counter on him. (You can use a coin, bead, slip of paper, or an XP counter to keep track of Spidey's **Updates**). When Spidey installs **Updates**, you may remove any number of **Update** counters from him.
@@ -2959,7 +2971,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzcwNDcwNDMsMTQxODQzNzcxOSwtMj
+eyJoaXN0b3J5IjpbLTExNzAyOTkwOTYsMTQxODQzNzcxOSwtMj
 EwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4
 MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNj
 AsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1
