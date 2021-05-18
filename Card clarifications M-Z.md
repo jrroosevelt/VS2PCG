@@ -1797,15 +1797,6 @@ A: It doesn't, those are "Keyword Powers", **Rules Lawyer** only reacts to "Supe
 
 ^(Source: FB Post)
 
-# Shifting Loyalties
-*Set: The Utopia battles*  
-
-At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (H.A.M.M.E.R.) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
-
-^(Source: Rule insert)
-
-See also: [Cloak](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_cloak) and [Dagger](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dagger)
-
 # [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC)
 *Set: Mind & Soul*  
 
@@ -2934,11 +2925,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMjY0MiwtMjEwNTU2NTYwNCwtMTU2MD
-k3MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3
-OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMT
-c0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEz
-MjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLD
-UxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4
-NjE4OF19
+eyJoaXN0b3J5IjpbLTc1MTEwMDUzNCwtMjEwNTU2NTYwNCwtMT
+U2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2
+NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OS
+wtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1Mzgw
+MjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4OD
+UxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAz
+NTM4NjE4OF19
 -->
