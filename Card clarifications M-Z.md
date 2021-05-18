@@ -2649,7 +2649,7 @@ Jane's **A God Who Knows How Precious Life Is** is not a super power.
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
 # [Tiger Shark](http://vs.tcgbrowser.com/images/cards/big/MOE-010.jpg)
-^CardNumber: MOE-017
+^CardNumber: MOE-010
 
 *Set: Masters of Evil*
 
@@ -2658,10 +2658,15 @@ Here’s an example of how Tiger Shark’s **Adamantium Teeth** works: If Tiger 
 ^(Source: Rule insert)  
 
 # [Titan](http://vs.tcgbrowser.com/images/cards/big/BLK-024.jpg)
+^CardNumber: BLK-024
+
 *Set: Black Order*
+
 See [Might Makes Right](#wiki_might_makes_right)
 
 # [Titania](http://vs.tcgbrowser.com/images/cards/big/aff-037.jpg)
+^CardNumber: AFF-037
+
 *Set: A-Force*  
 
 Titania has the new **Durable** keyword. This means if she gets stunned in some way that isn’t getting struck in combat, she recovers and doesn’t get wounded. 
@@ -2671,6 +2676,8 @@ However, if she was in the middle of combat when she got stunned (perhaps by Sin
 ^(Source: Rule insert)
 
 # [Toad](http://vs.tcgbrowser.com/images/cards/big/RES-011.jpg) 
+^CardNumber: RES-011
+
 *Set: Resistance*  
 
 **Toadally Awesome**  
@@ -2679,6 +2686,8 @@ Remember, Toad isn’t just Sort of Awesome.
 ^(Source: Rule insert)
 
 # [Tracker](http://vs.tcgbrowser.com/images/cards/big/PRD-018.jpg)
+^CardNumber: PRD-018
+
 *Set: The Predator Battles*  
 
 **It Wants Us to Run**   
@@ -2687,6 +2696,8 @@ Tracker has a keyword that says: “Tracker has +1/+1 for each different basic L
 ^(Source: Rule insert)
 
 # [Trance](http://vs.tcgbrowser.com/images/cards/big/RES-009.jpg) 
+^CardNumber: RES-009
+
 *Set: Resistance*  
 
 When she has an **Astral Form Overload**, she gains **Stealth** and **[Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless)**. **Stealth** means she can melee attack back row characters, even while they’re protected. **[Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless)** means that she strikes Main Characters with double her ATK.
@@ -2694,6 +2705,8 @@ When she has an **Astral Form Overload**, she gains **Stealth** and **[Fearless]
 ^(Source: Rule insert)
 
 # [Trickster God](http://vs.tcgbrowser.com/images/cards/big/mnb-103.jpg)
+^CardNumber: MNB-103
+
 *Set: The Marvel Battles*
 
 Q: How does this work?
@@ -2703,6 +2716,8 @@ A: When you play it switch the character’s current stats. Any new stat changes
 ^(Source: UDE FAQ)
 
 # [Uatu](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
+^CardNumber: FAN-022
+
 *Set: The Fantastic Battles*  
 
 **The Watcher** sees everywhere; including but not limited to enemy decks (shuffle them afterwards) hands, face-down resources, cards removed from the game and out of game piles (even if they're secret). 
@@ -2713,6 +2728,8 @@ A: When you play it switch the character’s current stats. Any new stat changes
 
 # Ultron
 ## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC - Photo)
+^CardNumber: MCU1-040
+
 *Set: The MCU Battles*  
 
 **Ultron Facility**  
@@ -3043,7 +3060,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MDUyOTg2LDk1MDQzOTkyMSwtMTI3OD
+eyJoaXN0b3J5IjpbMjM1NjAwODE5LDk1MDQzOTkyMSwtMTI3OD
 I4MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5
 LC0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLT
 c2MDgyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3
