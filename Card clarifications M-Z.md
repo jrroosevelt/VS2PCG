@@ -1750,7 +1750,7 @@ Shadow King is technically a supporting character but he doesn’t want to actua
 ^(Source: Rule insert)
 
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
-^CardNumber: SFO-016
+^CardNumber: AFF-003, AFF-004, LEG-057, LEG-058
 
 *Set: A-Force*  
 
@@ -2934,11 +2934,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjYwMzMyNCwtMTU2MDk3MjkyMCwxMD
-I1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQw
-NDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MC
-w0NjA5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQx
-NjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4My
-wxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAzNTM4NjE4OCw1NTIz
-NDE5MTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMT
+AyNTQ5MTEzNiwtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0
+MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3OD
+AsNDYwOTMwNTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0
+MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgwNDYwOD
+MsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIwMzUzODYxODgsNTUy
+MzQxOTEzXX0=
 -->
