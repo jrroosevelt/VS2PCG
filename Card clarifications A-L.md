@@ -466,7 +466,7 @@ Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
-^CardNumber:MCU2-014
+^CardNumber: MCU2-014
 
 *Set: MCU Heroes*  
 
@@ -475,7 +475,7 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 ^(Source: Rule insert)
 
 # [Blade (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-001.jpg)
-^CardNumber:DAR-001
+^CardNumber: DAR-001
 
 *Set: Into the Darkness*
 
@@ -488,7 +488,7 @@ Once Blade is Level 2, **Synthetic Blood Serum** will start wounding him at the 
 ^(Source: Rule Insert)
 
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
-^CardNumber:FRE-009
+^CardNumber: FRE-009
 
 *Set: Freedom Force*
 
@@ -503,7 +503,7 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
-^CardNumber:CV1-003, CV1-004
+^CardNumber: CV1-003, CV1-004
 
 *Set: Crossover*  
 
@@ -515,7 +515,7 @@ If Blob moves for any reason (including during your Formation Step or because an
 ^(Source: Rule insert)
 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/BOM-015.jpg) (SC)
-^CardNumber:BOM-015
+^CardNumber: BOM-015
 
 *Set: Brotherhood of Mutants*  
 
@@ -526,7 +526,7 @@ And his **Bounced Off His Belly** power represents projectiles getting bounced b
 ^(Source: Rule insert)
 
 # [Book of the Vishanti](http://vs.tcgbrowser.com/images/cards/big/SVH-058.jpg)
-^CardNumber:SVH-058
+^CardNumber: SVH-058
 
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
@@ -534,7 +534,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 
 # [Boomerang](http://vs.tcgbrowser.com/images/cards/big/SFO-008.jpg)
-^CardNumber:SFO-008
+^CardNumber: SFO-008
 
 *Set: Spidey-Foes*  
 
@@ -544,7 +544,7 @@ Boomerang can "throw" a different Boomerang each turn at one front row and one b
 ^(Source: Rule insert)
 
 # [Break the Fourth Wall](http://vs.tcgbrowser.com/images/cards/big/MFM-019.jpg)
-^CardNumber:MFM-019
+^CardNumber: MFM-019
 
 *Set: Deadpool & Friends*  
 
@@ -566,7 +566,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 ^(Source: Rule insert)
 
 # [Brotherhood](http://vs.tcgbrowser.com/images/cards/big/FRE-019.jpg)
-^CardNumber:FRE-019
+^CardNumber: FRE-019
 
 *Set: Freedom Force*
 
@@ -585,7 +585,7 @@ If you choose one frozen and one exhausted character, only the exhausted charact
 
 # Bruce Banner
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
-^CardNumber:MCU1-003, MCU1-004
+^CardNumber: MCU1-003, MCU1-004
 
 *Set: The MCU Battles*  
 
@@ -594,7 +594,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu4-018.jpg) (SC)
-^CardNumber:MCU4-018
+^CardNumber: MCU4-018
 
 *Set: Power & Reality*  
 
@@ -603,7 +603,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 # [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-003.jpg) / [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/MCU4-002.jpg)
-^CardNumber:MCU4-001, MCU4-002, MCU4-003
+^CardNumber: MCU4-001, MCU4-002, MCU4-003
 
 *Set: Power & Reality*  
 
@@ -615,7 +615,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 
 # [Buffy](http://vs.tcgbrowser.com/images/cards/big/TBB-003.jpg) (MC) 
-^CardNumber:TBB-003, TBB-004
+^CardNumber: TBB-003, TBB-004
 
 *Set: The Buffy Battles*  
 
@@ -624,7 +624,7 @@ Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character.
 ^(Source: Rule insert)
 
 # [Build a Better World](http://vs.tcgbrowser.com/images/cards/big/aff-025.jpg)
-^CardNumber:AFF-025
+^CardNumber: AFF-025
 
 *Set: A-Force*
 
@@ -635,14 +635,14 @@ A: When you pay a cost, you have to pay the entire cost, and you can not play an
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Bulldozer](http://vs.tcgbrowser.com/images/cards/big/MOE-015.jpg)
-^CardNumber:MOE-015
+^CardNumber: MOE-015
 
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
 # [Bullseye](http://vs.tcgbrowser.com/images/cards/big/HAM-001.jpg) (MC)
-^CardNumber:HAM-001, HAM-002
+^CardNumber: HAM-001, HAM-002
 
 *Set: H.A.M.M.E.R.*  
 
@@ -655,7 +655,7 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 # Cable
 ## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
-^CardNumber:NEW-001, NEW-002
+^CardNumber: NEW-001, NEW-002
 
 *Set: New Mutants*  
 
@@ -679,7 +679,7 @@ A: Yes. Only wounds, levels, and equipment on MCs remain as-is.
 
 
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
-^CardNumber:MNB-045
+^CardNumber: MNB-045
 
 *Set: The Marvel Battles*
 
@@ -706,7 +706,7 @@ A: His power will still trigger and stun the defender even though Cable himself 
 ^(Source: UDE FAQ)
 
 # [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
-^CardNumber:MNB-001, MNB-002
+^CardNumber: MNB-001, MNB-002
 
 *Set: The Marvel Battles*
 
@@ -725,7 +725,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 ^(Source: UDE FAQ)
 
 # [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-027.jpg) (SC - MCU Heroes)
-^CardNumber:MCU5-027
+^CardNumber: MCU5-027
 
 *Set: Mind & Soul*  
 
@@ -735,7 +735,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 
 
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
-^CardNumber:COS-012
+^CardNumber: COS-012
 
 *Set: Cosmic Avengers*  
 
@@ -749,7 +749,7 @@ His **Cosmic Awareness** allows him to ask an opponent one concrete question abo
 ^(Source: Rule insert)
 
 # [Captain Swain](http://vs.tcgbrowser.com/images/cards/big/MMU-047.jpg)
-^CardNumber:MMU-047
+^CardNumber: MMU-047
 
 *Set: Monsters Unleashed*
 
@@ -760,7 +760,7 @@ A: No. By default powers/abilities can only target cards in the Play Zone unless
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/1407375245964684)
 
 # [Carnage](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
-^CardNumber:DEF-035
+^CardNumber: DEF-035
 
 *Set: The Defenders*  
 
@@ -771,7 +771,7 @@ Carnage’s power triggers when he stuns or gets stunned. So it’s possible for
 
 # Chameleon
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SFO-001.jpg) (MC)
-^CardNumber:SFO-001
+^CardNumber: SFO-001
 
 *Set: Spidey-Foes*  
 
@@ -780,7 +780,7 @@ If Chameleon appears in the middle of the game, then **Blessing in Disguise** wi
 ^(Source: Rule insert)
 
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SYN-007.jpg) (SC)
-^CardNumber:SYN-007
+^CardNumber: SYN-007
 
 *Set: Sinister Syndicate*  
 
@@ -790,7 +790,7 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 ^(Source: Rule insert)
 
 # [The Champion](http://vs.tcgbrowser.com/images/cards/big/CV2-019.jpg)
-^CardNumber:CV2-019
+^CardNumber: CV2-019
 
 *Set: Crossover Vol. 2*  
 
@@ -800,7 +800,7 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 ^(Source: Rule insert)
 
 # [Chimichanga](http://vs.tcgbrowser.com/images/cards/big/MFM-021.jpg)
-^CardNumber:MFM-021
+^CardNumber: MFM-021
 
 *Set: Deadpool & Friends*  
 
@@ -809,7 +809,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 ^(Source: Rule insert)
 
 # [Cigarette Smoking Man (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-024.jpg)
-^CardNumber:XFB-024, XFB-025
+^CardNumber: XFB-024, XFB-025
 
 *Set: The X-Files Battles*
 
@@ -822,7 +822,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 ^(Source: Rule Insert)
 
 # [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
-^CardNumber:TUB-044
+^CardNumber: TUB-044
 
 *Set: The Utopia Battles*
 
@@ -834,7 +834,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule insert)
 
 # [The Collector](http://vs.tcgbrowser.com/images/cards/medium/CV3-002.jpg)
-^CardNumber:CV3-001, CV3-002
+^CardNumber: CV3-001, CV3-002
 
 *Set: Crossover Vol. 3*
 
@@ -843,7 +843,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
-^CardNumber:XFB-026, XFB-027
+^CardNumber: XFB-026, XFB-027
 
 *Set: The X-Files Battles*
 
@@ -854,7 +854,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
-^CardNumber:MFM-013
+^CardNumber: MFM-013
 
 *Set: Deadpool & Friends*
 
@@ -881,7 +881,7 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 ^(Source: Official clarification)
 
 # [Corvus Glaive](http://vs.tcgbrowser.com/images/cards/big/MCU6-015.jpg)
-^CardNumber:MCU6-015
+^CardNumber: MCU6-015
 
 *Set: Space & Time*  
 
@@ -890,7 +890,7 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 ^(Source: Rule insert)
 
 # Cosmic Cubes
-^CardNumber:SVH-023, SVH-024, SVH-025, SVH-026
+^CardNumber: SVH-023, SVH-024, SVH-025, SVH-026
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -914,7 +914,7 @@ Sounds confusing? It kind of is. [Check out this infographic](https://drive.goog
 
 # Cosmo
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
-^CardNumber:GAL-004, GAL-005
+^CardNumber: GAL-004, GAL-005
 
 *Set: Galactic Guardians*  
 
@@ -923,14 +923,14 @@ With **All Bark, No Flight** each power lost grants 1 XP. So if a character lose
 ^(Source: Rule insert)
 
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/BAN-001.jpg) (SC - MNB-061)
-^CardNumber:MNB-061
+^CardNumber: MNB-061
 
 *Set: The Marvel Battles*
 
 [This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
-^CardNumber:TUB-001, TUB-002 
+^CardNumber: TUB-001, TUB-002 
 
 *Set: The Utopia Battles*  
 
@@ -941,7 +941,7 @@ Note: **Trust the Plan** will only put three +1/+1 counters on a character even 
 ^(Source: Rule insert)
 
 # [Dagger](http://vs.tcgbrowser.com/images/cards/big/TUB-041.jpg)
-^CardNumber:TUB-041 
+^CardNumber: TUB-041 
 
 *Set: The Utopia Battles*  
 
@@ -969,7 +969,7 @@ Cloak's power doesn't technically trigger until right after step 7.
 
 # Daken
 ## [Daken (SC)](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
-^CardNumber:BOM-013 
+^CardNumber: BOM-013 
 
 *Set: Brotherhood of Mutants*  
 
@@ -978,7 +978,7 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 ^(Source: Rule insert)
 
 ## [Daken](http://vs.tcgbrowser.com/images/cards/big/HAM-003.jpg) (MC)
-^CardNumber:HAM-003, HAM-004 
+^CardNumber: HAM-003, HAM-004 
 
 *Set: H.A.M.M.E.R.*
 
@@ -3129,7 +3129,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY0MDk2MzQsNjI1NjYzNjQ5LC04MD
+eyJoaXN0b3J5IjpbLTE2MDAxNjQwNjgsNjI1NjYzNjQ5LC04MD
 gwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3
 NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNz
 M3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQz
