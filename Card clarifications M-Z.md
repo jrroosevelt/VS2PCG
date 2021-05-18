@@ -1876,6 +1876,8 @@ A: No, each SC would give you the opportunity to use the Reaction power, but onl
 The original [Singularity SC was banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_singularity_sc_.28a-force_set.29).
 
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/aff-015.jpg) (SC - AFF-015*)
+^CardNumber: AFF-015
+
 *Set: A-Force*
 
 Q: What happens if I use Singularity's power to remove my characters, then on my opponent's turn, Singularity is targeted by Cosmo. Do my characters still return at the end of the turn or when singularity is stunned/leaves play?
@@ -2038,6 +2040,8 @@ A: Yes, most modifers do not track characters that leave play. The only ones tha
 
 # Sister Grimm
 ## [Sister Grimm](http://vs.tcgbrowser.com/images/cards/big/aff-006.jpg) (MC)
+^CardNumber: AFF-005, AFF-006
+
 *Set: A-Force*
 
 Q: The Singularity ruling states that when a character comes back into play it is a new character and nothing has now previously effected it. Can Sister Grimm use a **...Let the Staff of One Emerge** ability she has previously used since technically she's a new character and now has not technically used the previous ability?
@@ -2937,11 +2941,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNzU2MDc4LDE0MTg0Mzc3MTksLTIxMD
-U1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3
-MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC
-0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgz
-MTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OT
-EsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5
-OTYyNDVdfQ==
+eyJoaXN0b3J5IjpbMTA4Mjk3OTM2MSwxNDE4NDM3NzE5LC0yMT
+A1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgy
+NzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MC
+wtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4
+MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NT
+kxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5
+OTk2MjQ1XX0=
 -->
