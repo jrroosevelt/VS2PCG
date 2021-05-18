@@ -1864,7 +1864,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 
 # Singularity
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/LEG-055.jpg) (MC)
-^CardNumber: ^LEG-055, LEG-056
+^CardNumber: ^LEG-055, ^LEG-056
 
 *Set: Legacy* 
 
@@ -2045,7 +2045,7 @@ A: Yes, most modifers do not track characters that leave play. The only ones tha
 
 # Sister Grimm
 ## [Sister Grimm](http://vs.tcgbrowser.com/images/cards/big/aff-006.jpg) (MC)
-^CardNumber: ^AFF-005, AFF-006
+^CardNumber: ^AFF-005, ^AFF-006
 
 *Set: A-Force*
 
@@ -2091,7 +2091,7 @@ A: No, **The Staff of One** has "Any Combat" Which allows it to be used during a
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Sister Ripley](http://vs.tcgbrowser.com/images/cards/big/ALN-005.jpg)
-^CardNumber: ^ALN-005, ALN-006
+^CardNumber: ^ALN-005, ^ALN-006
 
 *Set: The Alien Battles*
 
@@ -2124,7 +2124,7 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 See also: [The Infinity Gems](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_infinity_gems)
 
 # [Specialized Web Cartridges](http://vs.tcgbrowser.com/images/cards/big/WEB-024.jpg)
-^CardNumber: ^WEB-024, WEB-025, WEB-026, WEB-027
+^CardNumber: ^WEB-024, ^WEB-025, ^WEB-026, ^WEB-027
 
 *Set: Webheads*  
 
@@ -2155,7 +2155,7 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 
 # Spider-Man
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider-Friends)
-^CardNumber: ^SPF-001, SPF-002
+^CardNumber: ^SPF-001, ^SPF-002
 
 *Set: Spider-Friends*  
 
@@ -2167,7 +2167,7 @@ When a character with the Alien Symbiote is turned face down but isn’t KO’d,
 ^(Source: Rule insert)
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/MCU7-003.jpg) (MC-MCU Heroes)
-^CardNumber: ^MCU7-003, MCU7-004
+^CardNumber: ^MCU7-003, ^MCU7-004
 
 *Set: Friendly Neighborhood*  
 
@@ -2201,7 +2201,7 @@ Note: **Update** counters aren't removed from Spidey when he gets turned face do
 ^(Source: Rule insert)
 
 # \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
-^CardNumber: ^CV2-001, CV2-002
+^CardNumber: ^CV2-001, ^CV2-002
 
 *Set: Crossover Vol. 2*  
 
@@ -2213,7 +2213,7 @@ These characters **do** count toward your total of 60 cards in your deck. If * S
 
 # \*\* Spider-Man \*\* 
 ## \*\* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-002.jpg) \*\* (MC)
-^CardNumber: ^WEB-001, WEB-002
+^CardNumber: ^WEB-001, ^WEB-002
 
 *Set: Webheads*  
 
@@ -2284,7 +2284,7 @@ At one point Starhawk was actually two beings merged together who took turns occ
 
 # Star Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
-^CardNumber: ^MCU1-007, MCU1-008
+^CardNumber: ^MCU1-007, ^MCU1-008
 
 *Set: The MCU Battles*  
 
@@ -2332,7 +2332,7 @@ Her **Intangibility** power lets her strike characters while they're in a player
 
 # Storm
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/mnb-027.jpg) (MC)
-^CardNumber: ^MNB-027, MNB-028
+^CardNumber: ^MNB-027, ^MNB-028
 
 *Set: The Marvel Battles*
 
@@ -2396,7 +2396,7 @@ Both of Supergiant's powers trigger when she appears. You can resolve them in wh
 ^(Source: Rule insert)
 
 # [Superior Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-007.jpg) (MC)
-^CardNumber: ^WEB-007, WEB-008
+^CardNumber: ^WEB-007, ^WEB-008
 
 *Set: Webheads*  
 
@@ -2405,7 +2405,7 @@ Both of Supergiant's powers trigger when she appears. You can resolve them in wh
 ^(Source: Rule insert)
 
 # [Super Skrull](http://vs.tcgbrowser.com/images/cards/big/FAN-035.jpg) (MC)
-^CardNumber: ^FAN-035, FAN-036
+^CardNumber: ^FAN-035, ^FAN-036
 
 *Set: The Fantastic Battles*  
 
@@ -2416,7 +2416,7 @@ The powers he gains from his **Cosmic Energy Power Receptors** have no duration,
 ^(Source: Rule insert)
 
 # [Supreme Leader](http://vs.tcgbrowser.com/images/cards/big/SVH-008.jpg)
-^CardNumber: ^SVH-007, SVH-008
+^CardNumber: ^SVH-007, ^SVH-008
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -2464,7 +2464,7 @@ This Location is the only way to generate an Alien ![](%%Alien%%) power symbol f
 
 # Talos
 ## [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
-^CardNumber: ^MCU6-007, MCU6-007
+^CardNumber: ^MCU6-007, ^MCU6-007
 
 *Set: Space & Time*  
 
@@ -2550,7 +2550,7 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 
 # Thanos
 ## [Thanos (MC - MCU Villains)](http://vs.tcgbrowser.com/images/cards/big/MCU6-009.jpg)
-^CardNumber: ^MCU3-007, MCU3-008, MCU6-009, MCU6-010
+^CardNumber: ^MCU3-007, ^MCU3-008, ^MCU6-009, ^MCU6-010
 
 *Set: Space & Time*  
 
@@ -2595,7 +2595,7 @@ A: No, "Your" refers to the MC you control. At the time **Infinity Gauntlet** re
 ^(Source: Chad Daniel - UDE Approved)
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
-^CardNumber: ^BLK-005, BLK-006, BLK-007
+^CardNumber: ^BLK-005, ^BLK-006, ^BLK-007
 
 *Set: Black Order*  
 
@@ -2621,7 +2621,7 @@ A: Yes. In fact, he affects all stunned characters so he could put a wound on yo
 ^(Source: UDE FAQ)
 
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
-^CardNumber: ^MCU1-009, MCU1-010
+^CardNumber: ^MCU1-009, ^MCU1-010
 
 *Set: The MCU Battles*  
 
@@ -2729,7 +2729,7 @@ A: When you play it switch the character’s current stats. Any new stat changes
 
 # Ultron
 ## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC - Photo)
-^CardNumber: ^MCU1-040,  MCU1-042, MCU1-046
+^CardNumber: ^MCU1-040,  ^MCU1-042, ^MCU1-046
 
 *Set: The MCU Battles*  
 
@@ -2745,7 +2745,7 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 ^(Source: Rule insert)
 
 ## [Ultron (MC - Illustrated)](http://vs.tcgbrowser.com/images/cards/big/MOE-007.jpg)
-^CardNumber: ^MOE-016, MOE-017
+^CardNumber: ^MOE-016, ^MOE-017
 
 *Set: Masters of Evil*  
 
@@ -3112,7 +3112,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTkxMzQwOCwxNjYyMTkzNjY0LDIwND
+eyJoaXN0b3J5IjpbLTU3NDQ4ODI5NCwxNjYyMTkzNjY0LDIwND
 M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
 MTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLT
 IxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYw
