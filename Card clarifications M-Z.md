@@ -2108,7 +2108,7 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 ^(Source: Rule insert)
 
 # [The Space Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-022.jpg)
-^CardNumber: AFF-003
+^CardNumber: BLK-022
 
 *Set: Black Order*
 
@@ -2949,7 +2949,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ0NzQ3OTUsMTQxODQzNzcxOSwtMj
+eyJoaXN0b3J5IjpbLTExNDQzODQxNzQsMTQxODQzNzcxOSwtMj
 EwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4
 MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNj
 AsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1
