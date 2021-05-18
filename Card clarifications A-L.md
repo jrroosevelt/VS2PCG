@@ -1410,7 +1410,7 @@ Q: **Doctor Turned Sorceror** says I can choose which type of **Spellcaster** he
 A: The short answer is, yes, you can draw (and mulligan) before choosing. For a more detailed definition, see [Start of Game in the glossary](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_start_of_game).
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
-^CardNumber: ^DEF-003, DEF-004
+^CardNumber: ^DEF-003, ^DEF-004
 
 *Set: Defenders*
 
@@ -1467,7 +1467,7 @@ A: No. The "Starting Main Character Required" restriction on the card is a deck 
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
 
 # [Ego](http://vs.tcgbrowser.com/images/cards/big/mcu3-003.jpg)
-^CardNumber: ^MCU3-003, MCU3-004
+^CardNumber: ^MCU3-003, ^MCU3-004
 
 *Set: MCU Villains*  
 
@@ -1477,7 +1477,7 @@ Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down lo
 
 # Electro
 ## [Electro](http://vs.tcgbrowser.com/images/cards/big/SYN-011.jpg) (SC)
-^CardNumber: ^DAR-003, DAR-004
+^CardNumber: ^DAR-003, ^DAR-004
 
 *Set: Sinister Syndicate*  
 
@@ -1487,7 +1487,7 @@ Electro introduces a new concept: remaining health. Remaining health is a charac
 ^(Source: Rule insert)
 
 # [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
-^CardNumber: ^LEG-068, LEG-069
+^CardNumber: ^LEG-068, ^LEG-069
 
 *Set: Legacy*  
 
@@ -1510,7 +1510,7 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
-^CardNumber: ^TUB-003, TUB-004, TUB-005
+^CardNumber: ^TUB-003, ^TUB-004, ^TUB-005
 
 *Set: The Utopia Battles*  
 
@@ -1539,7 +1539,7 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 ^(Source: Rule insert)
 
 # [Enchantress](http://vs.tcgbrowser.com/images/cards/big/aff-031.jpg) (MC)
-^CardNumber: ^AFF-031, AFF-032
+^CardNumber: ^AFF-031, ^AFF-032
 
 *Set: A-Force*
 
@@ -1556,7 +1556,7 @@ A: Yes.
 ^(Source - FB Post - Chad Daniel - UDE Approved)
 
 # [Eugene Victor Tooms (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-046.jpg)
-^CardNumber: ^XFB-046, XFB-047
+^CardNumber: ^XFB-046, ^XFB-047
 
 *Set: The X-Files Battles*
 
@@ -1608,7 +1608,7 @@ A: This **Thing is Huge! It's... It's Big!** does not actually modify the ATK. I
 ^(Source - FB Post - Chad Daniel)
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
-^CardNumber: ^MFM-005, MFM-006
+^CardNumber: ^MFM-005, ^MFM-006
 
 *Set: Deadpool & Friends* 
   
@@ -1676,7 +1676,7 @@ Example: You want to use the Falconer Supporting Character’s **Bait and Switch
 ^(Source: Rule insert)
 
 # [Falconer](http://vs.tcgbrowser.com/images/cards/big/PRD-001.jpg) (MC) 
-^CardNumber: ^PRD-001, PRD-002
+^CardNumber: ^PRD-001, ^PRD-002
 
 *Set: The Predator Battles*  
 
@@ -1750,7 +1750,7 @@ Attacking a machine is a special type of attack declaration that can only be don
 ^(Source: Official Clarification)
 
 # [The First Evil](http://vs.tcgbrowser.com/images/cards/big/TBB-034.jpg) (MC) 
-^CardNumber: ^TBB-034, TBB-035
+^CardNumber: ^TBB-034, ^TBB-035
 
 *Set: The Buffy Battles*  
 
@@ -1775,7 +1775,7 @@ Note that Forge's card number starts with "NEW" instead of "DAR". This is so tha
 ^(Source: Rule Insert)
 
 # [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
-^CardNumber: ^XFB-0003, XFB-004
+^CardNumber: ^XFB-0003, ^XFB-004
 
 *Set: The X-Files Battles*
 
@@ -1825,7 +1825,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 ^(Source: Rule insert)
 
 # [Frohike](http://vs.tcgbrowser.com/images/cards/big/XFB-007.jpg), [Langly](http://vs.tcgbrowser.com/images/cards/big/XFB-008.jpg), and [Byers](http://vs.tcgbrowser.com/images/cards/big/XFB-009.jpg)
-^CardNumber: ^XFB-007, XFB-008, XFB-009
+^CardNumber: ^XFB-007, ^XFB-008, ^XFB-009
 
 *Set: The X-Files Battles*
 
@@ -1856,7 +1856,7 @@ This Plot Twist can allow you to add an attacker to your attack. The attacker mu
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
-^CardNumber: ^RES-003, RES-004
+^CardNumber: ^RES-003, ^RES-004
 
 *Set: Resistance*  
 
@@ -1890,7 +1890,7 @@ A: No. There must be a face-up enemy supporting character in play.
 ^(Source: UDE FAQ)
 
 # [Gamora](http://vs.tcgbrowser.com/images/cards/big/mnb-057.jpg) (MC)
-^CardNumber: ^MNB-057, MNB-058
+^CardNumber: ^MNB-057, ^MNB-058
 
 *Set: The Marvel Battles*
 
@@ -1918,7 +1918,7 @@ A: Yes.
 ^(Source: Rule insert)
 
 # [Ghost (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU5-009.jpg)
-^CardNumber: ^MCU5-008, MCU5-009
+^CardNumber: ^MCU5-008, ^MCU5-009
 
 *Set: Mind & Soul*  
 
@@ -1927,7 +1927,7 @@ A: Yes.
 ^(Source: Rule insert)
 
 # [Ghost Rider](http://vs.tcgbrowser.com/images/cards/big/def-006.jpg) (MC)
-^CardNumber: ^DEF-005, DEF-006
+^CardNumber: ^DEF-005, ^DEF-006
 
 *Set: Defenders*
 
@@ -1938,7 +1938,7 @@ A: No, defense is never chipped away in this game.
 ^(Source: FB Post - UDE Approved)
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
-^CardNumber: ^WEB-003, WEB-004
+^CardNumber: ^WEB-003, ^WEB-004
 
 *Set: Webheads*  
 
@@ -2036,7 +2036,7 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 
 # The Grandmaster
 ## [The Grandmaster - Illustrated MC](http://vs.tcgbrowser.com/images/cards/big/CV3-005.jpg)
-^CardNumber: ^CV3-005, CV3-006
+^CardNumber: ^CV3-005, ^CV3-006
 
 *Set: Crossover Vol. 3*
 
@@ -2051,7 +2051,7 @@ If more than one player has the Grandmaster as their main character, they will e
 ^(Source: Rule Insert)
 
 ## [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg) - MCU SC
-^CardNumber: ^MCU6-001, MCU6-002
+^CardNumber: ^MCU6-001, ^MCU6-002
 
 *Set: Space & Time*  
 
@@ -2073,7 +2073,7 @@ Goblin’s **Bag of Tricks** allows you to discard Locations to make him more po
 ^(Source: Rule insert)
 
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/mnb-079.jpg) (MC - Super Villains)
-^CardNumber: ^MNB-079, MNB-080, LEG-028, LEG-029
+^CardNumber: ^MNB-079, ^MNB-080, ^LEG-028, ^LEG-029
 
 *Set: The Marvel Battles* 
 
@@ -2121,7 +2121,7 @@ A: It does not leave play when it is unequipped. It is equipped to the new chara
 
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
-^CardNumber: ^MNB-059, MNB-060, LEG-021, LEG-022
+^CardNumber: ^MNB-059, ^MNB-060, LEG-021, LEG-022
 
 *Set: The Marvel Battles*
 
@@ -3128,11 +3128,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDczNDYwNDgsMjA0Njg5MTgxOCw2Mj
-U2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIy
-MjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLT
-UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
-NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
-I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
-NDYyOV19
+eyJoaXN0b3J5IjpbMTEwODc3MjMzNiwyMDQ2ODkxODE4LDYyNT
+Y2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIy
+Miw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNT
+MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
+MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
+gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
+NjI5XX0=
 -->
