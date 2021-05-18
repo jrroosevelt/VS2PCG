@@ -60,7 +60,7 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 ^(Source: Rule insert)
 
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
-^CardNumber: ^Fut-023
+^CardNumber: ^FUT-023
 
 *Set: Futures Past*
 
@@ -97,7 +97,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 
 # Alex Krycek
 ## [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
-^CardNumber: ^XFB-022, XFB-023
+^CardNumber: ^XFB-022, ^XFB-023
 
 *Set: The X-Files Battles*
 
@@ -148,7 +148,7 @@ If a character references itself in its text box, those references will also use
 
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
-^CardNumber: ^RES-001, RES-002
+^CardNumber: ^RES-001, ^RES-002
 
 *Set: Resistance*  
 
@@ -157,7 +157,7 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 ^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
-^CardNumber: ^TBB-001, TBB-028
+^CardNumber: ^TBB-001, ^TBB-028
 
 *Set: The Buffy Battles*  
 
@@ -177,7 +177,7 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 ^(Source: Rule insert)
 
 # [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
-^CardNumber: ^FRI-001, FRI-002
+^CardNumber: ^FRI-001, ^FRI-002
 
 *Set: The Frightful*
 
@@ -233,7 +233,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 # Arnim Zola
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
-^CardNumber: ^CV1-001, CV1-002
+^CardNumber: ^CV1-001, ^CV1-002
 
 *Set: Crossover* 
  
@@ -298,7 +298,7 @@ If there are no other face-up characters in play, Awesome Android's ATK/DEF beco
 ^(Source: Rule insert)
 
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
-^CardNumber: ^DEF-048, DEF-049
+^CardNumber: ^DEF-048, ^DEF-049
 
 *Set: Legacy*  
 
@@ -385,7 +385,7 @@ The X-Jet has up to four effects depending on how many passengers it has. For ex
 ^(Source: Rule Insert)
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
-^CardNumber: ^MMU-037, MMU-038
+^CardNumber: ^MMU-037, ^MMU-038
 
 *Set: Monsters Unleashed!*  
 
@@ -403,7 +403,7 @@ A: If you are attacking, yes. Lethal only activates when attacking and when you 
 
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
-^CardNumber: ^AFF-027, AFF-028
+^CardNumber: ^AFF-027, ^AFF-028
 
 *Set: A-Force*
 
@@ -447,7 +447,7 @@ You can only equip this to an enemy Supporting Character. Then during your Draw 
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
-^CardNumber: ^COS-001, COS-002
+^CardNumber: ^COS-001, ^COS-002
 
 *Set: Cosmic Avengers*  
 
@@ -456,7 +456,7 @@ For Black Panther's **Passing Down the Knowledge**, whenever more than one card 
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
-^CardNumber: ^MCU2-003, MCU2-004
+^CardNumber: ^MCU2-003, ^MCU2-004
 
 *Set: MCU Heroes*  
 
@@ -502,7 +502,7 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
-^CardNumber: ^CV1-003, CV1-004
+^CardNumber: ^CV1-003, ^CV1-004
 
 *Set: Crossover*  
 
@@ -584,7 +584,7 @@ If you choose one frozen and one exhausted character, only the exhausted charact
 
 # Bruce Banner
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
-^CardNumber: ^MCU1-003, MCU1-004
+^CardNumber: ^MCU1-003, ^MCU1-004
 
 *Set: The MCU Battles*  
 
@@ -602,7 +602,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 # [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-003.jpg) / [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/MCU4-002.jpg)
-^CardNumber: ^MCU4-001, MCU4-002, MCU4-003
+^CardNumber: ^MCU4-001, ^MCU4-002, ^MCU4-003
 
 *Set: Power & Reality*  
 
@@ -614,7 +614,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 
 # [Buffy](http://vs.tcgbrowser.com/images/cards/big/TBB-003.jpg) (MC) 
-^CardNumber: ^TBB-003, TBB-004
+^CardNumber: ^TBB-003, ^TBB-004
 
 *Set: The Buffy Battles*  
 
@@ -3128,11 +3128,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTE2NDQ3NiwyMDQ2ODkxODE4LDYyNT
-Y2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIy
-Miw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNT
-MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
-MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
-gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
-NjI5XX0=
+eyJoaXN0b3J5IjpbNjM0OTkwMjAyLDIwNDY4OTE4MTgsNjI1Nj
+YzNjQ5LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIy
+LDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01Mz
+A3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQw
+LDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyOD
+I1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2
+MjldfQ==
 -->
