@@ -2487,6 +2487,8 @@ Talos's **Pragmatist** power affects all characters on your side, regardless of 
 ^(Source: Rule insert)
 
 # [Taskmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-051.jpg)
+^CardNumber: LEG-051
+
 *Set: Legacy*
 
 Q: What happens if I recruit Taskmaster while my opponent has Onslaught in play?
@@ -2528,6 +2530,8 @@ A: Yes. Powers are active before the character appears (see official rules). Tas
 ^(Also referenced indirectly in a number of Facebook posts.)
 
 # [Terrax](http://vs.tcgbrowser.com/images/cards/big/FRI-016.jpg)
+^CardNumber: FRI-016
+
 *Set: The Frightful*
 
 If **Cosmic Geokinesis** moves all +1/+1 counters onto a  character that has any -1/-1 counters, first doulbe the +1/+1 counters, then remove the required amount due to the -1/-1 counters.
@@ -2535,6 +2539,8 @@ If **Cosmic Geokinesis** moves all +1/+1 counters onto a  character that has any
 ^(Source: Rule insert)
 
 # [Terrigen Mist](http://vs.tcgbrowser.com/images/cards/small/CV2-020.jpg)
+^CardNumber: CV2-020
+
 *Set: Crossover vol. 2*  
 
 Terrigen Mist puts +1/+1 counters on each character on your side, including ones that are already exhausted.
@@ -2543,6 +2549,8 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 
 # Thanos
 ## [Thanos (MC - MCU Villains)](http://vs.tcgbrowser.com/images/cards/big/MCU6-009.jpg)
+^CardNumber: MCU6-009, MCU6-010
+
 *Set: Space & Time*  
 
 This issue adds a new Level 2 and Level 3 Thanos to the MCU. Now when your Level 1 Thanos levels up with **Fine. I'll Do It Myself.** you can choose which Level 2 version he becomes. If you choose the new version, he can now level up a second time to his level 3.
@@ -3021,11 +3029,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1Mj
-E1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2
-MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LD
-E5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5
-OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOS
-wxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMy
-MzUzODg1MV19
+eyJoaXN0b3J5IjpbLTE2NDY0NjQwMTEsOTUwNDM5OTIxLC0xMj
+c4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3
+MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNi
+wtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0
+NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNT
+AzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEw
+NzQzMTQ1OTFdfQ==
 -->
