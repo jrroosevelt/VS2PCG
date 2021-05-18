@@ -57,7 +57,7 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 # Magneto
 ## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC - Super Villains)
-^CardNumber: ^MNB-083, MNB-084
+^CardNumber: ^MNB-083, ^MNB-084
 
 *Set: The Marvel Battles*
 
@@ -68,7 +68,7 @@ A: Yes
 ^(Source: UDE FAQ)
 
 ## [Magneto](http://vs.tcgbrowser.com/images/cards/big/BOM-005.jpg) (MC - Brotherhood)
-^CardNumber: ^BOM-003, BOM-004, BOM-005
+^CardNumber: ^BOM-003, ^BOM-004, ^BOM-005
 
 *Set: Brotherhood of Mutants*  
 
@@ -368,7 +368,7 @@ See [Nova Corps](#wiki_nova_corps)
 ^(Source: Rule insert)
 
 # [Mimic](http://vs.tcgbrowser.com/images/cards/big/HAM-005.jpg) (MC)
-^CardNumber: ^HAM-005, HAM-006, HAM-007
+^CardNumber: ^HAM-005, ^HAM-006, ^HAM-007
 
 *Set: H.A.M.M.E.R.*  
 
@@ -465,7 +465,7 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 ^(Source: Rule insert)
 
 # [Mole Man](http://vs.tcgbrowser.com/images/cards/big/FAN-033.jpg) (MC)
-^CardNumber: ^FAN-033, FAN-044
+^CardNumber: ^FAN-033, ^FAN-044
 
 *Set: The Fantastic Battles*  
 
@@ -476,7 +476,7 @@ If he is beneath a Location and it gets turned face down (including by being use
 ^(Source: Rule insert)
 
 # [Moloid](http://vs.tcgbrowser.com/images/cards/big/FAN-056.jpg)
-^CardNumber: ^FAN-033, FAN-044
+^CardNumber: ^FAN-033, ^FAN-044
 
 *Set: The Fantastic Battles*
 
@@ -487,7 +487,7 @@ A: Though it's not totally clear, "that" refers to the opponent against whom you
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3136234033078788/))
 
 # [Moon Girl](http://vs.tcgbrowser.com/images/cards/big/MMU-054.jpg)
-^CardNumber: ^MMU-045, MMU-046, MMU-054
+^CardNumber: ^MMU-045, ^MMU-046, ^MMU-054
 
 *Set: Monsters Unleashed!*  
 
@@ -542,7 +542,7 @@ The Darkhold is an equipment found in the 2017 S.H.I.E.L.D. vs. Hydra Issue.
 ^(Source: Rule Insert)
 
 # [Morbius (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-005.jpg)
-^CardNumber: ^DAR-005, DAR-006
+^CardNumber: ^DAR-005, ^DAR-006
 
 *Set: Into the Darkness*
 
@@ -561,7 +561,7 @@ Morgan le Fay’s super power counts how many times you’ve used a power named 
 ^(Source: Rule insert)
 
 # [Mr. Black](http://vs.tcgbrowser.com/images/cards/big/PRD-008.jpg) (MC)
-^CardNumber: ^PRD-007, PRD-008
+^CardNumber: ^PRD-007, ^PRD-008
 
 *Set: The Predator Battles*  
 
@@ -605,7 +605,7 @@ This Plot Twist will stop "recruit" and "appears" powers.
 
 # Mysterio
 ## [Mysterio ](http://vs.tcgbrowser.com/images/cards/big/MCU7-001.jpg) (MC-MCU Villains)
-^CardNumber: ^MCU7-001, MCU7-002
+^CardNumber: ^MCU7-001, ^MCU7-002
 
 *Set: Friendly Neighborhood*  
 
@@ -646,7 +646,7 @@ Plot twists without team affiliations can be played  regardless of the team affi
 
 # Mystique
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - Femme Fatale)
-^CardNumber: ^AFF-033,LEG-066, LEG-067
+^CardNumber: ^AFF-033, ^LEG-066, ^LEG-067
 
 *Set: Legacy*  
 
@@ -702,7 +702,7 @@ A: Mystique matches power including all modifiers, so she’d gain 7 attack. It 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/permalink/3135436483158543))
 
 ## [Mystique (MC - Brotherhood)](http://vs.tcgbrowser.com/images/cards/big/FRE-003.jpg)
-^CardNumber: ^FRE-003, FRE-004
+^CardNumber: ^FRE-003, ^FRE-004
 
 *Set: Freedom Force*
 **Paint with a Broad Brush** won't give Mystique XP for recruiting Brotherhood characters since she has that affiliation and is on your side.
@@ -741,7 +741,7 @@ A: Apply the +1/+1s after her stats change. For example, let’s say she has two
 ^(Source: UDE FAQ)
 
 # [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
-^CardNumber: ^DFX-005, DFX-006, DFX-007
+^CardNumber: ^DFX-005, ^DFX-006, ^DFX-007
 
 *Set: The New Defenders*  
 
@@ -758,7 +758,7 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 
 # Nebula
 ## [Nebula](http://vs.tcgbrowser.com/images/cards/big/BLK-003.jpg) (MC)
-^CardNumber: ^BLK-003, BLK-004
+^CardNumber: ^BLK-003, ^BLK-004
 
 *Set: Black Order*  
 
@@ -843,7 +843,7 @@ The New Mutants are a part of the (X-Men) team. However, there are certain effec
 
 # Nick Fury
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC-Illustrated)
-^CardNumber: ^SVH-033, SVH-034
+^CardNumber: ^SVH-033, ^SVH-034
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -853,7 +853,7 @@ Nick Fury has a Super Power which keeps him alive. But once you use the power th
 ^(Source: Rule insert)
 
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/MCU4-008.jpg) (MC-MCU)
-^CardNumber: ^MCU4-008, MCU4-009
+^CardNumber: ^MCU4-008, ^MCU4-009
 
 *Set: Power & Reality*  
 
@@ -895,7 +895,7 @@ A: No. The act of stunning does not remove -1/-1 counters from opposing characte
 ^(Source: Rule insert)
 
 # [Nimrod (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-007.jpg)
-^CardNumber: ^FUT-007, FUT-008
+^CardNumber: ^FUT-007, ^FUT-008
 
 *Set: Futures Past*
 
@@ -906,7 +906,7 @@ With his **Enemy Power Analysis**, if the attacker has more than one of the list
 ^(Source: Rule Insert)
 
 # [Norman Osborn](http://vs.tcgbrowser.com/images/cards/big/TUB-032.jpg) (MC)
-^CardNumber: ^TUB-031, TUB-032
+^CardNumber: ^TUB-031, ^TUB-032
  
 *Set: The Utopia Battles*  
 
@@ -3112,11 +3112,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMD
-k0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1
-ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1NjA0LC
-0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTEx
-MzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQyOTkzOD
-Q5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUz
-ODAyMTMyMl19
+eyJoaXN0b3J5IjpbLTM4MjQwOTA2OCwxNjYyMTkzNjY0LDIwND
+M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
+MTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLT
+IxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYw
+ODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3Mj
+YwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5
+NTgzMTczOV19
 -->
