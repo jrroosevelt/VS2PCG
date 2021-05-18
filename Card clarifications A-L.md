@@ -36,7 +36,7 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 ^(Source: Rule insert)
 
 # [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
-^CardNumber:GAL-001, GAL-002
+^CardNumber: GAL-001, GAL-002
 
 *Set: Galactic Guardians* 
  
@@ -52,7 +52,7 @@ A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing wit
 ^(Source: UDE FAQ - UDE Approved 6/10/2016)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
-^CardNumber:FAN-013
+^CardNumber: FAN-013
 
 *Set: The Fantastic Battles*  
 
@@ -61,7 +61,7 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 ^(Source: Rule insert)
 
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
-^CardNumber:Fut-023
+^CardNumber: Fut-023
 
 *Set: Futures Past*
 
@@ -70,7 +70,7 @@ You start the game with a private out-of-game Hound pile. The pile must contain 
 ^(Source: Rule Insert)
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
-^CardNumber:MFM-012
+^CardNumber: MFM-012
 
 *Set: Deadpool & Friends*  
 
@@ -87,7 +87,7 @@ A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Tras
 ^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
-^CardNumber:HAM-019
+^CardNumber: HAM-019
 
 *Set: H.A.M.M.E.R.*  
 
@@ -98,7 +98,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 
 # Alex Krycek
 ## [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
-^CardNumber:XFB-022, XFB-023
+^CardNumber: XFB-022, XFB-023
 
 *Set: The X-Files Battles*
 
@@ -107,7 +107,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule Insert)
 
 ## [Alex Krycek (SC)](http://vs.tcgbrowser.com/images/cards/big/XFB-033.jpg)
-^CardNumber:XFB-033
+^CardNumber: XFB-033
 
 *Set: The X-Files Battles*
 
@@ -116,7 +116,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule Insert)
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
-^CardNumber:FAN-009
+^CardNumber: FAN-009
 
 *Set: The Fantastic Battles*  
 
@@ -125,7 +125,7 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 ^(Source: Rule insert)
 
 # [Alien Symbiote](http://vs.tcgbrowser.com/images/cards/big/SPF-021.jpg)
-^CardNumber:SPF-021
+^CardNumber: SPF-021
 
 *Set: Spider Friends*
 
@@ -134,7 +134,7 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
 # [Alter Ego](http://vs.tcgbrowser.com/images/cards/big/MCU7-019.jpg)
-^CardNumber:MCU7-019
+^CardNumber: MCU7-019
 
 *Set: Friendly Neighborhood*  
 
@@ -149,7 +149,7 @@ If a character references itself in its text box, those references will also use
 
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
-^CardNumber:RES-001, RES-002
+^CardNumber: RES-001, RES-002
 
 *Set: Resistance*  
 
@@ -158,7 +158,7 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 ^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
-^CardNumber:TBB-001, TBB-028
+^CardNumber: TBB-001, TBB-028
 
 *Set: The Buffy Battles*  
 
@@ -167,7 +167,7 @@ Level 1 Angel and Angelus can transform between each other. However, when you bu
 ^(Source: Rule insert)
 
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
-^CardNumber:GAL-015
+^CardNumber: GAL-015
 
 *Set: Galactic Guardians*  
 
@@ -178,7 +178,7 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 ^(Source: Rule insert)
 
 # [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
-^CardNumber:FRI-001, FRI-002
+^CardNumber: FRI-001, FRI-002
 
 *Set: The Frightful*
 
@@ -192,7 +192,7 @@ When Annihilus levels up, you'll shuffle his Level 1 card into your deck. While 
 
 
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
-^CardNumber:TBB-018
+^CardNumber: TBB-018
 
 *Set: The Buffy Battles*
 
@@ -201,7 +201,7 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 # [Archangel](http://vs.tcgbrowser.com/images/cards/big/RES-002.jpg)
-^CardNumber:RES-002
+^CardNumber: RES-002
 
 *Set: Resistance*  
 
@@ -210,7 +210,7 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 # [Ardina](http://vs.tcgbrowser.com/images/cards/big/HER-008.jpg)
-^CardNumber:HER-008
+^CardNumber: HER-008
 
 *Set: The Herald*  
 
@@ -224,7 +224,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg)
-^CardNumber:TUB-018
+^CardNumber: TUB-018
  
 *Set: The Utopia Battles*  
 
@@ -234,7 +234,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 # Arnim Zola
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
-^CardNumber:CV1-001, CV1-002
+^CardNumber: CV1-001, CV1-002
 
 *Set: Crossover* 
  
@@ -245,7 +245,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 ^(Source: Rule insert)
 
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/MCU4-017.jpg) (SC-MCU Villains)
-^CardNumber:MCU4-017
+^CardNumber: MCU4-017
 
 *Set: Power & Reality*  
 
@@ -256,7 +256,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 ^(Source: Rule insert)
 
 # [Astra](http://vs.tcgbrowser.com/images/cards/big/FRE-011.jpg)
-^CardNumber:FRE-011
+^CardNumber: FRE-011
 
 *Set: Freedom Force*
 
@@ -264,7 +264,7 @@ To create a **Clone** put a token copy of the chosen character onto your side. T
 
 # Avalanche
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/BOM-009.jpg) (Brotherhood)
-^CardNumber:BOM-009
+^CardNumber: BOM-009
 
 *Set: Brotherhood of Mutants*  
 
@@ -273,7 +273,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 ^(Source: Rule insert)
 
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/TUB-022.jpg) (Resistance)
-^CardNumber:TUB-022
+^CardNumber: TUB-022
 
 *Set: The Utopia Battles*  
 
@@ -290,7 +290,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 ^(Source: Rule insert)
 
 # [Awesome Android](http://vs.tcgbrowser.com/images/cards/big/FAN-042.jpg)
-^CardNumber:FAN-042
+^CardNumber: FAN-042
 
 *Set: The Fantastic Battles*  
 
@@ -299,7 +299,7 @@ If there are no other face-up characters in play, Awesome Android's ATK/DEF beco
 ^(Source: Rule insert)
 
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
-^CardNumber:DEF-048, DEF-049
+^CardNumber: DEF-048, DEF-049
 
 *Set: Legacy*  
 
@@ -322,7 +322,7 @@ A: No, Hypnotize creates a modifier with an expiration that temporarily makes a 
 ^(Source: FB Post - Kirk - confirmed by Chad)
 
 # [Baron von Strucker](http://vs.tcgbrowser.com/images/cards/big/MCU4-013.jpg) (SC-MCU Villains)
-^CardNumber:MCU4-013
+^CardNumber: MCU4-013
 
 *Set: Power & Reality*  
 
@@ -333,7 +333,7 @@ To resolve the **Age of Miracles**, first choose a Supporting Character with 1 p
 ^(Source: Rule insert)
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
-^CardNumber:DFX-010
+^CardNumber: DFX-010
 
 *Set: The New Defenders*  
 
@@ -342,7 +342,7 @@ Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
 ^(Source: Rule insert)
 
 # [Beetle](http://vs.tcgbrowser.com/images/cards/big/SFO-004.jpg)
-^CardNumber:SFO-004
+^CardNumber: SFO-004
 
 *Set: Spidey-Foes* 
 
@@ -352,7 +352,7 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 
 # \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
-^CardNumber:LEG-015
+^CardNumber: LEG-015
 
 *Set: Legacy*  
 
@@ -362,7 +362,7 @@ This power refers to ![](%%Energy%%) (Energy) super powers .This counts for any 
 ^(Source: Rule insert)
 
 # [Blackbird](http://vs.tcgbrowser.com/images/cards/big/DAR-017.jpg)
-^CardNumber:DAR-017
+^CardNumber: DAR-017
 
 *Set: Into the Darkness*
 
@@ -386,7 +386,7 @@ The X-Jet has up to four effects depending on how many passengers it has. For ex
 ^(Source: Rule Insert)
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
-^CardNumber:MMU-037, MMU-038
+^CardNumber: MMU-037, MMU-038
 
 *Set: Monsters Unleashed!*  
 
@@ -404,7 +404,7 @@ A: If you are attacking, yes. Lethal only activates when attacking and when you 
 
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
-^CardNumber:AFF-027, AFF-028
+^CardNumber: AFF-027, AFF-028
 
 *Set: A-Force*
 
@@ -415,7 +415,8 @@ A: Daze counts as stunning, but Lethal was changed to work when a wounding a def
 ^(Source: FB Post - Chad Daniel)
 
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
-^CardNumber:SPF-012
+^CardNumber: SPF-012
+
 *Set: Spider-Friends*  
 
 **Personal Loyalty**  
@@ -424,7 +425,7 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 ^(Source: Rule insert)
 
 # [Blackheart](http://vs.tcgbrowser.com/images/cards/big/def-048.jpg)
-^CardNumber:DEF-048
+^CardNumber: DEF-048
 
 *Set: Defenders*
 
@@ -435,7 +436,7 @@ A: Even the Odds creates a modifier that overrides or suppresses any other modif
 ^(Source: FB Post - Community)
 
 # [Black Oil](http://vs.tcgbrowser.com/images/cards/big/XFB-036.jpg)
-^CardNumber:XFB-036
+^CardNumber: XFB-036
 
 *Set: The X-Files Battles*
 
@@ -447,7 +448,7 @@ You can only equip this to an enemy Supporting Character. Then during your Draw 
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
-^CardNumber:COS-001, COS-002
+^CardNumber: COS-001, COS-002
 
 *Set: Cosmic Avengers*  
 
@@ -456,7 +457,7 @@ For Black Panther's **Passing Down the Knowledge**, whenever more than one card 
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
-^CardNumber:MCU2-003, MCU2-004
+^CardNumber: MCU2-003, MCU2-004
 
 *Set: MCU Heroes*  
 
@@ -3128,11 +3129,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjYwNzc3OCw2MjU2NjM2NDksLTgwOD
-AwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1
-LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
-c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
-LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOT
-kxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTky
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTY0MDk2MzQsNjI1NjYzNjQ5LC04MD
+gwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3
+NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNz
+M3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQz
+NSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMz
+k5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5
+MjEyXX0=
 -->
