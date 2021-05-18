@@ -2792,7 +2792,7 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 
 # Valkyrie
 ## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/MCU5-017.jpg) (MC - MCU Heroes)
-^CardNumber: ^MCU5-016, MCU5-017
+^CardNumber: ^MCU5-016, ^MCU5-017
 
 *Set: Mind & Soul*  
 
@@ -2826,7 +2826,7 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 ^(Source: Rule insert)
 
 ## [Venom](http://vs.tcgbrowser.com/images/cards/big/def-031.jpg) (MC - Underworld)
-^CardNumber: ^DEF-031, DEF-032
+^CardNumber: ^DEF-031, ^DEF-032
 
 *Set: The Defenders*
 
@@ -2873,7 +2873,7 @@ While Vulture is attacking a character without ![](%%Flight%%) that is also in i
 See [Global Information Network](#wiki_global_information_network)
 
 # [Weapon Omega](http://vs.tcgbrowser.com/images/cards/big/TUB-035.jpg) (MC)
-^CardNumber: ^TUB-035, TUB-036
+^CardNumber: ^TUB-035, ^TUB-036
  
 *Set: The Utopia Battles*  
 
@@ -2909,7 +2909,7 @@ If Willow gets KO’d or otherwise is no longer on your side, you won’t be abl
 ^(Source: Rule insert)
 
 # [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/def-033.jpg) (MC)
-^CardNumber: ^DEF-033, DEF-034
+^CardNumber: ^DEF-033, ^DEF-034
 
 *Set: The Defenders* 
 
@@ -2945,7 +2945,7 @@ A: Modifiers do not track characters that leave play unless the rules or card te
 
 
 # [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
-^CardNumber: ^FAN-037, FAN-038
+^CardNumber: ^FAN-037, ^FAN-038
 
 *Set: The Fantastic Battles*  
 
@@ -2984,7 +2984,7 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 ^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
 
 # [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
-^CardNumber: ^MNB-029, MNB-030, LEG-012, LEG-013
+^CardNumber: ^MNB-029, ^MNB-030, ^LEG-012, ^LEG-013
 
 *Set: The Marvel Battles*
 
@@ -3112,11 +3112,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDQ4ODI5NCwxNjYyMTkzNjY0LDIwND
-M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
-MTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLT
-IxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYw
-ODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3Mj
-YwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5
-NTgzMTczOV19
+eyJoaXN0b3J5IjpbNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOT
+M5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0
+OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMT
+A1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgy
+NzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MC
+wtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4
+MzE3MzldfQ==
 -->
