@@ -2433,7 +2433,7 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 ^(Source: Official clarification)
 
 # [Surtur](http://vs.tcgbrowser.com/images/cards/small/MCU6-019.jpg)
-^CardNumber: MNB-027, MNB-028
+^CardNumber: MCU6-019
 
 *Set: Space & Time*  
 
@@ -2444,6 +2444,8 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 ^(Source: Rule insert)
 
 # [Sweet](http://vs.tcgbrowser.com/images/cards/big/TBB-047.jpg)
+^CardNumber: TBB-047
+
 *Set: The Buffy Battles*  
 
 **That’s Entertainment** moves each face-up character to their front row and has them perform a Musical Number. There is no official definition of what counts as a Musical Number. We recommend rocking the cards back and forth and having them sing a song. (Although if The Gentlemen are in play, no singing is allowed.)
@@ -2451,6 +2453,8 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 ^(Source: Rule insert)
 
 # [The Syndicate](http://vs.tcgbrowser.com/images/cards/big/XFB-042.jpg)
+^CardNumber: XFB-042
+
 *Set: The X-Files Battles*
 
 This Location is the only way to generate an Alien ![](%%Alien%%) power symbol for a Syndicate character. There are currently no basic Alien ![](%%Alien%%) Locations in the Photographic Universe.
@@ -2459,6 +2463,8 @@ This Location is the only way to generate an Alien ![](%%Alien%%) power symbol f
 
 # Talos
 ## [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
+^CardNumber: MCU6-007, 
+
 *Set: Space & Time*  
 
 The Photographic Universe includes all cards with photographic artwork. Currently this includes four teams: MCU Heroes, MCU Villains, Scoobies, Forces of Darkness. But I want to believe there will be more out there soon!
@@ -3013,11 +3019,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MDk1MTgzLC0xMjc4MjgxMTQ5LDE1Mj
-E1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2
-MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LD
-E5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5
-OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOS
-wxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMy
-MzUzODg1MV19
+eyJoaXN0b3J5IjpbMjA2MDYxNTI3OSwtMTI3ODI4MTE0OSwxNT
+IxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1
+NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NS
+wxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQy
+OTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3Mz
+ksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0z
+MjM1Mzg4NTFdfQ==
 -->
