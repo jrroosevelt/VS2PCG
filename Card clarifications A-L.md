@@ -2451,7 +2451,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
-^CardNumber: BLK-018, BLK-019, BLK-020, BLK-021, BLK-022, BLK-023
+^CardNumber: BLK-018, BLK-019, BLK-020, BLK-021, BLK-023
 
 *Set: Black Order*  
 
@@ -2459,6 +2459,11 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 Each of the six Infinity Gems has an "Owned by..." power which lets you play it for free on the appropriate character. For example, The Mind Gem can be played for free on The Grandmaster. You may notice that some of these powers refer to characters that aren't yet part of the game. Weird, right?
 
 ^(Source: Rule insert)
+
+---
+
+See also:
+- The Sp
 
 # [Inhibitor Collar](http://vs.tcgbrowser.com/images/cards/big/FUT-026.jpg)
 ^CardNumber: FUT-026
@@ -3122,11 +3127,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NjYzNjQ5LC04MDgwMDY4MjgsLTE2OT
-gxNDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5
-LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0Mz
-M2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1
-OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4Mzg0LC01Nj
-M3Njg1NjgsLTExMDkzMDQ2MjksNzUzODE5MjEyLC02NDQ5MDY0
-OV19
+eyJoaXN0b3J5IjpbMTA3MjkwMjk3MSw2MjU2NjM2NDksLTgwOD
+AwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1
+LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
+c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
+LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOT
+kxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTky
+MTJdfQ==
 -->
