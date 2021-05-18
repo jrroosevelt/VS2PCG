@@ -2273,6 +2273,8 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 ^(Source: Rule insert)
 
 # [Star Hawk](http://vs.tcgbrowser.com/images/cards/big/GAL-012.jpg)
+^CardNumber: GAL-012
+
 *Set: Galactic Guardians*  
 
 At one point Starhawk was actually two beings merged together who took turns occupying the same space. The Starhawk card from way back in the Vs. System 2PCG: Legacy expansion represents Stakar Ogord, but this card brings Aleta Ogord to the fore. Because they share the same body, you cant have both Starhawks in play at the same time. However, Aleta's **Composite Being** grants **Bond with Starhawk** to any Stakar Starhawks in your hand.
@@ -2281,6 +2283,8 @@ At one point Starhawk was actually two beings merged together who took turns occ
 
 # Star Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
+^CardNumber: MCU1-007, MCU1-008
+
 *Set: The MCU Battles*  
 
 **Dance Off, Bro**  
@@ -2289,6 +2293,8 @@ Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance O
 ^(Source: Rule insert)
 
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
+^CardNumber: MCU1-019
+
 *Set: The MCU Battles*  
 
 Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
@@ -2296,6 +2302,8 @@ Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as
 ^(Source: Rule insert)
 
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
+^CardNumber: MNB-056
+
 *Set: Marvel Battles*
 
 Q: Does **Space Cop** affect Level Up powers? How about ![](%%Flight%%)and ![](%%Range%%)?
@@ -2305,6 +2313,8 @@ A: Yes to all the above.
 ^(Source: UDE FAQ)
 
 # \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
+^CardNumber: GAL-006
+
 *Set: Galactic Guardians*  
 
 Kitty Pryde becomes Star-Lord when the original Star-Lord is otherwise employed. So she has *s around her name, meaning she shares the "mantle" with Star-Lord, himself. The sharing of the mantle means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of the uniqueness rules and they can't power each other up.
@@ -2321,6 +2331,8 @@ Her **Intangibility** power lets her strike characters while they're in a player
 
 # Storm
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/mnb-027.jpg) (MC)
+^CardNumber: MNB-02
+
 *Set: The Marvel Battles*
 
 Q: With her “Lightning Storm” power, can I put both -1/-1 counters on the same enemy character?
@@ -2985,11 +2997,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxOD
-QzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkx
-MTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LD
-E5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5
-MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMi
-wtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1
-NDM0MTg2XX0=
+eyJoaXN0b3J5IjpbMzU2NjYwMzIzLDE1MjE1MTU4MywxMzg4OT
+I1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5
+MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMT
+Y2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUz
+MDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC
+0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgw
+NDYwODNdfQ==
 -->
