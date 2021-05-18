@@ -2802,7 +2802,7 @@ If **The Famed Sword of the Valkyrie** is used to remove an enemy Main Character
 ^(Source: Rule insert)
 
 ## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg) (SC)
-^CardNumber: MCU5-016, MCU5-017
+^CardNumber: DEF-020
 
 *Set: The Defenders*
 
@@ -2814,6 +2814,8 @@ A: Yes. Valerie doesn't allow you to play from KO pile for free. It specifically
 
 # Venom
 ## [Venom](http://vs.tcgbrowser.com/images/cards/big/CV1-010.jpg) (MC - Sinister Six)
+^CardNumber: CV1-010
+
 *Set: Crossover*  
 
 The Sinister Six have gained two new Main Characters to choose from. Remember, when you build a **Sinister Six** deck, you choose any six Sinister Six characters to go with that deck.
@@ -2823,6 +2825,9 @@ Venom’s **Relentless Bond** will put a +1/+1 counter on him whether or not he�
 ^(Source: Rule insert)
 
 ## [Venom](http://vs.tcgbrowser.com/images/cards/big/def-031.jpg) (MC - Underworld)
+^CardNumber: DEF-031, DEF-032
+
+*Set: The Defenders*
 
 Q: Does removing -1/-1 counters from Venom (via power up, Fair and Balanced, etc) count towards his Growing Bond level up ability?
 
@@ -2831,6 +2836,8 @@ A: The ways you mentioned do not "remove -1/-1" they add +1/+1 counters to a cha
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Viper](http://vs.tcgbrowser.com/images/cards/big/aff-044.jpg)
+^CardNumber: AFF-044
+
 *Set: A-Force* 
 
 Q: If I have Viper on my side and play [Mister M](http://vs.tcgbrowser.com/images/cards/big/OGA-012.jpg), choosing **Succumb to Poison** for his **Power Augmentation** ability, does Viper effectively quadruple the number of -1/-1 counters at the end of the turn? Or do the doubling effects happen simultaneously and effectively do nothing additional?
@@ -2840,6 +2847,8 @@ A: You get double twice (effectively quadruple).
 ^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/826988069550030849)
 
 # [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
+^CardNumber: PRD-023
+
 *Set: The Predator Battles*  
 
 Currently, there are only 3 (Predator) One of a Kind Plot Twists that it can copy: “Any Time.”, “Over Here.” and “Turn Around.”
@@ -2847,6 +2856,8 @@ Currently, there are only 3 (Predator) One of a Kind Plot Twists that it can cop
 ^(Source: Rule insert)
 
 # [Vulture](http://vs.tcgbrowser.com/images/cards/big/SYN-009.jpg)
+^CardNumber: SYN-009
+
 *Set: Sinister Syndicate*  
 
 While Vulture is attacking a character without ![](%%Flight%%) that is also in its back row, his **From Above** power will give him +2/+2. Ka kaw!
@@ -2854,6 +2865,8 @@ While Vulture is attacking a character without ![](%%Flight%%) that is also in i
 ^(Source: Rule insert)
 
 # [Wakanda](http://vs.tcgbrowser.com/images/cards/big/COS-022.jpg)
+^CardNumber: MCU5-016, MCU5-017
+
 *Set: Cosmic Avengers*  
 
 See [Global Information Network](#wiki_global_information_network)
@@ -3070,7 +3083,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTI0NzAwNSw5NTA0Mzk5MjEsLTEyNz
+eyJoaXN0b3J5IjpbLTY4NjYxODUwNSw5NTA0Mzk5MjEsLTEyNz
 gyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcx
 OSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC
 03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0
