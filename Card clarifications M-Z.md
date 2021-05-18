@@ -2728,7 +2728,7 @@ A: When you play it switch the character’s current stats. Any new stat changes
 
 # Ultron
 ## [Ultron](http://vs.tcgbrowser.com/images/cards/big/mcu1-040.jpg) (MC - Photo)
-^CardNumber: MCU1-040
+^CardNumber: MCU1-040,  MCU1-042, MCU1-046
 
 *Set: The MCU Battles*  
 
@@ -2743,7 +2743,9 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 
 ^(Source: Rule insert)
 
-## Ultron (MC - Illustrated)
+## [Ultron (MC - Illustrated)](http://vs.tcgbrowser.com/images/cards/big/MOE-007.jpg)
+^CardNumber: MOE-016, MOE-017
+
 *Set: Masters of Evil*  
 
 **Hypno-Beam** lets you steal an enemy player’s Supporting Character for a turn. It can be ready or exhausted. If it’s exhausted you’ll ready it. At the end of your turn, you’ll move it back to that enemy player’s side.  You don’t have to put it back in the same row where it was before.
@@ -2751,6 +2753,8 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 ^(Source: Rule insert)
 
 ## Ultron (SC - Illustrated)
+^CardNumber: MOE-016, MOE-017
+
 *Set: Masters of Evil*  
 
 If this Ultron Supporting Character is on your side, and somehow two **Swarm** characters appear at the same time, they will each "see" each other , and you will draw two cards from **The Living Automaton**.
@@ -3060,11 +3064,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NjAwODE5LDk1MDQzOTkyMSwtMTI3OD
-I4MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5
-LC0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLT
-c2MDgyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3
-NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMy
-w3OTU4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0
-MzE0NTkxXX0=
+eyJoaXN0b3J5IjpbLTEwMDU4NzY3MSw5NTA0Mzk5MjEsLTEyNz
+gyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcx
+OSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC
+03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0
+NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MD
+MsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3
+NDMxNDU5MV19
 -->
