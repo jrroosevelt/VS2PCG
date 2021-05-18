@@ -1798,7 +1798,7 @@ A: It doesn't, those are "Keyword Powers", **Rules Lawyer** only reacts to "Supe
 ^(Source: FB Post)
 
 # [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC)
-^CardNumber: MCU5-014, MCU5-01
+^CardNumber: MCU5-014, MCU5-015
 
 *Set: Mind & Soul*  
 
@@ -2927,11 +2927,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3Njk3OTc3LC0yMTA1NTY1NjA0LC0xNT
-YwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTExMzY0
-NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC
-0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUzODAy
-MTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4NT
-EsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1
-Mzg2MTg4XX0=
+eyJoaXN0b3J5IjpbLTE5Mjk4MTk3NzIsLTIxMDU1NjU2MDQsLT
+E1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LDE5MTEz
+NjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4ND
+ksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNTM4
+MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzOD
+g1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5OTYyNDUsLTIw
+MzUzODYxODhdfQ==
 -->
