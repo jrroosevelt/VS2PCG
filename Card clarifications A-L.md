@@ -641,7 +641,7 @@ A: When you pay a cost, you have to pay the entire cost, and you can not play an
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
 # [Bullseye](http://vs.tcgbrowser.com/images/cards/big/HAM-001.jpg) (MC)
-^CardNumber: ^HAM-001, HAM-002
+^CardNumber: ^HAM-001, ^HAM-002
 
 *Set: H.A.M.M.E.R.*  
 
@@ -654,7 +654,7 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 # Cable
 ## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
-^CardNumber: ^NEW-001, NEW-002
+^CardNumber: ^NEW-001, ^NEW-002
 
 *Set: New Mutants*  
 
@@ -705,7 +705,7 @@ A: His power will still trigger and stun the defender even though Cable himself 
 ^(Source: UDE FAQ)
 
 # [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
-^CardNumber: ^MNB-001, MNB-002
+^CardNumber: ^MNB-001, ^MNB-002
 
 *Set: The Marvel Battles*
 
@@ -808,7 +808,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 ^(Source: Rule insert)
 
 # [Cigarette Smoking Man (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-024.jpg)
-^CardNumber: ^XFB-024, XFB-025
+^CardNumber: ^XFB-024, ^XFB-025
 
 *Set: The X-Files Battles*
 
@@ -833,7 +833,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule insert)
 
 # [The Collector](http://vs.tcgbrowser.com/images/cards/medium/CV3-002.jpg)
-^CardNumber: ^CV3-001, CV3-002
+^CardNumber: ^CV3-001, ^CV3-002
 
 *Set: Crossover Vol. 3*
 
@@ -842,7 +842,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
-^CardNumber: ^XFB-026, XFB-027
+^CardNumber: ^XFB-026, ^XFB-027
 
 *Set: The X-Files Battles*
 
@@ -889,7 +889,7 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 ^(Source: Rule insert)
 
 # Cosmic Cubes
-^CardNumber: ^SVH-023, SVH-024, SVH-025, SVH-026
+^CardNumber: ^SVH-023, ^SVH-024, ^SVH-025, ^SVH-026
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -913,7 +913,7 @@ Sounds confusing? It kind of is. [Check out this infographic](https://drive.goog
 
 # Cosmo
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
-^CardNumber: ^GAL-004, GAL-005
+^CardNumber: ^GAL-004, ^GAL-005
 
 *Set: Galactic Guardians*  
 
@@ -929,7 +929,7 @@ With **All Bark, No Flight** each power lost grants 1 XP. So if a character lose
 [This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
-^CardNumber: ^TUB-001, TUB-002 
+^CardNumber: ^TUB-001, ^TUB-002 
 
 *Set: The Utopia Battles*  
 
@@ -977,7 +977,7 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 ^(Source: Rule insert)
 
 ## [Daken](http://vs.tcgbrowser.com/images/cards/big/HAM-003.jpg) (MC)
-^CardNumber: ^HAM-003, HAM-004 
+^CardNumber: ^HAM-003, ^HAM-004 
 
 *Set: H.A.M.M.E.R.*
 
@@ -988,7 +988,7 @@ A: Yes.
 ^(Source: UDE FAQ- Entry for "Wolverine")
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
-^CardNumber: ^DEF-001, DEF-002,  LEG-040
+^CardNumber: ^DEF-001, ^DEF-002,  ^LEG-040
 
 *Set: The Defenders*  
 
@@ -1064,7 +1064,7 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 ^(Source: Rule insert)
 
 # [Deacon Frost (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-003.jpg)
-^CardNumber: ^DAR-003, DAR-004
+^CardNumber: ^DAR-003, ^DAR-004
 
 *Set: Into the Darkness*
 
@@ -1076,7 +1076,7 @@ At Level 2, while Deacon is melee attacking a Supporting Character, there are tw
 
 # Deadpool
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
-^CardNumber: ^MFM-001, MFM-002, MFM-003, MFM-004
+^CardNumber: ^MFM-001, ^MFM-002, ^MFM-003, ^MFM-004
 
 *Set: Deadpool & Friends*
 
@@ -1106,7 +1106,7 @@ Here are some quick tips:
 ^(Source: Rule insert)
 
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-031.jpg) (MC - X-Men)
-^CardNumber: ^MNB-031, MNB-032
+^CardNumber: ^MNB-031, ^MNB-032
 
 *Set: The Marvel Battles*
 
@@ -1163,7 +1163,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: FB Post)
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
-^CardNumber: ^BLK-001, BLK-002
+^CardNumber: ^BLK-001, ^BLK-002
 *Set: Black Order*  
 
 Death is **Amortal** which means:
@@ -1212,7 +1212,7 @@ Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Gir
 ^(Source: Rule insert)
 
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-105.jpg) and Moon Girl (MCs)  
-^CardNumber: ^MMU-105, MMU-106, MMU-045, MMU-046
+^CardNumber: ^MMU-105, ^MMU-106, ^MMU-045, ^MMU-046
 
 The Main Characters, Moon Girl and Devil Dinosaur, go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
@@ -1253,7 +1253,7 @@ The effects from **That is Dimitri** can stack. For example, if Maria Hill and N
 
 
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
-^CardNumber: ^FAN-031, FAN-032
+^CardNumber: ^FAN-031, ^FAN-032
 
 *Set: The Fantastic Battles*  
 
@@ -1311,7 +1311,7 @@ Sorry for the short answer last night, I was tired and about to go to bed when I
 
 # Dormammu
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
-^CardNumber: ^MCU3-001, MCU3-002
+^CardNumber: ^MCU3-001, ^MCU3-002
 
 *Set: MCU Villains*  
 
@@ -1395,7 +1395,7 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 # Dr. Strange/Doctor Strange
 ## Doctor Strange (MC- Avengers)
-^CardNumber: ^MYS-001, MYS-002
+^CardNumber: ^MYS-001, ^MYS-002
 
 *Set: Mystic Arts*
 
@@ -3128,11 +3128,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0OTkwMjAyLDIwNDY4OTE4MTgsNjI1Nj
-YzNjQ5LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIy
-LDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01Mz
-A3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQw
-LDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyOD
-I1MjE5LC0xMzk5MTY4Mzg0LC01NjM3Njg1NjgsLTExMDkzMDQ2
-MjldfQ==
+eyJoaXN0b3J5IjpbLTEyMDczNDYwNDgsMjA0Njg5MTgxOCw2Mj
+U2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIy
+MjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLT
+UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
+NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
+I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
+NDYyOV19
 -->
