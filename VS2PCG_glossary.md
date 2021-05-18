@@ -478,7 +478,14 @@ The chosen characters can team attack with each other and can't be struck back w
   
 
 # Safeguard  
- Characters without Safeguard in the same row as this character cannot be attacked.  
+ Characters without Safeguard in the same row as this character cannot be attacked. 
+
+# Shifting Loyalties
+At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (H.A.M.M.E.R.) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
+
+^(Source: Rule insert)
+
+See also: [Cloak](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_cloak) and [Dagger](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dagger) 
   
 # Shrink  
 When this character gets attacked for the first time each turn, you may cancel the combat.  
@@ -680,11 +687,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwtMT
-c0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1
-NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0xNDAxMzM4MD
-E2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1NDUwNDgsMTY3
-NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5Nj
-MwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC0yMTQ3MDc1NjgzLDE1
-ODYwNDk1MjddfQ==
+eyJoaXN0b3J5IjpbLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLT
+c0MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODky
+ODA4NDEwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMD
+I4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04
+MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNT
+EyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC0y
+MTQ3MDc1NjgzXX0=
 -->
