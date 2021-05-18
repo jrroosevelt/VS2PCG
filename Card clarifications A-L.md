@@ -2463,7 +2463,8 @@ Each of the six Infinity Gems has an "Owned by..." power which lets you play it 
 ---
 
 See also:
-- The Sp
+- [The Space Gem](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_the_space_gem)
+- [The Reality Gem](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_the_reality_gem)
 
 # [Inhibitor Collar](http://vs.tcgbrowser.com/images/cards/big/FUT-026.jpg)
 ^CardNumber: FUT-026
@@ -3127,7 +3128,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjkwMjk3MSw2MjU2NjM2NDksLTgwOD
+eyJoaXN0b3J5IjpbMTA1MjM3NjA5Niw2MjU2NjM2NDksLTgwOD
 AwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1
 LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
 c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
