@@ -1798,6 +1798,8 @@ A: It doesn't, those are "Keyword Powers", **Rules Lawyer** only reacts to "Supe
 ^(Source: FB Post)
 
 # [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC)
+^CardNumber: MCU5-014, MCU5-01
+
 *Set: Mind & Soul*  
 
 **Head of the Wakandan Design Group** does not count cards drawn in players' opening hands. It only starts counting on the first turn of the game.
@@ -2925,11 +2927,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTEwMDUzNCwtMjEwNTU2NTYwNCwtMT
-U2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2
-NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OS
-wtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1Mzgw
-MjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4OD
-UxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAz
-NTM4NjE4OF19
+eyJoaXN0b3J5IjpbODY3Njk3OTc3LC0yMTA1NTY1NjA0LC0xNT
+YwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTExMzY0
+NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC
+0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3MzksMTUzODAy
+MTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0zMjM1Mzg4NT
+EsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5OTk2MjQ1LC0yMDM1
+Mzg2MTg4XX0=
 -->
