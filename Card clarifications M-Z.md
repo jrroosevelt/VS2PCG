@@ -2983,7 +2983,7 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 ^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
 
 # [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
-^CardNumber: MCU5-016, MCU5-017
+^CardNumber: MNB-029, MNB-030, LEG-012, LEG-013
 
 *Set: The Marvel Battles*
 
@@ -3010,13 +3010,15 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 ^(Source: FB Post - Chad Daniel)
 
 # [Wong](http://vs.tcgbrowser.com/images/cards/big/MCU4-014.jpg)
+^CardNumber: MCU4-014
+
 *Set: Power & Reality*  
 
 **Guardian of These Books** will trigger when you use an ![](%%Intellect%%) (Intellect) Super Power, even if you don't actually spend an ![](%%Intellect%%) (Intellect). For example, Bruce Banner's **I Think I'm Getting The Hang of It!** is an ![](%%Intellect%%) (Intellect) and ![](%%Energy%%) (Energy) Super Power and will trigger **Guardian of These Books** even if Bruce spends an ![](%%Energy%%) (Energy) to use it (and even if he spends nothing because Iron Man is on your side!). 
 
 ^(Source: Rule insert)
 
-# The Wrecker
+# [The Wrecker](http://vs.tcgbrowser.com/images/cards/big/MOE-018.jpg)
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
@@ -3095,11 +3097,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzOTYxODIzLDk1MDQzOTkyMSwtMTI3OD
-I4MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5
-LC0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLT
-c2MDgyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3
-NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMy
-w3OTU4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0
-MzE0NTkxXX0=
+eyJoaXN0b3J5IjpbLTEzMzkyNDAyNDMsOTUwNDM5OTIxLC0xMj
+c4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3
+MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNi
+wtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0
+NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNT
+AzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEw
+NzQzMTQ1OTFdfQ==
 -->
