@@ -1,5 +1,3 @@
-
-
 [BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
   
 # Card clarifications and FAQs
@@ -19,7 +17,7 @@ For additional information, see also:
 * [Glossary of Terms, keywords and effects](http://www.reddit.com/r/vs2pcg/wiki/glossary)
 
 # [Abduction](http://vs.tcgbrowser.com/images/cards/big/XFB-037.jpg)
-^CardNumber: XFB-037
+^CardNumber: ^XFB-037
 
 *Set: The X-Files Battles*
 
@@ -28,7 +26,7 @@ The abducted character will re-enter the game with wound counters on it equal to
 ^(Source: Rule Insert)
 
 # [Abomination](http://vs.tcgbrowser.com/images/cards/big/mcu1-033.jpg)
-^CardNumber: MCU1-033
+^CardNumber: ^MCU1-033
 
 *Set: MCU Battles*
   
@@ -37,7 +35,7 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 ^(Source: Rule insert)
 
 # [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
-^CardNumber: GAL-001, GAL-002
+^CardNumber: ^GAL-001, ^GAL-002
 
 *Set: Galactic Guardians* 
  
@@ -53,7 +51,7 @@ A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing wit
 ^(Source: UDE FAQ - UDE Approved 6/10/2016)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
-^CardNumber: FAN-013
+^CardNumber: ^FAN-013
 
 *Set: The Fantastic Battles*  
 
@@ -62,7 +60,7 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 ^(Source: Rule insert)
 
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
-^CardNumber: Fut-023
+^CardNumber: ^Fut-023
 
 *Set: Futures Past*
 
@@ -71,7 +69,7 @@ You start the game with a private out-of-game Hound pile. The pile must contain 
 ^(Source: Rule Insert)
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
-^CardNumber: MFM-012
+^CardNumber: ^MFM-012
 
 *Set: Deadpool & Friends*  
 
@@ -88,7 +86,7 @@ A: Fatal wounds can’t KO him until end of turn. Other effects (like Simon Tras
 ^(Source: [FB Post - Danny Mandel](https://www.facebook.com/groups/860168987351982/permalink/3281760338526156/)
 
 # [Alcatraz](http://vs.tcgbrowser.com/images/cards/big/HAM-019.jpg)
-^CardNumber: HAM-019
+^CardNumber: ^HAM-019
 
 *Set: H.A.M.M.E.R.*  
 
@@ -99,7 +97,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 
 # Alex Krycek
 ## [Alex Krycek (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-022.jpg)
-^CardNumber: XFB-022, XFB-023
+^CardNumber: ^XFB-022, XFB-023
 
 *Set: The X-Files Battles*
 
@@ -108,7 +106,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule Insert)
 
 ## [Alex Krycek (SC)](http://vs.tcgbrowser.com/images/cards/big/XFB-033.jpg)
-^CardNumber: XFB-033
+^CardNumber: ^XFB-033
 
 *Set: The X-Files Battles*
 
@@ -117,7 +115,7 @@ When the character in “prison” turns face up, the player who used Alcatraz d
 ^(Source: Rule Insert)
 
 # [Alicia Masters](http://vs.tcgbrowser.com/images/cards/big/FAN-009.jpg)
-^CardNumber: FAN-009
+^CardNumber: ^FAN-009
 
 *Set: The Fantastic Battles*  
 
@@ -126,7 +124,7 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 ^(Source: Rule insert)
 
 # [Alien Symbiote](http://vs.tcgbrowser.com/images/cards/big/SPF-021.jpg)
-^CardNumber: SPF-021
+^CardNumber: ^SPF-021
 
 *Set: Spider Friends*
 
@@ -135,7 +133,7 @@ Here's an example of how her **Neo-Realistic Sculptor** works. The Thing is on y
 The text on Alien Symbiote says that it cannot be KO'd but the One-Equip rule in the rule book will override this text if the character is equipped with another equipment card.  Cards must explicitly (not implicitly) override game mechanics and this was ruled that it was not intended to override the one-equipment rule.
 
 # [Alter Ego](http://vs.tcgbrowser.com/images/cards/big/MCU7-019.jpg)
-^CardNumber: MCU7-019
+^CardNumber: ^MCU7-019
 
 *Set: Friendly Neighborhood*  
 
@@ -150,7 +148,7 @@ If a character references itself in its text box, those references will also use
 
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
-^CardNumber: RES-001, RES-002
+^CardNumber: ^RES-001, RES-002
 
 *Set: Resistance*  
 
@@ -159,7 +157,7 @@ When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this
 ^(Source: Rule insert)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/TBB-001.jpg)/[Angelus](http://vs.tcgbrowser.com/images/cards/big/TBB-028.jpg) (MC) 
-^CardNumber: TBB-001, TBB-028
+^CardNumber: ^TBB-001, TBB-028
 
 *Set: The Buffy Battles*  
 
@@ -168,7 +166,7 @@ Level 1 Angel and Angelus can transform between each other. However, when you bu
 ^(Source: Rule insert)
 
 # [Angela](http://vs.tcgbrowser.com/images/cards/big/GAL-015.jpg)
-^CardNumber: GAL-015
+^CardNumber: ^GAL-015
 
 *Set: Galactic Guardians*  
 
@@ -179,7 +177,7 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 ^(Source: Rule insert)
 
 # [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
-^CardNumber: FRI-001, FRI-002
+^CardNumber: ^FRI-001, FRI-002
 
 *Set: The Frightful*
 
@@ -193,7 +191,7 @@ When Annihilus levels up, you'll shuffle his Level 1 card into your deck. While 
 
 
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
-^CardNumber: TBB-018
+^CardNumber: ^TBB-018
 
 *Set: The Buffy Battles*
 
@@ -202,7 +200,7 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 # [Archangel](http://vs.tcgbrowser.com/images/cards/big/RES-002.jpg)
-^CardNumber: RES-002
+^CardNumber: ^RES-002
 
 *Set: Resistance*  
 
@@ -211,7 +209,7 @@ Her **Newly Human and Strangely Literal** power ignores all stat increases inclu
 ^(Source: Rule insert)
 
 # [Ardina](http://vs.tcgbrowser.com/images/cards/big/HER-008.jpg)
-^CardNumber: HER-008
+^CardNumber: ^HER-008
 
 *Set: The Herald*  
 
@@ -225,7 +223,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 
 # [Armor](http://vs.tcgbrowser.com/images/cards/big/TUB-018.jpg)
-^CardNumber: TUB-018
+^CardNumber: ^TUB-018
  
 *Set: The Utopia Battles*  
 
@@ -235,7 +233,7 @@ If Ardina appears via some mechanism other than being recruited (such as being b
 
 # Arnim Zola
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/CV1-001.jpg) (MC-Illustrated)
-^CardNumber: CV1-001, CV1-002
+^CardNumber: ^CV1-001, CV1-002
 
 *Set: Crossover* 
  
@@ -246,7 +244,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 ^(Source: Rule insert)
 
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/MCU4-017.jpg) (SC-MCU Villains)
-^CardNumber: MCU4-017
+^CardNumber: ^MCU4-017
 
 *Set: Power & Reality*  
 
@@ -257,7 +255,7 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 ^(Source: Rule insert)
 
 # [Astra](http://vs.tcgbrowser.com/images/cards/big/FRE-011.jpg)
-^CardNumber: FRE-011
+^CardNumber: ^FRE-011
 
 *Set: Freedom Force*
 
@@ -265,7 +263,7 @@ To create a **Clone** put a token copy of the chosen character onto your side. T
 
 # Avalanche
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/BOM-009.jpg) (Brotherhood)
-^CardNumber: BOM-009
+^CardNumber: ^BOM-009
 
 *Set: Brotherhood of Mutants*  
 
@@ -274,7 +272,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 ^(Source: Rule insert)
 
 ## [Avalanche](http://vs.tcgbrowser.com/images/cards/big/TUB-022.jpg) (Resistance)
-^CardNumber: TUB-022
+^CardNumber: ^TUB-022
 
 *Set: The Utopia Battles*  
 
@@ -291,7 +289,7 @@ Avalanche’s **Sustained Seismic Waves** power gets stronger each time he uses 
 ^(Source: Rule insert)
 
 # [Awesome Android](http://vs.tcgbrowser.com/images/cards/big/FAN-042.jpg)
-^CardNumber: FAN-042
+^CardNumber: ^FAN-042
 
 *Set: The Fantastic Battles*  
 
@@ -300,7 +298,7 @@ If there are no other face-up characters in play, Awesome Android's ATK/DEF beco
 ^(Source: Rule insert)
 
 # [Baron Mordo](http://vs.tcgbrowser.com/images/cards/big/LEG-048.jpg) (MC)
-^CardNumber: DEF-048, DEF-049
+^CardNumber: ^DEF-048, DEF-049
 
 *Set: Legacy*  
 
@@ -323,7 +321,7 @@ A: No, Hypnotize creates a modifier with an expiration that temporarily makes a 
 ^(Source: FB Post - Kirk - confirmed by Chad)
 
 # [Baron von Strucker](http://vs.tcgbrowser.com/images/cards/big/MCU4-013.jpg) (SC-MCU Villains)
-^CardNumber: MCU4-013
+^CardNumber: ^MCU4-013
 
 *Set: Power & Reality*  
 
@@ -334,7 +332,7 @@ To resolve the **Age of Miracles**, first choose a Supporting Character with 1 p
 ^(Source: Rule insert)
 
 # [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
-^CardNumber: DFX-010
+^CardNumber: ^DFX-010
 
 *Set: The New Defenders*  
 
@@ -343,7 +341,7 @@ Note that **Acrobatic** doubles his DEF whether he is attacking OR defending.
 ^(Source: Rule insert)
 
 # [Beetle](http://vs.tcgbrowser.com/images/cards/big/SFO-004.jpg)
-^CardNumber: SFO-004
+^CardNumber: ^SFO-004
 
 *Set: Spidey-Foes* 
 
@@ -353,7 +351,7 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 
 # \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
-^CardNumber: LEG-015
+^CardNumber: ^LEG-015
 
 *Set: Legacy*  
 
@@ -363,7 +361,7 @@ This power refers to ![](%%Energy%%) (Energy) super powers .This counts for any 
 ^(Source: Rule insert)
 
 # [Blackbird](http://vs.tcgbrowser.com/images/cards/big/DAR-017.jpg)
-^CardNumber: DAR-017
+^CardNumber: ^DAR-017
 
 *Set: Into the Darkness*
 
@@ -387,7 +385,7 @@ The X-Jet has up to four effects depending on how many passengers it has. For ex
 ^(Source: Rule Insert)
 
 # [Black Bolt](http://vs.tcgbrowser.com/images/cards/big/MMU-037.jpg) (MC)
-^CardNumber: MMU-037, MMU-038
+^CardNumber: ^MMU-037, MMU-038
 
 *Set: Monsters Unleashed!*  
 
@@ -405,7 +403,7 @@ A: If you are attacking, yes. Lethal only activates when attacking and when you 
 
 # Black Cat
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/aff-028.jpg) (MC)
-^CardNumber: AFF-027, AFF-028
+^CardNumber: ^AFF-027, AFF-028
 
 *Set: A-Force*
 
@@ -416,7 +414,7 @@ A: Daze counts as stunning, but Lethal was changed to work when a wounding a def
 ^(Source: FB Post - Chad Daniel)
 
 ## [Black Cat](http://vs.tcgbrowser.com/images/cards/big/SPF-012.jpg) (SC - unaffiliated)
-^CardNumber: SPF-012
+^CardNumber: ^SPF-012
 
 *Set: Spider-Friends*  
 
@@ -426,7 +424,7 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 ^(Source: Rule insert)
 
 # [Blackheart](http://vs.tcgbrowser.com/images/cards/big/def-048.jpg)
-^CardNumber: DEF-048
+^CardNumber: ^DEF-048
 
 *Set: Defenders*
 
@@ -437,7 +435,7 @@ A: Even the Odds creates a modifier that overrides or suppresses any other modif
 ^(Source: FB Post - Community)
 
 # [Black Oil](http://vs.tcgbrowser.com/images/cards/big/XFB-036.jpg)
-^CardNumber: XFB-036
+^CardNumber: ^XFB-036
 
 *Set: The X-Files Battles*
 
@@ -449,7 +447,7 @@ You can only equip this to an enemy Supporting Character. Then during your Draw 
 
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
-^CardNumber: COS-001, COS-002
+^CardNumber: ^COS-001, COS-002
 
 *Set: Cosmic Avengers*  
 
@@ -458,7 +456,7 @@ For Black Panther's **Passing Down the Knowledge**, whenever more than one card 
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-003.jpg) (MC - Photo)
-^CardNumber: MCU2-003, MCU2-004
+^CardNumber: ^MCU2-003, MCU2-004
 
 *Set: MCU Heroes*  
 
@@ -467,7 +465,7 @@ Black Panther Black Panther’s **Vibranium Weave Suit** power prevents him from
 ^(Source: Rule insert)
 
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/mcu2-014.jpg) (SC)
-^CardNumber: MCU2-014
+^CardNumber: ^MCU2-014
 
 *Set: MCU Heroes*  
 
@@ -476,7 +474,7 @@ Black Panther Black Panther’s **Bulletproof** power prevents enemy characters 
 ^(Source: Rule insert)
 
 # [Blade (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-001.jpg)
-^CardNumber: DAR-001
+^CardNumber: ^DAR-001
 
 *Set: Into the Darkness*
 
@@ -489,7 +487,7 @@ Once Blade is Level 2, **Synthetic Blood Serum** will start wounding him at the 
 ^(Source: Rule Insert)
 
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
-^CardNumber: FRE-009
+^CardNumber: ^FRE-009
 
 *Set: Freedom Force*
 
@@ -504,7 +502,7 @@ A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
-^CardNumber: CV1-003, CV1-004
+^CardNumber: ^CV1-003, CV1-004
 
 *Set: Crossover*  
 
@@ -516,7 +514,7 @@ If Blob moves for any reason (including during your Formation Step or because an
 ^(Source: Rule insert)
 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/BOM-015.jpg) (SC)
-^CardNumber: BOM-015
+^CardNumber: ^BOM-015
 
 *Set: Brotherhood of Mutants*  
 
@@ -527,7 +525,7 @@ And his **Bounced Off His Belly** power represents projectiles getting bounced b
 ^(Source: Rule insert)
 
 # [Book of the Vishanti](http://vs.tcgbrowser.com/images/cards/big/SVH-058.jpg)
-^CardNumber: SVH-058
+^CardNumber: ^SVH-058
 
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
@@ -535,7 +533,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 
 # [Boomerang](http://vs.tcgbrowser.com/images/cards/big/SFO-008.jpg)
-^CardNumber: SFO-008
+^CardNumber: ^SFO-008
 
 *Set: Spidey-Foes*  
 
@@ -545,7 +543,7 @@ Boomerang can "throw" a different Boomerang each turn at one front row and one b
 ^(Source: Rule insert)
 
 # [Break the Fourth Wall](http://vs.tcgbrowser.com/images/cards/big/MFM-019.jpg)
-^CardNumber: MFM-019
+^CardNumber: ^MFM-019
 
 *Set: Deadpool & Friends*  
 
@@ -567,7 +565,7 @@ This plot twist really lets you get in the game. When you put a “Me” token o
 ^(Source: Rule insert)
 
 # [Brotherhood](http://vs.tcgbrowser.com/images/cards/big/FRE-019.jpg)
-^CardNumber: FRE-019
+^CardNumber: ^FRE-019
 
 *Set: Freedom Force*
 
@@ -586,7 +584,7 @@ If you choose one frozen and one exhausted character, only the exhausted charact
 
 # Bruce Banner
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu1-003.jpg) (and the Hulk) (MC)
-^CardNumber: MCU1-003, MCU1-004
+^CardNumber: ^MCU1-003, MCU1-004
 
 *Set: The MCU Battles*  
 
@@ -595,7 +593,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 ## [Bruce Banner](http://vs.tcgbrowser.com/images/cards/big/mcu4-018.jpg) (SC)
-^CardNumber: MCU4-018
+^CardNumber: ^MCU4-018
 
 *Set: Power & Reality*  
 
@@ -604,7 +602,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 ^(Source: Rule insert)
 
 # [Bucky Barnes](http://vs.tcgbrowser.com/images/cards/big/MCU4-003.jpg) / [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/MCU4-002.jpg)
-^CardNumber: MCU4-001, MCU4-002, MCU4-003
+^CardNumber: ^MCU4-001, MCU4-002, MCU4-003
 
 *Set: Power & Reality*  
 
@@ -616,7 +614,7 @@ Bruce doesn’t level up. Instead, when he attacks he transforms right into the 
 
 
 # [Buffy](http://vs.tcgbrowser.com/images/cards/big/TBB-003.jpg) (MC) 
-^CardNumber: TBB-003, TBB-004
+^CardNumber: ^TBB-003, TBB-004
 
 *Set: The Buffy Battles*  
 
@@ -625,7 +623,7 @@ Buffy’s **Save the World. A Lot.** power lets her Slay an Evil Main Character.
 ^(Source: Rule insert)
 
 # [Build a Better World](http://vs.tcgbrowser.com/images/cards/big/aff-025.jpg)
-^CardNumber: AFF-025
+^CardNumber: ^AFF-025
 
 *Set: A-Force*
 
@@ -636,14 +634,14 @@ A: When you pay a cost, you have to pay the entire cost, and you can not play an
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Bulldozer](http://vs.tcgbrowser.com/images/cards/big/MOE-015.jpg)
-^CardNumber: MOE-015
+^CardNumber: ^MOE-015
 
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
 # [Bullseye](http://vs.tcgbrowser.com/images/cards/big/HAM-001.jpg) (MC)
-^CardNumber: HAM-001, HAM-002
+^CardNumber: ^HAM-001, HAM-002
 
 *Set: H.A.M.M.E.R.*  
 
@@ -656,7 +654,7 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 # Cable
 ## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
-^CardNumber: NEW-001, NEW-002
+^CardNumber: ^NEW-001, NEW-002
 
 *Set: New Mutants*  
 
@@ -680,7 +678,7 @@ A: Yes. Only wounds, levels, and equipment on MCs remain as-is.
 
 
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
-^CardNumber: MNB-045
+^CardNumber: ^MNB-045
 
 *Set: The Marvel Battles*
 
@@ -707,7 +705,7 @@ A: His power will still trigger and stun the defender even though Cable himself 
 ^(Source: UDE FAQ)
 
 # [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
-^CardNumber: MNB-001, MNB-002
+^CardNumber: ^MNB-001, MNB-002
 
 *Set: The Marvel Battles*
 
@@ -726,7 +724,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 ^(Source: UDE FAQ)
 
 # [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-027.jpg) (SC - MCU Heroes)
-^CardNumber: MCU5-027
+^CardNumber: ^MCU5-027
 
 *Set: Mind & Soul*  
 
@@ -736,7 +734,7 @@ A: No. Once the other character gets stunned mid-combat, it stops being a team a
 
 
 # \* [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/COS-012.jpg) \*
-^CardNumber: COS-012
+^CardNumber: ^COS-012
 
 *Set: Cosmic Avengers*  
 
@@ -750,7 +748,7 @@ His **Cosmic Awareness** allows him to ask an opponent one concrete question abo
 ^(Source: Rule insert)
 
 # [Captain Swain](http://vs.tcgbrowser.com/images/cards/big/MMU-047.jpg)
-^CardNumber: MMU-047
+^CardNumber: ^MMU-047
 
 *Set: Monsters Unleashed*
 
@@ -761,7 +759,7 @@ A: No. By default powers/abilities can only target cards in the Play Zone unless
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/1407375245964684)
 
 # [Carnage](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
-^CardNumber: DEF-035
+^CardNumber: ^DEF-035
 
 *Set: The Defenders*  
 
@@ -772,7 +770,7 @@ Carnage’s power triggers when he stuns or gets stunned. So it’s possible for
 
 # Chameleon
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SFO-001.jpg) (MC)
-^CardNumber: SFO-001
+^CardNumber: ^SFO-001
 
 *Set: Spidey-Foes*  
 
@@ -781,7 +779,7 @@ If Chameleon appears in the middle of the game, then **Blessing in Disguise** wi
 ^(Source: Rule insert)
 
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SYN-007.jpg) (SC)
-^CardNumber: SYN-007
+^CardNumber: ^SYN-007
 
 *Set: Sinister Syndicate*  
 
@@ -791,7 +789,7 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 ^(Source: Rule insert)
 
 # [The Champion](http://vs.tcgbrowser.com/images/cards/big/CV2-019.jpg)
-^CardNumber: CV2-019
+^CardNumber: ^CV2-019
 
 *Set: Crossover Vol. 2*  
 
@@ -801,7 +799,7 @@ Chameleon does copy the **Sinister Six** keyword from your main characters who h
 ^(Source: Rule insert)
 
 # [Chimichanga](http://vs.tcgbrowser.com/images/cards/big/MFM-021.jpg)
-^CardNumber: MFM-021
+^CardNumber: ^MFM-021
 
 *Set: Deadpool & Friends*  
 
@@ -810,7 +808,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 ^(Source: Rule insert)
 
 # [Cigarette Smoking Man (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-024.jpg)
-^CardNumber: XFB-024, XFB-025
+^CardNumber: ^XFB-024, XFB-025
 
 *Set: The X-Files Battles*
 
@@ -823,7 +821,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 ^(Source: Rule Insert)
 
 # [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
-^CardNumber: TUB-044
+^CardNumber: ^TUB-044
 
 *Set: The Utopia Battles*
 
@@ -835,7 +833,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule insert)
 
 # [The Collector](http://vs.tcgbrowser.com/images/cards/medium/CV3-002.jpg)
-^CardNumber: CV3-001, CV3-002
+^CardNumber: ^CV3-001, CV3-002
 
 *Set: Crossover Vol. 3*
 
@@ -844,7 +842,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
-^CardNumber: XFB-026, XFB-027
+^CardNumber: ^XFB-026, XFB-027
 
 *Set: The X-Files Battles*
 
@@ -855,7 +853,7 @@ See [Shifting Loyalties](#wiki_shifting_loyalties)
 ^(Source: Rule Insert)
 
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
-^CardNumber: MFM-013
+^CardNumber: ^MFM-013
 
 *Set: Deadpool & Friends*
 
@@ -882,7 +880,7 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 ^(Source: Official clarification)
 
 # [Corvus Glaive](http://vs.tcgbrowser.com/images/cards/big/MCU6-015.jpg)
-^CardNumber: MCU6-015
+^CardNumber: ^MCU6-015
 
 *Set: Space & Time*  
 
@@ -891,7 +889,7 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 ^(Source: Rule insert)
 
 # Cosmic Cubes
-^CardNumber: SVH-023, SVH-024, SVH-025, SVH-026
+^CardNumber: ^SVH-023, SVH-024, SVH-025, SVH-026
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -915,7 +913,7 @@ Sounds confusing? It kind of is. [Check out this infographic](https://drive.goog
 
 # Cosmo
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/GAL-004.jpg) (MC)
-^CardNumber: GAL-004, GAL-005
+^CardNumber: ^GAL-004, GAL-005
 
 *Set: Galactic Guardians*  
 
@@ -924,14 +922,14 @@ With **All Bark, No Flight** each power lost grants 1 XP. So if a character lose
 ^(Source: Rule insert)
 
 ## [Cosmo](http://vs.tcgbrowser.com/images/cards/big/BAN-001.jpg) (SC - MNB-061)
-^CardNumber: MNB-061
+^CardNumber: ^MNB-061
 
 *Set: The Marvel Battles*
 
 [This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_cosmo_.28marvel_battles.29).
 
 # [Cyclops](http://vs.tcgbrowser.com/images/cards/big/TUB-001.jpg) (MC) 
-^CardNumber: TUB-001, TUB-002 
+^CardNumber: ^TUB-001, TUB-002 
 
 *Set: The Utopia Battles*  
 
@@ -942,7 +940,7 @@ Note: **Trust the Plan** will only put three +1/+1 counters on a character even 
 ^(Source: Rule insert)
 
 # [Dagger](http://vs.tcgbrowser.com/images/cards/big/TUB-041.jpg)
-^CardNumber: TUB-041 
+^CardNumber: ^TUB-041 
 
 *Set: The Utopia Battles*  
 
@@ -970,7 +968,7 @@ Cloak's power doesn't technically trigger until right after step 7.
 
 # Daken
 ## [Daken (SC)](http://vs.tcgbrowser.com/images/cards/big/BOM-013.jpg)
-^CardNumber: BOM-013 
+^CardNumber: ^BOM-013 
 
 *Set: Brotherhood of Mutants*  
 
@@ -979,7 +977,7 @@ Daken’s **Pheromone Control** power takes away enemy characters’ powers whil
 ^(Source: Rule insert)
 
 ## [Daken](http://vs.tcgbrowser.com/images/cards/big/HAM-003.jpg) (MC)
-^CardNumber: HAM-003, HAM-004 
+^CardNumber: ^HAM-003, HAM-004 
 
 *Set: H.A.M.M.E.R.*
 
@@ -990,7 +988,7 @@ A: Yes.
 ^(Source: UDE FAQ- Entry for "Wolverine")
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
-^CardNumber: DEF-001, DEF-002,  LEG-040
+^CardNumber: ^DEF-001, DEF-002,  LEG-040
 
 *Set: The Defenders*  
 
@@ -1010,14 +1008,14 @@ A: The turn player decides the order per the rule book under "Timing." Daredevil
 ^(Source: FB Post - Chad Daniel)
 
 # [Darkhold](http://vs.tcgbrowser.com/images/cards/big/SVH-055.jpg)
-^CardNumber: SVH-055
+^CardNumber: ^SVH-055
 
 See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ^(Source: Rule insert)
 
 # [Dark Beast](http://vs.tcgbrowser.com/images/cards/big/TUB-042.jpg)
-^CardNumber: TUB-042
+^CardNumber: ^TUB-042
 
 *Set: Utopia Battles*
 
@@ -1033,7 +1031,7 @@ However, for this specific question it should be noted that Darkhold is neutral.
 
 
 # [Dark Phoenix](http://vs.tcgbrowser.com/images/cards/big/CV1-020.jpg) (SC)
-^CardNumber: CV1-020
+^CardNumber: ^CV1-020
 
 *Set: Crossover*  
 
@@ -1057,7 +1055,7 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 ^(Source: Rule insert)
 
 # [Dawn](http://vs.tcgbrowser.com/images/cards/big/TBB-011.jpg)
-^CardNumber: TBB-011
+^CardNumber: ^TBB-011
 
 *Set: The Buffy Battles*  
 
@@ -1066,7 +1064,7 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 ^(Source: Rule insert)
 
 # [Deacon Frost (MC)](http://vs.tcgbrowser.com/images/cards/big/DAR-003.jpg)
-^CardNumber: DAR-003, DAR-004
+^CardNumber: ^DAR-003, DAR-004
 
 *Set: Into the Darkness*
 
@@ -1078,7 +1076,7 @@ At Level 2, while Deacon is melee attacking a Supporting Character, there are tw
 
 # Deadpool
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-004.jpg) (MC - Underworld)
-^CardNumber: MFM-001, MFM-002, MFM-003, MFM-004
+^CardNumber: ^MFM-001, MFM-002, MFM-003, MFM-004
 
 *Set: Deadpool & Friends*
 
@@ -1108,7 +1106,7 @@ Here are some quick tips:
 ^(Source: Rule insert)
 
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-031.jpg) (MC - X-Men)
-^CardNumber: MNB-031, MNB-032
+^CardNumber: ^MNB-031, MNB-032
 
 *Set: The Marvel Battles*
 
@@ -1154,7 +1152,7 @@ A: No, the other characters don’t know what a player is.
 ---
 
 ## [Deadpool](http://vs.tcgbrowser.com/images/cards/big/mnb-039.jpg) (SC)
-^CardNumber: MNB-039
+^CardNumber: ^MNB-039
 
 *Set: The Marvel Battles*
 
@@ -1165,7 +1163,7 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: FB Post)
 
 # [Death](http://vs.tcgbrowser.com/images/cards/big/BLK-001.jpg)
-^CardNumber: BLK-001, BLK-002
+^CardNumber: ^BLK-001, BLK-002
 *Set: Black Order*  
 
 Death is **Amortal** which means:
@@ -1186,7 +1184,7 @@ Since Death doesn't turn face down, she can be stunned multiple times in a singl
 ^(Source: Rule insert)
 
 # [Death Trap](http://vs.tcgbrowser.com/images/cards/big/PRD-053.jpg) 
-^CardNumber: PRD-053
+^CardNumber: ^PRD-053
 
 *Set: The Predator Battles*  
 
@@ -1195,7 +1193,7 @@ While this card is face down in your Resource Row, you can play it as if it was 
 ^(Source: Rule insert)
 
 # [Destiny](http://vs.tcgbrowser.com/images/cards/big/FRE-007.jpg)
-^CardNumber: FRE-007
+^CardNumber: ^FRE-007
 
 *Set: Freedom Force*
 
@@ -1205,7 +1203,7 @@ If a player would draw two or more at a time (including during their Draw Phase)
 
 # Devil Dinosaur
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-113.jpg) Team Affiliations
-^CardNumber: MMU-113
+^CardNumber: ^MMU-113
 
 *Set: Monsters Unleashed!*  
 
@@ -1214,14 +1212,14 @@ Moon Girl and Devil Dinosaur each have two different team affiliations. Moon Gir
 ^(Source: Rule insert)
 
 ## [Devil Dinosaur](http://vs.tcgbrowser.com/images/cards/big/MMU-105.jpg) and Moon Girl (MCs)  
-^CardNumber: MMU-105, MMU-106, MMU-045, MMU-046
+^CardNumber: ^MMU-105, MMU-106, MMU-045, MMU-046
 
 The Main Characters, Moon Girl and Devil Dinosaur, go together. You start with both on your side and you’re only out of the game once both are KO’d.
 
 ^(Source: Rule insert)
 
 # [Devil Slayer](http://vs.tcgbrowser.com/images/cards/big/DFX-009.jpg)
-^CardNumber: DFX-009
+^CardNumber: ^DFX-009
 
 *Set: The New Defenders*  
 
@@ -1245,7 +1243,7 @@ A: No. Devil Slayer still has to follow all the other legal attack rules. He doe
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
 
 # [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg)
-^CardNumber: MCU7-011
+^CardNumber: ^MCU7-011
 
 *Set: Friendly Neighborhood*  
 
@@ -1255,7 +1253,7 @@ The effects from **That is Dimitri** can stack. For example, if Maria Hill and N
 
 
 # [Doctor Doom](http://vs.tcgbrowser.com/images/cards/big/FAN-031.jpg) (MC)
-^CardNumber: FAN-031, FAN-032
+^CardNumber: ^FAN-031, FAN-032
 
 *Set: The Fantastic Battles*  
 
@@ -1264,7 +1262,7 @@ Doctor Doom's **Time Platform**  does something very odd. It shuffles a card int
 ^(Source: Rule insert)
 
 # [Doctor Faustus](http://vs.tcgbrowser.com/images/cards/big/SVH-011.jpg)
-^CardNumber: SVH-011
+^CardNumber: ^SVH-011
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -1274,7 +1272,7 @@ Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Chara
 ^(Source: Rule insert)
 
 # [Doctor Nemesis](http://vs.tcgbrowser.com/images/cards/big/RES-008.jpg)
-^CardNumber: RES-008
+^CardNumber: ^RES-008
 
 *Set: Resistance*  
 
@@ -1284,7 +1282,7 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 ^(Source: Rule insert)
 
 # [Domino](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg)
-^CardNumber: TUB-020
+^CardNumber: ^TUB-020
 
 *Set: The Utopia Battles*   
 
@@ -1293,7 +1291,7 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 ^(Source: Rule insert)
 
 # [Doombot](http://vs.tcgbrowser.com/images/cards/big/FAN-045.jpg)
-^CardNumber: FAN-045
+^CardNumber: ^FAN-045
 
 *Set: The Fantastic Battles*   
 
@@ -1313,7 +1311,7 @@ Sorry for the short answer last night, I was tired and about to go to bed when I
 
 # Dormammu
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
-^CardNumber: MCU3-001, MCU3-002
+^CardNumber: ^MCU3-001, MCU3-002
 
 *Set: MCU Villains*  
 
@@ -1322,7 +1320,7 @@ Dormammu’s **You Will Spend Eternity Dying** power allows you to wound a Main 
 ^(Source: Rule insert)
 
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mnb-099.jpg)
-^CardNumber: MNB-099
+^CardNumber: ^MNB-099
 
 *Set: The Marvel Battles*
 
@@ -1340,7 +1338,7 @@ A: Either is fine. Yes, it can attack that turn.
 ^(Source: Rule Insert)
 
 # [Dramatic Entrance](http://vs.tcgbrowser.com/images/cards/big/aff-050.jpg)
-^CardNumber: AFF-050
+^CardNumber: ^AFF-050
 
 *Set: A-Force* 
 
@@ -1383,7 +1381,7 @@ A: The original defender is still removed from combat, but since Adam enters pla
 ^(Source: FB Post - Chad Daniel)
 
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
-^CardNumber: WEB-012
+^CardNumber: ^WEB-012
 
 *Set: Webheads*  
 
@@ -1397,7 +1395,7 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 # Dr. Strange/Doctor Strange
 ## Doctor Strange (MC- Avengers)
-^CardNumber: MYS-001, MYS-002
+^CardNumber: ^MYS-001, MYS-002
 
 *Set: Mystic Arts*
 
@@ -1412,7 +1410,7 @@ Q: **Doctor Turned Sorceror** says I can choose which type of **Spellcaster** he
 A: The short answer is, yes, you can draw (and mulligan) before choosing. For a more detailed definition, see [Start of Game in the glossary](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_start_of_game).
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/def-004.jpg) (MC - Defenders)
-^CardNumber: DEF-003, DEF-004
+^CardNumber: ^DEF-003, DEF-004
 
 *Set: Defenders*
 
@@ -1432,7 +1430,7 @@ A: No, it would remove the +1/+1 and then... nothing else happens because they c
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/mnb-019.jpg) (SC)
-^CardNumber: MNB-019
+^CardNumber: ^MNB-019
 
 *Set: The Marvel Battles*
 Q: Can his Transmute power stun someone?
@@ -1442,7 +1440,7 @@ A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 coun
 ^(Source: UDE FAQ)
 
 # [Dust](http://vs.tcgbrowser.com/images/cards/medium/CV2-011.jpg)
-^CardNumber: CV2-011
+^CardNumber: ^CV2-011
 
 *Set: Crossover Vol. 2*
 Q: Can I include Dust in Ahab's Hound pile if my MC is not a Mutant Resistance MC? 
@@ -1452,7 +1450,7 @@ A: No. The "Starting Main Character Required" restriction on the card is a deck 
 ^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/783103861811314709)
 
 # [E.D.I.T.H](http://vs.tcgbrowser.com/images/cards/big/MCU7-022.jpg)
-^CardNumber: MCU7-022
+^CardNumber: ^MCU7-022
 
 *Set: Friendly Neighborhood*  
 
@@ -1462,14 +1460,14 @@ A: No. The "Starting Main Character Required" restriction on the card is a deck 
 
 
 # [Edwin](http://vs.tcgbrowser.com/images/cards/big/PRD-044.jpg)
-^CardNumber: PRD-044
+^CardNumber: ^PRD-044
 
 *Set: The Predator Battles*  
 
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
 
 # [Ego](http://vs.tcgbrowser.com/images/cards/big/mcu3-003.jpg)
-^CardNumber: MCU3-003, MCU3-004
+^CardNumber: ^MCU3-003, MCU3-004
 
 *Set: MCU Villains*  
 
@@ -1479,7 +1477,7 @@ Ego’s **Soon We Will Be All There Is** power allows you to turn a face-down lo
 
 # Electro
 ## [Electro](http://vs.tcgbrowser.com/images/cards/big/SYN-011.jpg) (SC)
-^CardNumber: DAR-003, DAR-004
+^CardNumber: ^DAR-003, DAR-004
 
 *Set: Sinister Syndicate*  
 
@@ -1489,7 +1487,7 @@ Electro introduces a new concept: remaining health. Remaining health is a charac
 ^(Source: Rule insert)
 
 # [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
-^CardNumber: LEG-068, LEG-069
+^CardNumber: ^LEG-068, LEG-069
 
 *Set: Legacy*  
 
@@ -1512,7 +1510,7 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
-^CardNumber: TUB-003, TUB-004, TUB-005
+^CardNumber: ^TUB-003, TUB-004, TUB-005
 
 *Set: The Utopia Battles*  
 
@@ -1523,7 +1521,7 @@ Emma’s power can be used any number of times each turn. So if a character ends
 ^(Source: Rule insert)
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/HAM-016.jpg) (SC) (H.A.M.M.E.R.)
-^CardNumber: HAM-016
+^CardNumber: ^HAM-016
 
 *Set: H.A.M.M.E.R.*  
 
@@ -1532,7 +1530,7 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 ^(Source: Rule insert)
 
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/RES-014.jpg) (SC) (Resistance)
-^CardNumber: RES-014
+^CardNumber: ^RES-014
 
 *Set: Resistance*    
 
@@ -1541,7 +1539,7 @@ When Emma transforms via **Fluid Forms and Fidelity**, the card that used to be 
 ^(Source: Rule insert)
 
 # [Enchantress](http://vs.tcgbrowser.com/images/cards/big/aff-031.jpg) (MC)
-^CardNumber: AFF-031, AFF-032
+^CardNumber: ^AFF-031, AFF-032
 
 *Set: A-Force*
 
@@ -1558,7 +1556,7 @@ A: Yes.
 ^(Source - FB Post - Chad Daniel - UDE Approved)
 
 # [Eugene Victor Tooms (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-046.jpg)
-^CardNumber: XFB-046, XFB-047
+^CardNumber: ^XFB-046, XFB-047
 
 *Set: The X-Files Battles*
 
@@ -1567,7 +1565,7 @@ A: Yes.
 ^(Source: Rule Insert)
 
 # [Even the Odds](http://vs.tcgbrowser.com/images/cards/big/mnb-076.jpg)
-^CardNumber: MNB-076
+^CardNumber: ^MNB-076
 
 *Set: The Marvel Battles*
 
@@ -1610,7 +1608,7 @@ A: This **Thing is Huge! It's... It's Big!** does not actually modify the ATK. I
 ^(Source - FB Post - Chad Daniel)
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
-^CardNumber: MFM-005, MFM-006
+^CardNumber: ^MFM-005, MFM-006
 
 *Set: Deadpool & Friends* 
   
@@ -1625,7 +1623,7 @@ Evil Deadpool’s Level 2 super power puts Good characters into play but turns t
 ^(Source: Rule insert)
 
 # [Facehugger](http://vs.tcgbrowser.com/images/cards/big/ALN-052.jpg)
-^CardNumber: ALN-052
+^CardNumber: ^ALN-052
 
 *Set: The Alien Battles*  
 
@@ -1649,7 +1647,7 @@ If you have [Ovomorphs](http://vs.tcgbrowser.com/images/cards/small/ALN-035.jpg)
 ^(Source: Rule insert)
 
 # [Faith](http://vs.tcgbrowser.com/images/cards/big/TBB-055.jpg) 
-^CardNumber: TBB-055
+^CardNumber: ^TBB-055
 
 *Set: The Buffy Battles*  
 
@@ -1658,7 +1656,7 @@ Faith can steal any kind of counter from an enemy defender.
 ^(Source: Rule insert)
 
 # [Falcon](http://vs.tcgbrowser.com/images/cards/big/mcu1-016.jpg)
-^CardNumber: MCU1-016
+^CardNumber: ^MCU1-016
 
 *Set: The MCU Battles*  
 
@@ -1667,7 +1665,7 @@ Falcon’s **Air Superiority** power prevents characters with from striking him.
 ^(Source: Rule insert)
 
 # [Falcon Drone](http://vs.tcgbrowser.com/images/cards/big/PRD-009.jpg)
-^CardNumber: PRD-009
+^CardNumber: ^PRD-009
 
 *Set: The Predator Battles*   
 
@@ -1678,7 +1676,7 @@ Example: You want to use the Falconer Supporting Character’s **Bait and Switch
 ^(Source: Rule insert)
 
 # [Falconer](http://vs.tcgbrowser.com/images/cards/big/PRD-001.jpg) (MC) 
-^CardNumber: PRD-001, PRD-002
+^CardNumber: ^PRD-001, PRD-002
 
 *Set: The Predator Battles*  
 
@@ -1690,14 +1688,14 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 ^(Source: Rule insert)
 
 # [Fallen One](http://vs.tcgbrowser.com/images/cards/big/FRI-011.jpg)
-^CardNumber: FRI-011
+^CardNumber: ^FRI-011
 
 *Set: The Frightful*
 
 When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. However, if Fallen One's strike already had enough ATK to stun them, **Fallen Herald** won't do anything. (In other words, **Fallen Herald** won't cause Galactus or Thanos to become stunned twice in one combat.)
 
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
-^CardNumber: HER-019
+^CardNumber: ^HER-019
 
 *Set: The Herald*  
 
@@ -1706,7 +1704,7 @@ When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. Ho
 ^(Source: Rule insert)
 
 # [Ferocious Xenomorph](http://vs.tcgbrowser.com/images/cards/big/ALN-039.jpg)
-^CardNumber: ALN-039
+^CardNumber: ^ALN-039
 
 *Set: The Alien Battles*
 
@@ -1719,7 +1717,7 @@ Chad Daniel - FB Post
 Editor's note: One exception to this is [Dark Phoenix (SC)](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29). If she turns off keyword text, that DOES turn off **Creature**.
 
 # [Fin Fang Foom](http://vs.tcgbrowser.com/images/cards/big/MMU-123.jpg)
-^CardNumber: MMU-123
+^CardNumber: ^MMU-123
 
 *Set: Monsters Unleashed!*  
 
@@ -1752,14 +1750,14 @@ Attacking a machine is a special type of attack declaration that can only be don
 ^(Source: Official Clarification)
 
 # [The First Evil](http://vs.tcgbrowser.com/images/cards/big/TBB-034.jpg) (MC) 
-^CardNumber: TBB-034, TBB-035
+^CardNumber: ^TBB-034, TBB-035
 
 *Set: The Buffy Battles*  
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
 
 # [Flukeman](http://vs.tcgbrowser.com/images/cards/big/XFB-054.jpg)
-^CardNumber: XFB-054
+^CardNumber: ^XFB-054
 
 *Set: The X-Files Battles*
 
@@ -1768,7 +1766,7 @@ If the Flukeman is on your side and he **Infects** a character, this means at th
 ^(Source: Rule Insert)
 
 # [Forge](http://vs.tcgbrowser.com/images/cards/big/NEW-020.jpg)
-^CardNumber: NEW-020
+^CardNumber: ^NEW-020
 
 *Set: Mystic Arts*
 
@@ -1777,7 +1775,7 @@ Note that Forge's card number starts with "NEW" instead of "DAR". This is so tha
 ^(Source: Rule Insert)
 
 # [Fox Mulder (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-003.jpg)
-^CardNumber: XFB-0003, XFB-004
+^CardNumber: ^XFB-0003, XFB-004
 
 *Set: The X-Files Battles*
 
@@ -1788,7 +1786,7 @@ Note that Forge's card number starts with "NEW" instead of "DAR". This is so tha
 ^(Source: Rule Insert)
 
 # [Franklin Richards](http://vs.tcgbrowser.com/images/cards/big/FAN-021.jpg)
-^CardNumber: FAN-021
+^CardNumber: ^FAN-021
 
 *Set: The Fantastic Battles*  
 
@@ -1827,7 +1825,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 ^(Source: Rule insert)
 
 # [Frohike](http://vs.tcgbrowser.com/images/cards/big/XFB-007.jpg), [Langly](http://vs.tcgbrowser.com/images/cards/big/XFB-008.jpg), and [Byers](http://vs.tcgbrowser.com/images/cards/big/XFB-009.jpg)
-^CardNumber: XFB-007, XFB-008, XFB-009
+^CardNumber: ^XFB-007, XFB-008, XFB-009
 
 *Set: The X-Files Battles*
 
@@ -1841,7 +1839,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
         
 
 # [Gadget](http://vs.tcgbrowser.com/images/cards/big/FAN-023.jpg)
-^CardNumber: FAN-023
+^CardNumber: ^FAN-023
 
 *Set: The Fantastic Battles*  
 
@@ -1858,7 +1856,7 @@ This Plot Twist can allow you to add an attacker to your attack. The attacker mu
 
 # Gambit
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-003.jpg) (MC)
-^CardNumber: RES-003, RES-004
+^CardNumber: ^RES-003, RES-004
 
 *Set: Resistance*  
 
@@ -1868,7 +1866,7 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 ^(Source: Rule insert)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/RES-012.jpg) (SC)
-^CardNumber: RES-012
+^CardNumber: ^RES-012
 
 *Set: Resistance*  
 
@@ -1881,7 +1879,7 @@ Note that discarding a card includes Power Ups. So each time any character on yo
 [This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_gambit_mc)
 
 ## [Gambit](http://vs.tcgbrowser.com/images/cards/big/mnb-041.jpg) (SC)
-^CardNumber: MNB-041
+^CardNumber: ^MNB-041
 
 *Set: The Marvel Battles*
 
@@ -1892,7 +1890,7 @@ A: No. There must be a face-up enemy supporting character in play.
 ^(Source: UDE FAQ)
 
 # [Gamora](http://vs.tcgbrowser.com/images/cards/big/mnb-057.jpg) (MC)
-^CardNumber: MNB-057, MNB-058
+^CardNumber: ^MNB-057, MNB-058
 
 *Set: The Marvel Battles*
 
@@ -1911,7 +1909,7 @@ A: Yes.
 ^(Source: UDE FAQ)
 
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
-^CardNumber: TBB-043
+^CardNumber: ^TBB-043
 
 *Set: The Buffy Battles*  
 
@@ -1920,7 +1918,7 @@ A: Yes.
 ^(Source: Rule insert)
 
 # [Ghost (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU5-009.jpg)
-^CardNumber: MCU5-008, MCU5-009
+^CardNumber: ^MCU5-008, MCU5-009
 
 *Set: Mind & Soul*  
 
@@ -1929,7 +1927,7 @@ A: Yes.
 ^(Source: Rule insert)
 
 # [Ghost Rider](http://vs.tcgbrowser.com/images/cards/big/def-006.jpg) (MC)
-^CardNumber: DEF-005, DEF-006
+^CardNumber: ^DEF-005, DEF-006
 
 *Set: Defenders*
 
@@ -1940,7 +1938,7 @@ A: No, defense is never chipped away in this game.
 ^(Source: FB Post - UDE Approved)
 
 # [Ghost Spider](http://vs.tcgbrowser.com/images/cards/big/WEB-003.jpg) (MC)
-^CardNumber: WEB-003, WEB-004
+^CardNumber: ^WEB-003, WEB-004
 
 *Set: Webheads*  
 
@@ -1961,7 +1959,7 @@ If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players
 ^(Source: Rule insert)
 
 # [Gilgamesh](http://vs.tcgbrowser.com/images/cards/small/COS-015.jpg)
-^CardNumber: XFB-015
+^CardNumber: ^XFB-015
 
 *Set: Cosmic Avengers*  
 
@@ -1970,7 +1968,7 @@ For Gilgamesh's **The Forgotten One**, if there is a game effect preventing you 
 ^(Source: Rule insert)
 
 # [Global Information Network](http://vs.tcgbrowser.com/images/cards/big/COS-020.jpg)
-^CardNumber: COS-020
+^CardNumber: ^COS-020
 
 *Set: Cosmic Avengers*  
 
@@ -1986,7 +1984,7 @@ In this Arc, we are playing around with how players can use locations besides su
 ^(Source: Rule insert)
 
 # [Glory](http://vs.tcgbrowser.com/images/cards/big/TBB-049.jpg) 
-^CardNumber: TBB-049
+^CardNumber: ^TBB-049
 
 *Set: The Buffy Battles*  
 
@@ -1995,7 +1993,7 @@ In this Arc, we are playing around with how players can use locations besides su
 ^(Source: Rule insert)
 
 # [Goblin Queen](http://vs.tcgbrowser.com/images/cards/big/aff-042.jpg)
-^CardNumber: AFF-042
+^CardNumber: ^AFF-042
 
 *Set: A-Force*  
 
@@ -2013,7 +2011,7 @@ A: Thanos will gain XP from a Token being KO'd and Tokens will exist for a brief
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Goose ](http://vs.tcgbrowser.com/images/cards/big/MCU5-028.jpg)
-^CardNumber: MCU5-028
+^CardNumber: ^MCU5-028
 
 *Set: Mind & Soul*  
 
@@ -2027,7 +2025,7 @@ If an effect needs to know Goose's cost, treat it as 0 (regardless of how many r
 
 
 # \* [Gorgon](http://vs.tcgbrowser.com/images/cards/small/SVH-013.jpg) \*
-^CardNumber: SVH-013
+^CardNumber: ^SVH-013
 
 *Set: S.H.I.E.L.D. vs. Hydra*  
 
@@ -2038,7 +2036,7 @@ Gorgon’s power removes the stat benefit from +1/+1 counters on enemy character
 
 # The Grandmaster
 ## [The Grandmaster - Illustrated MC](http://vs.tcgbrowser.com/images/cards/big/CV3-005.jpg)
-^CardNumber: CV3-005, CV3-006
+^CardNumber: ^CV3-005, CV3-006
 
 *Set: Crossover Vol. 3*
 
@@ -2053,7 +2051,7 @@ If more than one player has the Grandmaster as their main character, they will e
 ^(Source: Rule Insert)
 
 ## [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/MCU6-001.jpg) - MCU SC
-^CardNumber: MCU6-001, MCU6-002
+^CardNumber: ^MCU6-001, MCU6-002
 
 *Set: Space & Time*  
 
@@ -2064,7 +2062,7 @@ If more than one player has the Grandmaster as their main character, they will e
 
 # Green Goblin
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC - Sinister Six)
-^CardNumber: CV1-005
+^CardNumber: ^CV1-005
 
 *Set: Crossover*  
 
@@ -2075,7 +2073,7 @@ Goblin’s **Bag of Tricks** allows you to discard Locations to make him more po
 ^(Source: Rule insert)
 
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/mnb-079.jpg) (MC - Super Villains)
-^CardNumber: MNB-079, MNB-080, LEG-028, LEG-029
+^CardNumber: ^MNB-079, MNB-080, LEG-028, LEG-029
 
 *Set: The Marvel Battles* 
 
@@ -2094,7 +2092,7 @@ A: Yes.
 ^(Source: FB Post - Tim Saunders - UDE Approved)
 
 ## [Green Goblin (SC - Sinister Six)](http://vs.tcgbrowser.com/images/cards/big/SYN-016.jpg)
-^CardNumber: SYN-016
+^CardNumber: ^SYN-016
 
 *Set: Sinister Syndicate*
 
@@ -2104,7 +2102,7 @@ A: Yes. For details, see the [Glossary entry for Hide](https://www.reddit.com/r/
 
 
 # [Grid](http://vs.tcgbrowser.com/images/cards/big/MMU-053.jpg)
-^CardNumber: MMU-053
+^CardNumber: ^MMU-053
 
 *Set: Monsters Unleashed*
 
@@ -2123,7 +2121,7 @@ A: It does not leave play when it is unequipped. It is equipped to the new chara
 
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
-^CardNumber: MNB-059, MNB-060, LEG-021, LEG-022
+^CardNumber: ^MNB-059, MNB-060, LEG-021, LEG-022
 
 *Set: The Marvel Battles*
 
@@ -2151,7 +2149,7 @@ A: Yes
 
 
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-070.jpg) (SC)
-^CardNumber: MNB-070
+^CardNumber: ^MNB-070
 
 *Set: The Marvel Battles*
 
@@ -2162,7 +2160,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 ^(Source: FB Post)
 
 ## [Guillotine](http://vs.tcgbrowser.com/images/cards/big/CV3-007.jpg)
-^CardNumber: CV3-007
+^CardNumber: ^CV3-007
 
 *Set: Crossover Vol. 3*
 
@@ -2172,7 +2170,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 
 # Hawkeye
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC - Illustrated)
-^CardNumber: COS-006, COS-007
+^CardNumber: ^COS-006, COS-007
 
 *Set: Cosmic Avengers*  
 
@@ -2199,7 +2197,7 @@ A: Yes.
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/622921783787388930)
 
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/MCU4-005.jpg) (MC-MCU)
-^CardNumber: MCU4-005, MCU4-006
+^CardNumber: ^MCU4-005, MCU4-006
 
 *Set: Power & Reality*  
 
@@ -2216,7 +2214,7 @@ If Hawkeye uses **I Want You On That Roof** while he already has a **Nest**, tur
 ^(Source: Rule insert)
 
 # [Headsman](http://vs.tcgbrowser.com/images/cards/big/HAM-012.jpg)
-^CardNumber: HAM-012
+^CardNumber: ^HAM-012
 
 *Set: H.A.M.M.E.R.*  
 
@@ -2227,7 +2225,7 @@ If Hawkeye uses **I Want You On That Roof** while he already has a **Nest**, tur
 
 # Helmut Zemo
 ## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg) (SC)
-^CardNumber: DEF-036
+^CardNumber: ^DEF-036
 
 *Set: Defenders*
 
@@ -2246,7 +2244,7 @@ A: The effect is asking if a character in their hand matches the team affiliatio
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/SVH-001.jpg) (MC)
-^CardNumber: SVH-001, SVH-002
+^CardNumber: ^SVH-001, SVH-002
 
 *Set: S.H.I.E.L.D. vs. Hydra*
 
@@ -2258,7 +2256,7 @@ So 5.
 ^(Source: IM Conversation - Chad Daniel - UDE Approved)
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
-^CardNumber: SFO-009
+^CardNumber: ^SFO-009
 
 *Set: Spidey-Foes*  
 
@@ -2267,7 +2265,7 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 ^(Source: Rule insert)
 
 # [The Hood](http://vs.tcgbrowser.com/images/cards/big/DAR-009.jpg)
-^CardNumber: DAR-009
+^CardNumber: ^DAR-009
 
 *Set: Into the Darkness*  
 
@@ -2277,7 +2275,7 @@ As Hobgoblin appears, **Nothing Without the Green Goblin** will copy any "appear
 
 # Hope Summers
 ## [Hope Summers](http://vs.tcgbrowser.com/images/cards/big/mnb-037.jpg) (X-men)
-^CardNumber: MNB-037
+^CardNumber: ^MNB-037
 
 *Set: The Marvel Battles*
 
@@ -2288,7 +2286,7 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 ^(Source: UDE FAQ)
 
 ## [Hope Summers (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-006.jpg)
-^CardNumber: OGA-006
+^CardNumber: ^OGA-006
 
 *Set: The Omegas*  
 
@@ -2301,7 +2299,7 @@ You start the game with a private out-of-the-game Echo pile. It must consist of 
 
 # Hulk
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC - Photo)
-^CardNumber: MCU1-004
+^CardNumber: ^MCU1-004
 
 *Set: The MCU Battles*  
 
@@ -2310,7 +2308,7 @@ See [Bruce Banner](#wiki_bruce_banner_.28and_the_hulk.29_.28mc.29)
 ^(Source: Rule insert)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-024.jpg) (SC - Photo)
-^CardNumber: MCU1-024
+^CardNumber: ^MCU1-024
 
 *Set: The MCU Battles*   
 
@@ -2319,7 +2317,7 @@ Hulk’s **Hulk Like Raging Fire** power allows you to choose any number to give
 ^(Source: Rule insert)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mnb-004.jpg) (MC - Illustrated)
-^CardNumber: MNB-004
+^CardNumber: ^MNB-004
 
 *Set: The Marvel Battles*
 
@@ -2330,7 +2328,7 @@ A: No, you must remove them all.
 ^(Source: UDE FAQ)
 
 ## [Hulk](http://vs.tcgbrowser.com/images/cards/big/DFX-018.jpg) (SC - Illustrated)
-^CardNumber: DFX-018
+^CardNumber: ^DFX-018
 
 *Set: The New Defenders*  
 
@@ -2343,7 +2341,7 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
-^CardNumber: SFO-006
+^CardNumber: ^SFO-006
 
 *Set: Spidey-Foes*  
 
@@ -2354,7 +2352,7 @@ Note: +1/+1 counters granted from Plot Twists can't be converted by **Fluid Tact
 ^(Source: Rule insert)
 
 # [Hyperion](http://vs.tcgbrowser.com/images/cards/big/COS-014.jpg)
-^CardNumber: COS-014
+^CardNumber: ^COS-014
 
 *Set: Cosmic Avengers*  
 
@@ -2364,7 +2362,7 @@ Hyperion's **Reliance on Solar Energy** is not a super power. Note that the enem
 
 # Iceman
 ## [Iceman](http://vs.tcgbrowser.com/images/cards/big/mnb-035.jpg) (X-men)
-^CardNumber: MNB-035
+^CardNumber: ^MNB-035
 
 *Set: The Marvel Battles*
 
@@ -2383,7 +2381,7 @@ A: Yes. The character would recover its next turn, but it wouldn't ready.
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/593609723715256335)
 
 ## [Iceman (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-007.jpg)
-^CardNumber: OGA-007
+^CardNumber: ^OGA-007
 
 *Set: The Omegas*  
 
@@ -2401,7 +2399,7 @@ Several characters have powers that impersonate other characters. These powers t
 ^(Source: Rule insert)
 
 # [Impossible Man](http://vs.tcgbrowser.com/images/cards/big/FAN-049.jpg)
-^CardNumber: FAN-049
+^CardNumber: ^FAN-049
 
 *Set: The Fantastic Battles*  
 
@@ -2411,7 +2409,7 @@ Impossible Man is three cards in one. He can be played as an Equipment, a Plot T
 ^(Source: Rule insert)
 
 # [The In-Betweener](http://vs.tcgbrowser.com/images/cards/big/CV2-009.jpg)
-^CardNumber: CV2-009
+^CardNumber: ^CV2-009
 
 *Set: Crossover Vol. 2*  
 
@@ -2424,7 +2422,7 @@ The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to 
 ^(Source: Rule insert)
 
 # [The Infinity Gauntlet](http://vs.tcgbrowser.com/images/cards/big/BLK-017.jpg)
-^CardNumber: BLK-017
+^CardNumber: ^BLK-017
 
 *Set: Black Order*  
 
@@ -2453,7 +2451,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
-^CardNumber: BLK-018, BLK-019, BLK-021, BLK-023
+^CardNumber: ^BLK-018, BLK-019, BLK-021, BLK-023
 
 *Set: Black Order*  
 
@@ -2469,7 +2467,7 @@ See also:
 - [The Reality Gem](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_the_reality_gem)
 
 # [Inhibitor Collar](http://vs.tcgbrowser.com/images/cards/big/FUT-026.jpg)
-^CardNumber: FUT-026
+^CardNumber: ^FUT-026
 
 *Set: Futures Past*
 
@@ -2478,7 +2476,7 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 ^(Source: Rule Insert)
 
 # [Invisible Boy](http://vs.tcgbrowser.com/images/cards/big/HER-014.jpg)
-^CardNumber: HER-014
+^CardNumber: ^HER-014
 
 *Set: The Herald*  
 
@@ -2488,7 +2486,7 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 
 # Iron Fist
 ## [Iron Fist (MC)](http://vs.tcgbrowser.com/images/cards/big/MYS-003.jpg)
-^CardNumber: MYS-003, MYS-004
+^CardNumber: ^MYS-003, MYS-004
 
 *Set: Mystic Arts*
 
@@ -2497,7 +2495,7 @@ When Iron Fist Challenges a character, it remains challenged by him until it lea
 ^(Rule Insert)
 
 ## [Iron Fist (SC)](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
-^CardNumber: DEF-012
+^CardNumber: ^DEF-012
 
 *Set: Defenders*
 
@@ -2508,7 +2506,7 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
-^CardNumber: CV1-014
+^CardNumber: ^CV1-014
 
 *Set: Crossover*  
 
@@ -2517,7 +2515,7 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 ^(Source: Rule insert)
 
 # [Ironman](http://vs.tcgbrowser.com/images/cards/big/mnb-005.jpg) (MC)
-^CardNumber: MNB-005, MNB-006
+^CardNumber: ^MNB-005, MNB-006
 
 *Set: The Marvel Battles*
 
@@ -2528,7 +2526,7 @@ A: Yes. It can be Iron Man or another character on your side.
 ^(Source: UDE FAQ)
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
-^CardNumber: MCU1-034, MCU1-035
+^CardNumber: ^MCU1-034, MCU1-035
 
 *Set: The MCU Battles*  
 
@@ -2537,7 +2535,7 @@ The owner of a character is the player who brought that card to the game, regard
 ^(Source: Rule insert)
 
 # [Isabelle](http://vs.tcgbrowser.com/images/cards/big/PRD-047.jpg)
-^CardNumber: PRD-047
+^CardNumber: ^PRD-047
 
 *Set: The Predator Battles*  
 
@@ -2547,7 +2545,7 @@ Isabelle’s supporting character has this keyword. Enemy players can turn down 
 ^(Source: Rule insert)
 
 # [Iso-Sphere](http://vs.tcgbrowser.com/images/cards/big/CV3-011.jpg)
-^CardNumber: CV3-011
+^CardNumber: ^CV3-011
 
 *Set: Crossover Vol. 3*  
 
@@ -2560,7 +2558,7 @@ The equipped character starts the bidding. (They can bid 0.) Then the next playe
 ^(Source: Rule Insert)
 
 # [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg)
-^CardNumber: CV3-011
+^CardNumber: ^CV3-011
 
 *Set: Galactic Guardians*  
 
@@ -2569,7 +2567,7 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 ^(Source: Rule insert)
 
 # [Jean Grey (MC - Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-002.jpg)
-^CardNumber: OGA-001, OGA-002, OGA-003
+^CardNumber: ^OGA-001, OGA-002, OGA-003
 
 *Set: The Omegas*
 
@@ -2590,7 +2588,7 @@ This does NOT change the source of the original modifier or event, it just chang
 ^Source: [^Chad ^Daniel ^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3396508327051356/)
 
 # [Jeffrey Spender](http://vs.tcgbrowser.com/images/cards/big/XFB-043.jpg)
-^CardNumber: XFB-043
+^CardNumber: ^XFB-043
 
 *Set: The X-Files Battles*
 
@@ -2599,7 +2597,7 @@ This does NOT change the source of the original modifier or event, it just chang
 ^(Source: Rule Insert)
 
 # [Jenn](http://vs.tcgbrowser.com/images/cards/big/XFB-057.jpg)
-^CardNumber: XFB-057
+^CardNumber: ^XFB-057
 
 *Set: The X-Files Battles*
 
@@ -2620,7 +2618,7 @@ If the cards are Equipment or Plot Twists both of you may ignore any team affili
 ^(Source: Rule Insert)
 
 # [Jessica Jones](http://vs.tcgbrowser.com/images/cards/big/LEG-043.jpg)
-^CardNumber: LEG-043
+^CardNumber: ^LEG-043
 
 *Set: Legacy*  
 
@@ -2631,7 +2629,7 @@ This power refers to ![](%%Intellect%%) (Intellect) super powers. This counts fo
 
 # Juggernaut
 ## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
-^CardNumber: BOM-001, BOM-002
+^CardNumber: ^BOM-001, BOM-002
 
 *Set: Brotherhood of Mutants*  
 
@@ -2642,7 +2640,7 @@ Juggernaut is so big and powerful it’s almost impossible to beat him physicall
 For info about **Unstoppable**, see Juggernaut SC.
 
 ## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/mnb-096.jpg) (SC)
-^CardNumber: MNB-096
+^CardNumber: ^MNB-096
 
 *Set: Brotherhood of Mutants*
 
@@ -2676,14 +2674,14 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 ^(Source: FB Post - Chad Daniel)
 
 # [Jungle Hunter](http://vs.tcgbrowser.com/images/cards/big/PRD-006.jpg) (MC)
-^CardNumber: PRD-005, PRD-006
+^CardNumber: ^PRD-005, PRD-006
 
 *Set: The Predator Battles*
 
 [This card has a misprint.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_jungle_hunter_mc)
 
 # [Kaecilius](http://vs.tcgbrowser.com/images/cards/big/mcu3-016.jpg)
-^CardNumber: MCU3-016
+^CardNumber: ^MCU3-016
 
 *Set: MCU Villains*  
 
@@ -2693,7 +2691,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 # Kang
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-006.jpg) (MC)
-^CardNumber: FRI-006, FRI-007
+^CardNumber: ^FRI-006, FRI-007
 
 *Set: The Frightful*
 
@@ -2702,7 +2700,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ^(Source: Rule Insert)
 
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-009.jpg) (SC)
-^CardNumber: FRI-009
+^CardNumber: ^FRI-009
 
 *Set: The Frightful*
 
@@ -2715,7 +2713,7 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 ^(Source: Rule Insert)
 
 # [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and [Kitty) Pryde](http://vs.tcgbrowser.com/images/cards/big/FUT-002.jpg) (MC)
-^CardNumber: FUT-001, FUT-002
+^CardNumber: ^FUT-001, FUT-002
 
 *Set: Futures Past*
 Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
@@ -2751,7 +2749,7 @@ It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** wou
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
-^CardNumber: DEF-028, DEF-029, LEG-046, LEG-047
+^CardNumber: ^DEF-028, DEF-029, LEG-046, LEG-047
 
 *Set: Defenders*
 
@@ -2762,7 +2760,7 @@ A: No, "appears" means to come into play from anywhere, so the Location has to b
 ^(Source: FB Post - Kirk)
 
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-047.jpg) (SC)
-^CardNumber: DEF-047
+^CardNumber: ^DEF-047
 
 *Set: The Defenders*  
 
@@ -2804,7 +2802,7 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 ^(Source: FB Post - Chad Daniel)
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
-^CardNumber: SYN-002
+^CardNumber: ^SYN-002
 
 *Set: Sinister Syndicate*  
 
@@ -2814,7 +2812,7 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 ^(Source: Rule insert)
 
 # [Lady Deathstrike](http://vs.tcgbrowser.com/images/cards/big/aff-046.jpg)
-^CardNumber: AFF-046
+^CardNumber: ^AFF-046
 
 *Set: A-Force*
 
@@ -2833,7 +2831,7 @@ A: Impervious Skin would not apply because it only prevents wounds from getting 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Lambert](http://vs.tcgbrowser.com/images/cards/big/PRD-049.jpg)
-^CardNumber: PRD-049
+^CardNumber: ^PRD-049
 
 *Set: The Predator Battles*  
 
@@ -2843,7 +2841,7 @@ While in play, Lambert has every Good Team Affiliation. This does a variety of t
 ^(Source: Rule insert)
 
 # [Legacy](http://vs.tcgbrowser.com/images/cards/big/HER-012.jpg)
-^CardNumber: HER-012
+^CardNumber: ^HER-012
 
 *Set: The Herald*  
 
@@ -2852,7 +2850,7 @@ Legacy can pay for **Nega-Bands** by spending either a ![](%%Might%%) (Might) or
 ^(Source: Rule insert)
 
 # [Legion](http://vs.tcgbrowser.com/images/cards/big/OGA-010.jpg)
-^CardNumber: OGA-010
+^CardNumber: ^OGA-010
 
 *Set: The Omegas*  
 
@@ -2913,7 +2911,7 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 ^(Source: Rule insert)
 
 # [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
-^CardNumber: MMU-081
+^CardNumber: ^MMU-081
 
 *Set: Monsters Unleashed!*  
 
@@ -2922,7 +2920,7 @@ See [Fin Fang Foom](#wiki_fin_fang_foom).
 ^(Source: Rule insert)
 
 # [Leviathon Twin Drake](http://vs.tcgbrowser.com/images/cards/big/CV1-012.jpg)
-^CardNumber: CV1-012
+^CardNumber: ^CV1-012
 
 *Set: Crossover Vol. 1*
 
@@ -2933,7 +2931,7 @@ A: All characters with **Comet Fall** gain an additional instance of **Comet Fal
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/625832553487663127)
 
 # [Life on the Hellmouth](http://vs.tcgbrowser.com/images/cards/big/TBB-057.jpg) 
-^CardNumber: TBB-057
+^CardNumber: ^TBB-057
 
 *Set: The Buffy Battles*  
 
@@ -2942,7 +2940,7 @@ This Plot Twist puts two characters on your side in a Relationship. This means t
 ^(Source: Rule insert)
 
 # [Lilith](http://vs.tcgbrowser.com/images/cards/big/LEG-072.jpg)
-^CardNumber: LEG-072
+^CardNumber: ^LEG-072
 
 *Set: Legacy*
 
@@ -2985,7 +2983,7 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 ^(Source: FB Post - Chad Daniel)
 
 # [\* Lilith \*](http://vs.tcgbrowser.com/images/cards/big/DAR-010.jpg)
-^CardNumber: DAR-010
+^CardNumber: ^DAR-010
 
 *Set: Into the Darkness*
 
@@ -2994,7 +2992,7 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 ^(Source: Rule Insert)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
-^CardNumber: GAL-017
+^CardNumber: ^GAL-017
 
 *Set: Galactic Guardians*  
 
@@ -3003,7 +3001,7 @@ When the Living Tribunal **Balances the Multiverse**, he's removed from the game
 ^(Source: Rule insert)
 
 # [Lockjaw](http://vs.tcgbrowser.com/images/cards/big/MMU-056.jpg)
-^CardNumber: MMU-056
+^CardNumber: ^MMU-056
 
 *Set: Monsters Unleashed*
 
@@ -3017,7 +3015,7 @@ Editor's note: On the flip side, the characters brought **Along for the Ride** w
 
 # Logan 
 ## [Logan (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-004.jpg)
-^CardNumber: FUT-003, FUT-004
+^CardNumber: ^FUT-003, FUT-004
 
 *Set: Futures Past*
 
@@ -3028,7 +3026,7 @@ Logan's Level 4 Main Character grants a **Level Up** power (**Not Nice in Any Ti
 ^(Source: Rule Insert)
 
 ## [Logan (SC)](http://vs.tcgbrowser.com/images/cards/big/FUT-013.jpg)
-^CardNumber: FUT-013
+^CardNumber: ^FUT-013
 
 *Set: Futures Past*
 
@@ -3058,7 +3056,7 @@ Here's how his **Canadian Resistance Colonel** works:
 # Loki
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
-^CardNumber: MNB-081, MNB-082
+^CardNumber: ^MNB-081, MNB-082
 
 *Set: The Marvel Battles*
 
@@ -3069,7 +3067,7 @@ A: During combat when you activate that power, you immediately choose and play a
 ^(Source: UDE FAQ)
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mcu1-057.jpg) (SC - Photo)
-^CardNumber: MCU1-057
+^CardNumber: ^MCU1-057
 
 *The MCU Battles*  
 
@@ -3078,7 +3076,7 @@ Loki’s **I Am Burdened With Glorious Purpose** power lets you discard a charac
 ^(Source: Rule insert)
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-098.jpg) (SC - Super Villains)
-^CardNumber: MNB-098
+^CardNumber: ^MNB-098
 
 *Set: The Marvel Battles*
 
@@ -3091,7 +3089,7 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 ^(Source: UDE Blog Preview post)
 
 # [The Lone Gunmen Newsletter](http://vs.tcgbrowser.com/images/cards/big/XFB-019.jpg)
-^CardNumber: XFB-019
+^CardNumber: ^XFB-019
 
 *Set: The X-Files Battles*
 
@@ -3100,7 +3098,7 @@ Note that this Plot Twist will only cancel either one Super Power or one Plot Tw
 ^(Source: Rule Insert)
 
 # [Loyal Soldiers](http://vs.tcgbrowser.com/images/cards/big/def-053.jpg)
-^CardNumber: DEF-053
+^CardNumber: ^DEF-053
 
 *Set: Defenders*
 
@@ -3112,7 +3110,7 @@ A: Yes, characters keep their affiliations even when they are stunned.
 
 
 # [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
-^CardNumber: MNB-018
+^CardNumber: ^MNB-018
 
 *Set: The Marvel Battles*
 
@@ -3130,11 +3128,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Njg5MTgxOCw2MjU2NjM2NDksLTgwOD
-AwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1
-LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
-c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
-LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTksLTEzOT
-kxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMwNDYyOSw3NTM4MTky
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTU1OTE2NDQ3NiwyMDQ2ODkxODE4LDYyNT
+Y2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIy
+Miw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNT
+MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
+MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
+gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
+NjI5XX0=
 -->
