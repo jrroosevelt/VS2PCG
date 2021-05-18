@@ -2239,7 +2239,7 @@ This Spider-Man, from the Ultimate Universe, is our first character to share a m
 ^(Source: Rule insert)
 
 # [Spider-UK](http://vs.tcgbrowser.com/images/cards/big/WEB-005.jpg) (MC)
-^CardNumber: BLK-022
+^CardNumber: WEB-005
 
 *Set: Webheads*  
 
@@ -2254,6 +2254,8 @@ Note: Spider-UK can be powered up by any character with "Spider" in their name, 
 ^(Source: Rule insert)
 
 # [Squirrel Girl](http://vs.tcgbrowser.com/images/cards/big/LEG-060.jpg)
+^CardNumber: LEG-060
+
 *Set: Legacy*  
 
 **Let’s Get Nuts**  
@@ -2262,6 +2264,8 @@ Squirrel Girl’s power lets her put token characters into play. A token charact
 ^(Source: Rule insert)
 
 # [Stand Together](http://vs.tcgbrowser.com/images/cards/big/CV1-022.jpg)
+^CardNumber: BLK-022
+
 *Set: Crossover*  
 
 **Stand Together** introduces **Reaction** Plot Twists to the game. When an enemy character uses a Super Power, after they pay any required power symbols, you can play **Stand Together** to cancel it before it takes effect. You must have at least as many face-up characters as the number of power symbols they paid. (If they paid none, then you don’t have to have any face-up characters.)
@@ -2981,7 +2985,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mzg4NzQwLDEzODg5MjU5MTEsMTQxOD
+eyJoaXN0b3J5IjpbMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxOD
 QzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkx
 MTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LD
 E5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5
