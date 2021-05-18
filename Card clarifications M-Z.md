@@ -2620,7 +2620,7 @@ A: Yes. In fact, he affects all stunned characters so he could put a wound on yo
 ^(Source: UDE FAQ)
 
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
-^CardNumber: MCU1-009, MCU
+^CardNumber: MCU1-009, MCU1-010
 
 *Set: The MCU Battles*  
 
@@ -2629,6 +2629,8 @@ Thor’s **Journey of Self Discovery** Level Up power requires him to make three
 ^(Source: Rule insert)
 
 # \* [Thor](http://vs.tcgbrowser.com/images/cards/big/COS-011.jpg) \*
+^CardNumber: COS-011
+
 *Set: Cosmic Avengers*  
 
 Jane Foster becomes Thor when the original Thor shirks his responsibility. She has \*s around her name, meaning she shares the "mantle" with Thor himself. This means both characters can be on a side at the same time because they're different beings, just with the same name. So you don't KO either because of uniqueness rules and they can't power each other up. When Thor is ready to start being "the" Thor again, Jane gracefully demurs. 
@@ -2639,12 +2641,16 @@ Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
 ^(Source: Rule insert)
 
-# Thunderball
+# [Thunderball](http://vs.tcgbrowser.com/images/cards/big/MOE-017.jpg)
+^CardNumber: MOE-017
+
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
-# Tiger Shark
+# [Tiger Shark](http://vs.tcgbrowser.com/images/cards/big/MOE-010.jpg)
+^CardNumber: MOE-017
+
 *Set: Masters of Evil*
 
 Here’s an example of how Tiger Shark’s **Adamantium Teeth** works: If Tiger Shark strikes a 5/5 character and doesn’t stun it, **Adamantium Teeth** will put two -1/-1 counters on it, making it a 3/3 at the end of combat. (Note: Tiger Shark’s strike will either stun a character in combat or put two -1/-1 counters on it, but not both.)
@@ -3037,11 +3043,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTE1NzIxNyw5NTA0Mzk5MjEsLTEyNz
-gyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcx
-OSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC
-03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0
-NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MD
-MsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3
-NDMxNDU5MV19
+eyJoaXN0b3J5IjpbMzU2MDUyOTg2LDk1MDQzOTkyMSwtMTI3OD
+I4MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5
+LC0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLT
+c2MDgyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3
+NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMy
+w3OTU4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0
+MzE0NTkxXX0=
 -->
