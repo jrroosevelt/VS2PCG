@@ -2752,8 +2752,8 @@ If all your Ultrons are in the Ultron Facility at the same time, you lose the ga
 
 ^(Source: Rule insert)
 
-## Ultron (SC - Illustrated)
-^CardNumber: MOE-016, MOE-017
+## [Ultron (SC - Illustrated)](http://vs.tcgbrowser.com/images/cards/big/MOE-009.jpg)
+^CardNumber: MOE-009
 
 *Set: Masters of Evil*  
 
@@ -2763,6 +2763,8 @@ If this Ultron Supporting Character is on your side, and somehow two **Swarm** c
 
 
 # [Uncanny Defenses](http://vs.tcgbrowser.com/images/cards/big/mnb-051.jpg)
+^CardNumber: MNB-051
+
 *Set: The Marvel Battles*
 
 Q: Can I switch the defender with a stunned character on my side?
@@ -2788,7 +2790,9 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 ^(Source: UDE FAQ)
 
 # Valkyrie
-## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC - MCU Heroes)
+## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/MCU5-017.jpg) (MC - MCU Heroes)
+^CardNumber: MCU5-016, MCU5-017
+
 *Set: Mind & Soul*  
 
 **Scrapper #142** doesn't care how a card enters a KO pile. It could be a KO'd Equipment or character, a discarded character, or even an effect that puts a card directly from your deck to your KO pile.
@@ -2798,6 +2802,8 @@ If **The Famed Sword of the Valkyrie** is used to remove an enemy Main Character
 ^(Source: Rule insert)
 
 ## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg) (SC)
+^CardNumber: MCU5-016, MCU5-017
+
 *Set: The Defenders*
 
 Q: Do you still have to spend resource points to recruit after activating Valkyrie's **Chooser of the Slain**?
@@ -3064,7 +3070,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU4NzY3MSw5NTA0Mzk5MjEsLTEyNz
+eyJoaXN0b3J5IjpbMTQyNTI0NzAwNSw5NTA0Mzk5MjEsLTEyNz
 gyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcx
 OSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC
 03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0
