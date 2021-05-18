@@ -2331,7 +2331,7 @@ Her **Intangibility** power lets her strike characters while they're in a player
 
 # Storm
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/mnb-027.jpg) (MC)
-^CardNumber: MNB-02
+^CardNumber: MNB-027, MNB-028
 
 *Set: The Marvel Battles*
 
@@ -2350,6 +2350,8 @@ A: Yes.
 ^(Source: UDE FAQ)
 
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg) (SC)
+^CardNumber: RES-013
+
 *Set: Resistance*  
 
 **You Can’t Weather This Storm** is a Keyword Power, not a Super Power.
@@ -2357,6 +2359,8 @@ A: Yes.
 ^(Source: Rule insert)
 
 # [Strength Above All Else](http://vs.tcgbrowser.com/images/cards/big/SVH-027.jpg)
+^CardNumber: SVH-027
+
 *Set: S.H.I.E.L.D. vs. Hydra*
 
 Q: 
@@ -2373,6 +2377,8 @@ A: if you are the highest ATK character during combat resolution you can't be st
 ^(Source: Chad Daniel - UDE Approved)
 
 # [Sunspot](http://vs.tcgbrowser.com/images/cards/big/NEW-013.jpg)
+^CardNumber: NEW-013
+
 *Set: New Mutants*   
 
 Sunspot’s **Solar Absorption** power is not optional. At the start of your Main Phase, you must turn a basic location face down, even if you’re the only player with one.
@@ -2380,6 +2386,8 @@ Sunspot’s **Solar Absorption** power is not optional. At the start of your Mai
 ^(Source: Rule insert)
 
 # [Supergiant](http://vs.tcgbrowser.com/images/cards/big/BLK-013.jpg)
+^CardNumber: BLK-013
+
 *Set: Black Order*  
 
 Both of Supergiant's powers trigger when she appears. You can resolve them in whichever order you like.
@@ -2997,11 +3005,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NjYwMzIzLDE1MjE1MTU4MywxMzg4OT
-I1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5
-MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMT
-Y2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUz
-MDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC
-0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMyMzUzODg1MSw1MTgw
-NDYwODNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzgyODExNDksMTUyMTUxNTgzLDEzOD
+g5MjU5MTEsMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3
+MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OS
+wxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0
+NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1MzgwMjEzMj
+IsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4ODUxLDUx
+ODA0NjA4M119
 -->
