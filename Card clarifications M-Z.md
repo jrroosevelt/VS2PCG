@@ -1836,6 +1836,8 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: FB Post)
 
 # [Silver Surfer](http://vs.tcgbrowser.com/images/cards/big/HER-005.jpg) (MC)
+^CardNumber: HER-003, HER-004, HER-005
+
 *Set:  The Herald*  
 
 **Take a Stand** allows you to spend any team's special Location that has ![](%%Humanity%%) (Humanity). For example, you could use the (Monsters) Mu Location to generate a ![](%%Humanity%%) (Humanity) for the Silver Surfer.
@@ -1845,6 +1847,8 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 ^(Source: Rule insert)
 
 # [Simon Trask](http://vs.tcgbrowser.com/images/cards/big/TUB-037.jpg) (MC) 
+^CardNumber: TUB-037, TUB-038
+
 *Set: The Utopia Battles*  
 
 **Proposition X** works like this. When an enemy character appears, check each of its team affiliations against each team affiliation on characters on your side. For each affiliation the enemy character has that is NOT shared, Trask gains 1 XP. 
@@ -1855,6 +1859,8 @@ A: No, For a team attack to be legal, all characters have to be on the same team
 
 # Singularity
 ## [Singularity](http://vs.tcgbrowser.com/images/cards/big/LEG-055.jpg) (MC)
+^CardNumber: LEG-055, LEG-056
+
 *Set: Legacy* 
 
 Q: If three of my 1 drop characters are KO'd by Electro, can I use Envelop to return all of them to my hand?
@@ -2931,11 +2937,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMT
-U2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2
-NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OS
-wtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1ODMxNzM5LDE1Mzgw
-MjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxNDU5MSwtMzIzNTM4OD
-UxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0OTk5NjI0NSwtMjAz
-NTM4NjE4OF19
+eyJoaXN0b3J5IjpbNjEzNzU2MDc4LDE0MTg0Mzc3MTksLTIxMD
+U1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3
+MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC
+0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgz
+MTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OT
+EsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5
+OTYyNDVdfQ==
 -->
