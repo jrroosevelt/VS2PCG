@@ -2865,13 +2865,15 @@ While Vulture is attacking a character without ![](%%Flight%%) that is also in i
 ^(Source: Rule insert)
 
 # [Wakanda](http://vs.tcgbrowser.com/images/cards/big/COS-022.jpg)
-^CardNumber: MCU5-016, MCU5-017
+^CardNumber: COS-022
 
 *Set: Cosmic Avengers*  
 
 See [Global Information Network](#wiki_global_information_network)
 
-# [Weapon Omega](http://vs.tcgbrowser.com/images/cards/big/TUB-035.jpg) (MC) 
+# [Weapon Omega](http://vs.tcgbrowser.com/images/cards/big/TUB-035.jpg) (MC)
+^CardNumber: TUB-035, TUB-036
+ 
 *Set: The Utopia Battles*  
 
 **Mutant Energy Absorption**’s effect has no duration. So a character that loses and can’t gain powers this way, will remain like that until it leaves play. 
@@ -2881,6 +2883,8 @@ See [Global Information Network](#wiki_global_information_network)
 ^(Source: Rule insert)
 
 # [Willie Lumpkin](http://vs.tcgbrowser.com/images/cards/big/FAN-010.jpg)
+^CardNumber: FAN-010
+
 *Set: The Fantastic Battles*  
 
 Willie is a **Delivery Expert**, not a Delivery Novice. Package counters stay on Willie even if he's turned face down.
@@ -2890,6 +2894,8 @@ Also, Willie *can* deliver a Package to a Baxter Building in Wyatt Wingfoot's pa
 ^(Source: Rule insert)
 
 # [Willow](http://vs.tcgbrowser.com/images/cards/big/TBB-023.jpg) (SC) 
+^CardNumber: TBB-023
+
 *Set: The Buffy Battles*  
 
 Willow’s **Spell Research** power puts Plot Twists into a special pile removed from the game called your Spellbook. Your Spellbook can’t have more than one copy of the same Plot Twist. 
@@ -2902,6 +2908,8 @@ If Willow gets KO’d or otherwise is no longer on your side, you won’t be abl
 ^(Source: Rule insert)
 
 # [Winter Soldier](http://vs.tcgbrowser.com/images/cards/big/def-033.jpg) (MC)
+^CardNumber: DEF-033, DEF-034
+
 *Set: The Defenders* 
 
 > Winter Soldier MC will not gain experience if he can't "Freeze"
@@ -2936,6 +2944,8 @@ A: Modifiers do not track characters that leave play unless the rules or card te
 
 
 # [The Wizard](http://vs.tcgbrowser.com/images/cards/big/FAN-037.jpg) (MC)
+^CardNumber: FAN-037, FAN-038
+
 *Set: The Fantastic Battles*  
 
 **Wizard Armor**  
@@ -2973,6 +2983,8 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 ^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
 
 # [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
+^CardNumber: MCU5-016, MCU5-017
+
 *Set: The Marvel Battles*
 
 Q: If Wolverine team attacks with one other character, but in the middle of combat the other character gets stunned by a Plot Twist or Super Power, and then Wolverine stuns the defender, will Wolverine get an XP because now it ended up being a solo attack?
@@ -3083,11 +3095,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjYxODUwNSw5NTA0Mzk5MjEsLTEyNz
-gyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcx
-OSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC
-03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0
-NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MD
-MsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3
-NDMxNDU5MV19
+eyJoaXN0b3J5IjpbNzAzOTYxODIzLDk1MDQzOTkyMSwtMTI3OD
+I4MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5
+LC0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLT
+c2MDgyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3
+NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMy
+w3OTU4MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0
+MzE0NTkxXX0=
 -->
