@@ -3019,6 +3019,8 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 ^(Source: Rule insert)
 
 # [The Wrecker](http://vs.tcgbrowser.com/images/cards/big/MOE-018.jpg)
+^CardNumber: MOE-018
+
 *Set: Masters of Evil*
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
@@ -3039,6 +3041,8 @@ These special attacks can be team attacks as long as each character in the attac
 ^(Source: Rule insert)  
 
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
+^CardNumber: FAN-014
+
 *Set: The Fantastic Battles*  
 
 **Self-Awareness**  
@@ -3063,6 +3067,8 @@ Here’s how it works:
 ^(Source: Rule insert)
 
 # [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
+^CardNumber: NEW-006
+
 *Set: New Mutants*  
 
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
@@ -3070,11 +3076,15 @@ X-23 is one of the toughest mutants around. So tough in fact that she only has a
 ^(Source: Rule insert)
 
 # [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
+^CardNumber: TBB-015
+
 *Set: The Buffy Battles*  
 
 When Xander hides, turn him face down but in the ready orientation. Remove all +1/+1 and -1/-1 counters and Equipment from him. A hidden character doesn’t count as being stunned, but it still can’t attack or defend, it doesn’t protect anyone behind it, and loses its powers. It still keeps its other information like name and team affiliation. If a hidden character gets stunned somehow, change it to the stunned orientation (face down and exhausted). A hidden character will turn face up the same time your stunned characters would recover.
 
 # [The X-Files](http://vs.tcgbrowser.com/images/cards/big/XFB-021.jpg)
+^CardNumber: XFB-021
+
 *Set: The X-Files Battles*
 
 This Location is the only way to generate an Earth power symbol for a Bureau character. There are currently no basic Earth Locations in the Photographic Universe.
@@ -3082,6 +3092,8 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 ^(Source: Rule Insert)
 
 # [Yondu](http://vs.tcgbrowser.com/images/cards/big/MCU6-011.jpg)
+^CardNumber: MCU6-011
+
 *Set: Space & Time*  
 
 In the films, these characters (Talos and Yondu) are sometimes "Good" and sometimes "Evil". In the game, you get to choose.
@@ -3091,13 +3103,15 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 ^(Source: Rule insert)
 
 # [You're the Last One](http://vs.tcgbrowser.com/images/cards/big/MCU4-028.jpg)
+^CardNumber: MCU4-028
+
 *Set: Power & Reality*  
 
 When this Plot Twist resolves, it cancels the combat. It then acts as though the player whose turn it is just said, "Okay, I'm done with my turn." And then, anything that triggers "At the end of the turn" will trigger, and the rest of the end-of-turn procedure will happen normally.
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkyNDAyNDMsOTUwNDM5OTIxLC0xMj
+eyJoaXN0b3J5IjpbLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMj
 c4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3
 MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNi
 wtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0
