@@ -2549,7 +2549,7 @@ Terrigen Mist puts +1/+1 counters on each character on your side, including ones
 
 # Thanos
 ## [Thanos (MC - MCU Villains)](http://vs.tcgbrowser.com/images/cards/big/MCU6-009.jpg)
-^CardNumber: MCU6-009, MCU6-010
+^CardNumber: MCU3-007, MCU3-008, MCU6-009, MCU6-010
 
 *Set: Space & Time*  
 
@@ -2567,6 +2567,8 @@ You choose which characters to KO. If you want to win the game, we recommend KOi
 [This card has been banned](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_thanos_mc_.28marvel_battles.29).
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-085.jpg) (MC - MNB-085)
+^CardNumber: MNB-085
+
 *Set: Legacy*
 
 Q: If Thanos is stunned as an enemy character is KO'd as the result of striking each other, will Thanos get an XP for **The Mad Titan**?
@@ -2592,6 +2594,8 @@ A: No, "Your" refers to the MC you control. At the time **Infinity Gauntlet** re
 ^(Source: Chad Daniel - UDE Approved)
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
+^CardNumber: 
+
 *Set: Black Order*  
 
 At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herself** will cause him to gain an XP and become Level 2 while in the stunned position. (If a power like Hex prevents him from leveling up, he'll remain at Level 1 but still heal his wounds.)
@@ -3029,11 +3033,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY0NjQwMTEsOTUwNDM5OTIxLC0xMj
-c4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3
-MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNi
-wtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0
-NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNT
-AzLDc5NTgzMTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEw
-NzQzMTQ1OTFdfQ==
+eyJoaXN0b3J5IjpbMTIyNjEzMDQ3NSw5NTA0Mzk5MjEsLTEyNz
+gyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcx
+OSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC
+03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0
+NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MD
+MsNzk1ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3
+NDMxNDU5MV19
 -->
