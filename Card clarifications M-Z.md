@@ -2118,7 +2118,13 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_the_space_gem_.28black_order_set.29).
 
+---
+
+See also: [The Infinity Gems](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_infinity_gems)
+
 # [Specialized Web Cartridges](http://vs.tcgbrowser.com/images/cards/big/WEB-024.jpg)
+^CardNumber: WEB-024, WEB-025, WEB-026, WEB-027
+
 *Set: Webheads*  
 
 **Spider-Gear** is a keyword that means this Equipment can only be equipped to a character with "Spider" in its name. Each Specialized Web Cartridge grants (Range) and an attack power. Note: The attack power will trigger whether the equipped character is making a melee or ranged attack.
@@ -2953,11 +2959,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MzQzNDk3LDE0MTg0Mzc3MTksLTIxMD
-U1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3
-MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC
-0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgz
-MTczOSwxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OT
-EsLTMyMzUzODg1MSw1MTgwNDYwODMsMTYwNTQzNDE4Niw0NDk5
-OTYyNDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzcwNDcwNDMsMTQxODQzNzcxOSwtMj
+EwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4
+MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNj
+AsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1
+ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxND
+U5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0
+OTk5NjI0NV19
 -->
