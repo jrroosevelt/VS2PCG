@@ -2121,7 +2121,7 @@ A: It does not leave play when it is unequipped. It is equipped to the new chara
 
 # Groot
 ## [Groot](http://vs.tcgbrowser.com/images/cards/big/mnb-059.jpg) (MC)
-^CardNumber: ^MNB-059, ^MNB-060, LEG-021, LEG-022
+^CardNumber: ^MNB-059, ^MNB-060, ^LEG-021, ^LEG-022
 
 *Set: The Marvel Battles*
 
@@ -2170,7 +2170,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 
 # Hawkeye
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/COS-006.jpg) (MC - Illustrated)
-^CardNumber: ^COS-006, COS-007
+^CardNumber: ^COS-006, ^COS-007
 
 *Set: Cosmic Avengers*  
 
@@ -2197,7 +2197,7 @@ A: Yes.
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/622921783787388930)
 
 ## [Hawkeye](http://vs.tcgbrowser.com/images/cards/big/MCU4-005.jpg) (MC-MCU)
-^CardNumber: ^MCU4-005, MCU4-006
+^CardNumber: ^MCU4-005, ^MCU4-006
 
 *Set: Power & Reality*  
 
@@ -2244,7 +2244,7 @@ A: The effect is asking if a character in their hand matches the team affiliatio
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/SVH-001.jpg) (MC)
-^CardNumber: ^SVH-001, SVH-002
+^CardNumber: ^SVH-001, ^SVH-002
 
 *Set: S.H.I.E.L.D. vs. Hydra*
 
@@ -2451,7 +2451,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
-^CardNumber: ^BLK-018, BLK-019, BLK-021, BLK-023
+^CardNumber: ^BLK-018, ^BLK-019, ^BLK-021, ^BLK-023
 
 *Set: Black Order*  
 
@@ -2486,7 +2486,7 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 
 # Iron Fist
 ## [Iron Fist (MC)](http://vs.tcgbrowser.com/images/cards/big/MYS-003.jpg)
-^CardNumber: ^MYS-003, MYS-004
+^CardNumber: ^MYS-003, ^MYS-004
 
 *Set: Mystic Arts*
 
@@ -2515,7 +2515,7 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 ^(Source: Rule insert)
 
 # [Ironman](http://vs.tcgbrowser.com/images/cards/big/mnb-005.jpg) (MC)
-^CardNumber: ^MNB-005, MNB-006
+^CardNumber: ^MNB-005, ^MNB-006
 
 *Set: The Marvel Battles*
 
@@ -2526,7 +2526,7 @@ A: Yes. It can be Iron Man or another character on your side.
 ^(Source: UDE FAQ)
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
-^CardNumber: ^MCU1-034, MCU1-035
+^CardNumber: ^MCU1-034, ^MCU1-035
 
 *Set: The MCU Battles*  
 
@@ -2567,7 +2567,7 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 ^(Source: Rule insert)
 
 # [Jean Grey (MC - Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-002.jpg)
-^CardNumber: ^OGA-001, OGA-002, OGA-003
+^CardNumber: ^OGA-001, ^OGA-002, ^OGA-003
 
 *Set: The Omegas*
 
@@ -2629,7 +2629,7 @@ This power refers to ![](%%Intellect%%) (Intellect) super powers. This counts fo
 
 # Juggernaut
 ## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
-^CardNumber: ^BOM-001, BOM-002
+^CardNumber: ^BOM-001, ^BOM-002
 
 *Set: Brotherhood of Mutants*  
 
@@ -2674,7 +2674,7 @@ A: If you use Play Dead on a defender, the combat is over. Since Juggernaut did 
 ^(Source: FB Post - Chad Daniel)
 
 # [Jungle Hunter](http://vs.tcgbrowser.com/images/cards/big/PRD-006.jpg) (MC)
-^CardNumber: ^PRD-005, PRD-006
+^CardNumber: ^PRD-005, ^PRD-006
 
 *Set: The Predator Battles*
 
@@ -2691,7 +2691,7 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 
 # Kang
 ## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-006.jpg) (MC)
-^CardNumber: ^FRI-006, FRI-007
+^CardNumber: ^FRI-006, ^FRI-007
 
 *Set: The Frightful*
 
@@ -2713,7 +2713,7 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 ^(Source: Rule Insert)
 
 # [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and [Kitty) Pryde](http://vs.tcgbrowser.com/images/cards/big/FUT-002.jpg) (MC)
-^CardNumber: ^FUT-001, FUT-002
+^CardNumber: ^FUT-001, ^FUT-002
 
 *Set: Futures Past*
 Kate and Kitty have one name at Level 1 and then gain a new name at Level 2. In case it's not clear that Kate can Level UP into Kitty, the **AKA Shadowcat** can help.
@@ -2749,7 +2749,7 @@ It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** wou
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
-^CardNumber: ^DEF-028, DEF-029, LEG-046, LEG-047
+^CardNumber: ^DEF-028, ^DEF-029, ^LEG-046, ^LEG-047
 
 *Set: Defenders*
 
@@ -3015,7 +3015,7 @@ Editor's note: On the flip side, the characters brought **Along for the Ride** w
 
 # Logan 
 ## [Logan (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-004.jpg)
-^CardNumber: ^FUT-003, FUT-004
+^CardNumber: ^FUT-003, ^FUT-004
 
 *Set: Futures Past*
 
@@ -3056,7 +3056,7 @@ Here's how his **Canadian Resistance Colonel** works:
 # Loki
 
 ## [Loki](http://vs.tcgbrowser.com/images/cards/big/mnb-081.jpg) (MC)
-^CardNumber: ^MNB-081, MNB-082
+^CardNumber: ^MNB-081, ^MNB-082
 
 *Set: The Marvel Battles*
 
@@ -3128,7 +3128,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODc3MjMzNiwyMDQ2ODkxODE4LDYyNT
+eyJoaXN0b3J5IjpbMTYxNTU4MDk2OCwyMDQ2ODkxODE4LDYyNT
 Y2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIy
 Miw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNT
 MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
