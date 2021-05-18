@@ -2451,7 +2451,7 @@ This allows you to do anything you want for the rest of the game. Hera re some e
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_infinity_gauntlet).
 
 # Infinity Gems
-^CardNumber: BLK-018, BLK-019, BLK-020, BLK-021, BLK-023
+^CardNumber: BLK-018, BLK-019, BLK-021, BLK-023
 
 *Set: Black Order*  
 
@@ -3128,7 +3128,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjM3NjA5Niw2MjU2NjM2NDksLTgwOD
+eyJoaXN0b3J5IjpbLTQzOTIyOTM0OCw2MjU2NjM2NDksLTgwOD
 AwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1
 LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mz
 c0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1
