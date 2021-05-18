@@ -2594,7 +2594,7 @@ A: No, "Your" refers to the MC you control. At the time **Infinity Gauntlet** re
 ^(Source: Chad Daniel - UDE Approved)
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/BLK-005.jpg) (MC)
-^CardNumber: 
+^CardNumber: BLK-005, BLK-006, BLK-007
 
 *Set: Black Order*  
 
@@ -2609,6 +2609,8 @@ At Level 1, if Thanos gets KO'd by getting stunned, **Resurrected by Death Herse
 ^(Source: Rule insert)
 
 ## [Thanos](http://vs.tcgbrowser.com/images/cards/big/mnb-100.jpg) (SC)
+^CardNumber: MNB-100
+
 *Set: The Marvel Battles*
 
 Q: Can he put a wound on my opponent’s main character?
@@ -2618,6 +2620,8 @@ A: Yes. In fact, he affects all stunned characters so he could put a wound on yo
 ^(Source: UDE FAQ)
 
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
+^CardNumber: MCU1-009, MCU
+
 *Set: The MCU Battles*  
 
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
@@ -3033,7 +3037,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjEzMDQ3NSw5NTA0Mzk5MjEsLTEyNz
+eyJoaXN0b3J5IjpbMTMwOTE1NzIxNyw5NTA0Mzk5MjEsLTEyNz
 gyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcx
 OSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC
 03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0
