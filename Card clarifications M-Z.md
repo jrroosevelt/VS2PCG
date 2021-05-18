@@ -2185,7 +2185,7 @@ Spider-Man’s **Spider-Powers** do not have a limited duration. Any new keyword
 ^(Source: Rule insert)
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/WEB-017.jpg) (SC - Webheads)
-^CardNumber: BLK-022
+^CardNumber: WEB-017
 
 *Set: Webheads*  
 
@@ -2200,6 +2200,8 @@ Note: **Update** counters aren't removed from Spidey when he gets turned face do
 ^(Source: Rule insert)
 
 # \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
+^CardNumber: CV2-001, CV2-002
+
 *Set: Crossover Vol. 2*  
 
 Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. \* Spider Man \*'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
@@ -2971,11 +2973,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAyOTkwOTYsMTQxODQzNzcxOSwtMj
-EwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4
-MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNj
-AsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1
-ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxND
-U5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0
-OTk5NjI0NV19
+eyJoaXN0b3J5IjpbMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMT
+A1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgy
+NzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MC
+wtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4
+MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NT
+kxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5
+OTk2MjQ1XX0=
 -->
