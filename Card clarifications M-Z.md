@@ -2463,7 +2463,7 @@ This Location is the only way to generate an Alien ![](%%Alien%%) power symbol f
 
 # Talos
 ## [Talos (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-007.jpg)
-^CardNumber: MCU6-007, 
+^CardNumber: MCU6-007, MCU6-007
 
 *Set: Space & Time*  
 
@@ -2474,6 +2474,8 @@ The Photographic Universe includes all cards with photographic artwork. Currentl
 Editor's note: See the "[Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil)" wiki topic for the most up-to-date list of teams in each universe. 
 
 ## [Talos (SC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-013.jpg)
+^CardNumber: MCU6-013
+
 *Set: Space & Time*  
 
 In the films, these characters (Talos and Yondu) are sometimes "Good" and sometimes "Evil". In the game, you get to choose.
@@ -3019,11 +3021,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDYxNTI3OSwtMTI3ODI4MTE0OSwxNT
-IxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1
-NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NS
-wxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQy
-OTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4MzE3Mz
-ksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NTkxLC0z
-MjM1Mzg4NTFdfQ==
+eyJoaXN0b3J5IjpbOTUwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1Mj
+E1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2
+MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYwODI3MjQ1LD
+E5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0NDc3MjYwLC0xNDI5
+OTM4NDksLTE3NDUzMDY3ODAsNDYwOTMwNTAzLDc5NTgzMTczOS
+wxNTM4MDIxMzIyLC0yOTc0MTY5MTIsLTEwNzQzMTQ1OTEsLTMy
+MzUzODg1MV19
 -->
