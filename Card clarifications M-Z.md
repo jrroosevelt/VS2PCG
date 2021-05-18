@@ -2059,6 +2059,8 @@ A: The restriction is applied to that physical card, if your opponent uses the s
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 ## [Sister Grimm](http://vs.tcgbrowser.com/images/cards/big/aff-010.jpg) (SC)
+^CardNumber: AFF-010
+
 *Set: A-Force*
 
 Q: Do you have to Shuffle your deck after you search?
@@ -2084,6 +2086,8 @@ A: No, **The Staff of One** has "Any Combat" Which allows it to be used during a
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
 # [Sister Ripley](http://vs.tcgbrowser.com/images/cards/big/ALN-005.jpg)
+^CardNumber: ALN-005, ALN-006
+
 *Set: The Alien Battles*
 
 Q: How does Sister Ripley's **No Weapon of Any Kind** work?
@@ -2093,6 +2097,8 @@ A: Any time you make a melee attack (any attack from the front row) while she is
 ^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/503484419256877059))
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
+^CardNumber: CV2-007
+
 *Set: Crossover Vol. 2*
 
 Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as \* Spider-Man \*' s **Spider-People**. It's just how they spell in the future!
@@ -2102,6 +2108,8 @@ SP//dr must not have any wounds at the start of your turn in order for its **Gen
 ^(Source: Rule insert)
 
 # [The Space Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-022.jpg)
+^CardNumber: AFF-003
+
 *Set: Black Order*
 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_the_space_gem_.28black_order_set.29).
@@ -2941,11 +2949,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjk3OTM2MSwxNDE4NDM3NzE5LC0yMT
-A1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgy
-NzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MC
-wtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4
-MzE3MzksMTUzODAyMTMyMiwtMjk3NDE2OTEyLC0xMDc0MzE0NT
-kxLC0zMjM1Mzg4NTEsNTE4MDQ2MDgzLDE2MDU0MzQxODYsNDQ5
-OTk2MjQ1XX0=
+eyJoaXN0b3J5IjpbLTEzMDQ0NzQ3OTUsMTQxODQzNzcxOSwtMj
+EwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4
+MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LDE5OTQ0NzcyNj
+AsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5MzA1MDMsNzk1
+ODMxNzM5LDE1MzgwMjEzMjIsLTI5NzQxNjkxMiwtMTA3NDMxND
+U5MSwtMzIzNTM4ODUxLDUxODA0NjA4MywxNjA1NDM0MTg2LDQ0
+OTk5NjI0NV19
 -->
