@@ -828,7 +828,7 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 **Darkforce Channeling** affects all characters, including ones that appear on your side
 
 **Shifting Loyalties**
-See [Shifting Loyalties](#wiki_shifting_loyalties)
+See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
 
@@ -945,7 +945,7 @@ Note: **Trust the Plan** will only put three +1/+1 counters on a character even 
 *Set: The Utopia Battles*  
 
 **Shifting Loyalties**
-See [Shifting Loyalties](#wiki_shifting_loyalties)
+See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shifting_loyalties)
 
 ^(Source: Rule insert)
 
@@ -3128,11 +3128,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTU4MDk2OCwyMDQ2ODkxODE4LDYyNT
-Y2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIy
-Miw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNT
-MwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0
-MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNjk5NjM5MjE5LDM1Mj
-gyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4NTY4LC0xMTA5MzA0
-NjI5XX0=
+eyJoaXN0b3J5IjpbLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2Mj
+U2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIy
+MjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLT
+UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
+NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
+I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
+NDYyOV19
 -->
