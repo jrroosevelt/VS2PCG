@@ -1305,8 +1305,6 @@ If after you processed the replacement modifier, the event no longer happens, th
 
 In the case of Doombot, the event in question is Doctor Doom being wounded. As long as he is still being wounded, you may continue to try to apply replacement modifiers.
 
-Sorry for the short answer last night, I was tired and about to go to bed when I saw the question.
-
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/2945524228816437/?comment_id=2947706685264858)
 
 # Dormammu
@@ -3128,11 +3126,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2Mj
-U2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIy
-MjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLT
-UzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIy
-NDAsNDYwNTEzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNT
-I4MjUyMTksLTEzOTkxNjgzODQsLTU2Mzc2ODU2OCwtMTEwOTMw
-NDYyOV19
+eyJoaXN0b3J5IjpbMTM3NjUzOTYxNSwtMTM3MTMwNDUyNCwyMD
+Q2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQy
+NjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMT
+A3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIw
+MDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNj
+k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
+NTY4XX0=
 -->
