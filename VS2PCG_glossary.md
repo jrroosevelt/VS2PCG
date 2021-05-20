@@ -474,7 +474,7 @@ At the start of your turn, heal a wound from this character. *(The character mus
   
 
 # Relationship  
-The chosen characters can team attack with each other and can't be struck back while team attacking with each other.  
+The chosen characters can team attack with each other and can't be struck back while team attacking with each other.  When a character in the **Relationship** leaves play, the **Relationship** ends.
   
 
 # Safeguard  
@@ -687,11 +687,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLT
-c0MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODky
-ODA4NDEwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMD
-I4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04
-MDI1NDUwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNT
-EyMywtMTk4NTg5NjMwLDQ5ODIxNTcyNSwxMjM4NDUxMjM1LC0y
-MTQ3MDc1NjgzXX0=
+eyJoaXN0b3J5IjpbLTg0NTg4ODk3NSwtMTY4OTY5Mzg1NCwtMj
+ExMTE3MTY4OCwtNzQwNjcwNzE0LC0xNzQ5NzAzNDYyLDEyNTkz
+MTgxNzcsLTE4OTI4MDg0MTAsMTczNjU3MTc3MywxMjMzOTM2Nj
+AyLC02NDgxNjMwMjgsLTE0MDEzMzgwMTYsLTMwOTcyOTQwNiw0
+NTAxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OT
+AwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEy
+Mzg0NTEyMzVdfQ==
 -->
