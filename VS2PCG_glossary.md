@@ -361,7 +361,7 @@ Some examples of what this change will allow:
 # Loyalty plot twists
 Some plot twists have a stipulation that they can only be put into a "Loyalty"-type deck. These typically mean that your deck must meet the requirements mentioned in the "Loyalty" entry. However, in some cases, there are specific requirements that your deck must be good or evil loyal. In those cases, you don't need all the same team, but need to have all good or all evil characters in your deck, respectively.
 
-
+Yet other loyalty plot twists have three copies of the affiliated team's logo in the upper right corner. Per the rules, in order to play these plot twists, you must also, "... have three face-up characters with that team symbol in order to play the card." These plot twists are also 
 
 # Lumbering  
 As this character attacks, the defending player chooses who the defender is. (It must be a character that it could attack.)  
@@ -691,11 +691,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA4NDkzNDAsLTg0NTg4ODk3NSwtMT
-Y4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0xNzQ5
-NzAzNDYyLDEyNTkzMTgxNzcsLTE4OTI4MDg0MTAsMTczNjU3MT
-c3MywxMjMzOTM2NjAyLC02NDgxNjMwMjgsLTE0MDEzMzgwMTYs
-LTMwOTcyOTQwNiw0NTAxNTM4MzIsLTgwMjU0NTA0OCwxNjc3Mz
-gxODUyLDE2MTY1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAs
-NDk4MjE1NzI1XX0=
+eyJoaXN0b3J5IjpbNTAxMjc0ODUzLC04NDU4ODg5NzUsLTE2OD
+k2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwtMTc0OTcw
+MzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1NzE3Nz
+MsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0xNDAxMzM4MDE2LC0z
+MDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1NDUwNDgsMTY3NzM4MT
+g1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywtMTk4NTg5NjMwLDQ5
+ODIxNTcyNV19
 -->
