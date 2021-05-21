@@ -358,6 +358,8 @@ Some examples of what this change will allow:
 
 ^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
   
+# Loyalty plot twists
+Some plot twists have a stipulation r
 
 # Lumbering  
 As this character attacks, the defending player chooses who the defender is. (It must be a character that it could attack.)  
@@ -687,11 +689,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTg4ODk3NSwtMTY4OTY5Mzg1NCwtMj
-ExMTE3MTY4OCwtNzQwNjcwNzE0LC0xNzQ5NzAzNDYyLDEyNTkz
-MTgxNzcsLTE4OTI4MDg0MTAsMTczNjU3MTc3MywxMjMzOTM2Nj
-AyLC02NDgxNjMwMjgsLTE0MDEzMzgwMTYsLTMwOTcyOTQwNiw0
-NTAxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUyLDE2MTY1OT
-AwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4MjE1NzI1LDEy
-Mzg0NTEyMzVdfQ==
+eyJoaXN0b3J5IjpbMTY0MDEzOTUsLTg0NTg4ODk3NSwtMTY4OT
+Y5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0xNzQ5NzAz
+NDYyLDEyNTkzMTgxNzcsLTE4OTI4MDg0MTAsMTczNjU3MTc3My
+wxMjMzOTM2NjAyLC02NDgxNjMwMjgsLTE0MDEzMzgwMTYsLTMw
+OTcyOTQwNiw0NTAxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxOD
+UyLDE2MTY1OTAwNCwxNjQ0ODE1MTIzLC0xOTg1ODk2MzAsNDk4
+MjE1NzI1XX0=
 -->
