@@ -602,7 +602,9 @@ Setting up the game ends after both players have drawn their opening hands (incl
  This character can melee attack back row characters even while they are protected. 
 
 # Strike
-When one character strikes another, you compare the attacker's ATK value to the defender's DEF value. If they are equal or the ATK value is greater, the defender is stunned. Striking occurs most commonly during combat. However, there are also powers and effects that allow one character to strike another outside of combat or before the combat resolves.
+When one character strikes another, you compare the attacker's ATK value to the defender's DEF value. If they are equal or the ATK value is greater, the defender is stunned. A character must have at le
+
+Striking occurs most commonly during combat. However, there are also powers and effects that allow one character to strike another outside of combat or before the combat resolves.
 
 This entry isn't intended to cover all possible striking scenarios, but a couple key points to keep in mind:
 
@@ -698,11 +700,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU1Njg2ODgsLTc5MTk0ODcwNywtOD
-Q1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2
-NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwOD
-QxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwt
-MTQwMTMzODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNT
-Q1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMs
-LTE5ODU4OTYzMF19
+eyJoaXN0b3J5IjpbLTM2MDc5MDQ0MywtNzkxOTQ4NzA3LC04ND
+U4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3
+MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4ND
+EwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0x
+NDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1ND
+UwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywt
+MTk4NTg5NjMwXX0=
 -->
