@@ -609,7 +609,9 @@ Striking occurs most commonly during combat. However, there are also powers and 
 This entry isn't intended to cover all possible striking scenarios, but a couple key points to keep in mind:
 
 **Striking in combat:** 
-  Striking occurs when you hit the "Combat Resolution" substep of the Combat phase. Typically, the atta
+Striking occurs when you hit the "Combat Resolution" substep of the Combat phase. If the defender is in a position to strike back, both the attacker's and defender's strikes will typically happen simultaneously. (Keep in mind that powers and effects such as **Ferocious** change this typical scenario.)
+
+**Striking 
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -700,7 +702,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzOTQ3OTc1LC03OTE5NDg3MDcsLTg0NT
+eyJoaXN0b3J5IjpbMjEyNjMzODk2LC03OTE5NDg3MDcsLTg0NT
 g4ODk3NSwtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcw
 NzE0LC0xNzQ5NzAzNDYyLDEyNTkzMTgxNzcsLTE4OTI4MDg0MT
 AsMTczNjU3MTc3MywxMjMzOTM2NjAyLC02NDgxNjMwMjgsLTE0
