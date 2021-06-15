@@ -602,14 +602,14 @@ Setting up the game ends after both players have drawn their opening hands (incl
  This character can melee attack back row characters even while they are protected. 
 
 # Strike
-When one character strikes another, you compare the attacker's ATK value to the defender's DEF value. If they are equal or the ATK value is greater, the defender is stunned. A character must have at le
+When one character strikes another, you compare the attacker's ATK value to the defender's DEF value. If they are equal or the ATK value is greater, the defender is stunned. A character must have at least 1 ATK to be able to strike.
 
 Striking occurs most commonly during combat. However, there are also powers and effects that allow one character to strike another outside of combat or before the combat resolves.
 
 This entry isn't intended to cover all possible striking scenarios, but a couple key points to keep in mind:
 
 **Striking in combat:** 
-  
+  Striking occurs when you hit the "Combat Resolution" substep of the Combat phase. Typically, the atta
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -700,11 +700,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDc5MDQ0MywtNzkxOTQ4NzA3LC04ND
-U4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3
-MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4ND
-EwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0x
-NDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1ND
-UwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywt
-MTk4NTg5NjMwXX0=
+eyJoaXN0b3J5IjpbOTMzOTQ3OTc1LC03OTE5NDg3MDcsLTg0NT
+g4ODk3NSwtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcw
+NzE0LC0xNzQ5NzAzNDYyLDEyNTkzMTgxNzcsLTE4OTI4MDg0MT
+AsMTczNjU3MTc3MywxMjMzOTM2NjAyLC02NDgxNjMwMjgsLTE0
+MDEzMzgwMTYsLTMwOTcyOTQwNiw0NTAxNTM4MzIsLTgwMjU0NT
+A0OCwxNjc3MzgxODUyLDE2MTY1OTAwNCwxNjQ0ODE1MTIzLC0x
+OTg1ODk2MzBdfQ==
 -->
