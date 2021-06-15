@@ -611,7 +611,11 @@ This entry isn't intended to cover all possible striking scenarios, but a couple
 **Striking in combat:** 
 Striking occurs when you hit the "Combat Resolution" substep of the Combat phase. If the defender is in a position to strike back, both the attacker's and defender's strikes will typically happen simultaneously. (Keep in mind that powers and effects such as **Ferocious** change this typical scenario.)
 
-**Striking 
+**Striking outside of combat:**
+If a character power or card ability allows you to strike a character outside of combat, the defending character does not strike back. You still compare the ATK to DEF value, and the striking character must still have at least 1 ATK in order to strike.
+
+**Multiple strikes at once:**
+Some powers or abilities (such as ** 
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -702,11 +706,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjMzODk2LC03OTE5NDg3MDcsLTg0NT
-g4ODk3NSwtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcw
-NzE0LC0xNzQ5NzAzNDYyLDEyNTkzMTgxNzcsLTE4OTI4MDg0MT
-AsMTczNjU3MTc3MywxMjMzOTM2NjAyLC02NDgxNjMwMjgsLTE0
-MDEzMzgwMTYsLTMwOTcyOTQwNiw0NTAxNTM4MzIsLTgwMjU0NT
-A0OCwxNjc3MzgxODUyLDE2MTY1OTAwNCwxNjQ0ODE1MTIzLC0x
-OTg1ODk2MzBdfQ==
+eyJoaXN0b3J5IjpbLTE1MzY3NjA5NDcsLTc5MTk0ODcwNywtOD
+Q1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2
+NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwOD
+QxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwt
+MTQwMTMzODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNT
+Q1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMs
+LTE5ODU4OTYzMF19
 -->
