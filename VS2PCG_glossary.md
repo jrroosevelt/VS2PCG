@@ -599,7 +599,10 @@ Setting up the game ends after both players have drawn their opening hands (incl
 ^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3819579818077536/?comment_id=3831057940263057)
 
 # Stealth  
- This character can melee attack back row characters even while they are protected.  
+ This character can melee attack back row characters even while they are protected. 
+
+# Strike
+When one character strikes another, you compare the attacker's ATK value to the Defender's DEF value. If they are equal or the ATK value is greater, the Defender is stunned. Striking occurs most commonly during combat. However, there are also powers and effects that allow  
   
 
 # Survives  
@@ -691,11 +694,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTk0ODcwNywtODQ1ODg4OTc1LC0xNj
-g5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3
-MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwODQxMCwxNzM2NTcxNz
-czLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwt
-MzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4LDE2NzczOD
-E4NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMsLTE5ODU4OTYzMCw0
-OTgyMTU3MjVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDgzOTgxODAsLTc5MTk0ODcwNywtOD
+Q1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2
+NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwOD
+QxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwt
+MTQwMTMzODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNT
+Q1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMs
+LTE5ODU4OTYzMF19
 -->
