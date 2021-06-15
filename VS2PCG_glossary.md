@@ -107,15 +107,12 @@ Exhausted Locations can still be flipped face-down to pay for super powers but a
 # Collect  
   
 Remove the chosen character from the game. You may only collect a character with a different team affiliation from every other character you've collected this game.  A collection is unique to a player.  
-  
 
 # Combat Master  
-While this character is in combat, enemy players can't play plot twists.  
-  
+While this character is in combat, enemy players can't play plot twists.   
 
 # Comet Fall  
- When this character appears, put a -1/-1 counter on each enemy character.  
-  
+ When this character appears, put a -1/-1 counter on each enemy character.    
 
 # Creature  
 This character cannot be equipped. This power cannot be turned off (with the exception of Dark Phoenix or another power that would disable Keyword Text).
@@ -708,11 +705,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNz
-M4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4
-OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MT
-QsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwODQxMCwx
-NzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwtMTQwMT
-MzODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4
-LDE2NzczODE4NTJdfQ==
+eyJoaXN0b3J5IjpbMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MD
+kyNTkxNDcsLTE3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4
+NzA3LC04NDU4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2OD
+gsLTc0MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0x
+ODkyODA4NDEwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MT
+YzMDI4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMy
+LC04MDI1NDUwNDhdfQ==
 -->
