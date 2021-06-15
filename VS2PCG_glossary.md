@@ -615,7 +615,9 @@ Striking occurs when you hit the "Combat Resolution" substep of the Combat phase
 If a character power or card ability allows you to strike a character outside of combat, the defending character does not strike back. You still compare the ATK to DEF value, and the striking character must still have at least 1 ATK in order to strike.
 
 **Multiple strikes at once:**
-Some powers or card abilities (such as **A Necessary Evil**) allow a character to strike more than once. If an attacker is striking multiple times, typically you just add the striker's ATK value for the number of strikes. For example, **A Necess
+Some powers or card abilities (such as **A Necessary Evil**) allow a character to strike more than once. If an attacker is striking multiple times, typically you just add the striker's ATK value for the number of strikes. For example, **A Necessary Evil** allows an attacker to strike an additional time. So, if the attacker had an ATK value of 5, that attacker would instead strike for 10. 
+
+If a defender is able to strike multiple times, you can either strike the same atta
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -706,11 +708,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU3MjY5MzAsLTc5MTk0ODcwNywtOD
-Q1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2
-NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwOD
-QxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwt
-MTQwMTMzODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNT
-Q1MDQ4LDE2NzczODE4NTIsMTYxNjU5MDA0LDE2NDQ4MTUxMjMs
-LTE5ODU4OTYzMF19
+eyJoaXN0b3J5IjpbMTIyOTYxNjA5NCwtNzkxOTQ4NzA3LC04ND
+U4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3
+MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4ND
+EwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0x
+NDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMyLC04MDI1ND
+UwNDgsMTY3NzM4MTg1MiwxNjE2NTkwMDQsMTY0NDgxNTEyMywt
+MTk4NTg5NjMwXX0=
 -->
