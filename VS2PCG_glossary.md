@@ -4,7 +4,7 @@
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
   
 
-#  Absorption History
+# Absorption History
   See the [card-specific clarification for Mimic (MC)](/r/VS2PCG/wiki/rules-insert#wiki_mimic_.28mc.29).
   
 
@@ -708,11 +708,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTI1OTE0NywtMTczODA4MjQyMywxNT
-czNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NSwtMTY4OTY5
-Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0xNzQ5NzAzND
-YyLDEyNTkzMTgxNzcsLTE4OTI4MDg0MTAsMTczNjU3MTc3Mywx
-MjMzOTM2NjAyLC02NDgxNjMwMjgsLTE0MDEzMzgwMTYsLTMwOT
-cyOTQwNiw0NTAxNTM4MzIsLTgwMjU0NTA0OCwxNjc3MzgxODUy
-LDE2MTY1OTAwNF19
+eyJoaXN0b3J5IjpbMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNz
+M4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4
+OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MT
+QsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwODQxMCwx
+NzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwtMTQwMT
+MzODAxNiwtMzA5NzI5NDA2LDQ1MDE1MzgzMiwtODAyNTQ1MDQ4
+LDE2NzczODE4NTJdfQ==
 -->
