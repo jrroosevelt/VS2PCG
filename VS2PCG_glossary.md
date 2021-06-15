@@ -606,7 +606,7 @@ When one character strikes another, you compare the attacker's ATK value to the 
 
 Striking occurs most commonly during combat. However, there are also powers and effects that allow one character to strike another outside of combat or before the combat resolves.
 
-This entry isn't intended to cover all possible striking scenarios, but a couple key points to keep in mind:
+This entry isn't intended to cover all possible striking scenarios, but a few key points to keep in mind:
 
 **Striking in combat:** 
 Striking occurs when you hit the "Combat Resolution" substep of the Combat phase. If the defender is in a position to strike back, both the attacker's and defender's strikes will typically happen simultaneously. (Keep in mind that powers and effects such as **Ferocious** change this typical scenario.)
@@ -617,7 +617,7 @@ If a character power or card ability allows you to strike a character outside of
 **Multiple strikes at once:**
 Some powers or card abilities (such as **A Necessary Evil**) allow a character to strike more than once. If an attacker is striking multiple times, typically you just add the striker's ATK value for the number of strikes. For example, **A Necessary Evil** allows an attacker to strike an additional time. So, if the attacker had an ATK value of 5, that attacker would instead strike for 10. 
 
-If a defender is able to strike multiple times, you can either strike the same attacker multiple times (add the ATK value) or strike multiple attackers. For example, let's say you are team-attacked by 2 attackers. If you have 5 ATK and an ability that allows you strike twice during that combat, you could either A.) strike the same attacker twice (total of 10 ATK) or B.) Strike each defender once with 
+If a defender is able to strike multiple times, you can either strike the same attacker multiple times (add the ATK value) or strike multiple attackers. For example, let's say you are team-attacked by 2 attackers. If you have 5 ATK and an ability that allows you strike twice during that combat, you could either A.) strike the same attacker twice (total of 10 ATK) or B.) Strike each defender once with 5 ATK.
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -708,7 +708,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDYyNDI1NiwtNzkxOTQ4NzA3LC04ND
+eyJoaXN0b3J5IjpbMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04ND
 U4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3
 MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4ND
 EwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0x
