@@ -19,16 +19,17 @@ There's no right answer here, but here are a few common pieces of advice:
 Once you've played a game or two and you see what a rad game VS can be, you're likely to wonder which sets you should buy next. [This handy-dandy flow chart](https://www.reddit.com/r/vs2pcg/wiki/whatsetnext) helps to show which boxes build on preceding boxes. 
 
 ## Are the rules somewhere online?
-**Good news** - Yes, you can find the [official rule book online](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic).
+**Good news** - Yes, you can find the [official rule book online](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic)
 
 **Bad news** - The rule book hasn't been updated for three years, so there are some missing pieces or some items out of date.
 
 **More good news** - This wiki is a great spot for clarifications. Check out the following resources for more information about rules and card clarifications:
 - [Glossary of common keyword powers and game terms](http://www.reddit.com/r/vs2pcg/wiki/glossary)
-- Major ru
+- [Major rulings, errata, bans, and misprints](https://www.reddit.com/r/vs2pcg/wiki/rulings)
+- [Individual card rulings, FAQs, and rule insert notes](http://www.reddit.com/r/vs2pcg/wiki/rules-insert)
 
 ## How does combat work? I'm confused by ![](%%Flight%%) and ![](%%Range%%)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NTkyMjU2XX0=
+eyJoaXN0b3J5IjpbLTIwOTk5NTEwNjhdfQ==
 -->
