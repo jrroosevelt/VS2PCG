@@ -10,7 +10,12 @@ One of the best things about VS 2PCG is that the community is tremendous. There 
 	 - Almost seems silly to mention it since you're here already, but...
  - [VS 2PCG Collective on Facebook](https://www.facebook.com/groups/860168987351982)
 	 - Community-run Facebook group
- - VS System Illuminati on Discord
+ - [VS System Illuminati on Discord](https://discord.gg/yDB9MDfm)
+	 - Community-run Discord server
+	 - Probably the best place to find an ad-hoc online game
+ - [Upper Deck official Discord](https://discord.gg/uHMaBXWD)
+	 - Least active of the communities, but...
+	 - Is the best p
  
 
 ## Which set should I start with? 
@@ -46,5 +51,5 @@ If you want to jump right to the gory details, check out [this diagram that show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTYzODExXX0=
+eyJoaXN0b3J5IjpbODA5MDY5MDUxXX0=
 -->
