@@ -64,7 +64,7 @@ If you want to jump right to the gory details, check out [this diagram that show
 At the most basic, a character in your front row can attack an enemy character in their front row. If there's a face-up front-row character, any characters in the back row are considered to be **Protected**.
 
 ### What if my opponent has no front row?
-If the enemy has no face-up front row characters, then you can attack their back row (the back-row characters are no longer **Protected**. Make sense? Ok, now we'll layer on a bit...
+If the enemy has no face-up front row characters, then you can attack their back row (the back-row characters are no longer **Protected**). Make sense? Ok, now we'll layer on a bit...
 
 ### How ![](%%Range%%) (Range) and ![](%%Flight%%) (Flight) come into play
 
@@ -77,6 +77,6 @@ If your character has the ![](%%Flight%%) (Flight) icon on their card, not only 
 #### What if my character has both ![](%%Range%%) (Range) and ![](%%Flight%%) (Flight)?
 In this case, they have the best of both worlds. They can attack *from* your front or back row *to* the enemy front or back row. (However, the note about a flying front-row enemy character still comes into play here. They cannot hit a back-row enemy character if there's a face up front-row enemy character with ![](%%Flight%%).)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA4MTc0MjgsNzAzMjI1Mzc0LC0xMj
-A2NTE1NTM4XX0=
+eyJoaXN0b3J5IjpbMTY2NTkwMzE3NywtMTg5MDgxNzQyOCw3MD
+MyMjUzNzQsLTEyMDY1MTU1MzhdfQ==
 -->
