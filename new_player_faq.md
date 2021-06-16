@@ -4,7 +4,12 @@ You picked the sweetest game in the multiverse. Well done!
 This FAQ is intended to answer some of the most common questions that new players ask. If you have a question, start here first!
 
 ## Where can I find more humans who play this game?
-One of the best things about VS 2PCG is that the community is tremendous. There are four main online communities that deal with VS. There's a lot of crossover between the groups, but it's nice to be plugged into all of them to get each
+One of the best things about VS 2PCG is that the community is tremendous. There are four main online communities that deal with VS. There's a lot of crossover between the groups, but it's nice to be plugged into all of them to get each of their strengths:
+
+ - **[VS 2PCG Reddit](https://www.reddit.com/r/VS2PCG/)**
+	 - Almost seems silly to mention it since you're here already, but...
+	 - It's a good spot to ask questions and the wiki is a tremendous source of info.
+ - 
 
 ## Which set should I start with? 
 There's no right answer here, but here are a few common pieces of advice:
@@ -39,5 +44,5 @@ If you want to jump right to the gory details, check out [this diagram that show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTMyMDk2Nl19
+eyJoaXN0b3J5IjpbMTc5MTE0ODY3M119
 -->
