@@ -50,15 +50,15 @@ If you've already looked at the [official rule book online](https://docs.google.
 If you want to jump right to the gory details, check out [this diagram that shows many of the most common attack and defense scenarios](https://drive.google.com/file/d/1jf0-omCPcbpdqMTpQDRgiqGoCMIGVphS/view?usp=sharing). 
 
 ### The most basic first... front row to front row
-At the most basic, a character in your front row can attack an enemy character in their front row. 
+At the most basic, a character in your front row can attack an enemy character in their front row. If there's a face-up front-row character, any characters in the back row are considered to be **Protected**.
 
 ### What if my opponent has no front row?
-If the enemy has no face-up front row characters, then you can attack their back row. Make sense? Ok, now we'll layer on a bit...
+If the enemy has no face-up front row characters, then you can attack their back row (the back-row characters are no longer **Protected**. Make sense? Ok, now we'll layer on a bit...
 
 ### How ![](%%Range%%) and ![](%%Flight%%) come into play
 
 #### ![](%%Range%%)  (Range) indicates where you can attack FROM
-If your character has the ![](%%Range%%) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Generally, the previous rules still apply (they can only attack to the enemy's front row unless they have no face-up characters).
+If your character has the ![](%%Range%%) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Generally, the previous rules still apply (they can only attack to the enemy's front row unless they have no face-up front-row characters).
 
 ####  ![](%%Flight%%)  (Flight) indicates where you can attack TO
 If y
@@ -66,5 +66,5 @@ If y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY1MTU1MzhdfQ==
+eyJoaXN0b3J5IjpbNzAzMjI1Mzc0LC0xMjA2NTE1NTM4XX0=
 -->
