@@ -57,12 +57,13 @@ If the enemy has no face-up front row characters, then you can attack their back
 
 ### How ![](%%Range%%) and ![](%%Flight%%) come into play
 
-
 #### ![](%%Range%%)  (Range) indicates where you can attack FROM
-If your character has the ![](%%Range%%) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Keeping
+If your character has the ![](%%Range%%) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Generally, the previous rules still apply (they can only attack to the enemy's front row unless they have no face-up characters).
+
+####  ![](%%Flight%%)  (Flight) indicates where you can attack TO
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY5Mzc3NzldfQ==
+eyJoaXN0b3J5IjpbLTE5NTM0NDE3NzBdfQ==
 -->
