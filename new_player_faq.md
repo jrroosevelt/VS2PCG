@@ -11,10 +11,12 @@ There's no right answer here, but here are a few common pieces of advice:
 	- This was the starting point for a number of players and still has a number of staple cards. 
 	- However, new player should know that there has been a fair amount of power creep since this set was originally introduced, so some of the cards just don't stack up well any more.
 - Who's your favorite character? Pick a set that includes them and start there!
-	- 
+	- You can use one of the community-run card browsers to figure out which set your character is in:
+		- [Pocket VS](https://pocketvs.web.app/#/)
+		- [TCG Browser](http://vs.tcgbrowser.com/)
 
 # What set should I buy next? 
-Once you've played a game or two and you see what a rad game VS can be, you're likely to wonder which 
+Once you've played a game or two and you see what a rad game VS can be, you're likely to wonder which sets you should buy next. This handy-d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY4OTc2MF19
+eyJoaXN0b3J5IjpbODk2Nzg0NzQ0XX0=
 -->
