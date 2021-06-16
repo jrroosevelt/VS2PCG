@@ -6,7 +6,7 @@ This FAQ is intended to answer some of the most common questions that new player
 ## Where can I find more humans who play this game?
 One of the best things about VS 2PCG is that the community is tremendous. There are four main online communities that deal with VS. There's a lot of crossover between the groups, but it's nice to be plugged into all of them to get each of their strengths:
 
- - **[VS 2PCG Reddit](https://www.reddit.com/r/VS2PCG/)**
+ - [VS 2PCG Reddit](https://www.reddit.com/r/VS2PCG/)
 	 - Almost seems silly to mention it since you're here already, but...
  - [VS 2PCG Collective on Facebook](https://www.facebook.com/groups/860168987351982)
 	 - Community-run Facebook group
@@ -15,7 +15,7 @@ One of the best things about VS 2PCG is that the community is tremendous. There 
 	 - Probably the best place to find an ad-hoc online game
  - [Upper Deck official Discord](https://discord.gg/uHMaBXWD)
 	 - Least active of the communities, but...
-	 - Is the best p
+	 - Is the best place to hear official announcements from Upper Deck
  
 
 ## Which set should I start with? 
@@ -36,7 +36,7 @@ Once you've played a game or two and you see what a rad game VS can be, you're l
 ## Are the rules somewhere online?
 **Good news** - Yes, you can find the [official rule book online](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic)
 
-**Bad news** - The rule book hasn't been updated for three years, so there are some missing pieces or some items out of date.
+**Bad news** - The rule book hasn't been updated for three years, so there are some missing pieces or some items out of date. Upper Deck has said that they are currently updating a comprehensive rules resource.
 
 **More good news** - This wiki is a great spot for clarifications. Check out the following resources for more information about rules and card clarifications:
 - [Glossary of common keyword powers and game terms](http://www.reddit.com/r/vs2pcg/wiki/glossary)
@@ -49,7 +49,9 @@ If you've already looked at the [official rule book online](https://docs.google.
 ### Combat scenarios diagram
 If you want to jump right to the gory details, check out [this diagram that shows many of the most common attack and defense scenarios](https://drive.google.com/file/d/1jf0-omCPcbpdqMTpQDRgiqGoCMIGVphS/view?usp=sharing). 
 
+### 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MDY5MDUxXX0=
+eyJoaXN0b3J5IjpbMTQyMzkxNjQ3MV19
 -->
