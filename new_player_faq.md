@@ -48,6 +48,7 @@ Once you've played a game or two and you see what a rad game VS can be, you're l
 **Bad news** - The rule book hasn't been updated for three years, so there are some missing pieces or some items out of date. Upper Deck has said that they are currently updating a comprehensive rules resource.
 
 **More good news** - This wiki is a great spot for clarifications. Check out the following resources for more information about rules and card clarifications:
+
 - [Glossary of common keyword powers and game terms](http://www.reddit.com/r/vs2pcg/wiki/glossary)
 
 - [Major rulings, errata, bans, and misprints](https://www.reddit.com/r/vs2pcg/wiki/rulings)
@@ -72,11 +73,11 @@ If the enemy has no face-up front row characters, then you can attack their back
 If your character has the ![](%%Range%%) (Range) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Generally, the previous rules still apply (they can only attack to the enemy's front row unless they have no face-up front-row characters).
 
 ####  ![](%%Flight%%)  (Flight) indicates where you can attack TO
-If your character has the ![](%%Flight%%) (Flight) icon on their card, not only can they attack *to* the enemy front row, but they can also attack *to* their back row - even if there is a character in the front row. **Important:** - if, however, the front-row enemy character is face-up and also has ![](%%Flight%%) (Flight), this prevents you from flying over their front row character.
+If your character has the ![](%%Flight%%) (Flight) icon on their card, not only can they attack *to* the enemy front row, but they can also attack *to* their back row - even if there is a character in the front row. **Important:** If, however, the front-row enemy character is face-up and also has ![](%%Flight%%) (Flight), this prevents you from flying over their front row character to hit the back row character.
 
 #### What if my character has both ![](%%Range%%) (Range) and ![](%%Flight%%) (Flight)?
 In this case, they have the best of both worlds. They can attack *from* your front or back row *to* the enemy front or back row. (However, the note about a flying front-row enemy character still comes into play here. They cannot hit a back-row enemy character if there's a face up front-row enemy character with ![](%%Flight%%).)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTkwMzE3NywtMTg5MDgxNzQyOCw3MD
-MyMjUzNzQsLTEyMDY1MTU1MzhdfQ==
+eyJoaXN0b3J5IjpbNzMxNzY4NDA1LDE2NjU5MDMxNzcsLTE4OT
+A4MTc0MjgsNzAzMjI1Mzc0LC0xMjA2NTE1NTM4XX0=
 -->
