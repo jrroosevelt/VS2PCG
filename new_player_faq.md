@@ -43,15 +43,17 @@ Once you've played a game or two and you see what a rad game VS can be, you're l
 - [Major rulings, errata, bans, and misprints](https://www.reddit.com/r/vs2pcg/wiki/rulings)
 - [Individual card rulings, FAQs, and rule insert notes](http://www.reddit.com/r/vs2pcg/wiki/rules-insert)
 
-## How does combat work? I'm confused by ![](%%Flight%%) and ![](%%Range%%)
+## How does combat work? I'm confused by ![](%%Range%%) and ![](%%Flight%%) 
 If you've already looked at the [official rule book online](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic) and are still confused by some aspects of combat, don't feel bad. Many of us were (or still are?) right there with you. Here are a few notes that will hopefully help:
 
 ### Combat scenarios diagram
 If you want to jump right to the gory details, check out [this diagram that shows many of the most common attack and defense scenarios](https://drive.google.com/file/d/1jf0-omCPcbpdqMTpQDRgiqGoCMIGVphS/view?usp=sharing). 
 
-### 
+### How ![](%%Range%%) and ![](%%Flight%%) come into play
+##
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzkxNjQ3MV19
+eyJoaXN0b3J5IjpbLTI5NjgyMzgyN119
 -->
