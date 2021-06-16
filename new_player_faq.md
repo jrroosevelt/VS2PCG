@@ -50,10 +50,13 @@ If you've already looked at the [official rule book online](https://docs.google.
 If you want to jump right to the gory details, check out [this diagram that shows many of the most common attack and defense scenarios](https://drive.google.com/file/d/1jf0-omCPcbpdqMTpQDRgiqGoCMIGVphS/view?usp=sharing). 
 
 ### How ![](%%Range%%) and ![](%%Flight%%) come into play
-##
+At the most basic, a character in your front row can attack an enemy character in their front row. Make sense? Ok, now we'll layer on a bit...
+
+#### ![](%%Range%%)  (Range) indicates where you can attack FROM
+If your character has the ![](%%Range%%) o
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjgyMzgyN119
+eyJoaXN0b3J5IjpbLTk5MTkwNjAwNF19
 -->
