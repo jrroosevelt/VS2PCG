@@ -18,7 +18,11 @@ There's no right answer here, but here are a few common pieces of advice:
 ## What set should I buy next? 
 Once you've played a game or two and you see what a rad game VS can be, you're likely to wonder which sets you should buy next. [This handy-dandy flow chart](https://www.reddit.com/r/vs2pcg/wiki/whatsetnext) helps to show which boxes build on preceding boxes. 
 
-## How does combat work? I'm confused by 
+## Are the rules somewhere online?
+Good news - Yes, you can find the official rule
+
+## How does combat work? I'm confused by ![](%%Flight%%) and ![](%%Range%%)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgwMjY2MzddfQ==
+eyJoaXN0b3J5IjpbLTI4NDk0MDQxMF19
 -->
