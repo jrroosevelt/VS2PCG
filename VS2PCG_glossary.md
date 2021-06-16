@@ -1,10 +1,11 @@
+
   
 # Common Glossary and FAQ of Keywords and Effects    
 
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
   
 
-# Absorption History
+#  Absorption History
   See the [card-specific clarification for Mimic (MC)](/r/VS2PCG/wiki/rules-insert#wiki_mimic_.28mc.29).
   
 
@@ -21,7 +22,7 @@ Here is the list of the most common recurring keywords, powers or terms that are
   
 
 # Agent  
-When this character appears, look at cards from the top of your deck equal to the number of Agents on your side.  Put any of them on the bottom of your deck.  
+When this character appears, look at cards from the top of your deck equal to the number of Agents on your side.  Put any of them on the bottom of your deck. 
 
 ---
 
@@ -29,8 +30,11 @@ Q: Can I put cards back on the top or bottom in any order?
 
 A: Yes, you can pick the order.
 
-^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/764197960464465991)
-  
+^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/764197960464465991) 
+
+
+# Air Superiority
+  Characters with Flight can't strike this character.
 
 # AKA [name]  
 This character is also considered to have the name specified.  This is not considered a power.  
@@ -49,14 +53,20 @@ If you discard the location from your hand to power this super power you gain th
 # Angry  
 This character must be in your first attack each turn if able.  (It can be a team attack.)  
 
-
+ 
 # Appears
-When a card enters play it “appears.” Whether you played it from hand or some modifier put it into play. If a card changes sides or is turned face-up, that does not count as “appearing.” When a character, location, or equipment appears, it is a new character, location, or equipment.
-  
-  
+When a card enters play it “appears.” Whether you played it from hand or some modifier put it into play. If a card changes sides or is turned face-up, that does not count as “appearing.” When a character, location, or equipment appears, it is a new character, location, or equipment. 
+
+
 # Ban  
 Name a character and choose a number.  Put all supporting characters with that name on enemy sides into their owner's hands.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that.  
   
+
+# Battle of Wills
+
+This term currently only exists on Iso-Sphere, an equipment card in Crossover Vol 3
+
+A Battle of Wills requires characters to bid how many power symbols they’ll pay to take (or keep) control of the Iso-Sphere. It works like this: The equipped character starts the bidding. (They can bid 0.) Then the next player either chooses a face-up character on their side to bid a higher number or passes. If they pass, they’re out of the Battle of Wills. Then the next player goes, and so on until all but one player passes. Then that player’s character pays the winning number of power symbols from their resource row (no discarding from hand) and the Iso-Sphere is moved to that character (if it’s not already there). Note: A character can’t bid a number they can’t pay. Once you choose a character as a bidder, you can’t choose a different character to be your bidder in the same Battle of Wills.
 
 # Berserker  
 When this character attacks, put a +1/+1 counter on it  
@@ -65,23 +75,26 @@ When this character attacks, put a +1/+1 counter on it
 # Biosentinel  
  The Biosentinel keyword does nothing by itself and is instead referenced by other powers.  
   
+
 # Bulletproof  
   Characters with Range can't strike this character. *(Even in melee combat.)*  
   
+
 # Burn  
    Stun this character at the end of each of your turns.  
   
 # Camouflage
-  When in the back row, this character cannot be attacked.
+When in the back row, this character cannot be attacked.
 
 # Capture  
 Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
   
+
 #  Card Game
-This is a power currently available on [Wyatt Wingfoot](/r/VS2PCG/wiki/rules-insert#wiki_wyatt_wingfoot).
+ This is a power currently available on [Wyatt Wingfoot](/r/VS2PCG/wiki/rules-insert#wiki_wyatt_wingfoot).
  
 To summarize, Wyatt will draw cards into his own "hand" and place resources into his own "resource row" that can be used to recruit during his own recruit step to bring cards onto your side.  When Wyatt leaves play or changes sides, his hand and resource row are removed from the game.  
-
+  
 # Card Name
 Name means not only the name printed on the name line, but also any **AKAs** the character has in their text box. ‘Card title’ is defined as only the name on the name line (see below).  
 
@@ -89,7 +102,7 @@ Name means not only the name printed on the name line, but also any **AKAs** the
 
 # Card Title  
  The name of a card on the name line (ignoring AKAs).  
-
+  
 # Choose  
 Many cards tell you to "Choose a [thing]". For example, choose a Super Power, or choose a Supporting Character. Unlike when you **name** something, you can only **choose** an item that is in play (aka in the Play Zone) unless otherwise indicated.
 
@@ -97,25 +110,36 @@ For example, Captain Swain says, "When Swain appears, choose a super power on a 
 
 ^Source [^Reddit ^Post](https://discord.com/channels/306874195051020288/768614566594478080/788521217635909633)
 
-
 # Climb  
 At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on this character.  
   
 Exhausted Locations can still be flipped face-down to pay for super powers but a face-down Location cannot be climbed (it is not counted as a location while face-down).  Exhausted Locations also do not generate Recruit Points but with Climb they will recover before the start of the Build Phase anyway so that is a non-issue.  
-  
+
+
+# Clone
+
+* Put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character but nothing else. It appears face up and ready, and does not appear with any counters or status effects (like Burn). Uniqueness does apply to the token.
 
 # Collect  
-  
+A term used on the Collector supporting character from the Legacy set.
+
 Remove the chosen character from the game. You may only collect a character with a different team affiliation from every other character you've collected this game.  A collection is unique to a player.  
+  
+# Collection
+A term used on the Collector main character Level 2 from Crossover Vol 3
+
+The Collector’s Collection can only have one equipment, one plot twist, and one supporting character at a time. But once one is played from his Collection, he is free to add another card of that type to his Collection.
 
 # Combat Master  
-While this character is in combat, enemy players can't play plot twists.   
+While this character is in combat, enemy players can't play plot twists.  
+  
 
 # Comet Fall  
- When this character appears, put a -1/-1 counter on each enemy character.    
+ When this character appears, put a -1/-1 counter on each enemy character.  
+  
 
 # Creature  
-This character cannot be equipped. This power cannot be turned off (with the exception of Dark Phoenix or another power that would disable Keyword Text).
+This character cannot be equipped.  
   
 
 # Daze  
@@ -132,7 +156,7 @@ In tournament play, you're only allowed to search for and fail to find a charact
   
 
 # Dodge  
-This character cannot be Range attacked.
+This character cannot be Range attacked  
   
 
 # Duplicate  
@@ -179,7 +203,7 @@ A: Fearless (and [Violent](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_vi
 
 If the power instead said, "While attacking a main character, double this character's ATK." that would result in the power stacking. (But, of course, that's not what it says.)
 
-^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/784476593988304907)
+^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/784476593988304907)  
   
 
 # Ferocious  
@@ -250,6 +274,7 @@ Typically you cannot *attack* a face-down character (with some exceptions like D
 This is one reason why card orientation is key in distinguishing Hidden (normal) from Stunned (exhausted) characters.
 
 ^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3360302180671971/?comment_id=3360391823996340)  
+  
 
 #  [Hologram](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-friendly-neighborhood-card-preview-you-dont-want-any-part-of-this-or-do-you/)  
 Each Hologram has an associated power symbol. If an enemy character with that type of Super Power appears, it automatically stuns the Hologram.  
@@ -266,6 +291,8 @@ This character gets +3 ATK while attacking.
 # Immobile  
  This character can't move during the formation step.  
   
+# Indestructible
+ This character can't be wounded.
 
 # Infinity  
 If a card with Infinity would get put into a KO pile from anywhere, you may shuffle it into its owner's deck instead. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
@@ -303,17 +330,9 @@ Flight and Ranged are the two most common keyword powers.
 
 Q: Is there a distinction between Keyword Text and Keyword Powers? I ask because [Dark Phoenix's](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29) **Deconstruct the Universe** can disable Keyword Text, but she doesn't disable **Flight** or **Range** when doing so. 
 
-A: There is a slight distinction between **Keyword Text** and **Keyword Powers**.  See below for details:
+A: In this case, **Flight** and **Range** are just two specific exceptions of Keywords that are not affected by **Deconstruct the Universe**. So, there is not a meaningful distinction between "Keyword Powers" and "Keyword Text".
 
-## Keyword Powers
-**Keyword Powers** include the Flight and Range icons and all text in the Keyword area of the card with these exceptions:
-
-* Superpowers
-* Level-Up powers
-* "Flavor" text (the quotations that appear on some cards)
-
-## Keyword Text
-**Keyword Text** is a *subset* of **Keyword Powers**. **Keyword Text** applies only to text in the Keyword area of the card (and does not include Flight and Range icons). Because it is a subset, it also has the exceptions mentioned for **Keyword Powers** as well.
+^(Source: Chad Daniel)
 
 # Invisible  
 This character doesn’t protect characters and can attack protected characters.  
@@ -354,11 +373,12 @@ Some examples of what this change will allow:
 -   You can now use a Secret Hideout (with its Hostage pile) in a Sinister Syndicate Loyalty deck.
 
 ^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
-  
+
 # Loyalty plot twists
 Some plot twists have a stipulation that they can only be put into a "Loyalty"-type deck. These typically mean that your deck must meet the requirements mentioned in the "Loyalty" entry. However, in some cases, there are specific requirements that your deck must be good or evil loyal. In those cases, you don't need all the same team, but need to have all good or all evil characters in your deck, respectively.
 
 Yet other loyalty plot twists have three copies of the affiliated team's logo in the upper right corner. Per the rules, in order to play these plot twists, you must also, "... have three face-up characters with that team symbol in order to play the card." These plot twists are also subject to the requirements mentioned in the Loyalty section as well.
+  
 
 # Lumbering  
 As this character attacks, the defending player chooses who the defender is. (It must be a character that it could attack.)  
@@ -381,6 +401,10 @@ Some equipment cards are labeled "Equipment - Machine" beneath their card names.
   
 * If a Machine stops being an Equipment for any reason, it also is no longer a Machine.  
   
+
+# Martial Artist
+ This character has +2/+2 in melee combat.
+
 
 # Mantle  
 A card "shares a mantle" with another card when there are two or more cards in the game with that name, but one of them has one or more stars in the name line.  
@@ -407,13 +431,14 @@ Once per turn during your Main Phase but not during combat, you may move this ch
 
 # Monstrous  
  While this character is defending against a melee team attack, he strikes back against each attacker.  
-  
+
 # Name (verb)
 Many cards tell you to "Name a [thing]". For example, name a Super Power, or name a Supporting Character. Unlike **choose**, **name** allows you to announce/designate something whether it is or isn't currently in play (unless otherwise indicated).
 
 For example, The Nullifier says, "When The Nullifier appears, name a keyword or super power." In this case, you can name a keyword or super power even if there is no card currently in play with that power.
 
 ^Source [^Reddit ^Post](https://discord.com/channels/306874195051020288/768614566594478080/788521217635909633)
+  
 
 # Nerf  
 Name a character.  For the rest of the game, supporting characters with that name on enemy players' sides and in enemy hands, decks and KO piles are 0/1 with 1 Health and nothing can ever, ever change that.  
@@ -479,15 +504,13 @@ The chosen characters can team attack with each other and can't be struck back w
   
 
 # Safeguard  
- Characters without Safeguard in the same row as this character cannot be attacked. 
+ Characters without Safeguard in the same row as this character cannot be attacked.  
 
 # Shifting Loyalties
 At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (H.A.M.M.E.R.) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
 
-^(Source: Rule insert)
+^(Source: Rule insert)  
 
-See also: [Cloak](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_cloak) and [Dagger](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_dagger) 
-  
 # Shrink  
 When this character gets attacked for the first time each turn, you may cancel the combat.  
 
@@ -524,7 +547,7 @@ Side Stacks may include, but are not limited to, the following stacks (and cards
 
 - Spellbook Stack (Willow)
 
-- Spider Web Stack (Scarlet Spider)
+- Spider Web Stack(Scarlet Spider)
 
 - Tactics Stack (Mastermind)
 
@@ -558,7 +581,7 @@ Q: Does the target of the **Soldier** ability have to be unprotected? The card d
 A: No, it can be any supporting character. This was a misprint in the rule book.
 
 ^Source: [^FB ^Post](https://m.facebook.com/groups/860168987351982?view=permalink&id=1514692965232911)
-  
+
 # Spells and Spellcasters
 **Spells** are Plot Twists that require a specific type of **Spellcaster** character on your side to pay a specific power symbol. For example, Growth is a ![](%%Might%%) (Might) **Spell**. To play it, a ![](%%Might%%) (Might) **Spellcaster** on your side such as Magik must pay a ![](%%Might%%) (Might). 
 
@@ -566,7 +589,7 @@ Other than the above requirements, **Spells** work just like any other Plot Twis
 
 **Note:** If a **Spell** is playable in combat, the **Spellcaster**who casts it does *not* have to be in combat.
 
-^(Source: Rule Insert)
+^(Source: Rule Insert)  
 
 ---
 
@@ -575,6 +598,7 @@ Q: Can **Spellcaster** be turned off via cards or abilities like Nullifier? If s
 A: Actually, **Spellcaster** is a separate power *type*, on the same level as Keyword Power, Super Power, or Level-Up power. So it cannot be negated by abilities that turn off any of those specific power types. The [introductory blog post](https://www.upperdeckblog.com/2021/03/vs-system-2pcg-mystic-arts-card-preview-i-put-a-spell-on-you/) referenced this as a "new type of power".
 
 ^Source: [^Discord ^Post](https://discord.com/channels/690968387542843412/690968387542843416/837395511417634898)
+
 
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
@@ -587,17 +611,19 @@ If you choose a Spider-Verse character to be your starting main character, you m
 During your Build Phase, if this character is in your hand, you may put it onto your side.  This doesn't count as recruiting the character.  
   
 These characters **do** count toward your total of 60 cards in your deck. You don’t have to include any Spider-Verse main characters in your deck, but you can include up to four.  As a reminder, if you have multiple main characters, they must all be KO'd for you to lose the game.  
-  
+
 # Start of Game
 Some cards or abilities refer to "At the start of the game..." Some of those cards include qualifiers like "...before players draw their opening hands." However, if the card doesn't include such a qualifier, the game starts after the game set up has been completed. 
 
 Setting up the game ends after both players have drawn their opening hands (including mulligans, if applicable).
 
 ^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3819579818077536/?comment_id=3831057940263057)
+  
 
 # Stealth  
- This character can melee attack back row characters even while they are protected. 
+ This character can melee attack back row characters even while they are protected.
 
+# Strike
 # Strike
 When one character strikes another, you compare its ATK value to the enemy's DEF value. If they are equal or the ATK value is greater, the enemy is stunned. A character must have at least 1 ATK to be able to strike.
 
@@ -615,6 +641,7 @@ If a character power or card ability allows you to strike a character outside of
 Some powers or card abilities (such as **A Necessary Evil**) allow a character to strike more than once. If an attacker is striking multiple times, typically you just add the striker's ATK value for the number of strikes. For example, **A Necessary Evil** allows an attacker to strike an additional time. So, if the attacker had an ATK value of 5, that attacker would instead strike for 10. 
 
 If a defender is able to strike multiple times, you can either strike the same attacker multiple times (add the ATK value) or strike multiple attackers. For example, let's say you are team-attacked by 2 attackers. If you have 5 ATK and an ability that allows you strike twice during that combat, you could either A.) strike the same attacker twice (total of 10 ATK) or B.) Strike each defender once with 5 ATK.
+  
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -675,6 +702,7 @@ Q: If I get Violent multiple times, does it stack? For example, if my character 
 
 A: See similar question for [Fearless](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_fearless).
   
+  
 # Vitality Counter
 A vitality counter is essentially the opposite of a wound counter. It gives a character +1 Health and remains on the character while the character is stunned. However, if a character has both a wound counter and vitality counter, they cancel out – remove one of each until the character only has one type.
 
@@ -703,13 +731,13 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * When you make a Wish, remove both copies of any card in your Wish pile from the game, and choose an enemy player. While those cards are removed this way, you may play one and that player may play one.  
   
-* If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.  
+* If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MD
-kyNTkxNDcsLTE3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4
-NzA3LC04NDU4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2OD
-gsLTc0MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0x
-ODkyODA4NDEwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MT
-YzMDI4LC0xNDAxMzM4MDE2LC0zMDk3Mjk0MDYsNDUwMTUzODMy
-LC04MDI1NDUwNDhdfQ==
+eyJoaXN0b3J5IjpbLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2ND
+IyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3
+MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC
+0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIsMTI1
+OTMxODE3NywtMTg5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5Mz
+Y2MDIsLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwtMzA5NzI5NDA2
+LDQ1MDE1MzgzMl19
 -->
