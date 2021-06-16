@@ -9,7 +9,8 @@ One of the best things about VS 2PCG is that the community is tremendous. There 
  - **[VS 2PCG Reddit](https://www.reddit.com/r/VS2PCG/)**
 	 - Almost seems silly to mention it since you're here already, but...
 	 - It's a good spot to ask questions and the wiki is a tremendous source of info.
- - 
+ - [VS 2PCG Collective on Facebook](https://www.facebook.com/groups/860168987351982)
+	 - Active community with a lot of posts 
 
 ## Which set should I start with? 
 There's no right answer here, but here are a few common pieces of advice:
@@ -44,5 +45,5 @@ If you want to jump right to the gory details, check out [this diagram that show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTE0ODY3M119
+eyJoaXN0b3J5IjpbNDc5MjcyMjY4XX0=
 -->
