@@ -64,11 +64,11 @@ If your character has the ![](%%Range%%) icon on their card, not only can they a
 If your character has the ![](%%Flight%%) icon on their card, not only can they attack *to* the enemy front row, but they can also attack *to* their back row - even if there is a character in the front row. **Important:** - if, however, the front-row enemy character is face-up and also has ![](%%Flight%%), this prevents you from flying over their front row character.
 
 #### What if my character has both ![](%%Range%%) and ![](%%Flight%%) ?
-In this case, they have the best of both worlds. They can attack *from* your front or rear row *to* the enemy front or rear row. (However, the note about a flying front-row enemy character still comes into play here. They cannot hit a r
+In this case, they have the best of both worlds. They can attack *from* your front or back row *to* the enemy front or back row. (However, the note about a flying front-row enemy character still comes into play here. They cannot hit a back-row enemy character if there's a face up front-row enemy character with ![](%%Flight%%).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzUwNTQ1OCw3MDMyMjUzNzQsLTEyMD
-Y1MTU1MzhdfQ==
+eyJoaXN0b3J5IjpbMzkzMTM2NTQyLDcwMzIyNTM3NCwtMTIwNj
+UxNTUzOF19
 -->
