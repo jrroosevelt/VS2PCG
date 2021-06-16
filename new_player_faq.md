@@ -23,10 +23,12 @@ Once you've played a game or two and you see what a rad game VS can be, you're l
 
 **Bad news** - The rule book hasn't been updated for three years, so there are some missing pieces or some items out of date.
 
-**More good news** - This wiki is a great spot for clarifications. Check out the following resources for more information about rules and card clarificat
+**More good news** - This wiki is a great spot for clarifications. Check out the following resources for more information about rules and card clarifications:
+- [Glossary of common keyword powers and game terms](http://www.reddit.com/r/vs2pcg/wiki/glossary)
+- Major ru
 
 ## How does combat work? I'm confused by ![](%%Flight%%) and ![](%%Range%%)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDQ2MzMyOF19
+eyJoaXN0b3J5IjpbODE5NTkyMjU2XX0=
 -->
