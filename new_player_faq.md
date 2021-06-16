@@ -49,14 +49,17 @@ If you've already looked at the [official rule book online](https://docs.google.
 ### Combat scenarios diagram
 If you want to jump right to the gory details, check out [this diagram that shows many of the most common attack and defense scenarios](https://drive.google.com/file/d/1jf0-omCPcbpdqMTpQDRgiqGoCMIGVphS/view?usp=sharing). 
 
+### The most basic first... front row to front row
+At the most basic, a character in your front row can attack an enemy character in their front row. If the enemy has no face-up front row characters, then you can attack their back row. Make sense? Ok, now we'll layer on a bit...
+
 ### How ![](%%Range%%) and ![](%%Flight%%) come into play
-At the most basic, a character in your front row can attack an enemy character in their front row. Make sense? Ok, now we'll layer on a bit...
+
 
 #### ![](%%Range%%)  (Range) indicates where you can attack FROM
-If your character has the ![](%%Range%%) o
+If your character has the ![](%%Range%%) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Keeping
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTkwNjAwNF19
+eyJoaXN0b3J5IjpbLTE5NTM1NjI5NTFdfQ==
 -->
