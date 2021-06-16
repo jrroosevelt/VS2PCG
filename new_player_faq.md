@@ -43,7 +43,7 @@ Once you've played a game or two and you see what a rad game VS can be, you're l
 - [Major rulings, errata, bans, and misprints](https://www.reddit.com/r/vs2pcg/wiki/rulings)
 - [Individual card rulings, FAQs, and rule insert notes](http://www.reddit.com/r/vs2pcg/wiki/rules-insert)
 
-## How does combat work? I'm confused by ![](%%Range%%) and ![](%%Flight%%) 
+## How does combat work? I'm confused by ![](%%Range%%) (Range) and ![](%%Flight%%) (Flight)
 If you've already looked at the [official rule book online](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic) and are still confused by some aspects of combat, don't feel bad. Many of us were (or still are?) right there with you. Here are a few notes that will hopefully help:
 
 ### Combat scenarios diagram
@@ -55,10 +55,10 @@ At the most basic, a character in your front row can attack an enemy character i
 ### What if my opponent has no front row?
 If the enemy has no face-up front row characters, then you can attack their back row (the back-row characters are no longer **Protected**. Make sense? Ok, now we'll layer on a bit...
 
-### How ![](%%Range%%) and ![](%%Flight%%) come into play
+### How ![](%%Range%%) (Range) and ![](%%Flight%%) (Flight) come into play
 
 #### ![](%%Range%%)  (Range) indicates where you can attack FROM
-If your character has the ![](%%Range%%) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Generally, the previous rules still apply (they can only attack to the enemy's front row unless they have no face-up front-row characters).
+If your character has the ![](%%Range%%) (Range) icon on their card, not only can they attack *from* your front row, but they can also attack *from* your back row. Generally, the previous rules still apply (they can only attack to the enemy's front row unless they have no face-up front-row characters).
 
 ####  ![](%%Flight%%)  (Flight) indicates where you can attack TO
 If your character has the ![](%%Flight%%) icon on their card, not only can they attack *to* the enemy front row, but they can also attack *to* their back row - even if there is a character in the front row. **Important:** - if, however, the front-row enemy character is face-up and also has ![](%%Flight%%), this prevents you from flying over their front row character.
@@ -69,6 +69,6 @@ In this case, they have the best of both worlds. They can attack *from* your fro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMTM2NTQyLDcwMzIyNTM3NCwtMTIwNj
+eyJoaXN0b3J5IjpbMTAwNzc3MTQ0LDcwMzIyNTM3NCwtMTIwNj
 UxNTUzOF19
 -->
