@@ -294,6 +294,9 @@ This character gets +3 ATK while attacking.
 # Indestructible
  This character can't be wounded.
 
+# Infected
+If a character is **Infected**, it gains a -1/-1 counter at the en
+
 # Infinity  
 If a card with Infinity would get put into a KO pile from anywhere, you may shuffle it into its owner's deck instead. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
   
@@ -733,11 +736,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2ND
-IyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3
-MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC
-0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIsMTI1
-OTMxODE3NywtMTg5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5Mz
-Y2MDIsLTY0ODE2MzAyOCwtMTQwMTMzODAxNiwtMzA5NzI5NDA2
-LDQ1MDE1MzgzMl19
+eyJoaXN0b3J5IjpbMTA5MTcxNDAyMywtMjk2NzE2NDUsMTUzNz
+U5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3MzgwODI0
+MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5NzUsLT
+E2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwtMTc0
+OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1Nz
+E3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0xNDAxMzM4MDE2
+LC0zMDk3Mjk0MDZdfQ==
 -->
