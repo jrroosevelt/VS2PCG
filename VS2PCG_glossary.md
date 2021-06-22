@@ -604,19 +604,19 @@ Q: If an effect tells me to “name a keyword power” do I just name “Spellca
 
 A: You have to name the specific type of Spellcaster. There are currently four different types of Spellcaster and each one is a separate keyword power:
 
-(Energy) Spellcaster
+![](%%Energy%%) (Energy) Spellcaster
 
-(Intellect) Spellcaster
+![](%%Intellect%%) (Intellect) Spellcaster
 
-(Might) Spellcaster
+![](%%Might%%) (Might) Spellcaster
 
-(Skill) Spellcaster
+![](%%Skill%%) (Skill) Spellcaster
 
 So for example you could name "Might Spellcaster.”
 
-Question: Is Spell a keyword power? Can plot twists even have keyword powers?
+Q: Is **Spell** a keyword power? Can plot twists even have keyword powers?
 
-Answer: Yes and yes. Spell is a family of (currently) four keyword powers just like Spellcaster. Some other examples of keyword powers on plot twists are Loyalty and Agenda. (Note: Similar to Spells and Spellcaster, each type of Loyalty is actually a separate keyword.)
+A: Yes and yes. **Spell** is a family of (currently) four keyword powers just like **Spellcaster**. Some other examples of keyword powers on plot twists are **Loyalty** and **Agenda**. (Note: Similar to Spells and Spellcaster, each type of Loyalty is actually a separate keyword.)
 
 
 # Spider-Gear  
@@ -752,11 +752,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMzA5NTI0LDEwNDk1MzY3ODcsLTI5Nj
-cxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3
-LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtOD
-Q1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2
-NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwOD
-QxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwt
-MTQwMTMzODAxNl19
+eyJoaXN0b3J5IjpbLTEzOTgwOTM0MzAsMTA0OTUzNjc4NywtMj
+k2NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkx
+NDcsLTE3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC
+04NDU4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0
+MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyOD
+A4NDEwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4
+LC0xNDAxMzM4MDE2XX0=
 -->
