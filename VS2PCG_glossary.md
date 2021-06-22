@@ -618,6 +618,7 @@ Q: Is **Spell** a keyword power? Can plot twists even have keyword powers?
 
 A: Yes and yes. **Spell** is a family of (currently) four keyword powers just like **Spellcaster**. Some other examples of keyword powers on plot twists are **Loyalty** and **Agenda**. (Note: Similar to Spells and Spellcaster, each type of Loyalty is actually a separate keyword.)
 
+^Source: [^Facebook ^Post](https://www.facebook.com/VsSystem2PCG/posts/3988339104607257)
 
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
@@ -752,11 +753,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgwOTM0MzAsMTA0OTUzNjc4NywtMj
-k2NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkx
-NDcsLTE3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC
-04NDU4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0
-MDY3MDcxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyOD
-A4NDEwLDE3MzY1NzE3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4
-LC0xNDAxMzM4MDE2XX0=
+eyJoaXN0b3J5IjpbMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOT
+Y3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0
+NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLT
+g0NTg4ODk3NSwtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQw
+NjcwNzE0LC0xNzQ5NzAzNDYyLDEyNTkzMTgxNzcsLTE4OTI4MD
+g0MTAsMTczNjU3MTc3MywxMjMzOTM2NjAyLC02NDgxNjMwMjgs
+LTE0MDEzMzgwMTZdfQ==
 -->
