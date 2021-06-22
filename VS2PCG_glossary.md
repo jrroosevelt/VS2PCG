@@ -596,11 +596,27 @@ Other than the above requirements, **Spells** work just like any other Plot Twis
 
 ---
 
-Q: Can **Spellcaster** be turned off via cards or abilities like Nullifier? If so, would that turn off both ![](%%Might%%) (Might) **Spellcaster** and ![](%%Intellect%%) (Intellect) **Spellcaster** (for instance) or are each of those separate?
+Q: Is Spellcaster a keyword power or is it a super power or is it something else entirely?
 
-A: Actually, **Spellcaster** is a separate power *type*, on the same level as Keyword Power, Super Power, or Level-Up power. So it cannot be negated by abilities that turn off any of those specific power types. The [introductory blog post](https://www.upperdeckblog.com/2021/03/vs-system-2pcg-mystic-arts-card-preview-i-put-a-spell-on-you/) referenced this as a "new type of power".
+A: Spellcaster is a keyword power. (Actually, it’s a family of keyword powers -- see next question.)
 
-^Source: [^Discord ^Post](https://discord.com/channels/690968387542843412/690968387542843416/837395511417634898)
+Q: If an effect tells me to “name a keyword power” do I just name “Spellcaster” or do I have to say a specific type of Spellcaster?
+
+A: You have to name the specific type of Spellcaster. There are currently four different types of Spellcaster and each one is a separate keyword power:
+
+(Energy) Spellcaster
+
+(Intellect) Spellcaster
+
+(Might) Spellcaster
+
+(Skill) Spellcaster
+
+So for example you could name "Might Spellcaster.”
+
+Question: Is Spell a keyword power? Can plot twists even have keyword powers?
+
+Answer: Yes and yes. Spell is a family of (currently) four keyword powers just like Spellcaster. Some other examples of keyword powers on plot twists are Loyalty and Agenda. (Note: Similar to Spells and Spellcaster, each type of Loyalty is actually a separate keyword.)
 
 
 # Spider-Gear  
@@ -736,11 +752,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTUzNjc4NywtMjk2NzE2NDUsMTUzNz
-U5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3MzgwODI0
-MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5NzUsLT
-E2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwtMTc0
-OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1Nz
-E3NzMsMTIzMzkzNjYwMiwtNjQ4MTYzMDI4LC0xNDAxMzM4MDE2
-LC0zMDk3Mjk0MDZdfQ==
+eyJoaXN0b3J5IjpbOTIzMzA5NTI0LDEwNDk1MzY3ODcsLTI5Nj
+cxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3
+LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtOD
+Q1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2
+NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3NywtMTg5MjgwOD
+QxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIsLTY0ODE2MzAyOCwt
+MTQwMTMzODAxNl19
 -->
