@@ -2165,7 +2165,7 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 
 # Spider-Man
 ## Spider-Man (MC - Anti Registration)
-
+^CardNumber: ^SPF-001, ^SPF-002
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider-Friends)
 ^CardNumber: ^SPF-001, ^SPF-002
@@ -3125,11 +3125,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjM0NTA5Niw3NTAzMDA5NiwxNjYyMT
-kzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIx
-LC0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MT
-g0Mzc3MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5
-MTEzNiwtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NS
-wxOTk0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYw
-OTMwNTAzXX0=
+eyJoaXN0b3J5IjpbODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOT
+M2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEs
+LTEyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxOD
+QzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkx
+MTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LD
+E5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5
+MzA1MDNdfQ==
 -->
