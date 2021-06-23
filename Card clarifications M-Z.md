@@ -749,6 +749,8 @@ A: Apply the +1/+1s after her stats change. For example, let’s say she has two
 
 When He uses his *Imperius Rex* Super Power, double his current ATK and DEF. If he gains ATK or DEF later in the combat, those values won't be doubled.
 
+^(Source: Rule insert)
+
 
 ## [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC - Defenders)
 ^CardNumber: ^DFX-005, ^DFX-006, ^DFX-007
@@ -2171,6 +2173,8 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 
 His **Amazing** and **Spectacular** Super Powers allow him to strike before the time when characters strike at the end of combat. Apply his current ATK to the enemy character's current DEF. If the ATK is equal to or greater than the DEF, stun the enemy character. The enemy character does not strike Spider-Man when he uses these powers. Spider-Man still gets to strike at the end of the combat as normal.
 
+^(Source: Rule insert)
+
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider-Friends)
 ^CardNumber: ^SPF-001, ^SPF-002
 
@@ -3129,11 +3133,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjExMzQ2Nyw4MTAwMTIwMjYsNzUwMz
-AwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMDk0Njg1NDE0
-LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1ODMsMTM4OD
-kyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1NjA0LC0xNTYwOTcy
-OTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTExMzY0NTc5LD
-E2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC0xNzQ1
-MzA2NzgwXX0=
+eyJoaXN0b3J5IjpbLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MD
+MwMDk2LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQx
+NCw5NTA0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUxNTgzLDEzOD
+g5MjU5MTEsMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3
+MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OS
+wxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0
+NTMwNjc4MF19
 -->
