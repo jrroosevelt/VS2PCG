@@ -740,7 +740,12 @@ A: Apply the +1/+1s after her stats change. For example, let’s say she has two
 
 ^(Source: UDE FAQ)
 
-# [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC)
+# Namor
+
+## Namor (MC - Anti Registration)
+
+
+## [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC )
 ^CardNumber: ^DFX-005, ^DFX-006, ^DFX-007
 
 *Set: The New Defenders*  
@@ -3112,11 +3117,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOT
-M5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0
-OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMT
-A1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgy
-NzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MC
-wtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2MDkzMDUwMyw3OTU4
-MzE3MzldfQ==
+eyJoaXN0b3J5IjpbLTYxNDA1MTEwNyw3NTAzMDA5NiwxNjYyMT
+kzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIx
+LC0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MT
+g0Mzc3MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5
+MTEzNiwtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NS
+wxOTk0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYw
+OTMwNTAzXX0=
 -->
