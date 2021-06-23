@@ -743,9 +743,14 @@ A: Apply the +1/+1s after her stats change. For example, let’s say she has two
 # Namor
 
 ## Namor (MC - Anti Registration)
+^CardNumber: ^CIV-032, ^CIV-033
+
+*Set: The Civil War Battles*
+
+When He uses his *Imperius Rex* Super Power, double his current ATK and DEF. If he gains ATK or DEF later in the combat, those values 
 
 
-## [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC )
+## [Namor](http://vs.tcgbrowser.com/images/cards/big/DFX-007.jpg) (MC - Defenders)
 ^CardNumber: ^DFX-005, ^DFX-006, ^DFX-007
 
 *Set: The New Defenders*  
@@ -3117,11 +3122,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDA1MTEwNyw3NTAzMDA5NiwxNjYyMT
-kzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIx
-LC0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MT
-g0Mzc3MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5
-MTEzNiwtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NS
-wxOTk0NDc3MjYwLC0xNDI5OTM4NDksLTE3NDUzMDY3ODAsNDYw
-OTMwNTAzXX0=
+eyJoaXN0b3J5IjpbLTE0MjA5ODk4OTQsNzUwMzAwOTYsMTY2Mj
+E5MzY2NCwyMDQzOTM5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTky
+MSwtMTI3ODI4MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxND
+E4NDM3NzE5LC0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0
+OTExMzYsLTc2MDgyNzI0NSwxOTExMzY0NTc5LDE2NjkzNDA0OT
+UsMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC0xNzQ1MzA2NzgwLDQ2
+MDkzMDUwM119
 -->
