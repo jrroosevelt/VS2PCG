@@ -2165,7 +2165,11 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 
 # Spider-Man
 ## Spider-Man (MC - Anti Registration)
-^CardNumber: ^SPF-001, ^SPF-002
+^CardNumber: ^CIV-034, ^CIV-035
+
+*Set: The Civil War Battles*
+
+His **Amazing** and **Spectacular** Super Powers allow him to strike before the time when characters strike at the end of combat. Apply his current ATK to the enemy character's current DEF. If the ATK is equal to or greater than the DEF, stun the enemy character.
 
 ## [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/SPF-001.jpg) (MC-Spider-Friends)
 ^CardNumber: ^SPF-001, ^SPF-002
@@ -3125,11 +3129,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOT
-M2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEs
-LTEyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxOD
-QzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkx
-MTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5MzQwNDk1LD
-E5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0NTMwNjc4MCw0NjA5
-MzA1MDNdfQ==
+eyJoaXN0b3J5IjpbLTYyNjM0NjkzOSw4MTAwMTIwMjYsNzUwMz
+AwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMDk0Njg1NDE0
+LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1ODMsMTM4OD
+kyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1NjA0LC0xNTYwOTcy
+OTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTExMzY0NTc5LD
+E2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQyOTkzODQ5LC0xNzQ1
+MzA2NzgwXX0=
 -->
