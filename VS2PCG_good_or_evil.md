@@ -7,6 +7,7 @@ Here are the current Good or Evil categorizations:
 ## Illustrated universe
 ### Good teams
 * A-Force
+* Anti-Registration
 * Avengers
 * Champions
 * Company
@@ -17,6 +18,7 @@ Here are the current Good or Evil categorizations:
 * Inhumans
 * Monsters Unleashed
 * Prey
+* Pro-Registration
 * Red Team
 * Resistance
 * S.H.I.E.L.D.
@@ -55,8 +57,8 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDc1NzI1NSwxMDE2NjQ3Njc1LC0xMj
-k0MTU2NDI4LDExODA5NDczMTUsLTE5MDQyNzUyMzksLTE5MDQy
-NzUyMzksNzIyMjcxNzYzLC0xOTY3Njk1MTAsMTMxOTcxNzYwOF
-19
+eyJoaXN0b3J5IjpbMzg0NDc4MzE0LDEwMTY2NDc2NzUsLTEyOT
+QxNTY0MjgsMTE4MDk0NzMxNSwtMTkwNDI3NTIzOSwtMTkwNDI3
+NTIzOSw3MjIyNzE3NjMsLTE5Njc2OTUxMCwxMzE5NzE3NjA4XX
+0=
 -->
