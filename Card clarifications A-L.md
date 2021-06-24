@@ -3107,7 +3107,11 @@ A: Yes, characters keep their affiliations even when they are stunned.
 ^(Source: Tim Saunders, FB Post - Chad Daniel)
 
 
-# [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
+# Luke Cage
+
+## Luke Cage (MC- 
+
+## [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 ^CardNumber: ^MNB-018
 
 *Set: The Marvel Battles*
@@ -3126,11 +3130,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjUzOTYxNSwtMTM3MTMwNDUyNCwyMD
-Q2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQy
-NjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMT
-A3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIw
-MDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mzc2NDk3NTksNj
-k5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4NCwtNTYzNzY4
-NTY4XX0=
+eyJoaXN0b3J5IjpbLTkzNDQ5NjQ5MiwxMzc2NTM5NjE1LC0xMz
+cxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4
+MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3NSwxOT
+gwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYx
+MzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMT
+czNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4
+Mzg0XX0=
 -->
