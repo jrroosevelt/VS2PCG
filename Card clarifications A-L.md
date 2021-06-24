@@ -3120,7 +3120,7 @@ A: No
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/superawesomegamesllc/posts/4356210744400417?comment_id=4356618887692936)
 
-## [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
+## [Luke Cage  (SC - Avengers)](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 ^CardNumber: ^MNB-018
 
 *Set: The Marvel Battles*
@@ -3139,11 +3139,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY3ODY3OTMsMTM3NjUzOTYxNSwtMT
-M3MTMwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2
-ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMT
-k4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2
-MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLT
-E3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2
-ODM4NF19
+eyJoaXN0b3J5IjpbLTM2NDY3MzQsMTM3NjUzOTYxNSwtMTM3MT
+MwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2ODI4
+LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMTk4MD
+EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
+LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
+c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
+NF19
 -->
