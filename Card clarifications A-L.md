@@ -3109,7 +3109,16 @@ A: Yes, characters keep their affiliations even when they are stunned.
 
 # Luke Cage
 
-## Luke Cage (MC- 
+## Luke Cage (MC- Anti-Registration)
+^CardNumber: ^SEC-03, ^SEC-004
+
+*Set: Secret Avengers*
+
+Q: His level up says "when Luke Cage enters melee combat with at least one character without flight, he gains 1 XP". It doesn't specify "enemy character", so does that mean he gets XP for team attacking with characters without flight?
+
+A: No
+
+^Source: 
 
 ## [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 ^CardNumber: ^MNB-018
@@ -3130,11 +3139,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDQ5NjQ5MiwxMzc2NTM5NjE1LC0xMz
-cxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4
-MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3NSwxOT
-gwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYx
-MzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MDUxMzQzNSwtMT
-czNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5LC0xMzk5MTY4
-Mzg0XX0=
+eyJoaXN0b3J5IjpbLTE1NzQwNDgzNzksMTM3NjUzOTYxNSwtMT
+M3MTMwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2
+ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMT
+k4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2
+MTM1LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLT
+E3Mzc2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2
+ODM4NF19
 -->
