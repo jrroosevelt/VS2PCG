@@ -3118,7 +3118,7 @@ Q: His level up says "when Luke Cage enters melee combat with at least one chara
 
 A: No
 
-^Source: 
+^Source: [^Facebook ^Post](https://www.facebook.com/superawesomegamesllc/posts/4356210744400417?comment_id=4356618887692936)
 
 ## [Luke Cage](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 ^CardNumber: ^MNB-018
@@ -3139,7 +3139,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQwNDgzNzksMTM3NjUzOTYxNSwtMT
+eyJoaXN0b3J5IjpbLTE1NzY3ODY3OTMsMTM3NjUzOTYxNSwtMT
 M3MTMwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2
 ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMT
 k4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2
