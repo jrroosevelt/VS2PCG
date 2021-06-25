@@ -2116,6 +2116,12 @@ A: Any time you make a melee attack (any attack from the front row) while she is
 # [Skill](http://vs.tcgbrowser.com/images/cards/big/MYS-025.jpg)
 ^(Cardnumber: MYS-025)
 
+*Set: Mystic Arts*
+
+Q: Can I target a face down character? If so, what happens if I strike them?
+
+A: Short answer is "Yes." What actually happens will depend on if they're 
+
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 ^CardNumber: ^CV2-007
 
@@ -3136,11 +3142,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMD
-YzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0
-LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMj
-c4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3
-MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNi
-wtNzYwODI3MjQ1LDE5MTEzNjQ1NzksMTY2OTM0MDQ5NSwxOTk0
-NDc3MjYwXX0=
+eyJoaXN0b3J5IjpbLTExNTQ4Mjk0MywxMzAyOTkzMzQ2LC0xNz
+kyNTc3NjMsLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2
+LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NT
+A0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5
+MTEsMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMC
+wxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5
+MzQwNDk1XX0=
 -->
