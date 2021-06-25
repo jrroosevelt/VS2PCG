@@ -2118,9 +2118,9 @@ A: Any time you make a melee attack (any attack from the front row) while she is
 
 *Set: Mystic Arts*
 
-Q: Can I target a face down character? If so, what happens if I strike them?
+Q: Can I target a face-down character? If so, what happens if I strike them?
 
-A: Short answer is "Yes." What actually happens will depend on if they're 
+A: Short answer is "Yes." What actually happens will depend on if they're stunned or hidden. Check out the Glossary entries for [Strike](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_strike) and for [Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) for more information.
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 ^CardNumber: ^CV2-007
@@ -3142,7 +3142,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ4Mjk0MywxMzAyOTkzMzQ2LC0xNz
+eyJoaXN0b3J5IjpbMjA0MDE0MTkyNiwxMzAyOTkzMzQ2LC0xNz
 kyNTc3NjMsLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2
 LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NT
 A0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5
