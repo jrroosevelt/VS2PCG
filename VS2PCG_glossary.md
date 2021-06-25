@@ -665,7 +665,7 @@ If a defender is able to strike multiple times, you can either strike the same a
 
 Q: If I have an ability that allows me to directly strike a character, can I strike a face-down character?
 
-A: The short answer is "yes," but depending on the scenario it might not really do anything. Check out the glossary entry for Hide for further details.
+A: The short answer is "yes," but depending on the scenario it might not really do anything. Check out the [glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) for further details.
   
 
 # Survives  
@@ -758,7 +758,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzA2MzQxOCwxOTMxNTU3NDU0LDEwND
+eyJoaXN0b3J5IjpbMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwND
 k1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5
 NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLT
 c5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTEx
