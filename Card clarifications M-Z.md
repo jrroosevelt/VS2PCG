@@ -2113,6 +2113,9 @@ A: Any time you make a melee attack (any attack from the front row) while she is
 
 ^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/503484419256877059))
 
+# [Skill](http://vs.tcgbrowser.com/images/cards/big/MYS-025.jpg)
+
+
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 ^CardNumber: ^CV2-007
 
@@ -3133,11 +3136,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MD
-MwMDk2LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQx
-NCw5NTA0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUxNTgzLDEzOD
-g5MjU5MTEsMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3
-MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OS
-wxNjY5MzQwNDk1LDE5OTQ0NzcyNjAsLTE0Mjk5Mzg0OSwtMTc0
-NTMwNjc4MF19
+eyJoaXN0b3J5IjpbLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MT
+AwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2
+LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNT
+IxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1
+NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NS
+wxOTExMzY0NTc5LDE2NjkzNDA0OTUsMTk5NDQ3NzI2MCwtMTQy
+OTkzODQ5XX0=
 -->
