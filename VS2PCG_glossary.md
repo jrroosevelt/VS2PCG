@@ -644,7 +644,6 @@ Setting up the game ends after both players have drawn their opening hands (incl
  This character can melee attack back row characters even while they are protected.
 
 # Strike
-# Strike
 When one character strikes another, you compare its ATK value to the enemy's DEF value. If they are equal or the ATK value is greater, the enemy is stunned. A character must have at least 1 ATK to be able to strike.
 
 Striking occurs most commonly during combat. However, there are also powers and effects that allow one character to strike another outside of combat or before the combat resolves.
@@ -661,6 +660,12 @@ If a character power or card ability allows you to strike a character outside of
 Some powers or card abilities (such as **A Necessary Evil**) allow a character to strike more than once. If an attacker is striking multiple times, typically you just add the striker's ATK value for the number of strikes. For example, **A Necessary Evil** allows an attacker to strike an additional time. So, if the attacker had an ATK value of 5, that attacker would instead strike for 10. 
 
 If a defender is able to strike multiple times, you can either strike the same attacker multiple times (add the ATK value) or strike multiple attackers. For example, let's say you are team-attacked by 2 attackers. If you have 5 ATK and an ability that allows you strike twice during that combat, you could either A.) strike the same attacker twice (total of 10 ATK) or B.) Strike each defender once with 5 ATK.
+
+---
+
+Q: If I have an ability that allows me to directly strike a character, can I strike a face-down character?
+
+A: The short answer is "yes," but depending on the scenario it might not really do anything. Check out the glossary entry for Hide for further details.
   
 
 # Survives  
@@ -753,11 +758,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOT
-Y3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0
-NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLT
-g0NTg4ODk3NSwtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQw
-NjcwNzE0LC0xNzQ5NzAzNDYyLDEyNTkzMTgxNzcsLTE4OTI4MD
-g0MTAsMTczNjU3MTc3MywxMjMzOTM2NjAyLC02NDgxNjMwMjgs
-LTE0MDEzMzgwMTZdfQ==
+eyJoaXN0b3J5IjpbMTk2MzA2MzQxOCwxOTMxNTU3NDU0LDEwND
+k1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5
+NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLT
+c5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTEx
+MTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxOD
+E3NywtMTg5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIs
+LTY0ODE2MzAyOF19
 -->
