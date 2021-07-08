@@ -2889,7 +2889,9 @@ A: You get double twice (effectively quadruple).
 # \*Vision\*
 ^CardNumber: ^SEC-016
 
+*Set: Secret Avengers*
 
+\*Vision\* can reach into a person and disrupt their physical being. this is weird, scary, mean, and powerful! So with his **Physical
 
 # [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
 ^CardNumber: ^PRD-023
@@ -3156,7 +3158,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTAxMjk2MSwyMDQwMTQxOTI2LDEzMD
+eyJoaXN0b3J5IjpbLTQ4NjY3NjEwNiwyMDQwMTQxOTI2LDEzMD
 I5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIw
 MjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMD
 k0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1
