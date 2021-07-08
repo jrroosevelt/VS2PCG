@@ -654,7 +654,11 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 
 # Cable
 ## Cable (MC - Anti-Registration)
+^CardNumber: ^SEC-001, ^SEC-002
 
+*Set: Secret Avengers*
+
+His **Manipulate Matter** Super Power switches the affected character's stats at the moment it is used. Later gains to that character's 
 
 ## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC - X-Men)
 ^CardNumber: ^NEW-001, ^NEW-002
@@ -3142,7 +3146,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTc4NzgzMSwtMzY0NjczNCwxMzc2NT
+eyJoaXN0b3J5IjpbLTY2NTMxODI2OSwtMzY0NjczNCwxMzc2NT
 M5NjE1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5
 LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4ND
 A4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIz
