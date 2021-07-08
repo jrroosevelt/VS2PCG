@@ -653,7 +653,10 @@ With **Everything’s a Weapon**, you’ll put the top card of your deck into yo
 ^(Source: Rule insert)
 
 # Cable
-## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC)
+## Cable (MC - Anti-Registration)
+
+
+## [Cable](http://vs.tcgbrowser.com/images/cards/small/NEW-001.jpg) (MC - X-Men)
 ^CardNumber: ^NEW-001, ^NEW-002
 
 *Set: New Mutants*  
@@ -3139,11 +3142,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDY3MzQsMTM3NjUzOTYxNSwtMTM3MT
-MwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2ODI4
-LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMTk4MD
-EwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2MTM1
-LDEyNDMzNjIwMDQsMjAxOTgzMjI0MCw0NjA1MTM0MzUsLTE3Mz
-c2NDk3NTksNjk5NjM5MjE5LDM1MjgyNTIxOSwtMTM5OTE2ODM4
-NF19
+eyJoaXN0b3J5IjpbMTk4NTc4NzgzMSwtMzY0NjczNCwxMzc2NT
+M5NjE1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5
+LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4ND
+A4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIz
+NDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MD
+UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
+XX0=
 -->
