@@ -2891,7 +2891,7 @@ A: You get double twice (effectively quadruple).
 
 *Set: Secret Avengers*
 
-\*Vision\* can reach into a person and disrupt their physical being. this is weird, scary, mean, and powerful! So with his **Physical Disruption** power, anytime he would strike a Supporting Character in a melee combat, whether he's attacking or defending, he can directly wound the enemy character instead. The enemy character still strikes normally.
+\*Vision\* can reach into a person and disrupt their physical being. This is weird, scary, mean, and powerful! So with his **Physical Disruption** power, anytime he would strike a Supporting Character in a melee combat, whether he's attacking or defending, he can directly wound the enemy character instead. The enemy character still strikes normally.
 
 He will want to do this when he doesn't have enough ATK to stun them by striking, or when he wants to wound them but leave them face-up some someone else can finish them off.
 
@@ -3164,11 +3164,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU1MTQ2MDcsMjA0MDE0MTkyNiwxMz
-AyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYyMjksODEwMDEy
-MDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMj
-A5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUx
-NTgzLDEzODg5MjU5MTEsMTQxODQzNzcxOSwtMjEwNTU2NTYwNC
-wtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkx
-MTM2NDU3OV19
+eyJoaXN0b3J5IjpbLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMD
+I5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIw
+MjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMD
+k0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1
+ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1NjA0LC
+0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTEx
+MzY0NTc5XX0=
 -->
