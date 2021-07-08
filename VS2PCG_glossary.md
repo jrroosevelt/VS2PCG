@@ -620,6 +620,7 @@ A: Yes and yes. **Spell** is a family of (currently) four keyword powers just li
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/VsSystem2PCG/posts/3988339104607257)
 
+
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
   
@@ -758,11 +759,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwND
-k1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5
-NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLT
-c5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTEx
-MTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxOD
-E3NywtMTg5MjgwODQxMCwxNzM2NTcxNzczLDEyMzM5MzY2MDIs
-LTY0ODE2MzAyOF19
+eyJoaXN0b3J5IjpbLTU5NTMzNzcyNSwxMjIxOTU3NzgxLDE5Mz
+E1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMTUzNzU5ODIx
+OSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3MzgwODI0MjMsMT
+U3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5NzUsLTE2ODk2
+OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwtMTc0OTcwMz
+Q2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEwLDE3MzY1NzE3NzMs
+MTIzMzkzNjYwMl19
 -->
