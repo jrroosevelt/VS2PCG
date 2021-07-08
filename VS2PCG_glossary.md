@@ -37,7 +37,7 @@ A: Yes, you can pick the order.
   Characters with Flight can't strike this character.
 
 # AKA [name]  
-Some characters, like /*Daredevil/*
+Some characters, like \*Daredevil\*, have **AKA** and another name in their text box (in this case it's **AKA Iron Fist**). This represents the fact that some beings in the Marvel Universe have more than one name. In this case, Danny Rand is the current Daredevil during Ci
   
 
 # Amortal   
@@ -759,7 +759,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTY4Mjk0MCwxMjIxOTU3NzgxLDE5Mz
+eyJoaXN0b3J5IjpbLTY4MDgzODQ2NCwxMjIxOTU3NzgxLDE5Mz
 E1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMTUzNzU5ODIx
 OSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3MzgwODI0MjMsMT
 U3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5NzUsLTE2ODk2
