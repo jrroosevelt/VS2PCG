@@ -2361,7 +2361,11 @@ Her **Intangibility** power lets her strike characters while they're in a player
 ^(Source: Rule insert)
 
 # Storm
-## [Storm](http://vs.tcgbrowser.com/images/cards/big/mnb-027.jpg) (MC)
+## Storm (MC - Anti-Registration)
+^CardNumber: ^SEC-005, ^S
+
+
+## [Storm](http://vs.tcgbrowser.com/images/cards/big/mnb-027.jpg) (MC - X-Men)
 ^CardNumber: ^MNB-027, ^MNB-028
 
 *Set: The Marvel Battles*
@@ -3142,11 +3146,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDE0MTkyNiwxMzAyOTkzMzQ2LC0xNz
-kyNTc3NjMsLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2
-LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NT
-A0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5
-MTEsMTQxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMC
-wxMDI1NDkxMTM2LC03NjA4MjcyNDUsMTkxMTM2NDU3OSwxNjY5
-MzQwNDk1XX0=
+eyJoaXN0b3J5IjpbMTI0MTYzODY4OCwyMDQwMTQxOTI2LDEzMD
+I5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIw
+MjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMD
+k0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1
+ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1NjA0LC
+0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTEx
+MzY0NTc5XX0=
 -->
