@@ -1449,7 +1449,13 @@ A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 coun
 ^(Source: UDE FAQ)
 
 ## Doctor Strange (SC - Anti-Registration)
-^CardNumber: ^SEC
+^CardNumber: ^SEC-017
+
+*Set: Secret Avengers*
+
+**The Least Amount of Blood** checks the total number of characters in all KO piles, not just yours.
+
+^(Source: Rule insert)
 
 # [Dust](http://vs.tcgbrowser.com/images/cards/medium/CV2-011.jpg)
 ^CardNumber: ^CV2-011
@@ -2352,6 +2358,9 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
 
+# Hulkling
+
+
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 ^CardNumber: ^SFO-006
 
@@ -3153,11 +3162,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA5NzU5MSwtMzY0NjczNCwxMzc2NT
-M5NjE1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5
-LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4ND
-A4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIz
-NDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMDE5ODMyMjQwLDQ2MD
-UxMzQzNSwtMTczNzY0OTc1OSw2OTk2MzkyMTksMzUyODI1MjE5
-XX0=
+eyJoaXN0b3J5IjpbNTM0OTA4NzMwLC0zNjQ2NzM0LDEzNzY1Mz
+k2MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2MjU2NjM2NDks
+LTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MD
+gwODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0
+Nyw3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNT
+EzNDM1LC0xNzM3NjQ5NzU5LDY5OTYzOTIxOSwzNTI4MjUyMTld
+fQ==
 -->
