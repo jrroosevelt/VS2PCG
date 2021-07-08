@@ -2362,8 +2362,13 @@ Her **Intangibility** power lets her strike characters while they're in a player
 
 # Storm
 ## Storm (MC - Anti-Registration)
-^CardNumber: ^SEC-005, ^S
+^CardNumber: ^SEC-005, ^SEC-006
 
+*Set: Secret Avengers*
+
+Her **I'm a Mutant** Keyword Power doesn't affect Main Characters at the start of the game (they don't count as "appearing").
+
+^(Source: Rule insert)
 
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/mnb-027.jpg) (MC - X-Men)
 ^CardNumber: ^MNB-027, ^MNB-028
@@ -2881,6 +2886,8 @@ A: You get double twice (effectively quadruple).
 
 ^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/826988069550030849)
 
+#
+
 # [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
 ^CardNumber: ^PRD-023
 
@@ -3146,7 +3153,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTYzODY4OCwyMDQwMTQxOTI2LDEzMD
+eyJoaXN0b3J5IjpbLTI4NzIxMzAzNywyMDQwMTQxOTI2LDEzMD
 I5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIw
 MjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMD
 k0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1
