@@ -1438,7 +1438,7 @@ A: No, it would remove the +1/+1 and then... nothing else happens because they c
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/mnb-019.jpg) (SC)
+## [Dr. Strange](http://vs.tcgbrowser.com/images/cards/big/mnb-019.jpg) (SC - Avengers)
 ^CardNumber: ^MNB-019
 
 *Set: The Marvel Battles*
@@ -1447,6 +1447,9 @@ Q: Can his Transmute power stun someone?
 A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 counters which can stun someone.
 
 ^(Source: UDE FAQ)
+
+## Doctor Strange (SC - Anti-Registration)
+^CardNumber: ^SEC
 
 # [Dust](http://vs.tcgbrowser.com/images/cards/medium/CV2-011.jpg)
 ^CardNumber: ^CV2-011
@@ -3150,7 +3153,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTYxMDg2NCwtMzY0NjczNCwxMzc2NT
+eyJoaXN0b3J5IjpbLTIwNDA5NzU5MSwtMzY0NjczNCwxMzc2NT
 M5NjE1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5
 LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4ND
 A4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3MDk0LC01MzA3NjIz
