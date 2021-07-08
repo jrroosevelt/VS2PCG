@@ -2891,7 +2891,11 @@ A: You get double twice (effectively quadruple).
 
 *Set: Secret Avengers*
 
-\*Vision\* can reach into a person and disrupt their physical being. this is weird, scary, mean, and powerful! So with his **Physical
+\*Vision\* can reach into a person and disrupt their physical being. this is weird, scary, mean, and powerful! So with his **Physical Disruption** power, anytime he would strike a Supporting Character in a melee combat, whether he's attacking or defending, he can directly wound the enemy character instead. The enemy character still strikes normally.
+
+He will want to do this when he doesn't have enough ATK to stun them by striking, or when he wants to wound them but leave them face-up some someone else can finish them off.
+
+When \*Vision\* melee team attacks and wants to use **Physical Disruption** to wound the enemy cha
 
 # [Vocal Mimicry](http://vs.tcgbrowser.com/images/cards/big/PRD-023.jpg)
 ^CardNumber: ^PRD-023
@@ -3158,7 +3162,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjY3NjEwNiwyMDQwMTQxOTI2LDEzMD
+eyJoaXN0b3J5IjpbMTg5NDM5MjA2NSwyMDQwMTQxOTI2LDEzMD
 I5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIw
 MjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMD
 k0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1
