@@ -2363,7 +2363,9 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 *Set: Secret Avengers*
 
-**Half-Skrull Shapeshifter** triggers when you recruit him, but before he appears. So if you do choose to 
+**Half-Skrull Shapeshifter** triggers when you recruit him, but before he appears. So if you do choose to KO an enemy Supporting Character and have Hulkling appear on that enemy player's side, he won't appear on your side first.
+
+^(Source: Rule Insert)
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 ^CardNumber: ^SFO-006
@@ -3166,7 +3168,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDY0OTE3MCwyMTE1NDg2MDU3LC0xOD
+eyJoaXN0b3J5IjpbLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xOD
 IxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1
 MjQsMjA0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMT
 Y5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2
