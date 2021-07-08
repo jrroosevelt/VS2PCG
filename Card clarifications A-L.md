@@ -2363,7 +2363,7 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 *Set: Secret Avengers*
 
-
+**Half-Skrull Shapeshifter** triggers when you recruit him, but before he appears. So if you do choose to 
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 ^CardNumber: ^SFO-006
@@ -3166,11 +3166,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTQ4NjA1NywtMTgyMTM3NTM1MCwtMz
-Y0NjczNCwxMzc2NTM5NjE1LC0xMzcxMzA0NTI0LDIwNDY4OTE4
-MTgsNjI1NjYzNjQ5LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMj
-I2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC0xMDc0NTM3
-MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2MjAwNCwyMD
-E5ODMyMjQwLDQ2MDUxMzQzNSwtMTczNzY0OTc1OSw2OTk2Mzky
-MTldfQ==
+eyJoaXN0b3J5IjpbMTk5NDY0OTE3MCwyMTE1NDg2MDU3LC0xOD
+IxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1
+MjQsMjA0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMT
+Y5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2
+NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMj
+QzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5
+NzU5XX0=
 -->
