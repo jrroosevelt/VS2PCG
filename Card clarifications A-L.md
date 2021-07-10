@@ -1820,7 +1820,7 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 * Each player who has characters in a **Pocket Universe** will take a separate turn in that **Pocket Universe** after their normal turn (before the next player's normal turn, and including the turn Franklin creates the **Pocket Universe**).  
     * First take your normal turn. During this turn, ignore the **Pocket Universe**.  
     * After your turn is over, you then take a **Pocket Universe** turn. During this turn, ignore the original universe.  
-    * The cars you play on a particular turn can only affect that turn's universe.  
+    * The cards you play on a particular turn can only affect that turn's universe.  
 * A **Pocket Universe** turn sequence is a little different than a normal turn, as follows:  
     * Start of turn  
         * Note that there is no Draw Phase.  
@@ -1832,12 +1832,12 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
         * You can play Plot Twists from our hand to affect a **Pocket Universe**.
         * You can discard Locations from your hand to generate a power symbol in the **Pocket Universe**. (Since the **Pocket Universe** has no resource row, there are no locations to turn face down to generate a power symbol.)  
         * You can discard characters from your hand to Power Up characters in a **Pocket Universe**.
-        * When a character is KO'd in a **Pocket Universe**, they go to the normal KO pile. Similarly, if a character leaves play due to an effect, it works the same as if the character were still in the original universe. For example, if an effect returned teh character to its owner's hand, it would go to that hand as normal.
+        * When a character is KO'd in a **Pocket Universe**, they go to the normal KO pile. Similarly, if a character leaves play due to an effect, it works the same as if the character were still in the original universe. For example, if an effect returned the character to its owner's hand, it would go to that hand as normal.
     * End of turn
 * If there is more than one **Pocket Universe** in the game, each player will take their normal turn first, then a **Pocket Universe** turn for each **Pocket Universe** they have characters in, starting with the first **Pocket Universe** created, then the second, etc.
     * Cards in one **Pocket Universe** cannot attack or otherwise affect cards in another **Pocket Universe**.
 * When Franklin leaves play, the characters from each **Pocket Universe** he created pop back into the original universe part of the game, in the same rows and with the same orientation they were in their **Pocket Universe**.
-    * If this leads to more than one character with teh same name on your side, KO all except one (your choice).
+    * If this leads to more than one character with the same name on your side, KO all except one (your choice).
 
 
 ^(Source: Rule insert)
@@ -3168,11 +3168,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xOD
-IxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1
-MjQsMjA0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMT
-Y5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2
-NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMj
-QzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEzNDM1LC0xNzM3NjQ5
-NzU5XX0=
+eyJoaXN0b3J5IjpbLTE2MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMT
+E1NDg2MDU3LC0xODIxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2
+MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2MjU2NjM2NDksLT
+gwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0MDgw
+ODc1LDE5ODAxMDI2NzksLTEwNzQ1MzcwOTQsLTUzMDc2MjM0Ny
+w3Mzc0NjEzNSwxMjQzMzYyMDA0LDIwMTk4MzIyNDAsNDYwNTEz
+NDM1XX0=
 -->
