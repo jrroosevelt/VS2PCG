@@ -480,6 +480,11 @@ You may only include one copy of this card in your deck.
 
 # Passive  
 This character cannot attack and cannot strike back.  
+
+# Playing (a card)
+The following events are considered playing a card: Playing a Plot Twist, placing a resource or location, recruiting a character or equipment, any card effect that allows you to "play" or "recruit" cards from other zones. 
+
+NOT considered playing a card: Discarding a location to power a super power, discarding a character to power-up, card effects that "put into play" or otherwise don't state "play" or "recruit."
   
 
 #  Pocket Universe
@@ -763,11 +768,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOT
-MxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgy
-MTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLD
-E1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5
-NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3MD
-M0NjIsMTI1OTMxODE3NywtMTg5MjgwODQxMCwxNzM2NTcxNzcz
-LDEyMzM5MzY2MDJdfQ==
+eyJoaXN0b3J5IjpbLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMj
+IxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2
+NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLT
+E3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4
+ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MD
+cxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEw
+LDE3MzY1NzE3NzNdfQ==
 -->
