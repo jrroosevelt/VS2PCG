@@ -57,6 +57,14 @@ If you discard the location from your hand to power this super power you gain th
 # Angry  
 This character must be in your first attack each turn if able.  (It can be a team attack.)  
 
+---
+
+Q: Does the Angry character *have* to attack?
+
+A: You may choose not to attack at all. However, if you do decide to attack, Rhino must be a participant in your first one.
+
+^Sou
+
  
 # Appears
 When a card enters play it “appears.” Whether you played it from hand or some modifier put it into play. If a card changes sides or is turned face-up, that does not count as “appearing.” When a character, location, or equipment appears, it is a new character, location, or equipment. 
@@ -768,11 +776,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMj
-IxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2
-NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLT
-E3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4
-ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MD
-cxNCwtMTc0OTcwMzQ2MiwxMjU5MzE4MTc3LC0xODkyODA4NDEw
-LDE3MzY1NzE3NzNdfQ==
+eyJoaXN0b3J5IjpbODUwMzQyNDAzLC01MTk2MDEyNTgsLTE0Mj
+A0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3
+ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxND
+A5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0
+ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNj
+g4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3Nywt
+MTg5MjgwODQxMF19
 -->
