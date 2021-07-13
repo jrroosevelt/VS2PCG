@@ -63,7 +63,7 @@ Q: Does the Angry character *have* to attack?
 
 A: You may choose not to attack at all. However, if you do decide to attack, Rhino must be a participant in your first one.
 
-^Sou
+^Source: [^Reddit ^Post](https://discord.com/channels/488058478015807499/490215795503398912/864289378540453928)
 
  
 # Appears
@@ -776,7 +776,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMzQyNDAzLC01MTk2MDEyNTgsLTE0Mj
+eyJoaXN0b3J5IjpbNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0Mj
 A0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3
 ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxND
 A5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0
