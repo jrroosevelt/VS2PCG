@@ -61,7 +61,7 @@ This character must be in your first attack each turn if able.  (It can be a tea
 
 Q: Does the Angry character *have* to attack?
 
-A: You may choose not to attack at all. However, if you do decide to attack, Rhino must be a participant in your first one.
+A: You may choose not to attack at all. However, if you do decide to attack, the **Angry** character must be a participant in your first one.
 
 ^Source: [^Reddit ^Post](https://discord.com/channels/488058478015807499/490215795503398912/864289378540453928)
 
@@ -776,11 +776,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0Mj
-A0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3
-ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxND
-A5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0
-ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNj
-g4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIsMTI1OTMxODE3Nywt
-MTg5MjgwODQxMF19
+eyJoaXN0b3J5IjpbLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MT
+k2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3
+NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMT
+Y2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1
+MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzOD
+U0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIs
+MTI1OTMxODE3N119
 -->
