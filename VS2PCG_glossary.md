@@ -480,7 +480,7 @@ Cards sharing a mantle are considered to have different names, and if an effect 
 For Example: [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-015.jpg) and [\*Captain America\*](http://vs.tcgbrowser.com/images/cards/big/SVH-043.jpg) share a mantle.  Both can be on the field at the same time but cannot power each other up because their names are different.  Also because their names are considered to be different, [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg) cannot team attack with \*Captain America\* because his text only refers to Captain America (without the stars).  
 
 # Melee Combat
-A combat that i
+A combat that involves front row attackers.
 
 # Mercenary
 This character can team attack with any Main Character.
@@ -500,6 +500,9 @@ Once per turn during your Main Phase but not during combat, you may move this ch
 
 # Monstrous  
  While this character is defending against a melee team attack, he strikes back against each attacker.  
+
+# Multiple Main Characters
+Some card effects allow you to have more than one Main Character in play. In that case, your opponent must KO each Main Character to defeat you, unless the effect states otherwise.
 
 # Name (verb)
 Many cards tell you to "Name a [thing]". For example, name a Super Power, or name a Supporting Character. Unlike **choose**, **name** allows you to announce/designate something whether it is or isn't currently in play (unless otherwise indicated).
@@ -538,6 +541,9 @@ While defending, this character strikes with double its ATK.
 
 # One of a Kind  
 You may only include one copy of this card in your deck.  
+
+# On Your Side
+The cards you have in play are "on your side." You control these cards. If a ca
   
 
 # Passive  
@@ -829,7 +835,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTc0MDgxOCwtMTQyODIyMzkzNyw2OD
+eyJoaXN0b3J5IjpbMTI0ODY3Nzg1NCwtMTQyODIyMzkzNyw2OD
 cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
 NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
 UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
