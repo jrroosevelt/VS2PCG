@@ -170,7 +170,7 @@ There are various effects that result in adding a counter to your character. A c
 * [+1/+1 and -1/-1 Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_.2B1.2F.2B1_and_-1.2F-1_.28counters.29)
 * [Vitality Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_vitality_counter)
 * [Wound Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_wounds_.28and_wound_counters.29)
-* XP Counters
+* [XP Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_xp_.28and_xp_counters.29)
   
 
 # Creature  
@@ -904,11 +904,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYwMjU0MjgsLTY1NTA3MTE0NywtMT
-A1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIx
-MjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3OD
-EsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3
-NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4Mj
-QyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NSwt
-MTY4OTY5Mzg1NF19
+eyJoaXN0b3J5IjpbLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMD
+U2MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEy
+NTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MS
+wxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1
+OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgyND
+IzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC0x
+Njg5NjkzODU0XX0=
 -->
