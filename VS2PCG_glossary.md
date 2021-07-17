@@ -848,7 +848,7 @@ When a character transforms it means they are being replaced with a different ch
 # Uniqueness
 **You can only have one character with a specific name on your side at one time.** If you play a character with the same name as one that's already on your side, then you must KO the first one. If they both enter play simultaneously, then you must pick one to KO. If the second one ends up on your side through some special effect (e.g., Mind Controlling an enemy character), then you still must KO the first character.
 
-The only exception to all of this is your Main Character. You may never control a character with the same name as your Main Character. If an effect wou
+The only exception to all of this is your Main Character. You may never control a character with the same name as your Main Character. If an effect would cause that, ignore that part of the effect.
   
 
 # Vampire  
@@ -895,7 +895,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDM2NjI0MCwtMTQyODIyMzkzNyw2OD
+eyJoaXN0b3J5IjpbMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2OD
 cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
 NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
 UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
