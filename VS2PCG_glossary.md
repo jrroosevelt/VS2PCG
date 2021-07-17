@@ -304,7 +304,9 @@ Hidden characters still lose powers, Equipment and +1/+1 or -1/-1 counters.
   
 Hidden characters will turn face up in the Recovery phase.  
   
-Hidden characters can't be attacked without special effects allowing attacks on a face-down character.  If attacked or struck, a hidden character can still be stunned and wounded normally.  
+Hidden characters can't be attacked or defend without special effects allowing attacks on a face-down character.  If attacked or struck, a hidden character can still be stunned and wounded normally. 
+
+A hidden character does not protect anyone behind it, and it loses its powers. It keeps its other information like name and team affiliation. Hidden characters do not satisfy team affiliation requirements for Plot Twists while face-do
 
 ---
 
@@ -812,11 +814,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzQyNTI2MSwtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbMTQwMDgyODY3LC0xNDI4MjIzOTM3LDY4Nz
+IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
+ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
+M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
+MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
+wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
+NzQ5NzAzNDYyXX0=
 -->
