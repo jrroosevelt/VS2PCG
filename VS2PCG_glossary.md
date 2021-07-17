@@ -306,7 +306,7 @@ Hidden characters will turn face up in the Recovery phase.
   
 Hidden characters can't be attacked or defend without special effects allowing attacks on a face-down character.  If attacked or struck, a hidden character can still be stunned and wounded normally. 
 
-A hidden character does not protect anyone behind it, and it loses its powers. It keeps its other information like name and team affiliation. Hidden characters do not satisfy team affiliation requirements for Plot Twists while face-do
+A hidden character does not protect anyone behind it, and it loses its powers. It keeps its other information like name and team affiliation. Hidden characters do not satisfy team affiliation requirements for Plot Twists while face-down.
 
 ---
 
@@ -375,8 +375,8 @@ If you have any characters that can create an Invention (inventors) in your deck
 # Invisibility  
 At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
   
-# Keyword
-Keywords are powers that often show up on more than one character. When a character has a keyword power, just follow the instructions in its text. (Some common or older keywords might not have their text displayed. In that case, you can look up their definition in this Rulebook.)
+# Keyword Power
+Keywords are powers that often show up on more than one character. These powers are typically in bold text. When a character has a keyword power, just follow the instructions in its text. (Some common or older keywords might not have their text displayed. In that case, you can look up their definition in this Rulebook.)
 
 Flight and Ranged are the two most common keyword powers.
 
@@ -405,7 +405,10 @@ You may include up to eight copies of this card in your deck.
   
 
 # Lethal  
-If this character wounds a defending supporting character, KO it. *(Lethal's text received errata to trigger on wound and not stun as is written on some older cards.)*  
+If this character wounds a defending supporting character, KO it. *(Lethal's text received errata to trigger on wound and not stun as is written on some older cards.)* 
+
+# Locations
+You may use a Location (by turning it face down in your resource row or discarding it from your hand) to pay for a Super Power. But you may not use the same Location card to pay for multiple Super Powers. Each Super Power must be paid for sepa 
   
 
 # Loyalty  
@@ -814,11 +817,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDgyODY3LC0xNDI4MjIzOTM3LDY4Nz
-IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
-ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
-M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
-MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
-wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
-NzQ5NzAzNDYyXX0=
+eyJoaXN0b3J5IjpbLTMwMTA3NTU5OSwtMTQyODIyMzkzNyw2OD
+cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
+NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
+UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
+ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
+UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
+MTc0OTcwMzQ2Ml19
 -->
