@@ -786,7 +786,7 @@ Q: If I have an ability that allows me to directly strike a character, can I str
 A: The short answer is "yes," but depending on the scenario it might not really do anything. Check out the [glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) for further details.
   
 # Stun/Stunned
-When a character is de
+When a character is defeated in combat, or if a characters DEF is ever reduced to 0 (whether from -1/-1 counters or some other effect), it gets stunned. Remove all +1/+1 or -1/-1 counters from it, KO any Equipment on it, turn it face down exhausted, and place a wound counter on it. If it now has wounds greater than or equal to its health, it's KO'd and put into its owner's KO pile.
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -878,7 +878,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjkyMDMyOSwtMTQyODIyMzkzNyw2OD
+eyJoaXN0b3J5IjpbMTE3NDI0MDAwNSwtMTQyODIyMzkzNyw2OD
 cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
 NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
 UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
