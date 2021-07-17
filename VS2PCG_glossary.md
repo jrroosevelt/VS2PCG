@@ -605,7 +605,14 @@ At the start of your turn, heal a wound from this character. *(The character mus
 The chosen characters can team attack with each other and can't be struck back while team attacking with each other.  When a character in the **Relationship** leaves play, the **Relationship** ends.
   
 # Remove from the Game
-Some effects say to remove a 
+Some effects say to remove a card from the game. When this happens, set it aside out of play (not in a KO pile). Usually, a card that's been removed from the game is permanently gone, but some effects could allow the card to come back.
+
+# Resource Row
+Your resource row will consist of face-down cards and Locations. Cards in your resource row count as resources whether they're face up or face down.
+
+You can rearrange your resource row at any time, as long as your opponent can see how many you have and which Locations you have. 
+
+You can look at your own face d
 
 # Safeguard  
  Characters without Safeguard in the same row as this character cannot be attacked.  
@@ -860,11 +867,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjYzNDY3OSwtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbLTEwMjc5NDAzOTMsLTE0MjgyMjM5MzcsNj
+g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
+Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
+E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
+MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OT
+c1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQs
+LTE3NDk3MDM0NjJdfQ==
 -->
