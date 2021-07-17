@@ -146,7 +146,11 @@ The Collector’s Collection can only have one equipment, one plot twist, and on
 While this character is in combat, enemy players can't play plot twists.  
 
 # Counters
-There are various effects that result in adding a counter to your character. A counter is basically a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, b
+There are various effects that result in adding a counter to your character. A counter is basically a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, but there are a few other types. For more information, see the specific types below:
+* +1/+1 and -1/-1 Counters
+* Vitality Counters
+* XP Counters
+* Wound Counters
   
 
 # Comet Fall  
@@ -778,8 +782,10 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
 * When you make a Wish, remove both copies of any card in your Wish pile from the game, and choose an enemy player. While those cards are removed this way, you may play one and that player may play one.  
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MjkzOTUyLC0xNDI4MjIzOTM3LDY4Nz
+eyJoaXN0b3J5IjpbLTg5OTU4MTQ1LC0xNDI4MjIzOTM3LDY4Nz
 IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
 ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
 M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
