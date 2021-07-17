@@ -896,8 +896,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
 * When you make a Wish, remove both copies of any card in your Wish pile from the game, and choose an enemy player. While those cards are removed this way, you may play one and that player may play one.  
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
+
+# Wounds (and Wound Counters)
+When a character becomes stunned, it gains a wound. If it has as many wounds as i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTgyMjIwNSwxMTE0MDA3NDA1LC0xND
+eyJoaXN0b3J5IjpbLTM0MTIyMjkzMCwxMTE0MDA3NDA1LC0xND
 I4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4
 MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC
 0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1
