@@ -4,6 +4,7 @@
 
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
   
+ +1/ 
 
 #  Absorption History
   See the [card-specific clarification for Mimic (MC)](/r/VS2PCG/wiki/rules-insert#wiki_mimic_.28mc.29).
@@ -42,7 +43,6 @@ Some characters, like \*Daredevil\*, have **AKA** and another name in their text
 In game terms, this means that characters with **AKA** have both names for both Uniqueness and Powering up characters. So you can't have Iron Fist and \*Daredevil\* on your side at the same time because they're both Danny Rand!
 
 **AKA** is not a power and so it can't be copied or turned off by anything that affects powers.
-  
 
 # Amortal   
 This power currently only exists on the [*Death* Main Character](/r/VS2PCG/wiki/rules-insert#wiki_death).
@@ -144,17 +144,17 @@ The Collector’s Collection can only have one equipment, one plot twist, and on
 
 # Combat Master  
 While this character is in combat, enemy players can't play plot twists.  
-
-# Counters
-There are various effects that result in adding a counter to your character. A counter is basically a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, but there are a few other types. For more information, see the specific types below:
-* +1/+1 and -1/-1 Counters
-* Vitality Counters
-* XP Counters
-* Wound Counters
   
 
 # Comet Fall  
  When this character appears, put a -1/-1 counter on each enemy character.  
+
+# Counters
+There are various effects that result in adding a counter to your character. A counter is a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, but there are a few other types. For more information, see the specific types below:
+* +1/+1 and -1/-1 Counters
+* Vitality Counters
+* XP Counters
+* Wound Counters
   
 
 # Creature  
@@ -494,13 +494,12 @@ You may only include one copy of this card in your deck.
   
 
 # Passive  
-This character cannot attack and cannot strike back.  
+This character cannot attack and cannot strike back.   
 
 # Playing (a card)
 The following events are considered playing a card: Playing a Plot Twist, placing a resource or location, recruiting a character or equipment, any card effect that allows you to "play" or "recruit" cards from other zones. 
 
 NOT considered playing a card: Discarding a location to power a super power, discarding a character to power-up, card effects that "put into play" or otherwise don't state "play" or "recruit."
-  
 
 #  Pocket Universe
 Summary: Move each other character (everyone but Franklin) to a Pocket Universe. This creates a new front and back row for each player that cannot interact with cards in another "universe."  After each of your turns, take a turn controlling cards in each Pocket Universe you have created.  The Pocket Universe turns skip the Draw and Build phases.  
@@ -782,10 +781,8 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
 * When you make a Wish, remove both copies of any card in your Wish pile from the game, and choose an enemy player. While those cards are removed this way, you may play one and that player may play one.  
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTU4MTQ1LC0xNDI4MjIzOTM3LDY4Nz
+eyJoaXN0b3J5IjpbMTk0MDg2OTg2LC0xNDI4MjIzOTM3LDY4Nz
 IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
 ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
 M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
