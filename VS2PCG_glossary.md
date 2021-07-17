@@ -78,9 +78,14 @@ If a Plot Twist or Super Power has this symbol, you can play it, or a character 
 # Appears
 When a card enters play it “appears.” Whether you played it from hand or some modifier put it into play. If a card changes sides or is turned face-up, that does not count as “appearing.” When a character, location, or equipment appears, it is a new character, location, or equipment. 
 
+# ATK/DEF
+The numbers on characters above the lightning and shield symbols. During combat you compare your character's ATK (attack) to its enemy's DEF (defense) to see if you stun it.
 
 # Ban  
 Name a character and choose a number.  Put all supporting characters with that name on enemy sides into their owner's hands.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that.  
+
+# Base ATK and DEF
+Some effects refer to a character's Base ATK and DEF. This means a character's stats before any effects or counters modify them. A character's Base ATK and DEF are usually the same as their printed ATK and DEF. The only difference is that some effects 
   
 
 # Battle of Wills
@@ -791,11 +796,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMzIyMTE3LC0xNDI4MjIzOTM3LDY4Nz
-IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
-ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
-M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
-MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
-wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
-NzQ5NzAzNDYyXX0=
+eyJoaXN0b3J5IjpbLTIzNzY0NjEsLTE0MjgyMjM5MzcsNjg3Mj
+EyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4
+MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mz
+c1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgy
+NDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC
+0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3
+NDk3MDM0NjJdfQ==
 -->
