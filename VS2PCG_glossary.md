@@ -167,9 +167,9 @@ While this character is in combat, enemy players can't play plot twists.
 
 # Counters
 There are various effects that result in adding a counter to your character. A counter is a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, but there are a few other types. For more information, see the specific types below:
-* +1/+1 and -1/-1 Counters
-* Vitality Counters
-* Wound Counters
+* [+1/+1 and -1/-1 Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_.2B1.2F.2B1_and_-1.2F-1_.28counters.29)
+* [Vitality Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_vitality_counter)
+* [Wound Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_wounds_.28and_wound_counters.29)
 * XP Counters
   
 
@@ -904,11 +904,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMT
-E0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAx
-MjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NC
-wxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQy
-MjUyOTUsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTczNTE5Nz
-A1LC03OTE5NDg3MDcsLTg0NTg4ODk3NSwtMTY4OTY5Mzg1NCwt
-MjExMTE3MTY4OF19
+eyJoaXN0b3J5IjpbLTE5MDYwMjU0MjgsLTY1NTA3MTE0NywtMT
+A1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIx
+MjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3OD
+EsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3
+NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4Mj
+QyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NSwt
+MTY4OTY5Mzg1NF19
 -->
