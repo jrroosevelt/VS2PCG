@@ -72,6 +72,8 @@ A: You may choose not to attack at all. However, if you do decide to attack, the
 
 ^Source: [^Reddit ^Post](https://discord.com/channels/488058478015807499/490215795503398912/864289378540453928)
 
+# Any Turn Symbol
+If a Plot Twist or Super Power has this symbol, you can play it, or a character can use it on another player's turn (as well as your turn).
  
 # Appears
 When a card enters play it “appears.” Whether you played it from hand or some modifier put it into play. If a card changes sides or is turned face-up, that does not count as “appearing.” When a character, location, or equipment appears, it is a new character, location, or equipment. 
@@ -789,11 +791,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MDQxOTAsLTE0MjgyMjM5MzcsNjg3Mj
-EyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4
-MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mz
-c1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgy
-NDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC
-0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3
-NDk3MDM0NjJdfQ==
+eyJoaXN0b3J5IjpbMzUzMzIyMTE3LC0xNDI4MjIzOTM3LDY4Nz
+IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
+ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
+M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
+MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
+wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
+NzQ5NzAzNDYyXX0=
 -->
