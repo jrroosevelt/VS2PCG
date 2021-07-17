@@ -900,9 +900,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
 # Wounds (and Wound Counters)
 When a character becomes stunned, it gains a wound. If it has as many (or more) wounds as its health, it gets KO'd. Some card effects say to "wound a character." In this case put a wound counter on it, but it doesn't get stunned.
 
-Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1/-1 counters work together. If a card has both Wound and Vi
+Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1/-1 counters work together. If a card has both Wound and Vitality Counters, they cancel one another out until only one type remains.
+
+# XP 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI4OTA0MSwxMTE0MDA3NDA1LC0xND
+eyJoaXN0b3J5IjpbMTExOTg4NjEwOCwxMTE0MDA3NDA1LC0xND
 I4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4
 MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC
 0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1
