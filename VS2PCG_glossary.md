@@ -18,7 +18,6 @@ These types of counters are removed if a character is turned face-down (typicall
   
 
 # Agenda  
-  
 
 * When you build a deck with a starting Main Character with the printed Syndicate team affiliation, you must choose ONE Syndicate Agenda. It will start the game out of play face down in your Agenda pile.  
   
@@ -905,11 +904,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMT
-QyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2
-ODM2NywxMjIxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4Ny
-wtMjk2NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDky
-NTkxNDcsLTE3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4Nz
-A3LC04NDU4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgs
-LTc0MDY3MDcxNF19
+eyJoaXN0b3J5IjpbLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMT
+E0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAx
+MjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NC
+wxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQy
+MjUyOTUsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTczNTE5Nz
+A1LC03OTE5NDg3MDcsLTg0NTg4ODk3NSwtMTY4OTY5Mzg1NCwt
+MjExMTE3MTY4OF19
 -->
