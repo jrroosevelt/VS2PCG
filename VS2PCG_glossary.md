@@ -618,10 +618,13 @@ You can look at your own face down resources at any time. You can't look at enem
 When a card tells you to reveal cards from your deck or hand, you must show them to each other player.
 
 # Running Out of Cards
-If you need draw a card, but your deck is empty, you just skip those draws and play continues as normal. But if all players are out of car
+If you need draw a card, but your deck is empty, you just skip those draws and play continues as normal. But if all players are out of cards and no one is willing or able to attack to put wounds onto Main Characters, the player with the fewest wounds on his Main Character wins the game. If two or more players are tied for the fewest wounds, the game ends in a tie between those players.
 
 # Safeguard  
  Characters without Safeguard in the same row as this character cannot be attacked.  
+
+# Searching (and Shuffling)
+Whenever you search your deck, shuffle it after you've finished.
 
 # Shifting Loyalties
 At the end of your turn, if there is an enemy (Brotherhood), (Resistance), or (X-Men) character on more than one side, Shifting Loyalties will trigger once for each side. First you’ll get to choose which side your character moves to. Once there it will lose its (H.A.M.M.E.R.) affiliation, so the remaining times **Shifting Loyalties** had triggered won’t do anything.
@@ -782,6 +785,8 @@ Q: If I have an ability that allows me to directly strike a character, can I str
 
 A: The short answer is "yes," but depending on the scenario it might not really do anything. Check out the [glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) for further details.
   
+# Stun/Stunned
+When a character is de
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
@@ -873,7 +878,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjg5ODI4MywtMTQyODIyMzkzNyw2OD
+eyJoaXN0b3J5IjpbLTY2MjkyMDMyOSwtMTQyODIyMzkzNyw2OD
 cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
 NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
 UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
