@@ -846,7 +846,9 @@ When this character gets stunned, you may recover it. *It still gets a wound.*
 When a character transforms it means they are being replaced with a different character. Remove them from the game and put the new character into play in the same orientation (ready/exhausted) they were in. Move all counters and equipment from them onto the new character, apply any modifiers (such as Freeze) to the new character.  
 
 # Uniqueness
+**You can only have one character with a specific name on your side at one time.** If you play a character with the same name as one that's already on your side, then you must KO the first one. If they both enter play simultaneously, then you must pick one to KO. If the second one ends up on your side through some special effect (e.g., Mind Controlling an enemy character), then you still must KO the first character.
 
+The only exception to all of this is your Main Character. You may never control a character with the same name as your Main Character. If an effect wou
   
 
 # Vampire  
@@ -893,11 +895,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NjQxMTg0LC0xNDI4MjIzOTM3LDY4Nz
-IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
-ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
-M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
-MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
-wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
-NzQ5NzAzNDYyXX0=
+eyJoaXN0b3J5IjpbLTM4MDM2NjI0MCwtMTQyODIyMzkzNyw2OD
+cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
+NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
+UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
+ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
+UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
+MTc0OTcwMzQ2Ml19
 -->
