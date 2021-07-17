@@ -593,7 +593,9 @@ A combat that involves back row attackers that have ![](%%Range%%) (Range). In a
 A face-up character is either Ready (upright) or Exhausted (sideways). Only ready characters can attack. If an effect readies a character that is already ready, or exhausts a character that is already exhausted, just ignore that part of the effect (but do the rest of it).
 
 # Recover
-Your stunned 
+Your face-down characters automatically recover during your Recovery Phase. Some card effects can also recover a character. When a character recovers, turn it face up, but leave it exhausted.
+
+**Note:** Recovering a character does not heal any wounds from it.
 
 # Regeneration  
 At the start of your turn, heal a wound from this character. *(The character must be face up.)*  
@@ -602,6 +604,8 @@ At the start of your turn, heal a wound from this character. *(The character mus
 # Relationship  
 The chosen characters can team attack with each other and can't be struck back while team attacking with each other.  When a character in the **Relationship** leaves play, the **Relationship** ends.
   
+# Remove from the Game
+Some effects say to remove a 
 
 # Safeguard  
  Characters without Safeguard in the same row as this character cannot be attacked.  
@@ -856,7 +860,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDA5OTI2NywtMTQyODIyMzkzNyw2OD
+eyJoaXN0b3J5IjpbLTI1MjYzNDY3OSwtMTQyODIyMzkzNyw2OD
 cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
 NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
 UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
