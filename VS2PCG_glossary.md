@@ -587,7 +587,13 @@ While this character is ranged attacking, it cannot be struck back.
 This character can make Ranged attacks from the back row and can strike back when defending from a Ranged attack.  
   
 # Ranged Combat
-A combat that involves back row attackers that have 
+A combat that involves back row attackers that have ![](%%Range%%) (Range). In a ranged attack, the defender can't strike back unless it has ![](%%Range%%) (Range).
+
+# Ready/Exhausted
+A face-up character is either Ready (upright) or Exhausted (sideways). Only ready characters can attack. If an effect readies a character that is already ready, or exhausts a character that is already exhausted, just ignore that part of the effect (but do the rest of it).
+
+# Recover
+Your stunned 
 
 # Regeneration  
 At the start of your turn, heal a wound from this character. *(The character must be face up.)*  
@@ -850,11 +856,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NDgzMDYzLC0xNDI4MjIzOTM3LDY4Nz
-IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
-ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
-M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
-MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
-wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
-NzQ5NzAzNDYyXX0=
+eyJoaXN0b3J5IjpbMTA2MDA5OTI2NywtMTQyODIyMzkzNyw2OD
+cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
+NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
+UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
+ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
+UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
+MTc0OTcwMzQ2Ml19
 -->
