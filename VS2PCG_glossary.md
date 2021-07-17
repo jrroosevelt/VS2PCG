@@ -574,7 +574,11 @@ If you have a card in your hand with the same name as a Main or Supporpting Char
 Prediction is a power currently on only Mad Thinker. See the [Mad Thinker section](/r/VS2PCG/wiki/rules-insert#wiki_mad_thinker) of the card-specific clarifications page for details.
 
 # Protect
-A face-up character in a player's front row "r
+A face-up character in a player's front row "protects" face-up characters behind it.
+
+A face-up character in a player's back row is "protected" if there is at least one face-up character in that player's front row.
+
+A protected character can't normally be attacked.
   
 # Quick Draw
 While this character is ranged attacking, it cannot be struck back.
@@ -582,6 +586,8 @@ While this character is ranged attacking, it cannot be struck back.
 # Range  
 This character can make Ranged attacks from the back row and can strike back when defending from a Ranged attack.  
   
+# Ranged Combat
+A combat that involves back row attackers that have 
 
 # Regeneration  
 At the start of your turn, heal a wound from this character. *(The character must be face up.)*  
@@ -844,11 +850,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU3ODM3MzYsLTE0MjgyMjM5MzcsNj
-g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
-Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
-E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
-MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OT
-c1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQs
-LTE3NDk3MDM0NjJdfQ==
+eyJoaXN0b3J5IjpbNzE1NDgzMDYzLC0xNDI4MjIzOTM3LDY4Nz
+IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
+ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
+M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
+MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
+wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
+NzQ5NzAzNDYyXX0=
 -->
