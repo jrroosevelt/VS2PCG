@@ -848,7 +848,9 @@ When a character transforms it means they are being replaced with a different ch
 # Uniqueness
 **You can only have one character with a specific name on your side at one time.** If you play a character with the same name as one that's already on your side, then you must KO the first one. If they both enter play simultaneously, then you must pick one to KO. If the second one ends up on your side through some special effect (e.g., Mind Controlling an enemy character), then you still must KO the first character.
 
-The only exception to all of this is your Main Character. You may never control a character with the same name as your Main Character. If an effect would cause that, ignore that part of the effect.
+The only exception to all of this is your Main Character. You may never control a character with the same name as your Main Character. If an effect would cause that, ignore that part of the effect. You can't play a Supporting Character with the same name as your Main Character. Discarding a Supporting Character from your hand to Power Up a character on your side is not considered "playing" that character.
+
+**Note: ** You can have more than one character with a specific name if it has the **Swarm** keyword.
   
 
 # Vampire  
@@ -895,11 +897,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbMTg1MTgyMjIwNSwxMTE0MDA3NDA1LC0xND
+I4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4
+MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC
+0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1
+OTE0NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MD
+csLTg0NTg4ODk3NSwtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwt
+NzQwNjcwNzE0XX0=
 -->
