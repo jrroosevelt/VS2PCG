@@ -902,13 +902,14 @@ When a character becomes stunned, it gains a wound. If it has as many (or more) 
 
 Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1/-1 counters work together. If a card has both Wound and Vitality Counters, they cancel one another out until only one type remains.
 
-# XP 
+# XP (and XP Counters)
+Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTg4NjEwOCwxMTE0MDA3NDA1LC0xND
-I4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4
-MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC
-0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1
-OTE0NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MD
-csLTg0NTg4ODk3NSwtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwt
-NzQwNjcwNzE0XX0=
+eyJoaXN0b3J5IjpbNDI3NTc2MTkxLDExMTQwMDc0MDUsLTE0Mj
+gyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0Njgz
+NjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLT
+I5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5
+MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNy
+wtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03
+NDA2NzA3MTRdfQ==
 -->
