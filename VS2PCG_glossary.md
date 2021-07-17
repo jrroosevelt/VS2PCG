@@ -821,7 +821,8 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
 
 ^(Source: Official Rulebook)
 
-# Timi
+# Timing
+When you play a Plot Twist, use a Super Power, or Power Up a character, it resolves its effect before anyone can take an action. If a power "triggers" in the middle of another action, resolve that action first then resolve the power that triggered. If multiple powers trigger at the same time, the player whose turn decides the order to resolve them.
 
 # Token  
 Some cards have the type "Token" under the card's name.  Some examples are "Monkey Joe" SC token for Squirrel Girl or "Alien Symbiote" Equipment token for Black Suit Spider-Man MC.  These cards cannot be included in your deck.  Instead, if you have a card in your deck that has an effect that would bring the token into play, you include it in a side deck much like your Main Character.  They do not count toward the 60-card limitation of the deck.  
@@ -843,6 +844,9 @@ When this character gets stunned, you may recover it. *It still gets a wound.*
 
 # Transform  
 When a character transforms it means they are being replaced with a different character. Remove them from the game and put the new character into play in the same orientation (ready/exhausted) they were in. Move all counters and equipment from them onto the new character, apply any modifiers (such as Freeze) to the new character.  
+
+# Uniqueness
+
   
 
 # Vampire  
@@ -889,7 +893,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjEzOTA0LC0xNDI4MjIzOTM3LDY4Nz
+eyJoaXN0b3J5IjpbNzM4NjQxMTg0LC0xNDI4MjIzOTM3LDY4Nz
 IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
 ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
 M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
