@@ -408,7 +408,11 @@ You may include up to eight copies of this card in your deck.
 If this character wounds a defending supporting character, KO it. *(Lethal's text received errata to trigger on wound and not stun as is written on some older cards.)* 
 
 # Locations
-You may use a Location (by turning it face down in your resource row or discarding it from your hand) to pay for a Super Power. But you may not use the same Location card to pay for multiple Super Powers. Each Super Power must be paid for sepa 
+You may use a Location (by turning it face down in your resource row or discarding it from your hand) to pay for a Super Power. But you may not use the same Location card to pay for multiple Super Powers. Each Super Power must be paid for separately.
+
+Once a Location turns face down, it will stay face down unless an effect turns it face up.
+
+There are two types of Locations: Basic Locations and Special Locations. There are six Basic Location types, one for each of the six power symbols. Also, most teams have a Special Location that has a team affiliation symbol on the top right of the card. These Locations can produce your choice of several different power symbols, but only for a member of that team. There are also other 
   
 
 # Loyalty  
@@ -817,11 +821,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTA3NTU5OSwtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbLTEyMzA3MTc2ODUsLTE0MjgyMjM5MzcsNj
+g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
+Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
+E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
+MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OT
+c1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQs
+LTE3NDk3MDM0NjJdfQ==
 -->
