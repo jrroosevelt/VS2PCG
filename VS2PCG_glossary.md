@@ -170,8 +170,8 @@ While this character is in combat, enemy players can't play plot twists.
 There are various effects that result in adding a counter to your character. A counter is a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, but there are a few other types. For more information, see the specific types below:
 * +1/+1 and -1/-1 Counters
 * Vitality Counters
-* XP Counters
 * Wound Counters
+* XP Counters
   
 
 # Creature  
@@ -905,11 +905,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NTc2MTkxLDExMTQwMDc0MDUsLTE0Mj
-gyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0Njgz
-NjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLT
-I5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5
-MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNy
-wtODQ1ODg4OTc1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03
-NDA2NzA3MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMT
+QyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2
+ODM2NywxMjIxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4Ny
+wtMjk2NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDky
+NTkxNDcsLTE3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4Nz
+A3LC04NDU4ODg5NzUsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgs
+LTc0MDY3MDcxNF19
 -->
