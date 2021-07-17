@@ -543,7 +543,10 @@ While defending, this character strikes with double its ATK.
 You may only include one copy of this card in your deck.  
 
 # On Your Side
-The cards you have in play are "on your side." You control these cards. If a ca
+The cards you have in play are "on your side." You control these cards. If a card gets moved to your side, you now control that card.
+
+# Owner
+During the game you "own" your Main Character and all the cards that started in your deck. (This only matters if a card references "owner.")
   
 
 # Passive  
@@ -561,7 +564,9 @@ See the [Franklin Richards section of the card-specific clarifications page](/r/
   
 
 # Pounce  
-While this character is attacking an exhausted character, it can't strike back at her.  
+While this character is attacking an exhausted character, it can't strike back at her.
+
+# Pow  
   
 
 #  Prediction
@@ -835,11 +840,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODY3Nzg1NCwtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbMjQzODk0MTU4LC0xNDI4MjIzOTM3LDY4Nz
+IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
+ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
+M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
+MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
+wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
+NzQ5NzAzNDYyXX0=
 -->
