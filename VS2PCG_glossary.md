@@ -290,14 +290,15 @@ Classification of a card's affiliation on the scale of [Good or Evil](https://ww
 # Graduate  
  Functionally the same as [Transform](/r/VS2PCG/wiki/glossary#wiki_transform)  
   
-# Health (Maxi
+# Health (Maximum and Remaining)
+A character's maximum health is its printed health and any modifiers that increase or decrease it, like vitality counters. A character's remaining health is its maximum health minus any wounds on it.
 
 # Hex  
  Enemy main characters can't level up. *(They still gain XP.)*  
   
 
 # Hide  
- Turn this character face-down but Ready.  He doesn't count as being stunned.  
+Turn this character face-down but Ready.  He doesn't count as being stunned.  
   
 Hidden characters still lose powers, Equipment and +1/+1 or -1/-1 counters.  
   
@@ -811,11 +812,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODExOTc1OTAsLTE0MjgyMjM5MzcsNj
-g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
-Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
-E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
-MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OT
-c1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQs
-LTE3NDk3MDM0NjJdfQ==
+eyJoaXN0b3J5IjpbMTI5NzQyNTI2MSwtMTQyODIyMzkzNyw2OD
+cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
+NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
+UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
+ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
+UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
+MTc0OTcwMzQ2Ml19
 -->
