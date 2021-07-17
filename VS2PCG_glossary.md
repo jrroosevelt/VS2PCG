@@ -612,7 +612,13 @@ Your resource row will consist of face-down cards and Locations. Cards in your r
 
 You can rearrange your resource row at any time, as long as your opponent can see how many you have and which Locations you have. 
 
-You can look at your own face d
+You can look at your own face down resources at any time. You can't look at enemy face-down resources.
+
+# Reveal
+When a card tells you to reveal cards from your deck or hand, you must show them to each other player.
+
+# Running Out of Cards
+If you need draw a card, but your deck is empty, you just skip those draws and play continues as normal. But if all players are out of car
 
 # Safeguard  
  Characters without Safeguard in the same row as this character cannot be attacked.  
@@ -867,11 +873,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc5NDAzOTMsLTE0MjgyMjM5MzcsNj
-g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
-Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
-E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
-MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OT
-c1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQs
-LTE3NDk3MDM0NjJdfQ==
+eyJoaXN0b3J5IjpbMjAwNjg5ODI4MywtMTQyODIyMzkzNyw2OD
+cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
+NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
+UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
+ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
+UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
+MTc0OTcwMzQ2Ml19
 -->
