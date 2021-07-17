@@ -144,6 +144,9 @@ The Collector’s Collection can only have one equipment, one plot twist, and on
 
 # Combat Master  
 While this character is in combat, enemy players can't play plot twists.  
+
+# Counters
+There are various effects that result in adding a counter to your character. A counter is basically a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, b
   
 
 # Comet Fall  
@@ -776,11 +779,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MT
-k2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3
-NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMT
-Y2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1
-MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC0xNjg5NjkzOD
-U0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3NDk3MDM0NjIs
-MTI1OTMxODE3N119
+eyJoaXN0b3J5IjpbOTI2MjkzOTUyLC0xNDI4MjIzOTM3LDY4Nz
+IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
+ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
+M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
+MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
+wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
+NzQ5NzAzNDYyXX0=
 -->
