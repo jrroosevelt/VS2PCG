@@ -788,6 +788,15 @@ A: The short answer is "yes," but depending on the scenario it might not really 
 # Stun/Stunned
 When a character is defeated in combat, or if a characters DEF is ever reduced to 0 (whether from -1/-1 counters or some other effect), it gets stunned. Remove all +1/+1 or -1/-1 counters from it, KO any Equipment on it, turn it face down exhausted, and place a wound counter on it. If it now has wounds greater than or equal to its health, it's KO'd and put into its owner's KO pile.
 
+A stunned character can't attack or defend, doesn't protect anyone in a row behind it, and loses its powers (until it recovers). 
+
+If a character gets stunned by an effect during combat but before the combat resolves, it is removed from the combat.
+
+Any player can look at any stunned character at any time.
+
+# Super Power
+A power on a character that they use by turning a Location face down or discarding a Location from your hand.
+
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
   
@@ -811,6 +820,8 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
 > Some plot twists have a team/brand symbol on the top right of the card. That means you may only play it if you have a face-up character with that team/brand symbol on your side (including your main character). However, you can use it to affect any character regardless of team/brand symbol.
 
 ^(Source: Official Rulebook)
+
+# Timi
 
 # Token  
 Some cards have the type "Token" under the card's name.  Some examples are "Monkey Joe" SC token for Squirrel Girl or "Alien Symbiote" Equipment token for Black Suit Spider-Man MC.  These cards cannot be included in your deck.  Instead, if you have a card in your deck that has an effect that would bring the token into play, you include it in a side deck much like your Main Character.  They do not count toward the 60-card limitation of the deck.  
@@ -878,11 +889,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDI0MDAwNSwtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbLTE4NjEzOTA0LC0xNDI4MjIzOTM3LDY4Nz
+IxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3
+ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNT
+M3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4
+MjQyMywxNTczNTE5NzA1LC03OTE5NDg3MDcsLTg0NTg4ODk3NS
+wtMTY4OTY5Mzg1NCwtMjExMTE3MTY4OCwtNzQwNjcwNzE0LC0x
+NzQ5NzAzNDYyXX0=
 -->
