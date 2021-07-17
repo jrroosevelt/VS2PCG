@@ -85,7 +85,7 @@ The numbers on characters above the lightning and shield symbols. During combat 
 Name a character and choose a number.  Put all supporting characters with that name on enemy sides into their owner's hands.  For the rest of the game, supporting characters with that name on enemy players' sides, and in enemy hands, decks and KO piles have a cost equal to the chosen number and nothing can ever, ever change that.  
 
 # Base ATK and DEF
-Some effects refer to a character's Base ATK and DEF. This means a character's stats before any effects or counters modify them. A character's Base ATK and DEF are usually the same as their printed ATK and DEF. The only difference is that some effects 
+Some effects refer to a character's Base ATK and DEF. This means a character's stats before any effects or counters modify them. A character's Base ATK and DEF are usually the same as their printed ATK and DEF. The only difference is that some effects might temporarily change a character's Base stats.
   
 
 # Battle of Wills
@@ -111,6 +111,9 @@ When this character attacks, put a +1/+1 counter on it
   
 # Camouflage
 When in the back row, this character cannot be attacked.
+
+# Cancel
+If an effect cancels the current combat, the combat ends but no characters get stunned. Leave all the attackers and defenders as is. They don't ready. if an effect cancels a Plot Twist, discard the Plot Twist without resolving its effects. If an effect cancels a Super Power, don't resolve its effects. Locations turned face down or discarded to pay for the Super Power are **not** turned face up or returned to hand
 
 # Capture  
 Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
@@ -796,11 +799,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzY0NjEsLTE0MjgyMjM5MzcsNjg3Mj
-EyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4
-MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mz
-c1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgy
-NDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC
-0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3
-NDk3MDM0NjJdfQ==
+eyJoaXN0b3J5IjpbMTA4NDg1MjE2MywtMTQyODIyMzkzNyw2OD
+cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
+NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
+UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
+ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
+UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
+MTc0OTcwMzQ2Ml19
 -->
