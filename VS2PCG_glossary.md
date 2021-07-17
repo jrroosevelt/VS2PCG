@@ -414,7 +414,7 @@ Once a Location turns face down, it will stay face down unless an effect turns i
 
 There are two types of Locations: Basic Locations and Special Locations. There are six Basic Location types, one for each of the six power symbols. Also, most teams have a Special Location that has a team affiliation symbol on the top right of the card. These Locations can produce your choice of several different power symbols, but only for a member of that team. There are also other Special Locations with other effects beside producing power symbols for Super Powers.
 
-In different issues (like comic or space adventure), Basic Locations may have different names. However, they still count as being the same Basic Location type (for example, one that makes ![](%%Might%%) (Might) 
+In different issues (like comic or space adventure), Basic Locations may have different names. However, they still count as being the same Basic Location type (for example, one that makes ![](%%Might%%) (Might) ). Your deck can include up to four copies of each of these Basic Location types, and all copies of it must have the same name.
   
 
 # Loyalty  
@@ -463,6 +463,9 @@ Some equipment cards are labeled "Equipment - Machine" beneath their card names.
 * When a Machine gets attacked, KO it. (This happens right away.  For example, players won't be able to play Plot Twists and the attacker doesn't "strike" the machine.)  
   
 * If a Machine stops being an Equipment for any reason, it also is no longer a Machine.  
+
+# Main Character Required
+When a card says that it requires a Main Character with a particular team affiliation, you can't put that card in your deck unless your starting Main Character has that team affiliation.
   
 
 # Martial Artist
@@ -475,6 +478,9 @@ A card "shares a mantle" with another card when there are two or more cards in t
 Cards sharing a mantle are considered to have different names, and if an effect refers to one of them, it will not apply to the other.  
   
 For Example: [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-015.jpg) and [\*Captain America\*](http://vs.tcgbrowser.com/images/cards/big/SVH-043.jpg) share a mantle.  Both can be on the field at the same time but cannot power each other up because their names are different.  Also because their names are considered to be different, [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg) cannot team attack with \*Captain America\* because his text only refers to Captain America (without the stars).  
+
+# Melee Combat
+A combat that i
 
 # Mercenary
 This character can team attack with any Main Character.
@@ -823,7 +829,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzcyNzM2OSwtMTQyODIyMzkzNyw2OD
+eyJoaXN0b3J5IjpbLTk3MTc0MDgxOCwtMTQyODIyMzkzNyw2OD
 cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
 NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
 UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
