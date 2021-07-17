@@ -205,7 +205,10 @@ A Duplicate has all the same printed characteristics as your Main Character – 
 If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
 
 # Enemy
-This applies to anything opposing you. An enemy player is your opponent. An enemy character is one on your opponent's 
+This applies to anything opposing you. An enemy player is your opponent. An enemy character is one on your opponent's side.
+
+# Enters combat
+A character enters combat when they become an attacker or defender.
 
 # Equipment
 Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
@@ -274,6 +277,9 @@ This character cannot attack. (Note: Unlike **Passive**, this character can stri
   
 Like all powers, Genius is only active while face-up.  Some cards with Genius call this out specifically in their text while others don't but it is true in either case.  
 
+# Golden Rules
+Whenever a card contradicts a rule in this Rulebook, the card is correct. And if one effect says you can do something, and another says you can't do something, "can't" beats "can".
+
 # Good
 Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
   
@@ -284,6 +290,7 @@ Classification of a card's affiliation on the scale of [Good or Evil](https://ww
 # Graduate  
  Functionally the same as [Transform](/r/VS2PCG/wiki/glossary#wiki_transform)  
   
+# Health (Maxi
 
 # Hex  
  Enemy main characters can't level up. *(They still gain XP.)*  
@@ -804,7 +811,7 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI1NjQ0OTUsLTE0MjgyMjM5MzcsNj
+eyJoaXN0b3J5IjpbLTEyODExOTc1OTAsLTE0MjgyMjM5MzcsNj
 g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
 Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
 E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
