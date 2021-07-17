@@ -5,8 +5,13 @@
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
   
  # +1/+1 and -1/-1 (Counters)
- Many effects put +1/+1 or -1/-1 counters on characters. These numbers alter a character's ATK and DEF until something removes the counters.
+Many effects put +1/+1 or -1/-1 counters on characters. These numbers alter a character's ATK and DEF until something removes the counters.
+ 
 If a character ever has +1/+1 and -1/-1 counters at the same time they cancel out. Remove one of each until the character only has one type.
+
+If an effect gives a character "+1/+1" or "-1/-1" but doesn't say "counter" then that effect is temporary: you don't add counters to the character.
+
+These types of counters are removed if a character is turned face-down (typically as a result of the character being stunned or hiding).
 
 #  Absorption History
   See the [card-specific clarification for Mimic (MC)](/r/VS2PCG/wiki/rules-insert#wiki_mimic_.28mc.29).
@@ -784,11 +789,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjgyMDg3NiwtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbNzQ0MDQxOTAsLTE0MjgyMjM5MzcsNjg3Mj
+EyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4
+MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mz
+c1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4MDgy
+NDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OTc1LC
+0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQsLTE3
+NDk3MDM0NjJdfQ==
 -->
