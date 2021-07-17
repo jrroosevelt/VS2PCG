@@ -113,7 +113,7 @@ When this character attacks, put a +1/+1 counter on it
 When in the back row, this character cannot be attacked.
 
 # Cancel
-If an effect cancels the current combat, the combat ends but no characters get stunned. Leave all the attackers and defenders as is. They don't ready. if an effect cancels a Plot Twist, discard the Plot Twist without resolving its effects. If an effect cancels a Super Power, don't resolve its effects. Locations turned face down or discarded to pay for the Super Power are **not** turned face up or returned to hand
+If an effect cancels the current combat, the combat ends but no characters get stunned. Leave all the attackers and defenders as is. They don't ready. if an effect cancels a Plot Twist, discard the Plot Twist without resolving its effects. If an effect cancels a Super Power, don't resolve its effects. Locations turned face down or discarded to pay for the Super Power are **not** turned face up or returned to hand.
 
 # Capture  
 Remove the captured character from the game but keep track of any wound counters on it.  When the captor leaves play, put its captive back into play stunned in its owner's back row.  
@@ -179,7 +179,7 @@ This character cannot be equipped.
   
 
 # Daze  
-Stun the character, but it doesn't get a wound.  
+An effect that stuns a character without the character gaining a wound. It works like the character getting stunned in **all** ways except for adding a wound counter.
   
 
 #  Deconstruct the Universe
@@ -190,6 +190,8 @@ You may recruit this character from your deck. (Search your deck for them, shuff
   
 In tournament play, you're only allowed to search for and fail to find a character with this keyword once.  After that you're just shuffling your deck for free and it is frowned upon.  
   
+# Discard
+Taking a card from your hand and putting it into your KO pile.
 
 # Dodge  
 This character cannot be Range attacked  
@@ -201,6 +203,9 @@ A Duplicate has all the same printed characteristics as your Main Character – 
 
 # Durable  
 If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
+
+# Enemy
+This applies to anything opposing you. An enemy player is your opponent. An enemy character is one on your opponent's 
 
 # Equipment
 Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
@@ -799,11 +804,11 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
   
 * If the cards are Equipment or Plot Twists both of you may ignore any team affiliation play restrictions on them. If a card would be put into a KO pile, it goes to its owner’s (your) KO pile.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDg1MjE2MywtMTQyODIyMzkzNyw2OD
-cyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3
-NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMT
-UzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxNDcsLTE3Mzgw
-ODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04NDU4ODg5Nz
-UsLTE2ODk2OTM4NTQsLTIxMTExNzE2ODgsLTc0MDY3MDcxNCwt
-MTc0OTcwMzQ2Ml19
+eyJoaXN0b3J5IjpbLTEzOTI1NjQ0OTUsLTE0MjgyMjM5MzcsNj
+g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
+Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
+E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
+MDgyNDIzLDE1NzM1MTk3MDUsLTc5MTk0ODcwNywtODQ1ODg4OT
+c1LC0xNjg5NjkzODU0LC0yMTExMTcxNjg4LC03NDA2NzA3MTQs
+LTE3NDk3MDM0NjJdfQ==
 -->
