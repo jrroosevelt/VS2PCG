@@ -2122,6 +2122,12 @@ Q: Can I target a face-down character? If so, what happens if I strike them?
 
 A: Short answer is "Yes." What actually happens will depend on if they're stunned or hidden. Check out the Glossary entries for [Strike](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_strike) and for [Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) for more information.
 
+# Songbird
+^(Cardnumber: MYS-025)
+
+*Set: Mystic Arts*
+
+
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 ^CardNumber: ^CV2-007
 
@@ -3164,11 +3170,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMD
-I5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIw
-MjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMD
-k0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1
-ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1NTY1NjA0LC
-0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2MDgyNzI0NSwxOTEx
-MzY0NTc5XX0=
+eyJoaXN0b3J5IjpbLTIxMzY2OTM5NjIsLTY0MzI4NzQzOSwyMD
+QwMTQxOTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2Mzcz
+NjIyOSw4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMD
+QzOTM5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4
+MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC
+0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2
+MDgyNzI0NV19
 -->
