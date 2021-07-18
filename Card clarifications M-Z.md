@@ -2123,10 +2123,13 @@ Q: Can I target a face-down character? If so, what happens if I strike them?
 A: Short answer is "Yes." What actually happens will depend on if they're stunned or hidden. Check out the Glossary entries for [Strike](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_strike) and for [Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) for more information.
 
 # Songbird
-^(Cardnumber: MYS-025)
+^(Cardnumber: THU-015)
 
-*Set: Mystic Arts*
+*Set: Thunderbolts*
 
+With her **Acoustikinesis**, if she chooses **Sonic Platform**, the effect will continue even if she's turned face down.
+
+^(Source: Rule insert)
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 ^CardNumber: ^CV2-007
@@ -3170,11 +3173,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY2OTM5NjIsLTY0MzI4NzQzOSwyMD
-QwMTQxOTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2Mzcz
-NjIyOSw4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMD
-QzOTM5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4
-MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC
-0yMTA1NTY1NjA0LC0xNTYwOTcyOTIwLDEwMjU0OTExMzYsLTc2
-MDgyNzI0NV19
+eyJoaXN0b3J5IjpbMjExOTY1NDMwNywtNjQzMjg3NDM5LDIwND
+AxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2
+MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwND
+M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
+MTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLT
+IxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYw
+ODI3MjQ1XX0=
 -->
