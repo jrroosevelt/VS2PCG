@@ -2841,7 +2841,7 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 # Lady Deathstrike
 
 ## Lady Deathstrike (Pro-Registration)
-^CardNumber: ^AFF-046
+^CardNumber: ^THU-
 
 
 ## [Lady Deathstrike (Femme Fatales)](http://vs.tcgbrowser.com/images/cards/big/aff-046.jpg)
@@ -3174,11 +3174,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwtND
-U0MzAzMTg2LDIxMTU0ODYwNTcsLTE4MjEzNzUzNTAsLTM2NDY3
-MzQsMTM3NjUzOTYxNSwtMTM3MTMwNDUyNCwyMDQ2ODkxODE4LD
-YyNTY2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcw
-MjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3NDUzNzA5NC
-wtNTMwNzYyMzQ3LDczNzQ2MTM1LDEyNDMzNjIwMDQsMjAxOTgz
-MjI0MF19
+eyJoaXN0b3J5IjpbMTg5NDAzNDI4LC04OTExNzM3NjQsLTE2MT
+c0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1
+MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMj
+A0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0
+MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLT
+EwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYy
+MDA0XX0=
 -->
