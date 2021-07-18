@@ -2841,7 +2841,13 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 # Lady Deathstrike
 
 ## Lady Deathstrike (Pro-Registration)
-^CardNumber: ^THU-
+^CardNumber: ^THU-011
+
+*Set: Thunderbolts*
+
+Her **Adamantium Nails** ignore all effects increasing the DEF of the enemy characters in melee combat with her, even +1/+1 counters, and even effects that would resolve after the combat starts, like Plot Twists.
+
+^(Source: Rule Insert)
 
 
 ## [Lady Deathstrike (Femme Fatales)](http://vs.tcgbrowser.com/images/cards/big/aff-046.jpg)
@@ -3174,11 +3180,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDAzNDI4LC04OTExNzM3NjQsLTE2MT
-c0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1
-MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMj
-A0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0
-MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLT
-EwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYy
-MDA0XX0=
+eyJoaXN0b3J5IjpbLTU2Njg5NjA1OSwtODkxMTczNzY0LC0xNj
+E3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1NywtMTgyMTM3
+NTM1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcxMzA0NTI0LD
+IwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4MjgsLTE2OTgx
+NDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC
+0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2
+MjAwNF19
 -->
