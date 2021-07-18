@@ -2538,7 +2538,11 @@ Talos's **Pragmatist** power affects all characters on your side, regardless of 
 
 # Taskmaster
 ## Taskmaster (Pro-Registration)
-^CardNumber: ^LEG-051
+^CardNumber: ^THU-013
+
+When he gains Keyword Powers from **Predict Physical Movement**, the character he gains them from doesn't lose them. (Taskmaster is just copying their powers.)
+
+He can gain  ![](%%Flight%%) (Flight) and  ![](%%Flight%%) 
 
 *Set: Legacy*
 
@@ -3180,11 +3184,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNzk5NDQxLC02NDMyODc0MzksMjA0MD
-E0MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYy
-MjksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0Mz
-kzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODEx
-NDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcxOSwtMj
-EwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1NDkxMTM2LC03NjA4
-MjcyNDVdfQ==
+eyJoaXN0b3J5IjpbLTk3NTA4NjIzMCwtNjQzMjg3NDM5LDIwND
+AxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2
+MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwND
+M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
+MTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLT
+IxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYw
+ODI3MjQ1XX0=
 -->
