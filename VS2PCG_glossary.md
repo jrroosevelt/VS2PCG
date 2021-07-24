@@ -174,7 +174,7 @@ There are various effects that result in adding a counter to your character. A c
   
 ---
 
-Q: Assume I have Match (4/1 ATK/DEF). I attack Charlie-27 (1/1). When Match strikes, does Charlie get 4 -1/-1 counters or just 1? In other words, are all the negative counters applies, or only enough to stun the character?
+Q: Assume I have Match (4/1 ATK/DEF). I attack Charlie-27 (1/1). When Match strikes, does Charlie get 4 -1/-1 counters or just 1? In other words, are all the negative counters applied, or only enough to stun the character?
 
 A: Counters are gained all at once.
 
@@ -937,11 +937,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQ2NzQwOCwyMTQ1NTkxNzIzLC01ND
-Q2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3
-NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC
-0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5
-NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOT
-UsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03
-OTE5NDg3MDddfQ==
+eyJoaXN0b3J5IjpbODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NT
+kxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1
+MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNT
+E5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1
+NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LD
+E2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTcz
+NTE5NzA1XX0=
 -->
