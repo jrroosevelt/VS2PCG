@@ -240,7 +240,7 @@ If this character would get stunned other than by getting struck in combat, it d
 This applies to anything opposing you. An enemy player is your opponent. An enemy character is one on your opponent's side.
 
 # Enters combat
-A character enters combat when they become an attacker or defender. This is typically when the attack is initially declared. However, certain card effects can change when this occurs. For example, when Uncanny Defense is played, the new defender "enters combat" at that point. Other cards that change when a character enters combat include, but are not limited to: Dramatic Entrance, Gadget, and Superior Spider Man (MC). 
+A character enters combat when they become an attacker or defender. This is typically when the attack is initially declared. However, certain card effects can change when this occurs. For example, when Uncanny Defense is played, the new defender "enters combat" at that point. Other cards that change when a character enters combat include, but are not limited to: Dramatic Entrance, Gadget, Captain America (S.H.I.E.L.D. SC), and Superior Spider Man (MC). 
 
 # Equipment
 Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
@@ -937,11 +937,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NT
-kxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1
-MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNT
-E5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1
-NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LD
-E2NjQyMjUyOTUsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTcz
-NTE5NzA1XX0=
+eyJoaXN0b3J5IjpbMTA3MjU5NDczNSw4NDk0ODc2OSwtNTkxND
+Y3NDA4LDIxNDU1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3
+LC0xMDU2MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNj
+g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
+Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
+E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
+MDgyNDIzXX0=
 -->
