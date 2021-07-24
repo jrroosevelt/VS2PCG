@@ -1970,7 +1970,7 @@ If no one else is playing near you or you don't have permission to move Ghost-Sp
 
 When Ghost-Spider enters another game or gets removed from the game set aside all her counters and Equipment. She will reappear in her original game with those counters and Equipment.
 
-If Ghost-Spider enters anotehr game of Vs. System 2PCG, you decide which player gains control over her. She can attack, gain counters, get stunned, get KO'd, etc., just like in her original game. However, no matter what happens she will go back to her original game at the start of your next turn. When she jumps back, any counters, Equipment, etc. that she gained in the other game will be removed.
+If Ghost-Spider enters another game of Vs. System 2PCG, you decide which player gains control over her. She can attack, gain counters, get stunned, get KO'd, etc., just like in her original game. However, no matter what happens she will go back to her original game at the start of your next turn. When she jumps back, any counters, Equipment, etc. that she gained in the other game will be removed.
 
 If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players in that game to decide exactly how she works in that game.
 
@@ -3188,11 +3188,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODE2MjEyNCwtODkxMTczNzY0LC0xNj
-E3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1NywtMTgyMTM3
-NTM1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcxMzA0NTI0LD
-IwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4MjgsLTE2OTgx
-NDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3NSwxOTgwMTAyNjc5LC
-0xMDc0NTM3MDk0LC01MzA3NjIzNDcsNzM3NDYxMzUsMTI0MzM2
-MjAwNF19
+eyJoaXN0b3J5IjpbMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MT
+c0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1
+MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMj
+A0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0
+MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLT
+EwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYy
+MDA0XX0=
 -->
