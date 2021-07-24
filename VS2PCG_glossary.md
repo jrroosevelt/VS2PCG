@@ -188,7 +188,10 @@ Q: According to Magma, if a character has a counter, they still get an opposing 
 
 A: Yes, if a character has a +1/+1 counter and it receives a -1/-1 counter, for a moment it will have both counters and then they will both be removed. (It works the same way if the character has a -1/-1 counter and receives a +1/+1 counter.)
 
-For cases like Human Torch's 
+For cases like Human Torch's level up, gaining a number of counters *does* count, even if those counters will be immediately removed. For example, if Human Torch has two -1/-1 counters and then an effect puts five +1/+1 counters on him, it works like this:
+
+- First, put five +1/+1 counters on him.
+- Then remove two 
 
 
 # Creature  
@@ -922,11 +925,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQzNzQzNywyMTQ1NTkxNzIzLC01ND
-Q2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3
-NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC
-0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5
-NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOT
-UsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03
-OTE5NDg3MDddfQ==
+eyJoaXN0b3J5IjpbOTg3ODk4MTE0LDIxNDU1OTE3MjMsLTU0ND
+YzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0
+MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLT
+E0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1
+MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NS
+wxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5
+MTk0ODcwN119
 -->
