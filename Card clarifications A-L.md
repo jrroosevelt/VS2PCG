@@ -3163,7 +3163,9 @@ A: No
 
 ---
 
-
+Q: Does the Secret Avenger Luke Cage gain XP if someone plays Uncanny Defense and replaces a defender with Luke? 
+           
+A: If the attacker does not have ![](%%Flight%%) (Flight) and was making a melee attack and Luke becomes the new defender in the combat (assuming he was not previously in the combat), then it would meet the requirements of Luke entering melee combat with at least one character without [Flight]. Rewarding 1 XP.
 
 ## [Luke Cage  (SC - Avengers)](http://vs.tcgbrowser.com/images/cards/big/mnb-018.jpg)
 ^CardNumber: ^MNB-018
@@ -3184,7 +3186,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NjgyNzAyLC04OTExNzM3NjQsLTE2MT
+eyJoaXN0b3J5IjpbODIxMzIyNjk1LC04OTExNzM3NjQsLTE2MT
 c0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1
 MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMj
 A0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0
