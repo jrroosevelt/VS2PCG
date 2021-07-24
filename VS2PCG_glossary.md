@@ -186,7 +186,9 @@ Charlie will receive four -1/-1 counters. Then he will get stunned (assuming Cha
 
 Q: According to Magma, if a character has a counter, they still get an opposing counter before those 2 counters cancel each other out. For the sake of XP conditions like Johnny Storm and Pro-Registration Black Widow, how do they gain XP if opposing counters are in the way?
 
-A: 
+A: Yes, if a character has a +1/+1 counter and it receives a -1/-1 counter, for a moment it will have both counters and then they will both be removed. (It works the same way if the character has a -1/-1 counter and receives a +1/+1 counter.)
+
+For cases like Human Torch's 
 
 
 # Creature  
@@ -920,11 +922,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNTc4MiwyMTQ1NTkxNzIzLC01NDQ2Mz
-ExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3NDA1
-LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC0xND
-IwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2
-Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMT
-QwOTI1OTE0NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03OTE5
-NDg3MDddfQ==
+eyJoaXN0b3J5IjpbLTc1NzQzNzQzNywyMTQ1NTkxNzIzLC01ND
+Q2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3
+NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC
+0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5
+NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOT
+UsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03
+OTE5NDg3MDddfQ==
 -->
