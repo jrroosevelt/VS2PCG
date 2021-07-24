@@ -172,6 +172,9 @@ There are various effects that result in adding a counter to your character. A c
 * [Wound Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_wounds_.28and_wound_counters.29)
 * [XP Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_xp_.28and_xp_counters.29)
   
+---
+
+Q: Assume I have Match (4/1 ATK/DEF). I attack Charlie-27 (1/1). When Match strik
 
 # Creature  
 This character cannot be equipped.  
@@ -904,7 +907,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1ODQzMjY3LDIxNDU1OTE3MjMsLTU0ND
+eyJoaXN0b3J5IjpbNzg3NTA4MDYzLDIxNDU1OTE3MjMsLTU0ND
 YzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0
 MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLT
 E0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1
