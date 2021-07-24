@@ -199,7 +199,8 @@ Another Example: Black Widow (Anti-Registration MC) has Match on her side. The o
 - Match is 4/1.
 - Gargoyle is currently 7/7 (3/3 base with four +1/+1 counters). 
 - Great Teacher makes match 10/1.
-- When he would strike he instead puts ten -1/-1 coun
+- When he would strike he instead puts ten -1/-1 counters on Gargoyle. This gives Black Widow 10 XP.
+- 
 
 
 # Creature  
@@ -933,11 +934,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzOTI1NjMxLDIxNDU1OTE3MjMsLTU0ND
-YzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0
-MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLT
-E0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1
-MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NS
-wxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5
-MTk0ODcwN119
+eyJoaXN0b3J5IjpbMTQ4NjU5MzQ5NSwyMTQ1NTkxNzIzLC01ND
+Q2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3
+NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC
+0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5
+NTM2Nzg3LC0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOT
+UsMTQwOTI1OTE0NywtMTczODA4MjQyMywxNTczNTE5NzA1LC03
+OTE5NDg3MDddfQ==
 -->
