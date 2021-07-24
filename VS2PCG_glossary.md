@@ -191,7 +191,10 @@ A: Yes, if a character has a +1/+1 counter and it receives a -1/-1 counter, for 
 For cases like Human Torch's level up, gaining a number of counters *does* count, even if those counters will be immediately removed. For example, if Human Torch has two -1/-1 counters and then an effect puts five +1/+1 counters on him, it works like this:
 
 - First, put five +1/+1 counters on him.
-- Then remove two 
+- Then remove two +1/+1 counters and two -1/-1 counters.
+- He then gains 5 XP.
+
+Another Example: Black Widow (Anti-Registration MC) has Match on her side. The opponent has Gargoyle with four +1/+1 counters. Match attacks Gargoyle and uses Great Teacher. 
 
 
 # Creature  
@@ -925,7 +928,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3ODk4MTE0LDIxNDU1OTE3MjMsLTU0ND
+eyJoaXN0b3J5IjpbODI1Mjc4NTM2LDIxNDU1OTE3MjMsLTU0ND
 YzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0
 MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLT
 E0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1
