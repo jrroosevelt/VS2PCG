@@ -207,7 +207,7 @@ If this character would get stunned other than by getting struck in combat, it d
 This applies to anything opposing you. An enemy player is your opponent. An enemy character is one on your opponent's side.
 
 # Enters combat
-A character enters combat when they become an attacker or defender. This is typically when the attack is initially declared. However, certain card effects can change when this occurs. For example, when Uncanny Defense is played, the new defender "enters combat" at that point. Other cards that change when a character enters combat include, but are not limited to: Dramatic Entrance, Gadget, 
+A character enters combat when they become an attacker or defender. This is typically when the attack is initially declared. However, certain card effects can change when this occurs. For example, when Uncanny Defense is played, the new defender "enters combat" at that point. Other cards that change when a character enters combat include, but are not limited to: Dramatic Entrance, Gadget, and Superior Spider Man (MC). 
 
 # Equipment
 Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
@@ -904,11 +904,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTU5MTcyMywtNTQ0NjMxMTI3LC02NT
-UwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMTQyODIy
-MzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2Ny
-wxMjIxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2
-NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDkyNTkxND
-csLTE3MzgwODI0MjMsMTU3MzUxOTcwNSwtNzkxOTQ4NzA3LC04
-NDU4ODg5NzVdfQ==
+eyJoaXN0b3J5IjpbNzM1ODQzMjY3LDIxNDU1OTE3MjMsLTU0ND
+YzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0
+MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLT
+E0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1
+MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NS
+wxNDA5MjU5MTQ3LC0xNzM4MDgyNDIzLDE1NzM1MTk3MDUsLTc5
+MTk0ODcwN119
 -->
