@@ -194,7 +194,12 @@ For cases like Human Torch's level up, gaining a number of counters *does* count
 - Then remove two +1/+1 counters and two -1/-1 counters.
 - He then gains 5 XP.
 
-Another Example: Black Widow (Anti-Registration MC) has Match on her side. The opponent has Gargoyle with four +1/+1 counters. Match attacks Gargoyle and uses Great Teacher. 
+Another Example: Black Widow (Anti-Registration MC) has Match on her side. The opponent has Gargoyle with four +1/+1 counters. Match attacks Gargoyle and uses Great Teacher. Match's attack is now 10. On the strike, how many negative counters does Gargoyle actually get before he stuns? Also, how is the XP counted for BW? Does she get 10 XP? Does she get 3 XP? Does she get any?
+
+- Match is 4/1.
+- Gargoyle is currently 7/7 (3/3 base with four +1/+1 counters). 
+- Great Teacher makes match 10/1.
+- When he would strike he instead puts ten -1/-1 coun
 
 
 # Creature  
@@ -928,7 +933,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1Mjc4NTM2LDIxNDU1OTE3MjMsLTU0ND
+eyJoaXN0b3J5IjpbOTQzOTI1NjMxLDIxNDU1OTE3MjMsLTU0ND
 YzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0
 MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLT
 E0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1
