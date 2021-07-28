@@ -4,7 +4,7 @@
 
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
   
- # +1/+1 and -1/-1 (Counters)
+# +1/+1 and -1/-1 (Counters)
 Many effects put +1/+1 or -1/-1 counters on characters. These numbers alter a character's ATK and DEF until something removes the counters.
  
 If a character ever has +1/+1 and -1/-1 counters at the same time they cancel out. Remove one of each until the character only has one type.
@@ -952,11 +952,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYwMzExNjcsMTA3MjU5NDczNSw4ND
-k0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3MjMsLTU0NDYzMTEy
-NywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0MDUsLT
-E0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0
-NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3OD
-csLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5
-MjU5MTQ3XX0=
+eyJoaXN0b3J5IjpbLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
+A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
+MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLD
+ExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2
+MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3ND
+U0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2
+NDIyNTI5NV19
 -->
