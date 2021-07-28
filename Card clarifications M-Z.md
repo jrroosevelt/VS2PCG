@@ -3118,6 +3118,12 @@ These special attacks can be team attacks as long as each character in the attac
 
 ^(Source: Rule insert)  
 
+---
+
+Q: 
+
+^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/4149214395114075/)
+
 # [Wyatt Wingfoot](http://vs.tcgbrowser.com/images/cards/big/FAN-014.jpg)
 ^CardNumber: ^FAN-014
 
@@ -3189,11 +3195,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzc2NDg0MywtNjQzMjg3NDM5LDIwND
-AxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2
-MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwND
-M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
-MTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLT
-IxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAyNTQ5MTEzNiwtNzYw
-ODI3MjQ1XX0=
+eyJoaXN0b3J5IjpbMTgxMTk5MDYxNSwtNDMzNzY0ODQzLC02ND
+MyODc0MzksMjA0MDE0MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3
+NjMsLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2LDE2Nj
+IxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5
+MjEsLTEyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMT
+QxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1
+NDkxMTM2XX0=
 -->
