@@ -2371,7 +2371,9 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 Q: What happens if The Soul Gem is used to name Hulkling but then I try to play him?
 
-A: Per a 2019 rules update, cards that try to appear but can't are removed from the game. 
+A: Per a 2019 rules update, cards that try to appear but can't are removed from the game. So, in this scenario, you pay the recruit cost for Hulkling. In the recruit zone, you choose to KO an enemy character and give them Hulkling in return. However, since Hulkling can't appear, he will be removed from the game and play continues as normal.
+
+^Source: ^UDE ^Message
 
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
@@ -3195,7 +3197,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzExMTcwNywtMTMwOTQzNTE4NywtMT
+eyJoaXN0b3J5IjpbMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMT
 U0NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1
 ODI5OCwtNDU0MzAzMTg2LDIxMTU0ODYwNTcsLTE4MjEzNzUzNT
 AsLTM2NDY3MzQsMTM3NjUzOTYxNSwtMTM3MTMwNDUyNCwyMDQ2
