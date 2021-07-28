@@ -3120,7 +3120,9 @@ These special attacks can be team attacks as long as each character in the attac
 
 ---
 
-Q: 
+Q: Can I use Dramatic Entrance to redirect an opposing Wrecking Crew character's attack to one of my other characters?
+
+A: No
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/4149214395114075/)
 
@@ -3195,11 +3197,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTk5MDYxNSwtNDMzNzY0ODQzLC02ND
-MyODc0MzksMjA0MDE0MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3
-NjMsLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2LDE2Nj
-IxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5
-MjEsLTEyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMT
-QxODQzNzcxOSwtMjEwNTU2NTYwNCwtMTU2MDk3MjkyMCwxMDI1
-NDkxMTM2XX0=
+eyJoaXN0b3J5IjpbLTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNj
+QzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3
+NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNj
+YyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5
+OTIxLC0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLD
+E0MTg0Mzc3MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAy
+NTQ5MTEzNl19
 -->
