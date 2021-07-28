@@ -2373,7 +2373,7 @@ Q: What happens if The Soul Gem is used to name Hulkling but then I try to play 
 
 A: Per a 2019 rules update, cards that try to appear but can't are removed from the game. So, in this scenario, you pay the recruit cost for Hulkling. In the recruit zone, you choose to KO an enemy character and give them Hulkling in return. However, since Hulkling can't appear, he will be removed from the game and play continues as normal.
 
-^Source: ^UDE ^Message
+^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/869655335080718357)
 
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
@@ -3197,11 +3197,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMT
-U0NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1
-ODI5OCwtNDU0MzAzMTg2LDIxMTU0ODYwNTcsLTE4MjEzNzUzNT
-AsLTM2NDY3MzQsMTM3NjUzOTYxNSwtMTM3MTMwNDUyNCwyMDQ2
-ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2ODI4LC0xNjk4MTQyNj
-QwLDIyNjcwMjIyMiw2ODQwODA4NzUsMTk4MDEwMjY3OSwtMTA3
-NDUzNzA5NF19
+eyJoaXN0b3J5IjpbLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMz
+A5NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTcz
+NzY0LC0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1Ny
+wtMTgyMTM3NTM1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcx
+MzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4Mj
+gsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3NSwxOTgw
+MTAyNjc5XX0=
 -->
