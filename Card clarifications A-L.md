@@ -2367,6 +2367,11 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 ^(Source: Rule Insert)
 
+---
+
+Q: What happens if I play 
+
+
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 ^CardNumber: ^SFO-006
 
@@ -3188,11 +3193,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MT
-c0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1
-MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMj
-A0Njg5MTgxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0
-MjY0MCwyMjY3MDIyMjIsNjg0MDgwODc1LDE5ODAxMDI2NzksLT
-EwNzQ1MzcwOTQsLTUzMDc2MjM0Nyw3Mzc0NjEzNSwxMjQzMzYy
-MDA0XX0=
+eyJoaXN0b3J5IjpbLTQyMzcyNzA3NSwxMjAxMTM3MDIsLTg5MT
+E3Mzc2NCwtMTYxNzQ1ODI5OCwtNDU0MzAzMTg2LDIxMTU0ODYw
+NTcsLTE4MjEzNzUzNTAsLTM2NDY3MzQsMTM3NjUzOTYxNSwtMT
+M3MTMwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2
+ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQwODA4NzUsMT
+k4MDEwMjY3OSwtMTA3NDUzNzA5NCwtNTMwNzYyMzQ3LDczNzQ2
+MTM1XX0=
 -->
