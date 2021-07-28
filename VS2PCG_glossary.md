@@ -261,7 +261,7 @@ Equipment was always meant to only be equipped to face-up characters (excepting 
 
 *Equipment can never be on a face-down character. If an effect would attempt to do this, ignore that part of the effect.*
 
-^Source: ^UDE ^Blog
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2019/07/vs-system-2pcg-card-errata-and-rules-changes-july-2019/)
 
 # Eternal  
 If this character would leave play, you may put them into their owner's hand instead.  
@@ -944,7 +944,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTIyMTY1NiwxMDcyNTk0NzM1LDg0OT
+eyJoaXN0b3J5IjpbMTE4NzY3MjQ1OSwxMDcyNTk0NzM1LDg0OT
 Q4NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3
 LC02NTUwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMT
 QyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2
