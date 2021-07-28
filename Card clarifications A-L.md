@@ -2369,7 +2369,9 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 
 ---
 
-Q: What happens if I play 
+Q: What happens if The Soul Gem is used to name Hulkling but then I try to play him?
+
+
 
 
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
@@ -3193,7 +3195,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzcyNzA3NSwxMjAxMTM3MDIsLTg5MT
+eyJoaXN0b3J5IjpbMTU5MTY1Mjc3NCwxMjAxMTM3MDIsLTg5MT
 E3Mzc2NCwtMTYxNzQ1ODI5OCwtNDU0MzAzMTg2LDIxMTU0ODYw
 NTcsLTE4MjEzNzUzNTAsLTM2NDY3MzQsMTM3NjUzOTYxNSwtMT
 M3MTMwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OSwtODA4MDA2
