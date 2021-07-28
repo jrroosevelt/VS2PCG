@@ -83,6 +83,7 @@ Some cards (like Zzutak) can’t appear normally, and some cards (like The Soul 
 
 *If a card tries to appear but can’t, remove it from the game.*
 
+^Source: ^Upperdeck 
 
 # ATK/DEF
 The numbers on characters above the lightning and shield symbols. During combat you compare your character's ATK (attack) to its enemy's DEF (defense) to see if you stun it.
@@ -951,11 +952,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3OTQ3MTcxLDEwNzI1OTQ3MzUsODQ5ND
-g3NjksLTU5MTQ2NzQwOCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcs
-LTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3NDA1LC0xND
-I4MjIzOTM3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4
-MzY3LDEyMjE5NTc3ODEsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC
-0yOTY3MTY0NSwxNTM3NTk4MjE5LDE2NjQyMjUyOTUsMTQwOTI1
-OTE0N119
+eyJoaXN0b3J5IjpbLTc1NjI4NDk4MywxMDcyNTk0NzM1LDg0OT
+Q4NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3
+LC02NTUwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMT
+QyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2
+ODM2NywxMjIxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4Ny
+wtMjk2NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDky
+NTkxNDddfQ==
 -->
