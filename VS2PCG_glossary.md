@@ -83,7 +83,7 @@ Some cards (like Zzutak) can’t appear normally, and some cards (like The Soul 
 
 *If a card tries to appear but can’t, remove it from the game.*
 
-^Source: ^Upperdeck 
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2019/07/vs-system-2pcg-card-errata-and-rules-changes-july-2019/) 
 
 # ATK/DEF
 The numbers on characters above the lightning and shield symbols. During combat you compare your character's ATK (attack) to its enemy's DEF (defense) to see if you stun it.
@@ -952,11 +952,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjI4NDk4MywxMDcyNTk0NzM1LDg0OT
-Q4NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3
-LC02NTUwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMT
-QyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2
-ODM2NywxMjIxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4Ny
-wtMjk2NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDky
-NTkxNDddfQ==
+eyJoaXN0b3J5IjpbLTEwOTYwMzExNjcsMTA3MjU5NDczNSw4ND
+k0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3MjMsLTU0NDYzMTEy
+NywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0MDUsLT
+E0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0
+NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3OD
+csLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5
+MjU5MTQ3XX0=
 -->
