@@ -255,6 +255,13 @@ A: It would be the wild location for the character, not the equipment. So Misty 
 
 ^Source: [^Discord ^Post](https://discordapp.com/channels/488058478015807499/490215795503398912/618245915685421073)
   
+---
+
+Equipment was always meant to only be equipped to face-up characters (excepting a card effect). And equipment can currently only be  _played_  on a face-up character. However, equipment can get equipped with other methods (like the Grid supporting character). The following sentence will be added to the rules on Equipment:
+
+*Equipment can never be on a face-down character. If an effect would attempt to do this, ignore that part of the effect.*
+
+^Source: ^UDE ^Blog
 
 # Eternal  
 If this character would leave play, you may put them into their owner's hand instead.  
@@ -937,11 +944,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjU5NDczNSw4NDk0ODc2OSwtNTkxND
-Y3NDA4LDIxNDU1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3
-LC0xMDU2MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNj
-g3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1
-Nzc4MSwxOTMxNTU3NDU0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LD
-E1Mzc1OTgyMTksMTY2NDIyNTI5NSwxNDA5MjU5MTQ3LC0xNzM4
-MDgyNDIzXX0=
+eyJoaXN0b3J5IjpbLTg2MTIyMTY1NiwxMDcyNTk0NzM1LDg0OT
+Q4NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3
+LC02NTUwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMT
+QyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2
+ODM2NywxMjIxOTU3NzgxLDE5MzE1NTc0NTQsMTA0OTUzNjc4Ny
+wtMjk2NzE2NDUsMTUzNzU5ODIxOSwxNjY0MjI1Mjk1LDE0MDky
+NTkxNDddfQ==
 -->
