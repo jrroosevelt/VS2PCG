@@ -2261,7 +2261,7 @@ A: The effect is asking if a character in their hand matches the team affiliatio
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
-## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/SVH-001.jpg) (MC)
+## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/SVH-001.jpg) (MC - Hydra)
 ^CardNumber: ^SVH-001, ^SVH-002
 
 *Set: S.H.I.E.L.D. vs. Hydra*
@@ -2272,6 +2272,13 @@ A: Zemo is a recruit trigger, if you are recruiting Gwen, she is not in play whe
 So 5. 
 
 ^(Source: IM Conversation - Chad Daniel - UDE Approved)
+
+## Helmut Zemo (MC - Pro-Registration)
+^CardNumber: ^THU-001, ^THU-002
+
+*Set: Thunderbolts*
+
+Q: If I play Machine to reduce the amount I pay for characters and play 
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 ^CardNumber: ^SFO-009
@@ -3197,11 +3204,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMz
-A5NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTcz
-NzY0LC0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1Ny
-wtMTgyMTM3NTM1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcx
-MzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4Mj
-gsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4NDA4MDg3NSwxOTgw
-MTAyNjc5XX0=
+eyJoaXN0b3J5IjpbOTc5MTY2Njc5LC03NzAwNDg1NjIsMjA5MD
+c0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNjE1NCwxMjAxMTM3
+MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwtNDU0MzAzMTg2LD
+IxMTU0ODYwNTcsLTE4MjEzNzUzNTAsLTM2NDY3MzQsMTM3NjUz
+OTYxNSwtMTM3MTMwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OS
+wtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQw
+ODA4NzVdfQ==
 -->
