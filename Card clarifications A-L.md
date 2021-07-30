@@ -3169,7 +3169,7 @@ A: Yes, characters keep their affiliations even when they are stunned.
 # Luke Cage
 
 ## Luke Cage (MC- Anti-Registration)
-^CardNumber: ^SEC-03, ^SEC-004
+^CardNumber: ^SEC-003, ^SEC-004
 
 *Set: Secret Avengers*
 
@@ -3206,11 +3206,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg4MjQ0MDksLTc3MDA0ODU2MiwyMD
-kwNzQyODQzLC0xMzA5NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDEx
-MzcwMiwtODkxMTczNzY0LC0xNjE3NDU4Mjk4LC00NTQzMDMxOD
-YsMjExNTQ4NjA1NywtMTgyMTM3NTM1MCwtMzY0NjczNCwxMzc2
-NTM5NjE1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNj
-Q5LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4
-NDA4MDg3NV19
+eyJoaXN0b3J5IjpbLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOT
+A3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEz
+NzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4Ni
+wyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1
+Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2MjU2NjM2ND
+ksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0
+MDgwODc1XX0=
 -->
