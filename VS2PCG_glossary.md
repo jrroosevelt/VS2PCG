@@ -436,7 +436,7 @@ A: Rules as written are that all invention piles must include inventions able to
   
 The update is present in the rules revision post when it gets cleared to be posted. Feel free to have your TO make the judgment call on legality of inventions in their event.
 
-^Source: ^UDE ^Message
+^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/870453889453928499)
 
 # Invisibility  
 At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
@@ -979,7 +979,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODY1NjA5LC01NDE5OTE2OTgsMTEyMT
+eyJoaXN0b3J5IjpbODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMT
 k4NTk3MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMx
 MTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMT
 Q1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIw
