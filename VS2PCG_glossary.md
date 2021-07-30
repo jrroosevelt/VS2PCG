@@ -430,7 +430,13 @@ If you have any characters that can create an Invention (inventors) in your deck
 
 ---
 
-Q: Am I able to play inventions if a format makes one of teh i
+Q: Am I able to play inventions if a format makes one of the inventions illegal? For example, the It's All Good format makes Automaton illegal. Can I still play an inventor and just omit that card?
+
+A: Rules as written are that all invention piles must include inventions able to be invited by the inventors in your deck. Because of Automaton, this disqualifies inventors from certain formats [like It's All Good]. However the rules for the Invention pile have been updated making it optional to include each Invention. So for example, you could leave out Automaton in order to have an Invention pile in the It's All Good format.  
+  
+The update is present in the rules revision post when it gets cleared to be posted. Feel free to have your TO make the judgment call on legality of inventions in their event.
+
+^Source: ^UDE ^Message
 
 # Invisibility  
 At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
@@ -973,11 +979,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMzY1OTUsLTU0MTk5MTY5OCwxMTIxOT
-g1OTcyLDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzEx
-NjcsMTA3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxND
-U1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAx
-NzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC
-01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMx
-NTU3NDU0XX0=
+eyJoaXN0b3J5IjpbLTc5ODY1NjA5LC01NDE5OTE2OTgsMTEyMT
+k4NTk3MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMx
+MTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMT
+Q1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIw
+MTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOC
+wtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkz
+MTU1NzQ1NF19
 -->
