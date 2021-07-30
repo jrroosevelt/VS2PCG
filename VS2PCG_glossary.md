@@ -170,7 +170,7 @@ The Collector’s Collection can only have one equipment, one plot twist, and on
 While this character is in combat, enemy players can't play plot twists.  
 
 # Cost (Recruit Cost)
-When recruiting characters and equipment, the cost (or recruit cost) for that card is printed in the upper-left corner of the card. This is the number of Recruit Points that you must pay in order to recruit the card. You typically have recruit points equal to the number of resources you have at the start of your turn, though some effects (like **Wealthy**) can give you Recruit Points as well.
+When recruiting characters and equipment, the cost (or recruit cost) for that card is printed in the upper-left corner of the card. This is the number of Recruit Points that you must pay in order to recruit the card. You typically have Recruit Points equal to the number of resources you have at the start of your turn, though some effects (like **Wealthy**) can give you Recruit Points as well.
 
 ---
 
@@ -962,11 +962,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTk5MTY5OCwxMTIxOTg1OTcyLDE2Mj
-Y1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMTA3MjU5
-NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3MjMsLT
-U0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQw
-MDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2MDEyNT
-gsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3NDU0LDEw
-NDk1MzY3ODddfQ==
+eyJoaXN0b3J5IjpbLTEzOTk0MzIwMTgsLTU0MTk5MTY5OCwxMT
+IxOTg1OTcyLDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYw
+MzExNjcsMTA3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LD
+IxNDU1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2
+MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNT
+E4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwx
+OTMxNTU3NDU0XX0=
 -->
