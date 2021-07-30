@@ -168,7 +168,9 @@ The Collector’s Collection can only have one equipment, one plot twist, and on
 
 # Combat Master  
 While this character is in combat, enemy players can't play plot twists.  
-  
+
+# Cost (Recruit Cost)
+When recruiting characters and equipment, the cost (or recruit cost) for that card is printed in the upper-  
 
 # Comet Fall  
  When this character appears, put a -1/-1 counter on each enemy character.  
@@ -952,11 +954,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
-A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
-MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLD
-ExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2
-MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMxNTU3ND
-U0LDEwNDk1MzY3ODcsLTI5NjcxNjQ1LDE1Mzc1OTgyMTksMTY2
-NDIyNTI5NV19
+eyJoaXN0b3J5IjpbOTEyNDkyMzI4LC0xODYxODk5MDQxLC0xMD
+k2MDMxMTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQw
+OCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMT
+A1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIx
+MjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3OD
+EsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3
+NTk4MjE5XX0=
 -->
