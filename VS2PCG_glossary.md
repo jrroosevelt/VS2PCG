@@ -430,7 +430,7 @@ If you have any characters that can create an Invention (inventors) in your deck
 
 ---
 
-
+Q: Am I able to play inventions if a format makes one of teh i
 
 # Invisibility  
 At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
@@ -973,11 +973,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTk0OTY5NCwtNTQxOTkxNjk4LDExMj
-E5ODU5NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMTA5NjAz
-MTE2NywxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0MDgsMj
-E0NTU5MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLTEwNTYy
-MDE3NTMsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcyMTI1MT
-gsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3NzgxLDE5
-MzE1NTc0NTRdfQ==
+eyJoaXN0b3J5IjpbNzEzMzY1OTUsLTU0MTk5MTY5OCwxMTIxOT
+g1OTcyLDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzEx
+NjcsMTA3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxND
+U1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAx
+NzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC
+01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwxOTMx
+NTU3NDU0XX0=
 -->
