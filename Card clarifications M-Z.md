@@ -119,6 +119,10 @@ If the Maker is in your deck, you get to have the usual Invention pile, plus you
 
 ^(Source: Rule insert)
 
+---
+
+See also: [Invention](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_invention)
+
 # Mandarin
 ## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
 ^CardNumber: ^MCU1-046
@@ -3197,11 +3201,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNj
-QzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3
-NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNj
-YyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5
-OTIxLC0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLD
-E0MTg0Mzc3MTksLTIxMDU1NjU2MDQsLTE1NjA5NzI5MjAsMTAy
-NTQ5MTEzNl19
+eyJoaXN0b3J5IjpbLTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLT
+QzMzc2NDg0MywtNjQzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5
+MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNi
+w3NTAzMDA5NiwxNjYyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2
+ODU0MTQsOTUwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1MjE1MTU4My
+wxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2MDQsLTE1
+NjA5NzI5MjBdfQ==
 -->
