@@ -477,7 +477,7 @@ If this character wounds a defending supporting character, KO it. *(Lethal's tex
 
 Q: Take this scenario: I have two characters team-attacking. One of the two characters has Lethal. My opponent plays something to prevent that character from striking (such as In Good Hands), but I'm still able to stun the enemy character. Does **Lethal** still trigger even though the character who has it didn't strike?
 
-A: A character in a team attack still gets credit for bein in the team attack even if they don't get to strike. So, **Lethal** would still trigger.
+A: A character in a team attack still gets credit for being in the team attack even if they don't get to strike. So, **Lethal** would still trigger.
 
 ^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/870453889453928499)
 
@@ -979,11 +979,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMT
-k4NTk3MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMx
-MTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMT
-Q1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIw
-MTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOC
-wtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkz
-MTU1NzQ1NF19
+eyJoaXN0b3J5IjpbLTUyMDIxOTM5Nyw4OTc0MDYwMDgsLTU0MT
+k5MTY5OCwxMTIxOTg1OTcyLDE2MjY1MDM4NjUsLTE4NjE4OTkw
+NDEsLTEwOTYwMzExNjcsMTA3MjU5NDczNSw4NDk0ODc2OSwtNT
+kxNDY3NDA4LDIxNDU1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcx
+MTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5Mz
+csNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIy
+MTk1Nzc4MV19
 -->
