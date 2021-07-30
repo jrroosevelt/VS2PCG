@@ -174,7 +174,7 @@ When recruiting characters and equipment, the cost (or recruit cost) for that ca
 
 ---
 
-Q: What if I have an ability   
+Q: What if I have an ability (like the **Make Things Right** ability on Machine) that reduces the amount I pay for a card... Does that mean that the cost of that card is altered? For example, if I pay 0 points to recruit a 1-cost character, do I stil  
 
 # Comet Fall  
  When this character appears, put a -1/-1 counter on each enemy character.  
@@ -958,11 +958,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4NjczNzQxLC0xODYxODk5MDQxLC0xMD
-k2MDMxMTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQw
-OCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMT
-A1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIx
-MjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3OD
-EsMTkzMTU1NzQ1NCwxMDQ5NTM2Nzg3LC0yOTY3MTY0NSwxNTM3
-NTk4MjE5XX0=
+eyJoaXN0b3J5IjpbLTEwNTc2ODQ1NywtMTg2MTg5OTA0MSwtMT
+A5NjAzMTE2NywxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0
+MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLT
+EwNTYyMDE3NTMsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcy
+MTI1MTgsLTUxOTYwMTI1OCwtMTQyMDQ2ODM2NywxMjIxOTU3Nz
+gxLDE5MzE1NTc0NTQsMTA0OTUzNjc4NywtMjk2NzE2NDUsMTUz
+NzU5ODIxOV19
 -->
