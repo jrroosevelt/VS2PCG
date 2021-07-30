@@ -176,7 +176,7 @@ When recruiting characters and equipment, the cost (or recruit cost) for that ca
 
 Q: What if I have an ability (like the **Make Things Right** ability on Machine) that reduces the amount I pay for a card... Does that mean that the cost of that card is altered? For example, if I pay 0 points to recruit a 1-cost character, do I still get an XP for Helmut Zemo MC (Pro-Registration)?
 
-A: "Cost reduction effects" like The Machine, Agent Peggy Carter, Silver Sable, etc., all say that "you pay 1 less to recruit..." and not "change the cost..." of a character. Cards that reduce the amount you pay to recruit a character do not change the Cost of the character. As of this moment in VS. System 2PCG, there is not an effe  
+A: "Cost reduction effects" like The Machine, Agent Peggy Carter, Silver Sable, etc., all say that "you pay 1 less to recruit..." and not "change the cost..." of a character. Cards that reduce the amount you pay to recruit a character do not change the Cost of the character. As of this moment in VS. System 2PCG, there is not an effect in the game that changes the cost of a character from its printed cost. Furthermore, characters without a cost (* as their cost) are considered to have a cost of 0.  
 
 # Comet Fall  
  When this character appears, put a -1/-1 counter on each enemy character.  
@@ -960,7 +960,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTExNjE0MiwxNjI2NTAzODY1LC0xOD
+eyJoaXN0b3J5IjpbMTEyMTk4NTk3MiwxNjI2NTAzODY1LC0xOD
 YxODk5MDQxLC0xMDk2MDMxMTY3LDEwNzI1OTQ3MzUsODQ5NDg3
 NjksLTU5MTQ2NzQwOCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcsLT
 Y1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4
