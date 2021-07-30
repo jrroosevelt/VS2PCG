@@ -464,6 +464,10 @@ You may include up to eight copies of this card in your deck.
 # Lethal  
 If this character wounds a defending supporting character, KO it. *(Lethal's text received errata to trigger on wound and not stun as is written on some older cards.)* 
 
+----
+
+Q: Take this scenario: I have two characters team-attacking. One of the two characters has Lethal. My opponent plays something to prevent that character from striking (such as 
+
 # Locations
 You may use a Location (by turning it face down in your resource row or discarding it from your hand) to pay for a Super Power. But you may not use the same Location card to pay for multiple Super Powers. Each Super Power must be paid for separately.
 
@@ -962,11 +966,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc1ODkwMDEsLTU0MTk5MTY5OCwxMT
-IxOTg1OTcyLDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYw
-MzExNjcsMTA3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LD
-IxNDU1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2
-MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNT
-E4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIyMTk1Nzc4MSwx
-OTMxNTU3NDU0XX0=
+eyJoaXN0b3J5IjpbNDY5MzU1OTE3LC01NDE5OTE2OTgsMTEyMT
+k4NTk3MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMx
+MTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMT
+Q1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIw
+MTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOC
+wtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEyMjE5NTc3ODEsMTkz
+MTU1NzQ1NF19
 -->
