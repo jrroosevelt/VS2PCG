@@ -178,7 +178,7 @@ Q: What if I have an ability (like the **Make Things Right** ability on Machine)
 
 A: "Cost reduction effects" like The Machine, Agent Peggy Carter, Silver Sable, etc., all say that "you pay 1 less to recruit..." and not "change the cost..." of a character. Cards that reduce the amount you pay to recruit a character do not change the Cost of the character. As of this moment in VS. System 2PCG, there is not an effect in the game that changes the cost of a character from its printed cost. Furthermore, characters without a cost (* as their cost) are considered to have a cost of 0.  
 
-^Source
+^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/870449806491938857)
 
 # Comet Fall  
  When this character appears, put a -1/-1 counter on each enemy character.  
@@ -962,7 +962,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjgyMjgzMSwxMTIxOTg1OTcyLDE2Mj
+eyJoaXN0b3J5IjpbLTU0MTk5MTY5OCwxMTIxOTg1OTcyLDE2Mj
 Y1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMTA3MjU5
 NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3MjMsLT
 U0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLDExMTQw
