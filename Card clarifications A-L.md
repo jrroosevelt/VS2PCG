@@ -2278,7 +2278,9 @@ So 5.
 
 *Set: Thunderbolts*
 
-Q: If I play Machine to reduce the amount I pay for characters and play 
+Q: If I play Machine to reduce the amount I pay for characters and play a 1-cost character, but pay 0 points for it, do I still get XP?
+
+A: Yes. See the [glossary entry for Cost](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_cost_.28recruit_cost.29) for more info.
 
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 ^CardNumber: ^SFO-009
@@ -3204,11 +3206,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MTY2Njc5LC03NzAwNDg1NjIsMjA5MD
-c0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNjE1NCwxMjAxMTM3
-MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwtNDU0MzAzMTg2LD
-IxMTU0ODYwNTcsLTE4MjEzNzUzNTAsLTM2NDY3MzQsMTM3NjUz
-OTYxNSwtMTM3MTMwNDUyNCwyMDQ2ODkxODE4LDYyNTY2MzY0OS
-wtODA4MDA2ODI4LC0xNjk4MTQyNjQwLDIyNjcwMjIyMiw2ODQw
-ODA4NzVdfQ==
+eyJoaXN0b3J5IjpbLTEyOTg4MjQ0MDksLTc3MDA0ODU2MiwyMD
+kwNzQyODQzLC0xMzA5NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDEx
+MzcwMiwtODkxMTczNzY0LC0xNjE3NDU4Mjk4LC00NTQzMDMxOD
+YsMjExNTQ4NjA1NywtMTgyMTM3NTM1MCwtMzY0NjczNCwxMzc2
+NTM5NjE1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNj
+Q5LC04MDgwMDY4MjgsLTE2OTgxNDI2NDAsMjI2NzAyMjIyLDY4
+NDA4MDg3NV19
 -->
