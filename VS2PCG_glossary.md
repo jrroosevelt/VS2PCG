@@ -13,7 +13,7 @@ If an effect gives a character "+1/+1" or "-1/-1" but doesn't say "counter" then
 
 These types of counters are removed if a character is turned face-down (typically as a result of the character being stunned or hiding).
 
-S
+See also [Counters](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_counters).
 
 #  Absorption History
   See the [card-specific clarification for Mimic (MC)](/r/VS2PCG/wiki/rules-insert#wiki_mimic_.28mc.29).
@@ -981,11 +981,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAzOTU0OTIsODk3NDA2MDA4LC01ND
-E5OTE2OTgsMTEyMTk4NTk3MiwxNjI2NTAzODY1LC0xODYxODk5
-MDQxLC0xMDk2MDMxMTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLT
-U5MTQ2NzQwOCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3
-MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOT
-M3LDY4NzIxMjUxOCwtNTE5NjAxMjU4LC0xNDIwNDY4MzY3LDEy
-MjE5NTc3ODFdfQ==
+eyJoaXN0b3J5IjpbLTE0NjQ3MTYyNiw4OTc0MDYwMDgsLTU0MT
+k5MTY5OCwxMTIxOTg1OTcyLDE2MjY1MDM4NjUsLTE4NjE4OTkw
+NDEsLTEwOTYwMzExNjcsMTA3MjU5NDczNSw4NDk0ODc2OSwtNT
+kxNDY3NDA4LDIxNDU1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcx
+MTQ3LC0xMDU2MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5Mz
+csNjg3MjEyNTE4LC01MTk2MDEyNTgsLTE0MjA0NjgzNjcsMTIy
+MTk1Nzc4MV19
 -->
