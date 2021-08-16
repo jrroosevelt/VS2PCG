@@ -430,20 +430,6 @@ If you have any characters that can create an Invention (inventors) in your deck
   
 * When a character on your side creates an Invention, secretly choose an Invention card from your Invention pile that either has no team affiliation or that shares a team affiliation with the inventor and put it into your hand.  
 
-<!---
-
----
-
-Q: Am I able to play inventions if a format makes one of the inventions illegal? For example, the It's All Good format makes Automaton illegal. Can I still play an inventor and just omit that card?
-
-A: Rules as written are that all invention piles must include inventions able to be invited by the inventors in your deck. Because of Automaton, this disqualifies inventors from certain formats [like It's All Good]. However the rules for the Invention pile have been updated making it optional to include each Invention. So for example, you could leave out Automaton in order to have an Invention pile in the It's All Good format.  
-  
-The update is present in the rules revision post when it gets cleared to be posted. Feel free to have your TO make the judgment call on legality of inventions in their event.
-
-^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/870453889453928499)
-
---- >
-
 # Invisibility  
 At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
   
@@ -985,11 +971,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDUzODY2MywtMTQ2NDcxNjI2LDg5Nz
-QwNjAwOCwtNTQxOTkxNjk4LDExMjE5ODU5NzIsMTYyNjUwMzg2
-NSwtMTg2MTg5OTA0MSwtMTA5NjAzMTE2NywxMDcyNTk0NzM1LD
-g0OTQ4NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcyMywtNTQ0NjMx
-MTI3LC02NTUwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNS
-wtMTQyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYwMTI1OCwtMTQy
-MDQ2ODM2N119
+eyJoaXN0b3J5IjpbOTEyMzMyNjE5LC01ODA1Mzg2NjMsLTE0Nj
+Q3MTYyNiw4OTc0MDYwMDgsLTU0MTk5MTY5OCwxMTIxOTg1OTcy
+LDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
+A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
+MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLD
+ExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2
+MDEyNThdfQ==
 -->
