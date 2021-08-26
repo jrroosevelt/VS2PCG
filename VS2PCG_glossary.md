@@ -752,7 +752,11 @@ Side Stacks may include, but are not limited to, the following stacks (and cards
 
 ---
 
-Q: If I have a side pil
+Q: If I have a side pile that would require me to bring a card that is illegal for a given format, am I allowed to just omit that card?
+
+A: Some Formats may have restrictions on what can be included in Out-of-Game piles. In this case, if a card requires a pile, and you can’t make a legal pile for that format, then that card is illegal as well.
+
+
   
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
@@ -984,11 +988,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjk4NDU0LC01ODA1Mzg2NjMsLTE0Nj
-Q3MTYyNiw4OTc0MDYwMDgsLTU0MTk5MTY5OCwxMTIxOTg1OTcy
-LDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
-A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
-MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLD
-ExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2
-MDEyNThdfQ==
+eyJoaXN0b3J5IjpbMjA0MDkxMjQ5NiwtNTgwNTM4NjYzLC0xND
+Y0NzE2MjYsODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMTk4NTk3
+MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMxMTY3LD
+EwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NTkx
+NzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1My
+wxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5
+NjAxMjU4XX0=
 -->
