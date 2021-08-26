@@ -1089,7 +1089,7 @@ Dawn can’t start the game in a deck. Instead, if Buffy is your Main Character 
 
 If **Evil Scientist** moves a Supporting Character to your side, that side change is permanent. When the character gets KO'd, it will go to its owner's KO pile.
 
-At Level 2, while Deacon is melee attacking a Supporting Character, there are two likely results (unless the defender manages not to get stunned): If the defender gets KO'd, deacon Frost's **Vampire** will gan a vitality counter. And if the defender gets wounded but not KO'd, then his **Doppelgänger Powers** will give you a copy of that character.
+At Level 2, while Deacon is melee attacking a Supporting Character, there are two likely results (unless the defender manages not to get stunned): If the defender gets KO'd, deacon Frost's **Vampire** will gain a vitality counter. And if the defender gets wounded but not KO'd, then his **Doppelgänger Powers** will give you a copy of that character.
 
 ^ (Source: Rule Insert)
 
@@ -3214,11 +3214,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIzMjE5MjAsNDU4MTI0MjQ3LC0xMz
-kyMjIyNTI3LC02NDY1OTE2ODUsLTc3MDA0ODU2MiwyMDkwNzQy
-ODQzLC0xMzA5NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMi
-wtODkxMTczNzY0LC0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjEx
-NTQ4NjA1NywtMTgyMTM3NTM1MCwtMzY0NjczNCwxMzc2NTM5Nj
-E1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04
-MDgwMDY4MjhdfQ==
+eyJoaXN0b3J5IjpbMTg1NjE0OTY3MSwtMTkyMjMyMTkyMCw0NT
+gxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4
+NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNT
+QsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1
+NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0zNjQ2Nz
+M0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2
+MjU2NjM2NDldfQ==
 -->
