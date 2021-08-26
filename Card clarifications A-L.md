@@ -869,7 +869,7 @@ See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shif
 
 > When each of the following appears for the first time **while Colonists are face up** this game...
 
-Though this wasn't listed 
+Though this wasn't listed specifically in the [August 2021 Rules Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), this is congruent with the change to Mr. Fantastic and it was confirmed later via [Discord Post](https://discord.com/channels/306874195051020288/768614566594478080/880199894248333322).
 
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
 ^CardNumber: ^MFM-013
@@ -3214,11 +3214,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDY0MTg0MSw0NTgxMjQyNDcsLTEzOT
-IyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4
-NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC
-04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1
-NDg2MDU3LC0xODIxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MT
-UsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2MjU2NjM2NDksLTgw
-ODAwNjgyOF19
+eyJoaXN0b3J5IjpbLTE5MjIzMjE5MjAsNDU4MTI0MjQ3LC0xMz
+kyMjIyNTI3LC02NDY1OTE2ODUsLTc3MDA0ODU2MiwyMDkwNzQy
+ODQzLC0xMzA5NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMi
+wtODkxMTczNzY0LC0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjEx
+NTQ4NjA1NywtMTgyMTM3NTM1MCwtMzY0NjczNCwxMzc2NTM5Nj
+E1LC0xMzcxMzA0NTI0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04
+MDgwMDY4MjhdfQ==
 -->
