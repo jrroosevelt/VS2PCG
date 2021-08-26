@@ -1942,6 +1942,11 @@ A: Yes.
 
 ^(Source: UDE FAQ)
 
+---
+**Godslayer Blade** has received errata and now reads:
+
+> This turn, when Gamora stuns a character **by striking it in combat**, KO it.
+
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 ^CardNumber: ^TBB-043
 
@@ -3222,11 +3227,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDcyNTIyMiwxODU2MTQ5NjcxLC0xOT
-IyMzIxOTIwLDQ1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkx
-Njg1LC03NzAwNDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4Ny
-wtMTU0NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYx
-NzQ1ODI5OCwtNDU0MzAzMTg2LDIxMTU0ODYwNTcsLTE4MjEzNz
-UzNTAsLTM2NDY3MzQsMTM3NjUzOTYxNSwtMTM3MTMwNDUyNCwy
-MDQ2ODkxODE4XX0=
+eyJoaXN0b3J5IjpbMzYzOTE3ODMsMTg1NjE0OTY3MSwtMTkyMj
+MyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4
+NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLT
+E1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0
+NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1Mz
+UwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0
+Njg5MTgxOF19
 -->
