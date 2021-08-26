@@ -859,7 +859,7 @@ See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shif
 
 **Prepare for Colonization** gives **Swarm** to all characters you own, which means you no longer have to worry about your characters being KO'd due to uniqueness.
 
-**Watch and Learn** gives the Colonists 1 XP the first time an Academy appears in a resource row on any side. Th esame is true for the other three Locations mentioned.
+**Watch and Learn** gives the Colonists 1 XP the first time an Academy appears in a resource row on any side. The same is true for the other three Locations mentioned.
 
 ^(Source: Rule Insert)
 
@@ -3206,11 +3206,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNz
-cwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0
-MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOT
-gsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0z
-NjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MT
-gxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwy
-MjY3MDIyMjJdfQ==
+eyJoaXN0b3J5IjpbNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC02ND
+Y1OTE2ODUsLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMzA5NDM1
+MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTczNzY0LC
+0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1NywtMTgy
+MTM3NTM1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcxMzA0NT
+I0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4MjgsLTE2
+OTgxNDI2NDBdfQ==
 -->
