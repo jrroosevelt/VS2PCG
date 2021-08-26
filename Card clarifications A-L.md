@@ -1775,6 +1775,12 @@ Attacking a machine is a special type of attack declaration that can only be don
 
 ^(Source: Official Clarification)
 
+--- 
+
+Q: What if Fin Fang Foom is equipped with a Tranquilizer Gun and attacks a row. How does that work?
+
+A: 
+
 # [The First Evil](http://vs.tcgbrowser.com/images/cards/big/TBB-034.jpg) (MC) 
 ^CardNumber: ^TBB-034, ^TBB-035
 
@@ -3214,11 +3220,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjE0OTY3MSwtMTkyMjMyMTkyMCw0NT
-gxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4
-NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNT
-QsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1
-NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0zNjQ2Nz
-M0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2
-MjU2NjM2NDldfQ==
+eyJoaXN0b3J5IjpbLTE1MzIxOTQ4NzIsMTg1NjE0OTY3MSwtMT
+kyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5
+MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxOD
+csLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2
+MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMz
+c1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQs
+MjA0Njg5MTgxOF19
 -->
