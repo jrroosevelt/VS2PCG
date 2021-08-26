@@ -435,7 +435,9 @@ If you have any characters that can create an Invention (inventors) in your deck
 
 Q: Am I able to play inventions if a format makes one of the inventions illegal? For example, the It's All Good format makes Automaton illegal. Can I still play an inventor and just omit that card?
 
-A: As of the August 2021 Rules Update, you are now allowed to choose which cards to include in your invention pile. So, now you can leave out any cards that would be illegal for the format and can bring an invention pile. 
+A: As of the [August 2021 Rules Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), you are now allowed to choose which cards to include in your invention pile. So, now you can leave out any cards that would be illegal for the format and can bring an invention pile. 
+
+However, in general if a side pile would require you to bring a card that is illegal for a format, you would not be able to use the character that requires such a pile in that format.
 
 # Invisibility  
 At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
@@ -747,6 +749,10 @@ Side Stacks may include, but are not limited to, the following stacks (and cards
 - Ultron Facility Stack (Ultron MCU MC)
 
 - Wish Stack (Jenn)
+
+---
+
+Q: If I have a side pil
   
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
@@ -978,11 +984,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU3NTE1NDAsLTU4MDUzODY2MywtMT
-Q2NDcxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4LDExMjE5ODU5
-NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMTA5NjAzMTE2Ny
-wxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0MDgsMjE0NTU5
-MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLTEwNTYyMDE3NT
-MsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcyMTI1MTgsLTUx
-OTYwMTI1OF19
+eyJoaXN0b3J5IjpbMTUyNjk4NDU0LC01ODA1Mzg2NjMsLTE0Nj
+Q3MTYyNiw4OTc0MDYwMDgsLTU0MTk5MTY5OCwxMTIxOTg1OTcy
+LDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
+A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
+MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLD
+ExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2
+MDEyNThdfQ==
 -->
