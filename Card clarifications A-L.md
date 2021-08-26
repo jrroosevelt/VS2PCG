@@ -1947,6 +1947,8 @@ A: Yes.
 
 > This turn, when Gamora stuns a character **by striking it in combat**, KO it.
 
+^Source: [^2021 ^Rules ^Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
+
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 ^CardNumber: ^TBB-043
 
@@ -3227,11 +3229,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzOTE3ODMsMTg1NjE0OTY3MSwtMTkyMj
-MyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4
-NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLT
-E1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0
-NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1Mz
-UwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0
-Njg5MTgxOF19
+eyJoaXN0b3J5IjpbODIxNjgxNjg1LDE4NTYxNDk2NzEsLTE5Mj
+IzMjE5MjAsNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC02NDY1OTE2
+ODUsLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMzA5NDM1MTg3LC
+0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTczNzY0LC0xNjE3
+NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1NywtMTgyMTM3NT
+M1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcxMzA0NTI0LDIw
+NDY4OTE4MThdfQ==
 -->
