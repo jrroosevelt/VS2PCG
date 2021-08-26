@@ -863,6 +863,10 @@ See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shif
 
 ^(Source: Rule Insert)
 
+---
+
+
+
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
 ^CardNumber: ^MFM-013
 
@@ -3206,11 +3210,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC02ND
-Y1OTE2ODUsLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMzA5NDM1
-MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTczNzY0LC
-0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1NywtMTgy
-MTM3NTM1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcxMzA0NT
-I0LDIwNDY4OTE4MTgsNjI1NjYzNjQ5LC04MDgwMDY4MjgsLTE2
-OTgxNDI2NDBdfQ==
+eyJoaXN0b3J5IjpbMTc4MTI2NTQyOCw0NTgxMjQyNDcsLTEzOT
+IyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4
+NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC
+04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1
+NDg2MDU3LC0xODIxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MT
+UsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2MjU2NjM2NDksLTgw
+ODAwNjgyOF19
 -->
