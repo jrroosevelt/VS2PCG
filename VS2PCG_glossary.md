@@ -283,7 +283,8 @@ Equipment was always meant to only be equipped to face-up characters (excepting 
 ^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2019/07/vs-system-2pcg-card-errata-and-rules-changes-july-2019/)
 
 ---
-As of the 2021 Rules Update, Equipment no longer gra
+
+As of the [August 2021 Rules Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), Equipment no longer grants all of its powers to the equipped character. It only grants the powers that it specifically states. (For example, "Equipped character has [Flight].")
 
 # Eternal  
 If this character would leave play, you may put them into their owner's hand instead.  
@@ -990,7 +991,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzY2MjY0LC01ODA1Mzg2NjMsLTE0Nj
+eyJoaXN0b3J5IjpbNTE5MzA3OTcxLC01ODA1Mzg2NjMsLTE0Nj
 Q3MTYyNiw4OTc0MDYwMDgsLTU0MTk5MTY5OCwxMTIxOTg1OTcy
 LDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
 A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
