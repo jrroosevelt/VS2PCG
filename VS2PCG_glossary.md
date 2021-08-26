@@ -251,7 +251,7 @@ This character cannot be Range attacked
 
 # Duplicate  
 A Duplicate has all the same printed characteristics as your Main Character – name, team, current Level, and powers with an ATK/DEF of 0/1 and 1 Health – plus it has Swarm and it can’t gain XP, can’t Level up or Level Down, transform, or otherwise become a different card. When it’s KO’d it will go back to being the Parallel Dimension Plot Twist in your KO pile.  
-  
+
 
 # Durable  
 If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
@@ -988,11 +988,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mzg0NjI1MSwtNTgwNTM4NjYzLC0xND
-Y0NzE2MjYsODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMTk4NTk3
-MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMxMTY3LD
-EwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NTkx
-NzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1My
-wxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5
-NjAxMjU4XX0=
+eyJoaXN0b3J5IjpbLTE0OTk3MjkzMDEsLTU4MDUzODY2MywtMT
+Q2NDcxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4LDExMjE5ODU5
+NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMTA5NjAzMTE2Ny
+wxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0MDgsMjE0NTU5
+MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLTEwNTYyMDE3NT
+MsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcyMTI1MTgsLTUx
+OTYwMTI1OF19
 -->
