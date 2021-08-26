@@ -399,7 +399,6 @@ For a full breakdown, see the [Sinister Syndicate Special Location Secret Hideou
 
 # Hunter  
 This character gets +3 ATK while attacking.  
-  
 
 # Immobile  
  This character can't move during the formation step.  
@@ -991,11 +990,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MzA3OTcxLC01ODA1Mzg2NjMsLTE0Nj
-Q3MTYyNiw4OTc0MDYwMDgsLTU0MTk5MTY5OCwxMTIxOTg1OTcy
-LDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
-A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
-MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLD
-ExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2
-MDEyNThdfQ==
+eyJoaXN0b3J5IjpbLTQyNjEyNjk1NSwtNTgwNTM4NjYzLC0xND
+Y0NzE2MjYsODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMTk4NTk3
+MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMxMTY3LD
+EwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NTkx
+NzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1My
+wxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5
+NjAxMjU4XX0=
 -->
