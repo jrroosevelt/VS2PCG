@@ -1779,7 +1779,9 @@ Attacking a machine is a special type of attack declaration that can only be don
 
 Q: What if Fin Fang Foom is equipped with a Tranquilizer Gun and attacks a row. How does that work?
 
-A: 
+A: When FFF makes a ranged attack against a row with an equipped Tranquilizer Gun, Tranquilizer Gun's power will trigger once for each defending character that has a super power. Then on each resolution, you'll decide whether or not to stun that particular character with a super power.
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/877341842792931338)
 
 # [The First Evil](http://vs.tcgbrowser.com/images/cards/big/TBB-034.jpg) (MC) 
 ^CardNumber: ^TBB-034, ^TBB-035
@@ -3220,11 +3222,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIxOTQ4NzIsMTg1NjE0OTY3MSwtMT
-kyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5
-MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxOD
-csLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2
-MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMz
-c1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQs
-MjA0Njg5MTgxOF19
+eyJoaXN0b3J5IjpbMTI1MDcyNTIyMiwxODU2MTQ5NjcxLC0xOT
+IyMzIxOTIwLDQ1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkx
+Njg1LC03NzAwNDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4Ny
+wtMTU0NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYx
+NzQ1ODI5OCwtNDU0MzAzMTg2LDIxMTU0ODYwNTcsLTE4MjEzNz
+UzNTAsLTM2NDY3MzQsMTM3NjUzOTYxNSwtMTM3MTMwNDUyNCwy
+MDQ2ODkxODE4XX0=
 -->
