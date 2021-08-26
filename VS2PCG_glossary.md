@@ -252,7 +252,6 @@ This character cannot be Range attacked
 # Duplicate  
 A Duplicate has all the same printed characteristics as your Main Character – name, team, current Level, and powers with an ATK/DEF of 0/1 and 1 Health – plus it has Swarm and it can’t gain XP, can’t Level up or Level Down, transform, or otherwise become a different card. When it’s KO’d it will go back to being the Parallel Dimension Plot Twist in your KO pile.  
 
-
 # Durable  
 If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
 
@@ -263,7 +262,7 @@ This applies to anything opposing you. An enemy player is your opponent. An enem
 A character enters combat when they become an attacker or defender. This is typically when the attack is initially declared. However, certain card effects can change when this occurs. For example, when Uncanny Defense is played, the new defender "enters combat" at that point. Other cards that change when a character enters combat include, but are not limited to: Dramatic Entrance, Gadget, Captain America (S.H.I.E.L.D. SC), and Superior Spider Man (MC). 
 
 # Equipment
-Equipment is a type of card that is attached to character and gives it powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
+Equipment is a type of card that is attached to character and may grant it powers, may grant the character stat changes, or may have its own powers. During your turn you can put Equipment cards onto your characters by paying the cost just like a character. Just like an affiliated plot-twist, you can only play an equipment if you have a face-up character with the matching team/brand affiliation; however that equipment can go on any character you control. See [Playing Equipment in the Official Rules](https://docs.google.com/document/u/0/d/1nF6Wh6sNSTgopLu9-3p4P58LSq-pC-bxInOnBTvhRwc/mobilebasic#h.aexu5x31ppi) for more information.
 
 --- 
 
@@ -282,6 +281,9 @@ Equipment was always meant to only be equipped to face-up characters (excepting 
 *Equipment can never be on a face-down character. If an effect would attempt to do this, ignore that part of the effect.*
 
 ^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2019/07/vs-system-2pcg-card-errata-and-rules-changes-july-2019/)
+
+---
+As of the 2021 Rules Update, Equipment no longer gra
 
 # Eternal  
 If this character would leave play, you may put them into their owner's hand instead.  
@@ -988,11 +990,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk3MjkzMDEsLTU4MDUzODY2MywtMT
-Q2NDcxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4LDExMjE5ODU5
-NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMTA5NjAzMTE2Ny
-wxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0MDgsMjE0NTU5
-MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLTEwNTYyMDE3NT
-MsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcyMTI1MTgsLTUx
-OTYwMTI1OF19
+eyJoaXN0b3J5IjpbNTUyMzY2MjY0LC01ODA1Mzg2NjMsLTE0Nj
+Q3MTYyNiw4OTc0MDYwMDgsLTU0MTk5MTY5OCwxMTIxOTg1OTcy
+LDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLTEwOTYwMzExNjcsMT
+A3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3NDA4LDIxNDU1OTE3
+MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC0xMDU2MjAxNzUzLD
+ExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3MjEyNTE4LC01MTk2
+MDEyNThdfQ==
 -->
