@@ -425,7 +425,7 @@ If you have any characters that can create an Invention (inventors) in your deck
 * Invention piles are secret (only you know their contents).  
   
 * The Invention pile is a variable side pile. It may contain copies of each Invention card without a team affiliation and copies of each Invention card that shares a team affiliation with an inventor in your deck.  
-	* Note: This was updated as part of the 
+	* [Note: This was updated as part of the August 2021 rules update.](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
   
 * The quantity of each card is equal to its Invention number (the number in parentheses after Invention).  
   
@@ -982,11 +982,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NTQyMjQsLTU4MDUzODY2MywtMTQ2ND
-cxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4LDExMjE5ODU5NzIs
-MTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMTA5NjAzMTE2NywxMD
-cyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcy
-MywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLTEwNTYyMDE3NTMsMT
-ExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcyMTI1MTgsLTUxOTYw
-MTI1OF19
+eyJoaXN0b3J5IjpbLTE2MjExMjg1NzYsLTU4MDUzODY2MywtMT
+Q2NDcxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4LDExMjE5ODU5
+NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMTA5NjAzMTE2Ny
+wxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0MDgsMjE0NTU5
+MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLTEwNTYyMDE3NT
+MsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcyMTI1MTgsLTUx
+OTYwMTI1OF19
 -->
