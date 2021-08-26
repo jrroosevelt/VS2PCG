@@ -152,7 +152,7 @@ If a character references itself in its text box, those references will also use
 
 *Set: Resistance*  
 
-When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to becomehim normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
+When Angel levels up, he transforms into [Archangel](#wiki_archangel). When this happens, he keeps his orientation (ready/exhausted, face-up/face-down), all of his counters, and any effects on him. Also note Archangel doesn’t have a Level 1 version. The only way to become him normally is to start the game with (Resistance) Level 1 Angel as your Main Character.
 
 ^(Source: Rule insert)
 
@@ -3206,11 +3206,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOT
-A3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEz
-NzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4Ni
-wyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1
-Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MTgxOCw2MjU2NjM2ND
-ksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwyMjY3MDIyMjIsNjg0
-MDgwODc1XX0=
+eyJoaXN0b3J5IjpbLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNz
+cwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0
+MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOT
+gsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0z
+NjQ2NzM0LDEzNzY1Mzk2MTUsLTEzNzEzMDQ1MjQsMjA0Njg5MT
+gxOCw2MjU2NjM2NDksLTgwODAwNjgyOCwtMTY5ODE0MjY0MCwy
+MjY3MDIyMjJdfQ==
 -->
