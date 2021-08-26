@@ -435,11 +435,7 @@ If you have any characters that can create an Invention (inventors) in your deck
 
 Q: Am I able to play inventions if a format makes one of the inventions illegal? For example, the It's All Good format makes Automaton illegal. Can I still play an inventor and just omit that card?
 
-A: Rules as written are that all invention piles must include inventions able to be invited by the inventors in your deck. Because of Automaton, this disqualifies inventors from certain formats [like It's All Good]. However the rules for the Invention pile have been updated making it optional to include each Invention. So for example, you could leave out Automaton in order to have an Invention pile in the It's All Good format.  
-  
-The update is present in the rules revision post when it gets cleared to be posted. Feel free to have your TO make the judgment call on legality of inventions in their event.
-
-^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/870453889453928499)
+A: As of the August 2021 Rules Update, you are now allowed to choose which cards to include in your invention pile. So, now you can leave out any cards that would be illegal for the format and can bring an invention pile. 
 
 # Invisibility  
 At the end of your turn, if this character is ready, you may [hide](/r/VS2PCG/wiki/glossary#wiki_hide) her.  
@@ -982,7 +978,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjExMjg1NzYsLTU4MDUzODY2MywtMT
+eyJoaXN0b3J5IjpbLTIxNDU3NTE1NDAsLTU4MDUzODY2MywtMT
 Q2NDcxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4LDExMjE5ODU5
 NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMTA5NjAzMTE2Ny
 wxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0MDgsMjE0NTU5
