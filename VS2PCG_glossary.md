@@ -756,7 +756,7 @@ Q: If I have a side pile that would require me to bring a card that is illegal f
 
 A: Some Formats may have restrictions on what can be included in Out-of-Game piles. In this case, if a card requires a pile, and you can’t make a legal pile for that format, then that card is illegal as well.
 
-
+^Source: [^2021 ^Rule ^Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
   
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
@@ -988,7 +988,7 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDkxMjQ5NiwtNTgwNTM4NjYzLC0xND
+eyJoaXN0b3J5IjpbMTE5Mzg0NjI1MSwtNTgwNTM4NjYzLC0xND
 Y0NzE2MjYsODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMTk4NTk3
 MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMxMTY3LD
 EwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NTkx
