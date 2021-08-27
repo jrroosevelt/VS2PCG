@@ -74,7 +74,7 @@ Q: Do I have to reveal the Hound when I recruit it?
 
 A: Yes. When Ahab appears, choose a Hound, reveal it to all other players, and then put it into your hand.
 
-^Source: ^Upper ^Deck ^Blog
+^Source: [^Upper ^Deck ^Blog](https://www.upperdeckblog.com/2020/07/vs-system-2pcg-futures-past-card-preview-a-dark-future-for-mutantkind/)
 
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 ^CardNumber: ^MFM-012
@@ -3237,7 +3237,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Nzk3MTEzNyw4MjE2ODE2ODUsMTg1Nj
+eyJoaXN0b3J5IjpbMTMzMTU5MTU5Miw4MjE2ODE2ODUsMTg1Nj
 E0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1
 MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLT
 EzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTEx
