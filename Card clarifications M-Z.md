@@ -24,15 +24,15 @@ Q: If I want to use a wild location to pay for the Super Power granted by Equipm
 
 A: Since the equipped character pays for the power, any wild location will need to match the equipped character's team affiliation.
 
-^
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
 
 ---
 
 Q: Does using the **M-40 Grenade** ability count as that character causing the stun (if it stuns?)
 
-A: When equipped the Character gains the abilities, so they are the ones doing them. If the -3/-3 stuns a character they would get credit. Also if they are looking for credit KOing a character and the -3/-3 KOs them, they get credit for the KO.
+A: The equipped character gets credit if an equipment power stuns a character. If the -3/-3 stuns a character they would get credit. Also if they are looking for credit KOing a character and the -3/-3 KOs them, they get credit for the KO.
 
-^(Source: FB Post - Kirk Buckendorf)
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
 
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 ^CardNumber: ^FAN-040
@@ -3198,11 +3198,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI5NTg4MjUsLTE1NjI3NDk0MDYsLT
-E5OTkyODEwMjYsLTQzMzc2NDg0MywtNjQzMjg3NDM5LDIwNDAx
-NDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2Mj
-I5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwNDM5
-Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4MjgxMT
-Q5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIx
-MDU1NjU2MDRdfQ==
+eyJoaXN0b3J5IjpbLTI2MjI1ODExMCwtMTU2Mjc0OTQwNiwtMT
+k5OTI4MTAyNiwtNDMzNzY0ODQzLC02NDMyODc0MzksMjA0MDE0
+MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYyMj
+ksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0Mzkz
+OTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODExND
+ksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcxOSwtMjEw
+NTU2NTYwNF19
 -->
