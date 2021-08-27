@@ -997,7 +997,7 @@ Because this is now classified as a continuous modifier it means that it will im
 
 It also means that when Grid steals a Nullifier it continues to work, targeting *enemy* characters. This turns the Nullifier against the player who played it.
 
-^(Source: FB Post - Benjamin Brozene)
+However, as of the [August 2021 Rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), because Equipment powers are no longer all granted to the equipped character, you can no longer target **Ultimate Nullification** with another Nullifier, Cosmo, or any other card that specifically targets powers on characters.
 
 # [Observe and Adapt](http://vs.tcgbrowser.com/images/cards/big/FAN-055.jpg)
 ^CardNumber: ^FAN-055
@@ -3208,11 +3208,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDAwNjIxNCw1OTcxMDEzNzIsNDE4Nz
-c5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5MjgxMDI2LC00MzM3NjQ4
-NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMDI5OTMzNDYsLT
-E3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIwMjYsNzUwMzAw
-OTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMDk0Njg1NDE0LD
-k1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1ODMsMTM4ODky
-NTkxMV19
+eyJoaXN0b3J5IjpbNDMzOTQ0MzA5LDU5NzEwMTM3Miw0MTg3Nz
+kwOTgsLTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLTQzMzc2NDg0
+MywtNjQzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMT
+c5MjU3NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5
+NiwxNjYyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOT
+UwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1
+OTExXX0=
 -->
