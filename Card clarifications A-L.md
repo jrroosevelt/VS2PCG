@@ -2223,7 +2223,7 @@ A: If his power is still turned off when he recovers, he becomes a 0/0 again and
 
 *Set: Cosmic Avengers*  
 
-Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists set to the side. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PlLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
+Hawkeye's **Custom Quiver** means he starts the game with his 4 different Custom Arrows Plot Twists in his Quiver Pile. Once he's level 2, you may use **I Am the Weapon** to draw a random **Custom Arrows** card each turn. Once a custom Arrow card is in your hand, it acts just like a regular Plot Twist. Note that to be able to play any of them, Hawkeye must be face-up on your side, but for the Combat PlLot Twists he doesn't have to be in the combat himself (he can shoot really far). 
 
 Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, you *can* move the enemy equipment to an unequipped character on your side. Some of Hawkeye's **Custom Arrows** Have keywords and terms that aren't explained in full on them: 
 
@@ -2236,6 +2236,10 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 
 
 ^(Source: Rule insert)
+
+---
+
+As of the August 2021 Rules update, Hawkeye has errata so that his quiv
 
 ---
 
@@ -3237,11 +3241,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTU5MTU5Miw4MjE2ODE2ODUsMTg1Nj
-E0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1
-MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLT
-EzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTEx
-NzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MD
-U3LC0xODIxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEz
-NzEzMDQ1MjRdfQ==
+eyJoaXN0b3J5IjpbLTU1Mzc4MjM3OCwxMzMxNTkxNTkyLDgyMT
+Y4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIxOTIwLDQ1ODEyNDI0
+NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC03NzAwNDg1NjIsMj
+A5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNjE1NCwxMjAx
+MTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwtNDU0MzAzMT
+g2LDIxMTU0ODYwNTcsLTE4MjEzNzUzNTAsLTM2NDY3MzQsMTM3
+NjUzOTYxNV19
 -->
