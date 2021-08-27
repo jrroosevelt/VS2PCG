@@ -972,7 +972,7 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 ---
 
-Editor's note: Some of the following information below can be confusing out of context of the [August 2021 Rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/). Please also refer to this Build Phase A
+Editor's note: Some of the following information below can be confusing out of context of the [August 2021 Rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/). Please also refer to [this Build Phase Article for further clarification](https://www.thebuildphasenetwork.com/articleblog/digesting-2021-equip-rules).
 
 ---
 
@@ -1028,7 +1028,7 @@ Odin actually starts off as his most powerful self at Level 1. but after a few t
 # [Omega Machine](http://vs.tcgbrowser.com/images/cards/big/TUB-054.jpg) Components 
 ^CardNumber: ^TUB-054, ^TUB-055, ^TUB-056, ^TUB-057
 
-These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character with in order to play them.
+These are four different One of a Kind Equipment that have the same name. Unlike characters, Equipment are not unique so you can have any number with same name in play at the same time. Because these have the (H.A.M.M.E.R.) symbol, you must have a face-up character in order to play them.
 
 ^(Source: Rule insert)
 
@@ -1048,6 +1048,10 @@ The phrase “could melee attack” means Omega Red can legally attack that char
 ^CardNumber: ^LEG-035
 
 *Set: Legacy*  
+
+---
+
+
 
 **Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
@@ -3212,7 +3216,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTI1OTEyMiw1OTcxMDEzNzIsNDE4Nz
+eyJoaXN0b3J5IjpbLTQyMDQ3NTYwOCw1OTcxMDEzNzIsNDE4Nz
 c5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5MjgxMDI2LC00MzM3NjQ4
 NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMDI5OTMzNDYsLT
 E3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIwMjYsNzUwMzAw
