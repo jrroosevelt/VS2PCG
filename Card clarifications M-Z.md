@@ -7,7 +7,7 @@
 
 Q: Are equipment powers separate from character powers. Ex. Does Cosmo shut off the equipment on the character?
 
-A: This has been changed as of the August 2021 Rules update. Powers are no longer assigned to the character the equipment is attached to (with some exceptions). See also this article for a full explanation.
+A: This has been changed as of the [August 2021 Rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/). Powers are no longer assigned to the character the equipment is attached to (with some exceptions). See also [this article for a full explanation](https://www.thebuildphasenetwork.com/articleblog/digesting-2021-equip-rules).
 
 ---
 
@@ -22,9 +22,9 @@ So the character has the power and the character is using it, so yes, this would
 
 Q: If I want to use a wild location to pay for the Super Power granted by Equipment, which one do I need to use?
 
-A: Since the character has the power, any wild location will need to match the character's team affiliation.
+A: Since the equipped character pays for the power, any wild location will need to match the equipped character's team affiliation.
 
-^(Source: FB Post - Chad Daniel)
+^
 
 ---
 
@@ -3198,11 +3198,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjY1NTQ0MCwtMTU2Mjc0OTQwNiwtMT
-k5OTI4MTAyNiwtNDMzNzY0ODQzLC02NDMyODc0MzksMjA0MDE0
-MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYyMj
-ksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0Mzkz
-OTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODExND
-ksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcxOSwtMjEw
-NTU2NTYwNF19
+eyJoaXN0b3J5IjpbLTEyNDI5NTg4MjUsLTE1NjI3NDk0MDYsLT
+E5OTkyODEwMjYsLTQzMzc2NDg0MywtNjQzMjg3NDM5LDIwNDAx
+NDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2Mj
+I5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwNDM5
+Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4MjgxMT
+Q5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIx
+MDU1NjU2MDRdfQ==
 -->
