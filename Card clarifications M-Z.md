@@ -995,7 +995,7 @@ First, the Nullifier does two things: A triggered power when it appears (you nam
 
 Because this is now classified as a continuous modifier it means that it will impact characters played after the Nullifier entered play.
 
-It also means that the Nullifier can now be Nullified. Cosmo or an opposing Nullifier can now Nullify the continuous modifier. It also means that when Grid steals a Nullifier it continues to work, targeting *enemy* characters. This turns the Nullifier against the player who played it.
+It also means that when Grid steals a Nullifier it continues to work, targeting *enemy* characters. This turns the Nullifier against the player who played it.
 
 ^(Source: FB Post - Benjamin Brozene)
 
@@ -3208,7 +3208,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDM0ODk3Myw1OTcxMDEzNzIsNDE4Nz
+eyJoaXN0b3J5IjpbLTM1MDAwNjIxNCw1OTcxMDEzNzIsNDE4Nz
 c5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5MjgxMDI2LC00MzM3NjQ4
 NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMDI5OTMzNDYsLT
 E3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIwMjYsNzUwMzAw
