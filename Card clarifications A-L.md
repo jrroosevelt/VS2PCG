@@ -68,6 +68,14 @@ You start the game with a private out-of-game Hound pile. The pile must contain 
 
 ^(Source: Rule Insert)
 
+---
+
+Q: Do I have to reveal the Hound when I recruit it?
+
+A: Yes. When Ahab appears, choose a Hound, reveal it to all other players, and then put it into your hand.
+
+^Source: ^Upper ^Deck ^Blog
+
 # [Ajax](http://vs.tcgbrowser.com/images/cards/big/MFM-012.jpg)
 ^CardNumber: ^MFM-012
 
@@ -3229,11 +3237,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNjgxNjg1LDE4NTYxNDk2NzEsLTE5Mj
-IzMjE5MjAsNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC02NDY1OTE2
-ODUsLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMzA5NDM1MTg3LC
-0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTczNzY0LC0xNjE3
-NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1NywtMTgyMTM3NT
-M1MCwtMzY0NjczNCwxMzc2NTM5NjE1LC0xMzcxMzA0NTI0LDIw
-NDY4OTE4MThdfQ==
+eyJoaXN0b3J5IjpbMTE0Nzk3MTEzNyw4MjE2ODE2ODUsMTg1Nj
+E0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1
+MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLT
+EzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTEx
+NzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MD
+U3LC0xODIxMzc1MzUwLC0zNjQ2NzM0LDEzNzY1Mzk2MTUsLTEz
+NzEzMDQ1MjRdfQ==
 -->
