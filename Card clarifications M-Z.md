@@ -200,7 +200,7 @@ Masacre es el Deadpool de México, por eso el texto de su juego está escrito en
 
 *Set: Crossover vol. 2*  
 
-When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you mach choose to play a random card from your Tactics pile. If you do, follow the instructions under its Tactic. Then put the card into your KO pile. When Mastermind leaves play, you'll leave your Tactics pile where it is. A player can only have one Tactics pile at a time. Later, if Mastermind appears on your side again, and you can (and want to) add more Tactics from your hand or deck, add them to your existing Tactics pile. Note: One of Mastermind's Tactics sets an attacker's ATK to 0 this combat. That character can still gain ATK later in the combat.
+When Mastermind appears, you'll create a Tactics pile made of any number of other Masterminds you have in your deck and hand. (Note: You don't have to put every Mastermind from your hand and/or deck into your Tactics pile.) Tactics piles are public. When Mastermind gets attacked, you may choose to play a random card from your Tactics pile. If you do, follow the instructions under its Tactic. Then put the card into your KO pile. When Mastermind leaves play, you'll leave your Tactics pile where it is. A player can only have one Tactics pile at a time. Later, if Mastermind appears on your side again, and you can (and want to) add more Tactics from your hand or deck, add them to your existing Tactics pile. Note: One of Mastermind's Tactics sets an attacker's ATK to 0 this combat. That character can still gain ATK later in the combat.
 
 ^(Source: Rule insert)
 
@@ -3198,11 +3198,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjI1ODExMCwtMTU2Mjc0OTQwNiwtMT
-k5OTI4MTAyNiwtNDMzNzY0ODQzLC02NDMyODc0MzksMjA0MDE0
-MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYyMj
-ksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0Mzkz
-OTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODExND
-ksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcxOSwtMjEw
-NTU2NTYwNF19
+eyJoaXN0b3J5IjpbNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2LC0xOT
+k5MjgxMDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMDQwMTQx
+OTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOS
+w4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5
+NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OS
+wxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1
+NTY1NjA0XX0=
 -->
