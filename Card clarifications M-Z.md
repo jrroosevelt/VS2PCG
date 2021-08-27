@@ -7,10 +7,7 @@
 
 Q: Are equipment powers separate from character powers. Ex. Does Cosmo shut off the equipment on the character?
 
-A: "The Equipment gives the character new powers and will stay with it until that character gets stunned or leaves play."    
-Since the equipment is giving the powers to the character, it would be prevented or turned off by **Nullify**.
-
-^(Source: FB Post - Chad Daniel)
+A: This has been changed as of the August 2021 Rules update. Powers are no longer assigned to the character the equipment is attached to (with some exceptions). See also this article for a full explanation.
 
 ---
 
@@ -3201,11 +3198,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLT
-QzMzc2NDg0MywtNjQzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5
-MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNi
-w3NTAzMDA5NiwxNjYyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2
-ODU0MTQsOTUwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1MjE1MTU4My
-wxMzg4OTI1OTExLDE0MTg0Mzc3MTksLTIxMDU1NjU2MDQsLTE1
-NjA5NzI5MjBdfQ==
+eyJoaXN0b3J5IjpbMTYzNjY1NTQ0MCwtMTU2Mjc0OTQwNiwtMT
+k5OTI4MTAyNiwtNDMzNzY0ODQzLC02NDMyODc0MzksMjA0MDE0
+MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYyMj
+ksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0Mzkz
+OTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODExND
+ksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQzNzcxOSwtMjEw
+NTU2NTYwNF19
 -->
