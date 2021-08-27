@@ -1051,7 +1051,11 @@ The phrase “could melee attack” means Omega Red can legally attack that char
 
 ---
 
+This card has received errata in the [August 2021 Rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/) and now reads:
 
+> When you recruit Onslaught, each player reveals cards from the top of their deck until they reveal a character other than Onslaught. Remove those characters from the game and shuffle the remaining cards into those decks. Onslaught has the printed powers of the removed cards and base stats equal to their total printed ATK, total printed DEF, and total printed [Health].
+
+---
 
 **Joint Consciousness**  
 Onslaught’s power occurs when you pay to recruit him, but before he appears. This way he will trigger any “appears” powers on cards he removed from the game.
@@ -3216,7 +3220,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDQ3NTYwOCw1OTcxMDEzNzIsNDE4Nz
+eyJoaXN0b3J5IjpbLTc2ODQ2NDczOSw1OTcxMDEzNzIsNDE4Nz
 c5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5MjgxMDI2LC00MzM3NjQ4
 NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMDI5OTMzNDYsLT
 E3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIwMjYsNzUwMzAw
