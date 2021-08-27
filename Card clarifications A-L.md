@@ -2499,8 +2499,6 @@ The In-Betweener couldn't decide exactly how much cost, ATK, DEF, and health to 
 
 ^(Source: Rule insert)
 
-^(Source: Rule insert)
-
 # [The Infinity Gauntlet](http://vs.tcgbrowser.com/images/cards/big/BLK-017.jpg)
 ^CardNumber: ^BLK-017
 
@@ -3241,11 +3239,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0NzU3ODYzLC01NTM3ODIzNzgsMTMzMT
-U5MTU5Miw4MjE2ODE2ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTky
-MCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNz
-cwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0
-MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOT
-gsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0z
-NjQ2NzM0XX0=
+eyJoaXN0b3J5IjpbLTIwODk3MjIyNzAsLTU1Mzc4MjM3OCwxMz
+MxNTkxNTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIx
+OTIwLDQ1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC
+03NzAwNDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0
+NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1OD
+I5OCwtNDU0MzAzMTg2LDIxMTU0ODYwNTcsLTE4MjEzNzUzNTAs
+LTM2NDY3MzRdfQ==
 -->
