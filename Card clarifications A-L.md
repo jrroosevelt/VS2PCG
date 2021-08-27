@@ -2239,7 +2239,7 @@ Please note that if you choose **Magnetic** on the **Utility Arrowheads** card, 
 
 ---
 
-As of the August 2021 Rules update, Hawkeye has errata so that his quiv
+As of the [August 2021 Rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), Hawkeye has errata so that his "Quiver Pile" is officially a side pile.
 
 ---
 
@@ -3241,11 +3241,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mzc4MjM3OCwxMzMxNTkxNTkyLDgyMT
-Y4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIxOTIwLDQ1ODEyNDI0
-NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC03NzAwNDg1NjIsMj
-A5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNjE1NCwxMjAx
-MTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwtNDU0MzAzMT
-g2LDIxMTU0ODYwNTcsLTE4MjEzNzUzNTAsLTM2NDY3MzQsMTM3
-NjUzOTYxNV19
+eyJoaXN0b3J5IjpbMzY0NzU3ODYzLC01NTM3ODIzNzgsMTMzMT
+U5MTU5Miw4MjE2ODE2ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTky
+MCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNz
+cwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0
+MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOT
+gsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0xODIxMzc1MzUwLC0z
+NjQ2NzM0XX0=
 -->
