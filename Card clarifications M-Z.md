@@ -777,7 +777,7 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 
 **Thanos's Greatest Creation** prevents Nebula from having keyword or super powers other than **Passive** (and **Thanos's Greatest Creation**, of course). This includes any granted by an equipment, too.
 
-**Editor's note:** As of the August 2021 rules update, there is a slight clarification here. If Nebula would be granted a power by the equipment (such as if the equipment says, "Equipped character has  ![](%%Flight%%) 
+**Editor's note:** As of the [August 2021 rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), there is a slight clarification here. If Nebula would be granted a power by the equipment (such as if the equipment says, "Equipped character has  ![](%%Flight%%)  (Flight)"), the above note still applies. However, other powers on the equipment remain on the equipment and aren't actually granted to the equipped character. See [this article for further clarification](https://www.thebuildphasenetwork.com/articleblog/digesting-2021-equip-rules).
 
 Her **Revenge!** power works the say way, but for Thanos, of course.
 
@@ -3200,11 +3200,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA2NzQxMTcsNDE4Nzc5MDk4LC0xNT
-YyNzQ5NDA2LC0xOTk5MjgxMDI2LC00MzM3NjQ4NDMsLTY0MzI4
-NzQzOSwyMDQwMTQxOTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2My
-wtMjA2MzczNjIyOSw4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5
-MzY2NCwyMDQzOTM5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMS
-wtMTI3ODI4MTE0OSwxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4
-NDM3NzE5XX0=
+eyJoaXN0b3J5IjpbNTk3MTAxMzcyLDQxODc3OTA5OCwtMTU2Mj
+c0OTQwNiwtMTk5OTI4MTAyNiwtNDMzNzY0ODQzLC02NDMyODc0
+MzksMjA0MDE0MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLT
+IwNjM3MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2
+NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLT
+EyNzgyODExNDksMTUyMTUxNTgzLDEzODg5MjU5MTEsMTQxODQz
+NzcxOV19
 -->
