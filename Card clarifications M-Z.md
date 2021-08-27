@@ -834,6 +834,8 @@ Q: Can I Daze a face down character with Net Launcher-equipped Gamora who has **
 
 A: This ruling has changed as of the [August 2021 Rules update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/).  Dazing the character will no longer activate **Godslayer Blade**
 
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
+
 ---
 
 This card has received errata and now reads:
@@ -842,7 +844,7 @@ This card has received errata and now reads:
 
 **Explanation:** This change is to avoid Gamora using an out-of-combat stun (including a daze) to KO a main character.
 
-
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
 
 # [The Newborn](http://vs.tcgbrowser.com/images/cards/big/ALN-033.jpg)
 ^CardNumber: ^ALN-033
@@ -3206,11 +3208,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3MDU1NTI3LDU5NzEwMTM3Miw0MTg3Nz
-kwOTgsLTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLTQzMzc2NDg0
-MywtNjQzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMT
-c5MjU3NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5
-NiwxNjYyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOT
-UwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1
-OTExXX0=
+eyJoaXN0b3J5IjpbMTgwNDM0ODk3Myw1OTcxMDEzNzIsNDE4Nz
+c5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5MjgxMDI2LC00MzM3NjQ4
+NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMDI5OTMzNDYsLT
+E3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIwMjYsNzUwMzAw
+OTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC0yMDk0Njg1NDE0LD
+k1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIxNTE1ODMsMTM4ODky
+NTkxMV19
 -->
