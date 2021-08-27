@@ -1695,6 +1695,7 @@ Once he’s Level 2, if he would be wounded, there’s a chance it was just a cl
 Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character to become immobilized indefinitely. This effect lasts even after Scarlet Spider leaves play. (It will end once the immobilized character leaves play.)
 
 ^(Source: Rule insert)
+
 # Scarlet Witch
 ## [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
 ^CardNumber: ^MCU5-012, ^MCU5-013
@@ -3220,7 +3221,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODQ2NDczOSw1OTcxMDEzNzIsNDE4Nz
+eyJoaXN0b3J5IjpbLTU4Mzk1ODEzMyw1OTcxMDEzNzIsNDE4Nz
 c5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5MjgxMDI2LC00MzM3NjQ4
 NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LDEzMDI5OTMzNDYsLT
 E3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAwMTIwMjYsNzUwMzAw
