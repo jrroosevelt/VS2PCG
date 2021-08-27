@@ -775,7 +775,7 @@ Namor All three of Namor’s **Rage** powers DO count face-down exhausted enemy 
 
 *Set: Black Order*  
 
-**Thanos's Greatest Creation** prevents Nebula from having keyword or super powers other than **Passive** (and **Thanos's Greatest Creation**, of course). This includes any granted by an equipment, too. 
+**Thanos's Greatest Creation** prevents Nebula from having keyword or super powers other than **Passive** (and **Thanos's Greatest Creation**, of course). ~~This includes any granted by an equipment, too.
 
 Her **Revenge!** power works the say way, but for Thanos, of course.
 
@@ -3198,11 +3198,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2LC0xOT
-k5MjgxMDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMDQwMTQx
-OTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOS
-w4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5
-NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OS
-wxNTIxNTE1ODMsMTM4ODkyNTkxMSwxNDE4NDM3NzE5LC0yMTA1
-NTY1NjA0XX0=
+eyJoaXN0b3J5IjpbMTM5OTA1NjQwNiw0MTg3NzkwOTgsLTE1Nj
+I3NDk0MDYsLTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNjQzMjg3
+NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC
+0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkz
+NjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC
+0xMjc4MjgxMTQ5LDE1MjE1MTU4MywxMzg4OTI1OTExLDE0MTg0
+Mzc3MTldfQ==
 -->
