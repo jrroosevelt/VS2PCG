@@ -1455,7 +1455,15 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 ^(Source: Rule insert)
 
 # Ripley #8
-^CardNumber: ^ALN-007, ALN-039
+^CardNumber: ^ALN-007, ^ALN-008
+
+*Set: The Alien Battles*
+
+Q: How does Ripley #8 interact with Dagger? 
+
+A: The short answer is this:
+
+- 
 
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
@@ -3225,7 +3233,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE0MzExODgsLTU4Mzk1ODEzMyw1OT
+eyJoaXN0b3J5IjpbLTE2NzkzMjE0MDcsLTU4Mzk1ODEzMyw1OT
 cxMDEzNzIsNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5Mjgx
 MDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LD
 EzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAw
