@@ -1459,12 +1459,12 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 
 *Set: The Alien Battles*
 
-Q: How does Ripley #8 interact with Dagger? 
+Q: How does Ripley #8's **Acidic Blood** interact with Dagger? 
 
 A: The short answer is this:
 
-- 
-
+ 1. When you trigger her ability, you still have to choose a number of -1/-1 counters that would not reduce her DEF to 0.
+ 2. At this point, Dagger's ability takes effect. If you have Defenders dagger, the -1/-1 counters 
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
 ^CardNumber: ^HER-010
@@ -3233,11 +3233,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzkzMjE0MDcsLTU4Mzk1ODEzMyw1OT
-cxMDEzNzIsNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5Mjgx
-MDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LD
-EzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAw
-MTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC
-0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIx
-NTE1ODNdfQ==
+eyJoaXN0b3J5IjpbMTk5MjA1OTk5NSwtNTgzOTU4MTMzLDU5Nz
+EwMTM3Miw0MTg3NzkwOTgsLTE1NjI3NDk0MDYsLTE5OTkyODEw
+MjYsLTQzMzc2NDg0MywtNjQzMjg3NDM5LDIwNDAxNDE5MjYsMT
+MwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2MjI5LDgxMDAx
+MjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwNDM5Mzk2NTYsLT
+IwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1MjE1
+MTU4M119
 -->
