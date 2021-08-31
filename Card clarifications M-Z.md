@@ -1465,7 +1465,9 @@ A: The short answer is this:
 
  1. When you trigger her ability, you still have to choose a number of -1/-1 counters that would not reduce her DEF to 0.
  2. At this point, Dagger's ability takes effect. If you have Defenders dagger, the -1/-1 counters are simply not added to Ripley. If you have H.A.M.M.E.R. or Anti-Registration Dagger, then those counters are replaced with +1/+1 counters on Ripley or Dagger respectively.
- 3. 
+ 3. Because the -1/-1 counters never actually hit Ripley, the "Then put that many counters on an enemy supporting character" never gets to trigger.
+
+^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/posts/3306772016024988)
 
 # [Roberta](http://vs.tcgbrowser.com/images/cards/big/HER-010.jpg)
 ^CardNumber: ^HER-010
@@ -3234,11 +3236,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjAxMzMyMSwtNTgzOTU4MTMzLDU5Nz
-EwMTM3Miw0MTg3NzkwOTgsLTE1NjI3NDk0MDYsLTE5OTkyODEw
-MjYsLTQzMzc2NDg0MywtNjQzMjg3NDM5LDIwNDAxNDE5MjYsMT
-MwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2MjI5LDgxMDAx
-MjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwNDM5Mzk2NTYsLT
-IwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4MjgxMTQ5LDE1MjE1
-MTU4M119
+eyJoaXN0b3J5IjpbLTE0ODI2MTc1NjgsLTU4Mzk1ODEzMyw1OT
+cxMDEzNzIsNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5Mjgx
+MDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LD
+EzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAw
+MTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC
+0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIx
+NTE1ODNdfQ==
 -->
