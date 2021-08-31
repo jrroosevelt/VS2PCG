@@ -1454,7 +1454,7 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 
 ^(Source: Rule insert)
 
-# Ripley #8
+# [Ripley #8](http://vs.tcgbrowser.com/images/cards/big/ALN-007.jpg)
 ^CardNumber: ^ALN-007, ^ALN-008
 
 *Set: The Alien Battles*
@@ -1464,7 +1464,7 @@ Q: How does Ripley #8's **Acidic Blood** interact with Dagger?
 A: The short answer is this:
 
  1. When you trigger her ability, you still have to choose a number of -1/-1 counters that would not reduce her DEF to 0.
- 2. At this point, Dagger's ability takes effect. If you have Defenders dagger, the -1/-1 counters are simply not added to Ripley. If you have H.A.M.M.E.R. or Anti-Registration Dagger, then those counters are replaced with +1/+1 counters on Ripley or Dagger respectively.
+ 2. At this point, Dagger's ability takes effect. If you have Defenders Dagger, the -1/-1 counters are simply not added to Ripley. If you have H.A.M.M.E.R. or Anti-Registration Dagger, then those counters are replaced with +1/+1 counters on Ripley or Dagger respectively.
  3. Because the -1/-1 counters never actually hit Ripley, the "Then put that many counters on an enemy supporting character" never gets to trigger.
 
 ^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/posts/3306772016024988)
@@ -3236,11 +3236,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI2MTc1NjgsLTU4Mzk1ODEzMyw1OT
-cxMDEzNzIsNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2LC0xOTk5Mjgx
-MDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMDQwMTQxOTI2LD
-EzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2MzczNjIyOSw4MTAw
-MTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMDQzOTM5NjU2LC
-0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4MTE0OSwxNTIx
-NTE1ODNdfQ==
+eyJoaXN0b3J5IjpbOTUzMTQwMjkyLC01ODM5NTgxMzMsNTk3MT
+AxMzcyLDQxODc3OTA5OCwtMTU2Mjc0OTQwNiwtMTk5OTI4MTAy
+NiwtNDMzNzY0ODQzLC02NDMyODc0MzksMjA0MDE0MTkyNiwxMz
+AyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYyMjksODEwMDEy
+MDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMj
+A5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUx
+NTgzXX0=
 -->
