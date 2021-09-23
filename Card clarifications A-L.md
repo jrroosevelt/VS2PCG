@@ -695,6 +695,9 @@ A: Yes. Only wounds, levels, and equipment on MCs remain as-is.
 
 ^(Source: [Discord Post](https://discordapp.com/channels/488058478015807499/490215795503398912/586933857715224598))
 
+---
+
+
 
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
 ^CardNumber: ^MNB-045
@@ -3239,11 +3242,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk3MjIyNzAsLTU1Mzc4MjM3OCwxMz
-MxNTkxNTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIx
-OTIwLDQ1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC
-03NzAwNDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0
-NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1OD
-I5OCwtNDU0MzAzMTg2LDIxMTU0ODYwNTcsLTE4MjEzNzUzNTAs
-LTM2NDY3MzRdfQ==
+eyJoaXN0b3J5IjpbNjAwNjk4MzM3LC0yMDg5NzIyMjcwLC01NT
+M3ODIzNzgsMTMzMTU5MTU5Miw4MjE2ODE2ODUsMTg1NjE0OTY3
+MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLT
+Y0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0
+MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3Nj
+QsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0x
+ODIxMzc1MzUwXX0=
 -->
