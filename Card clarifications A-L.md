@@ -697,7 +697,11 @@ A: Yes. Only wounds, levels, and equipment on MCs remain as-is.
 
 ---
 
+[This card has received errata](https://www.upperdeckblog.com/2019/07/vs-system-2pcg-card-errata-and-rules-changes-july-2019/):
 
+Although players play it as intended, Cable’s Advanced Cybernetics power as written doesn’t function correctly. So, he will be receiving errata to ensure he technically works correctly (change is underlined):
+
+Equipment on your side, and in your hand, deck and KO pile lose their team affiliations, then gain 2pcg X-Men Icon  this turn.
 
 ## [Cable](http://vs.tcgbrowser.com/images/cards/big/mnb-045.jpg) (SC)
 ^CardNumber: ^MNB-045
@@ -3242,11 +3246,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNjk4MzM3LC0yMDg5NzIyMjcwLC01NT
-M3ODIzNzgsMTMzMTU5MTU5Miw4MjE2ODE2ODUsMTg1NjE0OTY3
-MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLT
-Y0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0
-MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04OTExNzM3Nj
-QsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4NiwyMTE1NDg2MDU3LC0x
-ODIxMzc1MzUwXX0=
+eyJoaXN0b3J5IjpbMTk2MTA0NDcyNywtMjA4OTcyMjI3MCwtNT
+UzNzgyMzc4LDEzMzE1OTE1OTIsODIxNjgxNjg1LDE4NTYxNDk2
+NzEsLTE5MjIzMjE5MjAsNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC
+02NDY1OTE2ODUsLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMzA5
+NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTczNz
+Y0LC0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1Nywt
+MTgyMTM3NTM1MF19
 -->
