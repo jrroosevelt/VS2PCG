@@ -369,6 +369,20 @@ The following cards are not allowed to be played in the current community multiv
 #### Equipment
 - Machine (Invention)
 
+### Reinstated cards
+The following cards were banned in the most recent previous iteration of Modern format, but have been reinstated:
+
+#### Main Characters
+- Mystique (Legacy set versions)
+
+#### Supporting characters
+- N/A
+
+#### Plot Twists
+- Parallel Dimension
+
+#### Equipment
+- The Darkhold
 
 
 
@@ -394,6 +408,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MzkwNjczLDQ1MTAwOTUyMSwtMzYwOD
-A2MDY1LC0yMDI5MzA1NjkyXX0=
+eyJoaXN0b3J5IjpbLTE5Mzc2ODkyMTMsNDUxMDA5NTIxLC0zNj
+A4MDYwNjUsLTIwMjkzMDU2OTJdfQ==
 -->
