@@ -339,7 +339,7 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 The following is a list of formats that haven't been officially released by Upper Deck Entertainment, but have been created for use in community events (such as Build Phase League or Quarantine Cup tournaments).
 
 ## Modern Format (community-sourced multiverse)
-The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. 
+The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. For information on previous iterations of this format, refer to [https://www.reddit.com/r/VS2PCG/wiki/modern_format_archive](https://www.reddit.com/r/VS2PCG/wiki/modern_format_archive)
 
 ### Iteration 2
 *Effective October 2021 - ?*
@@ -364,10 +364,12 @@ The following cards are not allowed to be played in the current community multiv
 - Maximus
 
 #### Plot Twists
-- Parallel Dimension
+- Out of Time
 
 #### Equipment
-- The Darkhold
+- Machine (Invention)
+
+
 
 
 ## The Benchwarmers
@@ -392,6 +394,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY0NDIzMjksNDUxMDA5NTIxLC0zNj
-A4MDYwNjUsLTIwMjkzMDU2OTJdfQ==
+eyJoaXN0b3J5IjpbODc3MzkwNjczLDQ1MTAwOTUyMSwtMzYwOD
+A2MDY1LC0yMDI5MzA1NjkyXX0=
 -->
