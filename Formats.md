@@ -341,7 +341,7 @@ The following is a list of formats that haven't been officially released by Uppe
 ## Modern Format (community-sourced multiverse)
 The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. 
 
-*Effective April-June 2021*
+*Effective April-October 2021*
 
 For detailed explanation, see this post: [https://www.reddit.com/r/VS2PCG/comments/lzt3dr/modern_multiverse_community_sourced_multiverse/](https://www.reddit.com/r/VS2PCG/comments/lzt3dr/modern_multiverse_community_sourced_multiverse/)
 
@@ -389,6 +389,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMDA5NTIxLC0zNjA4MDYwNjUsLTIwMj
-kzMDU2OTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NDU3NTU4OTEsNDUxMDA5NTIxLC0zNj
+A4MDYwNjUsLTIwMjkzMDU2OTJdfQ==
 -->
