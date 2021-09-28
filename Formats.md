@@ -344,15 +344,17 @@ The community has come up with a multiverse variant that attempts to fix some of
 ### Iteration 2
 *Effective October 2021 - ?*
 
-For detailed explanation, see this post: [https://www.facebook.com/groups/860168987351982/posts/4345319868836859](https://www.reddit.com/r/VS2PCG/comments/lzt3dr/modern_multiverse_community_sourced_multiverse/)
+For detailed explanation, see this post: [https://www.facebook.com/groups/860168987351982/posts/4345319868836859](https://www.facebook.com/groups/860168987351982/posts/4345319868836859)
 
 ### Banned cards
 The following cards are not allowed to be played in the current community multiverse:
 
 #### Main Characters
+- Adam Warlock
 - Dark Phoenix
 - Kate Pryde
-- Mystique (Legacy set versions only)
+- Rogue (Resistance)
+- The Mayor
 - Outriders
 
 #### Supporting characters
@@ -390,6 +392,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4OTYyMTU3LDQ1MTAwOTUyMSwtMzYwOD
-A2MDY1LC0yMDI5MzA1NjkyXX0=
+eyJoaXN0b3J5IjpbLTEwMTY0NDIzMjksNDUxMDA5NTIxLC0zNj
+A4MDYwNjUsLTIwMjkzMDU2OTJdfQ==
 -->
