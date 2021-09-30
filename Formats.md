@@ -20,6 +20,22 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+### Featured Format #13: Second Chance
+
+It’s always good to be retrospective. This format will allow for just that: players will be able to enjoy a more recent, yet still broad, card pool from which to build.
+
+**Season:** Fall 2021
+
+**Dates**: October 1st  2021 through December 31st  2021
+
+**Rules:** You can only use cards from the last two years (Volumes 3 and 4).
+
+You may include any Basic Locations in your deck even if they’re not in Volume 3 or 4.
+
+You may include any “wild” Special Locations in your deck that share a team affiliation with your Main Character or a Supporting Character in your deck, even if those locations are not in Volume 3 or 4.
+
+The standard separation of Photographic and Illustrated Universes still applies.
+
 ### It’s All Good
 
 The Civil War Story Arc highlights two good teams at each other’s throats. This format will explore what that kind of in-fighting looks like if we expand the available combatants.
@@ -408,6 +424,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2ODkyMTMsNDUxMDA5NTIxLC0zNj
-A4MDYwNjUsLTIwMjkzMDU2OTJdfQ==
+eyJoaXN0b3J5IjpbNzk2MTc3NDIsLTE5Mzc2ODkyMTMsNDUxMD
+A5NTIxLC0zNjA4MDYwNjUsLTIwMjkzMDU2OTJdfQ==
 -->
