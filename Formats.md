@@ -20,6 +20,22 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+### Featured Format #14: Build an Arc
+
+Take a crack at making an Arc of your own! Select three Issues and build a deck from the cards within.
+
+**Season:** Winter 2022
+
+**Dates**: January 1st  2022 through March 31st  2022
+
+**Rules:** Select one Giant-Sized 200-card Issue, and any two different 55-card Issues and build a deck from the cards within. Your deck must be either Illustrated Universe or Photographic Universe. All 200-card sets including Legacy are legal. All 55-card sets including Crossovers are legal.
+
+You may include any Basic Locations in your deck, even if they aren’t in the Arc you’ve built.
+
+You may include any “wild” Special Locations in your deck that share a team affiliation with your Main Character or a Supporting Character in your deck, even if those locations are not in the Arc you’ve built.
+
+All other Special Locations must be in the Issues you have selected for your Arc.
+
 ### Featured Format #13: Second Chance
 
 It’s always good to be retrospective. This format will allow for just that: players will be able to enjoy a more recent, yet still broad, card pool from which to build.
@@ -424,6 +440,6 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MTc3NDIsLTE5Mzc2ODkyMTMsNDUxMD
-A5NTIxLC0zNjA4MDYwNjUsLTIwMjkzMDU2OTJdfQ==
+eyJoaXN0b3J5IjpbMTY4NjMyOTcwNCwtMTkzNzY4OTIxMyw0NT
+EwMDk1MjEsLTM2MDgwNjA2NSwtMjAyOTMwNTY5Ml19
 -->
