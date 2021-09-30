@@ -52,8 +52,18 @@ The sets included in Volumes 3 and 4 are (in release order from oldest to newest
  - Spidey-Foes
  - Web-Heads
  - The Fantastic Battles
- - The Hearal
-
+ - The Herald
+ - The Frightful
+ - Futures Past
+ - Freedom Force
+ - The Omegas
+ - Crossover Vol. 3
+ - Masters of Evil
+ - Mystic Arts
+ - Into the Darkness
+ - Civil War
+ - Secret Avengers
+ - Thunderbolts
 
 You may include any Basic Locations in your deck even if they’re not in Volume 3 or 4.
 
@@ -449,7 +459,7 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTEzMTI3NCwxNjg2MzI5NzA0LC0xOT
-M3Njg5MjEzLDQ1MTAwOTUyMSwtMzYwODA2MDY1LC0yMDI5MzA1
-NjkyXX0=
+eyJoaXN0b3J5IjpbLTE1MTMyMTE0NTMsMTY4NjMyOTcwNCwtMT
+kzNzY4OTIxMyw0NTEwMDk1MjEsLTM2MDgwNjA2NSwtMjAyOTMw
+NTY5Ml19
 -->
