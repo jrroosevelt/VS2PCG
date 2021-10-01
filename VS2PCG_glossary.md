@@ -286,6 +286,10 @@ Equipment was always meant to only be equipped to face-up characters (excepting 
 
 As of the [August 2021 Rules Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), Equipment no longer grants all of its powers to the equipped character. It only grants the powers that it specifically states. (For example, "Equipped character has [Flight].")
 
+---
+
+
+
 # Eternal  
 If this character would leave play, you may put them into their owner's hand instead.  
   
@@ -625,7 +629,6 @@ The cards you have in play are "on your side." You control these cards. If a car
 # Owner
 During the game you "own" your Main Character and all the cards that started in your deck. (This only matters if a card references "owner.")
   
-
 # Passive  
 This character cannot attack and cannot strike back.   
 
@@ -990,11 +993,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjEyNjk1NSwtNTgwNTM4NjYzLC0xND
-Y0NzE2MjYsODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMTk4NTk3
-MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMxMTY3LD
-EwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NTkx
-NzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1My
-wxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4NzIxMjUxOCwtNTE5
-NjAxMjU4XX0=
+eyJoaXN0b3J5IjpbNjcxMDYzMTg4LC00MjYxMjY5NTUsLTU4MD
+UzODY2MywtMTQ2NDcxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4
+LDExMjE5ODU5NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMT
+A5NjAzMTE2NywxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0
+MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLT
+EwNTYyMDE3NTMsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcy
+MTI1MThdfQ==
 -->
