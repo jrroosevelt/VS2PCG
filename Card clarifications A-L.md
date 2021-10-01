@@ -3007,6 +3007,16 @@ Personality Number | Name | Stats (ATK/DEF) | Power(s)
 
 ^(Source: Rule insert)
 
+---
+
+Q: Scenario: I play Legion and a Personality takes over. My opponent then Nullifies  **Spontaneous Mutation**. What happens to Legion? Does he remain "stuck" as the personality that took over until his power returns? Or does he revert to his base card? (I think he's stuck as the personality, but not 100% sure).
+
+A:  He remains "stuck" with his current personality.
+
+Nullifying Sponatneous Mutation takes away him changing from one Personality to another, but it doesn't get rid of the current Personality he has.
+
+
+
 # [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
 ^CardNumber: ^MMU-081
 
@@ -3246,11 +3256,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTA0NDcyNywtMjA4OTcyMjI3MCwtNT
-UzNzgyMzc4LDEzMzE1OTE1OTIsODIxNjgxNjg1LDE4NTYxNDk2
-NzEsLTE5MjIzMjE5MjAsNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC
-02NDY1OTE2ODUsLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMzA5
-NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTczNz
-Y0LC0xNjE3NDU4Mjk4LC00NTQzMDMxODYsMjExNTQ4NjA1Nywt
-MTgyMTM3NTM1MF19
+eyJoaXN0b3J5IjpbMTkzMjczNjI2MiwxOTYxMDQ0NzI3LC0yMD
+g5NzIyMjcwLC01NTM3ODIzNzgsMTMzMTU5MTU5Miw4MjE2ODE2
+ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLT
+EzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3
+NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNz
+AyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4Niwy
+MTE1NDg2MDU3XX0=
 -->
