@@ -67,25 +67,25 @@ But what about the second part of the  **Under Set's Control** power (When this 
 
 > It's a Delayed Trigger Modifier. Under Set's Control works as follows:
 
-The first sentence is a triggered effect with two modifiers -- the first is a one-shot modifier that moves the character from one side to another. The second sets up a delayed triggered modifier that waits for the Crown to become unequipped.
+> The first sentence is a triggered effect with two modifiers -- the first is a one-shot modifier that moves the character from one side to another. The second sets up a delayed triggered modifier that waits for the Crown to become unequipped.
 
 Do you have any tips on telling one apart from the other, as they both can contain the "When" clause?
 
-The visual cue is a paragraph break between the two modifiers. If there's a separation, they are two separate effects each with its own modifier(s). If there's no separation, it's a single effect with multiple modifiers.
+> The visual cue is a paragraph break between the two modifiers. If there's a separation, they are two separate effects each with its own modifier(s). If there's no separation, it's a single effect with multiple modifiers.
 
-**Example 1: Two separate triggered effects, each with a one-shot modifier.**
+> **Example 1: Two separate triggered effects, each with a one-shot modifier.**
 
-**_Cool Draw + Discard Power_**
+> **_Cool Draw + Discard Power_**
 
-**When this character appears, draw a card.**
+> **When this character appears, draw a card.**
 
-**When this character gets KO'd, discard a card.**
+> **When this character gets KO'd, discard a card.**
 
-Player A plays the above character and draws a card.
+> Player A plays the above character and draws a card.
 
-Player B plays plays Nullifier and names "_Cool Draw + Discard Power_."
+> Player B plays plays Nullifier and names "_Cool Draw + Discard Power_."
 
-The character gets KO'd. Since the power is gone, its second sentence won't trigger and the player doesn't have to discard a card.
+> The character gets KO'd. Since the power is gone, its second sentence won't trigger and the player doesn't have to discard a card.
 
 **Example 2: One triggered effect which generates one one-shot modifier and one delayed trigger modifier.**
 
@@ -3305,11 +3305,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAyMjYwMzYsMTU5ODM4ODc2MCwxOT
-YxMDQ0NzI3LC0yMDg5NzIyMjcwLC01NTM3ODIzNzgsMTMzMTU5
-MTU5Miw4MjE2ODE2ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTkyMC
-w0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcw
-MDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0Mj
-YxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgs
-LTQ1NDMwMzE4Nl19
+eyJoaXN0b3J5IjpbMTA5NjQwMjc5OCwxNTk4Mzg4NzYwLDE5Nj
+EwNDQ3MjcsLTIwODk3MjIyNzAsLTU1Mzc4MjM3OCwxMzMxNTkx
+NTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIxOTIwLD
+Q1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC03NzAw
+NDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNj
+E1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwt
+NDU0MzAzMTg2XX0=
 -->
