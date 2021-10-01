@@ -50,6 +50,8 @@ A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing wit
 
 ^(Source: UDE FAQ - UDE Approved 6/10/2016)
 
+# Aga
+
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 ^CardNumber: ^FAN-013
 
@@ -3256,11 +3258,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTI4MjQwNywxOTYxMDQ0NzI3LC0yMD
-g5NzIyMjcwLC01NTM3ODIzNzgsMTMzMTU5MTU5Miw4MjE2ODE2
-ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLT
-EzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3
-NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNz
-AyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4Niwy
-MTE1NDg2MDU3XX0=
+eyJoaXN0b3J5IjpbLTExNjUwODIzODEsMTk2MTA0NDcyNywtMj
+A4OTcyMjI3MCwtNTUzNzgyMzc4LDEzMzE1OTE1OTIsODIxNjgx
+Njg1LDE4NTYxNDk2NzEsLTE5MjIzMjE5MjAsNDU4MTI0MjQ3LC
+0xMzkyMjIyNTI3LC02NDY1OTE2ODUsLTc3MDA0ODU2MiwyMDkw
+NzQyODQzLC0xMzA5NDM1MTg3LC0xNTQ2NDI2MTU0LDEyMDExMz
+cwMiwtODkxMTczNzY0LC0xNjE3NDU4Mjk4LC00NTQzMDMxODYs
+MjExNTQ4NjA1N119
 -->
