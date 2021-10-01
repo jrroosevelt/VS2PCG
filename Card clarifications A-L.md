@@ -97,7 +97,7 @@ Do you have any tips on telling one apart from the other, as they both can conta
 
 > Player B plays Nullifier and names "_Cool Draw + Discard Power_."
 
-The character gets KO'd. The power is gone, but the delayed trigger modifier exists separately from the power, so it will still trigger and the player will discard a card.
+> The character gets KO'd. The power is gone, but the delayed trigger modifier exists separately from the power, so it will still trigger and the player will discard a card.
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 ^CardNumber: ^FAN-013
@@ -3305,7 +3305,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4ODYxNjUyLDE1OTgzODg3NjAsMTk2MT
+eyJoaXN0b3J5IjpbNDc4NzY3OTg2LDE1OTgzODg3NjAsMTk2MT
 A0NDcyNywtMjA4OTcyMjI3MCwtNTUzNzgyMzc4LDEzMzE1OTE1
 OTIsODIxNjgxNjg1LDE4NTYxNDk2NzEsLTE5MjIzMjE5MjAsND
 U4MTI0MjQ3LC0xMzkyMjIyNTI3LC02NDY1OTE2ODUsLTc3MDA0
