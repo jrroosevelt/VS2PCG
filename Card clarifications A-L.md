@@ -3013,9 +3013,9 @@ Q: Scenario: I play Legion and a Personality takes over. My opponent then Nullif
 
 A:  He remains "stuck" with his current personality.
 
-Nullifying Sponatneous Mutation takes away him changing from one Personality to another, but it doesn't get rid of the current Personality he has.
+Nullifying Spontaneous Mutation takes away him changing from one Personality to another, but it doesn't get rid of the current Personality he has.
 
-
+^Source: [^UD ^Email](https://www.facebook.com/groups/860168987351982/posts/4355434691158710/)
 
 # [Leviathon Hydra](http://vs.tcgbrowser.com/images/cards/big/MMU-081.jpg)
 ^CardNumber: ^MMU-081
@@ -3256,7 +3256,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjczNjI2MiwxOTYxMDQ0NzI3LC0yMD
+eyJoaXN0b3J5IjpbLTMwMTI4MjQwNywxOTYxMDQ0NzI3LC0yMD
 g5NzIyMjcwLC01NTM3ODIzNzgsMTMzMTU5MTU5Miw4MjE2ODE2
 ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLT
 EzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3
