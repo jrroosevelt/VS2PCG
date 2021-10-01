@@ -596,7 +596,12 @@ A: No, because stunned character lose their powers including the ![](%%Range%%) 
 ^(Source: UDE FAQ)
 
 
-# /*Ms. Marvel/*
+# [/*Ms. Marvel/*](http://vs.tcgbrowser.com/images/cards/big/MMU-013.jpg)
+^CardNumber: ^MMU-013
+
+*Set: Monsters Unleashed*
+
+Q: Does "Even the Odds" impact /*Ms. Marvel/*? Her power allows you to pitch a card and her "Ba
 
 # [Mutant Control Act](http://vs.tcgbrowser.com/images/cards/big/FUT-027.jpg)
 ^CardNumber: ^FUT-027
@@ -3239,11 +3244,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTQyNDQyMCw5NTMxNDAyOTIsLTU4Mz
-k1ODEzMyw1OTcxMDEzNzIsNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2
-LC0xOTk5MjgxMDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMD
-QwMTQxOTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2Mzcz
-NjIyOSw4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMD
-QzOTM5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4
-MTE0OV19
+eyJoaXN0b3J5IjpbOTg2ODgxNzY3LDk1MzE0MDI5MiwtNTgzOT
+U4MTMzLDU5NzEwMTM3Miw0MTg3NzkwOTgsLTE1NjI3NDk0MDYs
+LTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNjQzMjg3NDM5LDIwND
+AxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2
+MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNjYyMTkzNjY0LDIwND
+M5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5OTIxLC0xMjc4Mjgx
+MTQ5XX0=
 -->
