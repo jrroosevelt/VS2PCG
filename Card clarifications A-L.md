@@ -55,8 +55,49 @@ A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing wit
 
 *Set: Mystic Arts*
 
+Scenario: My opponent takes over one of my SCs with Serpent Crown. I then play Agamotto which removes powers not printed on the card. I'm confident that the opponent isn't returned to me outright (because that trigger has already resolved).
 
-Q: 
+> After the recent rules revision, the powers on Serpent Crown no longer "count" as being on the equipped character. As such, Agamotto will not remove those powers (since he only affects characters, not equipment.)
+
+> In other words, playing Agamotto will not return the stolen character to you.
+
+But what about the second part of the  **Under Set's Control** power (When this is unequipped...)? Is that considered a Trigger or a Delayed Trigger Modifier? If it's a Trigger, I assume that this character now remains on my opponent's side, even if the Crown is removed. If it's a Delayed Trigger Modifier, I assume that the character remains on my opponent's side indefinitely if the Crown is removed while Agamotto is face up. (Hope that all makes sense.)
+
+> Some technical answers are incoming (but it sounds like that's what you're looking for).
+
+> It's a Delayed Trigger Modifier. Under Set's Control works as follows:
+
+The first sentence is a triggered effect with two modifiers -- the first is a one-shot modifier that moves the character from one side to another. The second sets up a delayed triggered modifier that waits for the Crown to become unequipped.
+
+Do you have any tips on telling one apart from the other, as they both can contain the "When" clause?
+
+The visual cue is a paragraph break between the two modifiers. If there's a separation, they are two separate effects each with its own modifier(s). If there's no separation, it's a single effect with multiple modifiers.
+
+**Example 1: Two separate triggered effects, each with a one-shot modifier.**
+
+**_Cool Draw + Discard Power_**
+
+**When this character appears, draw a card.**
+
+**When this character gets KO'd, discard a card.**
+
+Player A plays the above character and draws a card.
+
+Player B plays plays Nullifier and names "_Cool Draw + Discard Power_."
+
+The character gets KO'd. Since the power is gone, its second sentence won't trigger and the player doesn't have to discard a card.
+
+**Example 2: One triggered effect which generates one one-shot modifier and one delayed trigger modifier.**
+
+**_Cool Draw + Discard Power_**
+
+**When this character appears, draw a card. When this character gets KO'd, discard a card.**
+
+Player A plays the above character. The one shot-modifier causes the player to draw a card. The delayed trigger modifier is set up and waits for the character to get KO'd. It exists independently from the effect that generated it.
+
+Player B plays Nullifier and names "_Cool Draw + Discard Power_."
+
+The character gets KO'd. The power is gone, but the delayed trigger modifier exists separately from the power, so it will still trigger and the player will discard a card.
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 ^CardNumber: ^FAN-013
@@ -3264,11 +3305,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODM4ODc2MCwxOTYxMDQ0NzI3LC0yMD
-g5NzIyMjcwLC01NTM3ODIzNzgsMTMzMTU5MTU5Miw4MjE2ODE2
-ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLT
-EzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3
-NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNz
-AyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgsLTQ1NDMwMzE4Niwy
-MTE1NDg2MDU3XX0=
+eyJoaXN0b3J5IjpbLTE0NTAyMjYwMzYsMTU5ODM4ODc2MCwxOT
+YxMDQ0NzI3LC0yMDg5NzIyMjcwLC01NTM3ODIzNzgsMTMzMTU5
+MTU5Miw4MjE2ODE2ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTkyMC
+w0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcw
+MDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0Mj
+YxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgs
+LTQ1NDMwMzE4Nl19
 -->
