@@ -288,7 +288,31 @@ As of the [August 2021 Rules Update](https://www.upperdeckblog.com/2021/08/vs-sy
 
 ---
 
+A question on some card interactions given the ruling on equipment. Now that equipment powers aren't given to the character equipped, how does this impact paying for the powers with cards that reduce or change the payment of a super power?
 
+> According to the Rules Revision posted on 8/25/21 :
+
+> 2. If an equipment has a super power, only the equipped character can pay to use that super power.
+
+> Since the character pays for the power, reduction of payment cost that effects the equipped character will reduce the costs it pays for the equipment it is holding as well.
+
+For example, I have a character equipped with the Medikit and Victoria Hand on my side. Victoria says: "The first time a Main Character on your side uses a ![](%%Might%%) (Might) super power each turn, they pay one less ![](%%Might%%) (Might).
+
+> If the Med kit is equipped to your main character they may pay one less Might to use the power of the equipment. The equipped character is paying to use the power, so Victoria Hand’s power will discount any Might power it has access to. (it still must be the first [Might] power they use)
+
+ 
+
+Does "using a super power" only apply if the super power is on the character card itself? Or because that character is equipped and paying for the power, does that also count as using the power?
+
+Since the “…equipped character can pay to use that super power”, it is the same payment process as if it were printed on the character itself. 
+
+These interactions may be similar for cards like Keyes and Mainframe. I was trying to think of all the examples, but this is all I could come up with at the moment.
+
+ 
+
+I know that Captain Swain could no longer pay for this power, however, as she specifically mentions to "choose a super power on a supporting character."
+
+Yes, since swain specifies a power ON a supporting character, she will not discount for equipment.
 
 # Eternal  
 If this character would leave play, you may put them into their owner's hand instead.  
@@ -993,11 +1017,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMDYzMTg4LC00MjYxMjY5NTUsLTU4MD
-UzODY2MywtMTQ2NDcxNjI2LDg5NzQwNjAwOCwtNTQxOTkxNjk4
-LDExMjE5ODU5NzIsMTYyNjUwMzg2NSwtMTg2MTg5OTA0MSwtMT
-A5NjAzMTE2NywxMDcyNTk0NzM1LDg0OTQ4NzY5LC01OTE0Njc0
-MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3LC02NTUwNzExNDcsLT
-EwNTYyMDE3NTMsMTExNDAwNzQwNSwtMTQyODIyMzkzNyw2ODcy
-MTI1MThdfQ==
+eyJoaXN0b3J5IjpbLTE5MzcyMjgyMjAsLTQyNjEyNjk1NSwtNT
+gwNTM4NjYzLC0xNDY0NzE2MjYsODk3NDA2MDA4LC01NDE5OTE2
+OTgsMTEyMTk4NTk3MiwxNjI2NTAzODY1LC0xODYxODk5MDQxLC
+0xMDk2MDMxMTY3LDEwNzI1OTQ3MzUsODQ5NDg3NjksLTU5MTQ2
+NzQwOCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcsLTY1NTA3MTE0Ny
+wtMTA1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4MjIzOTM3LDY4
+NzIxMjUxOF19
 -->
