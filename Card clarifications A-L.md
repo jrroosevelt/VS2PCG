@@ -87,15 +87,15 @@ Do you have any tips on telling one apart from the other, as they both can conta
 
 > The character gets KO'd. Since the power is gone, its second sentence won't trigger and the player doesn't have to discard a card.
 
-**Example 2: One triggered effect which generates one one-shot modifier and one delayed trigger modifier.**
+> **Example 2: One triggered effect which generates one one-shot modifier and one delayed trigger modifier.**
 
-**_Cool Draw + Discard Power_**
+> **_Cool Draw + Discard Power_**
 
-**When this character appears, draw a card. When this character gets KO'd, discard a card.**
+> **When this character appears, draw a card. When this character gets KO'd, discard a card.**
 
-Player A plays the above character. The one shot-modifier causes the player to draw a card. The delayed trigger modifier is set up and waits for the character to get KO'd. It exists independently from the effect that generated it.
+> Player A plays the above character. The one shot-modifier causes the player to draw a card. The delayed trigger modifier is set up and waits for the character to get KO'd. It exists independently from the effect that generated it.
 
-Player B plays Nullifier and names "_Cool Draw + Discard Power_."
+> Player B plays Nullifier and names "_Cool Draw + Discard Power_."
 
 The character gets KO'd. The power is gone, but the delayed trigger modifier exists separately from the power, so it will still trigger and the player will discard a card.
 
@@ -3305,11 +3305,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjQwMjc5OCwxNTk4Mzg4NzYwLDE5Nj
-EwNDQ3MjcsLTIwODk3MjIyNzAsLTU1Mzc4MjM3OCwxMzMxNTkx
-NTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIxOTIwLD
-Q1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC03NzAw
-NDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNj
-E1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwt
-NDU0MzAzMTg2XX0=
+eyJoaXN0b3J5IjpbOTI4ODYxNjUyLDE1OTgzODg3NjAsMTk2MT
+A0NDcyNywtMjA4OTcyMjI3MCwtNTUzNzgyMzc4LDEzMzE1OTE1
+OTIsODIxNjgxNjg1LDE4NTYxNDk2NzEsLTE5MjIzMjE5MjAsND
+U4MTI0MjQ3LC0xMzkyMjIyNTI3LC02NDY1OTE2ODUsLTc3MDA0
+ODU2MiwyMDkwNzQyODQzLC0xMzA5NDM1MTg3LC0xNTQ2NDI2MT
+U0LDEyMDExMzcwMiwtODkxMTczNzY0LC0xNjE3NDU4Mjk4LC00
+NTQzMDMxODZdfQ==
 -->
