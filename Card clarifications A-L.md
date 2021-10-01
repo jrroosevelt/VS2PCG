@@ -99,7 +99,7 @@ Do you have any tips on telling one apart from the other, as they both can conta
 
 > The character gets KO'd. The power is gone, but the delayed trigger modifier exists separately from the power, so it will still trigger and the player will discard a card.
 
-^Source
+^Source: [^UD ^Email](https://www.facebook.com/groups/860168987351982/posts/4355434691158710/)
 
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 ^CardNumber: ^FAN-013
@@ -3307,11 +3307,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk4NjAxMDcsMTU5ODM4ODc2MCwxOT
-YxMDQ0NzI3LC0yMDg5NzIyMjcwLC01NTM3ODIzNzgsMTMzMTU5
-MTU5Miw4MjE2ODE2ODUsMTg1NjE0OTY3MSwtMTkyMjMyMTkyMC
-w0NTgxMjQyNDcsLTEzOTIyMjI1MjcsLTY0NjU5MTY4NSwtNzcw
-MDQ4NTYyLDIwOTA3NDI4NDMsLTEzMDk0MzUxODcsLTE1NDY0Mj
-YxNTQsMTIwMTEzNzAyLC04OTExNzM3NjQsLTE2MTc0NTgyOTgs
-LTQ1NDMwMzE4Nl19
+eyJoaXN0b3J5IjpbMTMxMDQyNTg4NSwxNTk4Mzg4NzYwLDE5Nj
+EwNDQ3MjcsLTIwODk3MjIyNzAsLTU1Mzc4MjM3OCwxMzMxNTkx
+NTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIxOTIwLD
+Q1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC03NzAw
+NDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNj
+E1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwt
+NDU0MzAzMTg2XX0=
 -->
