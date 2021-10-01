@@ -596,12 +596,12 @@ A: No, because stunned character lose their powers including the ![](%%Range%%) 
 ^(Source: UDE FAQ)
 
 
-# [/*Ms. Marvel/*](http://vs.tcgbrowser.com/images/cards/big/MMU-013.jpg)
+# [\*Ms. Marvel\*](http://vs.tcgbrowser.com/images/cards/big/MMU-013.jpg)
 ^CardNumber: ^MMU-013
 
 *Set: Monsters Unleashed*
 
-Q: Does "Even the Odds" impact /*Ms. Marvel/*? Her power allows you to pitch a card and her "Base ATK and DEF" change. Even the Odds changes a chosen character back to their base.
+Q: Does "Even the Odds" impact \*Ms. Marvel/*? Her power allows you to pitch a card and her "Base ATK and DEF" change. Even the Odds changes a chosen character back to their base.
 
 Does Kamala's power avoid being touched by Even the Odds?
 
@@ -611,7 +611,7 @@ Q: Put another way, is the intent of Even the Odds to return a card to its *prin
 
 A: Yes, cards that change their Base stats get around Even the Odds' "reset" effect.
 
-^Source: ^UD ^Email
+^Source: [^UD ^Email](https://discord.com/channels/488058478015807499/490215795503398912/893605382369468436)
 
 # [Mutant Control Act](http://vs.tcgbrowser.com/images/cards/big/FUT-027.jpg)
 ^CardNumber: ^FUT-027
@@ -3254,11 +3254,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE2Mjc4NzMsOTUzMTQwMjkyLC01OD
-M5NTgxMzMsNTk3MTAxMzcyLDQxODc3OTA5OCwtMTU2Mjc0OTQw
-NiwtMTk5OTI4MTAyNiwtNDMzNzY0ODQzLC02NDMyODc0MzksMj
-A0MDE0MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3
-MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMj
-A0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgy
-ODExNDldfQ==
+eyJoaXN0b3J5IjpbMzUzNzk2NzksOTUzMTQwMjkyLC01ODM5NT
+gxMzMsNTk3MTAxMzcyLDQxODc3OTA5OCwtMTU2Mjc0OTQwNiwt
+MTk5OTI4MTAyNiwtNDMzNzY0ODQzLC02NDMyODc0MzksMjA0MD
+E0MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYy
+MjksODEwMDEyMDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0Mz
+kzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODEx
+NDldfQ==
 -->
