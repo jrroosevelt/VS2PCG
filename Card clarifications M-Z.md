@@ -595,6 +595,9 @@ A: No, because stunned character lose their powers including the ![](%%Range%%) 
 
 ^(Source: UDE FAQ)
 
+
+# /*Ms. Marvel/*
+
 # [Mutant Control Act](http://vs.tcgbrowser.com/images/cards/big/FUT-027.jpg)
 ^CardNumber: ^FUT-027
 
@@ -3236,11 +3239,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMTQwMjkyLC01ODM5NTgxMzMsNTk3MT
-AxMzcyLDQxODc3OTA5OCwtMTU2Mjc0OTQwNiwtMTk5OTI4MTAy
-NiwtNDMzNzY0ODQzLC02NDMyODc0MzksMjA0MDE0MTkyNiwxMz
-AyOTkzMzQ2LC0xNzkyNTc3NjMsLTIwNjM3MzYyMjksODEwMDEy
-MDI2LDc1MDMwMDk2LDE2NjIxOTM2NjQsMjA0MzkzOTY1NiwtMj
-A5NDY4NTQxNCw5NTA0Mzk5MjEsLTEyNzgyODExNDksMTUyMTUx
-NTgzXX0=
+eyJoaXN0b3J5IjpbMTA2OTQyNDQyMCw5NTMxNDAyOTIsLTU4Mz
+k1ODEzMyw1OTcxMDEzNzIsNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2
+LC0xOTk5MjgxMDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMD
+QwMTQxOTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2Mzcz
+NjIyOSw4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMD
+QzOTM5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4
+MTE0OV19
 -->
