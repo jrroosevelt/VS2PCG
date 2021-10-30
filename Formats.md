@@ -64,6 +64,7 @@ The sets included in Volumes 3 and 4 are (in release order from oldest to newest
  - Civil War
  - Secret Avengers
  - Thunderbolts
+ - Lethal Protector
 
 You may include any Basic Locations in your deck even if they’re not in Volume 3 or 4.
 
@@ -459,7 +460,7 @@ Neutral cards  (cards without a team affiliation) are also allowed.
 
 **Note**: If a card has a replacement version, the replacement must be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMyMTE0NTMsMTY4NjMyOTcwNCwtMT
-kzNzY4OTIxMyw0NTEwMDk1MjEsLTM2MDgwNjA2NSwtMjAyOTMw
-NTY5Ml19
+eyJoaXN0b3J5IjpbMzU1Njk4MTY0LC0xNTEzMjExNDUzLDE2OD
+YzMjk3MDQsLTE5Mzc2ODkyMTMsNDUxMDA5NTIxLC0zNjA4MDYw
+NjUsLTIwMjkzMDU2OTJdfQ==
 -->
