@@ -1472,6 +1472,10 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 
 ^(Source: Rule insert)
 
+# Riot
+
+See Agony and Riot
+
 # [Ripley #8](http://vs.tcgbrowser.com/images/cards/big/ALN-007.jpg)
 ^CardNumber: ^ALN-007, ^ALN-008
 
@@ -3254,11 +3258,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDc1Mzk2NCw5NTMxNDAyOTIsLTU4Mz
-k1ODEzMyw1OTcxMDEzNzIsNDE4Nzc5MDk4LC0xNTYyNzQ5NDA2
-LC0xOTk5MjgxMDI2LC00MzM3NjQ4NDMsLTY0MzI4NzQzOSwyMD
-QwMTQxOTI2LDEzMDI5OTMzNDYsLTE3OTI1Nzc2MywtMjA2Mzcz
-NjIyOSw4MTAwMTIwMjYsNzUwMzAwOTYsMTY2MjE5MzY2NCwyMD
-QzOTM5NjU2LC0yMDk0Njg1NDE0LDk1MDQzOTkyMSwtMTI3ODI4
-MTE0OV19
+eyJoaXN0b3J5IjpbMTM4NzMwNjM1NywtMzEwNzUzOTY0LDk1Mz
+E0MDI5MiwtNTgzOTU4MTMzLDU5NzEwMTM3Miw0MTg3NzkwOTgs
+LTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNj
+QzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3
+NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNj
+YyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5
+OTIxXX0=
 -->
