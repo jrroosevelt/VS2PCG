@@ -918,7 +918,9 @@ You can have any number of characters with this character's name on your side. T
 # Symbiosis  
 This character can have and gain +1/+1 counters while stunned.  
 
-Normally, of course, when a character gets stunned, all counters fall off it except wounds (and vitality counters). **Symbiosis** allows characters to keep their hard-earned +1/+1
+Normally, of course, when a character gets stunned, all counters fall off it except wounds (and vitality counters). **Symbiosis** allows characters to keep their hard-earned +1/+1 counters and gain even more, while stunned.
+
+**Note:** Although the power doesn't say "This power can't be turned off", it does stay on while the character is stunned (otherwise it wouldn't do anything!).
 
 # Team Affiliation  
 The team or teams to which this character belongs. Typically the team affiliation is indicated by the icon in the upper-right corner of the card, though there are cards that can grant or remove affiliations. Team Affiliation is *not* lost when the character is face-down.
@@ -1017,11 +1019,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NDkwNDAzLDE0MjcwODA2MjQsLTQyNj
-EyNjk1NSwtNTgwNTM4NjYzLC0xNDY0NzE2MjYsODk3NDA2MDA4
-LC01NDE5OTE2OTgsMTEyMTk4NTk3MiwxNjI2NTAzODY1LC0xOD
-YxODk5MDQxLC0xMDk2MDMxMTY3LDEwNzI1OTQ3MzUsODQ5NDg3
-NjksLTU5MTQ2NzQwOCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcsLT
-Y1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4
-MjIzOTM3XX0=
+eyJoaXN0b3J5IjpbMTUwNjA1NjYwNCwxNDI3MDgwNjI0LC00Mj
+YxMjY5NTUsLTU4MDUzODY2MywtMTQ2NDcxNjI2LDg5NzQwNjAw
+OCwtNTQxOTkxNjk4LDExMjE5ODU5NzIsMTYyNjUwMzg2NSwtMT
+g2MTg5OTA0MSwtMTA5NjAzMTE2NywxMDcyNTk0NzM1LDg0OTQ4
+NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3LC
+02NTUwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMTQy
+ODIyMzkzN119
 -->
