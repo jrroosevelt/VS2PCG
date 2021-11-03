@@ -1104,6 +1104,15 @@ A: He would still be stunned since he will have wounds equal to his health (0 is
 
 ^(Source: FB Post - Chad Daniel)
 
+# Our Name is Venom!
+^CardNumber: ^MCU6-006
+
+*Set: Space & Time*  
+
+**We Have Blood to Spare** gives you six Main Character to start the game, and you're only out of the game once they're all KO'd.
+
+^(Source: Rule insert)
+
 # [Outrider (MC)](http://vs.tcgbrowser.com/images/cards/big/MCU6-006.jpg)
 ^CardNumber: ^MCU6-006
 
@@ -1474,7 +1483,7 @@ Daredevil and Rhino have effects that allow an enemy player to spend a ![](%%Ski
 
 # Riot
 
-See Agony and Riot
+See [Agony and Riot](https://www.reddit.com/r/VS2PCG/wiki/rules-insert#wiki_agony_and_riot)
 
 # [Ripley #8](http://vs.tcgbrowser.com/images/cards/big/ALN-007.jpg)
 ^CardNumber: ^ALN-007, ^ALN-008
@@ -3258,11 +3267,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzMwNjM1NywtMzEwNzUzOTY0LDk1Mz
-E0MDI5MiwtNTgzOTU4MTMzLDU5NzEwMTM3Miw0MTg3NzkwOTgs
-LTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNj
-QzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3
-NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNj
-YyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5
-OTIxXX0=
+eyJoaXN0b3J5IjpbMTkwNTM4MTMzLC0zMTA3NTM5NjQsOTUzMT
+QwMjkyLC01ODM5NTgxMzMsNTk3MTAxMzcyLDQxODc3OTA5OCwt
+MTU2Mjc0OTQwNiwtMTk5OTI4MTAyNiwtNDMzNzY0ODQzLC02ND
+MyODc0MzksMjA0MDE0MTkyNiwxMzAyOTkzMzQ2LC0xNzkyNTc3
+NjMsLTIwNjM3MzYyMjksODEwMDEyMDI2LDc1MDMwMDk2LDE2Nj
+IxOTM2NjQsMjA0MzkzOTY1NiwtMjA5NDY4NTQxNCw5NTA0Mzk5
+MjFdfQ==
 -->
