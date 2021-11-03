@@ -110,6 +110,15 @@ If Agatha appearing on your side KOs an Agatha that was already on your side (du
 
 ^(Source: Rule insert)
 
+# Agent Venom (Level 2 MC)
+^CardNumber: ^FAN-013
+
+*Set: The Fantastic Battles*  
+
+If Agatha appearing on your side KOs an Agatha that was already on your side (due to uniqueness), **Ancient Sorceress** will count the Agatha that was KO'd.
+
+^(Source: Rule insert)
+
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
 ^CardNumber: ^FUT-023
 
@@ -3307,11 +3316,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDQyNTg4NSwxNTk4Mzg4NzYwLDE5Nj
-EwNDQ3MjcsLTIwODk3MjIyNzAsLTU1Mzc4MjM3OCwxMzMxNTkx
-NTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIxOTIwLD
-Q1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC03NzAw
-NDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNj
-E1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwtMTYxNzQ1ODI5OCwt
-NDU0MzAzMTg2XX0=
+eyJoaXN0b3J5IjpbLTE0MzkwMzU5MTQsMTMxMDQyNTg4NSwxNT
+k4Mzg4NzYwLDE5NjEwNDQ3MjcsLTIwODk3MjIyNzAsLTU1Mzc4
+MjM3OCwxMzMxNTkxNTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC
+0xOTIyMzIxOTIwLDQ1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2
+NTkxNjg1LC03NzAwNDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNT
+E4NywtMTU0NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwt
+MTYxNzQ1ODI5OF19
 -->
