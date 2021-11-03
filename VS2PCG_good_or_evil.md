@@ -37,6 +37,7 @@ Here are the current Good or Evil categorizations:
 * Sentinels 
 * Sinister Syndicate
 * Super Villains
+* Symbiotes
 * Underworld
 * Xenomorphs
 * Yellow Team
@@ -57,8 +58,8 @@ Here are the current Good or Evil categorizations:
 * Syndicate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NDc4MzE0LDEwMTY2NDc2NzUsLTEyOT
-QxNTY0MjgsMTE4MDk0NzMxNSwtMTkwNDI3NTIzOSwtMTkwNDI3
-NTIzOSw3MjIyNzE3NjMsLTE5Njc2OTUxMCwxMzE5NzE3NjA4XX
-0=
+eyJoaXN0b3J5IjpbMTE5MzU4NzA5MSwzODQ0NzgzMTQsMTAxNj
+Y0NzY3NSwtMTI5NDE1NjQyOCwxMTgwOTQ3MzE1LC0xOTA0Mjc1
+MjM5LC0xOTA0Mjc1MjM5LDcyMjI3MTc2MywtMTk2NzY5NTEwLD
+EzMTk3MTc2MDhdfQ==
 -->
