@@ -121,7 +121,14 @@ This character has a **"Level Down"** power. A **Level Down** Power works just l
 
 ^(Source: Rule insert)
 
-# Agony 
+# Agony and Riot
+^CardNumber: ^LET-009, ^LET-007
+
+*Set: Lethal Protector*  
+
+These characters have "stun" powers: **Assassin** and **Warrior** respectively. If they trigger their power, but area lso stunned at the same time, they **will** get their +1/+1 counters.
+
+^(Source: Rule insert)
 
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
 ^CardNumber: ^FUT-023
@@ -3320,7 +3327,7 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDU0OTE4MCwxMzEwNDI1ODg1LDE1OT
+eyJoaXN0b3J5IjpbMTYwNzA4NDYyNSwxMzEwNDI1ODg1LDE1OT
 gzODg3NjAsMTk2MTA0NDcyNywtMjA4OTcyMjI3MCwtNTUzNzgy
 Mzc4LDEzMzE1OTE1OTIsODIxNjgxNjg1LDE4NTYxNDk2NzEsLT
 E5MjIzMjE5MjAsNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC02NDY1
