@@ -121,6 +121,8 @@ This character has a **"Level Down"** power. A **Level Down** Power works just l
 
 ^(Source: Rule insert)
 
+# Agony 
+
 # [Ahab](http://vs.tcgbrowser.com/images/cards/big/FUT-023.jpg)
 ^CardNumber: ^FUT-023
 
@@ -3318,11 +3320,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQwNzIxODMsMTMxMDQyNTg4NSwxNT
-k4Mzg4NzYwLDE5NjEwNDQ3MjcsLTIwODk3MjIyNzAsLTU1Mzc4
-MjM3OCwxMzMxNTkxNTkyLDgyMTY4MTY4NSwxODU2MTQ5NjcxLC
-0xOTIyMzIxOTIwLDQ1ODEyNDI0NywtMTM5MjIyMjUyNywtNjQ2
-NTkxNjg1LC03NzAwNDg1NjIsMjA5MDc0Mjg0MywtMTMwOTQzNT
-E4NywtMTU0NjQyNjE1NCwxMjAxMTM3MDIsLTg5MTE3Mzc2NCwt
-MTYxNzQ1ODI5OF19
+eyJoaXN0b3J5IjpbMjE0NDU0OTE4MCwxMzEwNDI1ODg1LDE1OT
+gzODg3NjAsMTk2MTA0NDcyNywtMjA4OTcyMjI3MCwtNTUzNzgy
+Mzc4LDEzMzE1OTE1OTIsODIxNjgxNjg1LDE4NTYxNDk2NzEsLT
+E5MjIzMjE5MjAsNDU4MTI0MjQ3LC0xMzkyMjIyNTI3LC02NDY1
+OTE2ODUsLTc3MDA0ODU2MiwyMDkwNzQyODQzLC0xMzA5NDM1MT
+g3LC0xNTQ2NDI2MTU0LDEyMDExMzcwMiwtODkxMTczNzY0LC0x
+NjE3NDU4Mjk4XX0=
 -->
