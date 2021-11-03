@@ -916,7 +916,9 @@ You can have any number of characters with this character's name on your side. T
   
 
 # Symbiosis  
- This character can have and gain +1/+1 counters while stunned.  
+This character can have and gain +1/+1 counters while stunned.  
+
+Normally, of course, when a character gets stunned, all counters fall off it except wounds (and vitality counters). **Symbiosis** allows characters to keep their hard-earned +1/+1
 
 # Team Affiliation  
 The team or teams to which this character belongs. Typically the team affiliation is indicated by the icon in the upper-right corner of the card, though there are cards that can grant or remove affiliations. Team Affiliation is *not* lost when the character is face-down.
@@ -1015,11 +1017,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzA4MDYyNCwtNDI2MTI2OTU1LC01OD
-A1Mzg2NjMsLTE0NjQ3MTYyNiw4OTc0MDYwMDgsLTU0MTk5MTY5
-OCwxMTIxOTg1OTcyLDE2MjY1MDM4NjUsLTE4NjE4OTkwNDEsLT
-EwOTYwMzExNjcsMTA3MjU5NDczNSw4NDk0ODc2OSwtNTkxNDY3
-NDA4LDIxNDU1OTE3MjMsLTU0NDYzMTEyNywtNjU1MDcxMTQ3LC
-0xMDU2MjAxNzUzLDExMTQwMDc0MDUsLTE0MjgyMjM5MzcsNjg3
-MjEyNTE4XX0=
+eyJoaXN0b3J5IjpbNDA5NDkwNDAzLDE0MjcwODA2MjQsLTQyNj
+EyNjk1NSwtNTgwNTM4NjYzLC0xNDY0NzE2MjYsODk3NDA2MDA4
+LC01NDE5OTE2OTgsMTEyMTk4NTk3MiwxNjI2NTAzODY1LC0xOD
+YxODk5MDQxLC0xMDk2MDMxMTY3LDEwNzI1OTQ3MzUsODQ5NDg3
+NjksLTU5MTQ2NzQwOCwyMTQ1NTkxNzIzLC01NDQ2MzExMjcsLT
+Y1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0MDA3NDA1LC0xNDI4
+MjIzOTM3XX0=
 -->
