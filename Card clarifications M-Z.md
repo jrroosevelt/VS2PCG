@@ -1771,14 +1771,25 @@ A: Scarlet Witch isn't targeting your opponent's MC, it is a blanket effect on t
 
 ^(Source: FB Post - Tim Saunders)
 
+
 # Scorn
-^CardNumber: ^CAR-
+^CardNumber: ^CAR-014
 
-*Set: H.A.M.M.E.R.*  
+*Set: Maximum Carnage*  
 
-**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
+Q: With Scorn, when she is flipped face down (by being stunned) does her equipment remain face-up? 
 
-^(Source: Rule insert)
+For example, if she has Iso-Sphere and she is stunned, does she still get the benefit from the Iso-Sphere when attacked by Devil Slayer? OR, similarly, is the "Battle of Wills" still in effect if she gets stunned?
+
+A: Yes the equipment will remain face up as long as she is equipped with it. Only the character gets turned face down.
+
+A stunned character doesn't have its own powers but it can still be affected by modifiers coming from other places including equipment it has. For example, if there were a character in play granting all other characters +1/+1, a stunned character. Usually, modifiers affecting a stunned character doesn't mean much since stunned characters don't usually do anything. But in the cases mentioned above it would matter. 
+
+Iso-Sphere would keep granting the equipped character those stats (which would be relevant if it were attacked by Devil Slayer). Iso-Sphere will still trigger a Battle of Wits even while Scorn is stunned. 
+
+One other thing -- a stunned character cannot use a super power on an equipment it has.
+
+^(Source: UDE Email Response)
 
 
 # [Scourge](http://vs.tcgbrowser.com/images/cards/big/HAM-014.jpg)
@@ -3277,11 +3288,11 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODU0OTY0NSwtMzEwNzUzOTY0LDk1Mz
-E0MDI5MiwtNTgzOTU4MTMzLDU5NzEwMTM3Miw0MTg3NzkwOTgs
-LTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNj
-QzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3
-NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNiw3NTAzMDA5NiwxNj
-YyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2ODU0MTQsOTUwNDM5
-OTIxXX0=
+eyJoaXN0b3J5IjpbLTEwMzg3Mjc4ODEsLTYwODU0OTY0NSwtMz
+EwNzUzOTY0LDk1MzE0MDI5MiwtNTgzOTU4MTMzLDU5NzEwMTM3
+Miw0MTg3NzkwOTgsLTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLT
+QzMzc2NDg0MywtNjQzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5
+MzM0NiwtMTc5MjU3NzYzLC0yMDYzNzM2MjI5LDgxMDAxMjAyNi
+w3NTAzMDA5NiwxNjYyMTkzNjY0LDIwNDM5Mzk2NTYsLTIwOTQ2
+ODU0MTRdfQ==
 -->
