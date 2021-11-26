@@ -1771,6 +1771,16 @@ A: Scarlet Witch isn't targeting your opponent's MC, it is a blanket effect on t
 
 ^(Source: FB Post - Tim Saunders)
 
+# Scorn
+^CardNumber: ^Car-
+
+*Set: H.A.M.M.E.R.*  
+
+**Betsy’s Incendiary Missiles** lets you **Burn** a character. This means “At the end of each of your turns, stun that character.” A Burn effect has no set duration – it will last until the burning character leaves play.
+
+^(Source: Rule insert)
+
+
 # [Scourge](http://vs.tcgbrowser.com/images/cards/big/HAM-014.jpg)
 ^CardNumber: ^HAM-014
 
@@ -3267,7 +3277,7 @@ When this Plot Twist resolves, it cancels the combat. It then acts as though the
 
 ^(Source: Rule insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjU1MDI3NywtMzEwNzUzOTY0LDk1Mz
+eyJoaXN0b3J5IjpbMTgwODg3NzgxMSwtMzEwNzUzOTY0LDk1Mz
 E0MDI5MiwtNTgzOTU4MTMzLDU5NzEwMTM3Miw0MTg3NzkwOTgs
 LTE1NjI3NDk0MDYsLTE5OTkyODEwMjYsLTQzMzc2NDg0MywtNj
 QzMjg3NDM5LDIwNDAxNDE5MjYsMTMwMjk5MzM0NiwtMTc5MjU3
