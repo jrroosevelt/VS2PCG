@@ -856,6 +856,7 @@ A: No. By default powers/abilities can only target cards in the Play Zone unless
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/1407375245964684)
 
 # Carnage
+## 
 ## [Carnage](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
 ^CardNumber: ^DEF-035
 
@@ -3328,11 +3329,11 @@ A: Cable's power triggers at the end of combat, so Luke Cages' power has already
 
 ^(Source: FB Post - Chad Daniel)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzQxNDEwNCwxNjA3MDg0NjI1LDEzMT
-A0MjU4ODUsMTU5ODM4ODc2MCwxOTYxMDQ0NzI3LC0yMDg5NzIy
-MjcwLC01NTM3ODIzNzgsMTMzMTU5MTU5Miw4MjE2ODE2ODUsMT
-g1NjE0OTY3MSwtMTkyMjMyMTkyMCw0NTgxMjQyNDcsLTEzOTIy
-MjI1MjcsLTY0NjU5MTY4NSwtNzcwMDQ4NTYyLDIwOTA3NDI4ND
-MsLTEzMDk0MzUxODcsLTE1NDY0MjYxNTQsMTIwMTEzNzAyLC04
-OTExNzM3NjRdfQ==
+eyJoaXN0b3J5IjpbMTE3MjYyNDYzNCwtMzMzNDE0MTA0LDE2MD
+cwODQ2MjUsMTMxMDQyNTg4NSwxNTk4Mzg4NzYwLDE5NjEwNDQ3
+MjcsLTIwODk3MjIyNzAsLTU1Mzc4MjM3OCwxMzMxNTkxNTkyLD
+gyMTY4MTY4NSwxODU2MTQ5NjcxLC0xOTIyMzIxOTIwLDQ1ODEy
+NDI0NywtMTM5MjIyMjUyNywtNjQ2NTkxNjg1LC03NzAwNDg1Nj
+IsMjA5MDc0Mjg0MywtMTMwOTQzNTE4NywtMTU0NjQyNjE1NCwx
+MjAxMTM3MDJdfQ==
 -->
