@@ -1385,6 +1385,15 @@ See [Global Information Network](#wiki_global_information_network)
 
 ^(Source: Rule insert)
 
+# We Are Carnage!
+^CardNumber: ^CAR-018
+
+*Set: Maximum Carnage*  
+
+Yes, this Plot Twist can be used to heal a wound from a Main Character!
+
+^(Source: Rule insert)
+
 # [Willie Lumpkin](http://vs.tcgbrowser.com/images/cards/big/FAN-010.jpg)
 ^CardNumber: ^FAN-010
 

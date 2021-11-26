@@ -858,15 +858,25 @@ A: No. By default powers/abilities can only target cards in the Play Zone unless
 
 # Carnage
 ## Carnage MC
+^CardNumber: ^CAR-012
+
+*Set: Maximum Carnage*  
+
+Remember that stunned characters can't have or gain -1/-1 counters, so this power won't affect any stunned characters with **Symbiosis** and +1/+1 counters.
+
+^(Source: Rule insert)
+
+## Carnage - Symbiote SC
 ^CardNumber: ^CAR-002
 
 *Set: Maximum Carnage*  
 
-With
+With his **Maximum Carnage**, if he gets stunned, he **will** gain the +1/+1 counter after the stun has totally resolved (including after -1/-1 counters have fallen off).
 
 ^(Source: Rule insert)
 
-## [Carnage](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
+
+## [Carnage - Underworld SC](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
 ^CardNumber: ^DEF-035
 
 *Set: The Defenders*  
