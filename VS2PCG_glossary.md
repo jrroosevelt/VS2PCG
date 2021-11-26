@@ -22,7 +22,7 @@ See also [Counters](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_counters)
 # Agenda  
 
 * When you build a deck with a starting Main Character with the printed Syndicate team affiliation, you must choose ONE Syndicate Agenda. It will start the game out of play face down in your Agenda pile.  
-  
+
 * Your Agenda does not count toward your 60-card deck.  
   
 * Your Agenda pile is private. (Your opponents can’t look at it, but you can look at it at any time.)  
@@ -1019,11 +1019,11 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjA1NjYwNCwxNDI3MDgwNjI0LC00Mj
-YxMjY5NTUsLTU4MDUzODY2MywtMTQ2NDcxNjI2LDg5NzQwNjAw
-OCwtNTQxOTkxNjk4LDExMjE5ODU5NzIsMTYyNjUwMzg2NSwtMT
-g2MTg5OTA0MSwtMTA5NjAzMTE2NywxMDcyNTk0NzM1LDg0OTQ4
-NzY5LC01OTE0Njc0MDgsMjE0NTU5MTcyMywtNTQ0NjMxMTI3LC
-02NTUwNzExNDcsLTEwNTYyMDE3NTMsMTExNDAwNzQwNSwtMTQy
-ODIyMzkzN119
+eyJoaXN0b3J5IjpbLTU1ODA5MDc4OCwxNTA2MDU2NjA0LDE0Mj
+cwODA2MjQsLTQyNjEyNjk1NSwtNTgwNTM4NjYzLC0xNDY0NzE2
+MjYsODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMTk4NTk3MiwxNj
+I2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMxMTY3LDEwNzI1
+OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NTkxNzIzLC
+01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0
+MDA3NDA1XX0=
 -->
