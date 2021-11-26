@@ -860,12 +860,12 @@ A: No. By default powers/abilities can only target cards in the Play Zone unless
 ## Carnage MC
 ^CardNumber: ^CAR-002
 
-*Set: The Defenders*  
+*Set: Maximum Carnage*  
 
-**Maximum Carnage**  
-Carnage’s power triggers when he stuns or gets stunned. So it’s possible for it to trigger twice in one combat.
+With
 
 ^(Source: Rule insert)
+
 ## [Carnage](http://vs.tcgbrowser.com/images/cards/big/def-035.jpg)
 ^CardNumber: ^DEF-035
 
@@ -1966,6 +1966,6 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 
 ^(Source: Rule Insert)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDk1ODM1MiwxNjI3NTkwNjg0LDE2Mz
-Q0NDU4NjldfQ==
+eyJoaXN0b3J5IjpbMjAxNzc0ODg0MSwxNzAwOTU4MzUyLDE2Mj
+c1OTA2ODQsMTYzNDQ0NTg2OV19
 -->
