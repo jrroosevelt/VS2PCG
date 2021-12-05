@@ -324,6 +324,20 @@ This ability is currently available on the [Deadpool MC from the Deadpool & Frie
 # Evil 
 Classification of a card's affiliation on the scale of [Good or Evil](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil). Used for some game formats or card abilities/effects.
 
+# Favored Symbiote Hosts
+
+There are four famous **Host** Supporting Characters in the Issue (Spider-Verse). They each allow you to **Bind** a Symbiote to them to become something much more. Here's what **Bind** means when you include a character with it in your deck: If you have a character with a **Bind** power in your deck, you must start the game with a set-aside Binding Pile. This pile is *fixed* (you must include particular cards) and *private* (opponents can't look at its contents). The pile is made up of any Main Characters mentioned on the **Bind** cards in your deck and any Main Characters those Main Characters can Level Up or Down into. (Once a new Main Character appears on your side as a result of Bind, it will Level UP and Down as normal.)
+
+Also, if that Main Character requires any piles of its own, you get to have those piles as well. (This is an exception to the usual pile rules. What can we say? Symbiotes are hard to get rid of.)
+
+For example, if Peter Parker is in your deck, you'll start the game with a Binding Pile with a Level 1 (Spider-Friends) Spider-Man Main Character with **Symbiosis**. Currently, teh only Level 1 (Spider-Friends) Main Character with **Symbiosis** has its own Alien Symbiote pile so you'll have that pile as well. The Binding PIle will also include teh Level 2 Main Character that the Level 1 Spidey can Level Up into.
+
+Here's how **Bind** works during the game:
+
+At the start of your turn, if you have a face-up **Host** on your side and its listed Symbiote Equipment in your hand, you may play it for free equipped to the **Host**. If you do, KO them both, then place the listed Main Character where the **Host** was (in the same row and in the same space). *Note:** The Main Character appears ready and without any counters even if the **Host** was exhausted or had counters.
+
+Your opponent does *not* need to KO this additional Main Character to defeat you.
+
 # Fearless  
  While attacking a main character, this character strikes with double its ATK.  
  

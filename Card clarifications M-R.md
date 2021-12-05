@@ -1172,6 +1172,13 @@ A: No. You **can** do this the first time. However, as soon as **Parallel Dimens
 
 ^Source: ^Chad ^Daniel
 
+# Peter Parker
+^CardNumber: ^VER-011
+
+*Set: Spider-Verse*
+
+See [Favored Symbiote Hosts](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_favored_symbiote_hosts) in the Glossary.
+
 # Phil Coulson
 ## [Phil Coulson](http://vs.tcgbrowser.com/images/cards/big/CV1-006.jpg) (Illustrated)
 ^CardNumber: ^CV1-006

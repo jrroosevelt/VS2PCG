@@ -690,7 +690,16 @@ When Iron Fist Challenges a character, it remains challenged by him until it lea
 
 ^(Rule Insert)
 
-## [Iron Fist (SC)](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
+## Iron Fist (SC - Spider-Friends)
+^CardNumber: ^VER-022
+
+*Set: Spider-Verse*
+
+For Chi counters, you can use anything (we suggest you use XP counters). Iron Fist can spend any number of Chi in a combat with his **Source of My Power**, but only one at a time. Remember that Chi counters, like all counters except wounds and vitality counters, do fall off when Iron Fist is turned face down (either by being hidden or stunned).
+
+^(Rule Insert)
+
+## [Iron Fist (SC - Defenders)](http://vs.tcgbrowser.com/images/cards/big/def-012.jpg)
 ^CardNumber: ^DEF-012
 
 *Set: Defenders*

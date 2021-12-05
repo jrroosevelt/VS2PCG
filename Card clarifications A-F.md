@@ -938,12 +938,33 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 ^(Source: Rule Insert)
 
-# [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
-^CardNumber: ^TUB-044
+# Cletus Kasady
+^CardNumber: ^VER-010
+
+*Set: Spider-Verse*
+
+See [Favored Symbiote Hosts](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_favored_symbiote_hosts) in the Glossary.
+
+# Cloak
+## Cloak and Dagger(MCs)
+^CardNumber: ^VER-001, ^VER-001, ^VER-003, ^VER-004
+
+*Set: Spider-Verse*
+
+These two Main Characters go together. You start with both on your side and your opponent must KO both of them to defeat you.
+
+Their **Level Up** powers refer to Darkforce and Lightforce being generated. This means when they put counters onto characters with their powers **Darkforce Generation** and/or **Lightforce Generation**.
+
+**Note:** The **Generation** powers are mandatory once they trigger, and you can place the counters on characters on any side. (The same is true for the powers of the same name on the SUpporting Character.)
+
+^(Source: Rule insert)
+
+## [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
+^CardNumber: ^TUB-004
 
 *Set: The Utopia Battles*
 
-**Darkforce Channeling** affects all characters, including ones that appear on your side
+**Darkforce Channeling** affects all characters, including ones that appear on your side.
 
 **Shifting Loyalties**
 See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shifting_loyalties)
@@ -1582,6 +1603,14 @@ A: No. The "Starting Main Character Required" restriction on the card is a deck 
 
 ^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/783103861811314709)
 
+# Eddie Brock
+^CardNumber: ^VER-008
+
+*Set: Spider-Verse*
+
+See [Favored Symbiote Hosts](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_favored_symbiote_hosts) in the Glossary.
+
+
 # [E.D.I.T.H](http://vs.tcgbrowser.com/images/cards/big/MCU7-022.jpg)
 ^CardNumber: ^MCU7-022
 
@@ -1896,6 +1925,13 @@ A: When FFF makes a ranged attack against a row with an equipped Tranquilizer Gu
 *Set: The Buffy Battles*  
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
+
+# Flash Thompson
+^CardNumber: ^VER-009
+
+*Set: Spider-Verse*
+
+See [Favored Symbiote Hosts](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_favored_symbiote_hosts) in the Glossary.
 
 # [Flukeman](http://vs.tcgbrowser.com/images/cards/big/XFB-054.jpg)
 ^CardNumber: ^XFB-054
