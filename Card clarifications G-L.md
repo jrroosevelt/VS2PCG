@@ -125,6 +125,18 @@ If Ghost-Spider enters a game that isn't Vs. System 2PCG, it's up to the players
 
 ^(Source: Rule insert)
 
+---
+
+Q: Question about Ghost Spider MC's lvl 1 ability **You Can Borrow This for A While**. 
+
+Let's say I name "Spider-Man" - who is a Spider-Friends SC. If I have an Anti-Registration (or Pro-Reg, Avengers, etc.) version of Spider-Man in my deck, does he also get Dimensional Wristwatch? Or is it ONLY the Spider-Friends version? 
+
+The ability specifically says you have to name a Spider-Friends supporting character, but it generically says that "Characters with that name have Dimensional Wristwatch..." (It doesn't specify "Spider-Friends characters with that name...")
+
+A: The named character must a be Spider-Friends team affiliated character, but yes every character with that name in your deck (AKAs have that name) are able to be retrieved with the wrist watch.
+
+^(Source: UDE Ruling)
+
 # [Gilgamesh](http://vs.tcgbrowser.com/images/cards/small/COS-015.jpg)
 ^CardNumber: ^XFB-015
 

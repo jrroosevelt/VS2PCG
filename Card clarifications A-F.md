@@ -959,6 +959,14 @@ Their **Level Up** powers refer to Darkforce and Lightforce being generated. Thi
 
 ^(Source: Rule insert)
 
+---
+
+Q: I know that a face-down character can't have or gain -1 counters, but can it be the TARGET of a power that would grant -1/-1 counters? Specifically with Cloak MC, for instance, if all enemies are face-down, can his power still target one of those face-down characters? (But of course it wouldn't actually get added to them.)
+
+A: Cloak does not specify face up so a face down character is a legal target for the ability.  This will result in no counters being placed unless Nightmare supporting character is face up and in play.
+
+^(Source: UDE Ruling)
+
 ## [Cloak](http://vs.tcgbrowser.com/images/cards/big/TUB-044.jpg) 
 ^CardNumber: ^TUB-004
 
