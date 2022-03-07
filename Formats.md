@@ -169,24 +169,7 @@ Your deck can include cards from more than one of the above teams.
 
 You can have any number of neutral equipment, plot twists, or locations (cards without a team affiliation) in your deck. (Note: Cards with the Marvel logo in their upper right are neutral cards.)
 
-Expansion List:
-
-- The Marvel Battles
-- Legacy
-- Deadpool & Friends
-- Brotherhood of Mutants
-- New Mutants
-- Crossover Vol 1
-- Galactic Guardians
-- The Utopia Battles
-- Resistance
-- H.A.M.M.E.R.
-- Crossover Vol 2
-- Futures Past
-- Freedom Force
-- The Omegas
-
-There are neutral cards available in other products. These are legal for this Format.
+(Editor's note: List of valid sets removed because it is now out-of-date.)
 
 [Official format announcement](https://www.upperdeckblog.com/2020/10/vs-system-2pcg-featured-formats-for-fall-2020-and-winter-2021/)
 
@@ -373,19 +356,7 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 **Relevant Sets:**
 
-* [The Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_defenders)
-
-* [Legacy](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_legacy)
-
-* [Monsters Unleashed](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_monsters_unleashed)
-
-* [Deadpool and Friends](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_deadpool_.26amp.3B_friends)
-
-* [Spider-Friends](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_spider-friends)
-
-* [Sinister Syndicate](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_sinister_syndicate)
-
-* [New Defenders](https://www.reddit.com/r/VS2PCG/wiki/card-lists#wiki_new_defenders)
+(Editor's note: List of valid sets removed because it is now out-of-date.)
 
 # Community Formats
 The following is a list of formats that haven't been officially released by Upper Deck Entertainment, but have been created for use in community events (such as Build Phase League or Quarantine Cup tournaments).
