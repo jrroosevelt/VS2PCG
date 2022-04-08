@@ -20,6 +20,59 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+### Featured Format #16: Life Goes On ###
+
+Play with only the strongest in the Multiverse, as each Main Character you choose must have at least 6 health and each Supporting Character must have at least 2 health!
+
+**Season:** Summer 2022
+
+**Dates:** July 1st, 2022 through September 30th, 2022
+
+**Rules:** Your Main Character (and any that start outside the game) must have at least 6 printed health at each level. Each supporting character in your deck (and any that start outside the game) must have at least 2 printed health.
+
+You can only use cards from the beginning of “Volumes” (Volume 1, Issue 1 and onward).
+
+You may include any Basic Locations in your deck, even if they’re not from Volume 1 forward.
+
+You may include any “wild” Special Locations in your deck that share a team affiliation with your Main Character or a Supporting Character in your deck.
+
+The standard separation of Photographic and Illustrated Universes still applies in this format.
+
+### Featured Format #15: Crossing the Spider-Verse ###
+
+Mix together Spider-Man and his amazing friends (and enemies) from the Illustrated and Photographic Universes!
+
+**Season:** Spring 2022
+
+**Dates:** April 1st, 2022 through June 31st, 2022
+
+**Rules:** Your Main Character and all of your Supporting Characters must be from the following teams:
+
+- Spider-Friends 2018-upper-deck-vs-system-2pcg-marvel-great-power-spider-friends
+- Sinister Syndicate 2018-upper-deck-vs-system-2pcg-marvel-great-power-sinister-syndicate
+- Symbiotes upper-deck-marvel-vs-system-2pcg-team-logo-Symbiote
+
+Special Format exception: You can use ANY cards (including your main character) from the Photographic Universe’s Friendly Neighborhood Issue. In this Format, you CAN have Illustrated and Photographic cards in the same deck!
+
+You can only use cards from the following products (listed in order of release):
+
+- Spider-Friends
+- Sinister Syndicate
+- Crossover Vol. 1
+- Crossover Vol. 2
+- Friendly Neighborhood
+- Spidey-Foes
+- Webheads
+- Lethal Protector
+- Maximum Carnage
+- Spider-Verse
+
+You may also include any Basic Locations in your deck, regardless of which product they’re from.
+
+You may include any “wild” Special Locations in your deck that share a team affiliation with your Main Character or a Supporting Character in your deck.
+
+
+
 ### Featured Format #14: Build an Arc
 
 Take a crack at making an Arc of your own! Select three Issues and build a deck from the cards within.

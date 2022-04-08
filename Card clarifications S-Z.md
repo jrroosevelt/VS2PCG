@@ -1568,6 +1568,8 @@ A: No
 **Self-Awareness**  
 Wyatt knows he is in a  **Card Game**, and he wants to play too! So when he appears, and until he leaves play, he gets his own hand and resource row.  **Note:** His hand counts as being part of your hand, and his resource row counts as being part of your resource row.
 
+(**Editor's note**: See addendum below for update clarification to when Wyatt's power triggers.)
+
 Here’s how it works:
 
 *   At the end of your Draw Phase, Wyatt draws two cards into his part of your hand. (Keep these cards separate from the main part of your hand.)  
@@ -1585,6 +1587,29 @@ Here’s how it works:
 **Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
 
 ^(Source: Rule insert)
+
+---
+
+Clarification on the above:
+
+In v4 of the official compiled rules, Wyatt's power was updated to clarify that:
+
+> When character appears, he gets his own hand and resource row until he leaves your side.
+> When character moves to your side, he gets his own hand and resource row until he leaves your side.
+
+^(Source: Official Rules)
+
+---
+
+Q: What happens if Wyatt is face-down? What happens if I cancel Wyatt's power via Mutant Control Act? What about Nullifier (or Cosmo, etc.)?
+
+A: Wyatt's power is a triggered power with a set duration. It triggers when he appears and it doesn't turn off until he is removed from play or leaves your side. Therefore, if he is face down, he still has a hand and still draws. 
+
+If his power is negated via Mutant Control Act, it never turns on (unless he leaves play and appears again). If his power is negated after it already triggered (such as via Nullifier or Cosmo after he appeared), the power is unaffected as the modifier is now independent of the power. If the power is Nullified BEFORE he appears, however, it never triggers and he never gets a hand nor resource row.
+
+If he is moved to a different side (such as via Serpent Crown) his hand and resource row are lost for the original player, and now the player of the side he's on gets a hand and row. (His hand and row do NOT get moved over from the original player.)
+
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/961979606515216404)
 
 # [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
 ^CardNumber: ^NEW-006

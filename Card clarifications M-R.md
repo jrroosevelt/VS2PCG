@@ -1158,7 +1158,7 @@ A: No. As long as he stuns the defender, the power is applied, even if Paladin i
 
 *Set: The X-Files Battles*
 
-A **Duplicate** of your Main Character works like this. It has all the same printed characteristics as your Main Character - name, team, current Level, ATK/DEF, and posers - plus it has **Swarm** and it can't gain XP, Level Up or Level Down, transform, or otherwise become a different card. When it's KO'd, it will go back to being the Parallel Dimension Plot Twist in your KO Pile.
+A **Duplicate** of your Main Character works like this. It has all the same printed characteristics as your Main Character - name, team, current Level, and powers - plus it has **Swarm** and it can't gain XP, Level Up or Level Down, transform, or otherwise become a different card. (**Editor's note**: There is a typo in the rule insert that states that this copy also has the original's ATK/DEF. That is incorrect. It is a 0/1 copy.) When it's KO'd, it will go back to being the Parallel Dimension Plot Twist in your KO Pile.
 
 Note: If you have more than one Main Character when you play this, choose one to make a **Duplicate** of.
 
