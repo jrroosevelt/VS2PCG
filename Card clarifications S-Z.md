@@ -1565,39 +1565,35 @@ A: No
 
 *Set: The Fantastic Battles*  
 
-**Self-Awareness**  
-Wyatt knows he is in a  **Card Game**, and he wants to play too! So when he appears, and until he leaves play, he gets his own hand and resource row.  **Note:** His hand counts as being part of your hand, and his resource row counts as being part of your resource row.
+**Self-Awareness**
+(**Editor's note:** The original text from the rule insert has been omitted to prevent confusion. The text below is a clarified version of the power that was posted to the official compiled rulebook.)  
 
-(**Editor's note**: See addendum below for update clarification to when Wyatt's power triggers.)
+Characters that know they are in a Card Game play too! While a character knows they are in a card game, they have the following powers:
+
+- When character appears, he gets his own hand and resource row until he leaves your side.
+- When character moves to your side, he gets his own hand and resource row until he leaves your side.
+
+Note: The hand counts as being part of your hand, and the resource row counts as being part of your resource row.
 
 Here’s how it works:
 
-*   At the end of your Draw Phase, Wyatt draws two cards into his part of your hand. (Keep these cards separate from the main part of your hand.)  
-    *   **This is the only way to add cards to his part of your hand**. If another effect would add cards to your hand, they always go to the main part of your hand, never to Wyatt’s part of your hand.  
-    *  All other effects that affect your hand work as normal.  
-        *   For example, if you are forced to ”discard a random card”, you must randomize all the cards in your hand, including Wyatt’s part of your hand.  
-* At the end of your Resource Step, Wyatt may play a resource from his hand into his part of your resource row. (Keep these resources separate from the main part of your resource row.)
-    *   **This is the only way to add resources to his part of your resource row**. If another effect would add resources to your resource row, they always go to the main part of your resource row, never to Wyatt’s part of your resource row.  
-* At the end of your Recruit Step (after you’ve spent your normal Recruit Points to play cards from the main part of your hand, and any leftover Recruit Points go away), you gain 1 Recruit Point for each resource in Wyatt’s part of the resource row. You can only spend these Recruit Points to play cards from Wyatt’s part of your hand.  
-* Characters and Equipment you play from Wyatt’s part of the hand work as normal once they are on your side. (Once they’re in play, it doesn’t matter if they came from your main hand or Wyatt’s part of your hand.)  
-* You can play Plot Twists or power-ups from Wyatt’s part of your hand as normal.  
-* You can spend Locations in Wyatt’s part of your resource row or discard them from Wyatt’s hand to generate power symbols normally.  
-* When Wyatt leaves play, remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part of your hand stay in play.)
+- At the end of your Draw Phase, The character draws two cards into his part of your hand. (Keep these cards separate from the main part of your hand.)
 
-**Note:** If Wyatt gets moved to another player’s side, remove all the cards in his part of your hand and resource row from the game. Now Wyatt will draw extra cards and play extra resources for that player.
+    - This is the only way to add cards to his part of your hand. If another effect would add cards to your hand, they always go to the main part of your hand, never to the character’s part of your hand.
+    - All other effects that affect your hand work as normal.
+    - Example: If you are forced to ”discard a random card”, you must randomize all the cards in your
+hand, including Wyatt’s part of your hand.
+- At the end of your Resource Step, the character may play a resource from his hand into his part of your resource row. (Keep these resources separate from the main part of your resource row.)
 
-^(Source: Rule insert)
+    - This is the only way to add resources to his part of your resource row. If another effect would add resources to your resource row, they always go to the main part of your resource row, never to the character’s part of your resource row.
+  
+- At the end of your Recruit Step (after you’ve spent your normal Recruit Points to play cards from the main part of your hand, and any leftover Recruit Points go away), you gain 1 Recruit Point for each resource in the character’s part of the resource row. You can only spend these Recruit Points to play cards from the character’s part of your hand.
+- Characters and Equipment you play from the character’s part of the hand work as normal once they are on your side. (Once they’re in play, it doesn’t matter if they came from your main hand or the character’s part of your hand.)
+- You can play Plot Twists or Power Ups from the character’s part of your hand as normal.
+- You can spend Locations in the character’s part of your resource row or discard them from the character’s hand to generate power symbols normally.
+- When the character leaves your side , remove the cards in his part of your hand and resource row from the game. (Characters and Equipment played from his part of your hand stay in play.) 
 
----
-
-Clarification on the above:
-
-In v4 of the official compiled rules, Wyatt's power was updated to clarify that:
-
-> When character appears, he gets his own hand and resource row until he leaves your side.
-> When character moves to your side, he gets his own hand and resource row until he leaves your side.
-
-^(Source: Official Rules)
+^(Source: Official Compiled Rulebook v 4)
 
 ---
 
