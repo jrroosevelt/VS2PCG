@@ -20,7 +20,8 @@ All cards with an affiliation in the deck (including MCs) must share an affiliat
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
-### Featured Format #16: Life Goes On ###
+### Life Goes On ###
+[Official format announcement](https://www.upperdeckblog.com/2022/03/vs-system-2pcg-featured-formats-crossing-the-spider-verse-and-life-goes-on/)
 
 Play with only the strongest in the Multiverse, as each Main Character you choose must have at least 6 health and each Supporting Character must have at least 2 health!
 
@@ -38,7 +39,8 @@ You may include any “wild” Special Locations in your deck that share a team 
 
 The standard separation of Photographic and Illustrated Universes still applies in this format.
 
-### Featured Format #15: Crossing the Spider-Verse ###
+### Crossing the Spider-Verse ###
+[Official format announcement](https://www.upperdeckblog.com/2022/03/vs-system-2pcg-featured-formats-crossing-the-spider-verse-and-life-goes-on/)
 
 Mix together Spider-Man and his amazing friends (and enemies) from the Illustrated and Photographic Universes!
 
@@ -71,9 +73,7 @@ You may also include any Basic Locations in your deck, regardless of which produ
 
 You may include any “wild” Special Locations in your deck that share a team affiliation with your Main Character or a Supporting Character in your deck.
 
-
-
-### Featured Format #14: Build an Arc
+### Build an Arc
 
 Take a crack at making an Arc of your own! Select three Issues and build a deck from the cards within.
 
@@ -89,7 +89,7 @@ You may include any “wild” Special Locations in your deck that share a team 
 
 All other Special Locations must be in the Issues you have selected for your Arc.
 
-### Featured Format #13: Second Chance
+### Second Chance
 
 It’s always good to be retrospective. This format will allow for just that: players will be able to enjoy a more recent, yet still broad, card pool from which to build.
 

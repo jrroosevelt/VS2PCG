@@ -1028,6 +1028,19 @@ Kraven has a Reaction super power. These types of super powers work a little dif
 
 ^(Source: Rule insert)
 
+# [Kristoff Vernard](http://vs.tcgbrowser.com/images/cards/big/FAN-047.jpg)
+^CardNumber: ^FAN-047
+
+*Set: The Fantastic Battles*  
+
+**Becoming Doom**  
+Q: If I have a Doombot on my side, can I use Kristoff to power up Doctor Doom?
+
+A: No. Kristoff's power is not active when he his in your hand. Therefore he doesn't have "AKA Doctor Doom" until his is in the Play zone.
+
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/962346013769728080)
+
+
 # Lady Deathstrike
 
 ## Lady Deathstrike (Pro-Registration)
