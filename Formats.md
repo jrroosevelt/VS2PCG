@@ -386,7 +386,7 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 
 
-### Big Apple Format
+### Big Apple Battles Format
 
 ***Active:*** October 2018 through December 2018
 
@@ -406,6 +406,9 @@ See the [announcement article](https://www.upperdeckblog.com/2020/02/vs-system-2
 
 * Sinister Six
 
+Your deck can include cards from more than one of the above teams.
+
+You can have any number of neutral (no affiliation) cards in your deck
 
 **Relevant Sets:**
 

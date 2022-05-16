@@ -246,14 +246,21 @@ In tournament play, you're only allowed to search for and fail to find a charact
 Taking a card from your hand and putting it into your KO pile.
 
 # Dodge  
-This character cannot be Range attacked  
-  
+This character cannot be Range attacked   
 
 # Duplicate  
 A Duplicate has all the same printed characteristics as your Main Character – name, team, current Level, and powers with an ATK/DEF of 0/1 and 1 Health – plus it has Swarm and it can’t gain XP, can’t Level up or Level Down, transform, or otherwise become a different card. When it’s KO’d it will go back to being the Parallel Dimension Plot Twist in your KO pile.  
 
 # Durable  
 If this character would get stunned other than by getting struck in combat, it doesn't get wounded. When this character gets stunned other than by getting struck in combat, you may recover it.  
+
+# During Combat
+Some powers (such as **Elder of the Universe**) reference "During Combat" or "Not During Combat." Unless otherwise noted, "During Combat" powers require the character in question to be directly involved in the combat for that power or ability to apply.
+
+[^Source: ^FB ^Post](https://www.facebook.com/groups/860168987351982/posts/5058130940889078/?comment_id=5064440266924812)
+
+# Elder of the Universe
+If this character gets stunned during combat, it doesn't get wounded.
 
 # Enemy
 This applies to anything opposing you. An enemy player is your opponent. An enemy character is one on your opponent's side.
@@ -358,7 +365,6 @@ While in melee combat, this character strikes before characters without Ferociou
 
 # Flight  
 This character can attack protected characters in the back row unless there is a face-up character with Flight in the enemy front row.  
-  
 
 # Freeze  
 Exhaust a character.  That character can't Ready during its next turn.  
@@ -447,7 +453,7 @@ This character gets +3 ATK while attacking.
  This character can't be wounded.
 
 # Infected
-If a character is **Infected**, it gains a -1/-1 counter at the end of each of its owner's turns.
+If a character is **Infected**, it gains a -1/-1 counter at the end of each turn for the owner of the character that caused the infection. So if you control Flukeman, for example, and he infects a character, that character gains counters at the end of YOUR turn.
 
 # Infinity  
 If a card with Infinity would get put into a KO pile from anywhere, you may shuffle it into its owner's deck instead. [July 2019 Rules Update](https://drive.google.com/file/d/1y95RZDM2Ualcn__Z87UTj9kvFgiXk73N/view?fbclid=IwAR2fMgAc9SM3uLepVY2dO1MWQzSHJoBztx7gD9VR3IhbogRIIPBe8upAotw)  
