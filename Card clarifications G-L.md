@@ -238,6 +238,19 @@ If more than one player has the Grandmaster as their main character, they will e
 
 ^(Source: Rule insert)
 
+## [Grandmaster](http://vs.tcgbrowser.com/images/cards/big/LEG-033.jpg) - Illus SC
+^CardNumber: ^LEG-033
+
+*Set: Legacy*  
+
+Q: Does **Elder of the Universe** apply only if Grandmaster is directly involved in the combat? For example, what if my opponent has Grandmaster out and I attack one of their other characters with Carnage (Symbiote). If Grandmaster gets a -1/-1 counter and is stunned, does he get wounded? (Technically, the counter was applied during a combat - just not one that Grandmaster was involved in directly.)
+
+A: During Combat in this case does reference a combat this character is involved in. Generally a “Combat” by itself is referring to combat this character is involved in while “Any Combat” concerns a combat this or any character is involved in.
+
+So, in the above example, Grandmaster would take a wound because it is not during combat from his perspective (he's not directly involved in the combat).
+
+[^Source: ^FB ^Post](https://www.facebook.com/groups/860168987351982/posts/5058130940889078/?comment_id=5064440266924812)
+
 
 # Green Goblin
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC - Sinister Six)
