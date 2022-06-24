@@ -1670,6 +1670,3 @@ Royce’s supporting character has this Super Power. It allows him to move a wou
 The Runner is so fast he can actually attack during your Build Phase. This means you can recruit characters and equipment after the Runner attacks. (You could even recruit a new copy of Runner and attack with it!) Note: The Runner attacking during the Build Phase does count as a regular Combat so **Combat** Super Powers and Plot Twists, and power ups can be used during a Build Phase combat. However, during the combat you can't use any **Build** Super Powers and Plot Twists.
 
 ^(Source: Rule insert)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNDk3NTE2XX0=
--->

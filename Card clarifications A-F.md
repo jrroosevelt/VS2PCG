@@ -256,6 +256,15 @@ When Angela opens a **Bridge to Heven**, you must put each revealed character on
 
 ^(Source: Rule insert)
 
+# Angry Beasts (Terrain)
+^CardNumber: ^CV4-027
+
+*Set: Crossover Vol. 4* 
+
+Besides being angry, the wolves are very smart, and good listeners. If there is a tie for the lowest DEF in his row, the player who placed the wolves chooses who to put the -1/-1 counters on.
+
+^(Source: Rule insert)
+
 # [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
 ^CardNumber: ^FRI-001, ^FRI-002
 
@@ -269,6 +278,12 @@ When Annihilus levels up, you'll shuffle his Level 1 card into your deck. While 
 
 ^(Source: Rule Insert)
 
+# [Anti-Venom](http://vs.tcgbrowser.com/images/cards/big/LET-016.jpg)
+^CardNumber: ^LET-014
+
+This character should also read : “**AKA Venom**”
+
+^Source: [^Upper ^Deck ^Blog](https://www.upperdeckblog.com/2022/01/vs-system-2pcg-organized-play-post-symbiotes-arc-update/)
 
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
 ^CardNumber: ^TBB-018
@@ -429,6 +444,17 @@ Q: Does “could melee attack” imply that Beetle has to be ready in order to u
 
 A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
 
+
+# The Beyonder
+^CardNumber: ^CV4-013
+
+*Set: Crossover Vol. 4* 
+
+The Beyonder requires two different out-ofgame piles. The first, his Creator pile, from his **Creator of Battleworld** power,  will contain 5 Battleworld Domains. This pile is Variable (you choose the Domains) and Private (only you can look at it during the game). If the game is already in a Battleworld Domain when he uses this power, that one goes to its discard pile.
+
+The second pile, his Power pile, from his **Omnipotent** power, will contain any 5 different Supporting Characters. These characters can be any Vs. System 2PCG cards: Photographic/Illustrated and any Property. This pile is Variable (you choose the characters) and Private (only you can look at it during the game). You will need to reveal the character you choose when you use it.
+
+^(Source: Rule insert)
 
 # \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
 ^CardNumber: ^LEG-015
@@ -988,6 +1014,12 @@ See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shif
 
 ^(Source: Rule Insert)
 
+---
+
+Note:  **Upgrade the Collection** *will* stop recruit powers.
+
+^Source: [^Upper ^Deck ^Blog](https://www.upperdeckblog.com/2020/11/vs-system-2pcg-crossover-vol-3-card-preview-i-have-many-things/)
+
 # [Colonists (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-026.jpg)
 ^CardNumber: ^XFB-026, ^XFB-027
 
@@ -1006,6 +1038,15 @@ See [Shifting Loyalties](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_shif
 > When each of the following appears for the first time **while Colonists are face up** this game...
 
 Though this wasn't listed specifically in the [August 2021 Rules Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/), this is congruent with the change to Mr. Fantastic and it was confirmed later via [Discord Post](https://discord.com/channels/306874195051020288/768614566594478080/880199894248333322).
+
+# Concealed Cave (Terrain)
+^CardNumber: ^CV4-030
+
+*Set: Crossover Vol. 4* 
+
+This Terrain lets you hide characters. To do so, turn them face down, but ready. During their next Recovery Phase, turn them face up when you recover your stunned characters.
+
+^(Source: Rule insert)
 
 # [Copycat](http://vs.tcgbrowser.com/images/cards/big/MFM-013.jpg)
 ^CardNumber: ^MFM-013
@@ -1635,6 +1676,16 @@ See [Favored Symbiote Hosts](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_
 *Set: The Predator Battles*  
 
 Each copy of Edwin is Good until he uses **I Like it Here** (even if a previous one has become Evil). Each copy of Edwin can only use **I Like It Here** if that copy of the card has used **I Wouldn’t Do That**.
+
+# Egghead
+^CardNumber: ^CV4-007
+
+*Set: Crossover Vol. 4* 
+
+An Evil card is any card with an Evil team affiliation. A list of Good and Evil teams can be found in the Complied Rulebook on
+[upperdeck.com/op](http://upperdeck.com/OP/).
+
+^(Source: Rule insert)
 
 # [Ego](http://vs.tcgbrowser.com/images/cards/big/mcu3-003.jpg)
 ^CardNumber: ^MCU3-003, ^MCU3-004

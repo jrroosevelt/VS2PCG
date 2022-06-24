@@ -44,9 +44,9 @@ All other rules from Boss Battle remain the same, except you will need to random
 # Terrain
 **Number of players**: 2-4
 
-Terrain is an important part of almost every combat. We thought we would make some!
+Terrain is an important part of almost every combat. We thought we would make some! After including a City Terrain set in Crossover Volume 3, we added a second Terrain set in this Issue: the Forest.
 
-**Setup**: Shuffle a set of 10 Terrain and place them face down in a pile. (As of this Issue, there is only one Terrain set: “City”.) After players reveal their main characters during setup, but before they draw their hands, each player draws a Terrain card and looks at it. Then the first player places their Terrain, with the rest of the players following in turn order. (Each Terrain will tell you which row it can be placed in. We suggest you turn it sideways in its row.) Then each player draws their hand and mulligans as normal.
+**Setup**: Shuffle a set of 10 Terrain and place them face down in a pile. After players reveal their main characters during setup, but before they draw their hands, each player draws a Terrain card and looks at it. Then the first player places their Terrain, with the rest of the players following in turn order. (Each Terrain will tell you which row it can be placed in. We suggest you turn it sideways in its row.) Then each player draws their hand and mulligans as normal.
 
 **Rules**: Terrain either affects each character in a row or one or two characters in a row.
 
@@ -56,6 +56,10 @@ Terrain is an important part of almost every combat. We thought we would make so
     -   Characters in this type of Terrain should be physically touching the Terrain card.
     -   You can leave this type of Terrain empty or partially full: you aren’t required to put characters in it.
     -   A character can’t be in more than one Terrain of this type. (But it could be affected by a Terrain that affects an entire row and in one that affects only one character.)
+-   New rules for the Forest Terrain:
+    - Some Forest Terrain are Secret. This means they get placed face down instead of face up. When you want to put characters in a Secret Terrain during your Formation Step, turn it face up and use it as normal.
+    - Forest Terrain are destructible (they have a Health number). A character can attack a destructible Terrain if it would normally be able to attack into that row. For example, it can attack an enemy player’s back row Terrain if there are no characters in that player’s front row. A character can also attack a destructible Terrain that is in its own row.
+    - When a character attacks a destructible  Terrain, exhaust the attacker. Then immediately put a wound on the Terrain. That action is now concluded (players can’t play Plot Twists, and the attacker doesn’t “strike” the Terrain, etc.). If the destructible Terrain now has wounds equal to its Health, put it in its pile’s discard  pile. If a Terrain pile ever runs out, shuffle the discard pile, and make a new pile.
 
 **Mix Terrain with:** Battleworld, Story Mode, Boss battle
 
@@ -210,9 +214,3 @@ Player A's main character is a time traveler.
 **Player A Wins:** *You have changed the past, but do you even remember doing it?* Play this story again.
 
 **Player B Wins:** *You have halted this temporal incursion for now, but what's to stop it from happening again?* Play this story again.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODcwNDg1MSw2MDk5OTkzMCwxMTc2Nj
-czOTU0LC0xMDcyMjAyNDIxLC0xMDM4NjYxODUzLC0xMTY3NDY5
-MjMxLC0xODIyMDM5ODUzLDE3OTU2OTc4OTMsNTgyOTU2MzExXX
-0=
--->

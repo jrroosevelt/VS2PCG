@@ -88,7 +88,7 @@ You start the game with both Main Characters (Scarlet Witch and Quicksilver) and
 
 ^(Source: Rule insert)
 
-## [Scarlet Witch (SC)](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
+## [Scarlet Witch (SC - Defenders)](http://vs.tcgbrowser.com/images/cards/big/def-013.jpg)
 ^CardNumber: ^DEF-013
 
 *Set: The Defenders*  
@@ -105,6 +105,14 @@ A: Scarlet Witch isn't targeting your opponent's MC, it is a blanket effect on t
 
 ^(Source: FB Post - Tim Saunders)
 
+## Scarlet Witch (SC - Avengers)
+^CardNumber: ^CV4-005
+
+*Set: Crossover Vol. 4* 
+
+Her Chaos pile contains 10 Terrain cards. This pile is Variable (you choose the Terrains - and you can choose cards from multiple Terrain sets) and Private (only you can look at it during the game). Place the Terrain just as if you were doing so at the start of the game. There is no limit to the amount of Terrain that can be in play.
+
+^(Source: Rule insert)
 
 # Scorn
 ^CardNumber: ^CAR-014
@@ -1651,6 +1659,3 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 When this Plot Twist resolves, it cancels the combat. It then acts as though the player whose turn it is just said, "Okay, I'm done with my turn." And then, anything that triggers "At the end of the turn" will trigger, and the rest of the end-of-turn procedure will happen normally.
 
 ^(Source: Rule insert)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0NjEzMjVdfQ==
--->

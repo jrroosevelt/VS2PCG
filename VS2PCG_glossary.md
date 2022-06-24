@@ -262,6 +262,8 @@ Some powers (such as **Elder of the Universe**) reference "During Combat" or "No
 # Elder of the Universe
 If this character gets stunned during combat, it doesn't get wounded.
 
+See [During Combat](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_during_combat) for additional details.
+
 # Enemy
 This applies to anything opposing you. An enemy player is your opponent. An enemy character is one on your opponent's side.
 

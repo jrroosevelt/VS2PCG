@@ -563,6 +563,21 @@ A: Per a 2019 rules update, cards that try to appear but can't are removed from 
 ^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/869655335080718357)
 
 
+# [Hybrid](http://vs.tcgbrowser.com/images/cards/big/LET-016.jpg)
+^CardNumber: ^LET-016
+
+Q: “If I have a single Hybrid in my KO pile, does that allow me to play another Hybrid via ‘**A Composite Symbiote**’? Hybrid has the names of all of those characters referenced in ‘**A Composite Symbiote**’, and his power doesn’t specifically state ‘Cards with the title…’, so, as phrased, I believe the answer to the above is Yes.”
+
+A: The design intent for Hybrid was that you have to have four, physical cards with those names in your KO pile. Hybrid can certainly count as any of those names due to AKA, but he’s only one physical card.
+
+Because of this unfortunate oversight, we need to tweak his wording just a little bit to support this idea:
+
+> “During your Build Phase, if you have four supporting characters in your KO pile with the names ‘Agony’, ‘Lasher’, ‘Phage’, and ‘Riot’, you may put Hybrid from your hand onto your side.”
+
+So if you had, for example, two Hybrids, one Lasher, and one Agony in your KO pile; you could put a Hybrid from your hand onto your side.
+
+^Source: [^Upper ^Deck ^Blog](https://www.upperdeckblog.com/2022/01/vs-system-2pcg-organized-play-post-symbiotes-arc-update/)
+
 # [Hydro-Man](http://vs.tcgbrowser.com/images/cards/big/SFO-006.jpg)
 ^CardNumber: ^SFO-006
 
@@ -1031,6 +1046,15 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 
 ^(Source: FB Post - Chad Daniel)
 
+## Kingpin (Boss Battle)
+^CardNumber: ^CV4-038
+
+*Set: Crossover Vol. 4* 
+
+Note that when he uses his Take Over the World power, it will trigger his Boss Battle effects for each Location that appears.
+
+^(Source: Rule insert)
+
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 ^CardNumber: ^SYN-002
 
@@ -1255,6 +1279,16 @@ A: No, her trigger requires a KO AND surviving. This means it can ONLY happen as
 **Old at the Dawn of Humanity** triggers at the start of your Main Phase each turn. Each time it resolves you must follow the instructions of the next effect on the list, starting with **Woman** and ending with **Spirit**. 
 
 ^(Source: Rule Insert)
+
+# Limbo (Battleworld Domain)
+^CardNumber: ^CV4-022
+
+*Set: Crossover Vol. 4* 
+
+This Domain creates character tokens. A token character works just like a regular character except that if it ever gets put into
+a KO pile or otherwise leaves play, remove it from the game. We suggest you use facedown cards you aren’t using.
+
+^(Source: Rule insert)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 ^CardNumber: ^GAL-017
