@@ -1084,6 +1084,18 @@ With the reveal of Copycat, the question arose on her interaction with [Singular
 
 ^(Source: Rule insert)
 
+# C.O.S 
+^CardNumber: ^XFB-061
+
+*Set: The X-Files Bttles*
+
+Q: If I target a location with C.O.S., can enemy characters still use wild locations in their resource row to pay for their powers if that wild has the same symbol of the location I chose?
+
+A: C.O.S.'s power says “Enemy characters can’t use locations in their resource row with that type to pay for super powers.” This specifically is talking about basic locations, so the enemy character CAN use wild locations in their resource row to pay for their powers. "Type" is referring to the type of symbol produced (Might, Energy, Humanity, etc.). However, keep in mind this is only inhibiting the resource row and players can still discard from hand to pay for super powers. 
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1003855278938263573)
+
+
 # Cosmic Cubes
 ^CardNumber: ^SVH-023, ^SVH-024, ^SVH-025, ^SVH-026
 
@@ -1247,8 +1259,15 @@ When Deconstructs the Universe, an entire concept of the game gets removed for t
 
 * **Super Powers:** Remove all Super Powers from the game. Remove the term “Super Power” from all card text. For the rest of the game, ignore any effects that would cause Super Powers to enter the game in any way.  
 
-
 ^(Source: Rule insert)
+
+---
+
+Q: If a player calls keywords with ***Deconstruct the Universe***, are you able to play Spell plot twists without a spellcaster or without playing the power symbol?
+
+A: Since ***[Symbol] Spell*** is a keyword, Dark Phoenix removes their existence. That section of text is removed from the card and Spells are treated as normal plot twists without an additional cost, you don’t even need Spellcasters as those keywords are removed also.
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1003855332474368091)
 
 # [Dawn](http://vs.tcgbrowser.com/images/cards/big/TBB-011.jpg)
 ^CardNumber: ^TBB-011
@@ -1437,6 +1456,17 @@ Q: I have Devil-Slayer. My opponent has a stunned character in their back row an
 A: No. Devil Slayer still has to follow all the other legal attack rules. He doesn't have ![](%%Flight%%) so he can't ignore the front row.
 
 ^(Source: [FB Post](https://www.facebook.com/groups/860168987351982/?post_id=2264974333538100))
+
+---
+
+Q: What if Devil-Slayer is attacking but the defender is dazed prior to combat resolution. For example, if Devil-Slayer is equipped with a Tranquilizer Gun and dazes a defender that has a super power. Is Devil-Slayer able to follow-through and wound the face-down character?
+
+A: No. Per the rules for [Stun](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_stun.2Fstunned):
+
+> If a character gets stunned by an effect during combat but before the combat resolves, it is removed from the combat.
+
+So at the point it is dazed, it is removed from the combat and Devil-Slayer isn't able to "follow-through" with the attack.
+
 
 # [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg)
 ^CardNumber: ^MCU7-011
@@ -1984,6 +2014,14 @@ A: When FFF makes a ranged attack against a row with an equipped Tranquilizer Gu
 *Set: The Buffy Battles*  
 
 If two or more players are playing as The First Evil, they will need to randomly determine who chooses which one takes the first turn.
+
+---
+
+Q: In a mirror match does each, "The First Evil" get XP from ***From Beneath You, It Devours***, or can you only get XP from your own activations of the power?
+
+A: When a card references its own name without stating “character(s) named”, it is always referring to itself and only this instance of itself (for situations where multiple cards with the same name are in play). Because ***From Beneath You, It Devours*** refers to itself and says "…for each character put into the KO pile this way." it is specifically looking at its own activation of this power. You will not gain XP from the opponent’s trigger of ***From Beneath You, It Devours***.
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1003855332474368091)
 
 # Flash Thompson
 ^CardNumber: ^VER-009

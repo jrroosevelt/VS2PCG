@@ -14,6 +14,11 @@ This is the name for the open format.  All sets are included and photographic/il
 
 All cards with an affiliation in the deck (including MCs) must share an affiliation.  Non-affiliated characters cannot be included in a Loyal deck but dual affiliated characters are permitted provided one of their affiliations is shared with the rest of the deck.
 
+### Steadfast Loyalty Format
+All cards (excluding basic locations) in your deck and any associated Piles must have the same team symbol. Regular universe rules apply.
+
+This means no neutral characters, equipment, plot twists, or locations (except basic locations.) Every card in your deck must share the same team symbol.
+
 ---
 
 ## Featured Formats (listed most recent/future to oldest)

@@ -419,6 +419,15 @@ If Hawkeye uses **I Want You On That Roof** while he already has a **Nest**, tur
 
 ^(Source: Rule insert)
 
+# [Hela (MCU SC)](http://vs.tcgbrowser.com/images/cards/big/mcu3-017.jpg)
+^CardNumber: ^MCU3-017
+
+Q: Scenario: Hela is in combat with another multiple-health SC who has no wounds. She gets into a "mutual stun" in combat with that SC. Will the Hela's "Goddess of Death" power still be activated to KO the SC on the enemy side?
+
+A: While Hela is face down this power is turned off. If Hela is involved in a mutual stun, her power does NOT apply any longer. So the other character's Base Health will revert back to what it normally is before you check to see if it has enough wounds to become KO'd.
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1003855380121665628)
+
 # Helmut Zemo
 ## [Helmut Zemo](http://vs.tcgbrowser.com/images/cards/big/def-036.jpg) (SC)
 ^CardNumber: ^DEF-036

@@ -497,13 +497,8 @@ Keywords are powers that often show up on more than one character. These powers 
 
 Flight and Ranged are the two most common keyword powers.
 
----
-
-Q: Is there a distinction between Keyword Text and Keyword Powers? I ask because [Dark Phoenix's](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29) **Deconstruct the Universe** can disable Keyword Text, but she doesn't disable **Flight** or **Range** when doing so. 
-
-A: In this case, **Flight** and **Range** are just two specific exceptions of Keywords that are not affected by **Deconstruct the Universe**. So, there is not a meaningful distinction between "Keyword Powers" and "Keyword Text".
-
-^(Source: Chad Daniel)
+# Keyword Text
+Includes everything under Keyword Power except for ![](%%Flight%%) (Flight) and ![](%%Range%%) (Range).
 
 # Invisible  
 This character doesn’t protect characters and can attack protected characters.  

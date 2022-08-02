@@ -266,6 +266,15 @@ You can only recruit her by also paying a ![](%%Might%%) (Might). If you don’t
 
 ^(Source: Rule insert)
 
+---
+
+Q: Who pays for Sif's power? Is it the MC, Sif herself, or any character?
+
+A: In a rules update the "You" the player turned into "you" the character. Although not explicitly stated as an example in the update it can be broken down as "Sif pays" (for this power).
+
+[^Source: ^Rule ^Update](https://discord.com/channels/488058478015807499/490215795503398912/996075892621193318)
+[^Source: ^Discord ^Post](https://discord.com/channels/306874195051020288/920787357299527780/996433691976945704)
+
 # [Silver Sable](http://vs.tcgbrowser.com/images/cards/big/aff-040.jpg)
 ^CardNumber: ^AFF-040
 

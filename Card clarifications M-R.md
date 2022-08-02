@@ -195,6 +195,18 @@ Masacre es el Deadpool de México, por eso el texto de su juego está escrito en
 
 ^(Source: Rule insert)
 
+# [The Master (MC)](http://vs.tcgbrowser.com/images/cards/big/TBB-037.jpg)
+^CardNumber: ^TBB-037
+
+*Set: The Buffy Battles*
+
+Q: If an MC targeted by "You Are Destined to Die" leaves play, does it negate that ability?
+
+A: Yes, modifiers by default cannot track characters that leave play. The removal from play will remove delayed triggered modifiers on them in the same way Nick fury loses the Infinity formula trigger if he were to be removed from play and returned.
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1003855278938263573) 
+
+
 # [Mastermind](http://vs.tcgbrowser.com/images/cards/big/CV2-014.jpg)
 ^CardNumber: ^CV2-014
 
