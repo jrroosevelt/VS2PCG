@@ -19,6 +19,26 @@ All cards (excluding basic locations) in your deck and any associated Piles must
 
 This means no neutral characters, equipment, plot twists, or locations (except basic locations.) Every card in your deck must share the same team symbol.
 
+### Incursion Format
+Incursion is a recurring official format in which certain cards are banned after each sanctioned Incursion event. These cards are banned only for the Incursion format. This ban list does not impact any other formats.
+
+For details, see the [Upper Deck Blog Post about this format](https://www.upperdeckblog.com/2022/06/vs-system-2pcg-at-gen-con-2022/).
+
+#### Incursion list banned in 9/2022
+|**Card Title**            |**Card Type** |**Set**                         |**Card Numbers**         |
+|--------------------------|-----------|-----------------------------------|-------------------------|
+| Beyers                   | SC        | X-Files Battles                   | XFB-009                 |
+| Bifrost                  | Location  | MCU Space & Time                  | MCU6-020                |
+| Dr. Doom                 | MC        | Fantastic Battles                 | FAN-031/032             |
+| Frohike                  | SC        | X-Files Battles                   | XFB-007                 |
+| I Need Your Help         | Plot Twist| X-Files Battles                   | XFB-017                 |
+| Kate Pryde / Kitty Pryde | MC        | Futures Past                      | FUT-001/002             |
+| Langly                   | SC        | X-Files Battles                   | XFB-008                 |
+| Nullifie                 | Equipment | S.H.I.E.L.D. vs. Hydra            | SVH-057                 |
+| Outrider                 | MC        | MCU Space & Time                  | MCU6-006                |
+| Senator Kelly            | SC        | Futures Past                      | FUT-025                 |
+| Sentinel (Alpha Combat)  | SC        | Futures Past, Crossover Vol. 4    | FUT-014 thru 022, CV4-008 thru 011|
+
 ---
 
 ## Featured Formats (listed most recent/future to oldest)

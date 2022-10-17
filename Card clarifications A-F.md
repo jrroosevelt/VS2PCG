@@ -102,6 +102,17 @@ Do you have any tips on telling one apart from the other, as they both can conta
 
 ^Source: [^UD ^Email](https://www.facebook.com/groups/860168987351982/posts/4355434691158710/)
 
+---
+
+Q: If my supporting character has a a Vitality counter and gets stunned while my opponent has Agamotto in play, does that character get wounded or do you just remove the Vitality counter?
+
+A: Although the vitality counter does not actually add to the character's health total, it still cancels out a wound.
+
+***The All Seeing*** power makes it so that any modifiers increasing the ATK/ DEF or Health of an enemy character do not apply to the character. This does not remove the sources of those modifiers like in the case of the Ancient One providing +1 health or the quinjet providing +3/+3. Although the Vitality counters are no longer giving the character in question + health, they still exist just like in the *Gorgon* example below [See FB Post]. So the rules surrounding the removal and application of counters are still affecting the game.
+
+^Source: [^UD ^Email](https://www.facebook.com/groups/860168987351982/posts/5354411687927667/)
+
+
 # [Agatha Harkness](http://vs.tcgbrowser.com/images/cards/big/FAN-013.jpg)
 ^CardNumber: ^FAN-013
 
@@ -591,6 +602,17 @@ If Blade gets turned face down while he has a Stake counter, the Stake counter w
 Once Blade is Level 2, **Synthetic Blood Serum** will start wounding him at the end of every one of your turns except for turns where you used the Super Power to heal Blade. 
 
 ^(Source: Rule Insert)
+
+# Black Widow
+
+## [Black Widow - S.H.I.E.L.D. MC](http://vs.tcgbrowser.com/images/cards/big/SVH-029.jpg)
+^CardNumber: ^SVH-029, SVH-030
+
+*Set: S.H.I.E.L.D. vs. Hydra*
+
+Q: Does a card like **Danger Room** count toward's Black Widow's ***Red In Her Ledger*** XP condition?
+
+A: No. As described in the rules insert for these special locations (such as Wakanda or Danger Room), they don't count as having the required symbol. See the [topic for Global Information Network](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_global_information_network) which discusses this topic as well.
 
 # [Blindspot](http://vs.tcgbrowser.com/images/cards/big/FRE-009.jpg)
 ^CardNumber: ^FRE-009

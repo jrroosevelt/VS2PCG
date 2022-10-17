@@ -632,7 +632,7 @@ A: Yes. The character would recover its next turn, but it wouldn't ready.
 
 *Set: The Omegas*  
 
-Freezing locations means exhaus them and they can't ready on their next turn (even if it's face down). 
+Freezing locations means exhaust them and they can't ready on their next turn (even if it's face down). 
 
 **Note:** Exhausted resources don't produce recruit points.
 
