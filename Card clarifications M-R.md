@@ -1354,14 +1354,6 @@ Said another way, since a keyword granted all these powers and boosts, if keywor
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/3752986618070190/)
 
----
-
-Q: Can I use Boomerang (for example) to remove keyword powers from Proteus's host, and thereby remove the effects from the **Reality Warping** power?
-
-A: No. **Reality Warping** isn't granted to the host as a keyword power, per se. It is a keyword power on Proteus (who has now been removed from game). The effect granted to the host is considered a modifier, so it isn't removed by effects that remove powers. See the post about Shadow King below for a comparable ruling.
-
-^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/2105915162777352/)
-
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 ^CardNumber: ^DEF-018
 

@@ -199,15 +199,6 @@ Shadow King is technically a supporting character but he doesn’t want to actua
 
 ^(Source: Rule insert)
 
----
-
-Q: Can I use Boomerang (for example) to remove keyword powers from Shadow King's host, and thereby remove the effects from the **Anchor Host** power?
-
-A: No. **Anchor Host** isn't granted to the host as a keyword power, per se. It is a keyword power on Shadow King (who has now been removed from game). The effect granted to the host is considered a modifier, so it isn't removed by effects that remove powers.
-
-^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/2105915162777352/)
-
-
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
 ^CardNumber: ^AFF-003, ^AFF-004, ^LEG-057, ^LEG-058
 
