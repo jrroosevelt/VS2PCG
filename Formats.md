@@ -45,6 +45,36 @@ For details, see the [Upper Deck Blog Post about this format](https://www.upperd
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+### Boss vs. Boss Battles
+[Official format announcement](https://www.upperdeckblog.com/2022/09/vs-system-2pcg-featured-format-boss-vs-boss-battle/)
+
+Let’s answer once and for all: among all the heaviest hitters of Bosses, just who is the Bossiest?
+
+**Season:** Winter 2022
+
+**Dates:** October 1st 2022 through December 31st 2022
+
+**Rules:**
+
+- Choose a Boss Battle card.
+- Choose a Main Character with the same name.
+    - Note that some Boss Battle cards are able to be played with a Photographic or Illustrated Universe Main Character.
+    - Standard Photographic and Illustrated Universe deckbuilding rules still apply.
+        - When you build a deck, you can’t mix together cards (including your Main Character) from the Illustrated Universe with cards from the Photographic Universe. However, you can play decks from one Universe against the other, and once the game starts,  it’s perfectly fine to play an effect that moves an opponent’s Photographic character to your side.
+    - Build a Good Loyalty or Evil Loyalty deck, depending on the alignment of your Main Character.
+        - Most Main Characters are clearly Good or Evil on all their levels.
+        - If a Main Character is both Good and/or Evil on their levels, they use the alignment of their Level 1 card.
+        - If a Main Character has no team affiliation, you can choose either a Good Loyalty or Evil Loyalty
+
+
+**Good Loyalty:** Each supporting character in your deck (and in out-of-game piles) must have at least one Good team affiliation and no Evil team affiliations. Each other card in your deck (and out-of-game piles) with a team affiliation can also only have Good team affiliations.
+
+**Evil Loyalty: **Each supporting character in your deck (and in out-of-game piles) must have at least one Evil team affiliation and no Good team affiliations. Each other card in your deck (and out-of-game piles) with a team affiliation can also only have Evil team affiliations.
+
+**Notes:** Your main character is the source of Boss Battle effects. For example, if a Boss Battle effect stuns an enemy character, your main character gets credit for the stun.
+
+Boss Battle effects do NOT count as powers, and can’t be turned off. They always occur, even if your Main Character is face down, not currently in play, has lost its powers, etc.
+
 ### Life Goes On ###
 [Official format announcement](https://www.upperdeckblog.com/2022/03/vs-system-2pcg-featured-formats-crossing-the-spider-verse-and-life-goes-on/)
 
