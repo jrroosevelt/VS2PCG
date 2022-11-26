@@ -77,6 +77,8 @@ Scarlet Spider Scarlet Spider’s **Paralytic Darts** cause an enemy character t
 ^(Source: Rule insert)
 
 # Scarlet Witch
+See also [Wanda Maximoff and \*Vision\*] (https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_wanda_maximoff_and_.2Avision.2A_.28mcs.29)
+
 ## [Scarlet Witch](http://vs.tcgbrowser.com/images/cards/big/MCU5-012.jpg) (MC - MCU Villains)
 ^CardNumber: ^MCU5-012, ^MCU5-013
 
@@ -198,6 +200,15 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 Shadow King is technically a supporting character but he doesn’t want to actually be in play. He prefers to have a physical host. If he would appear for any reason, you’ll remove him from the game instead and choose a face-up character on your side to be his Host. If you don’t have a face-up character, Shadow King will still be removed from the game. When his Host gets stunned or leaves play Shadow King will remain removed from the game.
 
 ^(Source: Rule insert)
+
+---
+
+Q: Can I use Boomerang (for example) to remove keyword powers from Shadow King's host, and thereby remove the effects from the **Anchor Host** power?
+
+A: No. **Anchor Host** isn't granted to the host as a keyword power, per se. It is a keyword power on Shadow King (who has now been removed from game). The effect granted to the host is considered a modifier, so it isn't removed by effects that remove powers.
+
+^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/2105915162777352/)
+
 
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
 ^CardNumber: ^AFF-003, ^AFF-004, ^LEG-057, ^LEG-058
@@ -1353,7 +1364,24 @@ A: You get double twice (effectively quadruple).
 
 ^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/826988069550030849)
 
-# \*Vision\*
+# \*Vision\*\
+
+## \*Vision\* (MC - MCU)
+See also [Wanda Maximoff and \*Vision\*] (https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_wanda_maximoff_and_.2Avision.2A_.28mcs.29)
+
+## \*Vision\* (SC - MCU)
+^CardNumber: ^WDV-015
+
+*Set: WandaVision*
+
+His **Identity Metaphysics** references "sharing a mantle". Some characters in the game share a mantle, like the mantle "Vision". For example, in this box, Vision (the original Vision who becomes the white Vision) and \*Vision\* (the recreation in the Hex) share a mantle. The newer version will have stars to differentiate it from its predecessors. The card's full name includes the stars for the purposes of uniqueness (so you could have both of these characters o nyour side at the same time).
+
+But because they are different characters, they can't be used to Power Up each other.
+
+^(Source: Rule insert)
+
+
+## \*Vision\* (SC - Anti-Registration)
 ^CardNumber: ^SEC-016
 
 *Set: Secret Avengers*
@@ -1390,6 +1418,19 @@ While Vulture is attacking a character without ![](%%Flight%%) that is also in i
 *Set: Cosmic Avengers*  
 
 See [Global Information Network](#wiki_global_information_network)
+
+# Wanda Maximoff and \*Vision\* (MCs)
+^CardNumber: ^WDV-001, ^WDV-002, ^WDV-003, ^WDV-004, ^WDV-005, ^WDV-006
+ 
+*Set: WandaVision*  
+
+If Wanda is your Main Character, you starat the game with Levels 1-3 \*Vision\* Main Characters in an out-of-the-game Memory pile. It is public (any player can look at its contents) and fixed (it must include those three \*Vision\* cards and no others). You can't choose \*Vision\* as your starting Main Character. 
+
+If Level 1 or 2 \*Vision\* would level up, he does so with the next card from your Memory pile. If \*Vision\* of any level gets KO'd, he goes back to the Memory pile. If Scarlet Witch is Level 2, she can use **Welcome Home** again. If \*Vision\*  Level 1 or 2 gets KO'd with 1 XP, remove all XP fro him.
+
+Opponents must KO Wanda and any \*Vision\* Main Character on your side to defeat you.
+
+^(Source: Rule insert)
 
 # [Weapon Omega](http://vs.tcgbrowser.com/images/cards/big/TUB-035.jpg) (MC)
 ^CardNumber: ^TUB-035, ^TUB-036

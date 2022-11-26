@@ -469,6 +469,15 @@ Q: If I play Machine to reduce the amount I pay for characters and play a 1-cost
 
 A: Yes. See the [glossary entry for Cost](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_cost_.28recruit_cost.29) for more info.
 
+# The Hex
+^CardNumber: ^WDV-022
+
+*Set: WandaVision*  
+
+These effects don't stack. Just count how many Hex Locations are on your side and you get each effect of that number and lower. For example, if you have two Hexes on your side, they don't each give +1/+0. You just receive that effect once.
+
+^(Source: Rule insert)
+
 # [Hobgoblin](http://vs.tcgbrowser.com/images/cards/big/SFO-009.jpg)
 ^CardNumber: ^SFO-009
 

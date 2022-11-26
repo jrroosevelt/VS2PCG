@@ -929,8 +929,8 @@ A character is considered to have survived if it made it through combat resoluti
   
 
 # Swarm  
-You can have any number of characters with this character's name on your side. This power can't be turned off.  
-  
+Swarm – You can have any number of this character on your side. This power can’t be lost or turned off
+(even while this character is stunned). 
 
 # Symbiosis  
 This character can have and gain +1/+1 counters while stunned.  

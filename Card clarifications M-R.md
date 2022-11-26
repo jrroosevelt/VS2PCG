@@ -536,6 +536,15 @@ When Monarch leaves your side, or if **Pull On Quantum Strings** gets turned off
 
 ^(Source: Rule insert)
 
+# Monica Rambeau (MC)
+^CardNumber: ^WDV-007, ^WDV-008
+
+*Set: WandaVision*
+
+Her **Absorb Energy** power says "... if it has an ![](%%Energy%%) (Energy) symbol in its text...". This means exactly that: if there is an ![](%%Energy%%) (Energy) symbol anywhere in the discarded card's text box, she will heal a wound. This could be the cost for a Super Power, the symbol on a Basic or Special Location, the symbol in a power name, or any other place the symbol might be in the text box.
+
+^(Source: Rule Insert)
+
 # [Monica Reyes](http://vs.tcgbrowser.com/images/cards/big/XFB-011.jpg)
 ^CardNumber: ^XFB-011
 
@@ -1354,6 +1363,14 @@ Said another way, since a keyword granted all these powers and boosts, if keywor
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/3752986618070190/)
 
+---
+
+Q: Can I use Boomerang (for example) to remove keyword powers from Proteus's host, and thereby remove the effects from the **Reality Warping** power?
+
+A: No. **Reality Warping** isn't granted to the host as a keyword power, per se. It is a keyword power on Proteus (who has now been removed from game). The effect granted to the host is considered a modifier, so it isn't removed by effects that remove powers. See the post about Shadow King below for a comparable ruling.
+
+^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/2105915162777352/)
+
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 ^CardNumber: ^DEF-018
 
@@ -1416,6 +1433,23 @@ You start the game with both Main Characters (Scarlet Witch and Quicksilver) and
 **Increased metabolism and Improved Thermal Homeostasis** lets you have multiple Quicksilver characters in play at once. (This represents that he's moving so fast it seems like there are more than one of him.) When your Main Character Quicksilver gets KO'd, the Supporting Character versions remain  in play.
 
 ^(Source: Rule insert)
+
+# "Quicksilver"
+^CardNumber: ^WDV-014
+
+*Set: WandaVision*  
+
+Enemy characters **can** use their respective "wild" Special Locations to pay for **"Pietro Maximoff"**.
+
+^(Source: Rule insert)
+
+---
+
+Q: Is "Quicksilver" the same as Quicksilver? Or is he a mantle of Quicksilver?
+
+A: No - he's actually neither. He's a totally different name (the quotation marks count in differentiating the name) and therefore he is a totally different character from Quicksilver and because he doesn't have stars, he doesn't count as a mantle either.
+
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/1040772409093017682)
 
 # [Rachel Summers (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-006.jpg)
 ^CardNumber: ^FUT-005, ^FUT-006
