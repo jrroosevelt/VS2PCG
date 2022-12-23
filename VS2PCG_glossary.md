@@ -926,7 +926,6 @@ A power on a character that they use by turning a Location face down or discardi
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
-  
 
 # Swarm  
 Swarm – You can have any number of this character on your side. This power can’t be lost or turned off
@@ -975,6 +974,14 @@ When this character gets stunned, you may recover it. *It still gets a wound.*
 
 # Transform  
 When a character transforms it means they are being replaced with a different character. Remove them from the game and put the new character into play in the same orientation (ready/exhausted) they were in. Move all counters and equipment from them onto the new character, apply any modifiers (such as Freeze) to the new character.  
+
+
+# TVA Personnel
+Paying 1 less or 1 more recruit point does not change the character's actual cost. For example, if you pay 1 less or 1 more to recruit Mobius he still counts as a 2-cost character.
+
+**Note:** You don't have to pay 1 less or 1 more to recruit a **TVA Personnel** character. you can just pay its normal cost. **TVA Personnel** can also be combined with other payment reduction or increase effects such as **Timedoor* found on the Equipment TemPad.
+
+^(Source: Rule Insert)
 
 # Uniqueness
 **You can only have one character with a specific name on your side at one time.** If you play a character with the same name as one that's already on your side, then you must KO the first one. If they both enter play simultaneously, then you must pick one to KO. If the second one ends up on your side through some special effect (e.g., Mind Controlling an enemy character), then you still must KO the first character.

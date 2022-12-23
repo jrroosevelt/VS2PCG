@@ -475,27 +475,34 @@ The following is a list of formats that haven't been officially released by Uppe
 ## Modern Format (community-sourced multiverse)
 The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. For information on previous iterations of this format, refer to [https://www.reddit.com/r/VS2PCG/wiki/modern_format_archive](https://www.reddit.com/r/VS2PCG/wiki/modern_format_archive)
 
-### Iteration 2
-*Effective October 2021 - ?*
+### Iteration 3
+*Effective December 2022 - ?*
 
-For detailed explanation, see this post: [https://www.facebook.com/groups/860168987351982/posts/4345319868836859](https://www.facebook.com/groups/860168987351982/posts/4345319868836859)
+For detailed explanation, see this post: [https://www.facebook.com/groups/860168987351982/posts/5696882197013946/](https://www.facebook.com/groups/860168987351982/posts/5696882197013946/)
 
 ### Banned cards
-The following cards are not allowed to be played in the current community multiverse:
+The following cards are not allowed to be played in the current community multiverse. New additions as of this iteration are denoted in **Bold**.
 
 #### Main Characters
 - Adam Warlock
 - Dark Phoenix
+- **The First Evil**
+- **Invisible Woman**
 - Kate Pryde
-- Rogue (Resistance)
-- The Mayor
+- Mayor Wilkins
 - Outriders
+- Rogue (Resistance)
+- **Venom (Spider Friends/Symbiotes)**
+
 
 #### Supporting characters
 - Black Widow (Illustrated Champions)
 - Dark Phoenix
 - Langly
 - Maximus
+- **Monarch**
+- **Senator Kelly**
+- **Sentinel (Alpha Combat Unit with Genius - CV4-009)**
 
 #### Plot Twists
 - Out of Time
@@ -507,16 +514,16 @@ The following cards are not allowed to be played in the current community multiv
 The following cards were banned in the most recent previous iteration of Modern format, but have been reinstated:
 
 #### Main Characters
-- Mystique (Legacy set versions)
+- N/A
 
 #### Supporting characters
 - N/A
 
 #### Plot Twists
-- Parallel Dimension
+- N/A
 
 #### Equipment
-- The Darkhold
+- N/A
 
 
 

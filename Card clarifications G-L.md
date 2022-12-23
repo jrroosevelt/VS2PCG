@@ -1405,6 +1405,18 @@ A: 1) You can put both copies of Loki in your deck effectively having 8 Lokis. T
 
 ^(Source: UDE Blog Preview post)
 
+# \*Loki\* (SC)
+
+^CardNumber: ^LKI-015
+
+*Set: Loki.*  
+
+See also [TVA Personnel](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_tva_personnel)
+
+**Time Flies** grants \*Loki\* one of the listed powers if you pay 5, 6, or 7 recruit points to play him. If somehow you pay less than 5 or more than 7, he won't have any of those powers.
+
+^(Source: Rule Insert)
+
 # [The Lone Gunmen Newsletter](http://vs.tcgbrowser.com/images/cards/big/XFB-019.jpg)
 ^CardNumber: ^XFB-019
 

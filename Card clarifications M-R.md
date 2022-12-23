@@ -458,6 +458,15 @@ A: When Miss America is stunned by play dead, the combat is canceled, you may us
 
 ^(Source: FB Post)
 
+# Miss Minutes
+^CardNumber: ^LKI-012
+
+*Set: Loki*
+
+**Up to the Minute** requires you to check the time at the moment the power resolves, not while you're searching your deck. So let's say it's 2:30 PM when she uses the power. You'll search your deck for a Location card, even if it becomes 2:31 PM while you're in the middle of looking throug your deck.
+
+^(Source: Rule Insert)
+
 # [Mister Sinister](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
 ^CardNumber: ^LEG-034
 
@@ -476,6 +485,27 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
 
 ^(Source: Rule insert)
+
+# Mobius 
+
+## Mobius (MC)
+^CardNumber: ^LKI-007, ^LKI-008
+
+*Set: Loki.*  
+
+**TVA Interrogator** checks a card's type. The card type are Equipment, Location, Plot Twist, Main Characer, and Supporting Character.
+
+His **You Can Be Someone Good** power references "Good" characters. [Team affiliations](https://www.reddit.com/r/VS2PCG/wiki/good_or_evil/) in Vs. System 2PCG are Good or Evil by default. For example (MCU Heroes) characters are Good and (MCU Villains) characters are evil. If a character has a Good and Evil team affiliation, they are both Good and Evil
+
+^(Source: Rule insert)
+
+## Mobius (SC)
+^CardNumber: ^LKI-011
+
+*Set: Loki.*  
+
+See also [TVA Personnel](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_tva_personnel)
+
 
 # [Mole Man](http://vs.tcgbrowser.com/images/cards/big/FAN-033.jpg) (MC)
 ^CardNumber: ^FAN-033, ^FAN-044
@@ -902,6 +932,15 @@ A: You need to meet all restrictions before you can pay the costs. You could not
 The New Mutants are a part of the (X-Men) team. However, there are certain effects that reference “New Mutants” specifically, which means they have a card number that begins with “NEW”.
 
 ^(Source: Rule insert)
+
+# Nexus Event
+^CardNumber: ^LKI-024
+
+*Set: Loki*
+
+[See Sylvie MC's](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_sylvie_.28mc.29) **Not Supposed to Exist** for more information.
+
+^(Source: Rule Insert)
 
 # Nick Fury
 ## [Nick Fury](http://vs.tcgbrowser.com/images/cards/big/SVH-034.jpg) (MC-Illustrated)
@@ -1451,6 +1490,22 @@ A: No - he's actually neither. He's a totally different name (the quotation mark
 
 ^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/1040772409093017682)
 
+---
+
+Q: If "Quicksilver" attacks another "Quicksilver" who strikes first?
+
+A: "Quicksilver"s would strike each other simultaneously under normal circumstances.
+
+NOTE - This answer is based on other similar rulings, not a specific ruling from Upper Deck. See [Green Goblin MC](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_green_goblin_.28mc_-_sinister_six.29) for a similar clarification.
+
+---
+
+Q: If I control "Quicksilver" and get team attacked by two characters, can I strike each one once?
+
+A: Yes. Additional strikes can be split amongst multiple attackers.
+
+See [\*\*Spider-Man (SC)\*\*](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_.2A.2A_spider-man_.2A.2A_.28sc.29) or [Emma Frost (MC)](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_emma_frost_.28mc.29) for similar clarifications.
+
 # [Rachel Summers (MC)](http://vs.tcgbrowser.com/images/cards/big/FUT-006.jpg)
 ^CardNumber: ^FUT-005, ^FUT-006
 
@@ -1475,6 +1530,27 @@ Currently, Rachel gets the existing **Teke Shield**, **Life Incarnate**, and **W
 
 ^(Source: Rule Insert)
 
+# Ravonna Renslayer
+## Ravonna Renslayer (MC)
+^CardNumber: ^LKI-009, ^LKI-010
+
+*Set: Loki*
+
+**Running the Show** counts every card on your side with a power with "TVA" in its name, including Ravonna's Head of the TVA power.
+
+**For All Time, Always** will recover all characters, including characters on other sides.
+
+^(Source: Rule Insert)
+
+## Ravonna Renslayer (SC)
+^CardNumber: ^LKI-013
+*Set: Loki.*  
+
+See also [TVA Personnel](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_tva_personnel)
+
+With **TVA Judge** the enemy player CAN choose a stunned supporting character on their side. In this case, if you choose "Guilty" nothing will happen to it.
+
+^(Source: Rule Insert)
 
 # [The Reality Gem](http://vs.tcgbrowser.com/images/cards/big/BLK-020.jpg)
 ^CardNumber: ^BLK-020

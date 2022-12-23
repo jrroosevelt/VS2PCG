@@ -954,6 +954,21 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 
 ^(Source: Rule insert)
 
+# Sylvie (MC)
+^CardNumber: ^LKI-004, ^LKI-005, ^LKI-006
+
+*Set: Loki*
+
+**Fugitive Variant** gives Sylvie 1 XP each time you play a Location, as long as she hasn't already gained XP from a Location with that name. For example, your first Fortress will give Sylvie 1 XP. But she won't gain XP from any additional Fortresses you play.
+
+**Not Supposed to Exist** says to "Resolve the combat." This means the game skips ahead to the part of combat where characters strike each other. in other words, there are no more opportunities for players to play Plot Twists, use Super Powers, or Power Up the combatants.
+
+**Note:** Combat resolution will occur normally, including characters with **Ferocious** getting to strike before other characters.
+
+**You're Me** This power refers to a character with "Loki" in its name. This includes original Loki, his variant \*Loki\*, and other variants such as Classic Loki.
+
+^(Source: Rule Insert)
+
 # [The Syndicate](http://vs.tcgbrowser.com/images/cards/big/XFB-042.jpg)
 ^CardNumber: ^XFB-042
 
@@ -1174,6 +1189,23 @@ See [The Wrecking Crew](#wiki_the_wrecking_crew)
 Here’s an example of how Tiger Shark’s **Adamantium Teeth** works: If Tiger Shark strikes a 5/5 character and doesn’t stun it, **Adamantium Teeth** will put two -1/-1 counters on it, making it a 3/3 at the end of combat. (Note: Tiger Shark’s strike will either stun a character in combat or put two -1/-1 counters on it, but not both.)
 
 ^(Source: Rule insert)  
+
+# Time Variance Authority
+^CardNumber: ^LKI-025
+
+*Set: Loki*
+
+**TVA Headquarters** allows all players to play an extra resource on each of their turns as long as that extra resource is a Location with a name that isn't already on any side. For example, on the first turn of the game you could play Time Variance Authority as your regular resoruce, and then play a Fortress as your additional resource. 
+
+On the next player's turn they could play ANY resource (including a face down card, a Fortress, or a Time Variance Authority) as their regular resource. And then they could play an extra resource as long as it's a Location that doesn't have the same name as a Location on any side.
+
+Let's say they play an Academy as their regular resource. They can now play another Location other than Academy, Fortress, or Time Variance Authority as their extra resource. 
+
+Now it's back to your turn. You play a Time Variance Authority as your regular resource so now there are two **TVA Headquarters** happening, which menas you can play up to two extra Locations. You play a Training Ground as your first extra Location. But the only other Locations you have in your hand are a Fortress and another Training Ground so you can't play either.
+
+Whew! Make sense? Time travel!
+
+^(Source: Rule Insert)
 
 # [Titan](http://vs.tcgbrowser.com/images/cards/big/BLK-024.jpg)
 ^CardNumber: ^BLK-024
