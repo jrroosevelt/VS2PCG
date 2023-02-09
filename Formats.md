@@ -45,6 +45,20 @@ For details, see the [Upper Deck Blog Post about this format](https://www.upperd
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+### Previously On...
+[Official format announcement](https://discord.com/channels/306874195051020288/768622683868364862/1057764504823414814)
+
+Let’s answer once and for all: among all the heaviest hitters of Bosses, just who is the Bossiest?
+
+**Season:** Winter/Spring 2023
+
+**Dates:** Jan 1st 2023 through March 31st 2023
+
+**Rules:**
+
+- You must build a Photographic Universe deck with a main character from the Wandavision, The Falcon and the Winter Soldier, or Loki Issues.
+- (all other photographic deck building rules apply as normal)
+
 ### Boss vs. Boss Battles
 [Official format announcement](https://www.upperdeckblog.com/2022/09/vs-system-2pcg-featured-format-boss-vs-boss-battle/)
 

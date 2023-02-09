@@ -1152,6 +1152,27 @@ A: Yes. In fact, he affects all stunned characters so he could put a wound on yo
 
 ^(Source: UDE FAQ)
 
+# Thicket
+^CardNumber: ^CV4-036
+
+*Set: Crossover Vol. 4*
+
+Q: The Terrain card "Thicket" says that "You can't have more than one character in this row." 
+
+So, If I place the card in a row that already has, say, 3 characters what happens?
+* Does my opponent have to move 2 of the 3 immediately?
+* Does my opponent have to move 2 of the 3 during the next formation step?
+* Does something else happen to 2 of the 3 characters?
+
+A: The general answer is -- If a character is ever in a row it’s not allowed to be in, the player on that side must move it to a different one of their rows immediately. If an effect is preventing that move, then the character gets KO’d.
+
+So in the example, your opponent moves two of the three immediately. And if some effect is preventing those characters from moving
+
+(Perhaps another player has put a Thicket in that opponent’s other row and there’s already a character there), then your opponent must choose two of those characters to be KO’d.
+
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/827213315972530227)
+
+
 # [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
 ^CardNumber: ^MCU1-009, ^MCU1-010
 
@@ -1338,6 +1359,19 @@ Q: What happens if I make a ranged attack and my opponent plays a Plot Twist to 
 A: Once an attack starts, it can no longer be made illegal. So that attack will continue as normal.
 
 ^(Source: UDE FAQ)
+
+# Valentina Allegra de Fontaine
+^CardNumber: ^FWS-012
+
+*Set: Falcon and the Winter Soldier*  
+
+Q: Does Valentina's ability apply to herself?
+
+A: Valentina Allegra de Fontain'es keyword **You're Very, Very Valuable** is not affecting the board state until she is in play. In other words, when you recruit her she's not yet in play. And once she's in play, it's past the point where you recruited her.
+
+(She doesn't give herself counters.)
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070510675438338110)
 
 # Valkyrie
 ## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/MCU5-017.jpg) (MC - MCU Heroes)

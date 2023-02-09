@@ -236,7 +236,17 @@ If a character references itself in its text box, those references will also use
 
 ^(Source: Rule insert)
 
+---
 
+Q: So, I know that Alter Ego can't give a character a name that already exists. However, can I use part of a name that already exists? For example, could I rename a character as "Ultra Captain America" and thereby be able to use The Greatest Symbol plot twist with that character?
+
+A: Alter Ego can be used to create a new name for a character that does not already exist within the game.
+
+This name can include the words "Captain America". That would then allow The Greatest Symbol to reduce the cost of that character's super power. 
+
+(**Editor's Note:** The Greatest Symbol only requires a character with "Captain America" in its name to play the card - it doesn't have to be used for that character specifically. This ruling would also allow you to play the Captain America's Shield equipment on a character you renamed as mentioned above.)
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070511275873927219)
 
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
 ^CardNumber: ^RES-001, ^RES-002
@@ -1096,6 +1106,35 @@ A: Yes
 With the reveal of Copycat, the question arose on her interaction with [Singularity](https://i.imgur.com/3vlwcdR.jpg).  Specifically, if multiple characters (other than Copycat) appear at once, which SC's powers, if any, does Copycat inherit?  The ruling is that if multiple triggers occur simultaneously for Copycat, she will not gain any powers.  The reasoning is that she only gains powers "until another supporting character appears on your side."  This means that when multiple characters appear at once, the duration of her effect has already expired by the time it resolves.  From head judge: "if a modifier’s duration would cause it to expire before it is created, then the modifier is never created."  Ultimately, Copycat needs only a single character to appear in order to resolve as intended.
 
 ^(Source: Official clarification)
+
+
+---
+
+Q: Question that came up about how Copy Cat interacts with Mary Walker.
+
+Take this scenario: 
+
+1. You recruit Copy Cat. 
+2. You recruit Mary Walker with Composite Personality.
+3. Now Copy Cat has Composite Personality.
+
+The question is, does CC even do anything? Does it now read:
+
+> Copy Cat has all of the powers of cards named “Copy Cat” in your KO pile”
+
+OR
+
+> Copy Cat has all of the powers of cards named “Mary Walker” in your KO pile
+
+I say it’s the latter, because the “Mary” is the self referential part. The “Mary Walker” is the condition it is pointing to. But I’m not confident in that.
+
+A:The end result is it gives Copycat the following: 
+
+> Copy Cat has all of the powers of cards named Mary Walker in your KO pile.
+
+(In other words, as you mentioned the phrase “cards named Mary Walker” is not self-referential.)
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070509689835634788) 
 
 # [Corvus Glaive](http://vs.tcgbrowser.com/images/cards/big/MCU6-015.jpg)
 ^CardNumber: ^MCU6-015

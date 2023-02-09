@@ -75,6 +75,13 @@ A: Yes.
 
 ^Source: [^2021 ^Rules ^Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
 
+# [Ganymede](http://vs.tcgbrowser.com/images/cards/big/HER-011.jpg)
+^CardNumber: ^HER-011
+
+*Set: Heralds*
+
+See also the [Glossary entry for **Strike**](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_strike) for information related to how her power works.
+
 # [The Gentlemen](http://vs.tcgbrowser.com/images/cards/big/TBB-043.jpg) 
 ^CardNumber: ^TBB-043
 
@@ -1009,6 +1016,50 @@ However the keyword **Invisibility** states:
 
 It is an End of Turn trigger like **Past**, so **Past** and **Invisibility** would both trigger at the same time. Even if **Invisibility** resolves first and hides Kate Pryde, the level up power **Past** has already triggered and will continue to resolve.
 ^([Source: FB Post - Chad Daniel and others](https://www.facebook.com/groups/860168987351982/permalink/3123728254329366/))
+
+
+# [Killmonger](http://vs.tcgbrowser.com/images/cards/big/MCU4-015.jpg)
+^CardNumber: ^MCU4-015
+
+*Set: MCU Power and Reality*  
+
+Q:
+
+I've literally pored over Facebook for over an hour to try and address this, but only found a piece of it. Can we get a definitive ruling on how MCU Killmonger Supporting Character works in various scenarios? Here is the only definitive ruling I've found from a (UDE/SAG source (Chad Daniel))[https://www.facebook.com/groups/860168987351982/posts/2486465308055667/?comment_id=2486884324680432]
+
+> As it is written, it is one power, not two seperate powers. You will only get the printed powers of the MC you choose when KMs power triggers. And it is locked in at that time. So if the MC is face down when you play KM, you get nothing. If the MC is face up when KM is played, but is kater Face down or RFGed, KM still has the powers.
+
+So, some follow up questions that this doesn't address:
+
+- Per the above, Killmonger (KM) only gets powers that are active at the time he appears. However, if the MC is face-down when KM appears, does that MC regain its powers when it turns face up?
+
+  - Or, if the MC is face-up when KM appears but is turned face-down afterward. When it recovers, does it re-gain powers at that point? (KM's power says the MC loses powers, but it doesn't say that it can't gain them.)
+
+- The rulebook notes that powers are lost when turning face-down, but doesn't specifically indicate whether they count as being "gained" when recovered.
+
+- What about powers that remain active for face-down characters (such as Swarm and Symbiosis). Does KM turn those off and gain them from face-down MCs?
+
+- What happens when KM appears when an MC is face-up and L1 but subsequently levels up? Does the MC re-gain all powers on its L2 card? Only new powers that it didn't lose as L1?
+
+A: 
+We believe most of this has been asked and answered on our official rules channel of the discord. Below is the entry.
+
+> “What happens when Killmonger is recruited, but the opponent's Main is face-down at that moment? You will only gain the printed powers of the Main Character you choose at the time I Want the Throne triggers. If the Main Character is face down when you play Killmonger, you will gain nothing because that characters powers are lost while stunned. If the Main Character is face up when Killmonger is played and then becomes face-down or removed from game, Killmonger retains those powers since he gained them at the time of his appearance.”
+
+- To point 1, since the MC didn’t lose any powers when Killmonger appeared, it will have its powers once it turns face up.
+
+- To point 2, a character that has lost powers does not regain them by turning face down and then face up again. Turning face down “turns off” any powers the character has. And then turning face up again “turns back on” those powers. But in the example the main character has lost those powers so they are not there to “turn back on.”
+
+- Point 3 mentions two different cases:
+	- If a MC has a power that “remains on while a character is stunned”, then it will be “active” when Killmonger appears, so Killmonger will gain it and cause that character to lose it. (“Remains on while the character is stunned” doesn’t prevent other effects from causing the character to lose the power.)
+
+	- If a MC has a power that “can’t be turned off”, then that power can’t be lost due to Killmonger’s effect. HOWEVER, Killmonger will still gain the power. In other words, Killmonger’s effect does not require the MC to lose a power in order for Killmonger to gain it. (It would have needed to say something like “Killmonger gains each power lost this way.)
+	
+	For example, if the MC has Swarm, Killmonger will gain Swarm even though the MC will not lose Swarm.
+
+- To point 4, a leveled up character is not a new character so it will not regain any powers it has lost, but any new powers it has will work normally.
+
+^(Source:) [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070717807370711100)
 
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)

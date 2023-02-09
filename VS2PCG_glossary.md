@@ -584,6 +584,14 @@ Some equipment cards are labeled "Equipment - Machine" beneath their card names.
   
 * If a Machine stops being an Equipment for any reason, it also is no longer a Machine.  
 
+---
+
+Q: When a Machine or Terrain is attacked, is it considered a "Defender" or is that term reserved solely for characters?
+
+For example, if Elektra SC KO's a back-row machine, does that count for triggering her Paid Assassin keyword power? [When Elektra KOs an enemy back row defender, draw a card.]
+
+A: Machines and Terrains are not considered defenders.
+
 # Main Character Required
 When a card says that it requires a Main Character with a particular team affiliation, you can't put that card in your deck unless your starting Main Character has that team affiliation.
   
@@ -911,6 +919,10 @@ If a defender is able to strike multiple times, you can either strike the same a
 Q: If I have an ability that allows me to directly strike a character, can I strike a face-down character?
 
 A: The short answer is "yes," but depending on the scenario it might not really do anything. Check out the [glossary entry for Hide](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_hide) for further details.
+
+---
+
+Some abilities allow you to "Strike before each enemy character..." such as the powers on Ganymede or "Quicksilver". These powers strike before even characters with **Ferocious** or **Fast Trigger**. If two characters with these powers strike one another, they strike at the same time. See the [FAQ for Green Goblin MC](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_green_goblin_.28mc_-_sinister_six.29) for an example of this ruling.
   
 # Stun/Stunned
 When a character is defeated in combat, or if a characters DEF is ever reduced to 0 (whether from -1/-1 counters or some other effect), it gets stunned. Remove all +1/+1 or -1/-1 counters from it, KO any Equipment on it, turn it face down exhausted, and place a wound counter on it. If it now has wounds greater than or equal to its health, it's KO'd and put into its owner's KO pile.
@@ -950,6 +962,13 @@ A: No. Though they keep their team affiliation when face-down, you must have a f
 > Some plot twists have a team/brand symbol on the top right of the card. That means you may only play it if you have a face-up character with that team/brand symbol on your side (including your main character). However, you can use it to affect any character regardless of team/brand symbol.
 
 ^(Source: Official Rulebook)
+
+# Terrain
+A special card type used in alternative game modes and used by other specific cards during the typical game mode. 
+
+For details, see [Game Modes](https://www.reddit.com/r/VS2PCG/wiki/game_modes/#wiki_terrain)
+
+See also listing for [Machine for a relevant FAQ](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_machine). 
 
 # Timing
 When you play a Plot Twist, use a Super Power, or Power Up a character, it resolves its effect before anyone can take an action. If a power "triggers" in the middle of another action, resolve that action first then resolve the power that triggered. If multiple powers trigger at the same time, the player whose turn decides the order to resolve them.

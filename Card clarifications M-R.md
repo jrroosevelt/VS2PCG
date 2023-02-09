@@ -186,6 +186,7 @@ Each version of Mary Walker has a different text box and ATK and DEF, but they a
 
 ^(Source: Rule insert)
 
+
 # [Masacre](http://vs.tcgbrowser.com/images/cards/big/MFM-014.jpg)
 ^CardNumber: ^MFM-014
 
@@ -466,6 +467,14 @@ A: When Miss America is stunned by play dead, the combat is canceled, you may us
 **Up to the Minute** requires you to check the time at the moment the power resolves, not while you're searching your deck. So let's say it's 2:30 PM when she uses the power. You'll search your deck for a Location card, even if it becomes 2:31 PM while you're in the middle of looking throug your deck.
 
 ^(Source: Rule Insert)
+
+---
+
+Q: Does Miss Minutes count as a Hologram for Mysterio MC's Level 1 Super Power and Level Up?
+
+A: Yes. Miss Minutes counts as a Hologram.
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070511580418146444)
 
 # [Mister Sinister](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
 ^CardNumber: ^LEG-034
