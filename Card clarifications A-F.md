@@ -477,7 +477,17 @@ The second pile, his Power pile, from his **Omnipotent** power, will contain any
 
 ^(Source: Rule insert)
 
-# \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
+# Bishop
+## Bishop (House of X)
+^CardNumber: ^HOX-039
+
+*Set: House of X*  
+
+**Bundle of Energy** includes any locations that can produce ![](%%Energy%%) (Energy), not just basic locations and not just (X-Men) locations.
+
+^(Source: Rule insert)
+
+## \* [Bishop](http://vs.tcgbrowser.com/images/cards/big/LEG-015.jpg) \*
 ^CardNumber: ^LEG-015
 
 *Set: Legacy*  
@@ -637,6 +647,15 @@ If **Memory Thief** sets a character's base health to 1, and that character has 
 
 Q: Does “could melee attack” imply that Blindspot has to be ready in order to use her power?
 A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
+
+# Blink
+^CardNumber: ^HOX-041
+
+*Set: House of X*  
+
+**Displacement Field** makes enemy characters strike themselves. Blink also still gets to strike a character normally. Add her ATK to that character's ATK and compare the total to its DEF to see if it gets stunned.
+
+^(Source: Rule insert)
 
 # Blob 
 ## [Blob](http://vs.tcgbrowser.com/images/cards/big/CV1-003.jpg) (MC)
@@ -1593,6 +1612,26 @@ If after you processed the replacement modifier, the event no longer happens, th
 In the case of Doombot, the event in question is Doctor Doom being wounded. As long as he is still being wounded, you may continue to try to apply replacement modifiers.
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/permalink/2945524228816437/?comment_id=2947706685264858)
+
+# Doop
+^CardNumber: ^HOX-054
+
+*Set: House of X*   
+
+While Doop is **Watching the Game** his card should be facing out from your hand so your opponents can see him (and so he can see the game!). He still counts as being in your hand (and not on your side). For example, you could recruit him normally (putting him onto your side), effects could make you discard him, or you could discard him to power up another Doop that's in play.
+
+While Doop is wathing the game, he can't attack. However he can **be** attacked if:
+
+ - All characters in your front and back row are face down and
+ - The attacker(s) has at least 7 ATK.
+
+When he gets attacked, discard him. (This happens right away. For example, players won't be able to play Plot Twists and the attacker(s) doesn't "strike" Doop.)
+
+You may only have one Doop **Watching the Game** at a time. If another Doop starts watching the game from your hand, turn the first one back around so it's in your hand normally.
+
+**Resident of Marginalia** causes a player to skip one of their next phases. In this case, treat that phase as if it doesn't exist on that turn. **Note:** If a player skips their Draw Phase, any "start of turn" effects will occur at the start of their Recovery Phase. Similarly, if a player skips their Main Phase, any "end of turn" effects will occur at the end of their Build Phase.
+
+^(Source: Rule insert)
 
 # Dormammu
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)

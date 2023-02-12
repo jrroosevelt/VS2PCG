@@ -851,6 +851,15 @@ A: Yes.
 
 ^(Source: UDE FAQ)
 
+## Storm  (MC - House of X)
+^CardNumber: ^HOX-037, ^HOX-038
+
+*Set: House of X*   
+
+When Storm **creates weather** choose one of the listed weather options. That effect lasts the rest of the game. If Storm **creates weather** again, she must choose a new option, but each effect remains active.
+
+^(Source: Rule insert)
+
 ## [Storm](http://vs.tcgbrowser.com/images/cards/big/RES-013.jpg) (SC)
 ^CardNumber: ^RES-013
 
@@ -877,6 +886,15 @@ Does Strength Above All Else still prevent the damage? Did it just grant protect
 A: if you are the highest ATK character during combat resolution you can't be struck
 
 ^(Source: Chad Daniel - UDE Approved)
+
+# Sunfire
+^CardNumber: ^HOX-053
+
+*Set: House of X*   
+
+**Solar Fire** includes any locations that can produce ![](%%Energy%%) (Energy), not just basic locations and not just (X-Men) locations.
+
+^(Source: Rule insert)
 
 # [Sunspot](http://vs.tcgbrowser.com/images/cards/big/NEW-013.jpg)
 ^CardNumber: ^NEW-013

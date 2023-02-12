@@ -82,6 +82,15 @@ He doesn't make Equipment played as other card types free (like Impossible Man o
 
 ^(Source: Rule insert)
 
+## Magneto  (SC - House of X)
+^CardNumber: ^HOX-024
+
+*Set: House of X*   
+
+To "rearrange" equipment, unequip any number of equipment and equip them to different characters on any side. Move any number of Machines to other rows on any side. If a Vehicle gets rearranged, equip it to a single character. It can take on more passengers during its next Formation Step.
+
+^(Source: Rule insert)
+
 ## [Magneto (SC-Hydra)](http://vs.tcgbrowser.com/images/cards/big/SVH-017.jpg)
 ^CardNumber: ^SVH-017
 

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="House of X" id="" 
+     gameId="d9d22574-b64d-4f4b-9726-092d35b778c9" gameVersion="1.3" version="1.3">
+<cards>
+  <card id="" name="Juggernaut">
+      <property name="Card Number" value="HOX-001" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Invulnerable. Main [Might]: Juggernaut can't be stunned or wounded this turn. The Crimson Gem of Cyttorak. Level Up (2) - When you play a [Skill] basic location, Juggernaut gains 1 XP."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Juggernaut">
+      <property name="Card Number" value="HOX-002" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Invulnerable. Main [Might]: Juggernaut can't be stunned or wounded this turn. Limitless Strength. Main [Might][Might]: Juggernaut has [Infinite] ATK for the rest of the game."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Magneto">
+      <property name="Card Number" value="HOX-003" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="There Are No Sides. Build [Intellect]: Reveal the top four cards of your deck. Put each [Brotherhood of Mutants] and [X-Men] supporting character into your hand and shuffle the rest back into the deck. Savior of Mutantkind. Level Up (4) - When a [Brotherhood of Mutants] or [X-Men] supporting character appears on your side, Magneto gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Magneto">
+      <property name="Card Number" value="HOX-004" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="There Are No Sides. Build [Intellect]: Reveal the top four cards of your deck. Put each [Brotherhood of Mutants] and [X-Men] supporting character into your hand and shuffle the rest back into the deck. There's Just What I Want. Main (Skill): Choose a face up [Brotherhood of Mutants] or [X-Men] supporting character on your side, then put +1/+1 counters equal to its ATK on Magneto."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Mystique">
+      <property name="Card Number" value="HOX-005" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Infiltrator. Main [Skill]: Name a team. Mystique can attack enemy characters with that team this turn, even while they're protected. So Many Targets. Level Up (5) - At the start of your Main Phase, Mystique gains 1 XP for each different enemy team."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Mystique">
+      <property name="Card Number" value="HOX-006" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Infiltrator. Main [Skill]: Name a team. Mystique can attack enemy characters with that team this turn, even while they're protected. Deceiver. Main (Intellect): Name a team. Enemy characters with that team can't attack Mystique on their next turn." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Silver Samurai">
+      <property name="Card Number" value="HOX-007" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Tachyon Field. Main [Energy]: When Silver Samurai strikes an enemy defender in melee combat this turn, stun it. Test Your Strength. Level Up (3) - When Silver Samurai stuns an enemy defender in melee combat, he gains 1 XP." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Silver Samurai">
+      <property name="Card Number" value="HOX-008" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Tachyon Field. Main [Energy]: When Silver Samurai strikes an enemy defender in melee combat this turn, stun it. The Ancient Art of Bushido. Main [Intellect]: Draw three cards if Silver Samurai stunned an enemy character in melee combat this turn." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Toad">
+      <property name="Card Number" value="HOX-009" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="0" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Prehensile Tongue. Main [Skill]: Toad has [Range] and +7/+0 this turn. Live to Serve. Level Up (10) - When a character appears on your side, Toad gains XP equal to how much more ATK it has than Toad." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Toad">
+      <property name="Card Number" value="HOX-010" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="11" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Prehensile Tongue. Main [Skill]: Toad has [Range] and +7/+0 this turn. Mighty Leap. Main [Strength]: Toad has [Flight] and +7/+0 this turn." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Blob">
+      <property name="Card Number" value="HOX-011" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Gravitational Mass Allocation. Blob can't be moved on enemy turns. Pain Immunity. Main [Strength]: Blob can't be wounded until your next turn." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Toad">
+      <property name="Card Number" value="HOX-012" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Leap. Toad has [Flight] on your turn. Grab. While in the front row, enemy characters can't fly over Toad." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Pyro">
+      <property name="Card Number" value="HOX-013" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Mister Burns. Main [Energy]: Burn an enemy front row supporting character. (Stun it at the end of each of your turns.)" />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Quicksilver">
+      <property name="Card Number" value="HOX-014" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Out of Nowhere. When you recruit Quicksilver, you may remove him from the game. If you do, startin gon your next turn, during any of your Recruit Steps, you may put him onto your side." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Daken">
+      <property name="Card Number" value="HOX-015" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Berserker. When Daken attacks, put a +1/+1 counter on him. Violent. While attacking a supporting character, Daken strikes with double his ATK." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Sabretooth">
+      <property name="Card Number" value="HOX-016" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Superhuman Senses. Main [Skill]: Sabretooth has +4/+0 and Stealth this turn. (He can melee attack protected characters.)" />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Mimic">
+      <property name="Card Number" value="HOX-017" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Mimic See, Mimic Do. Main (Intellect): For each character on our side with each of the following names, Mimic gets that effect - Angel: [Flight] and Air Superiority this turn. Beast: Draw two cards. Cyclops: [Range] and Fast Trigger this turn. Iceman: Freeze an enemy character. Marvel Girl: Choose a character on your side to get +0/+10 this turn." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Scarlet Witch">
+      <property name="Card Number" value="HOX-018" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Change Probability. As a combat with Scarlet Witch resolves, flip a coin for each enemy character who would strike. For each one who loses the flip, they can't strike this combat." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Avalanche">
+      <property name="Card Number" value="HOX-019" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Seismic Shift. When Avalanche stuns an enemy character in combat, you may turn an enemy location face down." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Juggernaut">
+      <property name="Card Number" value="HOX-020" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Headbutt. Main [Strength]: Daze an enemy front fow character Juggernaut could melee attack." />
+      <property name="Health" value="3" />
+  </card>
+  <card id="" name="Mystique">
+      <property name="Card Number" value="HOX-021" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Infiltrator. Main [Skill]: Name a team. Mystique can attack enemy characters with that team this turn, even while they're protected." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Silver Samurai">
+      <property name="Card Number" value="HOX-022" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Master Strategist. When Silver Samurai appears, you may move an enemy character to its front or back row. Combat Master. While Silver Samurai is in combat, enemy players can't play plot twists." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Alpha">
+      <property name="Card Number" value="HOX-023" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="10" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Superintelligence. Main [Intellect]: Each enemy player has two less recruit points on their next turn." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Magneto">
+      <property name="Card Number" value="HOX-024" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="11" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Meddle With Metal. Main [Energy]: Rearrange any number of equipment." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Always Attack">
+      <property name="Card Number" value="HOX-025" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Anytime] Combat: Choose a character on your side in the combat to get +3/+1 this combat." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Fierce Pierce">
+      <property name="Card Number" value="HOX-026" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Anytime] Combat: If this is a melee combat, choose a character on your side in the combat to get Ferocious and +2/+0 this combat." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Burn It Down">
+      <property name="Card Number" value="HOX-027" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Mutant Loyalty. Put this in your deck only if each card with a team and each character in your deck is [Brotherhood of Mutants] and/or [X-Men]. Build: Turn up to two enemy basic locations with different names face down." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Asteroid M">
+      <property name="Card Number" value="HOX-028" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Energy] or [Intellect] or [Might] or [Skill] for a [Brotherhood of Mutants] character" />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Banshee">
+      <property name="Card Number" value="HOX-029" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Bold Yeller. [Anytime] Combat [Energy]: Daze an enemy character in the combat. Sonic Boom. Level Up (4) - When an enemy character gets turned face down, Bnshee gains 1 XP. "/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Banshee">
+      <property name="Card Number" value="HOX-030" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Bold Yeller. [Anytime] Combat [Energy]: Daze an enemy character in the combat. Sonic Screech. Main (Skill): Put for -1/-1 counters on an enemy character. If it's equipped, stun it instead. "/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Cyclops">
+      <property name="Card Number" value="HOX-031" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Unleash Optic Beam. Main [Energy]: Cyclops strikes with double his ATK while ranged attacking this turn. Battlefield Leader. Level Up (9) - When a character attacks, Cyclops gains 1 XP. "/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Cyclops">
+      <property name="Card Number" value="HOX-032" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Unleash Optic Beam. Main [Energy]: Cyclops strikes with double his ATK while ranged attacking this turn. Battlefield Commander. Main [Skill]: Ready any number of other characters on your side."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Marvel Girl">
+      <property name="Card Number" value="HOX-033" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA. Jean Grey, Phoenix. Telekinetic Shield. [Anytime] Any Combat [Intellect]: Choose a defender on your side to get +0/+10 this combat. Save the Day. Level Up (2) - When a defender on your side survives a combat, Marel Girl gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Marvel Girl">
+      <property name="Card Number" value="HOX-034" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="10" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA. Jean Grey, Phoenix. Telekinetic Shield. [Anytime] Any Combat [Intellect]: Choose a defender on your side to get +0/+10 this combat. Save the Day. Telekinetic Weapon. [Anytime] Any Combat [Might]: Choose an attacker on your side to get +10/+0 this combat."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Professor X">
+      <property name="Card Number" value="HOX-035" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="A Dream Worth Having. Build [Intellect]: Reveal the top four cards of your deck. Put each [X-Men] and [Brotherhood of Mutants] supporting character into your hand and shuffle the rest back into the deck. All Mutantkind Are Welcome. Level Up (4) - When a [X-Men] or [Brotherhood of Mutants] supporting character appears on your side, Professor X gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Professor X">
+      <property name="Card Number" value="HOX-036" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="12" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="A Dream Worth Having. Build [Intellect]: Reveal the top four cards of your deck. Put each [X-Men] and [Brotherhood of Mutants] supporting character into your hand and shuffle the rest back into the deck. A Dream Worth Fighting For. Choose an [X-Men] or [Brotherhood of Mutants] supporting character on your side, then put +1/+1 counters equal to its ATK on another [X-Men] or [Brotherhood of Mutants] supporting character on your side."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Storm">
+      <property name="Card Number" value="HOX-037" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Master Thief. Main [Skill]: Each Enemy player discards a random card. Mistress of the Elements. Level Up (4) - When a basic location appears on your side, Storm gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Storm">
+      <property name="Card Number" value="HOX-038" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Weather Witch. Main [Energy] [Intellect] [Might] [Skill]: Create weather for the rest of the game - Blizzard: At the start of each enemy player's Main Phase, freeze a character on their side. Fog: Enemy defenders can't strike. Cyclone: Enemy characters lose and can't gain [Flight]. Thunderstorm: At the start of each enemy player's Build Phase, put one -1/-1 counter on each character on that side."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Bishop">
+      <property name="Card Number" value="HOX-039" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Bundle of Energy. When Bishop appears, put a +1/+1 counter on him for each [Energy] location on every side."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Jubilee">
+      <property name="Card Number" value="HOX-040" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Fireworks. Enemy characters have -1/-0 while in combat with Jubilee."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Blink">
+      <property name="Card Number" value="HOX-041" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Displacement Field. [Anytime] Combat [Skill]: As this combat resolves, each enemy character strikes itself instead of a character on your side."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Iceman">
+      <property name="Card Number" value="HOX-042" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Ice Breaker. Main [Energy]: Freeze an enemy location. (Exhaust it and it can't ready on its next turn. Exhausted rresources don't provide recruit points.)"/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Havok">
+      <property name="Card Number" value="HOX-043" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Energy Conversion. When a character on your side uses a super power, put a +1/+1 counter on it. When an enemy character uses a super power, put a -1/-1 counter on it."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Multiple Man">
+      <property name="Card Number" value="HOX-044" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="One of a Kind, Swarm. Duper Power. At the start of your Main Phase, you may search your deck for a character named Multiple Man and put him onto your side."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Multiple Man">
+      <property name="Card Number" value="HOX-045" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="One of a Kind, Swarm. Duper Power. At the start of your Main Phase, you may search your deck for a character named Multiple Man and put him onto your side. Genius. At the start of your turn, draw a card."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Multiple Man">
+      <property name="Card Number" value="HOX-046" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="One of a Kind, Swarm. Duper Power. At the start of your Main Phase, you may search your deck for a character named Multiple Man and put him onto your side. Martial Artist. Multiple Man has +2/+2 in melee combat."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Multiple Man">
+      <property name="Card Number" value="HOX-047" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="One of a Kind, Swarm. Duper Power. At the start of your Main Phase, you may search your deck for a character named Multiple Man and put him onto your side. Quick Draw. Wile Multiple Man is ranged attacking, enemy characters can't strike him."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Banshee">
+      <property name="Card Number" value="HOX-048" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Night Night. When Banshee appears, you may daze an enemy character."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Polaris">
+      <property name="Card Number" value="HOX-049" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Manipulate Magnetic Field. Build [Might]: Reveal cards from the top of your deck until you reveal an equipment and put it into your hand. Remove the rest of the cards from the game."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Sage">
+      <property name="Card Number" value="HOX-050" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="0" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Human Supercomputer. When Sage attacks, she gains ATK this combat until her ATK is equal to the defender's DEF."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Professor X">
+      <property name="Card Number" value="HOX-051" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Welcome Home. Build [Intellect]: Look at an enemy player's hand. You may choose a supporting character there and recruit it."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Cyclops">
+      <property name="Card Number" value="HOX-052" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="11" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Fast Trigger. While in ranged combat, Cyclops strikes before characters without Fast Trigger."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Sunfire">
+      <property name="Card Number" value="HOX-053" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Solar Fire. Sunfire has +3/+3 for each [Energy] location on every side."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Doop">
+      <property name="Card Number" value="HOX-054" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Travel across the Margins. When you recruit Doop, you may put him into your hand. If you do, turn him around so he can Watch the Game. Resident of Marginalia. Main [Energy] [Intellect] [Skill]: If Doop is watching the game, choose a phase for the next enemy player to skip - Draw, Recovery, Build, or Main."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Rogue">
+      <property name="Card Number" value="HOX-055" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Rage. When Rogue gets attacked, put a +1/+1 counter on her. Wonderful Strength. [Anytime] Combat [Might]: Double the +1/+1 counters on Rogue. She can use this power any number of times each turn."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Build It Up">
+      <property name="Card Number" value="HOX-056" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Mutant Loyalty. Put this in your deck only if each card with a team and each character in your deck is [Brotherhood of Mutants] and/or [X-Men]. Build: Turn up to two face-down basic locations with different names on your side face up."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="This and That">
+      <property name="Card Number" value="HOX-057" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Anytime] Combat: Put a +1/+1 counter on a character on your side in the combat and a -1/-1 counter on an enemy character in the combat."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Defend the Weak">
+      <property name="Card Number" value="HOX-058" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Anytime] Combat: Choose a character on your side in the combat to get +1/+3 this combat."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="School for Gifted Youngsters">
+      <property name="Card Number" value="HOX-059" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Energy] or [Intellect] or [Might] or [Skill] for an [X-Men] character" />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Secondary Mutation">
+      <property name="Card Number" value="HOX-060" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good, Evil" />	
+      <property name="Teams" value="X-Men, Brotherhood of Mutants" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Mutant Loyalty. Put this in your deck only if each card with a team and each character inyour deck is [Brotherhood of Mutants] and/or [X-Men]. Build: Choose a character on your side. They randomly get one of the following powers they don't already have for the rest of the game: [Flight], [Range], Berserker, Dodge, Ferocious, or Lethal."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Academy">
+      <property name="Card Number" value="HOX-061" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value=""/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Laboratory">
+      <property name="Card Number" value="HOX-063" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value=""/>
+      <property name="Health" value="" />
+  </card>
+</cards>
+</set>

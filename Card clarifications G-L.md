@@ -898,7 +898,16 @@ This power refers to ![](%%Intellect%%) (Intellect) super powers. This counts fo
 ^(Source: Rule insert)
 
 # Juggernaut
-## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC)
+## Juggernaut  (MC - House of X)
+^CardNumber: ^HOX-001, ^HOX-002
+
+*Set: House of X*   
+
+∞ ATK meants the Juggernaut will always have enough ATK to stun another character in the combat even if the other character has ∞ DEF. (In other words, infinite ATK is treated as equal to infinite DEF which results in a stun.)
+
+^(Source: Rule insert)
+
+## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/BOM-001.jpg) (MC - Brotherhood of Mutants)
 ^CardNumber: ^BOM-001, ^BOM-002
 
 *Set: Brotherhood of Mutants*  
@@ -907,9 +916,18 @@ Juggernaut is so big and powerful it’s almost impossible to beat him physicall
 
 ^(Source: Rule insert)
 
-For info about **Unstoppable**, see Juggernaut SC.
+For info about **Unstoppable**, see Juggernaut Supervillains SC.
 
-## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/mnb-096.jpg) (SC)
+## Juggernaut  (SC - House of X)
+^CardNumber: ^HOX-020
+
+*Set: House of X*   
+
+**Headbutt** dazes an enemy Juggernaut "could melee attack." To use this power he must be able to melee attack (for example he must be ready and in the front row) and the character that gets dazed can't be protected (unless Juggernaut currently has a way to melee attack a protected character).
+
+^(Source: Rule insert)
+
+## [Juggernaut](http://vs.tcgbrowser.com/images/cards/big/mnb-096.jpg) (SC - Supervillains)
 ^CardNumber: ^MNB-096
 
 *Set: Brotherhood of Mutants*
