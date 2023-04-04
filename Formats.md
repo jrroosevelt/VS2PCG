@@ -25,25 +25,63 @@ Incursion is a recurring official format in which certain cards are banned after
 For details, see the [Upper Deck Blog Post about this format](https://www.upperdeckblog.com/2022/06/vs-system-2pcg-at-gen-con-2022/).
 
 #### Incursion list banned in 9/2022
-|**Card Title**            |**Card Type** |**Set**                         |**Card Numbers**         |
-|--------------------------|-----------|-----------------------------------|-------------------------|
-| Beyers                   | SC        | X-Files Battles                   | XFB-009                 |
-| Bifrost                  | Location  | MCU Space & Time                  | MCU6-020                |
-| Dr. Doom                 | MC        | Fantastic Battles                 | FAN-031/032             |
-| Frohike                  | SC        | X-Files Battles                   | XFB-007                 |
-| I Need Your Help         | Plot Twist| X-Files Battles                   | XFB-017                 |
-| Kate Pryde / Kitty Pryde | MC        | Futures Past                      | FUT-001/002             |
-| Langly                   | SC        | X-Files Battles                   | XFB-008                 |
-| Nullifie                 | Equipment | S.H.I.E.L.D. vs. Hydra            | SVH-057                 |
-| Outrider                 | MC        | MCU Space & Time                  | MCU6-006                |
-| Senator Kelly            | SC        | Futures Past                      | FUT-025                 |
-| Sentinel (Alpha Combat)  | SC        | Futures Past, Crossover Vol. 4    | FUT-014 thru 022, CV4-008 thru 011|
+|**Card Title**               |**Card Type** |**Set**                         |**Card Numbers**                   |**Banned Event**  |
+|-----------------------------|-----------|-----------------------------------|-----------------------------------|------------------|
+| Beyers                      | SC        | X-Files Battles                   | XFB-009                           | Gen Con 2022     |
+| Bifrost                     | Location  | MCU Space & Time                  | MCU6-020                          | Gen Con 2022     |
+| Chitauri Leviathan          | SC        | The MCU Battles                   | MCU1-053                          | Midwinter 2023   |
+| Chitauri Weaponry           | Equipment | Friendly Neighborhood             | MCU7-021                          | Midwinter 2023   |
+| Darkhold                    | Equipment | S.H.I.E.L.D. vs. Hydra            | SVH-055                           | Midwinter 2023   |
+| Darkhold                    | Equipment | Wandavision                       | WDV-019                           | Midwinter 2023   |
+| Dr. Doom                    | MC        | Fantastic Battles                 | FAN-031/032                       | Gen Con 2022     |
+| Ego                         | SC        | MCU Villains                      | MCU3-019                          | Midwinter 2023   |
+| Frohike                     | SC        | X-Files Battles                   | XFB-007                           | Gen Con 2022     |
+| Global Information Network  | Plot Twist| Cosmic Avengers                   | COS-020                           | Midwinter 2023   |
+| Goose                       | SC        | Mind & Soul                       | MCU5-028                          | Midwinter 2023   |
+| Grandmaster                 | SC        | MCU Villains                      | MCU3-012                          | Midwinter 2023   |
+| He's a Friend from Work     | Plot Twist| The MCU Battles                   | MCU1-062                          | Midwinter 2023   |
+| I Need Your Help            | Plot Twist| X-Files Battles                   | XFB-017                           | Gen Con 2022     |
+| Kane                        | SC        | The Alien Battles                 | ALN-011                           | Midwinter 2023   |
+| Kate Pryde / Kitty Pryde    | MC        | Futures Past                      | FUT-001/002                       | Gen Con 2022     |
+| Langly                      | SC        | X-Files Battles                   | XFB-008                           | Gen Con 2022     |
+| \*Loki\*                    | MC        | Loki                              | LKI-001 thru 003                  | Midwinter 2023   |
+| Masacre                     | SC        | Deadpool and Friends              | MFM-014                           | Midwinter 2023   |
+| Mobius                      | SC        | Loki                              | LKI-011                           | Midwinter 2023   |
+| Nullifier                   | Equipment | S.H.I.E.L.D. vs. Hydra            | SVH-057                           | Gen Con 2022     |
+| Outrider                    | MC        | MCU Space & Time                  | MCU6-006                          | Gen Con 2022     |
+| Senator Kelly               | SC        | Futures Past                      | FUT-025                           | Gen Con 2022     |
+| Sentinel (Alpha Combat)     | SC        | Futures Past, Crossover Vol. 4    | FUT-014 thru 022, CV4-008 thru 011| Gen Con 2022     |
+| Solo                        | SC        | Deadpool and Friends              | MFM-009                           | Midwinter 2023   |
+| Spider-Man (Pro-Reg)        | MC        | Civil War Battles                 | CIV-007, CIV-008                  | Midwinter 2023   |
+| Tempad                      | Equipment | Loki                              | LKI-020                           | Midwinter 2023   |
+| Wakanda                     | Location  | Cosmic Avengers                   | COS-022                           | Midwinter 2023   |
 
 ---
 
 ## Featured Formats (listed most recent/future to oldest)
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
+
+### Duality
+[Official format announcement](https://www.upperdeckblog.com/2023/03/vs-system-2pcg-featured-format-update-duality/)
+
+Let’s answer once and for all: among all the heaviest hitters of Bosses, just who is the Bossiest?
+
+**Season:** Spring/Summer 2023
+
+**Dates:** April 1st 2023 through June 30 2023
+
+**Rules:**
+
+- You must have exactly two copies of each Supporting Character, Plot Twist, and Equipment you put in your 60-card deck.
+    - Supporting Characters, Plot Twists, Equipment, and Locations are not restricted in out-of-game piles.
+- You must have at least two copies of each Location you put in your 60-card deck.
+- You can’t have more than two different Main Characters total anywhere – in play, your deck, your level up zone, or your out-of-game piles). - Different levels of the same unique main character are allowed.
+- You can have the usual one Main Character, and it can level up normally.
+- You can have exactly two Main Characters (assuming an effect says you can), and they will level up normally.
+- You can’t use Main Characters if they start the game with more than two in play, or if there are more than two of them across your deck, level up zone, and/or out-of-game piles. This restriction applies to unique Main Characters as well as Main Characters with Swarm.
+    - You can’t use a Main Character if it says you start the game with three or more of them on your side.
+    - You can’t use a Main Character if it requires an out-of-game pile that has two or more Main Characters in it.
 
 ### Previously On...
 [Official format announcement](https://discord.com/channels/306874195051020288/768622683868364862/1057764504823414814)

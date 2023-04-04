@@ -1378,6 +1378,17 @@ A: Once an attack starts, it can no longer be made illegal. So that attack will 
 
 ^(Source: UDE FAQ)
 
+# Unus / Unus the Untouchable
+^CardNumber: ^NBX-017, ^BOM-012
+
+*Sets: New Brotherhood and Brotherhood*
+
+Q: Are "Unus" and "Unus the Untouchable" considered the same character for purposes of uniqueness, power-ups, etc?
+
+A: Yes
+
+^Source: [^UDE ^Email](https://discord.com/channels/488058478015807499/490215795503398912/1092519224087421039)
+
 # Valentina Allegra de Fontaine
 ^CardNumber: ^FWS-012
 
