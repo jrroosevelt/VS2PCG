@@ -52,6 +52,15 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 ^(Source: Rule insert)
 
+# Magma (Brotherhood)
+^CardNumber: ^NBX-018
+
+*Set: The New Brotherhood*  
+
+**Too Hot to Handle** takes away enemy characters' powers while they're in ranged combat with Magma. this will prevent triggered powers like **Shrink** or **Berserker** from triggering in the first place.
+
+^(Source: Rule insert)
+
 # Magneto
 ## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC - Super Villains)
 ^CardNumber: ^MNB-083, ^MNB-084
@@ -352,6 +361,15 @@ Here are a few exemplar **Deals**:
  - "Wound your main character and put a supporting character from your hand onto your side."  
  - "You choose a character on your side and a character on my side and we stun them both."  
  - "I discard my hand and you lose the game."  
+
+^(Source: Rule insert)
+
+# Mesmero (MC)
+^CardNumber: ^NBX-003, ^NBX-004
+
+*Set: The New Brotherhood*  
+
+**Lumbering** works like this: When you attack with a **Lumbering** character (even if it's a team attack), announce which enemy side you're attacking. Then the defending player chooses who the defender will be. They must choose a character that could be legally attacked.
 
 ^(Source: Rule insert)
 

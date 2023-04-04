@@ -1774,6 +1774,15 @@ This Location is the only way to generate an Earth power symbol for a Bureau cha
 
 ^(Source: Rule Insert)
 
+# Xorn
+^CardNumber: ^NBX-005, ^NBX-006, ^NBX-020
+
+*Set: The New Brotherhood*  
+
+**Disperse** is a new game action that means: First a character loses its powers, then the character gets removed from the game.
+
+^(Source: Rule insert)
+
 # [Yondu](http://vs.tcgbrowser.com/images/cards/big/MCU6-011.jpg)
 ^CardNumber: ^MCU6-011
 

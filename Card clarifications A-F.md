@@ -286,6 +286,15 @@ Besides being angry, the wolves are very smart, and good listeners. If there is 
 
 ^(Source: Rule insert)
 
+# A Nightmare Made Real
+^CardNumber: ^NBX-021
+
+*Set: The New Brotherhood*  
+
+The effect of this Plot Twist lasts until your next turn. So attackers strike with double their ATK on your turn. And then attackers strike with double their ATK on each other player's turn.
+
+^(Source: Rule insert)
+
 # [Annihilus](http://vs.tcgbrowser.com/images/cards/big/FRI-001.jpg)
 ^CardNumber: ^FRI-001, ^FRI-002
 

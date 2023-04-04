@@ -897,6 +897,15 @@ This power refers to ![](%%Intellect%%) (Intellect) super powers. This counts fo
 
 ^(Source: Rule insert)
 
+# Joseph
+^CardNumber: ^NBX-019
+
+*Set: The New Brotherhood*  
+
+![](%%Flight%%) (Flight) and ![](%%Range%%) (Range) are keyword powers and included among the powers **Send in the Clone** can grant Joseph.
+
+^(Source: Rule insert)
+
 # Juggernaut
 ## Juggernaut  (MC - House of X)
 ^CardNumber: ^HOX-001, ^HOX-002
@@ -1494,6 +1503,15 @@ See also [TVA Personnel](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_tva
 Note that this Plot Twist will only cancel either one Super Power or one Plot Twist, not one of each.
 
 ^(Source: Rule Insert)
+
+# Lorelei (House of X)
+^CardNumber: ^NBX-014
+
+*Set: The New Brotherhood*  
+
+A character with "man" in its name means the word "man" is eiether by itself (Iron Man, Power Man), separated by a hyphen (Spider-Man, Man-Thing), or part of a compound word (Iceman, Flatman). It does not count words that include the letters "man" (Mantis, Mandarin). "Woman" and "Human" also do not count.
+
+^(Source: Rule insert)
 
 # [Loyal Soldiers](http://vs.tcgbrowser.com/images/cards/big/def-053.jpg)
 ^CardNumber: ^DEF-053
