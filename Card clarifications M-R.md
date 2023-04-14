@@ -373,6 +373,14 @@ Here are a few exemplar **Deals**:
 
 ^(Source: Rule insert)
 
+---
+
+Q: Does **Hypnotism** affect all enemy characters, or just the ones in-play when the power was activated?
+
+A: It only affects enemy characters in play at the time it was activated. New characters that appear on an enemy's next turn are not affected and do not gain **Lumbering** from this power.
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1093689865507438592)
+
 # [Metal and Fire](http://vs.tcgbrowser.com/images/cards/big/mnb-102.jpg)
 ^CardNumber: ^MNB-102
 

@@ -719,10 +719,27 @@ A combat that involves back row attackers that have ![](%%Range%%) (Range). In a
 # Ready/Exhausted
 A face-up character is either Ready (upright) or Exhausted (sideways). Only ready characters can attack. If an effect readies a character that is already ready, or exhausts a character that is already exhausted, just ignore that part of the effect (but do the rest of it).
 
+---
+
+Q: Can I ready a stunned character? If so, are they still considered stunned?
+
+A: No. The original rulebook clarified that you cannot ready a stunned character. Some rulebooks did not include this clarification, though the rule never actually changed.
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1093624413578072246)
+
 # Recover
 Your face-down characters automatically recover during your Recovery Phase. Some card effects can also recover a character. When a character recovers, turn it face up, but leave it exhausted.
 
 **Note:** Recovering a character does not heal any wounds from it.
+
+---
+
+Q: Can I use a power that recovers a character to turn a hidden character face-up?
+
+A: Hidden characters do not recover, per se. They do turn face-up during your Recover Phase, but this is not considered "recovering" for the purposes of card effects. For example, "Not Finished Yet", which allows you to Recover an enemy character, could not be used to turn a hidden character face-up. 
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1093297434211385496)
+
 
 # Regeneration  
 At the start of your turn, heal a wound from this character. *(The character must be face up.)*  
