@@ -191,6 +191,15 @@ See [Marvel Required](#wiki_marvel_required_.28equipment.29)
 
 [This card has received errata.](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_shadowcat_sc) 
 
+# Shao Kahn (MC)
+^CardNumber: ^MKE-037, ^MKE-038
+
+*Set: Mortal Kombat 11*
+
+If **Taunt** is **Amplified**, you get to choose a second character. You can either Humiliate both of them or Ridicule both of them or Humiliate one and Ridicule the other.
+
+^(Source: Rule Insert)
+
 # [Shadow King](http://vs.tcgbrowser.com/images/cards/big/BOM-017.jpg)
 ^CardNumber: ^BOM-017
 
@@ -583,6 +592,15 @@ A: Short answer is "Yes." What actually happens will depend on if they're stunne
 With her **Acoustikinesis**, if she chooses **Sonic Platform**, the effect will continue even if she's turned face down.
 
 ^(Source: Rule insert)
+
+# Sonya Blade (MC)
+^CardNumber: ^MKE-007, ^MKE-008
+
+*Set: Mortal Kombat 11*
+
+**Energy Rings** puts -1/-1 counters on an enemy Sonya "could attack." To use this power Sonya must be able to attack (for example, she can't be exhausted) and the character that gets the -1/-1 counters can't be protected (unless Sonya currently has a way to attack a protected character).
+
+^(Source: Rule Insert)
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
 ^CardNumber: ^CV2-007

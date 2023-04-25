@@ -188,6 +188,15 @@ A: Whoever currently controls the card gets to choose whether to use the **Rebir
 
 ^(Source: UDE FAQ)
 
+# Marvel Girl
+^CardNumber: ^XFC-017
+
+*Set: X-Force*  
+
+Marvel Girl can choose herself with **Tapping Into Her Power**.
+
+^(Source: Rule insert)
+
 # Marvel Required (Equipment)
 *Set: S.H.I.E.L.D. vs Hydra*   
  
@@ -1047,6 +1056,15 @@ A: No. The act of stunning does not remove -1/-1 counters from opposing characte
 With his **Enemy Power Analysis**, if the attacker has more than one of the listed items, Nimrod will get the respective powers from all of them, not just one.
 
 **Note:** "Keyword text" means Keyword Powers in the text box of a card - or in other words, all Keyword Powers except for ![](%%Flight%%) and (Range).
+
+^(Source: Rule Insert)
+
+# Noob Saibot (MC)
+^CardNumber: ^MKE-035, ^MKE-036
+
+*Set: Mortal Kombat 11*
+
+**Shadow Clones** makes it so each time you power up Noob Saibot by discarding a Noob Saibot supporting character you get to put that supporting character from your KO pile onto your side. Your main character still gets the +1/+1 counter from getting powered up (plus another four +1/+1 counters if you **Amplified Shadow Clones**).
 
 ^(Source: Rule Insert)
 

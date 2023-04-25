@@ -1009,6 +1009,17 @@ So if you pick 7 as your **Future Date**, Kang can only appear while you have ex
 
 ^(Source: Rule Insert)
 
+# Kano
+^CardNumber: ^MKE-047
+
+*Set: Mortal Kombat 11*
+
+When an enemy player pays Kano or Kollector recruit points, those points just go away. Kano and the Kollector don't get to do anything with them.
+
+When Kano changes sides, he doesn't change his current ready/exhausted status.
+
+^(Source: Rule Insert)
+
 # [Kate](http://vs.tcgbrowser.com/images/cards/big/FUT-001.jpg) (and [Kitty) Pryde](http://vs.tcgbrowser.com/images/cards/big/FUT-002.jpg) (MC)
 ^CardNumber: ^FUT-001, ^FUT-002
 
@@ -1150,6 +1161,15 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 Note that when he uses his Take Over the World power, it will trigger his Boss Battle effects for each Location that appears.
 
 ^(Source: Rule insert)
+
+# The Kollector
+^CardNumber: ^MKE-040
+
+*Set: Mortal Kombat 11*
+
+When an enemy player pays Kano or Kollector recruit points, those points just go away. Kano and the Kollector don't get to do anything with them.
+
+^(Source: Rule Insert)
 
 # [Kraven the Hunter](http://vs.tcgbrowser.com/images/cards/big/SYN-002.jpg) (MC)
 ^CardNumber: ^SYN-002
@@ -1385,6 +1405,17 @@ This Domain creates character tokens. A token character works just like a regula
 a KO pile or otherwise leaves play, remove it from the game. We suggest you use facedown cards you aren’t using.
 
 ^(Source: Rule insert)
+
+# Liu Kang (SC)
+^CardNumber: ^MKE-023
+
+*Set: Mortal Kombat 11*
+
+**Bicycle Kick** lets Liu Kang strike each enemy in the kombat any number of times. The strikes all happen at once, and for each strike just add his current ATK. For example, let's say he's defending against a team attack of two enemy characters. He has 3ATK, one attacker has 10 DEF, and the other has 20 DEF.
+
+When kombat resolves, Liu Kang decides to strike the first attacker four times (for a total of 12 ATK) which is enough to stun it. He also decides to strike the sceond attacker 1,000,000 times (for a total of 3,000,000 ATK) which is enough to stun it.
+
+^(Source: Rule Insert)
 
 # [Living Tribunal](http://vs.tcgbrowser.com/images/cards/big/GAL-017.jpg)
 ^CardNumber: ^GAL-017

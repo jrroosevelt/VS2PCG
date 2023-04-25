@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="X-Force" id="" 
+     gameId="d9d22574-b64d-4f4b-9726-092d35b778c9" gameVersion="1.3" version="1.3">
+<cards>
+  <card id="" name="Beast">
+      <property name="Card Number" value="XFC-001" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Climb. At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on Beast. Animal Agility. [AnyTurn]Combat[SKILL]: Beast gets +1/+1 this combat for each +1/+1 counter on him. Big Blue Brain. Level Up(3) - When Beast Climbs a Laboratory, he gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Beast">
+      <property name="Card Number" value="XFC-002" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Climb to Die. At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on Beast and he gets Ferocious and Lethal this turn. Animal Agility. [AnyTurn]Combat[SKILL]: Beast gets +1/+1 this combat for each +1/+1 counter on him."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Deadpool">
+      <property name="Card Number" value="XFC-003" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Unpredictable. [AnyTurn]Combat[SKILL]: Deadpool gets one of the following this combat, at random: +4/+0, +2/+2, +0/+4. Death Follows Me. Level Up(4) - When a character gets KO'd, Deadpool gains 1 XP."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Deadpool">
+      <property name="Card Number" value="XFC-004" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Unpredictable. [AnyTurn]Combat[SKILL]: Deadpool gets one of the following this combat, at random: +4/+0, +2/+2, +0/+4. Mister Assassin. [AnyTurn]Combat[MIGHT]: KO an enemy supporting character in the combat."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Wolverine">
+      <property name="Card Number" value="XFC-005" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Bone Claws. [AnyTurn]Combat[MIGHT]: Wolverine gets +2/+0 this combat. Lone Wolf. Level Up(3) - When Wolverine makes a solo attack, he gains 1 XP."/>
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Wolverine">
+      <property name="Card Number" value="XFC-006" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Adamantium Claws. [AnyTurn]Combat[MIGHT]: Wolverine gets +6/+0 this combat. A New Family. Main[INTELLECT]: While team attacking this turn, characters on your side have Berserker and can't be struck." />
+      <property name="Health" value="6" />
+  </card>    
+  <card id="" name="Beast">
+      <property name="Card Number" value="XFC-007" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Climb. At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on Beast. Animal Agility. [AnyTurn]Combat[SKILL]: Beast gets +1/+1 this combat for each +1/+1 counter on him." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Caliban">
+      <property name="Card Number" value="XFC-008" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="X-Factor Detection. Main[INTELLECT]: Put two +1/+1 counters on each other [Brotherhood of Mutants] and [Xmen] character on your side." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Angel">
+      <property name="Card Number" value="XFC-009" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Air Superiority. Characters with [Flight] can't strike Angel." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Psylocke">
+      <property name="Card Number" value="XFC-010" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Butterfly Knife. When Psylocke attacks a character on an enemy player's side, that player discards a plot twist.  If they don't have one, they reveal their hand." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Wolverine">
+      <property name="Card Number" value="XFC-011" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Berserker. When Wolverine attacks, put a +1/+1 counter on him. Fearless. While attacking a main character, Wolverine strikes with double his ATK." />
+      <property name="Health" value="3" />
+  </card>  
+  <card id="" name="X-23">
+      <property name="Card Number" value="XFC-012" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Scared Stiff. Main[SKILL]: Enemy characters can't use super powers until your next turn." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Deadpool">
+      <property name="Card Number" value="XFC-013" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Impulsive. When Deadpool appears or recovers, he strikes an enemy supporting character. Tough. When Deadpool gets stunned, you may recover him.  (He still gets wounded.)" />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Domino">
+      <property name="Card Number" value="XFC-014" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Lady Luck. [Anytime]Combat[INTELLECT]: Roll a die. Put that many +1/+1 counters on Domino." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Colossus">
+      <property name="Card Number" value="XFC-015" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Not Mde of Steel, Made of Rage. [Anytime]Combat[MIGHT]: Colossus gets +3/+3 this combat. If he's wounded, he gets +6/+6 instead." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Storm">
+      <property name="Card Number" value="XFC-016" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Electrical Field. When Storm enters combat, put a -1/-1 counter on each enemy character in the combat. Atomkinesis [AnyTurn]Combat[ENERGY]: Double the -1/-1 counters on each enemy character in the combat. Storm can use this power any number of times each turn." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Marvel Girl">
+      <property name="Card Number" value="XFC-017" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="10" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Jean Grey, Phoenix. Tapping Into Her Power. When Marvel Girl appears, choose a character on your side to get +10/+10 this turn." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="A Dream Realized">
+      <property name="Card Number" value="XFC-018" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Mutant Loyalty. Put this in your deck only if each card with a team and each character in your deck is [Brotherhood of Mutants] and/or [Xmen]. One of a Kind. You may only have one of this card in your deck. Build: Characters can't attack until your next turn." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="X-Men Uniform">
+      <property name="Card Number" value="XFC-019" />
+      <property name="Type" value="Equipment" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="X-Men" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Standard Issue. You pay 1 less to play this if you equip it to an [Xmen] character. Basic Protection. Equipped character has +2/+2." />
+      <property name="Health" value="" />
+  </card>
+</cards>
+</set>

@@ -456,7 +456,17 @@ To resolve the **Age of Miracles**, first choose a Supporting Character with 1 p
 
 ^(Source: Rule insert)
 
-# [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg) 
+# Beast
+## Beast (MC - X-Force)
+^CardNumber: ^XFC-001, ^XFC-002
+
+*Set: X-Force*  
+
+**Animal Agility** gives Beast +1/+1 for each +1/+1 counter on him at the time he uses the super power. Gaining or losing counters later in the combat won't affect Animal Agility.
+
+^(Source: Rule insert)
+
+## [Beast](http://vs.tcgbrowser.com/images/cards/big/DFX-010.jpg)  (SC - Defenders)
 ^CardNumber: ^DFX-010
 
 *Set: The New Defenders*  
@@ -971,6 +981,30 @@ With his **Maximum Carnage**, if he gets stunned, he **will** gain the +1/+1 cou
 Carnage’s power triggers when he stuns or gets stunned. So it’s possible for it to trigger twice in one combat.
 
 ^(Source: Rule insert)
+
+# Cassie Cage
+^CardNumber: ^MKE-017
+
+*Set: Mortal Kombat 11*
+
+The actions you can normally take in kombat are: playing a plot twist, using a super power, powering up a character in the kombat, and passing. Cassie can use **BLB-118 Combat Drone Escape** any time you could normally do one of those actions.
+
+^(Source: Rule Insert)
+
+# Cetrion (MC)
+^CardNumber: ^MKE-029, ^MKE-030
+
+*Set: Mortal Kombat 11*
+
+**Nature Demands Equillibrium** counts the nuber of Good supporting characters on all sides, then the number of Evil supporting characters. If each number is the same, put that many total counters on Cetrion. If they're not the same, Cetrion will gain no +1/+1 counters. 
+
+**Example:** One player has two Earthrealm supporting characters, and the other player has two Netherrealm supporting characters. Cetrion would gain four +1/+1 counters.
+
+**Balance is Perfection** also counts the total number of Good supporting characters and the total number of Evil supporting characters. If there are more Good, KO one of them. If there are more Evil, KO one of them. 
+
+**Note:** With both of the above powers don't forget to count face-down supporting characters. They remain Good or Evil while face down.
+
+^(Source: Rule Insert)
 
 # Chameleon
 ## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SFO-001.jpg) (MC)
@@ -1596,12 +1630,22 @@ Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK 
 
 ^(Source: Rule insert)
 
-# [Domino](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg)
+# Domino
+## [Domino](http://vs.tcgbrowser.com/images/cards/big/TUB-020.jpg) (Mutant Resistance)
 ^CardNumber: ^TUB-020
 
 *Set: The Utopia Battles*   
 
 **Probability Manipulation** requires Domino to flip a coin when she attacks or defends. If she wins the flip something good happens. Otherwise, the combat proceeds as normal.
+
+^(Source: Rule insert)
+
+## Domino (X-Men)
+^CardNumber: ^XFC-014
+
+*Set: X-Force*  
+
+**Lady Luck** uses a standard 6-sided die. (If you don't have one handy, that's pretty unlucky. So maybe just assume you would have rolled a 1!)
 
 ^(Source: Rule insert)
 
@@ -1726,6 +1770,15 @@ You can include up to the usual four copies of Lizard in your deck as well as br
 
 ^(Source: Rule insert)
 
+# A Dream Realized
+^CardNumber: ^XFC-018
+
+*Set: X-Force*  
+
+The effect of this Plot Twist lasts until your next turn. So characters can't attack on your turn. And then characters can't attack on each other player's turn.
+
+^(Source: Rule insert)
+
 # Dr. Strange/Doctor Strange
 ## Doctor Strange (MC- Avengers)
 ^CardNumber: ^MYS-001, ^MYS-002
@@ -1790,6 +1843,15 @@ Q: Can I include Dust in Ahab's Hound pile if my MC is not a Mutant Resistance M
 A: No. The "Starting Main Character Required" restriction on the card is a deck building requirement which applies to the side piles as well. Even if Dust starts in a side pile, the starting MC must be a Mutant Resistance MC.
 
 ^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/783103861811314709)
+
+# D'Vorah
+^CardNumber: ^MKE-043
+
+*Set: Mortal Kombat 11*
+
+You can use any marker to represent your D'Vorah token. For example, a bead, a coint, or a hand-drawn picture of D'Vorah.
+
+^(Source: Rule Insert)
 
 # Eddie Brock
 ^CardNumber: ^VER-008
