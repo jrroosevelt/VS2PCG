@@ -792,6 +792,28 @@ At one point Starhawk was actually two beings merged together who took turns occ
 
 ^(Source: Rule insert)
 
+# Starlight
+## Starlight (SC - The Boys)
+^CardNumber: ^BOY-023
+
+*Set: The Boys*   
+
+When **Touch Me and I'll Burn Your Eyes Out** removes an enemy player's hand from the game, only that player may look at those cards while they're out of play. The two random cards that player will return to their hand at the start of each of their turns are separate from two cards they will draw from their deck during their Draw Phase.
+
+If they still have cards removed from **Touch Me and I'll Burn Your Eyes Out** and Starlight uses this power again, their current hand will get removed from the game separately from the cards that were removed the first time. Now at the start of their turns they will put two random cards back into their hand from EACH group of cards that Starlight removed.
+
+^(Source: Rule insert)
+
+## Starlight (SC - The Seven)
+^CardNumber: ^BOY-050
+
+*Set: The Boys*   
+
+Once Starlight uses **Electricity Goes In**, starting on her next turn she can use **Blast Comes Out** for the rest of the game. However, if she gets KO'd and you play a new copy of Starlight the new copy will need to use **Electricity Goes In** again.
+
+^(Source: Rule insert)
+
+
 # Star Lord
 ## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
 ^CardNumber: ^MCU1-007, ^MCU1-008
@@ -1431,6 +1453,18 @@ A: Valentina Allegra de Fontain'es keyword **You're Very, Very Valuable** is not
 If **The Famed Sword of the Valkyrie** is used to remove an enemy Main Character from the game that player will lose the game (unless they have any other Main Characters on their side). 
 
 ^(Source: Rule insert)
+
+---
+
+Q: If Valkyrie MCU MC KO's an opposing SC in combat, but is stunned herself in the process, does she get XP? (Does she go face-down before the opposing character goes to the KO pile or is it simultaneous?)
+
+A: She does not get XP in this scenario. From the compiled rulebook:
+
+> When a character becomes stunned, remove counters from it except wound and vitality counters, KO any equipment on it, turn it face down exhausted, and put a wound counter on it. If it now has wounds greater than or equal to its Health, or has a Lethal wound, it’s KO’d. Put it into its owner’s KO pile.
+
+So, Valkyrie would be turned face-down and lose her level-up power before the character was put in the KO pile.
+
+See also [this FB post](https://www.facebook.com/groups/860168987351982/permalink/2548180698550794/). 
 
 ## [Valkyrie](http://vs.tcgbrowser.com/images/cards/big/def-020.jpg) (SC)
 ^CardNumber: ^DEF-020

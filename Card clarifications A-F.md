@@ -147,9 +147,11 @@ These characters have "stun" powers: **Assassin** and **Warrior** respectively. 
 
 *Set: Futures Past*
 
-You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) who do not share any names and do not have any copies in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
+You start the game with a private out-of-game Hound pile. The pile must contain exactly 4 different supporting characters of your choice with (Brotherhood), (Resistance), and/or (X-men) ~~who do not share any names and do not have any copies in your deck~~ who are not already in your deck and do not share any names with each other or characters in your deck. For the game, Hounds lose their printed team affiliations, and gain the (Sentinel) affiliation.
 
-^(Source: Rule Insert)
+Note: the above rules insert was ammended via the Out of Game Piles document.
+
+^(Source: Rule Insert), ^([Out of Game Piles Doc](http://www.upperdeck.com/op/))
 
 ---
 
@@ -1045,6 +1047,15 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 ^(Source: Rule insert)
 
+# C.I.A. Deputy Director Susan Rayner
+^CardNumber: ^BOY-015
+
+*Set: The Boys*   
+
+If the exhausted location is turned face down, that resource still won't ready until after its next turn.
+
+^(Source: Rule insert)
+
 # [Cigarette Smoking Man (MC)](http://vs.tcgbrowser.com/images/cards/big/XFB-024.jpg)
 ^CardNumber: ^XFB-024, ^XFB-025
 
@@ -1530,6 +1541,26 @@ While this card is face down in your Resource Row, you can play it as if it was 
 
 ^(Source: Rule insert)
 
+# The Deep
+## The Deep (MC)
+^CardNumber: ^BOY-023, ^BOY-038
+
+*Set: The Boys*   
+
+The Deep can use **I Mean, Yeah, I Can Talk to Fish** before or after you draw your usual two cards during your Draw Phase.
+
+^(Source: Rule insert)
+
+## The Deep (SC)
+^CardNumber: ^BOY-044
+
+*Set: The Boys*   
+
+To "almost put it on your side" you could lower the character card close to the table without touching it and then sadly place it into your KO pile. If it helps, try to imagine you've rescued a dolphon and it's in the back of your speeding van, but when the cops block the road, you slam the brakes and the dolphin crashes through your windshield and splats onto the street 50 feet in front of you. And then is run over by a truck.
+
+^(Source: Rule insert)
+
+
 # [Destiny](http://vs.tcgbrowser.com/images/cards/big/FRE-007.jpg)
 ^CardNumber: ^FRE-007
 
@@ -1686,6 +1717,23 @@ You may only have one Doop **Watching the Game** at a time. If another Doop star
 
 ^(Source: Rule insert)
 
+# Doppelganger
+^CardNumber: ^BOY-045
+
+*Set: The Boys*   
+
+Q: What exactly does Doppelganger copy? Does it work on powers if a card is face-down?
+
+A: It copies all of the printed information on the card you choose, cost, printed keyword and super powers, ATK, DEF, and Health. It does not copy:
+- Title/Names
+- Modifiers
+- Counters
+- Powers not printed on the card. (Like if the card gained a power from an Equipment, etc.)
+
+Whether the card is face down doesn't matter. 
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1131315073248399410)
+
 # Dormammu
 ## [Dormammu](http://vs.tcgbrowser.com/images/cards/big/mcu3-001.jpg)
 ^CardNumber: ^MCU3-001, ^MCU3-002
@@ -1840,9 +1888,9 @@ A: Yes, if they had enough +1/+1 counters, those counters will become -1/-1 coun
 *Set: Crossover Vol. 2*
 Q: Can I include Dust in Ahab's Hound pile if my MC is not a Mutant Resistance MC? 
 
-A: No. The "Starting Main Character Required" restriction on the card is a deck building requirement which applies to the side piles as well. Even if Dust starts in a side pile, the starting MC must be a Mutant Resistance MC.
+A: Yes. The "Starting Main Character Required" restriction on the card is a deck building requirement which no longer applies to the side piles as of the 2021 rules update.
 
-^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/783103861811314709)
+^Source: [^Upper ^Deck ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/992547541486928002)
 
 # D'Vorah
 ^CardNumber: ^MKE-043
@@ -2266,6 +2314,27 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 * When Franklin leaves play, the characters from each **Pocket Universe** he created pop back into the original universe part of the game, in the same rows and with the same orientation they were in their **Pocket Universe**.
     * If this leads to more than one character with the same name on your side, KO all except one (your choice).
 
+
+^(Source: Rule insert)
+
+# Frenchie
+## Frenchie (Main Character)
+^CardNumber: ^BOY-003, ^BOY-004
+
+*Set: The Boys*   
+
+**I Know a Little About a Lot of Things** counts every card you play including resources.
+
+^(Source: Rule insert)
+
+## Frenchie (Supporting Character)
+^CardNumber: ^BOY-017
+
+*Set: The Boys*   
+
+**I Carry Them All With Me** counts each character Frenchie has stunned including by combat and by using this super power.
+
+**Note:** If Frenchie is KO'd and you play a new copy of Frenchie the "count" will start over.
 
 ^(Source: Rule insert)
 

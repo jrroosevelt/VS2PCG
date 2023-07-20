@@ -1524,6 +1524,17 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 ^(Source: Rule insert)
 
+# Queen Maeve (Main Character)
+^CardNumber: ^BOY-033, ^BOY-034
+
+*Set: The Boys*   
+
+**Casual Cruelty** determines how many -1/-1 counters it would take to make a supporting character have 1 DEF and then it puts all those counters on the character all at once. If there's an effect that modifies how many counters get placed (such as Butcher doubling the counters) that happens after determining the initial number of counters needed.
+
+**Example:** A supporting character has 5 DEF. **Casual Cruelty** determines it needs 4 -1/-1 counters, then Butcher doubles those counters to 8.
+
+^(Source: Rule insert)
+
 # [Quicksilver](http://vs.tcgbrowser.com/images/cards/big/MCU5-010.jpg) (MC - MCU Villains)
 ^CardNumber: ^MCU5-010, ^MCU5-011
 
@@ -1712,6 +1723,15 @@ A: The short answer is this:
 When **Kitsunegari** moves an enemy character to your side, you may immediately have it use one of its **Main** Super Powers without paying its power symbols. Then whether it used one of its powers or not, it goes back to the same row and position it was in. If it used one of its powers, then it won't be able to use that power again this turn. (Unless that power can normally be used multiple times on a turn.)
 
 ^(Source: Rule Insert)
+
+# Robin Ward
+^CardNumber: ^BOY-012
+
+*Set: The Boys*   
+
+Granting 1 XP to a supporting character or a main character at its highest level won't do anything. (So give them a +1/+1 counter instead.)
+
+^(Source: Rule insert)
 
 # Rocket
 ## [Rocket](http://vs.tcgbrowser.com/images/cards/big/mnb-053.jpg) (MC)

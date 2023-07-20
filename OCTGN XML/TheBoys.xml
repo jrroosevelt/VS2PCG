@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="The Boys" id="" 
+     gameId="d9d22574-b64d-4f4b-9726-092d35b778c9" gameVersion="1.3" version="1.3">
+<cards>
+  <card id="" name="Butcher">
+      <property name="Card Number" value="BOY-001" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Where's Your Rage? Main [Might]: Put +1/+1 counters on a character on your side equal to the number of characters with 1 [Health] in your KO pile. Spank Them When They Get Out of Line. Level Up (4) - When Butcher attacks a supporting character, he gains XP equal to its printed [Health]."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Butcher">
+      <property name="Card Number" value="BOY-002" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Where's Your Rage? Main [Might]: Put +1/+1 counters on a character on your side equal to the number of characters with 1 [Health] in your KO pile. I'm Just Gonna Hurt You. (Anytime) Combat [Energy]: Stun Butcher and KO each enemy supporting character in combat with him."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Frenchie">
+      <property name="Card Number" value="BOY-003" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Gunrunner by Trade. During your turn, while Frenchie is in your back row, other characters in that row have [Range]. I Know a Little About a Lot of Things. Level Up (10) - When you play a card, Frenchie gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Frenchie">
+      <property name="Card Number" value="BOY-004" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Gunrunner by Trade. During your turn, while Frenchie is in your back row, other characters in that row have [Range]. I've Developed a Certain Niche. Combat [Energy][Energy][Intellect][Intellect][Might][Might][Skill][Skill]: KO a defending main character."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Hughie">
+      <property name="Card Number" value="BOY-005" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Gopd" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Just 'Cause You Fall... (Anytime) Combat [Might]: While Hughie is defending during this combat, if he gets stunned he doesn't get wounded, and when he gets stunned recover him. He can use this power any number of times each turn. Doesn't Mean You Have To Stay There. Level Up (3) - When Hughie Recovers, he gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Hughie">
+      <property name="Card Number" value="BOY-006" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Just 'Cause You Fall... (Anytime) Combat [Might]: While Hughie is defending during this combat, if he gets stunned he doesn't get wounded, and when he gets stunned recover him. He can use this power any number of times each turn. Whatever the Price Is, I'll Pay It. Main [Energy] or [Intellect] or [Might] or [Skill]: Stun a supporting character that has a super power with the same power symbol Hughie paid." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Kimiko">
+      <property name="Card Number" value="BOY-007" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="The Female. [Anytime] Combat [Skill]: Kimiko strikes an additional time this combat. Of the Species. Level Up (4) - When Kimiko strikes, she gainst 1 XP." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Kimiko">
+      <property name="Card Number" value="BOY-008" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="The Female. [Anytime] Combat [Skill]: Kimiko strikes an additional time this combat. More Deadlier Than the Male. [Anytime] Combat [Might]: If Kimiko is defending, cancel the combat. Then start a melee combat with Kimiko as the attacker and the fomer attacker(s) as the defender(s). During that attack you can play Combat plot twists that don't have the (Anytime) symbol." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Mother's Milk">
+      <property name="Card Number" value="BOY-009" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Plan Ahead. Build [Intellect]: Look at the top five cards of your deck. Put one on top and the rest on the bottom. More Comfortable on a Smaller Scale. Level Up (4) - When you play a character or play an equipment with 3 cost or less, Mother's Milk gains 1 XP." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Mother's Milk">
+      <property name="Card Number" value="BOY-010" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Plan Ahead. Build [Intellect]: Look at the top five cards of your deck. Put one on top and the rest on the bottom. Stick to the Plan. Build [Skill][Skill]: For the rest of the game, while Mother's Milk is face up on our side you may look at the top card of your deck at any time. You may play characters, equipment, and plot twists from the top of your deck. " />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Hugh Campbell Sr.">
+      <property name="Card Number" value="BOY-011" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="0" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="You Don't Have the Fight. Main Characters on your side have -2/+2." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Robin Ward">
+      <property name="Card Number" value="BOY-012" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="She Was a Half Step Off the Curb! When Robin gets attacked, KO her. Then choose a face-up [The Boys] character on your side to gain 1 XP or a +1/+1 counter." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Cherie">
+      <property name="Card Number" value="BOY-013" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Explosive Diversion. Main [Energy]: KO a face-down location on your side. If you do, choose a main character on your side. While it's in your back row it can't be attacked until your next turn." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Grace Mallory">
+      <property name="Card Number" value="BOY-014" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="0" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I'm the Founder of Your Little Club. You pay 1 less to recruit your first [The Boys] character not named Grace Mallory each turn. When you recruit your first [The Boys] character not named Grace Mallory each turn, draw a card." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="C.I.A. Depurty Director Susan Rayner">
+      <property name="Card Number" value="BOY-015" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="You and Your Corporation are Screwed. Main [Skill]: Exhaust an enemy location. It can't ready until after its next turn. (Exhausted resources don't produce recruit points.)" />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Hughie">
+      <property name="Card Number" value="BOY-016" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Don't Usually Go Out After a Massacre. When an enemy character gets KO'd, you may hide Hughie." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Frenchie">
+      <property name="Card Number" value="BOY-017" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Carry Them All With Me. Main [Might]: For each character Frenchie has stunned this game, put a -1/-1 counter on each enemy character." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Mother's Milk">
+      <property name="Card Number" value="BOY-018" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="You Get Further Treating People Like People. Build [Intellect]: Choose an enemy player to draw a card. You draw two cards." />
+      <property name="Health" value="1" />
+  </card>    
+  <card id="" name="Butcher">
+      <property name="Card Number" value="BOY-019" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Stealth. Butcher can melee attack protected characters. Don't Worry. It Can Get a Lot More Horrible. If an enemy supporting character would gain any number of wounds or -1/-1 counters, it gains twice that many instead." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Popclaw">
+      <property name="Card Number" value="BOY-020" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Terminal Beauty. [Anytime] Combat [Skill]: When Popclaw strikes a supporting character this combat, KO it." />
+      <property name="Health" value="1" />
+  </card>    
+  <card id="" name="Kimiko">
+      <property name="Card Number" value="BOY-021" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Leap. Kimiko has [Flight] on your turn. Ferocious. While in melee combat, Kimiko strikes before each character without Ferocious. A Miracle. Build [Might]: If Kimiko is in your KO pile, put her onto your side with a +1/+1 counter." />
+      <property name="Health" value="1" />
+  </card>   
+  <card id="" name="Mesmer">
+      <property name="Card Number" value="BOY-022" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value=2"" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="There Are No Secrets From Me. Main [Intellect]: Look at an enemy player's hand and choose a card. That player discards that card." />
+      <property name="Health" value="1" />
+  </card>    
+  <card id="" name="Starlight">
+      <property name="Card Number" value="BOY-023" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I'm  Fighter. I'm Going to Fight. When Starlight gets attacked for the first time each turn, you may daze an attacker. Touch Me and I'll Burn Your Eyes Out. Main [Energy]:  Remove an enemy hand from the game face down. For the rest of the game, at the start of each of that player's turns, they randomly put two of those cards into their hand." />
+      <property name="Health" value="1" />
+  </card>       
+  <card id="" name="Diabolical">
+      <property name="Card Number" value="BOY-024" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Anytime] Combat: Put -1/-1 counters on a supporting character in the combat equal to its printed [Health]." />
+      <property name="Health" value="" />
+  </card>  
+  <card id="" name="Mind Them Bars">
+      <property name="Card Number" value="BOY-025" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Main: Push an enemy front row supporting character to its back row. It is Immobile on its next turn. (It can't move during its Formation Step.)" />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="It's A Burn">
+      <property name="Card Number" value="BOY-026" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Anytime] Combat: Choose a defending supporting character on your side with 1 printed [Health]. Remove it from teh combat, then hide it." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="You've Done a Murder">
+      <property name="Card Number" value="BOY-027" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Combat: Put a +1/+1 counter on an attacker on your side. It is Lethal this combat. (If it wounds a defending supporting character, KO it.)" />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Safehouse">
+      <property name="Card Number" value="BOY-028" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Energy] or [Intellect] or [Might] or [Skill] for a [The Boys] character." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="A-Train">
+      <property name="Card Number" value="BOY-029" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="The World's Fastest Man. Main [Skill]: Ready A-Train. He can use this power any number of times on your turn. I Can't Stop. I Can't Stop. I Can't Stop. Level Up (5) - When A-Train attacks, he gains 1 XP and a -1/-1 counter."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="A-Train">
+      <property name="Card Number" value="BOY-030" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="The World's Fastest Man. Main [Skill]: Ready A-Train. He can use this power any number of times on your turn. Addicted to Compound V. Main [Energy]: Put seven +1/+1 counters on A-Train. At the start of your next turn, put seven -1/-1 counters on him."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Homelander">
+      <property name="Card Number" value="BOY-031" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Sticks and Stones Won't Break My Bones. Combat [Might]: Homelander can't be stunned this combat. You Guys Are the Real Heroes. Level Up (4) - When a character with 1 printed [Health] appears on your side, Homelander gains 1 XP. "/>
+      <property name="Health" value="7" />
+  </card>
+  <card id="" name="Homelander">
+      <property name="Card Number" value="BOY-032" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Sticks and Stones Won't Break My Bones. Combat [Might]: Homelander can't be stunned this combat. We're a Different Breed. Main [Energy]: Each supporting character with 2 or more printed [Health] on your side can't be stunned this turn."/>
+      <property name="Health" value="7" />
+  </card>
+  <card id="" name="Queen Maeve">
+      <property name="Card Number" value="BOY-033" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Bottomless Casual Cruelty. Main [Intellect]: Put enough -1/-1 counters on an enemy character to make its DEF 1. Never Let Them See You Like This. Level Up (7) - When an enemy characer gains one ore more -1/-1 counters, Maeve gains that many XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Queen Maeve">
+      <property name="Card Number" value="BOY-034" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The SEven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Bottomless Casual Cruelty. Main [Intellect]: Put enough -1/-1 counters on an enemy  character to make its DEF 1. Just... Be Original. Main [Might]: Choose a supporting character. Remove all counters from it."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Starlight">
+      <property name="Card Number" value="BOY-035" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="You Should Look Away. Main [Energy]: Choose an enemy player to choose two face-up supporting characters on their side. Daze them both. Or I'll Blind You. Level Up (5) - At the end of your turn, Starlight gains 1 XP for each stunned enemy character."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Starlight">
+      <property name="Card Number" value="BOY-036" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven, The Boys" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="You Should Look Away. Main [Energy]: Choose an enemy player to choose two face-up supporting characters on their side. Daze them both. All I Wanted Was to Save the World. [Anytime] Any Combat [Skill]: If another character on your side is defending, daze each attacker."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="The Deep">
+      <property name="Card Number" value="BOY-037" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Mean, Yeah, I Can Talk to Fish. Draw [Intellect]: Look at the bottom seven cards of your deck, set two aside, and shuffle the rest into your deck. Put the set aside cards on top in any order. The Green Crusader Initiative. Level Up (3) - When you play a [Might] location, The Deep gains 1 XP."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="The Deep">
+      <property name="Card Number" value="BOY-038" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Mean, Yeah, I Can Talk to Fish. Draw [Intellect]: Look at the bottom seven cards of your deck, set two aside, and shuffle the rest into your deck. Put the set aside cards on top in any order. Trouble at a Dock, River, Lake... Main [Might]: Put the bottom seven cards of an enemy deck into their KO pile."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Donna January">
+      <property name="Card Number" value="BOY-039" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="This Was our Dream. Main [Skill]: Put a +1/+1 counter on each other [The Seven] character on your side. Donna pays 1 less power symbol to use this power while Starlight is face up on your side."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Ashley Barrett">
+      <property name="Card Number" value="BOY-040" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="SVP of Hero Management. Build [Intellect]: Draw a card for each face-up [The Seven] character on your side with printed [Health] 2 or higher."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Black Noir">
+      <property name="Card Number" value="BOY-041" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Stealth. Black Noir can melee attack protected characters. Ambush. When Black Noir attacks an exhausted character, put two +1/+1 counters on him."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Dr. Jonah Vogelbaum">
+      <property name="Card Number" value="BOY-042" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="You're My Greatest Failure. Main [Energy]: Put a -1/-1 counter on an enemy character. It loses and can't gain keyword and super powers until it has no -1/-1 counters."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Madelyn Stillwell">
+      <property name="Card Number" value="BOY-043" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="We Make Heroes Super. Build [Intellect]: Choose a main character on your side to get +ATK/+DEF equal to its printed ATK/DEF until Madelyn Stillwell leaves your side."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="The Deep">
+      <property name="Card Number" value="BOY-044" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Dolphin Rescue Attempt. Build [Might]: Search your deck for a character, almost put it onto your side, but instead put it into your KO pile."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Doppelganger">
+      <property name="Card Number" value="BOY-045" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Look-alike. As Doppelganger appears, choose another supporting character on any side. Doppelganger becomes a copy of that character, but keeps his own name."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Ezekiel">
+      <property name="Card Number" value="BOY-046" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="My Loving Embrace. Main [Skill]: Move any number of other supporting characters to their front row."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="A-Train">
+      <property name="Card Number" value="BOY-047" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Here Comes the A-Train. You can power up A-Train with any [The Seven] character. The Train Has Left the Station. When A-Train attacks, at the end of combay you may remove a +1/+1 counter from him. If you do, ready him."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Translucent">
+      <property name="Card Number" value="BOY-048" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Invisible. Translucent doesn't protect characters and can attack protected characters. Carbon Metamaterial Skin. While Translucent is attacking a supporting character, he can't be struck."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Queen Maeve">
+      <property name="Card Number" value="BOY-049" />
+      <property name="Type" value="Supporting Character" />boy-051
+      <property name="Cost" value="7" />
+      <property name="ATK" value="12" />
+      <property name="DEF" value="12" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Tough. When Maeve gets stunned, you may recover her. She still gets wounded. I Really Did Break Every Bone in My Arm. When Maeve recovers, put a -1/-1 counter on her for each wound she has."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Starlight">
+      <property name="Card Number" value="BOY-050" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Electricity Goes In. Main [Energy]: For the rest of the game starting on your next turn, Starlight can use Blast Comes Out. Blast Comes Out. Main [Energy]: Stun a supporting character. Starlight can only use this power if she used Electricity Goes In on an earlier turn."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Homelander">
+      <property name="Card Number" value="BOY-051" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="8" />
+      <property name="ATK" value="14" />
+      <property name="DEF" value="14" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Can Do Whatever the Hell I Want. Build, Main, or [Anytime] Combat [Might]: Search your deck for a card and put it into your hand."/>
+      <property name="Health" value="3" />
+  </card>
+  <card id="" name="Compound V">
+      <property name="Card Number" value="BOY-052" />
+      <property name="Type" value="Equipment" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Manufactured by Vought. Equip Compound V only to a [The Seven] main character. Steroids for Supes. The first time equipped character uses a super power each turn, it pays 1 less power symbol."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="The Seven">
+      <property name="Card Number" value="BOY-053" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Anytime] Combat: If your main character is defending, it gets +7/+0 or +0/+7 this combat."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="They'll Find You">
+      <property name="Card Number" value="BOY-054" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Main: Choose a character to get +2/+0 this turn. It has Stealth against supporting characters this turn. (It can melee attack a protected supporting character.)"/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Why Settle For Ordinary?">
+      <property name="Card Number" value="BOY-055" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Anytime] Combat: Put +1/+1 counters on a supporting character in the combat equal to that character's printed [Health]."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="You've Done Good, Lad">
+      <property name="Card Number" value="BOY-056" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Choose [The Boys] or [The Seven]. Choose an attacker to get +1/+1 this combat for each face-up character on your side with the chosen team affiliation."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Vought Tower">
+      <property name="Card Number" value="BOY-057" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="The Seven" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Energy] or [Intellect] or [Might] or [Skill] for a [The Seven] character"/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Psychiatric Hospital">
+      <property name="Card Number" value="BOY-058" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Energy]"/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Secret Meeting">
+      <property name="Card Number" value="BOY-059" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Intellect]" />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Movie Set">
+      <property name="Card Number" value="BOY-060" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Might]"/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Sparring Room">
+      <property name="Card Number" value="BOY-061" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="[Skill]"/>
+      <property name="Health" value="" />
+  </card>
+</cards>
+</set>

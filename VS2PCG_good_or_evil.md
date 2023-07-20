@@ -47,7 +47,9 @@ Here are the current Good or Evil categorizations:
 
 ## Photographic universe
 ### Good teams
+* The Boys
 * Bureau
+* Earthrealm
 * MCU Heroes
 * Scoobies
 
@@ -55,6 +57,8 @@ Here are the current Good or Evil categorizations:
 * Forces of Darkness
 * MCU Villains
 * Monsters of the Week
+* Netherrealm
+* The Seven
 * Syndicate
 
 <!--stackedit_data:

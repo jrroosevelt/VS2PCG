@@ -1099,6 +1099,21 @@ We believe most of this has been asked and answered on our official rules channe
 
 ^(Source:) [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070717807370711100)
 
+# Kimiko (Main Character)
+^CardNumber: ^BOY-007, ^BOY-008
+
+*Set: The Boys*   
+
+**The Female** lets Kimiko strike an additional time during combat. She can either strike the same nemy character twice (effectively doubling her ATK) or she can strike two different enemies in the combat.
+
+^(Source: Rule insert)
+
+---
+
+**More Deadlier Than the Male** starts a new combat where Kimiko is the attacker and the former attacker(s) are the defender(s). It is automatically a melee combat, and it doesn't matter what rows Kimiko and the enemy characters are in or if Kimiko could legally attack those characters. When the combat resolves, Kimiko strikes one of the defenders just like in a normal combat. However, if she used **The Female** she could strike an additional defender.
+
+^(Source: Rule insert)
+
 # The Kingpin
 ## [The Kingpin](http://vs.tcgbrowser.com/images/cards/big/def-029.jpg) (MC)
 ^CardNumber: ^DEF-028, ^DEF-029, ^LEG-046, ^LEG-047

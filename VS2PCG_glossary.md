@@ -594,6 +594,14 @@ A: Machines and Terrains are not considered defenders.
 
 # Main Character Required
 When a card says that it requires a Main Character with a particular team affiliation, you can't put that card in your deck unless your starting Main Character has that team affiliation.
+
+---
+
+Does the "Main Character Required" stipulation apply to cards in side piles as well? For example, could I have a Dust supporting character in my Hound Pile even if I don't have a Mutant Resistance main character?
+
+No. The "Main Character Required" stipulation is considered a deck building rule, and deck building rules don't impact side piles as of the summer 2021 rules update.
+
+^Source: [^Upper ^Deck ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/992547541486928002)
   
 
 # Martial Artist

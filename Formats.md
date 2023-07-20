@@ -22,9 +22,11 @@ This means no neutral characters, equipment, plot twists, or locations (except b
 ### Incursion Format
 Incursion is a recurring official format in which certain cards are banned after each sanctioned Incursion event. These cards are banned only for the Incursion format. This ban list does not impact any other formats.
 
-For details, see the [Upper Deck Blog Post about this format](https://www.upperdeckblog.com/2022/06/vs-system-2pcg-at-gen-con-2022/).
+For details, see the [Upper Deck Blog Post about this format](https://www.upperdeckblog.com/2023/06/vs-system-2pcg-featured-format-update-incursion/).
 
-#### Incursion list banned in 9/2022
+The official list is located in a Google doc called "Destroyed Incursion Card List" on the side bar of the [Upper Deck Organized Play page](http://www.upperdeck.com/op/).  We try to keep it up to date as a quicker reference below as well.
+
+#### Incursion list banned in as of 6/2023
 |**Card Title**               |**Card Type** |**Set**                         |**Card Numbers**                   |**Banned Event**  |
 |-----------------------------|-----------|-----------------------------------|-----------------------------------|------------------|
 | Beyers                      | SC        | X-Files Battles                   | XFB-009                           | Gen Con 2022     |
@@ -35,6 +37,7 @@ For details, see the [Upper Deck Blog Post about this format](https://www.upperd
 | Darkhold                    | Equipment | Wandavision                       | WDV-019                           | Midwinter 2023   |
 | Dr. Doom                    | MC        | Fantastic Battles                 | FAN-031/032                       | Gen Con 2022     |
 | Ego                         | SC        | MCU Villains                      | MCU3-019                          | Midwinter 2023   |
+| The First Evil              | MC        | Buffy Battles                     | TBB-034/035                       | Midgard Special Location 2023|
 | Frohike                     | SC        | X-Files Battles                   | XFB-007                           | Gen Con 2022     |
 | Global Information Network  | Plot Twist| Cosmic Avengers                   | COS-020                           | Midwinter 2023   |
 | Goose                       | SC        | Mind & Soul                       | MCU5-028                          | Midwinter 2023   |
@@ -50,7 +53,8 @@ For details, see the [Upper Deck Blog Post about this format](https://www.upperd
 | Nullifier                   | Equipment | S.H.I.E.L.D. vs. Hydra            | SVH-057                           | Gen Con 2022     |
 | Outrider                    | MC        | MCU Space & Time                  | MCU6-006                          | Gen Con 2022     |
 | Senator Kelly               | SC        | Futures Past                      | FUT-025                           | Gen Con 2022     |
-| Sentinel (Alpha Combat)     | SC        | Futures Past, Crossover Vol. 4    | FUT-014 thru 022, CV4-008 thru 011| Gen Con 2022     |
+| Sentinel (Alpha Combat)     | SC        | Futures Past, Crossover Vol. 4    | FUT-014 thru 021, CV4-008 thru 011| Gen Con 2022     |
+| Sentinel (Executive Type)   | SC        | Futures Past, Crossover Vol. 4    | FUT-022                           | Gen Con 2022     |
 | Solo                        | SC        | Deadpool and Friends              | MFM-009                           | Midwinter 2023   |
 | Spider-Man (Pro-Reg)        | MC        | Civil War Battles                 | CIV-007, CIV-008                  | Midwinter 2023   |
 | Tempad                      | Equipment | Loki                              | LKI-020                           | Midwinter 2023   |
