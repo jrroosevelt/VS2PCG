@@ -35,7 +35,8 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 
 ^(Source: Rule insert)
 
-# [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
+# Adam Warlock
+## [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
 ^CardNumber: ^GAL-001, ^GAL-002
 
 *Set: Galactic Guardians* 
@@ -44,8 +45,11 @@ At [Level 1](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg), if Adam War
 
 ^(Source: Rule insert)
 
----
-*Q:   If I don’t use his Emerge power, will he recover normally during my next Recovery Phase?*
+
+## [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/mnb-074.jpg) (SC)
+^CardNumber: ^MNB-074
+
+*Q: If I don’t use his Emerge power, will he recover normally during my next Recovery Phase?*
 
 A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing with him right away, man!
 

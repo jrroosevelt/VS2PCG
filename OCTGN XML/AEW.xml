@@ -11,9 +11,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Hangman [Any Turn] Combat [MIGHT]: Put a -1/-1 counter on an enemy character in the combat. That character loses and can't gain keyword and super powers this combat. Anxious Millenial Cowboy. Level Up (4) - At the start of each enemy turn, Adam Page gains 1 XP."/>
+      <property name="Rules" value="Hangman [Any Turn] Combat [MIGHT]: Put a -1/-1 counter on an enemy character in the combat. That character loses and can't gain keyword and super powers this combat. Anxious Millennial Cowboy. Level Up (4) - At the start of each enemy turn, Adam Page gains 1 XP."/>
       <property name="Health" value="6" />
   </card>
   <card id="" name="Adam Page">
@@ -25,7 +25,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Hangman [Any Turn] Combat [MIGHT]: Put a -1/-1 counter on an enemy character in the combat. That character loses and can't gain keyword and super powers this combat. Buckshot Lariat. Main [INTELLECT]: Daze any number of enemy characters Adam Page could melee attack."/>
       <property name="Health" value="6" />
@@ -39,9 +39,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Floyd the Bat. Chris Jericho starts the game equipped with a Baseball Bat equipment. (It counts as one of the 60 cards in your deck.) Judas Effect. Level Up (2) - At the start of your Main Phase, if both a [Baby Face] and a [Heel] supporting character are on your side, Chris Jericho gains 1 XP."/>
+      <property name="Rules" value="Floyd the Bat. Chris Jericho starts the game equipped with a Baseball Bat equipment. (It counts as one of the 60 cards in your deck.) Judas Effect. Level Up (2) - At the start of your Main Phase, if both a [Babyfaces] and a [Heels] supporting character are on your side, Chris Jericho gains 1 XP."/>
       <property name="Health" value="5" />
   </card>
   <card id="" name="Chris Jericho">
@@ -53,7 +53,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Le Champion. While Chris Jericho has the AEW World Championship Belt equipped, it doesn't get KO'd while he's stunned. Walls of Jericho [Any Turn] Combat [SKILL]: Choose an exhausted enemy character in the combat. It can't strike this combat."/>
       <property name="Health" value="5" />
@@ -67,7 +67,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Paradigm Shift. [Any Turn] Combat [HUMANITY]: Choose an enemy character in the combat. Switch that character's ATK and DEF with Jon Moxley's this combat. Death Rider. Level Up (8) - When an enemy character gets KO'd, Jon Moxley gains 1 XP and another XP for each other character in that KO pile."/>
       <property name="Health" value="5" />
@@ -81,10 +81,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Paradigm Shift. [Any Turn] Combat [HUMANITY]: Choose an enemy character in the combat. Switch that character's ATK and DEF with Jon Moxley's this combat. Unscripted Violence. Main [MIGHT]: Choose a random Challenge Match you haven't chosen this game." />
-      <property name="Health" value="5" />
   </card>  
   <card id="" name="Darby Allin">
       <property name="Card Number" value="AEW-007" />
@@ -95,9 +94,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="It's Sting! Build [INTELLECT]: Search your deck for a [Baby Face] Sting supporting character and put him onto your side. Nothing's Over Till You're Underground. Level Up (3) - When Darby Allin gets struck in combat, he gains 1 XP." />
+      <property name="Rules" value="It's Sting! Build [INTELLECT]: Search your deck for a [Babyfaces] Sting supporting character and put him onto your side. Nothing's Over Till You're Underground. Level Up (3) - When Darby Allin gets struck in combat, he gains 1 XP." />
       <property name="Health" value="5" />
   </card>  
   <card id="" name="Darby Allin">
@@ -109,9 +108,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="It's Sting! Build [INTELLECT]: Search your deck for a [Baby Face] Sting supporting character and put him onto your side. Nothing's Over Till You're Underground. Coffin Drop. Main [SKILL]: Put three +1/+1 counters on Darby Allin, and he has [FLIGHT] this turn." />
+      <property name="Rules" value="It's Sting! Build [INTELLECT]: Search your deck for a [Babyfaces] Sting supporting character and put him onto your side. Nothing's Over Till You're Underground. Coffin Drop. Main [SKILL]: Put three +1/+1 counters on Darby Allin, and he has [FLIGHT] this turn." />
       <property name="Health" value="5" />
   </card>  
   <card id="" name="Kris Statlander">
@@ -123,7 +122,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Night Fever. Main [HUMANITY]: KO a face-down enemy supporting character. More than a Woman. Level Up (3) - When a [HUMANITY] location appears on your side, Kris Statlander gains 1 XP." />
       <property name="Health" value="5" />
@@ -137,7 +136,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Night Fever. Main [HUMANITY]: KO a face-down enemy supporting character. More than a Woman. Area 451. Main [SKILL]: Kris Statlander has [FLIGHT] and Invade this turn. (She can't be struck while attacking a back row character.)" />
       <property name="Health" value="5" />
@@ -151,9 +150,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="La Mera Mera. Combat [SKILL]: When Thunder Rosa wins this combat, she may immediately attack anotehr character in the defender's row. From the Graveyards of Tijuana. Level Up (5) - When one ore more characters are put into a KO pile from anywhere, Thunder Rosa gains that many XP." />
+      <property name="Rules" value="La Mera Mera. Combat [SKILL]: When Thunder Rosa wins this combat, she may immediately attack another character in the defender's row. From the Graveyards of Tijuana. Level Up (5) - When one ore more characters are put into a KO pile from anywhere, Thunder Rosa gains that many XP." />
       <property name="Health" value="5" />
   </card>  
   <card id="" name="Thunder Rosa">
@@ -165,9 +164,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Dia de Los Muertos. Build [HUMANITY]: Put a supporting character from any KO pile onto your side. Remove it from the game at the end of the turn. La Mera Mera. Combat [SKILL]: When Thunder Rosa wins this combat, she may immediately attack anotehr character in the defender's row." />
+      <property name="Rules" value="Dia de Los Muertos. Build [HUMANITY]: Put a supporting character from any KO pile onto your side. Remove it from the game at the end of the turn. La Mera Mera. Combat [SKILL]: When Thunder Rosa wins this combat, she may immediately attack another character in the defender's row." />
       <property name="Health" value="5" />
   </card>  
   <card id="" name="Sting">
@@ -179,7 +178,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="The Icon. When Sting appears, search your deck, hand, and KO pile for a Baseball Bat equipment. Play it on him for free or reveal it and put it into your hand." />
       <property name="Health" value="1" />
@@ -193,7 +192,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Dodge. Hikaru Shida can't be ranged attacked. Kendo Stick. Main [SKILL]: Hikaru Shida has +3/+0 and Stealth this turn. (She can melee attack protected characters.)" />
       <property name="Health" value="1" />
@@ -207,7 +206,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Jurassic Express. During combat, you can power up Luchasaurus with Jungle Boy. When you do, Luchasaurus gets Ferocious this combat. (While in melee combat he strikes before characters without Ferocious.) Extinction Event. While wounded, Luchasaurus has +2/+2 and Monstrous (While he is being melee team attacked, he strikes each attacker.)" />
       <property name="Health" value="2" />
@@ -221,7 +220,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="1" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Very Nice, Very Evil. Danhausen is Good and Evil everywhere. This power can't be turned off. Be Cursed. Main [HUMANITY]: Choose an enemy character and point at it, then choose one of the following effects at random. - That character can't attack on its next turn. - That character can't strike this turn. - Stun that character. - Uh oh. They must be immune to curses." />
       <property name="Health" value="1" />
@@ -235,7 +234,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Lucha Brothers. During combat, you can power up Penta El Zero Miedo with Ray Fenix. When you do, heal a wound from Penta El Zero Miedo. Fear Factor. Main [MIGHT]: Move an enemy main character to its front row. Cero Miedo. While attacking a main character, Penta El Zero Miedo strikes with triple his ATK." />
       <property name="Health" value="2" />
@@ -249,7 +248,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Giant Swing. When Claudio Castagnoli appears, put a -1/-1 counter on an enemy character. If it's ready, exhaust it then put another -1/-1 counter on it." />
       <property name="Health" value="1" />
@@ -263,7 +262,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="The Mad King. Eddie Kingston has +3/+3 while in combat win an enemy supporting character." />
       <property name="Health" value="2" />
@@ -277,7 +276,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Jurassic Express. During combat, you can power up Jungle Boy with Luchasaurus. When you do, Jungle Boy gets Monstrous this turn. (While he is being melee team attacked, he strikes each attacker.) Snare Trap. [Any Turn] Combat [HUMANITY]: Stun an enemy attacker. Jungle Boy can only pay for this power by discarding a location from hand. (He can't use locations in  your resource row.) " />
       <property name="Health" value="1" />
@@ -291,9 +290,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Leap. Sammy Guevara has [FLIGHT] on your turn. Spanish God. Main [HUMANITY]: Sammy Guevara has Punce and Mobile this turn. (He can't be struck by exhausted defenders, and once per turn during your Main Phase, but not during Combat, you may move him to your front or back row.)" />
+      <property name="Rules" value="Leap. Sammy Guevara has [FLIGHT] on your turn. Spanish God. Main [HUMANITY]: Sammy Guevara has Pounce and Mobile this turn. (He can't be struck by exhausted defenders, and once per turn during your Main Phase, but not during Combat, you may move him to your front or back row.)" />
       <property name="Health" value="1" />
   </card>   
   <card id="" name="Rey Fenix">
@@ -305,7 +304,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Lucha Brothers. During combat, you can power up Rey Fenix with Penta El Zero Miedo. When you do, Rey Fenix strokes with triple his ATK this combat. The Man of 1,000 Lives. Rey Fenix has 1,000 [HEALTH]. This power remains on while Rey Fenix is face down. Leap. Rey Fenix has [FLIGHT] on your turn." />
       <property name="Health" value="*" />
@@ -319,7 +318,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Backhand Chops. While Samoa JOe is in melee combat, each enemy character in the combat has -0/-3. Muscle Buster. While Samoa Joe is in melee combat, when an enemy supporting character gets stunned by having 0 DEF, KO it." />
       <property name="Health" value="2" />
@@ -333,7 +332,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Freshly Squeezed. While you have six or more recruit points, you may pay an [INTELLECT] and [SKILL] to recruit Orange Cassidy instead of his recruit cost. Orange Punch. Combat [INTELLECT][SKILL]: Stun a defender." />
       <property name="Health" value="1" />
@@ -347,7 +346,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Toss. When Keith Lee appears, choose another character on your side to gain [FLIGHT] this turn. For He is Limitless. Main [MIGHT]: Ready Keith Lee. He can use this power any number of times each turn." />
       <property name="Health" value="2" />
@@ -361,9 +360,9 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="[Any Turn] Combat: If this is a melee combat, choose a charcter on your side in the combat. When it strikes an enemy supporting character this combat, stun that enemy character." />
+      <property name="Rules" value="[Any Turn] Combat: If this is a melee combat, choose a character on your side in the combat. When it strikes an enemy supporting character this combat, stun that enemy character." />
       <property name="Health" value="" />
   </card>
   <card id="" name="Elevation">
@@ -375,9 +374,9 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Main: Choose a character on your sdie. It has +2/+2 and Leap this turn. If it already had leap, instead of getting +2/+2, put two +1/+1 counters on it." />
+      <property name="Rules" value="Main: Choose a character on your side. It has +2/+2 and Leap this turn. If it already had leap, instead of getting +2/+2, put two +1/+1 counters on it." />
       <property name="Health" value="" />
   </card>
   <card id="" name="Pop">
@@ -389,7 +388,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Baby Face" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="[Any Turn] Combat: Choose a supporting character on your side in the combat. When it wins this combat, put three +1/+1 counters on it, then heal each wound from it." />
       <property name="Health" value="" />
@@ -403,9 +402,9 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good" />	
-      <property name="Teams" value="Babyface" />
+      <property name="Teams" value="Babyfaces" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="[HUMANITY] or [INTELLECT] or [MIGHT] or [SKILL] for a [Babyface] character."/>
+      <property name="Rules" value="[HUMANITY] or [INTELLECT] or [MIGHT] or [SKILL] for a [Babyfaces] character."/>
       <property name="Health" value="" />
   </card>
   <card id="" name="Adam Cole">
@@ -417,7 +416,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="BOOM! [Any Turn] Combat [MIGHT]: Adam Cole gets +1/+0 this combat for each resource on your side. BAY BAY! Level Up (9) - When a supporting character appears, Adam Cole gains 1 XP for each of its printed powers."/>
       <property name="Health" value="5" />
@@ -431,7 +430,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="BOOM! [Any Turn] Combat [MIGHT]: Adam Cole gets +1/+0 this combat for each resource on your side. Panama Sunrise. Main [INTELLECT]: Until your next turn, Adam Cole has [Flight] and pays one less power symbol the first time he uses each of his super powers each turn."/>
       <property name="Health" value="5" />
@@ -445,7 +444,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="The American Dragon. Main [SKILL]: Bryan Danielson has [Flight] and [Range] this turn. The Perfect Wrestler. Level Up (2) - When Bryan Danielson wins a combat, he gainst 1 XP."/>
       <property name="Health" value="6" />
@@ -459,7 +458,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="The American Dragon. Main [SKILL]: Bryan Danielson has [Flight] and [Range] this turn. Kick Your Head In. [Any Turn] Combat [MIGHT] When Bryan Danielson wins this combat, the enemy player discards two random cards."/>
       <property name="Health" value="6" />
@@ -473,7 +472,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Role Model. Main [HUMANITY]: Put +1/+1 counters on a supporting character on your side equal to Dr. Britt Baker, D.M.D.'s ATK. The Doctor Will See You Now. Level Up (4) - When a character gets wounded, Britt Baker, D.M.D. gains 1 XP."/>
       <property name="Health" value="5" />
@@ -487,7 +486,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Role Model. Main [HUMANITY]: Put +1/+1 counters on a supporting character on your side equal to Dr. Britt Baker, D.M.D.'s ATK. Lockjaw. [Any Turn] Combat [SKILL] Choose an enemy character in the combat and put a -1/-1 counter on it for each printed power it has."/>
       <property name="Health" value="5" />
@@ -501,7 +500,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="JadeBrand. [Any Turn] Combat [SKILL]: Resolve the combat. Green Like Money. Level Up (6) - "/>
       <property name="Health" value="5" />
@@ -515,7 +514,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="JadeBrand. [Any Turn] Combat [SKILL]: Resolve the combat. Jaded [Might][Might][Might][Might][Might][Might]: KO an enemy main character that Jade Cargill stunned in combat this turn."/>
       <property name="Health" value="5" />
@@ -529,7 +528,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Skilled Striker. [Any Turn] Combat [SKILL]: Malakai Black strikes two additional times this combat. House of Black. Level Up (6) - When an Evil character on your side attacks, Malakai Black gains 1 XP."/>
       <property name="Health" value="5" />
@@ -543,7 +542,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Black Mist. Main [HUMANITY]: Choose an enemy character Malakai Black could melee attack. it can't attack on its next turn. He can use this power any number of times each turn. Skilled Striker. [Any Turn] Combat [SKILL]: Malakai Black strikes two additional times this combat."/>
       <property name="Health" value="5" />
@@ -557,9 +556,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Salt of the Earth. Build [Intellect]; Spend any amount of recruit points. Search your deck for an Evil characer with that cost or less and put it onto your side. Better Than You... Level Up (3) - When MJF attacks, if the attackers' total ATK is greater than the defender's ATK, he gains 1 XP."/>
+      <property name="Rules" value="Salt of the Earth. Build [Intellect]; Spend any amount of recruit points. Search your deck for an Evil character with that cost or less and put it onto your side. Better Than You... Level Up (3) - When MJF attacks, if the attackers' total ATK is greater than the defender's ATK, he gains 1 XP."/>
       <property name="Health" value="5" />
   </card>
   <card id="" name="MJF">
@@ -571,7 +570,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="...And You Know It! Main [HUMANITY][HUMANITY][HUMANITY]: For the rest of the game, when MJF attacks, he gains ATK this combat until his ATK is higher than the defender's ATK. He can only use this power once each game. Dynamite Diamond Ring. Main [SKILL][SKILL][SKILL]: For the rest of the game, if MJF wounds a defender in combat, it gains an additional wound. He can only use this power once each game."/>
       <property name="Health" value="5" />
@@ -585,9 +584,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Send HOOK. During  your Build Phase, if a [Baby Face]or [Heel] supporting character appeared on your side this turn, you may put HOOK from your hand onto your side. Redrum [Any Turn] Combat [SKILL]: Choose an enemy character in the combat to get -3/-0 this combat."/>
+      <property name="Rules" value="Send HOOK. During  your Build Phase, if a [Babyfaces]or [Heels] supporting character appeared on your side this turn, you may put HOOK from your hand onto your side. Redrum [Any Turn] Combat [SKILL]: Choose an enemy character in the combat to get -3/-0 this combat."/>
       <property name="Health" value="1" />
   </card>
   <card id="" name="Nyla Rose">
@@ -599,7 +598,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="The Native Beast. When Nyla Rose appears or recovers, she gets +4/+0 this turn."/>
       <property name="Health" value="2" />
@@ -613,7 +612,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Big Money. Build (MIGHT): Gain a recruit point. Matt Hardy can use this power any number of times each turn."/>
       <property name="Health" value="1" />
@@ -627,7 +626,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Leap. Andrade El Idolo has [FLIGHT] on your turn. Moonsault. When Andrade El Idolo leaps over at least one enemy character, he gets +3/+3 this combat."/>
       <property name="Health" value="2" />
@@ -641,7 +640,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Men of the Year. During combat,  you can power up Ethan Page with Scorpio Sky. When  you do, draw a card. All Ego. Ethan Page can only team attack with Scorpio Sky."/>
       <property name="Health" value="1" />
@@ -655,7 +654,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Leap. Ricky Starks has [FLIGHT] on your turn. Absolute. [Any Turn] Combat [SKILL]: This combat, Ricky Starks gains ATK equal to his DEF and DEF equal to his ATK. (So if he's 3/6, he becomes 9/9.)"/>
       <property name="Health" value="1" />
@@ -669,7 +668,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Young Bucks. During combat, you can power up Matt Jackson with Nick Jackson. When you do, put two -1/-1 counters on an enemy character in the combat. Whatever It Takes. Reaction [HUMANITY]: When another character on your side gains 1 or more wounds, it does't gain any wounds instead."/>
       <property name="Health" value="1" />
@@ -683,7 +682,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Young Bucks. During combat, you can power up Nick Jackson with Matt Jackson. When you do, put two additional +1/+1 counters on NIck Jackson. Superkick Party. Main [HUMANITY]: If Nick Jackson is in your front row and ready, exhaust him and at least one other ready character in your front row. If you do, they all strike an enemy front row character."/>
       <property name="Health" value="1" />
@@ -697,7 +696,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Tag Team: Men of the Year. During combat, you can power up Scorpio Sky with Ethan Page. When you do, each enemy player discards a random card. Leap. Scorpio Sky has [FLIGHT] on your turn. Head Games. Main [INTELLECT]: Rearrange an enemy player's formation."/>
       <property name="Health" value="1" />
@@ -711,7 +710,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Murderhawk Monster. While Lance Archer is defending against a melee team attack, he strikes with double his ATK against each attacker."/>
       <property name="Health" value="2" />
@@ -725,7 +724,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="The Redeemer. When Miro appears, enemy characters can't strike this turn."/>
       <property name="Health" value="2" />
@@ -739,7 +738,7 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Powerbomb Symphony. Main [MIGHT]: Wound an enemy supporting character. Wardlow can use this power any number of times on the same character each turn. "/>
       <property name="Health" value="2" />
@@ -753,9 +752,9 @@
       <property name="Flight" value="0" />
       <property name="Range" value="0" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="One-Winged Angel. When Kenny Omega appears, each enemy player chooses a face-up character on their side. Kenny Omega stuns those characters. The Eliste. [Any Turn] Any Combat [INTELLECT]: if a character on your side is defending, cancel the attack."/>
+      <property name="Rules" value="One-Winged Angel. When Kenny Omega appears, each enemy player chooses a face-up character on their side. Kenny Omega stuns those characters. The Elite. [Any Turn] Any Combat [INTELLECT]: if a character on your side is defending, cancel the attack."/>
       <property name="Health" value="2" />
   </card>
   <card id="" name="Dark">
@@ -767,7 +766,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="Main: Choose a character on your side. It gets +2/+2 and Stealth this turn (It can melee attack protected characters.)"/>
       <property name="Health" value="" />
@@ -781,7 +780,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="[Any Turn] Combat: Choose a supporting character on your side in the combat. When it wins this combat, put a +1/+1 ounter on it, then it strikes a character who wasn't in the combat."/>
       <property name="Health" value="" />
@@ -795,7 +794,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Evil" />	
-      <property name="Teams" value="Heel" />
+      <property name="Teams" value="Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="[Any Turn] Combat: Choose a character on your side in the combat to get +3/+3 this combat. After the combat resolves, put a -1/-1 counter on it."/>
       <property name="Health" value="" />
@@ -811,7 +810,7 @@
       <property name="Good Evil Neutral" value="Evil" />	
       <property name="Teams" value="" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="[HUMANITY] or [INTELLECT] or [MIGHT] or [SKILL] for a [Heel] character"/>
+      <property name="Rules" value="[HUMANITY] or [INTELLECT] or [MIGHT] or [SKILL] for a [Heels] character"/>
       <property name="Health" value="" />
   </card>
   <card id="" name="Ladder Match">
@@ -825,7 +824,7 @@
       <property name="Good Evil Neutral" value="Neutral" />	
       <property name="Teams" value="" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Challenge Match. If your main character is [Babyface] or [Heel], you may choose one Challenge Match at the start of the game. Rung by Rung. This game, [Babyface] and [Heel] characters on your side have Fearless. [While attacking a main character, they strike with double their ATK.]" />
+      <property name="Rules" value="Challenge Match. If your main character is [Babyfaces] or [Heels], you may choose one Challenge Match at the start of the game. Rung by Rung. This game, [Babyfaces] and [Heels] characters on your side have Fearless. [While attacking a main character, they strike with double their ATK.]" />
       <property name="Health" value="" />
   </card>
   <card id="" name="Lights Out Match">
@@ -839,7 +838,7 @@
       <property name="Good Evil Neutral" value="Neutral" />	
       <property name="Teams" value="" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Challenge Match. If your main character is [Babyface] or [Heel], you may choose one Challenge Match at the start of the game. Snuff Them Out. This game, [Babyface] and [Heel] characters on your side have Berserker. [When they attack, put a +1/+1 counter on them.]"/>
+      <property name="Rules" value="Challenge Match. If your main character is [Babyfaces] or [Heels], you may choose one Challenge Match at the start of the game. Snuff Them Out. This game, [Babyfaces] and [Heels] characters on your side have Berserker. [When they attack, put a +1/+1 counter on them.]"/>
       <property name="Health" value="" />
   </card>
   <card id="" name="Steel Cage Match">
@@ -853,7 +852,7 @@
       <property name="Good Evil Neutral" value="Neutral" />	
       <property name="Teams" value="" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Challenge Match. If your main character is [Babyface] or [Heel], you may choose one Challenge Match at the start of the game. Lock the Door. This game, [Babyface] and [Heel] characters on your side have Dodge. [They can't be ranged attacked.]"/>
+      <property name="Rules" value="Challenge Match. If your main character is [Babyfaces] or [Heels], you may choose one Challenge Match at the start of the game. Lock the Door. This game, [Babyfaces] and [Heels] characters on your side have Dodge. [They can't be ranged attacked.]"/>
       <property name="Health" value="" />
   </card>
   <card id="" name="Texas Death Match">
@@ -867,7 +866,7 @@
       <property name="Good Evil Neutral" value="Neutral" />	
       <property name="Teams" value="" />
       <property name="Format" value="Photographic" />
-      <property name="Rules" value="Challenge Match. If your main character is [Babyface] or [Heel], you may choose one Challenge Match at the start of the game. Go for the Kill. This game, [Babyface] and [Heel] characters on your side have Lethal. [If they wound a defending supporting character, KO it.]"/>
+      <property name="Rules" value="Challenge Match. If your main character is [Babyfaces] or [Heels], you may choose one Challenge Match at the start of the game. Go for the Kill. This game, [Babyfaces] and [Heels] characters on your side have Lethal. [If they wound a defending supporting character, KO it.]"/>
       <property name="Health" value="" />
   </card>
   <card id="" name="AEW World Championship Belt">
@@ -879,7 +878,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good, Evil" />	
-      <property name="Teams" value="Babyface, Heel" />
+      <property name="Teams" value="Babyfaces, Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. Gotta Earn It. Equip this only to a Champion. Gold Looks Good On Me. At the start of your Main Phase, put three +1/+1 counters on equipped character."/>
       <property name="Health" value="" />
@@ -893,7 +892,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good, Evil" />	
-      <property name="Teams" value="Babyface, Heel" />
+      <property name="Teams" value="Babyfaces, Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. Broken In Half. [Any Turn] Combat [SKILL]: If equipped character is defending a melee attack, stun an attacker and KO the table."/>
       <property name="Health" value="" />
@@ -907,7 +906,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good, Evil" />	
-      <property name="Teams" value="Babyface, Heel" />
+      <property name="Teams" value="Babyfaces, Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. Cold Hard Steel. [Any Turn] Combat [MIGHT]: If this is a melee combat, equipped character has +6/+6 this turn. It can use this power any number of times each turn."/>
       <property name="Health" value="" />
@@ -921,7 +920,7 @@
       <property name="Flight" value="" />
       <property name="Range" value="" />
       <property name="Good Evil Neutral" value="Good, Evil" />	
-      <property name="Teams" value="Babyface, Heel" />
+      <property name="Teams" value="Babyfaces, Heels" />
       <property name="Format" value="Photographic" />
       <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. Grand Slam. While the bat is ready, equipped character may exhaust it to get +4/+0 during a melee combat any time you could take an action."/>
       <property name="Health" value="" />
