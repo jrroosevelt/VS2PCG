@@ -520,6 +520,19 @@ A: Yes. Miss Minutes counts as a Hologram.
 
 ^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070511580418146444)
 
+# Mister Fantastic
+^CardNumber: ^FRF-007, ^FRF-008
+
+*Set: Fractured Family*  
+
+**Volunteer to Register** only counts actual letters, not *s, periods, hyphens, or other punctuation.
+
+Since Mister Fantastic is on both the [Fantastic] and [Pro-Registration] teams, when he creates an **Invetion** it can be from either of those teams (or a neutral one).
+
+**Project Neutral** creates a **Clone** of a character in your hand. Put a token copy of the chosen character onto your side. The copy has all the printed characteristics (name, team, cost, ATK/DEF, Health, powers) of that character plus it gains **Lethal**.
+
+^(Source: Rule insert)
+
 # [Mister Sinister](http://vs.tcgbrowser.com/images/cards/big/LEG-034.jpg)
 ^CardNumber: ^LEG-034
 
@@ -1471,6 +1484,15 @@ Q: Can I use Boomerang (for example) to remove keyword powers from Proteus's hos
 A: No. **Reality Warping** isn't granted to the host as a keyword power, per se. It is a keyword power on Proteus (who has now been removed from game). The effect granted to the host is considered a modifier, so it isn't removed by effects that remove powers. See the post about Shadow King below for a comparable ruling.
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/2105915162777352/)
+
+# Psychohistory
+^CardNumber: ^FRF-023
+
+*Set: Fractured Family*  
+
+To make a secret **Prediction** write down the name of any character, whether a character with that name is currently in play or not. The next time a supporting character with that name (including **AKA**) would appear on an enemy side, reveal your **Prediction**. Then put that character into its owner's KO pile instead. (So the character never actually appears.)
+
+^(Source: Rule insert)
 
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 ^CardNumber: ^DEF-018

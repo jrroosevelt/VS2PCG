@@ -745,6 +745,19 @@ A player can equip the Collar to a face-up character or a stunned character. If 
 
 ^(Source: Rule insert)
 
+# Invisible Woman (Fractured Family MC & SC)
+^CardNumber: ^FRF-006, ^FRF-018
+
+*Set: Fractured Family*  
+
+**Create Wall of Force** puts a Wall of Force Terrain token into your back row. It's just like a normal Terrain except it's a token, which eans it starts out of play (but not in any piles such as the City or Forest Terrain piles). Wall of Force is destructible (it has 3 [Health]), which means an enemy character can attack it if the character would normally be able to attack into that row. 
+
+For example, if you have no front row characters, an enemy character can attack your Wall of Force. Or an enemy character with ![](%%Flight%%) (Flight) could fly over your front row to attack your Wall of Force. 
+
+When a character attacks a destructible Terrain, immediately wound the terrain and the combat is over. (There is no opportunity to play plot twists or use super powers, etc.) Once the Wall of Force has 3 wounds, remove it from the game.
+
+^(Source: Rule insert)
+
 # Iron Fist
 ## [Iron Fist (MC)](http://vs.tcgbrowser.com/images/cards/big/MYS-003.jpg)
 ^CardNumber: ^MYS-003, ^MYS-004

@@ -60,10 +60,3 @@ Here are the current Good or Evil categorizations:
 * Netherrealm
 * The Seven
 * Syndicate
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzU4NzA5MSwzODQ0NzgzMTQsMTAxNj
-Y0NzY3NSwtMTI5NDE1NjQyOCwxMTgwOTQ3MzE1LC0xOTA0Mjc1
-MjM5LC0xOTA0Mjc1MjM5LDcyMjI3MTc2MywtMTk2NzY5NTEwLD
-EzMTk3MTc2MDhdfQ==
--->

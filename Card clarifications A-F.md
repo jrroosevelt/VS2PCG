@@ -2164,6 +2164,15 @@ His Level Up Power, **We’re the Game**, triggers whenever an enemy player reve
 
 When Fallen One strikes Galactus or Thanos, **Fallen Herald** will stun them. However, if Fallen One's strike already had enough ATK to stun them, **Fallen Herald** won't do anything. (In other words, **Fallen Herald** won't cause Galactus or Thanos to become stunned twice in one combat.)
 
+# Fantastic!
+^CardNumber: ^FRF-021
+
+*Set: Fractured Family*  
+
+This plot twist has four team symbols, which means you must have four face-up [Fantastic] characters on your side in order to play it.
+
+^(Source: Rule insert)
+
 # [Fantastic Four](http://vs.tcgbrowser.com/images/cards/big/HER-019.jpg)
 ^CardNumber: ^HER-019
 
@@ -2278,7 +2287,29 @@ Note that Forge's card number starts with "NEW" instead of "DAR". This is so tha
 
 ^(Source: Rule Insert)
 
-# [Franklin Richards](http://vs.tcgbrowser.com/images/cards/big/FAN-021.jpg)
+# Franklin Richards
+## Franklin Richards (MC)
+^CardNumber: ^FRF-001, ^FRF-002
+
+*Set: Fractured Family*  
+
+Instead of one deck, Franklin actually gets three! Your Multiverse Adventure pile starts with three complete 60-card decks, each of which must be legal for Franklin to use. (For example, ou can't include any Photographic Universe cards.) These piles are **variable** (you choose which cards to include) and **private** (opponents can't look at their contents).
+
+After you find out what main character your opponent is using, you get to pick which one of your three decks you'll start the game with. While Franklin is Level 2, you'll be able to switch your current deck for one of the remaining ones. And then if you want, you can switch that deck for your last one.
+
+There are some special deckbuilding rules for the Multiverse Adventure pile:
+
+**Each deck CAN have its own piles:** Normally cards in piles can't have their own piles. But each of Franklin's decks is allowed to have its own piles. Just make sure to keep track of which piles go with which deck.
+
+**Each specific card can only be in one deck:** For example, if you put any copies of the 6-cost [Fantastic] Thing in one deck, you can't include any copies of that Thing in the other two decks. However, thi doesn't prevent you from including other versions of the same character. For example, ou could still include the new 5-cost [Pro-Registration] Thing in one of the other decks if you like.
+
+This restriction includes basic locations. So if you put any Fortresses in one deck, you can't put any in another deck. (You could include a basic [MIGHT] location with a different name though.) 
+
+This also applies to the cards in each deck's piles. Fore example, if Brainstorm is in one deck OR one of that deck's piles, none of the other decks or their piles can have any copies of Brainstorm.
+
+^(Source: Rule insert)
+
+## [Franklin Richards (SC)](http://vs.tcgbrowser.com/images/cards/big/FAN-021.jpg)
 ^CardNumber: ^FAN-021
 
 *Set: The Fantastic Battles*  

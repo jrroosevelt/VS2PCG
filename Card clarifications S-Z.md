@@ -1344,7 +1344,22 @@ A: When you play it switch the character’s current stats. Any new stat changes
 
 ^(Source: UDE FAQ)
 
-# [Uatu](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
+# Uatu
+
+## Uatu (MC)
+^CardNumber: ^FRF-011, ^FRF-012
+
+*Set: Fractured Family*  
+
+**Portal to Alternate Realities** also messes around with how you build decks. This time you're back to only building one deck, BUT you can include [MARVEL] cards from both the Illustrated and Photographic Universes.
+
+Keep in mind, characters from different Universes don't count as having the same name for the purposes of uniqueness and power-ups. For example, you can have Illustrated Spider-Man and Photographic Spider-Man in play at the same time. (But they can't be used to power each other up.)
+
+**Oath of Non-Interference** prevents Uatu from ever being in your front row. This includes when you put him on your side at the start of the game, when you rearrange your Formation and effects that might move him.
+
+^(Source: Rule insert)
+
+## [Uatu (SC)](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
 ^CardNumber: ^FAN-022
 
 *Set: The Fantastic Battles*  
