@@ -140,6 +140,11 @@ Name means not only the name printed on the name line, but also any **AKAs** the
 
 # Card Title  
  The name of a card on the name line (ignoring AKAs).  
+
+# Challenge Matches
+When you make a deck with a starting [AEW] Main Character you also get to bring a Challenge Match out-of-game pile. These do not count as part of your 60-card deck. This pile is **Public** (any player can look at it) and **Fixed** (It always includes the same four Challenge Match cards).
+
+At the start of the very first turn of the game (regardless of which player goes first), you will choose one of your Challenge Match cards. Put the card face-up to the side of the game so all players can see it. It does not count as being in play and can't be interacted with during the game. (Your other Challenge Match cards won't be used this game.)
   
 # Choose  
 Many cards tell you to "Choose a [thing]". For example, choose a Super Power, or choose a Supporting Character. Unlike when you **name** something, you can only **choose** an item that is in play (aka in the Play Zone) unless otherwise indicated.
