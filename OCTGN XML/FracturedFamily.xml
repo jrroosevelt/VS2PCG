@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="X-Force" id="" 
+     gameId="d9d22574-b64d-4f4b-9726-092d35b778c9" gameVersion="1.3" version="1.3">
+<cards>
+  <card id="" name="Franklin Richards">
+      <property name="Card Number" value="FRF-001" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Multiversal Adventures. You start the game with a Multiverse Adventure pile. During setup after each player reveals their starting main character, you choose which one of your Multiverse Adventure decks you'll use this game. Learn From the Grown-Ups. Level Up (1) - At the start of your Main PHase, if another main character is Level 2 or higher, Franklin gainst 1 XP."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Franklin Richards">
+      <property name="Card Number" value="FRF-002" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Explore the Multiverse. At the start of your Build Phase, Franklin may pay any power symbol. If he does, remove our deck, KO pile, and hand from the game. Choose a remaining deck from your Multiverse Adventure pile, shuffle it, and it becomes your new deck. Draw cards equal to how many were in your hand."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Human Torch">
+      <property name="Card Number" value="FRF-003" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Anti-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Hothead. Combat [SKILL]: If this is your first attack this turn, Human Torch strikes the defender. Hot Stuff. Level Up (3) - When Human Torch solo attacks as your first attack each turn, he gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Human Torch">
+      <property name="Card Number" value="FRF-004" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Anti-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Hothead. Combat [SKILL]: If this is your first attack this turn, Human Torch strikes the defender. Hottest Guy in the Galaxy. Main [ENERGY][ENERGY] or [ALIEN][ALIEN] or [ENERGY][ALIEN]: For the rest of the game, when Human Torch enters melee combat with an enemy character, put two -1/-1 counters on it for each time he's used this power this game."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Invisible Woman">
+      <property name="Card Number" value="FRF-005" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Anti-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Do I Look Like I Need Protecting? [Any Turn] Combat [MIGHT]: If Invisible Woman is defending in the front row, she can't be struck this combat. Hiding with the Resistance. Level Up (5) - When a [Fantastic] or [Anti-Registration] supporting character appears on your side, you may hide it. If you do, Invisible Woman gains XP equal to its cost."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Invisible Woman">
+      <property name="Card Number" value="FRF-006" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Anti-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Do I Look Like I Need Protecting? [Any Turn] Combat [MIGHT]: If Invisible Woman is defending in the front row, she can't be struck this combat. Create Wall of Force. Main [ENERGY][ENERGY] or [HUMANITY][HUMANITY] or [ENERGY][HUMANITY]: If Invisible Woman is in your front row, place a Wall of Force Terrain token into your back row. If you already have one, replace it with a new one." />
+      <property name="Health" value="5" />
+  </card>    
+  <card id="" name="Mister Fantastic">
+      <property name="Card Number" value="FRF-007" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Stretch Your Mind. Build [SKILL]: Mister Fantastic creates an Invention. Volunteer to Register. Level Up (30) - When you recruit a character that doesn't have Swarm, Mister Fantastic gainst 1 XP for each letter in its card title." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Mister Fantastic">
+      <property name="Card Number" value="FRF-008" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Stretch Your Mind. Build [SKILL]: Mister Fantastic creates an Invention. Project Lightning. Build [INTELLECT][INTELLECT] or [ALIEN][ALIEN] or [INTELLECT][ALIEN]: Remove a supporting character in your hand from the game, then Clone it. The Clone gains Lethal. At the start of your next turn, remove the Clone from the game." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Thing">
+      <property name="Card Number" value="FRF-009" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="We Got People to Protect. [Any Turn] Any Combat [SKILL]: If another character in Thing's row is defending, remove it from combat and move it to your back row. Then Thing becomes the defender. Don't you see What You're Doing? Level Up (5) - When a combat starts that doesn't include Thing, he gains 1 XP. If all characters in the combat are Good, he gains 2 XP instead. Checking Outta the Country. When Thing levels up, remove him from the game with his counters. At the end of your next turn, put him onto your side." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Thing">
+      <property name="Card Number" value="FRF-010" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic, Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="We Got People to Protect. [Any Turn] Any Combat [SKILL]: If another character in Thing's row is defending, remove it from combat and move it to your back row. Then Thing becomes the defender. Il Est Temps De Battre! Main [MIGHT][MIGHT] or [HUMANITY][HUMANITY] or [MIGHT][HUMANITY]: You may say 'It's Clobberin' Time!' in any language you like. If you do, put tend +1/+1 counters on Thing." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Uatu">
+      <property name="Card Number" value="FRF-011" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="0" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Portal to Alternate Realities. Your deck may only include [MARVEL] cards, but it may include [MARVEL] cards from the Photographic Universe. Oath of Non-Interference. Uatu can't be in your front row, can't attack, and can't strike. Watch. Level Up (10) - When an enemy player plays a card, Uatu gains 1 XP." />
+      <property name="Health" value="7" />
+  </card>  
+  <card id="" name="Uatu">
+      <property name="Card Number" value="FRF-012" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="10" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Oath of Non-Interference. Uatu can't be in your front row, can't attack, and can't strike. Break the Oath. Main [ALIEN] [HUMANITY]: Uatu loses Oath of Non-Interference for the rest of the game." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Brainstorm">
+      <property name="Card Number" value="FRF-013" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Valeria Richards. Smartest Girl in Existence. Build [INTELLECT]: Draw cards until you have as many cards in hand as the number of characters on all sides." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Human Torch">
+      <property name="Card Number" value="FRF-014" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Anti-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Hothead. Combat [SKILL]: If this is your first attack this turn, Human Torch strikes the defender." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Powerhouse">
+      <property name="Card Number" value="FRF-015" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Franklin Richards. Universal Shaper. Build [ENERGY]: Shuffle each card din your resource row into its owner's deck. Put that many cards from the top of your deck into your resource row face down, then turn any number of your face-down locations face up." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Thing">
+      <property name="Card Number" value="FRF-016" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Clobber. When Thing stuns a defender, move it to its back row and it can't ready or move on its next turn." />
+      <property name="Health" value="3" />
+  </card>
+  <card id="" name="Mister Fantastic">
+      <property name="Card Number" value="FRF-017" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Stretch Your Mind. Build [SKILL]: Mister Fantastic creates an Invention. Stretch Your Body. When Mister Fantastic enters combat, double his ATK or his DEF this combat." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Invisible Woman">
+      <property name="Card Number" value="FRF-018" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Anti-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Invisible. Invisible Woman doesn't protect characters and can attack protected characters. Create Wall of Force. Main [ENERGY][ENERGY] or [HUMANITY][HUMANITY] or [ENERGY][HUMANITY]: If Invisible Woman is in your front row, place a Wall of Force Terrain token into your back row. If you already have one, replace it with a new one." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Doctor Doom">
+      <property name="Card Number" value="FRF-019" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Fantastic Inventor. Build [INTELLECT]: Doctor Doom creates two [Fantastic] Inventions." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Silver Surfer">
+      <property name="Card Number" value="FRF-020" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="8" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="15" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Defenders" />
+      <property name="Format" value="" />
+      <property name="Rules" value="The Power Cosmic. [Any Turn] Combat [ALIEN] or [HUMANITY]: Stun a supporting character in the combat with cost 7 or less, or stun a main character in the combat with Level 2 or less." />
+      <property name="Health" value="3" />
+  </card>
+  <card id="" name="Fantastic!">
+      <property name="Card Number" value="FRF-021" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Any Turn] Combat: Put four +1/+1 counters on a character in the combat." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Portal to Prison">
+      <property name="Card Number" value="FRF-022" />
+      <property name="Type" value="Equipment - Machine" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Invention (1). This card starts the game in your Invention pile. Negative Zone Prison. When a defending enemy supporting character gets stunned, remove it from the game." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Portal to Prison">
+      <property name="Card Number" value="FRF-023" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Pro-Registration" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Invention (1). This card starts the game in your Invention pile. Predict Destructive Scenario. Main: Make a secret Prediction where you name a character. The next time a supporting character with that name would appear on an enemy side, reveal your prediction and put that character into its owner's KO pile instead." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Wall of Force">
+      <property name="Card Number" value="FRF-024" />
+      <property name="Type" value="Terrain Token" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Placement: Your back row (all characters). Impenetrable Wall. characters in this row can't be attacked." />
+      <property name="Health" value="3" />
+  </card>
+
+</cards>
+</set>

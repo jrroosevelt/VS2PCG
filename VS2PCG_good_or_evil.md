@@ -47,6 +47,7 @@ Here are the current Good or Evil categorizations:
 
 ## Photographic universe
 ### Good teams
+* Babyfaces
 * The Boys
 * Bureau
 * Earthrealm
@@ -55,6 +56,7 @@ Here are the current Good or Evil categorizations:
 
 ### Evil Teams
 * Forces of Darkness
+* Heels
 * MCU Villains
 * Monsters of the Week
 * Netherrealm
