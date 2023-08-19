@@ -145,7 +145,14 @@ Name means not only the name printed on the name line, but also any **AKAs** the
 When you make a deck with a starting [AEW] Main Character you also get to bring a Challenge Match out-of-game pile. These do not count as part of your 60-card deck. This pile is **Public** (any player can look at it) and **Fixed** (It always includes the same four Challenge Match cards).
 
 At the start of the very first turn of the game (regardless of which player goes first), you will choose one of your Challenge Match cards. Put the card face-up to the side of the game so all players can see it. It does not count as being in play and can't be interacted with during the game. (Your other Challenge Match cards won't be used this game.)
-  
+
+If two or more players have AEW Main Characters, you will take turns choosing your Challenge Match cards starting with the first player and then proceeding clockwise. 
+
+Your Challenge Match grants a keyword power to AEW characters while they are on your side including your main character. This lasts the whole game.
+
+# "Champion"
+Some Main Characters have "Champion" on their type line. This has no built-in game mechanic, but some cards such as the AEW World Championship Belt reference Champions.
+
 # Choose  
 Many cards tell you to "Choose a [thing]". For example, choose a Super Power, or choose a Supporting Character. Unlike when you **name** something, you can only **choose** an item that is in play (aka in the Play Zone) unless otherwise indicated.
 
@@ -980,6 +987,9 @@ Normally, of course, when a character gets stunned, all counters fall off it exc
 
 **Note:** Although the power doesn't say "This power can't be turned off", it does stay on while the character is stunned (otherwise it wouldn't do anything!).
 
+# Tag Team
+Some characters have the **Tag Team** keyword. This means in addition to being able to power up this character normally (by discarding a card wit their name), ou can also power them up by discarding their Tag Team partner. And when you do, in addition to the usual +1/+1 counter, you'll get the effect found in the character's specific Tag Team power.
+
 # Team Affiliation  
 The team or teams to which this character belongs. Typically the team affiliation is indicated by the icon in the upper-right corner of the card, though there are cards that can grant or remove affiliations. Team Affiliation is *not* lost when the character is face-down.
 
@@ -1062,7 +1072,16 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
 ^(Source: Upper Deck Blog)
 
 # Wealthy  
- At the start of your Build Phase, gain a recruit point.  
+ At the start of your Build Phase, gain a recruit point.
+
+# "Win a Combat"
+Some game effects check to see if a character "wins a combat." To win a combat, the character must make it through combat resolution (when each character strikes) without getting stunned AND at least one enemy character in the combat must have been stunned.
+
+If your character is team attacking and its teammate gets stunned and the defender gets stunned, this WOULD count as the character winning the combat.
+
+If the defender gets stunned in the middle of the combat (perhaps due to Samoa Joe's **Backhand Chops** reducing its DEF to 0), the attacker will count as having won the combat.
+
+If the combat gets canceled (perhaps due to Kenny Omega's **The Elite** power), then no characters will count as having won the combat.
   
 
 #  [Wish](https://www.upperdeckblog.com/2019/11/vs-system-2pcg-the-x-files-battles-card-preview-5/)  
@@ -1091,12 +1110,3 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODA5MDc4OCwxNTA2MDU2NjA0LDE0Mj
-cwODA2MjQsLTQyNjEyNjk1NSwtNTgwNTM4NjYzLC0xNDY0NzE2
-MjYsODk3NDA2MDA4LC01NDE5OTE2OTgsMTEyMTk4NTk3MiwxNj
-I2NTAzODY1LC0xODYxODk5MDQxLC0xMDk2MDMxMTY3LDEwNzI1
-OTQ3MzUsODQ5NDg3NjksLTU5MTQ2NzQwOCwyMTQ1NTkxNzIzLC
-01NDQ2MzExMjcsLTY1NTA3MTE0NywtMTA1NjIwMTc1MywxMTE0
-MDA3NDA1XX0=
--->

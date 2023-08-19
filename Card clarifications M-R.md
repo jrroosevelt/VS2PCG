@@ -138,6 +138,19 @@ If the Maker is in your deck, you get to have the usual Invention pile, plus you
 
 See also: [Invention](https://www.reddit.com/r/VS2PCG/wiki/glossary#wiki_invention)
 
+# Malakai Black
+^CardNumber: ^AEW-038, ^AEW-039
+
+*Set: AEW* 
+ 
+**Skilled Striker** lets Black strike two extra times. If he strikes the same character more than once, add his ATK together for each strike and then compare it to the enemy's DEF. For example, if he has 2ATK and he strikes the same enemy three times you'll compare 6 ATK to the enemy's DEF>
+
+He can also split up his strikes if he's in combat with multiple enemies (such as if he's being team attacked).
+
+**Black Mist**'s phrase "could melee attack" menas Malakai Black must be able to attack the enemy (for example, Malakai Black must be in the front row, can't be exhausted, and the enemy character can't be protected).
+
+^(Source: Rule insert)
+
 # Mandarin
 ## [Mandarin](http://vs.tcgbrowser.com/images/cards/big/mcu1-046.jpg) (Photo)
 ^CardNumber: ^MCU1-046
@@ -280,6 +293,17 @@ A: Correct.
 If Mattie is in your deck you can bring a Gift pile, which must include one of each of the five Gifts: Death, Immortality, Knowledge, Madness, and Power. When Mattie uses **The Gathering of Five** choose five different characters on  your side with different names. At least one of these characters must be one of your Main Characters. Then randomly assign one of the five Gifts to each of them. If you don't have at least five characters on your side with different names (or you don't have a Main Character on your side), Mattie can't use **The Gathering of Five**.
 
 The Gift of Death will instantly KO its assigned character. The other four grant new abilities to their assigned characters (some good, some bad). Gift cards are not actually in play. Their cards are just play aids to remind everyone what new abilities each character has gained. If a character leaves play its Gift will no longer affect them (even if that character reenters play). 
+
+^(Source: Rule insert)
+
+# Matt Jackson
+^CardNumber: ^AEW-048
+
+*Set: AEW* 
+ 
+**Whatever it Takes** works like this: When another character on your side would gain one or more wounds (whether from getting stunned or an effect like Wardlow's **Powerbomb Symphony** that says to wound it), Matt Jackson may pay a [HUMANITY]. If he does, that character does not get any wounds.
+
+**Note:** Like any Super Power, **Whatever it Takes** can only be used once per turn.
 
 ^(Source: Rule insert)
 
@@ -549,6 +573,19 @@ This power grants a Keyword power to a character. Unlike most effects, which onl
 *Set: H.A.M.M.E.R.*  
 
 **I Can Predict Your Every Move** can temporarily reduce the ATK/DEF of a character while in solo combat with Mister X.For example, if a character with a printed ATK/DEF of 4/4 has three +1/+1 counters it is currently 7/7. However, while in solo combat with Mister X, itsATK/DEF counts as 4/4.
+
+^(Source: Rule insert)
+
+# MJF
+^CardNumber: ^AEW-040, ^AEW-041
+
+*Set: AEW* 
+ 
+Once MJF uses **Dynamite Diamond Ring** and/or **...And You Know It!**, its effect lasts for the rest of the game, even if an effect causes MJF to lose his powers. 
+
+**...And You Know It!**'s effect works like this: When MJF attacks, check the defender's ATK. Then MJF gainst ATK until his ATK is 1 higher than the defender's ATK. However, if later in the combat the defender gains or loses ATK that will not change MJF's ATK. (In other words, **...And You Know It!** happens right away when MJF attacks but then doesn't do anything else during the combat.)
+
+**Note:** If MJF's ATK is already higher than the defender's ATK, **...And You Know It!** won't do anything.
 
 ^(Source: Rule insert)
 
@@ -1239,6 +1276,15 @@ A: He would still be stunned since he will have wounds equal to his health (0 is
 
 ^(Source: FB Post - Chad Daniel)
 
+# Orange Cassidy
+^CardNumber: ^AEW-024
+
+*Set: AEW* 
+ 
+When you have six or more recruit points, you have the option of paying an ![](%%Intellect%%) (Intellect) and ![](%%Skill%%) (Skill) to recruit Orange Cassidy instead of paying any recruit points. You can use "Right Tunnel" locations to generate this ![](%%Intellect%%) (Intellect) and/or ![](%%Skill%%) (Skill).
+
+^(Source: Rule insert)
+
 # Our Name is Venom!
 ^CardNumber: ^LET-018
 
@@ -1684,6 +1730,15 @@ Q: How does **Dust of Death** work?
 A: It will stun one character that is melee attacking the Red Skull. If that was the only attacker in the combat, the combat will be canceled.
 
 ^(Source: UDE FAQ)
+
+# Rey Fenix
+^CardNumber: ^AEW-022
+
+*Set: AEW* 
+ 
+**The Man of 1,000 Lives** gives Rey Fenix 1000 (Health) while he's on a side (either face up or face down). However, if an effect causes him to lose this power, he will be treated as if he has 0 (Health) and will be KO'd immediately.
+
+^(Source: Rule insert)
 
 # Rhino
 ## [Rhino](http://vs.tcgbrowser.com/images/cards/big/CV1-013.jpg) (Sinister Syndicate)

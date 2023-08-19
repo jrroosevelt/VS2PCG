@@ -1260,6 +1260,15 @@ Jane's **A God Who Knows How Precious Life Is** is not a super power.
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
+# Thunder Rosa
+^CardNumber: ^AEW-022
+
+*Set: AEW* 
+ 
+While Thunder Rosa is attacking, she can pay a ![](%%Skill%%) (Skill) to use **La Mera Mera**. Then if she wins the combat, you may immediately start a new combat with Thunder Rosa as the attacker anda  new characer in the previous defender's row as the new defender.
+
+^(Source: Rule insert)
+
 # [Tiger Shark](http://vs.tcgbrowser.com/images/cards/big/MOE-010.jpg)
 ^CardNumber: ^MOE-010
 

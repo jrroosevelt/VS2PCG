@@ -35,6 +35,24 @@ Abomination’s **Give Me a Real Fight!** Power forces a player’s first attack
 
 ^(Source: Rule insert)
 
+# Adam Cole
+^CardNumber: ^AEW-030, ^AEW-031
+
+*Set: AEW* 
+ 
+**Bay Bay!** counts characters' printed powers including ![](%%Flight%%) or ![](%%Range%%).
+
+^(Source: Rule insert)
+
+# Adam Page
+^CardNumber: ^AEW-001, ^AEW-002
+
+*Set: AEW* 
+ 
+**Buckshot Lariat** dazes enemy characters, which means they get stunned but don't gain wounds. "Could melee attack" means Adam Page must be able to attack them (for example Adam Page must be in the front row, can't be exhausted, and the enemy character can't be protected).
+
+^(Source: Rule insert)
+
 # Adam Warlock
 ## [Adam Warlock](http://vs.tcgbrowser.com/images/cards/big/GAL-001.jpg) (MC)
 ^CardNumber: ^GAL-001, ^GAL-002
@@ -459,6 +477,15 @@ A: No, Hypnotize creates a modifier with an expiration that temporarily makes a 
 To resolve the **Age of Miracles**, first choose a Supporting Character with 1 printed Health other than Baron von Strucker. Then randomly select one of the six new Keyword Powers. that character gains the new power until it leaves play. (To randomly select a power, we recommend rolling a 6-sided die where 1 is **Dark** and 6 is **Wise**.)
 
 **Note:** If you use **Age of Miracles** more than once on the same character, it's possible for them to get the same power twice. This is great with **Dark** and **Sly**, but not great with the other powers.
+
+^(Source: Rule insert)
+
+# Baseball Bat
+^CardNumber: ^AEW-066
+
+*Set: AEW* 
+ 
+**Grand Slam** can be used any time you could take an action in combat. Typical actions in combat are playing a Plot Twist, Powering Up a character, or using a Super Power.
 
 ^(Source: Rule insert)
 
@@ -1051,6 +1078,17 @@ Deadpool’s favorite deep-fried burrito has two different costs to use its supe
 
 ^(Source: Rule insert)
 
+# Chris Jericho
+^CardNumber: ^AEW-066
+
+*Set: AEW* 
+ 
+**Floyd the Bat** works like this: You must include the card Baseball Bat as part of your 60-card deck, however don't shuffle it in with the rest of your cards. Leave it set aside, and during setup after you put Chris Jericho into play, equip the Baseball Bat to him.
+
+**Le Champion** lets Chris Jericho keep the AEW World Championship Belt even while he's stunned. (Normally equipment gets KO'd when the equipped character gets stunned.)
+
+^(Source: Rule insert)
+
 # C.I.A. Deputy Director Susan Rayner
 ^CardNumber: ^BOY-015
 
@@ -1332,6 +1370,17 @@ Q: If Daken is stunned as an enemy character is stunned as the result of strikin
 A: Yes.
 
 ^(Source: UDE FAQ- Entry for "Wolverine")
+
+# Danhausen
+^CardNumber: ^AEW-016
+
+*Set: AEW* 
+ 
+**Very Nice, Very Evil** is always "turned on" and active even while Danhasuen is not on your side. This means effects like **The Salt of the Earth** can search for him while he's in your deck. 
+
+If **Be Cursed**'s result starts with "Uh Oh" it just means nothing happens. You can try to curse the same character again later.
+
+^(Source: Rule insert)
 
 # [Daredevil](http://vs.tcgbrowser.com/images/cards/big/def-002.jpg) (MC)
 ^CardNumber: ^DEF-001, ^DEF-002,  ^LEG-040
@@ -1809,6 +1858,15 @@ A: The original defender is still removed from combat, but since Adam enters pla
 
 ^(Source: FB Post - Chad Daniel)
 
+# Dr. Britt Baker D.M.D.
+^CardNumber: ^AEW-035, ^AEW-035
+
+*Set: AEW* 
+ 
+**Lock Jaw** counts characters' printed powers including ![](%%Flight%%) or ![](%%Range%%).
+
+^(Source: Rule insert)
+
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 ^CardNumber: ^WEB-012
 
@@ -1904,6 +1962,15 @@ A: Yes. The "Starting Main Character Required" restriction on the card is a deck
 You can use any marker to represent your D'Vorah token. For example, a bead, a coint, or a hand-drawn picture of D'Vorah.
 
 ^(Source: Rule Insert)
+
+# Dynamite
+^CardNumber: ^AEW-026
+
+*Set: AEW* 
+ 
+This Plot Twist lets one of your characters stun an enemy character even if your character's ATK isn't as high as the enemy character's DEF. **Note:** If your character's strike stuns th eenemy character normally, Dynamite won't cause the enemy character to be stunned again.
+
+^(Source: Rule insert)
 
 # Eddie Brock
 ^CardNumber: ^VER-008

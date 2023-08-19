@@ -849,6 +849,15 @@ Jack's **Follower** grants **Leader** to a main character he team attacks with. 
 
 ^(Source: Rule insert)
 
+# Jade Cargill
+^CardNumber: ^AEW-036, ^AEW-037
+
+*Set: AEW* 
+ 
+**JadeBrand** resolves the combat immediately. This means the game skips ahead to the part of combat where characters strike each other. There are no more opportunities for players to play Plot Twists, use Super Powers, or Power Up the combatants.
+
+^(Source: Rule insert)
+
 # [Jean Grey (MC - Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-002.jpg)
 ^CardNumber: ^OGA-001, ^OGA-002, ^OGA-003
 
@@ -907,6 +916,17 @@ If the cards are Equipment or Plot Twists both of you may ignore any team affili
 
 **Psionic Protection**  
 This power refers to ![](%%Intellect%%) (Intellect) super powers. This counts for any super power with the appropriate symbol in its cost (even if it also has other symbols in its cost).
+
+^(Source: Rule insert)
+
+# Jon Moxley
+^CardNumber: ^AEW-005, ^AEW-006
+
+*Set: AEW* 
+ 
+**Paradigm Shift** switches Jon Moxley's ATK and DEF with another character's. However, if either character's ATK or DEF changes after that effect it will work normally. Example: Jon Moxley is 3/3 and he switches with a character who is 6/8. (So Mox gets +3/+5 and that character gets -3/-5.) Later in the combat that character gets +4/+0 from another effect.This won't change Jon Moxley's current ATK/DEF.
+
+**Unscripted Violence** lets you choose one of your remaining Challenge Match cards. It will take effect immediately along with any previous Challenge Match cards you've chosen. If Mox uses **Unscripted Violence** several times it's possible for you to have up to all four of your Challenge Match cards active at the same time.
 
 ^(Source: Rule insert)
 
