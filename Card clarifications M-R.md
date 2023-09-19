@@ -34,6 +34,13 @@ A: The equipped character gets credit if an equipment power stuns a character. I
 
 ^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
 
+# Machine
+^CardNumber: ^FAN-024
+
+*Set: Fantastic Battles*
+
+This card has been banned and replaced with FAN-024*
+
 # [Mad Thinker](http://vs.tcgbrowser.com/images/cards/big/FAN-040.jpg)
 ^CardNumber: ^FAN-040
 
@@ -123,7 +130,21 @@ When Mainframe uses **Primary Operating System** it applies only to characters t
 
 ^(Source: Rule insert)
 
-# [The Maker](http://vs.tcgbrowser.com/images/cards/big/FRI-015.jpg)
+# The Maker
+## The Maker (MC)
+^CardNumber: ^FFO-010, ^FFO-011
+
+*Set: Frightful Foes*
+
+If you're playing as the Maker, you'll bring a normal Invention Pile. (It can include Frightful Inventions, even if no characters in your deck can create them.)
+
+Then on the first turn of the game, **Anything is Possible** will shuffle the Inventions in your pile into your deck. **Anything is Possible** also allows you to play an Invention with a team affiliation even if you don't have a a face-up character with that affiliation. This effect starts with "This game" which means it lasts whe whole game even if the Maker is face-down or has lost his powers somehow.
+
+**Note:** If somehow you have cards in your Invention pile that don't say Invention on them (such as if the Maker supporting character is in  your deck), those cards will NOT be shuffled into your deck by **Anything is Possible**.
+
+^(Source: Rule Insert)
+
+## [The Maker](http://vs.tcgbrowser.com/images/cards/big/FRI-015.jpg)
 ^CardNumber: ^FRI-015
 
 *Set: The Frightful*
@@ -608,6 +629,27 @@ His **You Can Be Someone Good** power references "Good" characters. [Team affili
 *Set: Loki.*  
 
 See also [TVA Personnel](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_tva_personnel)
+
+# Molecule Man (MC)
+^CardNumber: ^FFO-012, ^FFO-013
+
+*Set: Frightful Foes*
+
+To **Animate** your deck do the following: Put your deck into your front or back row. (This counts as it "appearing.") It is now a supporting character named "Animated Building" with ATK and DEF each equal to the number of cards in it, and 1 Health.
+
+It is **Massive**: It attacks entire rows instead of characters and strikes with its full ATK against each defender in the row. The defenders strike it with their total ATK.
+
+It is **Monstrous**: when defending against a melee team attack it strikes with its full ATK against each attacker.
+
+Like a normal supporting character it can be ready/exhausted; be stunned/hidden; have counters; gain and lose powers, etc. When it gets stunned/hidden turn it over. (Everyone will see your bottom card.) If you need to draw cards while your deck is turned over, you still draw from its "top", which is the card touching the table.
+
+If your deck gets KO'd, put all of its cards in your KO pile. If an effect would cause it to leave play or be put in your resource row, KO it instead.
+
+While it's animated, it still counts as your deck (even if somehow it gets moved to another player's side). For example, you'll draw cards from it and **Reconstitute Matter** will shuffle your KO pile into it. If your deck has no cards it ceases to exist and will no longer be **Animated** (Even if it had some +1/+1 counters). However, you can use **Reconstitute Matter** to make a new deck, and then you could **Animate** that deck.
+
+**Note**: If your deck is already **Animated**, using **Animate Building** again won't do anything.
+
+^(Source: Rule Insert)
 
 
 # [Mole Man](http://vs.tcgbrowser.com/images/cards/big/FAN-033.jpg) (MC)

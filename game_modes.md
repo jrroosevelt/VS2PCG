@@ -25,7 +25,7 @@ Previously, in the Monsters Unleashed set, we introduced the 2 vs. 1 “Leviatho
 
 -   The Boss goes first, then play proceeds clockwise. No players skip drawing cards during their first Draw Phase.
 -   When a basic location appears on the Boss player’s side, they get the related effect from its power symbol, as instructed on their Boss Battle card.
--   When a special location named on the Boss Battle card appears on the Boss player’s side, they get the related effect.
+-   When a "wild" location that shares a team with the Boss appears on the Boss player’s side, they get the related effect. (**Note:** This is an update as of Frightful Foes. Previous rules stated that it only considered the card named on the boss battles card.)
 -   The Boss player only wins by KOing the other two players’ Main Characters.
 -   The other two players only win by KOing the Boss.
 

@@ -91,6 +91,14 @@ The official list is located in a Google doc called "Destroyed Incursion Card Li
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+### Incursion
+**Season:** Summer/Fall 2023
+
+**Dates:** July 1 through Sept 30 2023
+
+See explanation of Incursion format above.
+
+
 ### Duality
 [Official format announcement](https://www.upperdeckblog.com/2023/03/vs-system-2pcg-featured-format-update-duality/)
 

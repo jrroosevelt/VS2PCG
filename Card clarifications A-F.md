@@ -73,6 +73,15 @@ A: Yes. But he’s huge! Spend that ![](%%Might%%) (Might) and start bashing wit
 
 ^(Source: UDE FAQ - UDE Approved 6/10/2016)
 
+# Afterlife Transporter
+^CardNumber: ^FFO-023
+
+*Set: Frightful Foes*
+
+This equipment has the Fantastic and Frightful team symbols separated by a slash. This means you may have either a face-up Fantastic OR a face-up Frightful character to play it.
+
+^(Source: Rule Insert)
+
 # [Agamotto](http://vs.tcgbrowser.com/images/cards/big/MYS-014.jpg) 
 ^CardNumber: ^MYS-014
 
@@ -2440,6 +2449,15 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 
 ^(Source: Rule insert)
 
+# Frightful!
+^CardNumber: ^FFO-021
+
+*Set: Frightful Foes*
+
+This plot twist hs four team symbols, which means you must hav four face-up Frightful characters on  your side to play it.
+
+^(Source: Rule Insert)
+
 # [Frohike](http://vs.tcgbrowser.com/images/cards/big/XFB-007.jpg), [Langly](http://vs.tcgbrowser.com/images/cards/big/XFB-008.jpg), and [Byers](http://vs.tcgbrowser.com/images/cards/big/XFB-009.jpg)
 ^CardNumber: ^XFB-007, ^XFB-008, ^XFB-009
 
@@ -2450,7 +2468,3 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 **Note:** Powering up one of these characters the normal way wont' cause their powers to trigger.
 
 ^(Source: Rule Insert)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzc0ODg0MSwxNzAwOTU4MzUyLDE2Mj
-c1OTA2ODQsMTYzNDQ0NTg2OV19
--->

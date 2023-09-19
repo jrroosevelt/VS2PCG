@@ -7,7 +7,18 @@ This Plot Twist can allow you to add an attacker to your attack. The attacker mu
 
 ^(Source: Rule Insert)
 
-# [Galactus](http://vs.tcgbrowser.com/images/cards/big/FRI-018.jpg) (SC)
+# Galactus
+## Galactus (Frightful Foes - MC)
+^CardNumber: ^FFO-001
+
+*Set: Frightful Foes*
+
+**I Am the Absence of Opposites** prevents enemy main characters from reaching Level 3 or higher and prevents enemy supporting characters with cost 8 or higher from appearing. This is a "This game" effect which means it lasts the whole game even if Galactus is face-down or has lost his powers somehow
+
+
+^(Source: Rule Insert)
+
+## [Galactus](http://vs.tcgbrowser.com/images/cards/big/FRI-018.jpg) (SC)
 *Set: The Frightful*
 
 **The Monster of All Worlds** removes locations from everywhere. To resolve it, each player reveals their hand, deck, resources (including face-down ones), KO pile, and any out-of-game piles. All locations with that name are removed from the game. Then each player shuffles their deck.
@@ -164,7 +175,7 @@ In this Arc, we are playing around with how players can use locations besides su
 * Your main characters ust be face up to pay for them.  
 * Your main characters can use a "Wild" Special Location from their team to pay for them.  
 * These cards are neutral, so just like any other neutral cards, they can be in Loyalty decks.  
-* The Special Locations don't count as location swith a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
+* The Special Locations don't count as locations with a specific power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or ZZutak's **Paint to Life**).
 
 
 ^(Source: Rule insert)
@@ -176,6 +187,27 @@ In this Arc, we are playing around with how players can use locations besides su
 
 **Drain Sanity** gets more powerful each time you use it, even if you use it on two (or more) different copies of Glory.
 
+^(Source: Rule insert)
+
+# God Emperor Doom
+^CardNumber: ^FFO-002, ^FFO-003, ^FFO-004
+
+*Set: Frightful Foes*  
+
+**Construct Battleworld** puts the game into the full Battleworld game mode (introduced in Crossover Vol. 3). If God Emperor Doom is your main character, you'll bring and shuffle your own Battleworld pile before the game. This pile is **variable**: you pick 12 different Battleworld Domains to include. And it's **private**: your opponent doesn't get to know what's in it.
+
+**If you're already using the Battleworld game mode**, the players will need a shared Battleworld pile (like usual). However, when God Emperor Doom levels up, his own personal Battleworld pile will replace the shared pile.
+
+**If more than one player is God Emperor Doom**, you'll each have your own Battleworld pile. Once Doom levels up, that Doom's pile will be used for now. Once a second Doom levels up, the game will leave the current Domain and enter the Domain of the top card of the second Doom's Battleworld pile. And so on if there's a 3rd, 4th, etc. God Emperor Doom.
+
+Once there are two or more God Emperor Dooms with "active" Battleworld piles, whenever a defending main character gets wounded, the current Domain wil go to its discard pile, and the game will enter the Domain of the next "active" Battleworld pile (going clockwise). 
+
+If you use **This World is Mine** to stay in the current Domain, it happens before you get to see the next Domain card.
+
+**Note:** Two other cards - The Grandmaster (main character) and the Beyonder each have their own separate Battleworld piles and can have the game enter one of their Domains. When this happens, any other Domain in play will go to its discard pile (like normal). Then once a defending main character gets wounded, the game will enter th Domain of the next "active" Doom Battleworld pile as described above.
+
+Norseheim, a Domain found in the Crossover Vol. 4 issue, causes the game to enter two Domains at once. This will cause **A Patchwork Planet** to give Doom 2 XP. And **God of Battleworld** will turn off the powers of both Norseheim and the other Domain.
+ 
 ^(Source: Rule insert)
 
 # [Goblin Queen](http://vs.tcgbrowser.com/images/cards/big/aff-042.jpg)
@@ -1020,12 +1052,29 @@ Kaecilius’s **Fold Space and Matter** power adds a new rule to Vs. System® 2P
 ^(Source: Rule insert)
 
 # Kang
-## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-006.jpg) (MC)
+## [Kang](http://vs.tcgbrowser.com/images/cards/big/FRI-006.jpg) (Frightful - MC)
 ^CardNumber: ^FRI-006, ^FRI-007
 
 *Set: The Frightful*
 
 **Immeasurable Identities** makes all Kang Supporting Characters you own into Main Characters. This effect lasts the whole game, even if your starting Kang Main Character gets KO'd. And remember - as long as you have any Main Characters on your side, you don't lose the game.
+
+^(Source: Rule Insert)
+
+## Kang (Frightful Foes - MC)
+^CardNumber: ^FFO-005
+
+*Set: Frightful Foes*
+
+Your Kang Collective pile is **fixed**: it always includes Rama-Tut, Scarlet Centurion, Immortus, and Iron Lad. And it's **public**: each other player can look at it. Here's how it works:
+
+During your Build Phase while you have exactly 3 resources, 6 resources, 9 resources, and 12 resources, you may put a random card from your Kang Collective onto your side. You may only do this once per game at each of those resource amounts.
+
+For example, when you reach 3 resources you can put one random Kang Collective character onto your side. And then you can do it again at 6 resources, again at 9 resources, and finally at 12 resources.
+
+The cards in your Kang Collective are main characters. Your opponents need to KO all the main characters on your side for you to be defeated. However, they don't need to KO any cards that are still in your Kang Collective pile.
+
+For example, let's say it's turn 8 and you have Kang, Immortus, and Iron Lad on your side. Rama-Tut and Scarlet Centurion are still in your Kang Collective pile. If Kang, Immortus, and Iron Lad all get KO', you are defeated.
 
 ^(Source: Rule Insert)
 
