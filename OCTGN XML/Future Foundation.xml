@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Future Foundation" id="" 
+     gameId="d9d22574-b64d-4f4b-9726-092d35b778c9" gameVersion="1.3" version="1.3">
+<cards>
+  <card id="" name="*Ant-Man*">
+      <property name="Card Number" value="FND-001" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Shrink. When *Ant-Man* gets attacked the first time each turn, you may cancel the combat. Left in Charge for Four Minutes. Characters named Human Torch, Invisible Woman, Mister Fantastic, and Thing can't appear on your side. Uh-Oh. Level Up (1) - Starting on your 4th turn, during your Build Phase you may reveal your hand. If you reveal Human Torch, Invisible Woman, Mister Fantastic, and Thing, put all characters with those names in your hand on the bottom of our deck, then draw that many cards, shuffle your deck, and *Ant-Man* gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="*Ant-Man*">
+      <property name="Card Number" value="FND-002" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="The Ant-astic Four. Characters on your side have Shrink. The Fantastic Four are Missing. Human Torch, Invisible Woman, Mister Fantastic, and Thing can't appear on your side until they Return... The Fantastic Four Return. Starting on your 8th turn, once per game, during your Build Phase, if Human Torch, Invisible Woman, Mister Fantastic, and Thing are in your hand, you may put them onto your side."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Jennifer Walters">
+      <property name="Card Number" value="FND-003" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="0" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA She-Hulk. Seriously Injured. She-Hulk starts the game with two wounds. Gamma-Irradiated Blood Transfusion. Level Up (2) - At the start of your Main Phase, Jennifer may pay 1 [MIGHT] or reveal a Hulk character in your hand. If she does, heal a wound from her and she gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="She-Hulk">
+      <property name="Card Number" value="FND-004" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Savage She-Hulk. Main [MIGHT]: Wound She-Hulk and a character she could attack. You Wouldn't Like Them When They're Angry. When She-Hulk or a Hulk character on your side attacks, put +1/+1 counters on it equal to the total wounds on She-Hulk and Hulk characters on your side."/>
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Sub-Mariner">
+      <property name="Card Number" value="FND-005" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Namor. Angry. Sub-Mariner must be in your first attack each turn if able. (It can be a team attack.) Invade. While Sub-Mariner is attacking a back row character, it can't strike him. Join the Fantastic Four. Level Up (4) - when a [Fantastic] character appears on your side, Sub-Mariner gainst 1 XP. Sub-Mariner levels up into [Fantastic] Sub-Mariner."/>
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Sub-Mariner">
+      <property name="Card Number" value="FND-006" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Namor. Slightly Less Angry. Sub-Mariner must be in your first or second attack each turn if able. (It can be a team attack.) Invade. While Sub-Mariner is attacking a back row character, it can't strike him. Safeguard. Characters in Sub-Mariner's row without Safeguard can't be attacked." />
+      <property name="Health" value="6" />
+  </card>    
+  <card id="" name="Thor">
+      <property name="Card Number" value="FND-007" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Herald of Galactus. You pay one less to recruit Galactus supporting characters. The Energy of Five Worlds. Level Up (1) - At the start of your Main Phase, if there are locations with five different names on your side, Thor gains 1 XP. God-Blast. When Thor levels up, he may stun an enemy supporting character." />
+      <property name="Health" value="7" />
+  </card>  
+  <card id="" name="Thor">
+      <property name="Card Number" value="FND-008" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Herald of Galactus. You pay one less to recruit Galactus supporting characters. The Energy of Five Worlds. Galactus Bomb. Main [ENERGY]: You may remove a Galactus character in your hand from the game. If you do, stun each enemy character." />
+      <property name="Health" value="7" />
+  </card>  
+  <card id="" name="*Carnage*">
+      <property name="Card Number" value="FND-009" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Superior Carnage. When *Carnage* appears, put a +1/+1 counter on him for each other [FRIGHTFUL] character on your side. Symbiosis. *Carnage* can have and gain +1/+1 counters while stunned." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Spider-Man">
+      <property name="Card Number" value="FND-010" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Dodge. Spider-Man can't be ranged attacked. Fantastic Suit. When Spider-Man gets powered up, he may create an Invention." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="*Ant-Man*">
+      <property name="Card Number" value="FND-011" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Chosen by Mister Fantastic. You pay 1 less to recruit *Ant-Man* if Mister Fantastic is on your side or you reveal him in your hand. Shrink of Genius. When *Ant-Man* is attacked the first time each turn, you may cancel the combat or *Ant-Man* may create an Invention." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Medusa">
+      <property name="Card Number" value="FND-012" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Chosen by the Invisible Woman. You pay 1 less to recruit Medusa if Invisible Woman is on your side or you reveal her in your hand. Hair She Is. Main [SKILL]: Choose an enemy character to be Passive this turn or Immobile on its next turn." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Destroyer">
+      <property name="Card Number" value="FND-013" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Herald of Galactus. You pay one less to recruit Galactus supporting characters. Infused with Galactus's Life-Energy. Main [ENERGY]: KO a wounded supporting character. Destroyer pays one less power symbol to use this power while Galactus is face up on your side." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="She-Hulk">
+      <property name="Card Number" value="FND-014" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Chosen by the Thing. You pay 1 less to recruit She-Hulk if Thing is on your side or you reveal him in your hand. Do I Get To Say &quot;It's Clobbberin' Time!&quot;? Combat [MIGHT]: She-Hulk gets +5/+0 and can't be stunned this combat." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Madame Medusa">
+      <property name="Card Number" value="FND-015" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Medusa. Frightful Forelock. When Madame Medusa appears, choose an enemy character to become Immobile until Madame Medusa leaves play. (It can't move during its Formation Step.)" />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Crystal">
+      <property name="Card Number" value="FND-016" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Elementalist. When Crystal appears, search your deck for a basic [ENERGY], [INTELLECT], [MIGHT], or [SKILL] location you don't already have in your resource row. Reveal it and put it into your hand." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Dragon Man">
+      <property name="Card Number" value="FND-017" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Fantastic" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Pacifist Genius. At the end of your turn, if Dragon Man is ready, draw a card." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Sandman">
+      <property name="Card Number" value="FND-018" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Frightful Forearms. Main [MIGHT]: Sandman strikes up to two characters he could attack." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Thor">
+      <property name="Card Number" value="FND-019" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="9" />
+      <property name="ATK" value="16" />
+      <property name="DEF" value="16" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Herald of Galactus. You pay one less to recruit Galactus supporting characters. Herald of Thunder. Main [MIGHT]: Put +1/+1 counters on another character equal to its ATK." />
+      <property name="Health" value="4" />
+  </card>
+  <card id="" name="Power Siphon">
+      <property name="Card Number" value="FND-020" />
+      <property name="Type" value="Equipment" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Invention (1). Attach Harness. When you equip Power Siphon, choose a face-up enemy supporting character. Equipped character gainst that character's printed powers, and that character loses and can't gain powers." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Anti-Gravity Discs">
+      <property name="Card Number" value="FND-021" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Frightful" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Invention (1). This card starts the game in your Invention pile. Flightful Four. Put a +1/+1 counter on up to four characters. They have [Flight] this turn." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="A Secret Threat">
+      <property name="Card Number" value="FND-022" />
+      <property name="Type" value="Story Mode" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Work together to defeat a terrible foe. Setup: Player A secretly chooses a Boss Battle and builds a deck as that Boss. Player B and C secretly build decks to fight their unknown enemy. Part 1: Undercover Boss. Player A Wins.: How dare they challenge you? You start with a 10-card hand in each remaining Part. Player B+C Win: Now you know what you're up against. You each start with an 9-card hand in each remaining part. Part 2: Let's Try This Again: Player A Wins: Swat them like flies. You get one extra turn after your first turn in Part 3. Player B+C Win: you can do this! You both go first in Part 3. (Don't skip drawing cards on your first turns.) Part 3: Final Battle. Player A Wins: Victory was never in doubt. Player B+C Win: You saved the day!" />
+      <property name="Health" value="" />
+  </card>
+</cards>
+</set>

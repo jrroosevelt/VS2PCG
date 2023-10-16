@@ -348,6 +348,17 @@ This character should also read : “**AKA Venom**”
 
 ^Source: [^Upper ^Deck ^Blog](https://www.upperdeckblog.com/2022/01/vs-system-2pcg-organized-play-post-symbiotes-arc-update/)
 
+# \*Ant-Man\*
+^CardNumber: ^FND-001, ^FND-002
+
+Starting on your 4th turn **Uh-Oh** allows you to reveal your hand during you Build Phase. If you reveal at least one Human Torch, Invisible Woman, Mister Fantastic, and Thing character, you will put ALL characters with those names from your hand on the bottom of your deck.
+
+Example: \*And-Man\* is Level 1. It's your 5th turn's Build Phase. You have one Invisible Woman, two Mister Fantastics, three Things, and two Human Torches (one of which is Invisible Boy AKA Human Torch). You reveal your hand and put all 8 of those cards on the bottom of your deck. Then you draw 8 cards, shuffle your deck, and \*Ant-Man\* gains 1 XP. 
+
+**The Fantastic Four Are Missing's** effect goes away once **The Fantastic Four Return** happens. So after that you can have individual human Torch, Invisible Woman, etc. characters appear on your side.
+
+^(Source: Rule Insert)
+
 # [Anya](http://vs.tcgbrowser.com/images/cards/big/TBB-018.jpg) 
 ^CardNumber: ^TBB-018
 

@@ -160,6 +160,9 @@ For example, Captain Swain says, "When Swain appears, choose a super power on a 
 
 ^Source [^Reddit ^Post](https://discord.com/channels/306874195051020288/768614566594478080/788521217635909633)
 
+# Chosen by...
+Medusa's power **Chosen by the Invisible Woman** lets you pay 1 less to recruit her if Invisible Woman is on your side OR if you reveal an Invisible Woman character in your hand as you recruit Medusa. It works the same way for \*Ant-Man\* and She-Hulk with Mister Fantastic and Thing respectively.
+
 # Climb  
 At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on this character.  
   

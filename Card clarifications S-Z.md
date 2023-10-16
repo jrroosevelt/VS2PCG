@@ -19,6 +19,13 @@ This Plot Twist lets a character pay any power symbol. You can generate a power 
 
 ^(Source: Rule insert)
 
+# Sandman
+^CardNumber: ^FND-018
+
+**Frightful Forearms** lets Sandman strike one or two characters he could attack. But he can't use this power to strike the same character twice.
+
+^(Source: Rule Insert)
+
 # [Satana](http://vs.tcgbrowser.com/images/cards/big/aff-045.jpg)
 ^CardNumber: ^AFF-045
 
