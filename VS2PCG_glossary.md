@@ -1,5 +1,5 @@
+[BACK TO INDEX](https://www.reddit.com/r/VS2PCG/wiki/index)
 
-  
 # Common Glossary and FAQ of Keywords and Effects    
 
 Here is the list of the most common recurring keywords, powers or terms that are listed but not always defined on the card.  This list is also being updated to include general FAQs about some of these keywords.
@@ -449,16 +449,20 @@ Typically you cannot *attack* a face-down character (with some exceptions like D
 
 This is one reason why card orientation is key in distinguishing Hidden (normal) from Stunned (exhausted) characters.
 
-^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3360302180671971/?comment_id=3360391823996340)  
-  
+^Source: [^FB ^Post](https://www.facebook.com/groups/860168987351982/permalink/3360302180671971/?comment_id=3360391823996340)   
 
 #  [Hologram](https://www.upperdeckblog.com/2020/02/vs-system-2pcg-friendly-neighborhood-card-preview-you-dont-want-any-part-of-this-or-do-you/)  
-Each Hologram has an associated power symbol. If an enemy character with that type of Super Power appears, it automatically stuns the Hologram.  
-  
+Each Hologram has an associated power symbol. If an enemy character with that type of Super Power appears, it automatically stuns the Hologram.   
 
 #  Hostage
 For a full breakdown, see the [Sinister Syndicate Special Location Secret Hideout](/r/VS2PCG/wiki/rules-insert#wiki_secret_hideout) section of the card-clarification page. 
-  
+
+# The Hunger Virus
+When a character with this keyword power wounds another character in melee combat, that character then gains **The Hunger Virus** (if it didn't already have it) and the [Zombie] team (if it didn't already have it). This lasts for the rest of the game (although it goes away like usual if the character leaves play).
+
+This CAN cause a main character to gain **The Hunger Virus**. 
+
+You may want to use a slip of paper or some other marker to keep track of who has **The Hunger Virus**.
 
 # Hunter  
 This character gets +3 ATK while attacking.  
@@ -1113,3 +1117,12 @@ Wound Counters interact with Vitality Counters in the same way that +1/+1 and -1
 
 # XP (and XP Counters)
 Most Main Characters can gain XP counters to ultimately level up into another version of that character. XP counters are placed on the next level of that character in the Level Up zone - not on the version of the Main Character currently in play.
+
+# Zombie Masters
+You put **Zombie Masters** in your deck just like regular cards (instead of putting them in your Level Up Zone). They are each **One of a Kind**, but you can include any number of different **Zombie Masters** in your deck.
+
+You recruit a **Zombie Master** the same way you recruit a supporting character - by paying recruit points equal to its cost. However, **Zombie Masters** are hungry! So as an additional cost to recruit it you must KO a Level 2 main character on your side. Nom nom nom...
+
+If you don't have a Level 2 min character or it can't be Ko'd for some reason, then you can't recruit a **Zombie Master**. On the other hand, if you have more than one Level 2 main character, you can feed each of them to a different **Zombie Master**. 
+
+**Note:** Since **Zombie Masters** are all Level 3, you won't be able to KO one of them to recruit another one. Once you have a **Zombie Master** on your side, it works just like a normal main character and must be KO'd for you to lose the game. If it gets KO'd but you have another Main character, keep playing and remove the **Zombie Master** from the game. (It doesn't go into your KO pile.)

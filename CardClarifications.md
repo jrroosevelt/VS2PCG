@@ -654,6 +654,15 @@ You can only equip this to an enemy Supporting Character. Then during your Draw 
 
 ^(Source: Rule Insert)
 
+# \*Black Panther\*
+^CardNumber: ^ZOM-003, ^ZOM-004
+
+*Set: Marvel Zombies*
+
+**Survivor** prevents Black Panther from getting wounded, but he can still be stunned.
+
+^(Source: Rule Insert)
+
 # Black Panther
 ## [Black Panther](http://vs.tcgbrowser.com/images/cards/big/COS-001.jpg) (MC - Illustrated)
 ^CardNumber: ^COS-001, ^COS-002
@@ -4245,6 +4254,17 @@ Magik’s **Summon Soulsword** power introduces Equipment tokens to the game. An
 
 ^(Source: Rule insert)
 
+# \*Magneto\*
+^CardNumber: ^ZOM-001, ^ZOM-002
+
+*Set: Marvel Zombies*
+
+**Kill or be Killed** works like this: When the combat resolves, the attacker(s) and defender strike each other. If this doesn't cause any of them to get stunned, then each character in the combat that is an enemy of Magneto gets stunned.
+
+**Note:** Magneto can use this power while attacking or defending.
+
+^(Source: Rule Insert)
+
 # Magneto
 ## [Magneto](http://vs.tcgbrowser.com/images/cards/big/mnb-083.jpg) (MC - Super Villains)
 ^CardNumber: ^MNB-083, ^MNB-084
@@ -5641,6 +5661,19 @@ Does Adam Warlock get KO'd??
 A: Pixie's effect becomes independent of Pixie once it brings Adam into play. So if Adam is in play at End of Turn, he will be KO'ed.
 
 ^(Source: FB Post - Kirk - UDE Approved)
+
+# Power Amplifier
+^CardNumber: ^ZOM-022
+
+*Set: Marvel Zombies*
+
+This equipment has the subtype "Machine" which means it is not equipped to a character. Instead put it into one of your rows. It can't be rearranged during your Formation Step.
+
+If there are no face-up characters in its row, a Machine can be attacked by an enemy character who could normally attack into that row. If it does, immediately KO the Machine.
+
+Machines don't protect characters (or other Machines) and never count as being protected.
+
+^(Source: Rule insert)
 
 # [Power Man](http://vs.tcgbrowser.com/images/cards/big/DFX-017.jpg)
 ^CardNumber: ^DFX-017
@@ -7548,6 +7581,10 @@ Keep in mind, characters from different Universes don't count as having the same
 
 ^(Source: Rule insert)
 
+---
+
+Q: I know that cards with the same name across universes do not count as being the same for purposes of power-up and uniqueness. However
+
 ## [Uatu (SC)](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
 ^CardNumber: ^FAN-022
 
@@ -8067,5 +8104,23 @@ In the films, these characters (Talos and Yondu) are sometimes "Good" and someti
 *Set: Power & Reality*  
 
 When this Plot Twist resolves, it cancels the combat. It then acts as though the player whose turn it is just said, "Okay, I'm done with my turn." And then, anything that triggers "At the end of the turn" will trigger, and the rest of the end-of-turn procedure will happen normally.
+
+^(Source: Rule insert)
+
+# Zombie Giant-Man
+^CardNumber: ^ZOM-006
+
+*Set: Marvel Zombies*
+
+**Giant Zombie Man** lets Zombie Giant-Man attack entire rows instead of characters. He strikes with his full ATK against each defender in a row. And those defenders combine their ATK to strike Giant Zombie-Man.
+
+^(Source: Rule insert)
+
+# Zombie Luke Cage
+^CardNumber: ^ZOM-009
+
+*Set: Marvel Zombies*
+
+**Impervious Zombie Strength** lets Zombie Luke Cage avoid enemy effects that say he can't strike AND effects on enemy characters that say they can't be struck. For example, Zombie Stilt-Man can't be struck by a character unless it has ![](%%Flight%%) or ![](%%Range%%). But **Impervious Zombie Strength** means Luke Cage can strike him anyway. 
 
 ^(Source: Rule insert)

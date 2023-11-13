@@ -41,6 +41,7 @@ Here are the current Good or Evil categorizations:
 * Underworld
 * Xenomorphs
 * Yellow Team
+* Zombies
 
 ### Neither Good nor Evil
 * Omega Level Mutants
