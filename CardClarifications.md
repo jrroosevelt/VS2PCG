@@ -1896,6 +1896,14 @@ A: The original defender is still removed from combat, but since Adam enters pla
 
 ^(Source: Rule insert)
 
+---
+
+Q: Does Britt get XP if she is stunned and wounded from that stun? Or does she not get the XP because she's face-down?
+
+A: Getting the wound from a stun is encompassed within the timing of the stun. So, her level-up power is still active when she is stunned and she gets the wound. Therefore, she does get an XP from getting stunned and wounded from that stun.
+
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/1186343915759075328)
+
 # [Dr. Curt Connors](http://vs.tcgbrowser.com/images/cards/big/WEB-012.jpg)
 ^CardNumber: ^WEB-012
 

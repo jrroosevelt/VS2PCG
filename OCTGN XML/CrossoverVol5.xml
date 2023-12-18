@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Crossover Vol 5" id="" 
+     gameId="d9d22574-b64d-4f4b-9726-092d35b778c9" gameVersion="1.3" version="1.3">
+<cards>
+  <card id="" name="Captain America">
+      <property name="Card Number" value="CV5-001" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I'm Not Looking for Forgiveness. Main [SKILL]: Ready a character on your side. Together. Level Up (6) - When characters on your side team attack, Cap gains  XP for each attacker."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Captain America">
+      <property name="Card Number" value="CV5-002" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Avengers...Assemble! Build [SKILL]: Reveal the top five cards of your deck. Put each [MCU Heroes] supporting character from among them into your hand, and the rest on the bottom of your deck. put a +1/+1 counter on Cap for each card you put in your hand. I Knew It! Main [Energy]: Put five -1/-1 counters on the face-up enemy character with the highest ATK. (You settle ties.)"/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Hulk">
+      <property name="Card Number" value="CV5-003" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="We Need Your Help. At the start of your Build Phase, name a character. Reveal the top two cards of your deck. put each character with that name into your hand and the rest back on top in any order. Recovering the Time Stone. Level Up (3) - At the end of your turn, you may discard an Academy, a Laboratory, or an Ancient One. If you do, Hulk gains 1 XP."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Hulk">
+      <property name="Card Number" value="CV5-004" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="The Brains and Brawn Together. Hulk has Genius and Lethal. (At the start of your turn draw a card, and if he wounds a defending supporting character, KO it.) It's Like I Was Made for This. Main [Might][Might][Energy][Intellect]: Wound Hulk, then put any number of supporting characters with different names from your KO pile onto your side. Hulk can only use this power once each game."/>
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Iron Man">
+      <property name="Card Number" value="CV5-005" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Earth Is Closed Today. [Any Turn] Combat [Energy]: choose an enemy character in the combat. Its ATK becomes 0 this combat. Mr. Stark? I don't Feel So Good. Level Up (1) - When another character on your side gets KO'd on an enemy turn, Iron Man gains 1 XP, then stun him."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Iron Man">
+      <property name="Card Number" value="CV5-006" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Couldn't Stop Him. Iron Man can't strike while defending. I...Am...Iron Man. At the start of your turn, Iron Man may pay power symbols equal to the total remaining health of all enemy characters. If he does, remove those characters from the game and KO Iron Man." />
+      <property name="Health" value="5" />
+  </card>    
+  <card id="" name="Thor">
+      <property name="Card Number" value="CV5-007" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Nothing Lasts Forever. At the start of your Main Phase, put two -1/-1 counters on Thor. I'm Still Worthy! Level Up (1) - When Frigga appears on your side, remove each -1/-1 counter from Thor and he gains 1 XP."/>
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Thor">
+      <property name="Card Number" value="CV5-008" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="0" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="You Take the Little One. When Thor flies over one or more enemy characters, put two -1/-1 counters on each of them. Let's Kill Him Properly This Time. When Thor KOs an enemy supporting character on your turn, remove it from the game. Then search its owners's hand, deck, and KO pile and remove each character with that name from the game." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Jane Foster">
+      <property name="Card Number" value="CV5-009" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="0" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. I Saw You With the Avengers. At the start of your Main Phase, put two +1/+1 counters on a main character on your side named Thor." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Rescue">
+      <property name="Card Number" value="CV5-010" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Electromagnetic Force Fields. [Any Turn] Any Combat [ENERGY] or [MIGHT]: Choose a character in the combat. It can't be struck this turn." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Fandral">
+      <property name="Card Number" value="CV5-011" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. The Warriors Three. When Fandral appears, you may heal a wound from Hogun and/or Volstagg. Wielder of the Fimbuldraugr. Fandral has +2/+2 and Mobile while he is unwounded." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Frigga">
+      <property name="Card Number" value="CV5-012" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I See With More Than Eyes. Main [ENERGY]: Look at an enemy player's hand. You may choose a player to discard their hand. If you do, they draw that many cards." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Hogun">
+      <property name="Card Number" value="CV5-013" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. The Warriors Three. When Hogun appears, you may heal a wound from Fandral and/or Volstagg. Wielder of the Hridgandr. Hogun has +2/+2 and Ferocious while he is unwounded." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="Volstagg">
+      <property name="Card Number" value="CV5-014" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. The Warriors Three. When Volstagg appears, you may heal a wound from Fandral and/or Hogun. Wielder of the Hridgandr. Hogun has +2/+2 and Ferocious while he is unwounded." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Hulk">
+      <property name="Card Number" value="CV5-015" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="94" />
+      <property name="Flight" value="0" />x
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="The Brains and the Brawn Together. Hulk has Genius and Lethal. (At the start of your turn draw a card, and if he wounds a defending supporting character, KO it.)" />
+      <property name="Health" value="3" />
+  </card>
+  <card id="" name="Sif">
+      <property name="Card Number" value="CV5-016" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Sif and... At the start of your Main Phase, put a +1/+1 counter on Sif for each of The Warriors Three on your side. Sword and Shield. [Any Turn] Combat [MIGHT] or [SKILL]: Sif gets +3/+3 this combat. Sif can use this power any number of times each turn." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Iron Man">
+      <property name="Card Number" value="CV5-017" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Figured Out Time Travel. Main [INTELLECT][SKILL]: Choose a number 1 to 3. Each player shuffles that many resources on their side into their owner's deck." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Captain America">
+      <property name="Card Number" value="CV5-018" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="On Your Left. Characters to Cap's left in his row have Berserker. Avengers...Assemble! Build [SKILL]: Reveal the top five cards of your deck. Put each [MCU Heroes] supporting character from among them into your hand, and the rest on the bottom of your deck. Put a +1/+1 counter on Cap for each card you put in your hand." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Thor">
+      <property name="Card Number" value="CV5-019" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Let's Kill Him Properly This Time. When Thor KOs an enemy supporting character on your turn, remove it from the game. Then search its owners's hand, deck, and KO pile and remove each character with that name from the game." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Georges Batroc">
+      <property name="Card Number" value="CV5-020" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="MCU Villains" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="Leap. Batroc has [FLIGHT] on your turn. Combat Expert. While Batroc is in combat on your turn, enemy players can't play plot twists." />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="*Thanos*">
+      <property name="Card Number" value="CV5-021" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="MCU Villains" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="I Will Shred This Universe. Main [MIGHT]: Remove an enemy Photographic Universe equipment, location, or supporting character from the game." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="I Am Inevitable">
+      <property name="Card Number" value="CV5-022" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="MCU Villains" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. [Any Turn] Combat: Choose a supporting character on your side in the combat. It can't be struck, stunned, or wounded this combat." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="I Went for the Head">
+      <property name="Card Number" value="CV5-023" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="MCU Heroes" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. [Any Turn] Combat: Choose a supporting character on your side in the combat. When it strikes an enemy supporting character this combat, stun that enemy supporting character, then KO it, then remove it rom the game." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="The Cosmic Scales">
+      <property name="Card Number" value="CV5-024" />
+      <property name="Type" value="Story Mode" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="Photographic" />
+      <property name="Rules" value="The Fate of the universe is at stake. Setup: Player A builds one deck that is legal with three different main characters and chooses one of them to use for Part 1. Part 1: The Snap? Player A Wins: To the garden. Remove one copy of each supporting character in Player B's deck for the rest of the Story. Player B Wins: We've stopped him...for now. Player A must choose a new main character for Part 2. Part 2: The Blip? PLayer A Wins: Inevitable. If Player A also won Part 1, remove another copy of each supporting character in Player B's deck. If player A lost Part 1, they go back to their first main character for Part 3. I think it worked! If Player B also won Part 1, Player A must use their final main character for Part 3. If Player B lost Part 1, return their removed supporting characters to their deck for Part 3. Part 3: The Aftermath. Player A Wins: I will shred this universe down to its last atom. Player B Wins: We did this all day, and longer." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Captain America">
+      <property name="Card Number" value="CV5-025" />
+      <property name="Type" value="Boss Battle" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="When a location appears on your side, if it's [ENERGY] Vibranium Shield: Choose up to four face-up enemy characters an put four, three, two, and one -1/-1 counters on them, respectively. [INTELLECT] Language! Reveal the top card of your deck. Draw it and then draw another for each word in its title. [MIGHT] I Can Do This All Day: Heal a wound from Captain America. [SKILL]: Assemble! Search your deck for an [MCU Heroes],[Anti-Registration], or [Avengers] supporting character, reveal it, and put it into your hand. Put three +1/+1 counters on cap. [WILD]: Choose one of the effects above; or once per game, for the rest of the game, team attackers on your side can't be struck." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Hulk">
+      <property name="Card Number" value="CV5-026" />
+      <property name="Type" value="Boss Battle" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="When a location appears on your side, if it's [ENERGY] Gamma Radiation: Put a -1/-1 counter on each enemy character. Hulk can't be stunned this turn. [INTELLECT] Puny Banner: Draw three cards. [MIGHT] Smash! KO an enemy supporting character. then put +1/+1 counters equal to its ATK on Hulk. [SKILL]: I'm Always Angry: Hulk gains Berserker for the rest of the game. (When he attacks, put a +1/+1 counter on him) [WILD]: Choose one of the effects above; or once per game, heal two wounds from Hulk." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Iron Man">
+      <property name="Card Number" value="CV5-027" />
+      <property name="Type" value="Boss Battle" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="When a location appears on your side, if it's [ENERGY] Arc Reaction: When Iron Man gainst one or more +1/+1 counters this turn, he strikes an enemy supporting character. [INTELLECT] Billionaire: Draw two cards and gain two recruit points. [MIGHT] Repulsor Tech; Put two -1/-1 counters on each enemy front row character. Then push it to its back row. [SKILL]: Impressive Intuitiveness: Search your deck for an equipment and play it for free ignoring team restrictions, or reveal it and put it into your hand. [WILD]: Choose one of the effects above, then you may put a basic location from your hand onto your side."
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Thor">
+      <property name="Card Number" value="CV5-028" />
+      <property name="Type" value="Boss Battle" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="When a location appears on your side, if it's [ENERGY] Asgardian Prince: Reveal the top six cards of your deck. Put a Frigga, Heimdall, Hela, or Odin from among them onto your side. Put the rest on the bottom of your deck. then put two -1/-1 counters on an enemy character. [INTELLECT] You Call It Science.: Same reveal effect but for Darcy Lewis, Erik Selvig, or Jane Foster. Draw two cards. [MIGHT] Sif and the Warriors Three: Same reveal effect, but for Sif, Fandrall, Hogun, or Volstagg. Then put two +1/+1 counters on Thor. [SKILL] Get Help!: Same reveal effect but for Loki Then exhaust Loki. [WILD]: Same reveal effect, but for any one of the above named characters."
+      <property name="Health" value="" />
+  </card>
+</cards>
+</set>
