@@ -960,7 +960,9 @@ A: His power will still trigger and stun the defender even though Cable himself 
 
 ^(Source: UDE FAQ)
 
-# [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
+# Captain America
+
+## [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
 ^CardNumber: ^MNB-001, ^MNB-002
 
 *Set: The Marvel Battles*
@@ -978,6 +980,24 @@ Q: If Cap team attacks with one other character, but in the middle of combat the
 A: No. Once the other character gets stunned mid-combat, it stops being a team attack and becomes a solo attack so Cap won’t get the XP. For Cap to get the XP it must be a team attack at the end of the combat.
 
 ^(Source: UDE FAQ)
+
+## Captain America (SC - Crossover Vol. 5)
+^CardNumber: ^CV5-018
+
+*Set: Crossover Vol. 5*  
+
+"To Cap's left" includes all characters in that row to the player's left of Captain America, not just the one to his immediate left. Whenever an effect moves a character to a row, the controller of that effect chooses where in that row to put the character.
+
+^(Source: Rule insert)
+
+## Captain America (Boss Battle)
+^CardNumber: ^CV5-025
+
+*Set: Crossover Vol. 5*  
+
+Captain America's **Language!** effect counts an acronym as one word for each of its letters.
+
+^(Source: Rule insert)
 
 # [Captain Marvel](http://vs.tcgbrowser.com/images/cards/big/MCU5-027.jpg) (SC - MCU Heroes)
 ^CardNumber: ^MCU5-027
@@ -2477,6 +2497,15 @@ Franklin is one of the most powerful beings in the multiverse. So powerful he ha
 
 ^(Source: Rule insert)
 
+# Frigga
+^CardNumber: ^CV5-012
+
+*Set: Crossover Vol. 5*  
+
+With **I See With More Than Eyes**, after you see an enemy player's hand, you can choose a different player (including yourself) to discard their hand and redraw.
+
+^(Source: Rule insert)
+
 # Frightful!
 ^CardNumber: ^FFO-021
 
@@ -3059,7 +3088,18 @@ You start the game with a private out-of-the-game Echo pile. It must consist of 
 
 
 # Hulk
-## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC - Photo)
+## Hulk (MC - Crossover Vol. 5)
+^CardNumber: ^CV5-003, ^CV5-004
+
+*Set: Crossover Vol. 5*  
+
+**We Need Your Help** also counts characters with **AKA** for the chosen name. 
+
+With **It's Like I Was Made For This**, if you have two or more characters that share a name, you choose which one to put on your side. (You can also put none of them onto your side if you wish.)
+
+^(Source: Rule insert)
+
+## [Hulk](http://vs.tcgbrowser.com/images/cards/big/mcu1-004.jpg) (MC - MCU Battles)
 ^CardNumber: ^MCU1-004
 
 *Set: The MCU Battles*  
@@ -3100,6 +3140,15 @@ Hulk’s **Puny Weapons Can’t Hurt Hulk** power means that Lethal wounds (and 
 ---
 
 [This card has received errata](https://www.reddit.com/r/VS2PCG/wiki/rulings#wiki_hulk_.28new_defenders_set.29).
+
+## Hulk (Boss Battle)
+^CardNumber: ^CV5-026
+
+*Set: Crossover Vol. 5*  
+
+Hulk's **I'm Always Angry** lets you stack instanced of **Berserker**. So if Hulk has three instances of **Berserker**, he will get three +1/+1 counters when he attacks.
+
+^(Source: Rule insert)
 
 # Hulkling
 ^CardNumber: ^SEC-014
@@ -3328,7 +3377,20 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 
 ^(Source: Rule insert)
 
-# [Ironman](http://vs.tcgbrowser.com/images/cards/big/mnb-005.jpg) (MC)
+# Iron Man
+
+## Iron Man (MC - Crossover Vol. 5)
+^CardNumber: ^CV5-005, ^CV5-006
+
+*Set: Crossover Vol. 5*  
+
+When Iron Man uses **Earth is Closed Today** the enemy character's ATK is reduced to 0 at that moment, but other effects could later increase that character's ATK during the combat.
+
+To use **I...Am...Iron Man** count the total remaining health of all enemy characters. Then Iron Man may pay exactly that many power symbols (of any types). This will remove all of those characters from the game and also KO Iron Man. **Note:** If this ends the game (because no main characters are left), the Iron Man player will win the game because it's their turn.
+
+^(Source: Rule insert)
+
+## [Iron man](http://vs.tcgbrowser.com/images/cards/big/mnb-005.jpg) (MC - Illustrated)
 ^CardNumber: ^MNB-005, ^MNB-006
 
 *Set: The Marvel Battles*
@@ -3338,6 +3400,15 @@ Q: For his **Armor Mk 3** power, can Iron Man be the one who powered-up?
 A: Yes. It can be Iron Man or another character on your side.
 
 ^(Source: UDE FAQ)
+
+## Iron Man (SC - Crossover Vol. 5)
+^CardNumber: ^CV5-017
+
+*Set: Crossover Vol. 5*  
+
+With **I Figured Out Time Travel**, choose 1, 2, or 3. Then each player chooses that many of their own resources (they can look at their face-downs first) and shuffles them into their owners decks.
+
+^(Source: Rule insert)
 
 # [Iron Monger](http://vs.tcgbrowser.com/images/cards/big/mcu1-034.jpg) (MC)
 ^CardNumber: ^MCU1-034, ^MCU1-035
@@ -3370,6 +3441,15 @@ The equipped character starts the bidding. (They can bid 0.) Then the next playe
 **Note:** A character can't bid a number they can't pay. once you choose a character as a bidder, you can't choose a different character to be your bidder in the same **Battle of Wills**.
 
 ^(Source: Rule Insert)
+
+# I Went For The Head
+^CardNumber: ^CV5-023
+
+*Set: Crossover Vol. 5*  
+
+When the enemy character gets struck in combat, if that wasn't enough ATK to stun it, **I Went for the Head** will cause it to get stunned anyway. And if getting stunned doesn't cause it to get KO'd normally, **I Went for the Head** will cause it to get KO'd anyway. And then **I Went for the Head** will remove that character from the game.
+
+^(Source: Rule insert)
 
 # [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg)
 ^CardNumber: ^CV3-011
@@ -7451,13 +7531,31 @@ So in the example, your opponent moves two of the three immediately. And if some
 
 ^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/827213315972530227)
 
+# Thor
+## Thor (MC - Crossover Vol. 5)
+^CardNumber: ^CV5-007, ^CV5-008
 
-# [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC)
+*Set: Crossover Vol. 5*  
+
+If **You Take the Little One** causes Thor to stun and then KO an enemy character, this will trigger **Let's Kill Him Properly This Time**.
+
+^(Source: Rule insert)
+
+## [Thor](http://vs.tcgbrowser.com/images/cards/big/mcu1-009.jpg) (MC - MCU Battles)
 ^CardNumber: ^MCU1-009, ^MCU1-010
 
 *Set: The MCU Battles*  
 
 Thor’s **Journey of Self Discovery** Level Up power requires him to make three separate attacks in the order printed on his card to gain an XP. These attacks don’t have to be in a row. For example, he could make a solo attack, then a team attack with one teammate, then another solo attack, and finally when he team attacks with exactly two other characters he’ll gain an XP.
+
+^(Source: Rule insert)
+
+## Thor (Boss Battle)
+^CardNumber: ^CV5-028
+
+*Set: Crossover Vol. 5*  
+
+Thor's [WILD] effect reveals the top six cards of your deck and then you can put any one of the characters amed on the card onto your side. (But there is no additional effect unlike the other Boss abilities.)
 
 ^(Source: Rule insert)
 
