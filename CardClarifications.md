@@ -1634,6 +1634,13 @@ Since Death doesn't turn face down, she can be stunned multiple times in a singl
 
 ^(Source: Rule insert)
 
+---
+NOTE: 
+
+She starts with her card that has infinite health. (Her other card has 8 health. Also known as sideways infinity. The infinite health side represents that she can never really be killed. But as her other side has 8 health, if she ever has 8 or more wounds on either side, KO her.) 
+
+^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2019/07/vs-system-2pcg-card-errata-and-rules-changes-july-2019/)
+
 # [Death Trap](http://vs.tcgbrowser.com/images/cards/big/PRD-053.jpg) 
 ^CardNumber: ^PRD-053
 
