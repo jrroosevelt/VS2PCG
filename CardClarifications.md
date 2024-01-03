@@ -281,6 +281,15 @@ This name can include the words "Captain America". That would then allow The Gre
 
 ^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1070511275873927219)
 
+---
+
+Q: Q: What if I use Alter Ego to rename a character to, "Black Widow, Hawkeye, Hulk, Iron Man, and Thor". Can that satisfy the condition for abilities like MCU Captain America's **Assemble the Team**?
+
+A: Though you could use this name, it doesn't satisfy the condition for multiple characters. There must still be individual characters with each of those names. 
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1192179945670181017)
+
+
 # [Angel](http://vs.tcgbrowser.com/images/cards/big/RES-001.jpg) (MC)
 ^CardNumber: ^RES-001, ^RES-002
 
@@ -962,7 +971,7 @@ A: His power will still trigger and stun the defender even though Cable himself 
 
 # Captain America
 
-## [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC)
+## [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC - The Marvel Battles)
 ^CardNumber: ^MNB-001, ^MNB-002
 
 *Set: The Marvel Battles*
@@ -980,6 +989,17 @@ Q: If Cap team attacks with one other character, but in the middle of combat the
 A: No. Once the other character gets stunned mid-combat, it stops being a team attack and becomes a solo attack so Cap won’t get the XP. For Cap to get the XP it must be a team attack at the end of the combat.
 
 ^(Source: UDE FAQ)
+
+## [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-001.jpg) (MC - MCU Battles)
+^CardNumber: ^MCU1-001, ^MCU1-002
+
+*Set: The Marvel Battles*
+
+Q: What if I use Alter Ego to rename a character to, "Black Widow, Hawkeye, Hulk, Iron Man, and Thor". Can that satisfy the condition for **Assemble the Team**.
+
+A: No. (Editor's note: Come on. Seriously?)
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1192179945670181017)
 
 ## Captain America (SC - Crossover Vol. 5)
 ^CardNumber: ^CV5-018
