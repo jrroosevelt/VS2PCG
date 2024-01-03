@@ -5959,6 +5959,14 @@ Pyro’s **Fire Manipulation** power lets him create a supporting character crea
 
 ^(Source: Rule insert)
 
+---
+
+Q: Can I use **Fire Manipulation** to pull an MC from the deck and turn it into Fire Man (Such as a Zombie Master)?
+
+A: No - **Fire Manipulation** can be used only for Supporting Characters.
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1192187306161995947)
+
 # Queen Maeve (Main Character)
 ^CardNumber: ^BOY-033, ^BOY-034
 
