@@ -7150,8 +7150,8 @@ Once Starlight uses **Electricity Goes In**, starting on her next turn she can u
 ^(Source: Rule insert)
 
 
-# Star Lord
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
+# Star-Lord
+## [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-007.jpg) (MC)
 ^CardNumber: ^MCU1-007, ^MCU1-008
 
 *Set: The MCU Battles*  
@@ -7161,17 +7161,8 @@ Star-Lord (Main Character) Star-Lord’s Level Up power lets you start a Dance O
 
 ^(Source: Rule insert)
 
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
-^CardNumber: ^MCU1-019
-
-*Set: The MCU Battles*  
-
-Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
-
-^(Source: Rule insert)
-
-## [Star Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (SC - Illustrated)
-^CardNumber: ^MNB-056
+## [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/mnb-056.jpg) (MC - Illustrated)
+^CardNumber: ^MNB-055, ^MNB-066
 
 *Set: Marvel Battles*
 
@@ -7179,7 +7170,22 @@ Q: Does **Space Cop** affect Level Up powers? How about ![](%%Flight%%)and ![](%
 
 A: Yes to all the above.
 
+---
+
+Q: Can **Space Cop** turn off The Hunger Virus and potentially allow for a second instance of it to be applied?
+
+A: Yes! For the full answer, see [The Hunger Virus Glossary Entry](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_the_hunger_virus).
+
 ^(Source: UDE FAQ)
+
+## [Star-Lord](http://vs.tcgbrowser.com/images/cards/big/mcu1-019.jpg) (SC - Photo)
+^CardNumber: ^MCU1-019
+
+*Set: The MCU Battles*  
+
+Star-Lord’s **Half Celestial** power prevents him from being KO’d as long as you have a face-up main character on your side. However, if Star-Lord has fatal wounds and your main character gets turned face down, Star-Lord will immediately become KO’d.
+
+^(Source: Rule insert)
 
 # \* [Star Lord](http://vs.tcgbrowser.com/images/cards/big/GAL-006.jpg) \*
 ^CardNumber: ^GAL-006

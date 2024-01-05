@@ -464,6 +464,50 @@ This CAN cause a main character to gain **The Hunger Virus**.
 
 You may want to use a slip of paper or some other marker to keep track of who has **The Hunger Virus**.
 
+---
+
+Q: Can the Hunger Virus be turned off? The rule insert makes a reference to it lasting for the rest of the game. If so, could a character potentially get multiple instances of The Hunger Virus (THV for short) if I turned it off with Star-Lord MC's **Space Cop** power, for example?
+
+A:
+The short answer is that in the **Space Cop** scenario described the character would end up with two **THV** instances. 
+
+Also, it doesn't matter if the character affected by **Space Cop** has **THV** because it's printed on its card or because it gained **THV** from someone else who "infected" them
+ 
+Let's look at both cases to be thorough: 
+
+**Case 1: A character has THV printed on their card.** 
+
+Let's say Player A uses **Space Cop** and Player B has Zombie Thor (who has **THV** printed on their card). 
+
+ - **Space Cop** turns off **THV** from Zombie Thor for the turn. 
+ - A character "infects" Zombie Thor with **THV**. (This works because when the modifier checks to see if Zombie Thor already has **THV** it sees that he does not have **THV**.)
+ - When **Space Cop**'s modifier wears off, Zombie Thor now has two instances of **THV**. (Which means it can potentially take two wounds at the end of its turns.)
+
+**Case 2: A character has THV because they got "infected" by another character that has it.**
+
+This case works exactly the same way, but it might be worth digging into the details. 
+
+When the first part of **THV** triggers and resolves it creates a continuous modifier on the newly-infected character. That continuous modifier gives the newly infected character the power, **THV**, with a duration that lasts the rest of the game.
+
+It's important to note that the newly infected character now has two separate things going on: 
+
+1. A continuous modifier (generated from the first character) that is giving it **THV**. 
+2. **THV** power itself.
+
+**Space Cop** causes the character to lose powers (#2 above), but does not take away any modifiers that are affecting the character from other places. In other words, it will turn off #2 but leave #1 as is. So while **Space Cop**'s modifier is happening, the character still has the continuous modifier that is granting it **THV**, but it does not actually have **THV**. And then when **Space Cop**'s modifier wears off, since the modifier granting it **THV** is still there the character will have **THV** again.
+
+And if it gained another instance of **THV** from a character during that **Space Cop** window, it will now have two instances of **THV**.
+
+Another way to look at it is that whether a character has **THV** power because it's printed on their card or because it's from a continuous modifier only matters in two situations: 
+
+1. If the character would leave play and then come back into play. (This effectively removes all modifiers from the card.)
+
+2. If a modifier specifically refers to "printed powers" then it would affect a character who has **THV** printed on their card and ignore characters who got **THV** from a modifier. (This usually comes up in cases where a character is copying powers from other characters. In these cases it usually only copies printed powers.) 
+
+Note that **Space Cop** does not differentiate between printed powers and non-printed powers. 
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1192622013475459203)
+
 # Hunter  
 This character gets +3 ATK while attacking.  
 
