@@ -3102,6 +3102,12 @@ A: While she is in play, she has all the powers of each face-up X-Men supporting
 
 ^(Source: UDE FAQ)
 
+---
+
+Hope's power received Errata. She copies only printed powers.
+
+^(Source: Upperdeck Blog)[https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/]
+
 ## [Hope Summers (Omega)](http://vs.tcgbrowser.com/images/cards/big/OGA-006.jpg)
 ^CardNumber: ^OGA-006
 
@@ -5907,6 +5913,15 @@ To make a secret **Prediction** write down the name of any character, whether a 
 
 ^(Source: Rule insert)
 
+# Prowler (Spider-Friends Supporting Character)
+^CardNumber: ^SPF-015
+
+*Set: Spider-Friends*  
+
+Prowler's power received Errata. He copies only printed powers.
+
+^(Source: Upperdeck Blog)[https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/]
+
 # [Punisher](http://vs.tcgbrowser.com/images/cards/big/def-018.jpg)
 ^CardNumber: ^DEF-018
 
@@ -7315,6 +7330,12 @@ Super-Skrull's **First Faker** Level Up power looks at every player's side (not 
 The powers he gains from his **Cosmic Energy Power Receptors** have no duration, so he keeps them until he leaves play. They also look at every player's side (not just yours). Note that if he copies **Stroke of Genius** from Mister Fantastic, he will only be able to **Invent** if you already have an Invention pile for your deck.
 
 ^(Source: Rule insert)
+
+---
+
+Super Skrull's power received Errata. He copies only printed powers.
+
+^(Source: Upperdeck Blog)[https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/]
 
 # [Supreme Leader](http://vs.tcgbrowser.com/images/cards/big/SVH-008.jpg)
 ^CardNumber: ^SVH-007, ^SVH-008
