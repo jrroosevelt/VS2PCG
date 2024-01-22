@@ -623,10 +623,10 @@ The following is a list of formats that haven't been officially released by Uppe
 ## Modern Format (community-sourced multiverse)
 The community has come up with a multiverse variant that attempts to fix some of the non-fun cards and interactions. For information on previous iterations of this format, refer to [https://www.reddit.com/r/VS2PCG/wiki/modern_format_archive](https://www.reddit.com/r/VS2PCG/wiki/modern_format_archive)
 
-### Iteration 3
-*Effective December 2022 - ?*
+### Iteration 4
+*Effective January 2024 - ?*
 
-For detailed explanation, see this post: [https://www.facebook.com/groups/860168987351982/posts/5696882197013946/](https://www.facebook.com/groups/860168987351982/posts/5696882197013946/)
+For detailed explanation, see this post: [https://www.facebook.com/groups/860168987351982/posts/7018949004807252/](https://www.facebook.com/groups/860168987351982/posts/7018949004807252/)
 
 ### Banned cards
 The following cards are not allowed to be played in the current community multiverse. New additions as of this iteration are denoted in **Bold**.
@@ -634,29 +634,39 @@ The following cards are not allowed to be played in the current community multiv
 #### Main Characters
 - Adam Warlock
 - Dark Phoenix
-- **The First Evil**
-- **Invisible Woman**
+- The First Evil
+- **Galactus (FFO-001)**
+- Invisible Woman (Fantastic)
 - Kate Pryde
+- **\*Loki\*** (MCU)
 - Mayor Wilkins
+- **Molecule Man**
+- **Mr. Fantastic (Fantastic/Pro-Reg)**
 - Outriders
 - Rogue (Resistance)
-- **Venom (Spider Friends/Symbiotes)**
-
+- Venom (Spider Friends/Symbiotes)
 
 #### Supporting characters
 - Black Widow (Illustrated Champions)
 - Dark Phoenix
 - Langly
 - Maximus
-- **Monarch**
-- **Senator Kelly**
-- **Sentinel (Alpha Combat Unit with Genius - CV4-009)**
+- Monarch
+- **"Quicksilver" (WDV-014)**
+- Senator Kelly
+- Sentinel (Alpha Combat Unit with Genius - CV4-009)
+
+#### Locations
+- Time Variance Authority
 
 #### Plot Twists
 - Out of Time
 
 #### Equipment
-- Machine (Invention)
+- N/A
+
+#### Tokens/Side Piles
+- **Ladder Match (Challenge Match) - (AEW-059)**
 
 ### Reinstated cards
 The following cards were banned in the most recent previous iteration of Modern format, but have been reinstated:
@@ -671,7 +681,7 @@ The following cards were banned in the most recent previous iteration of Modern 
 - N/A
 
 #### Equipment
-- N/A
+- **Machine (Invention)**
 
 
 

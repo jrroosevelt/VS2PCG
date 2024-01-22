@@ -1,6 +1,56 @@
 # Modern format archive
 This page has a log of the previous iterations of the Modern format for posterity: 
 
+### Iteration 3
+*Effective December 2022 - January 2024*
+
+For detailed explanation, see this post: [https://www.facebook.com/groups/860168987351982/posts/5696882197013946/](https://www.facebook.com/groups/860168987351982/posts/5696882197013946/)
+
+### Banned cards
+The following cards are not allowed to be played in the current community multiverse. New additions as of this iteration are denoted in **Bold**.
+
+#### Main Characters
+- Adam Warlock
+- Dark Phoenix
+- **The First Evil**
+- **Invisible Woman**
+- Kate Pryde
+- Mayor Wilkins
+- Outriders
+- Rogue (Resistance)
+- **Venom (Spider Friends/Symbiotes)**
+
+
+#### Supporting characters
+- Black Widow (Illustrated Champions)
+- Dark Phoenix
+- Langly
+- Maximus
+- **Monarch**
+- **Senator Kelly**
+- **Sentinel (Alpha Combat Unit with Genius - CV4-009)**
+
+#### Plot Twists
+- Out of Time
+
+#### Equipment
+- Machine (Invention)
+
+### Reinstated cards
+The following cards were banned in the most recent previous iteration of Modern format, but have been reinstated:
+
+#### Main Characters
+- N/A
+
+#### Supporting characters
+- N/A
+
+#### Plot Twists
+- N/A
+
+#### Equipment
+- N/A
+
 ### Iteration 2
 *Effective October 2021 - December 2022*
 
