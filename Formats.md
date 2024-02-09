@@ -113,6 +113,38 @@ The official list is located in a Google doc called "Destroyed Incursion Card Li
 
 Any official UDE events will use the active featured format detailed below.  Take a look at the linked "relevant sets" to see the contents of the sets.  The Base set is still a recommended purchase since Basic Locations are not included in the small 55 card monthly sets and Wild Locations only appear in the set where the team was introduced.  Generic cards are allowed in all formats since the restrictions are by team.  This includes Kobik SC and Spider-Friends set's Black Cat SC as well as all the "MARVEL" affiliated cards that are in the format's universe.
 
+### The Enemy of my (Zombie) Enemy
+
+**Season:** Winter 2024
+
+**Dates:** January 1st, 2024 through March 31st, 2024
+
+**Rules:**
+
+**Select one of the following pairs of teams:**
+
+ - Avengers and Masters of Evil
+ - Defenders and Underworld 
+ - Fantastic Four and Frightful 
+ - Spider-Friends and Sinister Six 
+ - Spider-Friends and Symbiotes 
+ - X-Men and Brotherhood 
+
+ - All pairs may additionally contain Zombies 
+ 
+
+ - Your deck must follow these rules:
+   - Your main character(s) must have the team affiliation(s) of at least one of your chosen teams or must be *Black Panther* from the Marvel Zombies set (he has no team).
+     - It’s okay if your main character has a second team affiliation outside your chosen pair.
+   - Each supporting character, plot twist, equipment, and location in your deck must have the team affiliation(s) of at least one of your chosen teams, or must have the Zombies  team.
+     - It’s okay if they have a second team affiliation outside your chosen pair.
+   - All cards in Piles must have the team affiliation(s) of at least one of your chosen teams or must have the Zombies team.
+     - Terrains and Battleworlds may be included regardless of team.
+   - Your deck may include Zombie Master main characters.
+   - Your deck may include Zombie Wasp (they do not have a team) and/or Power Amplifier from the Zombies set .
+   - Your deck may include basic locations.
+   - Your deck may include any “wild” Special Locations that that share a team affiliation with your Main Character or a Supporting Character in your deck.
+
 ### Second Chance (version 2)
 
 **Season:** Fall/Winter 2023

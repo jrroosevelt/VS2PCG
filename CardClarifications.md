@@ -1672,7 +1672,7 @@ While this card is face down in your Resource Row, you can play it as if it was 
 
 # The Deep
 ## The Deep (MC)
-^CardNumber: ^BOY-023, ^BOY-038
+^CardNumber: ^BOY-037, ^BOY-038
 
 *Set: The Boys*   
 

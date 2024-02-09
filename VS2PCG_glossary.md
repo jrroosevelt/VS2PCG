@@ -464,6 +464,8 @@ This CAN cause a main character to gain **The Hunger Virus**.
 
 You may want to use a slip of paper or some other marker to keep track of who has **The Hunger Virus**.
 
+If a character with the **The Hunger Virus** fails to wound an opposing character in melee combat on its turn, it gains a wound at the end of its turn.
+
 ---
 
 Q: Can the Hunger Virus be turned off? The rule insert makes a reference to it lasting for the rest of the game. If so, could a character potentially get multiple instances of The Hunger Virus (THV for short) if I turned it off with Star-Lord MC's **Space Cop** power, for example?
