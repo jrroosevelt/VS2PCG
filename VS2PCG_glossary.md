@@ -592,6 +592,16 @@ A: A character in a team attack still gets credit for being in the team attack e
 
 ^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/870453889453928499)
 
+--- 
+
+Q: If my character with Lethal is in a mutual-stun scenario with a multi-health character, does that defending character still get KO'd or just stunned? I ask because the Lethal character would be face-down when the wound is applied, so is Lethal turned off at that point because it isn't a Trigger power?
+
+A: This one is a tricky one. Short answer is that Lethal is still applied in this scenario and the character would be KO'd. It's true that this breaks the rule below. However, Lethal was originally a triggered power and this interaction was kept as an exception.
+
+> In order for a trigger to occur, the power must be active and in play when the triggering event occurs. An exception to this is triggers based on getting stunned, getting KO’d, or leaving play. In those cases, the game will look at the game state right before the event that caused the stun, leave play, or KO to see if anything would trigger.
+
+^Source: [^UDE ^Message](https://www.facebook.com/groups/860168987351982/posts/1772070052828533/?__cft__[0]=AZUd_eXlpCf0qxOJpa5geQyrP2qJwU1FlH5W68wjdVj7hb9GlLMrR40e0QMoZh5VydEln6kGc5TJ0VdejzTr4GxGjWcFIzQd3muQTEHnizBj9KuE1V8jhLnLKv1I7uZzCf6eNe5UBa10rD6Onj-UZvNfE0hmIdbcfX1_ajDdkV1lwThHOfLy3Fnec1ktmGkfitk&__tn__=%2CO%2CP-R)
+
 # Locations
 You may use a Location (by turning it face down in your resource row or discarding it from your hand) to pay for a Super Power. But you may not use the same Location card to pay for multiple Super Powers. Each Super Power must be paid for separately.
 
