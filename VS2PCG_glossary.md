@@ -200,6 +200,45 @@ A: "Cost reduction effects" like The Machine, Agent Peggy Carter, Silver Sable, 
 # Comet Fall  
  When this character appears, put a -1/-1 counter on each enemy character.  
 
+# Continuous Modifiers
+See the compiled rules for a full explanation of modifiers and continuous modifiers.
+
+---
+
+Q: How can I tell if a power impacts only characters currently in play, or those plus any characters that follow for the duration of the power?
+
+A: Some powers are Continuous and are constantly active until the source leaves or the power is deactivated somehow. Those powers apply to all characters in play regardless of when they come into play (for the duration of the power). For example, Moonstone (Femme Fatale) has a **Gravity Stone** power that says, "Enemy characters lose and can't gain [Flight]." This power is continuous as long as Moonstone is in play and affects all enemy characters regardless of when they come into play.
+
+Some continuous modifiers are the result of resolving effects. These powers are subject to the following conditions.
+
+If a continuous modifier affects a *quality* on cards in play, it only affects the cards in play at the moment the modifier was created. (See examples of qualities below.) 
+
+If a continuous modifier does not affect a *quality* on cards in play, then it is affecting the rules of the game. In this case, it will affect cards that enter play after the modifier was created.
+
+## Qualities
+
+Cards in play can have the following qualities: Name, Type, Subtype, Team affiliation, Cost, ATK, DEF, Health, and powers. (These are all generally things found printed on the card.) Statuses like protecting or protected are also qualities. 
+
+Examples of modifiers that affect qualities: 
+
+  - Characters on your side get +2/+0 this turn.
+  - Characters lose and can't gain powers this turn.
+  - Characters on your side gain FLIGHT this turn.
+  - Choose a character. It does not protect characters this turn.
+ 
+Examples of modifiers that affect the rules of the game: 
+
+  - Choose a character. It can't attack this turn.
+  - While characters on your side are team attacking this turn, they can't be struck.
+  - Enemy characters can't be healed this turn.
+  - When a character attacks this turn, draw a card.
+
+For example, Mesmero MC's **Hypnotism** grants a power (**Lumbering**) to characters. This is affecting a *quality* on those cards, so it only affects the characters in play at the moment **Hypnotism** is used. If another character enters play after **Hypnotism** is used, it will not be affected.
+
+On the other side, the **Scared Stiff** power on X-23 (X-Force SC)  is not affecting a quality on characters. It is affecting the rules of the game (Enemy characters can't use super powers until your next turn). Therefore it will affect characters who enter play even after **Scared Stiff** was used. 
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1214293802139910184)
+
 # Counters
 There are various effects that result in adding a counter to your character. A counter is a marker that represents some sort of modification to your card. The most common type of counters are +1/+1 and -1/-1 counters, but there are a few other types. For more information, see the specific types below:
 * [+1/+1 and -1/-1 Counters](https://www.reddit.com/r/vs2pcg/wiki/glossary#wiki_.2B1.2F.2B1_and_-1.2F-1_.28counters.29)

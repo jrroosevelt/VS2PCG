@@ -8221,7 +8221,9 @@ If he is moved to a different side (such as via Serpent Crown) his hand and reso
 
 ^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/961979606515216404)
 
-# [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
+# X-23
+
+## [X-23](http://vs.tcgbrowser.com/images/cards/big/NEW-006.jpg) (MC)
 ^CardNumber: ^NEW-006
 
 *Set: New Mutants*  
@@ -8229,6 +8231,20 @@ If he is moved to a different side (such as via Serpent Crown) his hand and reso
 X-23 is one of the toughest mutants around. So tough in fact that she only has a Level 1 main character. She can’t level up and she doesn’t care.
 
 ^(Source: Rule insert)
+
+## X-23 (SC - X-Force)
+
+^CardNumber: ^XFC-012
+
+*Set: X-Force*  
+
+Q: Does X-23's **Scared Stiff** superpower apply only to enemy characters in play at the time it is activated, or also all enemy characters that appear afterward (until the end of my next turn)?
+
+A: Short answer - it applies to all enemy characters for the duration of the power (until the end of your next turn)
+
+Long answer - See the [glossary entry about Continuous Modifiers](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_continuous_modifiers).
+
+^Source: [^UDE ^Ruling](https://discord.com/channels/488058478015807499/490215795503398912/1214293802139910184)
 
 # [Xander](http://vs.tcgbrowser.com/images/cards/big/TBB-015.jpg) (SC) 
 ^CardNumber: ^TBB-015
