@@ -421,6 +421,14 @@ When Arnim Zola enters **A New Robot Body**, your new Equipment-turned-Main Char
 
 ^(Source: Rule insert)
 
+---
+
+Q: If I have Arnim Zola as my MC and use the Defenders Valkyrie SC's *Chooser of the Slain* power, can I recruit equipment from my KO pile as supporting characters?
+
+A: Yes. As long as you recruit them as Suporting Characters, Arnim Zola's power works for Equipment in the KO pile as well.
+
+^Source: [^Discord ^Post](https://discord.com/channels/488058478015807499/490215795503398912/1219461996706271282)
+
 ## [Arnim Zola](http://vs.tcgbrowser.com/images/cards/big/MCU4-017.jpg) (SC-MCU Villains)
 ^CardNumber: ^MCU4-017
 
