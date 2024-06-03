@@ -649,6 +649,15 @@ Black Cat has often wavered between being a hero and a villain. In the game she 
 
 ^(Source: Rule insert)
 
+## Black Cat (SC - Defenders/Underworld)
+^CardNumber: ^DHK-064
+
+*Set: Defenders of Hell's Kitchen*  
+
+**Not Your Lucky Day** works like this. When an enemy player would draw any number of cards (including their ususal two during their Draw Phase), you may first pay an ![](%%Intellect%%) (Intellect). If you do, they reveal the cards that they drew and then you can choose to have them shuffle them back into their deck. If ou do, they then draw the same number of cards minus 1.
+
+^(Source: Rule insert)
+
 # [Blackheart](http://vs.tcgbrowser.com/images/cards/big/def-048.jpg)
 ^CardNumber: ^DEF-048
 
@@ -1758,6 +1767,14 @@ A: No. Per the rules for [Stun](https://www.reddit.com/r/VS2PCG/wiki/glossary#wi
 
 So at the point it is dazed, it is removed from the combat and Devil-Slayer isn't able to "follow-through" with the attack.
 
+# Diamondback
+^CardNumber: ^DHK-042
+
+*Set: Defenders of Hell's Kitchen*  
+
+**Throwing Knives** causes Diamondback to strike each front row enemy character separately using her full ATK against each one.
+
+^(Source: Rule insert)
 
 # [Dimitri](http://vs.tcgbrowser.com/images/cards/big/MCU7-011.jpg)
 ^CardNumber: ^MCU7-011
@@ -2119,7 +2136,8 @@ Electro introduces a new concept: remaining health. Remaining health is a charac
 
 ^(Source: Rule insert)
 
-# [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC)
+# Elektra
+## [Elektra](http://vs.tcgbrowser.com/images/cards/big/LEG-068.jpg) (MC - Femme Fatales)
 ^CardNumber: ^LEG-068, ^LEG-069
 
 *Set: Legacy*  
@@ -2140,6 +2158,15 @@ Q: If I activate Kingpin's **Underworld Boss** while Elektra is in my hand, what
 A: She is demoted to a Supporting character no matter what zone she is in. From the rules: "Some effects may promote a Supporting Character to Main Character and vice versa. Unlike most modifiers, these modifiers can apply to a Main Character in any zone (or side) and continue to apply to the character even if it changes zones."
 
 ^(Source: FB Post - Chad Daniel)
+
+## Elektra (MC - Unerworld)
+^CardNumber: ^DHK-036, ^DHK-037
+
+*Set: Defenders of Hell's Kitchen*  
+
+**Twin Sais** causes Elektra to instantly strike the defender twice at the same time in the middle of combat. To do this, duble Elektra's ATK and if it's greater than or equal to the defender's DEF the defender gets stunned. If **Twin Sais** doesn't stun the defender, Elektra will stil also strike normally when the combat resolves. This strike is treated separately from teh **Twin Sais** strikes, so it will be compared on its own to the defender's DEF as normal.
+
+^(Source: Rule insert)
 
 # Emma Frost
 ## [Emma Frost](http://vs.tcgbrowser.com/images/cards/big/TUB-005.jpg) (MC) 
@@ -2239,6 +2266,19 @@ Q: Hello, a question about the Perfect Organism and Even The Odds. If I use the 
 A: This **Thing is Huge! It's... It's Big!** does not actually modify the ATK. It is modifying how hard it strikes during combat resolution. Normally when you strike, you strike an equal amount to your ATK. This power (and the Daredevil one) changes the rules of the game so that you are striking with double that amount, or triple with Amplify.
 
 ^(Source - FB Post - Chad Daniel)
+
+# Evidence
+^CardNumber: ^DHK-031
+
+*Set: Defenders of Hell's Kitchen*  
+
+Since Evidence appears exhausted, you must wait a turn (and have it still be in play) for it to ready. 
+
+If you move an enemy supporting character to your side and hide it, it will remain there "imprisoned" for the rest of the game unless an effect causes it to leave play.
+
+The "imprisoned" supporting character CAN get stunned. In this case wound it and exhaust it (like any other stunned character). However, during your Recovery Phase it will remain stunned since it's not allowed to turn face up. 
+
+^(Source: Rule insert)
 
 # [Evil Deadpool](http://vs.tcgbrowser.com/images/cards/big/MFM-005.jpg)
 ^CardNumber: ^MFM-005, ^MFM-006
@@ -3409,10 +3449,19 @@ A: In order to "strike" you must have at least 1 attack, so no, Iron Fist does n
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+## Iron Fist (MC/SC - Defenders of Hell's Kitchen)
+^CardNumber: ^DHK-003, ^DHK-004, ^DHK-014
+
+*Set: Defenders of Hell's Kitchen*  
+
+For Chi counters, you can use anything (we suggest using extra XP counters). **Note:** Iron Fist's Power says that these Chi counters won't get removed when he gets stunned or hides.
+
+^(Source: Rule insert)
+
 # [Ironheart](http://vs.tcgbrowser.com/images/cards/big/CV1-014.jpg)
 ^CardNumber: ^CV1-014
 
-*Set: Crossover*  
+*Set: Crossover*
 
 **We’re All Weirdos Here** lets your Supporting Characters Team Attack even if they don’t share a team affiliation and even if they’re in different rows. If there’s at least one melee attacker and at least one ranged attacker in the same attack, then the attack itself is both a melee and a ranged attack. Note: Each character must still legally be able to attack the defender.
 
@@ -4456,6 +4505,17 @@ When Mainframe uses **Primary Operating System** it applies only to characters t
 
 ^(Source: Rule insert)
 
+# Make a Plan
+^CardNumber: ^DHK-029
+
+*Set: Defenders of Hell's Kitchen*  
+
+This Plot Twist avoids enemy effects that say your character can't strike AND effects on an enemy character that say it can't *be struck*. For example, Hammerhead's **Head First** says he can't be struck while melee attacking. But if Make a Plan were played on teh defender, it would be able to strike him.
+
+**Note:** Make a Plan does not allow a character without ![](%%Range%%) (Range) to strike against a ranged attacker.
+
+^(Source: Rule insert)
+
 # The Maker
 ## The Maker (MC)
 ^CardNumber: ^FFO-010, ^FFO-011
@@ -5009,12 +5069,43 @@ See [Devil Dinosaur](#wiki_devil_dinosaur).
 
 ^(Source: Rule insert)
 
+# Moon Knight
+## Moon Knight (Main Character)
+^CardNumber: ^DHK-009, ^DHK-010, ^DHK-011, ^DHK-012
+
+*Set: Defenders of Hell's Kitchen*  
+
+When you make a Moon Knight Deck you also must bring a Personality out-of-game pile. This pile is **Public** (any player can look at it) and **Fixed** (it always includes the three main characters with **Alternate Personality:** Jake Lockley, Mr. Knight, and Steven Grant). 
+
+When one of these main characters uses his super power, he **transforms** into one of his other personalitites: Randomly select one of the three characters in your Personality pile and switch it with the character that is currently in play. The new card goes in to the same place as the old card was (same row, next to the sameother characters) and with the same orientation (ready/exhausetd; face up/face down). **Note:** This does NOT count as the new card "appearing."
+
+Put any counters or equipment that were on the old card onto the new card. If any modifiers (such as **Freeze**) were affecting the old card, they are now affecting the new card.
+
+Put the old card into your Personality pile. It can now be randomly selected when the new card needs to transform.
+
+**Note:** The new card CAN use its super power the same turn it was transformed into. This will cause it to transform again. However, if for example Steven randomly transforms into Jake, and then Jake randomly transforms back into Steven, Steven won't be able to use his own super power a second time on the same turn.
+
+**Pact With Khonshu** takes effect at the start of the game and will last the whole game, even if Moon Knight  
+
+^(Source: Rule insert)
+
+## Moon Knight (SC)
+^CardNumber: ^DHK-020, ^DHK-021, ^DHK-022, ^DHK-023
+
+*Set: Defenders of Hell's Kitchen*  
+
+Moon Knight, Jake Lockley, Steven Grant, and Mr. Knight all have **Integrated Personalities**. While one of them is in combat, any time you could take an action (such as playing a Plot Twist, using a super power, or powering up a character), you can transform him into a different card with **Integrated Personalities** in your hand. This follows the same transform rules explained above.
+
+**Note: Integrated Personalities** says it can't be used more than once each combat. In other words, you can't switch (for example) Moon Knight with Jake Lockley and then switch Jake with someone else all in the same combat. (You can use **Integrated Personalities** again in a later combat though.)
+
+^(Source: Rule insert)
+
 # [Moonstone](http://vs.tcgbrowser.com/images/cards/big/aff-039.jpg)
 ^CardNumber: ^AFF-039
 
 *Set: A-Force*
 
-Q: Hi all, if Moonstone gets KO’d, do the characters in play get ![](%%Flight%%)back?
+Q: Hi all, if Moonstone gets KO’d, do the characters in play get ![](%%Flight%%) back?
 
 A: Yes.
 
@@ -5519,6 +5610,15 @@ In this Arc, we are playing around with how players can use locations besides su
 * These cards are neutral, so just like any other neutral cards they can be in Loyalty decks.  
 * The Special Locations don't count as locations power symbol (for powers like Black Widow Main Character's Level Up power **Red in Her Ledger** or Zzutak's **Paint to Life**).
 * 
+^(Source: Rule insert)
+
+# Nuke
+^CardNumber: ^DHK-046
+
+*Set: Defenders of Hell's Kitchen*  
+
+**Adrenaline Pills** will not ready Nuke if he gets stunned during the combat.
+
 ^(Source: Rule insert)
 
 # [The Nullifier](http://vs.tcgbrowser.com/images/cards/big/SVH-057.jpg)
@@ -6369,6 +6469,15 @@ A: Yes he gains an XP for every turn he is face up; both yours and your opponent
 
 This Plot Twist lets a character pay any power symbol. You can generate a power symbol in the usual ways -- by turning a Location that makes a power symbol face down, or by discarding a Location that makes a power symbol.
 
+^(Source: Rule insert)
+
+# Samson Buchanan
+^CardNumber: ^COL-012
+
+*Set: Children of Lilith*
+
+If Samson stuns an Evil defending supporting character in ranged combat, if that gives the defender fatal damage, it will get KO'd normally, and then **Improved Exorcist Gun** will remove it from the game.
+ 
 ^(Source: Rule insert)
 
 # Sandman
@@ -7917,6 +8026,15 @@ A: The ways you mentioned do not "remove -1/-1" they add +1/+1 counters to a cha
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+# Victoria Montesi
+^CardNumber: ^COL-014
+
+*Set: Children of Lilith*
+
+The Montesi Formula is an ![](%%Energy%%) (Energy) **Spell** plot twist found in the Into the Darkness Issue. Normally it can only be played if you have a **Spellcaster** and the Darkhold on your side. However, Victoria Montesi allows you to ignore BOTH of those restrictions. However, she must still pay an ![](%%Energy%%) (Energy) to cast the Montesi Formula
+ 
+^(Source: Rule insert)
+
 # [Viper](http://vs.tcgbrowser.com/images/cards/big/aff-044.jpg)
 ^CardNumber: ^AFF-044
 
@@ -8013,6 +8131,15 @@ Opponents must KO Wanda and any \*Vision\* Main Character on your side to defeat
 *Set: Maximum Carnage*  
 
 Yes, this Plot Twist can be used to heal a wound from a Main Character!
+
+^(Source: Rule insert)
+
+# White Tiger
+^CardNumber: ^DHK-017
+
+*Set: Defenders of Hell's Kitchen*  
+
+**Amulets of Power** prevents White Tiger from gaining -1/-1 counters or having her +1/+1 counters removed. However, once she gets turned face down her +1/+1 counters will be removed normally.
 
 ^(Source: Rule insert)
 

@@ -1022,7 +1022,10 @@ If you choose a Spider-Verse character to be your starting main character, you m
 
 During your Build Phase, if this character is in your hand, you may put it onto your side.  This doesn't count as recruiting the character.  
   
-These characters **do** count toward your total of 60 cards in your deck. You don’t have to include any Spider-Verse main characters in your deck, but you can include up to four.  As a reminder, if you have multiple main characters, they must all be KO'd for you to lose the game.  
+These characters **do** count toward your total of 60 cards in your deck. You don’t have to include any Spider-Verse main characters in your deck, but you can include up to four.  As a reminder, if you have multiple main characters, they must all be KO'd for you to lose the game.
+
+# Starting Main Character Required
+Some cards have **Starting Main Character Required** for a specific team. This means you can only include the cardin your deck if a Main Character you start the game with has the listed team.
 
 # Start of Game
 Some cards or abilities refer to "At the start of the game..." Some of those cards include qualifiers like "...before players draw their opening hands." However, if the card doesn't include such a qualifier, the game starts after the game set up has been completed. 
@@ -1074,6 +1077,13 @@ Any player can look at any stunned character at any time.
 
 # Super Power
 A power on a character that they use by turning a Location face down or discarding a Location from your hand.
+
+# Super Strength
+While in melee combat, if an effect would put any number of +1/+1 counters on the character, put twice that many on them instead. And if an effect would increase their ATK and/or DEF double that increase as well. For example, if a Plot Twist would give a normal character +3/+0 it would give them +6/+0 instead.
+
+**Note:** If a character with **Super Strength** has -1/-1 counters and you need to add +1/+1 counters to them, add the (doubled) counters first, then remove one of each type until only one tpe remains.
+
+If a character somehow gets multiple instances of **Super Strength**, the counters and ATK/DEF increases it gets will be doubled and then doubled again and so on. So if it somehow has three instances of **Super Strength** and then an effect puts a +1/+1 counter on it, it would end up with eight +1/+1 counters (1x2x2x2).
 
 # Survives  
 A character is considered to have survived if it made it through combat resolution without getting stunned. This includes Ferocious combat resolution and normal combat resolution. Anything that is looking to trigger on Stun/KO and surviving would check at both resolutions. If a trigger is looking back to find out who survived, the character must have survived in both Ferocious combat and normal combat. It does not count if a combat is cancelled early due to an effect or missing attacker/defender. Combat must resolve normally in order for a character to “survive.”  
