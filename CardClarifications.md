@@ -2159,12 +2159,12 @@ A: She is demoted to a Supporting character no matter what zone she is in. From 
 
 ^(Source: FB Post - Chad Daniel)
 
-## Elektra (MC - Unerworld)
+## Elektra (MC - Underworld)
 ^CardNumber: ^DHK-036, ^DHK-037
 
 *Set: Defenders of Hell's Kitchen*  
 
-**Twin Sais** causes Elektra to instantly strike the defender twice at the same time in the middle of combat. To do this, duble Elektra's ATK and if it's greater than or equal to the defender's DEF the defender gets stunned. If **Twin Sais** doesn't stun the defender, Elektra will stil also strike normally when the combat resolves. This strike is treated separately from teh **Twin Sais** strikes, so it will be compared on its own to the defender's DEF as normal.
+**Twin Sais** causes Elektra to instantly strike the defender twice at the same time in the middle of combat. To do this, double Elektra's ATK and if it's greater than or equal to the defender's DEF the defender gets stunned. If **Twin Sais** doesn't stun the defender, Elektra will stil also strike normally when the combat resolves. This strike is treated separately from the **Twin Sais** strikes, so it will be compared on its own to the defender's DEF as normal.
 
 ^(Source: Rule insert)
 
