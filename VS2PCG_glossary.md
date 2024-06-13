@@ -732,6 +732,24 @@ For Example: [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-015
 # Melee Combat
 A combat that involves front row attackers.
 
+---
+
+Q: "Is the type of attack (melee vs. ranged) "locked in" at combat declaration?"
+
+A: The type of attack is not locked in. 
+
+Q: "For example, if I make a Ranged attack, then use the new "Disrupt the Plan" card to move my attacker to the front row, does that switch to a Melee attack?"
+
+A: Yes. 
+
+Q: "(Similar for the inverse scenario of starting in Melee and then moving to back row.)"
+
+It would become a ranged attack. It is possible to have a character without the Range keyword end up as a ranged attacker this way.
+
+For an even weirder scenario, you could start with two characters who are melee team attacking. If you use Disrupt the Plan to move one of them to your back row, the attack would now be a melee attack and a ranged attack. (The same way Ironheart can let you make a melee and ranged attack at the same time.)
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1249867618492485765)
+
 # Mercenary
 This character can team attack with any Main Character.
 
@@ -837,6 +855,8 @@ This character can make Ranged attacks from the back row and can strike back whe
   
 # Ranged Combat
 A combat that involves back row attackers that have ![](%%Range%%) (Range). In a ranged attack, the defender can't strike back unless it has ![](%%Range%%) (Range).
+
+See also: [Melee Combat](https://www.reddit.com/r/VS2PCG/wiki/glossary/#wiki_melee_combat)
 
 # Ready/Exhausted
 A face-up character is either Ready (upright) or Exhausted (sideways). Only ready characters can attack. If an effect readies a character that is already ready, or exhausts a character that is already exhausted, just ignore that part of the effect (but do the rest of it).
