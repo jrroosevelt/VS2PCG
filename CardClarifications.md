@@ -350,7 +350,7 @@ When Annihilus levels up, you'll shuffle his Level 1 card into your deck. While 
 
 ^(Source: Rule Insert)
 
-# [Anti-Venom](http://vs.tcgbrowser.com/images/cards/big/LET-016.jpg)
+# [Anti-Venom](http://vs.tcgbrowser.com/images/cards/big/LET-014.jpg)
 ^CardNumber: ^LET-014
 
 This character should also read : “**AKA Venom**”

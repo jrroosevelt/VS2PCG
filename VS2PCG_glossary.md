@@ -87,6 +87,9 @@ Some cards (like Zzutak) can’t appear normally, and some cards (like The Soul 
 
 ^Source: [^UDE ^Blog](https://www.upperdeckblog.com/2019/07/vs-system-2pcg-card-errata-and-rules-changes-july-2019/) 
 
+# Assassin
+When this character stuns a defending character, put two +1/+1 counters on this character.
+
 # ATK/DEF
 The numbers on characters above the lightning and shield symbols. During combat you compare your character's ATK (attack) to its enemy's DEF (defense) to see if you stun it.
 
@@ -96,9 +99,7 @@ Name a character and choose a number.  Put all supporting characters with that n
 # Base ATK and DEF
 Some effects refer to a character's Base ATK and DEF. This means a character's stats before any effects or counters modify them. A character's Base ATK and DEF are usually the same as their printed ATK and DEF. The only difference is that some effects might temporarily change a character's Base stats.
   
-
 # Battle of Wills
-
 This term currently only exists on Iso-Sphere, an equipment card in Crossover Vol 3
 
 A Battle of Wills requires characters to bid how many power symbols they’ll pay to take (or keep) control of the Iso-Sphere. It works like this: The equipped character starts the bidding. (They can bid 0.) Then the next player either chooses a face-up character on their side to bid a higher number or passes. If they pass, they’re out of the Battle of Wills. Then the next player goes, and so on until all but one player passes. Then that player’s character pays the winning number of power symbols from their resource row (no discarding from hand) and the Iso-Sphere is moved to that character (if it’s not already there). Note: A character can’t bid a number they can’t pay. Once you choose a character as a bidder, you can’t choose a different character to be your bidder in the same Battle of Wills.
@@ -729,6 +730,11 @@ Cards sharing a mantle are considered to have different names, and if an effect 
   
 For Example: [Captain America](http://vs.tcgbrowser.com/images/cards/big/mnb-015.jpg) and [\*Captain America\*](http://vs.tcgbrowser.com/images/cards/big/SVH-043.jpg) share a mantle.  Both can be on the field at the same time but cannot power each other up because their names are different.  Also because their names are considered to be different, [Jack Flag](http://vs.tcgbrowser.com/images/cards/big/GAL-009.jpg) cannot team attack with \*Captain America\* because his text only refers to Captain America (without the stars).  
 
+# Massive
+This character attacks rows instead of individual characters. It strikes with its full ATK against each defender in the row, and those characters strike back with their combined ATK.
+
+See also [Fin Fang Foom](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_fin_fang_foom).
+
 # Melee Combat
 A combat that involves front row attackers.
 
@@ -1202,6 +1208,9 @@ A vitality counter is essentially the opposite of a wound counter. It gives a ch
 **Example:** A character has 2 vitality counters. It gets stunned and gains a wound. You’ll now remove one vitality counter and one wound counter. It now has 1 vitality counter left.
 
 ^(Source: Upper Deck Blog)
+
+# Warrior
+When this character stuns an enemy attacker, put two +1/+1 counters on this character.
 
 # Wealthy  
  At the start of your Build Phase, gain a recruit point.
