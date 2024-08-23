@@ -292,6 +292,9 @@ An effect that stuns a character without the character gaining a wound. It works
 #  Deconstruct the Universe
 [See the specific-card clarification page](/r/VS2PCG/wiki/rules-insert#wiki_dark_phoenix_.28sc.29) for details on this keyword that only exists on Dark Phoenix Supporting Character that reads: *"When you recruit Dark Phoenix, you may remove one of the following concepts from the game:"*  
   
+# "Demote" MC to SC
+[See entry for Promote](https://www.reddit.com/r/VS2PCG/about/wiki/glossary/#wiki_.22promote.22_sc_to_mc)
+
 # Dimensional Wristwatch  
 You may recruit this character from your deck. (Search your deck for them, shuffle, then recruit them.)  
   
@@ -735,6 +738,14 @@ This character attacks rows instead of individual characters. It strikes with it
 
 See also [Fin Fang Foom](https://www.reddit.com/r/VS2PCG/wiki/rules-insert/#wiki_fin_fang_foom).
 
+---
+
+Q: Can characters with **Massive** team attack (assuming nothing else prevents them from doing so)?
+
+A: Characters with **Massive** can team attack only with other teammates that also have **Massive**.
+
+^Source: [^UDE ^Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1276238069527216209)
+
 # Melee Combat
 A combat that involves front row attackers.
 
@@ -842,9 +853,27 @@ While this character is attacking an exhausted character, it can't strike back a
 # Power Up
 If you have a card in your hand with the same name as a Main or Supporpting Character on your side, you may discard it to Power Up that character. Put a +1/+1 counter on the Powered-Up character. You can Power Up a character either as a **Main** action or as an **Anytime Combat** action.  
   
-
 #  Prediction
 Prediction is a power currently on only Mad Thinker. See the [Mad Thinker section](/r/VS2PCG/wiki/rules-insert#wiki_mad_thinker) of the card-specific clarifications page for details.
+
+# "Promote" SC to MC
+Not an official keyword, but there are some modifiers may promote a Supporting Character to Main Character or demote a Main Character to
+a Supporting Character. Unlike most modifiers, these modifiers can apply to a Main Character in any zone (or side) and continue to apply to the character even if it changes zones. All other modifiers continue to affect the characters after the promotion/demotion per the normal rule and they retain all counters. Unless the effect says otherwise, a promoted Supporting Character becomes a Level 1 Main Character. When a Main Character is demoted to a Supporting Character, the following additional rules apply;
+
+ - If it is Level 1 and hasn’t Leveled Up yet, it remains a Level 1 when it becomes a Supporting Character. It does, however, retain all of the XP it has gained so far, and it will still Level Up as normal once you fulfill the Level Up condition (or Level Down). However, it does not return to being your Main Character again; it is still a Supporting Character even after it levels.
+
+ - If your original Main Character (now a Supporting Character) ever leaves play (it gets KO’d or returned to your hand, for example), it gets removed from the game. Removing a character from the game means you set it aside and it does not count as being in your KO pile, deck or anywhere else. 
+
+ - If a card effect (such as Yondu’s Yaka Arrow) needs to know how much your original Main Character costs, treat it as having a cost of zero.
+
+---
+
+Q: If I have a supporting character that was promoted to main character, and that character gets removed from game, does that character then revert back to being an SC? (With Out of Time for example.)
+
+A: When a supporting character gets promoted to become a main character, changing zones (including moving to the removed from game zone) do not take away that promotion. It's a special aspect of how promotion works. See Above.
+
+^(Source: [UD Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1276221097603240047))
+
 
 # Protect
 A face-up character in a player's front row "protects" face-up characters behind it.

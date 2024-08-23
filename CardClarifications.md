@@ -904,7 +904,23 @@ A: When you pay a cost, you have to pay the entire cost, and you can not play an
 
 See [The Wrecking Crew](#wiki_the_wrecking_crew)
 
-# [Bullseye](http://vs.tcgbrowser.com/images/cards/big/HAM-001.jpg) (MC)
+# Bullseye
+
+## Bullseye (SC-Defenders of Hell's Kitchen)
+^CardNumber: ^DHK-053
+
+**Set: Defenders of Hell's Kitchen*    
+
+Q: The new Bullseye supporting character says that when ranged attacking he, "...always strikes...". I assume the intent of this is to circumvent effects that say he "can't strike" or that a character "can't be struck," right?
+
+Just want to confirm, as there's a little debate about how this fits into the "can't beats can" golden rule. Does "always" beat "can't"? Or is there a different rule at play here (i.e. card rules trump overall rules)?
+
+A: "Bullseye always strikes" gets around effects that would preventing him from striking and effects that prevent other characters from being struck by him. 
+
+^(Source: [UD Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1276220905332277258))
+
+
+## [Bullseye](http://vs.tcgbrowser.com/images/cards/big/HAM-001.jpg) (MC-H.A.M.M.E.R.)
 ^CardNumber: ^HAM-001, ^HAM-002
 
 *Set: H.A.M.M.E.R.*  
@@ -5048,6 +5064,15 @@ Mole Man can **Tunnel** beneath enemy resources. If there are any enemy Location
 If he is beneath a Location and it gets turned face down (including by being used for a super power) or leaves play, put him into your back row. If he is beneath a face-down resource and it leaves play, put him into your back row.
 
 ^(Source: Rule insert)
+
+---
+
+Q: Does Mole Man lose counters when he Tunnels?
+
+A: No. This was an oversight in the initial rules. He keeps all counters.
+
+^(Source: [UD Clarification](https://discord.com/channels/488058478015807499/490215795503398912/1276235684633383003))
+
 
 # [Moloid](http://vs.tcgbrowser.com/images/cards/big/FAN-056.jpg)
 ^CardNumber: ^FAN-033, ^FAN-044

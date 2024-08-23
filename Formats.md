@@ -22,11 +22,9 @@ This means no neutral characters, equipment, plot twists, or locations (except b
 ### Incursion Format
 Incursion is a recurring official format in which certain cards are banned after each sanctioned Incursion event. These cards are banned only for the Incursion format. This ban list does not impact any other formats.
 
-For details, see the [Upper Deck Blog Post about this format](https://www.upperdeckblog.com/2023/06/vs-system-2pcg-featured-format-update-incursion/).
-
 The official list is located in a Google doc called "Destroyed Incursion Card List" on the side bar of the [Upper Deck Organized Play page](http://www.upperdeck.com/op/).  We try to keep it up to date as a quicker reference below as well.
 
-#### Incursion list banned as of 02/2024
+#### Incursion list banned as of 08/2024
 |**Card Title**               |**Card Type** |**Set**                         |**Card Numbers**                   |**Banned Event**      |
 |-----------------------------|-----------|-----------------------------------|-----------------------------------|----------------------|
 | Adam Warlock                | MC        | Galactic Guardians                | Gal-001/002/003                   | Gen Con 2023         |
@@ -43,11 +41,15 @@ The official list is located in a Google doc called "Destroyed Incursion Card Li
 | Dagger                      | MC        | Spider-Verse                      | VER-003/004                       | Ohio Regional 2023   |
 | Darkhold                    | Equipment | Wandavision                       | WDV-019                           | Midwinter 2023       |
 | Dark Phoenix                | SC        | Crossover Vol. 1                  | CV1-020                           | Gen Con 2023         |
+| Death                       | MC        | Black Order                       | BLK-001/002                       | Gen Con 2024         |
+| Destiny (name plot twist)   | SC        | The New Brotherhood               | NBX-012                           | Gen Con 2024         |
+| Destiny (name SC)           | SC        | The New Brotherhood               | NBX-013                           | Gen Con 2024         |
 | Destroyer                   | SC        | Future Foundation                 | FND-013                           | Midwinter 2024       |
 | Devil-Slayer                | SC        | New Defenders                     | DFX-009                           | Ohio Regional 2023   |
 | Doppelganger                | SC        | The Boys                          | BOY-045                           | Gen Con 2023         |
 | Dramatic Entrance           | Plot Twist| A-Force                           | AFF-050                           | Gen Con 2023         |
 | Dr. Doom                    | MC        | Fantastic Battles                 | FAN-031/032                       | Gen Con 2022         |
+| Echo                        | SC        | Defenders of Hell's Kitchen       | DHK-063                           | Gen Con 2024         |
 | Ego                         | SC        | MCU Villains                      | MCU3-019                          | Midwinter 2023       |
 | Fantastic Four              | Plot Twist| Herald                            | HER-019                           | Midwinter 2024       |
 | Find Cover                  | Plot Twist| Marvel Battles                    | MNB-108                           | Ohio Regional 2023   |
@@ -64,7 +66,7 @@ The official list is located in a Google doc called "Destroyed Incursion Card Li
 | Groot                       | SC        | MCU Space & Time                  | MCU-016                           | Ohio Regional 2023   |
 | H.E.R.B.I.E                 | SC        | Fantastic Battles                 | FAN-011                           | Ohio Regional 2023   |
 | He's a Friend from Work     | Plot Twist| MCU Battles                       | MCU1-062                          | Midwinter 2023       |
-| Iceman                      | SC        | Marvel Battles                    | MNB-035                           | Gen Con 2023         |
+| Hook                        | SC        | AEW                               | AEW-042                           | Gen Con 2024         |
 | I Need Your Help            | Plot Twist| X-Files Battles                   | XFB-017                           | Gen Con 2022         |
 | In Good Hands               | Plot Twist| Into the Darkness                 | DAR-021                           | Ohio Regional 2023   |
 | Invisible Woman             | MC        | Fantastic Battles                 | FAN-003/004                       | Ohio Regional 2023   |
@@ -72,6 +74,7 @@ The official list is located in a Google doc called "Destroyed Incursion Card Li
 | Jungle Hunter               | SC        | Predator Battles                  | PRD-015                           | Gen Con 2023         |
 | Kane                        | SC        | Alien Battles                     | ALN-011                           | Midwinter 2023       |
 | Kate Pryde / Kitty Pryde    | MC        | Futures Past                      | FUT-001/002                       | Gen Con 2022         |
+| Kingpin                     | MC        | Defenders / Legacy                | DEF-029/030, LEG -046/047         | Gen Con 2024         |
 | Lady Deathstrike            | SC        | Thunderbolts                      | THU-011                           | Midwinter 2024       |
 | Langly                      | SC        | X-Files Battles                   | XFB-008                           | Gen Con 2022         |
 | \*Lilith\*                  | SC        | Into the Darkness                 | DAR-010                           | Ohio Regional 2023   |
@@ -82,40 +85,54 @@ The official list is located in a Google doc called "Destroyed Incursion Card Li
 | Match                       | SC        | Utopia Battles                    | TUB-013                           | Ohio Regional 2023   |
 | Maximus                     | SC        | Crossover Vol. 1                  | CV1-018                           | Gen Con 2023         |
 | Might Makes Right           | Plot Twist| Black Order                       | BLK-016                           | Ohio Regional 2023   |
+| Mobius                      | SC        | Loki                              | LKI-011                           | Midwinter 2023       |
 | Monarch                     | SC        | Omegas                            | OGA-013                           | Gen Con 2023         |
 | Mr. Fantastic               | MC        | Fractured Family                  | FRF-007/008                       | Midwinter 2024       |
+| Multiple Man                | SC        | Secret Avengers                   | SEC-007                           | Gen Con 2024         |
 | Mutant Control Act          | Plot Twist| Futures Past                      | FUT-027                           | Gen Con 2023         |
+| Mysterio                    | SC        | Sinister Syndicate                | SYN-008                           | Gen Con 2024         |
 | Mystique                    | MC        | A-Force, Legacy                   | AFF-033/-034, LEG-066/067         | Gen Con 2023         |
+| Nakota                      | SC        | Children of Lilith                | COL-005                           | Gen Con 2024         |
 | Namor                       | SC        | Civil War Battles                 | CIV-050                           | Gen Con 2023         |
 | Nexus of All Realities      | Location  | Crossover Vol. 4                  | CV4-021                           | Gen Con 2023         |
 | Nightwatch                  | SC        | Spider-Verse                      | VER-017                           | Midwinter 2024       |
 | No Brains, No Problem       | Plot Twist| Marvel Zombies                    | ZOM-020                           | Midwinter 2024       |
 | Nullifier                   | Equipment | S.H.I.E.L.D. vs. Hydra            | SVH-057                           | Gen Con 2022         |
+| Nyla Rose                   | SC        | AEW                               | AEW-043                           | Gen Con 2024         |
 | Odin                        | MC        | MCU Space & Time                  | MCU6-003/004/005                  | Ohio Regional 2023   |
+| Our Name is Venom!          | Plot Twist| Lethal Protector                  | LET-018                           | Gen Con 2024         |
+| Out of Time                 | Plot Twist| Masters of Evil                   | MOE-020                           | Gen Con 2024         |
 | Outrider                    | MC        | MCU Space & Time                  | MCU6-006                          | Gen Con 2022         |
 | Prowler                     | SC        | Spider-Friends                    | SPF-015                           | Gen Con 2023         |
 | Prowler                     | SC        | Civil War Battles                 | CIV-037                           | Gen Con 2023         |
+| Queens                      | Location  | Webheads                          | WEB-028                           | Gen Con 2024         |
 | "Quicksilver"               | SC        | Wandavision                       | WDV-014                           | Ohio Regional 2023   |
 | Reality Gem                 | Equipment | Black Order                       | BLK-020                           | Ohio Regional 2023   |
 | Sage                        | SC        | House of X                        | HOX-050                           | Ohio Regional 2023   |
 | Senator Kelly               | SC        | Futures Past                      | FUT-025                           | Gen Con 2022         |
 | Sentinel (Alpha Combat)     | SC        | Futures Past, Crossover Vol. 4    | FUT-014 thru 021, CV4-008 thru 011| Gen Con 2022         |
 | Sentinel (Executive Type)   | SC        | Futures Past, Crossover Vol. 4    | FUT-022                           | Gen Con 2022         |
+| Shadowcat                   | SC        | Legacy                            | LEG-014                           | Gen Con 2024         |
+| Shiklah                     | SC        | Deadpool & Friends                | MFM-018                           | Gen Con 2024         |
 | Shock to the System         | Plot Twist| Defenders                         | DEF-054                           | Ohio Regional 2023   |
 | Sokovia Accords             | Plot Twist| MCU Battles                       | DEF-054                           | Ohio Regional 2023   |
 | Solo                        | SC        | Deadpool and Friends              | MFM-009                           | Midwinter 2023       |
 | Spider-Man (Pro-Reg)        | MC        | Civil War Battles                 | CIV-007/008                       | Midwinter 2023       |
+| Storm                       | SC        | Omegas                            | OGA-015                           | Gen Con 2024         |
 | Tempad                      | Equipment | Loki                              | LKI-020                           | Midwinter 2023       |
 | Thanos                      | SC        | MCU Villains                      | MCU3-020                          | Gen Con 2023         |
 | Thanos                      | SC        | Marvel Battles                    | MNB-100                           | Ohio Regional 2023   |
+| Tiger Shark                 | SC        | Masters of Evil                   | MOE-010                           | Gen Con 2024         |
 | Time Variance Authority     | Location  | Loki                              | LKI-025                           | Gen Con 2023         |
 | Tony Stark                  | SC        | Crossover Vol. 4                  | CV4-006                           | Midwinter 2024       |
 | Prowler                     | SC        | Civil War Battles                 | CIV-037                           | Gen Con 2023         |
 | The Soul Gem                | Equipment | Black Order                       | BLK-021                           | Gen Con 2023         |
 | Unus                        | SC        | New Brotherhood                   | NBX-017                           | Gen Con 2023         |
 | Valeria Richards            | SC        | Fantastic Battles                 | FAN-012                           | Midwinter 2024       |
+| Venom                       | MC        | Lethal Protector                  | LET-001/002                       | Gen Con 2024         |
 | Wakanda                     | Location  | Cosmic Avengers                   | COS-022                           | Midwinter 2023       |
 | Wasp                        | SC        | A-Force                           | AFF-009                           | Ohio Regional 2023   |
+| We Are Carnage!             | Plot Twist| Maximum Carnage                   | CAR-018                           | Gen Con 2024         |
 | Wolverine                   | SC        | X-Force                           | XFC-011                           | Ohio Regional 2023   |
 | Yondu                       | SC        | MCU Space & Time                  | MCU6-011                          | Ohio Regional 2023   |
 | You're the Last One         | Plot Twist| MCU Power and Reality             | MCU4-028                          | Ohio Regional 2023   |
