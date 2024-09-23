@@ -554,6 +554,22 @@ Q: Does “could melee attack” imply that Beetle has to be ready in order to u
 
 A: Yes. See [Omega Red](#wiki_omega_red) for a similar power and the rule insert clarification for him.
 
+# Better Safe Than Sorry
+^CardNumber: ^PNY-025
+
+*Set: Protectors of New York* 
+
+Convert means choose a number up to the character's ATK. The character then gets -ATK/+DEF equal to that number for the combat. 
+
+**Note:** If you use this effect on a character with **Super Strength**, the +DEF will be doubled. For example, converting 3 ATK into 3 DEF will give that character -3/+6.
+
+# Better Sorry Than Safe
+^CardNumber: ^PNY-053
+
+*Set: Protectors of New York* 
+
+This works just like *Better Safe Than Sorry* but you choose a number up to the character's DEF.
+
 
 # The Beyonder
 ^CardNumber: ^CV4-013
@@ -1142,7 +1158,22 @@ The actions you can normally take in kombat are: playing a plot twist, using a s
 ^(Source: Rule Insert)
 
 # Chameleon
-## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SFO-001.jpg) (MC)
+## Chameleon (MC - Protectors of NY)
+^CardNumber: ^PNY-029, ^PNY-030
+
+*Set: Protectors of New York*  
+
+When Chameleon removes a supporting character from teh game with **Devil in Disguise** he puts on a **Disguise** as that character. This means he has +6/+6, but he loses that **Disguise** when he gets stunned or when a character with the same name as is **Disguise** is ever in play.
+
+**Example:** Chameleon removes Daredevil from the game and now has a Daredevil Disguise on. He gets +6/+6. But if Daredevil is ever on any side, your enemies "see through" the **Disguise** and it goes away. 
+
+Chameleon can only have one **Disguise** at a time. But he can change **Disguises** by using **Devil in Disguise** again.
+
+**Note:** Being in a **Disguise** only gives Chameleon +6/+6. It doesn't change his name or anything else about him.
+
+^(Source: Rule insert)
+
+## [Chameleon](http://vs.tcgbrowser.com/images/cards/big/SFO-001.jpg) (MC - Spidey Foes)
 ^CardNumber: ^SFO-001
 
 *Set: Spidey-Foes*  
@@ -1828,6 +1859,15 @@ Doctor’s Faustus’s Super Power allows you to steal an enemy Supporting Chara
 
 **Self-Evolved Intellect**  
 Doctor Nemesis He only doubles the +ATK/+DEF from the Plot Twists (not the -ATK /-DEF). If the bonus from the Plot Twist is variable, like from the Plot Twist Nuhumans, calculate the variable first, then double it. Note: +1/+1 counters granted from a Plot Twist are unaffected by Dr. Nemesis.
+
+^(Source: Rule insert)
+
+# Doctor Octopus (MC - Protectors of New York)
+^CardNumber: ^PNY-031, ^PNY-032,
+
+*Set: Protectors of New York*  
+
+**Octo-gonize** will stun the chosen character even if it never had an opportunity to melee attack Doc Ock on that turn. For example, the character might be frozen or Doc Ock might have temporarily left play.
 
 ^(Source: Rule insert)
 
@@ -2911,6 +2951,23 @@ So, in the above example, Grandmaster would take a wound because it is not durin
 
 
 # Green Goblin
+## Green Goblin (MC - Protectors of New York)
+^CardNumber: ^PNY-033, ^PNY-034,
+
+*Set: Protectors of New York*  
+
+To drop six **Pumpkin Bombs**, place six -1/-1 counters onto a card held flat at least six inches above an enemy side. Then drop the counters onto that side. Each counter that lands on an enemy character is applied to that card. This includes whether it's on the -1/-1 side or the -3/-3 side.
+
+If a counter is touching more than one card, the Green Goblin player chooses which card to apply it to. Only counters that land on enemy characters count. (No friendly fire.)
+
+You must use official counters as **Pumpkin Bombs**.
+
+Note: A card is 3.5 inches tall so if you stack two vertically on top of each other that's above six inches.
+
+Before you drop **Pumpkin Bombs** you may request the enemy player to push each card in their front row together so that their edges are touching (but not overlapping), each card in their back row together so that their edges are touching, and then to put their back row cards directly behind their front row cards.
+
+^(Source: Rule insert)
+
 ## [Green Goblin](http://vs.tcgbrowser.com/images/cards/big/CV1-005.jpg) (MC - Sinister Six)
 ^CardNumber: ^CV1-005
 
@@ -6760,6 +6817,15 @@ A: It doesn't, those are "Keyword Powers", **Rules Lawyer** only reacts to "Supe
 
 ^(Source: FB Post)
 
+# Shocker (SC - Protectors of New York)
+^CardNumber: ^PNY-040
+
+*Set: Protectors of New York*  
+
+**Aftershocker** has **Any Combat** but no [Any Turn] symbol. This means you can use it on any combat whether Shocker is in it or not, but only on your turn.
+
+^(Source: Rule insert)
+
 # [Shuri](http://vs.tcgbrowser.com/images/cards/big/MCU5-014.jpg) (MC)
 ^CardNumber: ^MCU5-014, ^MCU5-015
 
@@ -7010,6 +7076,17 @@ A: Yes, most modifers do not track characters that leave play. The only ones tha
 
 ^(Source: FB Post - Chad Daniel - UDE Approved)
 
+# Sinister Syndicate
+^CardNumber: ^PNY-051
+
+*Set: Protectors of New York*  
+
+This Plot Twist lets one of your characters strike an enemy character before combat resolves. Compare your character's ATK to the enemy's DEF. If the ATK is greater than or equal to it, stun that character. (This Plot Twist does not let the enemy character strike your character.)
+
+When combat resolves, your character will also get to strike normally. (You do not add the ATK from the Plot Twist strike to its normal strike though.) Example: If your character gets team attacked, it could use the Plot Twist to strike one of the attackers and then strike the other attacker normally when combat resolves.
+
+^(Source: Rule insert)
+
 # Sister Grimm
 ## [Sister Grimm](http://vs.tcgbrowser.com/images/cards/big/aff-006.jpg) (MC)
 ^CardNumber: ^AFF-005, ^AFF-006
@@ -7148,6 +7225,17 @@ Spider-Gwen can be recruited while she’s in your deck. To do so, announce that
 ^(Source: Rule insert)
 
 # Spider-Man
+## Spider-Man (MC - Protectors of New York)
+^CardNumber: ^PNY-005, ^PNY-006
+
+*Set: Protectors of New York*  
+
+**Amazing** works the same way as the *Sinister Syndicate* plot twist. 
+
+**Editor's note:** See also Anti-Registration Spider-Man MC below.
+
+^(Source: Rule insert)
+
 ## Spider-Man (MC - Anti Registration)
 ^CardNumber: ^CIV-034, ^CIV-035
 
@@ -7233,6 +7321,20 @@ This Spider-Man, from the Ultimate Universe, is our first character to share a m
 
 ^(Source: Rule insert)
 
+# \*\*\*Spider-Man\*\*\* (MC - Protectors of New York)
+^CardNumber: ^PNY-003, ^PNY-004
+
+*Set: Protectors of New York*  
+
+Your Identity Pile includes one copy of any number of characters with "Spider-Man" in their name from the Illustrated Universe. The pile is **Public** (any player can look at it) and **Variable** (you choose which cards to include in it).
+
+**Cloning Around** only lets you choose a character in your Identity Pile you haven't already chosen this game. This includes when \*\*\*Spider-Man\*\*\* levels up. He still has the same **Cloning Around** power and it's still keeping track of which characters from your Identity Pile you've chosen.
+
+If somehow this power gets copied onto another character, it is still checking which characters you have already chosen this game. Example: if you choose a character in your Identity pile for \*\*\*Spider-Man\*\*\*, you won't be able to choose that character again for another character.
+
+^(Source: Rule insert)
+
+
 # [Spider-Man Noir](http://vs.tcgbrowser.com/images/cards/big/CV2-006.jpg)
 ^CardNumber: ^CV2-006
 
@@ -7254,6 +7356,17 @@ First, if you choose a **Spider-Verse** character to be your starting Main Chara
 Second, during your Build Phase, if a character with **Spider-Verse** is in your hand, you may put it onto your side. 
 
 Note: Spider-UK can be powered up by any character with "Spider" in their name, which includes Main Characters that are in your hand.
+
+^(Source: Rule insert)
+
+# Spider-Woman (MC - Protectors of New York)
+^CardNumber: ^PNY-007, ^PNY-008
+
+*Set: Protectors of New York*  
+
+If Spider-Woman gains ATK and DEF at the same time (for example by getting powered-up), she will gain 2 XP.
+
+**Venom Punch** lets you choose between putting a +1/+1 counter on her or giving her +2/+2 for the duration of the combat.
 
 ^(Source: Rule insert)
 
@@ -8268,7 +8381,8 @@ The Wizard Main Character is found in the Vs. System 2PCG: The Fantastic Battles
 
 ^(Source: [Official UDE Blog Post](https://www.upperdeckblog.com/2020/06/vs-system-2pcg-rules-changes-and-clarifications-june-2020/))
 
-# [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
+# Wolverine
+## [Wolverine](http://vs.tcgbrowser.com/images/cards/big/mnb-029.jpg) (MC)
 ^CardNumber: ^MNB-029, ^MNB-030, ^LEG-012, ^LEG-013
 
 *Set: The Marvel Battles*
@@ -8295,12 +8409,30 @@ A: There is a difference between a stunned Wolverine leveling up while stunned a
 
 ^(Source: FB Post - Chad Daniel)
 
+## Wolverine (SC - Spider-Friends)
+^CardNumber: ^PNY-020
+
+*Set: Protectors of New York*  
+
+Wolverine's **Friend, Foe, Feral** could potentially give him three instances of **Berserker**, which would give him three +1/+1 counters when he attacks
+
+^(Source: Rule insert)
+
 # [Wong](http://vs.tcgbrowser.com/images/cards/big/MCU4-014.jpg)
 ^CardNumber: ^MCU4-014
 
 *Set: Power & Reality*  
 
 **Guardian of These Books** will trigger when you use an ![](%%Intellect%%) (Intellect) Super Power, even if you don't actually spend an ![](%%Intellect%%) (Intellect). For example, Bruce Banner's **I Think I'm Getting The Hang of It!** is an ![](%%Intellect%%) (Intellect) and ![](%%Energy%%) (Energy) Super Power and will trigger **Guardian of These Books** even if Bruce spends an ![](%%Energy%%) (Energy) to use it (and even if he spends nothing because Iron Man is on your side!). 
+
+^(Source: Rule insert)
+
+# The Word on the Streets
+^CardNumber: ^PNY-057
+
+*Set: Protectors of New York*  
+
+This Plot Twist has four different team symbols which means you must have those four teams among face-up characters on your side. When you play it, you choose one of the four effects on the card.
 
 ^(Source: Rule insert)
 

@@ -1004,6 +1004,8 @@ A: Some Formats may have restrictions on what can be included in Out-of-Game pil
 
 ^Source: [^2021 ^Rule ^Update](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
   
+# Sinister
+When this character enters melee combat, put a -1/-1 counter on each enemy character in the combat.
 
 #  [Sinister Six](https://www.upperdeckblog.com/2018/07/vs-system-2pcg-sinister-syndicate-card-preview-sinister-sickness/)  
   
@@ -1066,10 +1068,13 @@ A: Yes and yes. **Spell** is a family of (currently) four keyword powers just li
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/VsSystem2PCG/posts/3988339104607257)
 
-
 # Spider-Gear  
  This Equipment can only be equipped to a character with “Spider” in its name.  
-  
+
+ # Spider-Sense  
+While a character with **Spider-Sense** is in combat, any time you could take an action (such as playing a plot twist or powering up) you can have that character use **Spider-Sense** to get +0/+3 for the combat.
+
+You can use **Spider-Sense** whether the character is attacking or defending, but you can only use it once per turn.
 
 #  [Spider-Verse](https://www.upperdeckblog.com/2019/12/vs-system-2pcg-crossover-vol-2-card-preview-into-the-multiverse/)  
   

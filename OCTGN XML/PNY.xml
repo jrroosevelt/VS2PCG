@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Protectors of New York" id="" 
+     gameId="d9d22574-b64d-4f4b-9726-092d35b778c9" gameVersion="1.3" version="1.3">
+<cards>
+  <card id="" name="*Spider-Man*">
+      <property name="Card Number" value="PNY-001" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Energy Threads. Main [Energy]: Move a supporting character on any side to another of its rows. If it's equipped, you may put its equipment into its owner's hand. Life Lesson. Level Up [1] - When a character on your side with &quot;Spider-Man&quot; in its name gets KO'd, *Spider-Man* gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="*Spider-Man*">
+      <property name="Card Number" value="PNY-002" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Energy Threads. Main [Energy]: Move a supporting character on any side to another of its rows. If it's equipped, you may put its equipment into its owner's hand. I Am Spider-Man. Build [Intellect]: Draw a card for each character on your side with &quot;Spider-Man&quot; in its name."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="***Spider-Man***">
+      <property name="Card Number" value="PNY-003" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Scarlet Spider. Who's Who? You start the game with an Identity pile. Cloning Around. At the start of your Build PHase, you may choose a character in your Identity pile you haven't chosen this game. ***Spider-Man*** gains that character's printed powers until the start of your next Build Phase. Class Clone. Level Up [3] - When you choose a character with Cloning Around this game, ***Spider-Man*** gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="***Spider-Man***">
+      <property name="Card Number" value="PNY-004" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Scarlet Spider. Cloning Around. At the start of your Build PHase, you may choose a character in your Identity pile you haven't chosen this game. ***Spider-Man*** gains that character's printed powers until the start of your next Build Phase."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Spider-Man">
+      <property name="Card Number" value="PNY-005" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Climb High. At the start of your Main Phase, you may exhaust a [Spider-Friends] special location on your side. If you do, put two +1/+1 counters on Spider-Man. The Best View in the City. Level Up [3] - When Spider-Man Climbs High, he gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Spider-Man">
+      <property name="Card Number" value="PNY-006" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Spider-Sense. Once per turn while Spider-Man is in combat, any time you could take an action, you may have him get +0/+3 this combat. The High Ground. Main [Skill]: Put a +1/+1 counter on each character Spider-Man is protecting and another +1/+1 counter on each of them for each [Spider-Friends] Special location on your side." />
+      <property name="Health" value="5" />
+  </card>  
+  <card id="" name="Spider-Woman">
+      <property name="Card Number" value="PNY-007" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Dodge. Spider-Woman can't be range attacked. Super Strength. Double all +1/+1 counters and ATK/DEF increases Spider-Woman would get in melee combat. Super Spider. Level Up [5] - When Spider-Woman gains any amount of ATK or gains any amount of DEF, she gains 1 XP." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Spider-Woman">
+      <property name="Card Number" value="PNY-008" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Dodge. Spider-Woman can't be range attacked. Super Strength. Double all +1/+1 counters and ATK/DEF increases Spider-Woman would get in melee combat. Venom Punch. [Any Turn] Combat [Might]: If this is a melee combat, put a +1/+1 counter on Spider-Woman or she gets +2/+2 this combat." />
+      <property name="Health" value="6" />
+  </card>  
+  <card id="" name="Silk">
+      <property name="Card Number" value="PNY-009" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Silkth-Sense. Reaction [Energy]: When an enemy player plays a plot twist, cancel it." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Spider-Girl">
+      <property name="Card Number" value="PNY-010" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Spider-Sense. Once per turn while Spider-Girl is in combat, any time you could take an action, you may have her get +0/+3 this combat." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Black Widow">
+      <property name="Card Number" value="PNY-011" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Go to Sleep. [Any Turn] Any Combat [Might]: If this is a melee combat, daze an enemy character in the combat." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Madame Web">
+      <property name="Card Number" value="PNY-012" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="2" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Project Thoughts. Main [Intellect]: Put a +1/+1 counter on each character on your side with &quot;Spider&quot; in its name." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Hawkeye">
+      <property name="Card Number" value="PNY-013" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="43" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Snap Shot. Main [Skill]: Hawkeye gains Sniper and Quick Draw this turn. (He can ranged attack protected characters, and while he is ranged attacking he can't be struck.)" />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Spider-Woman">
+      <property name="Card Number" value="PNY-014" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Super Strength. Double all +1/+1 counters and ATK/DEF increases Spider-Woman would get in melee combat. Spider-Sense. Once per turn while Spider-Woman is in combat, any time you could take an action, you may have her get +0/+3 this combat." />
+      <property name="Health" value="2" />
+  </card>  
+  <card id="" name="***Spider-Man***">
+      <property name="Card Number" value="PNY-015" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Scarlet Spider. Dodge. ***Spider-Man*** can't be ranged attacked. Websling. Main [Skill]. Move a back row enemy character to its front row." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Daredevil">
+      <property name="Card Number" value="PNY-016" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Dodge. Daredevil can't be ranged attacked. First Team-Up. While Daredevil is team attacking, he has Combat Master. When Daredevil team attacks with Spider-Man, put two +1/+1 counters on each of them." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Silver Sable">
+      <property name="Card Number" value="PNY-017" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Hiring for the Wild Pack. You pay 2 less to recruit characters, to a minimum of 1." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Iron Man">
+      <property name="Card Number" value="PNY-018" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Spider-Mentor. Main [Intellect]: Put two +1/+1 counters on your main character. If it's Spider-Man, put another two +1/+1 counters on him." />
+      <property name="Health" value="1" />
+  </card>  
+  <card id="" name="Spider-Man">
+      <property name="Card Number" value="PNY-019" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Super Strength. Double all +1/+1 counters and ATK/DEF increases Spider-Man would get in melee combat. Amazing. [Any Turn] Combat [Might]: Spider-Man strikes an enemy supporting character in the combat." />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Wolverine">
+      <property name="Card Number" value="PNY-020" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="7" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Friend, Foe, Feral. Wolverine has Berserker while Spider-Man is on your side. Wolverine has Berserker while Spider-Man is on an enemy side. Wolverine has Berserker while he's wounded. Ferocious. While in Melee combat, Wolverine strikes before characters without Ferocious." />
+      <property name="Health" value="3" />
+  </card>
+  <card id="" name="Spider-Gwen">
+      <property name="Card Number" value="PNY-021" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="8" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="AKA Ghost-Spider. At the start of your Main Phase, you may exhaust a [Spider-Friends] special location on your side. If you do, put two +1/+1 counters on Spider-Gwen. Extradimensional Spider-Sense. When Spider-Gwen gets attacked, you may remove her from the game with her counters. If you do, put her onto your side at the start of your next turn. " />
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="*Spider-Man*">
+      <property name="Card Number" value="PNY-022" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="10" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Leap. *Spider-Man* has [Flight] on your turn. Energy Threads. Main [Energy]: Move a supporting character on any side to another of its rows. If it's equipped, you may put its equipment into its owner's hand. " />
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Spider-Friends">
+      <property name="Card Number" value="PNY-023" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Any Turn] Combat: Choose a [Spider-Friends] character in the combat. It can't be struck this combat." />
+      <property name="Health" value="" />
+  </card>  
+  <card id="" name="Stay Alert">
+      <property name="Card Number" value="PNY-024" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Any Turn] Combat: Choose a character on your side in the combat with DEF higher than its ATK. Put a +1/+1 counter on it and draw a card." />
+      <property name="Health" value="" />
+  </card>  
+  <card id="" name="Better Safe Than Sorry">
+      <property name="Card Number" value="PNY-025" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Any Turn] Combat: Choose a character on your side in the combat. Convert any amount of its ATK into DEF this combat." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Spider-Tracer">
+      <property name="Card Number" value="PNY-026" />
+      <property name="Type" value="Equipment" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="One of a Kind. You man only have one of this card in your deck. Track 'Em Down. Equip only to an unequipped enemy character. Characters on your side can attack that character, even while it's protected." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Spider-Home">
+      <property name="Card Number" value="PNY-027" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Spider-Friends] Starting Main Character Required. One of a Kind. Regular Haunts. At the start of your turn, you may turn this location face down. If you do, turn up to two of your other face-down locations face-up." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Daily Bugle">
+      <property name="Card Number" value="PNY-028" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good" />	
+      <property name="Teams" value="Spider-Friends" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Energy] or [Intellect] or [Might] or [Skill] for a [Spider-Friends] character." />
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Chameleon">
+      <property name="Card Number" value="PNY-029" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Knockout Darts. Main [Skill]: KO a wounded enemy supporting character. Weighing the Options. Level Up [5] - When Chameleon KO's an enemy supporting character, he gains 1 XP for each printed power it has."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Chameleon">
+      <property name="Card Number" value="PNY-030" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Knockout Darts. Main [Skill]: KO a wounded enemy supporting character. Devil in Disguise. Main [Intellect]: Remove a supporting character in an enemy KO pile from the game. Chameleon puts on that Disguise. He has +6/+6 while he has a Disguise. (He loses his Disguise when he gets stunned or when a character with the same name is on any side.)"/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Doctor Octopus">
+      <property name="Card Number" value="PNY-031" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Octogonize. Main [Intellect]: If Doc Ock is in the front row, choose an enemy character. A the end of its next turn, stun that character if it didn't melee attack Doc Ock that turn. Super Strength. Double all +1/+1 counters and ATK/DEF increases Doc Ock would get in melee combat. Leading From the Front. Level Up [4] - When Doc Ock enters a melee combat while in the front row, he gains 1 XP."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Doctor Octopus">
+      <property name="Card Number" value="PNY-032" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Octogonize. Main [Intellect]: If Doc Ock is in the front row, choose an enemy character. A the end of its next turn, stun that character if it didn't melee attack Doc Ock that turn. Octo-Grab [Any Turn] Combat [Might]: Choose an enemy character in the combat to randomly get -1/-0 to -8/-0 this combat. Super Strength. Double all +1/+1 counters and ATK/DEF increases Doc Ock would get in melee combat."/>
+      <property name="Health" value="5" />
+  </card>
+  <card id="" name="Green Goblin">
+      <property name="Card Number" value="PNY-033" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Razor Bats. Main [Might]: This turn, Green Goblin has [Range], and while he's ranged attacking the defender can't gain DEF. Spider-Fiend. Level Up [5] - When an enemy character gets stunned, Goblin gains 1 XP. If it is [Spider-Friends] he gains an additional 1 XP."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Green Goblin">
+      <property name="Card Number" value="PNY-034" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Razor Bats. Main [Might]: This turn, Green Goblin has [Range], and while he's ranged attacking the defender can't gain DEF. Pumpkin Bombardment. Main [Energy]: Drop six Pumpkin Bombs onto an enemy side."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Kraven the Hunter">
+      <property name="Card Number" value="PNY-035" />
+      <property name="Type" value="L1 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Quick Quaff. At the start of your turn, remove a +1/_1 counter from Kraven. Jungle Potion. Main [Energy]: Put three +1/+1 counters on Kraven. Top of the Food Chain. Level Up [3] - At the end of your turn, if Kraven has a higher ATK than each enemy character, he gains 1 XP." />
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Kraven the Hunter">
+      <property name="Card Number" value="PNY-036" />
+      <property name="Type" value="L2 Main Character" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="6" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Quick Quaff. At the start of your turn, remove a +1/_1 counter from Kraven. Jungle Potion. Main [Energy]: Put three +1/+1 counters on Kraven. Sharpening Skills. Main [Skill]: Choose one Kraven doesn't have and he gains it for the rest of the game. Dodge, Ferocious, Genius, Hunter, Leap, Lethal."/>
+      <property name="Health" value="6" />
+  </card>
+  <card id="" name="Electro">
+      <property name="Card Number" value="PNY-037" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="1" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Absolute Power. Main [Energy]: Wound an enemy supporting character with cost 3 or less."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Vulture">
+      <property name="Card Number" value="PNY-038" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="1" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Scavenger Mastermind. Build [Intellect]: Put an equipment from your KO pile into your hand."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Scorpion">
+      <property name="Card Number" value="PNY-039" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="3" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Sinister. When Scorpion enters melee combat, put a -1/-1 counter on each enemy character in the combat. Super Strength. Double all +1/+1 counters and ATK/DEF increases Scorpion would get in melee combat."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Shocker">
+      <property name="Card Number" value="PNY-040" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="2" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Aftershocker. Any Combat [Might]: After the combat resolves, put two +1/+1 counters on a character who was on your side in the combat, or put two -1/-1 counters on an enemy character who was in the combat."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Chameleon">
+      <property name="Card Number" value="PNY-041" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="3" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Knockout Darts. Main [Skill]: KO a wounded enemy supporting character. "/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Jackal">
+      <property name="Card Number" value="PNY-042" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="3" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Berserker. When the Jackal attacks, put a +1/+1 counter on him. Sinister. When Scorpion enters melee combat, put a -1/-1 counter on each enemy character in the combat."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Doctor Octopus">
+      <property name="Card Number" value="PNY-043" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="4" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Grab. While Doc Ock is in the front row, enemy characters can't fly over him. Figure Out Anything. Build or Main [Intellect]: Doc Ock uses a printed Build or Main super power, respectively, with 1 power symbol cost on another supporting character for free."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Green Goblin">
+      <property name="Card Number" value="PNY-044" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="4" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="2" />
+      <property name="Flight" value="1" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Sinister. When Green Goblin enters melee combat, put a -1/-1 counter on each enemy character in the combat. Sinisteriest. If an enemy character would gain any number of -1/-1 counters, it gains that many plus one instead."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Lizard">
+      <property name="Card Number" value="PNY-045" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="4" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Climb. At the start of your Main Phase, you may exhaust a location on your side. If you do, put a +1/+1 counter on Lizard. Ferocious. While in melee combat, the Lizard strokes before characters without Ferocious. Lethal. If the Lizard wounds a defending supporting character, KO it."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Rhino">
+      <property name="Card Number" value="PNY-046" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="5" />
+      <property name="ATK" value="5" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="Super Strength. Double all +1/+1 counters and ATK/DEF increases Rhino would get in melee combat. Here's the Horn! Combat [Might]: Double Rhino's current ATK this combat." />
+      <property name="Rules" value=""/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Kraven the Hunter">
+      <property name="Card Number" value="PNY-047" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="5" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="1" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Preparation Potion. Kraven appears with three +1/+1 counters. Hunter. Kraven has +3/+0 while attacking."/>
+      <property name="Health" value="2" />
+  </card>
+  <card id="" name="Mister Negative">
+      <property name="Card Number" value="PNY-048" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="6" />
+      <property name="ATK" value="7" />
+      <property name="DEF" value="8" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Improved Darkforce Generation. At the start and end of your turn, put a -1/-1 counter on a character. Corrupting Touch. Main [Energy]. Stun an enemy character that has a -1/-1 counter."/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Mysterio">
+      <property name="Card Number" value="PNY-049" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="6" />
+      <property name="DEF" value="12" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Stealth. Mysterio can melee attack protected characters. Messing with Minds. Choose an enemy front or back row. Until your next turn, while a character is in that row it loses its printed keyword powers. "/>
+      <property name="Health" value="1" />
+  </card>
+  <card id="" name="Sandman">
+      <property name="Card Number" value="PNY-050" />
+      <property name="Type" value="Supporting Character" />
+      <property name="Cost" value="7" />
+      <property name="ATK" value="9" />
+      <property name="DEF" value="9" />
+      <property name="Flight" value="0" />
+      <property name="Range" value="0" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Super Sand Strength. Quadruple all +1/+1 counters and ATK/DEF increases Sandman would get in melee combat."/>
+      <property name="Health" value="3" />
+  </card>
+  <card id="" name="Sinister Syndicate">
+      <property name="Card Number" value="PNY-051" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Any Turn] Combat: Choose a [Sinister Syndicate] character on your side in the combat to strike an enemy character in the combat."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Stay Aggressive">
+      <property name="Card Number" value="PNY-052" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Any Turn] Combat; Choose a character on your side in the combat with ATK higher than its DEF. Put a +1/+1 counter on it and draw a card."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Better Sorry Than Safe">
+      <property name="Card Number" value="PNY-053" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Any Turn] Combat: Choose a character on your side in the combat. Convert any amount of its DEF into ATK this combat."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Hallucinogenic Gas">
+      <property name="Card Number" value="PNY-054" />
+      <property name="Type" value="Equipment" />
+      <property name="Cost" value="1" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="One of a Kind. You may only have one of this card in your deck. Lose Your Way. Equip only to an unequipped enemy character. Equipped character loses and can't gain keyword powers. When equipped character gets stunned, this card's owner may equip it to an unequipped enemy character."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Sinister Station">
+      <property name="Card Number" value="PNY-055" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Sinister Syndicate] Starting Main Character Required. One of a Kind. Nowhere is Safe. At the start of your turn, you may turn this location face down. If you do, turn up to two enemy locations face down."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Oscorp">
+      <property name="Card Number" value="PNY-056" />
+      <property name="Type" value="Special Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Evil" />	
+      <property name="Teams" value="Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Energy] or [Intellect] or [Might] or [Skill] for a [Sinister Syndicate] character."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="The Word On The Streets">
+      <property name="Card Number" value="PNY-057" />
+      <property name="Type" value="Plot Twist" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Good,Evil" />	
+      <property name="Teams" value="Defenders, Underworld, Spider-Friends, Sinister Syndicate" />
+      <property name="Format" value="" />
+      <property name="Rules" value="Loyalty to the Streets. Put this in your deck only if each card with a team and each character in your deck is [Defenders], [Underworld], [Spider-Friends], and/or [Sinister Syndicate]."/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Academy">
+      <property name="Card Number" value="PNY-058" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Intellect]"/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Fortress">
+      <property name="Card Number" value="PNY-059" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Might]"/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Laboratory">
+      <property name="Card Number" value="PNY-060" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Energy]"/>
+      <property name="Health" value="" />
+  </card>
+  <card id="" name="Training Ground">
+      <property name="Card Number" value="PNY-061" />
+      <property name="Type" value="Basic Location" />
+      <property name="Cost" value="" />
+      <property name="ATK" value="" />
+      <property name="DEF" value="" />
+      <property name="Flight" value="" />
+      <property name="Range" value="" />
+      <property name="Good Evil Neutral" value="Neutral" />	
+      <property name="Teams" value="" />
+      <property name="Format" value="" />
+      <property name="Rules" value="[Skill]"/>
+      <property name="Health" value="" />
+  </card>
+</cards>
+</set>
