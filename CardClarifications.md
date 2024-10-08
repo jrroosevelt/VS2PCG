@@ -7334,6 +7334,11 @@ If somehow this power gets copied onto another character, it is still checking w
 
 ^(Source: Rule insert)
 
+**Additional clarification:**
+Upper Deck clarified that the Identity Pile can only contain supporting characters.
+
+^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/1288943018186899496)
+
 
 # [Spider-Man Noir](http://vs.tcgbrowser.com/images/cards/big/CV2-006.jpg)
 ^CardNumber: ^CV2-006

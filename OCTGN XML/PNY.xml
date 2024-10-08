@@ -41,7 +41,7 @@
       <property name="Good Evil Neutral" value="Good" />	
       <property name="Teams" value="Spider-Friends" />
       <property name="Format" value="" />
-      <property name="Rules" value="AKA Scarlet Spider. Who's Who? You start the game with an Identity pile. Cloning Around. At the start of your Build PHase, you may choose a character in your Identity pile you haven't chosen this game. ***Spider-Man*** gains that character's printed powers until the start of your next Build Phase. Class Clone. Level Up [3] - When you choose a character with Cloning Around this game, ***Spider-Man*** gains 1 XP."/>
+      <property name="Rules" value="AKA Scarlet Spider. Who's Who? You start the game with an Identity pile. Cloning Around. At the start of your Build Phase, you may choose a character in your Identity pile you haven't chosen this game. ***Spider-Man*** gains that character's printed powers until the start of your next Build Phase. Class Clone. Level Up [3] - When you choose a character with Cloning Around this game, ***Spider-Man*** gains 1 XP."/>
       <property name="Health" value="5" />
   </card>
   <card id="" name="***Spider-Man***">
@@ -587,7 +587,7 @@
       <property name="Good Evil Neutral" value="Evil" />	
       <property name="Teams" value="Sinister Syndicate" />
       <property name="Format" value="" />
-      <property name="Rules" value="Berserker. When the Jackal attacks, put a +1/+1 counter on him. Sinister. When Scorpion enters melee combat, put a -1/-1 counter on each enemy character in the combat."/>
+      <property name="Rules" value="Berserker. When the Jackal attacks, put a +1/+1 counter on him. Sinister. When Jackal enters melee combat, put a -1/-1 counter on each enemy character in the combat."/>
       <property name="Health" value="2" />
   </card>
   <card id="" name="Doctor Octopus">
