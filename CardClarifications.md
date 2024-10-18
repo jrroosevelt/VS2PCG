@@ -5358,6 +5358,21 @@ Plot twists without team affiliations can be played  regardless of the team affi
 
 ^(Source: Rule insert)
 
+---
+
+Q: Some plot twists require multiple characters in play to be able to play the plot twist. For example, "Fantastic!", "Frightful!", and the new "The Word on the Streets". 
+
+Some abilities remove team affiliations from plot twists, like the 2-cost Mysterio.
+
+If one of these plot twists loses its team affiliations, does that mean it can be played even if the number of characters requirement isn't met? Or, are the "number of characters" and "team affiliation" requirements separate/independent?
+
+In other words, if I have just my main character and 2-cost Mysterio in play, could I play "The Word on the Streets"? Or would I still need have to have 4 characters in play, regardless of their team affiliations?
+
+A: If a Plot Twist loses its affiliations, you can play it regardless of how many characters you have on your side.
+In the example, yes you could play The Word on the Streets with just your main character and 2-cost Mysterio on your side.
+
+^Source: [^Discord ^Post](https://discord.com/channels/306874195051020288/768614566594478080/1294392689911140445)
+
 # Mystique
 ## [Mystique](http://vs.tcgbrowser.com/images/cards/big/LEG-067.jpg) (MC - Femme Fatale)
 ^CardNumber: ^AFF-033, ^LEG-066, ^LEG-067
@@ -8011,7 +8026,13 @@ Keep in mind, characters from different Universes don't count as having the same
 
 ---
 
-Q: I know that cards with the same name across universes do not count as being the same for purposes of power-up and uniqueness. However
+Q: I know that cards with the same name across universes do not count as being the same for purposes of power-ups and uniqueness. However, do they cross for the purposes of powers that name a card?
+
+For example, Sharon Carter (Photo/MCU) references "Madripoor locations" in her power. Does this apply to both Photo and Illustrated Madripoor locations if applicable?
+
+A: Yes. Powers that reference a specific name or powers that require you to name a card do cross IPs and universes.
+
+^Source: [^Blog ^Post](https://www.upperdeckblog.com/2021/08/vs-system-2pcg-rules-update-august-2021/)
 
 ## [Uatu (SC)](http://vs.tcgbrowser.com/images/cards/big/FAN-022.jpg)
 ^CardNumber: ^FAN-022
