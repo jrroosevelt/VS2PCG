@@ -3321,6 +3321,13 @@ A: Per a 2019 rules update, cards that try to appear but can't are removed from 
 
 ^Source: [^UDE ^Message](https://discord.com/channels/488058478015807499/490215795503398912/869655335080718357)
 
+# Hunter-Spider
+^CardNumber: ^CV6-007, ^CV6-008
+
+*Set: Crossover Vol. 6*  
+A character with an animal in its name includes just an animal by itself (e.g., Vulture), accepted nicknames of animals, (e.g. Rhino), hyphenated names that include an animal (e.g. Spider-Man), and career-minded animals (e.g., Doctor Octopus). It does **not** include characteristics of animals (e.g., Venom). And for the purposes of Hunter-Spider, "Man" does **not** count as an animal.
+
+^(Source: Rule insert)
 
 # [Hybrid](http://vs.tcgbrowser.com/images/cards/big/LET-016.jpg)
 ^CardNumber: ^LET-016
@@ -6783,6 +6790,15 @@ A: No. **Anchor Host** isn't granted to the host as a keyword power, per se. It 
 
 ^Source: [^Facebook ^Post](https://www.facebook.com/groups/860168987351982/posts/2105915162777352/)
 
+# Shathra
+^CardNumber: ^CV6-009, ^CV6-010, ^CV6-011, ^CV6-012
+
+*Set: Crossover Vol. 6*  
+
+This Issue includes four Wasp-Totem token cards. If you need to put more than four Wasp-Totem tokens into play, use other objects to represent the extras. Some ideas are: slips of paper, slips of paper with "Wasp-Totem token" written on them, pennies, beads, dead wasps, live wasps (as long as they're super chill), and paper clips.
+
+^(Source: Rule insert)
+
 
 # [She-Hulk](http://vs.tcgbrowser.com/images/cards/big/aff-003.jpg) (MC)
 ^CardNumber: ^AFF-003, ^AFF-004, ^LEG-057, ^LEG-058
@@ -7188,9 +7204,9 @@ With her **Acoustikinesis**, if she chooses **Sonic Platform**, the effect will 
 ^(Source: Rule Insert)
 
 # [SP//dr](http://vs.tcgbrowser.com/images/cards/big/CV2-007.jpg)
-^CardNumber: ^CV2-007
+^CardNumber: ^CV2-007, CV6-016
 
-*Set: Crossover Vol. 2*
+*Set: Crossover Vol. 2, Crossover Vol. 6*
 
 Even though its name is spelled differently it still counts as being "Spider" for the purpose of powers that reference the word "Spider", such as \* Spider-Man \*' s **Spider-People**. It's just how they spell in the future!
 
@@ -7236,6 +7252,15 @@ A: A face-down card in a resource row is just a resource. The resource row is hi
 
 **Dimensional Wristwatch**  
 Spider-Gwen can be recruited while she’s in your deck. To do so, announce that you’re recruiting her, then search your deck for her, shuffle your deck, and then pay to recruit her. (Note: You may only announce that you are recruiting her if she actually is in your deck.)
+
+^(Source: Rule insert)
+
+# Spider-Idol (andthe Web of Life and Destiny)
+^CardNumber: ^CV6-030, ^CV6-031
+
+*Set: Crossover Vol. 6*  
+
+
 
 ^(Source: Rule insert)
 
@@ -7306,7 +7331,8 @@ Note: **Update** counters aren't removed from Spidey when he gets turned face do
 
 ^(Source: Rule insert)
 
-# \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) \*
+#\*Spider-Man\*
+## \* [Spider-Man](http://vs.tcgbrowser.com/images/cards/big/CV2-001.jpg) (MC - CV2) \*
 ^CardNumber: ^CV2-001, ^CV2-002
 
 *Set: Crossover Vol. 2*  
@@ -7314,6 +7340,31 @@ Note: **Update** counters aren't removed from Spidey when he gets turned face do
 Miles Morales doesn't technically have the **Spider-Verse** keyword, but he likes to hang out with his multiversal friends. \* Spider Man \*'s **Citizen of the Multiverse** means your deck may include up to four different **Spider-Verse** Main Characters. 
 
 These characters **do** count toward your total of 60 cards in your deck. If * Spider-Man * gets KO'd, you're not out of the game if you have at least one of your other Main Characters on your side.
+
+^(Source: Rule insert)
+
+---
+
+**Wording Update:** There is also a \*Spider-Man\* from back in Crossover Volume 2. While he doesn't have **Spider-Verse** himself, his **Citizen of the Multiverse** power lets you include **Spider-Verse** characters in your deck. This power now has a wording update to read:
+
+>You may include up to four different **Spider-Verse** characters not named \*Spider-Man\* in your deck.
+
+(In other words, you can't include the new \*Spider-Man\* main character in the old \*Spider-Man\*'s deck.)
+
+^(Source: Crossover Vol. 6 Rule insert)
+
+## Spider-Man (MC - CV6)
+^CardNumber: ^CV6-001, ^CV6-002
+
+*Set: Crossover Vol. 6*  
+
+If the Crossover 6 \*Spider-Man\* is your starting Main Character or starts the game in your deck you get to bring an Edge pile to the game which includes up to one copy of every **Spider-Verse** Main Character other than \*Spider-Man\* and other than the other **Spider-Verse** characters that started in your deck. The pile is Variable (you choose which **Spider-Verse** characters to include) and Public (any player can look at it during the game).
+
+**Wording Update:** There is also a \*Spider-Man\* from back in Crossover Volume 2. While he doesn't have **Spider-Verse** himself, his **Citizen of the Multiverse** power lets you include **Spider-Verse** characters in your deck. This power now has a wording update to read:
+
+>You may include up to four different **Spider-Verse** characters not named \*Spider-Man\* in your deck.
+
+(In other words, you can't include the new \*Spider-Man\* main character in the old \*Spider-Man\*'s deck.)
 
 ^(Source: Rule insert)
 
@@ -7379,6 +7430,14 @@ Note: Spider-UK can be powered up by any character with "Spider" in their name, 
 
 ^(Source: Rule insert)
 
+# \*Spider-UK\*
+^CardNumber: ^CV6-003
+
+*Set: Crossover Vol. 6*  
+A **Static Electricity** counter is unique to \*Spider-UK\*. ou can use an object to represent these counters. Some ideas are: XP counters, pennies, beads, slips of paper with static electricity drawn on them, buttons, and dead wasps.
+
+^(Source: Rule insert)
+
 # Spider-Woman (MC - Protectors of New York)
 ^CardNumber: ^PNY-007, ^PNY-008
 
@@ -7389,6 +7448,19 @@ If Spider-Woman gains ATK and DEF at the same time (for example by getting power
 **Venom Punch** lets you choose between putting a +1/+1 counter on her or giving her +2/+2 for the duration of the combat.
 
 ^(Source: Rule insert)
+
+# Spider-Zero
+^CardNumber: ^CV6-006
+
+*Set: Crossover Vol. 6*  
+You can use **Multiverse Nomad** any time you would search your deck for any reason. However, this effect replaces the original effect that caused you to search your deck. For example, the plot twist Search the Spider-Verse lets you search your deck for a supporting character and put it on top of your deck. If you choose to find Spider-Zero instead, you don't get to find a supporting character. BUT you get to put Spider-Zero into your hand.
+
+**Note:** Search the Spider-Verse lets you search your deck for a card with "Spider" in its name (including Spider-Zero) and put it on top of your deck. But if you find Spider-Zero instead, you get to put her **into your hand**.
+
+**Protector of the Great Web** sets each Attacker's ATK to 0, but they can gain ATK through other effects later in the combat.
+
+^(Source: Rule insert)
+
 
 # [Squirrel Girl](http://vs.tcgbrowser.com/images/cards/big/LEG-060.jpg)
 ^CardNumber: ^LEG-060
@@ -7664,6 +7736,17 @@ Supreme Leader MC is worded in a way that may make veterans of other card games 
 **You're Me** This power refers to a character with "Loki" in its name. This includes original Loki, his variant \*Loki\*, and other variants such as Classic Loki.
 
 ^(Source: Rule Insert)
+
+# Syllie Spider
+^CardNumber: ^CV6-019
+
+*Set: Crossover Vol. 6*  
+
+You can use **Breaking News** to put Syllie Spider from your side, in your hand, in your KO pile, or in your resource row to any of those places. For example, you could use it to put him from your hand to face down in your resource row. Then after that you could use it again to put him from your resource row onto your side. 
+
+If you put him from your hand into your resource row, reveal him to the other players first.
+
+^(Source: Rule insert)
 
 # [The Syndicate](http://vs.tcgbrowser.com/images/cards/big/XFB-042.jpg)
 ^CardNumber: ^XFB-042
@@ -8295,6 +8378,24 @@ Opponents must KO Wanda and any \*Vision\* Main Character on your side to defeat
 *Set: Maximum Carnage*  
 
 Yes, this Plot Twist can be used to heal a wound from a Main Character!
+
+^(Source: Rule insert)
+
+# Web of Life and Destiny
+*Set: Crossover Vol. 6*  
+
+See Spider-Idol.
+
+# Web-Slinger
+^CardNumber: ^CV6-023
+
+*Set: Crossover Vol. 6*  
+
+Web-Slinger can have up to two "loaded six-shooters." Once both six-shooters are **loaded**, ignore any effects that would **load** them. However, once he fires a six-shooter it becomes unloaded an can now be **loaded** again. 
+
+You can use an object to represent a **loaded** six-shooter. Some ideas are: XP counters, pennies, beads, paper clips, buttons, or slips of paper with dead wasps drawn on them.
+
+When hefires a **loaded** six-shooter, you put six -1/-1 counters, divided how you choose, onto any characters in the defender's row (including the defender).
 
 ^(Source: Rule insert)
 
